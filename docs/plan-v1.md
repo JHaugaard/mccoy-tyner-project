@@ -3,7 +3,7 @@
 **Project:** Canonical Jazz Albums (Cool Jazz → Hard Bop → Modal Jazz)  
 **Directory:** `~/dev/active/mccoy-tyner/`  
 **Approach:** Deliberate, no one-shotting. Research-first, data model emerges from findings.  
-**Orchestration:** Hermes (research, planning, architecture) → Coding model (TBD — chosen at Phase 5) for implementation and agent orchestration  
+**Orchestration:** Hermes (research, planning, architecture) → Coding model (TBD — chosen at Phase 4) for implementation and agent orchestration  
 **Research Tool:** *research-compiler* skill for source-grounded compilation
 
 ---
@@ -50,7 +50,7 @@
 4. **John's evaluative sort** — John listens, reads, applies taste at the margins.
    - No quotas per phase
    - No hard category boundaries
-   - Post-be-bop, pre-Fusion, no Free Jazz
+   - Post-bebop, pre-Fusion, no Free Jazz
 
 **Deliverables:**
 - `research/source-<name>-compile.md` (per source)
@@ -59,87 +59,65 @@
 
 **Parallel opportunities:** Multiple source compiles can run simultaneously via:
 - Hermes `delegate_task` subagents (up to 3 concurrent)
-- Coding model agent swarm (if available and configured at Phase 5)
+- Coding model agent swarm (if available and configured at Phase 4)
 - Hermes `researcher` profile for background compiles
 
 **Gate:** John reviews canon-draft.json, confirms or adjusts the ~100.
 
 ---
 
-## Phase 2: Primary Musicians & Production Personnel
+## Phase 2: Personnel & Track Data
 
-**Goal:** Extract key personnel per album.
+**Goal:** Extract full personnel, production credits, and track-level assignments per album in a single deep research pass.
 
 **Approach:**
-1. **Primary musicians** — For each album, identify:
-   - Core ensemble (e.g., Kind of Blue quintet)
-   - One-track/session contributors (e.g., Jimmy Cobb on one track)
-   - Instrument per musician
+1. **Four-layer extraction** — For each album, build up from the base:
+   - Layer 1: Core ensemble (instruments, `scope: all-tracks`) + production credits (engineer, producer, studio, recording dates)
+   - Layer 2: Session contributors — musicians appearing on some but not all tracks (`scope: selected-tracks`)
+   - Layer 3: Track-level assignments — when liner notes or sessionographies list personnel per track
+   - Layer 4: Per-session recording dates — for multi-session albums, which tracks belong to each date
 
-2. **Production personnel** — Identify:
-   - Engineer (e.g., Rudy Van Gelder)
-   - Producer
-   - Recording studio
-   - Label
+2. **Source strategy** —
+   - AllMusic (Credits tab)
+   - Wikipedia album articles (Personnel section)
+   - Tom Lord's Jazz Discography (session-level authority)
+   - JazzDiscography.com
+   - Liner notes (digitized via Google Books, archive.org, label reissue pages)
+   - Recording label discographies (Blue Note, Prestige, Impulse!, Columbia, Verve, ECM)
 
-3. **Source strategy** —
-   - AllMusic discographies
-   - Liner notes (where digitized)
-   - Wikipedia album pages
-   - Dedicated jazz databases (JazzDiscography, etc.)
+3. **Agent architecture** — 10 parallel agents, ~10 albums each, shared brief and schema. No style specialization needed; the task is identical per album. Instrument names and musician name forms follow a controlled vocabulary defined in `research/personnel-schema.md` so records are consistent across all agents.
+
+**Note:** Track-level personnel (originally planned as a separate Phase 3) is captured here opportunistically in the same pass. When sources provide track assignments, they are recorded. `track_assignments_complete` flags what the data platform can trust.
 
 **Deliverables:**
-- `data/personnel-draft.json` (album → primary musicians + production)
-- `research/personnel-sources-compile.md` (source evaluation)
+- `research/personnel-batch-NN.md` (one per agent, 10 total)
+- `research/personnel-sources-compile.md` (source evaluation notes)
+- `data/personnel-draft.json` (merged from agent outputs — album → personnel + tracks)
 
 **Parallel opportunities:**
-- Album personnel can be extracted in batches by decade or by label
-- Delegate to subagents per batch
+- All 10 agents run concurrently; each works independently with no cross-album dependencies
+- Batching strategy: ~10 albums per agent, assigned at dispatch from `data/canon-draft.json`
 
-**Gate:** John spot-checks 5–10 albums for accuracy.
-
----
-
-## Phase 3: Personnel by Track
-
-**Goal:** Track-level musician assignment.
-
-**Approach:**
-1. For each album, map which musicians played on which tracks
-2. Handle edge cases:
-   - Alternate takes
-   - Bonus tracks
-   - Compilations vs. original sessions
-
-3. Data validation:
-   - Cross-reference with sessionographies where available
-   - Flag uncertain assignments
-
-**Deliverable:**
-- `data/track-personnel.json` (album → track → [musicians])
-
-**Note:** This is the most granular and potentially most error-prone phase. May need iterative refinement.
-
-**Gate:** John confirms data model supports the exploration he wants.
+**Gate:** John spot-checks 5–10 albums for accuracy before data platform work begins.
 
 ---
 
-## Phase 4: Data Model & Schema Design
+## Phase 3: Data Model & Schema Design
 
 **Goal:** Lock the data structure before building the app.
 
 **Approach:**
-1. Review Phases 1–3 data shapes
+1. Review Phase 1–2 data shapes
 2. Design schema:
    - Album entity
    - Musician entity (with instrument taxonomy)
    - Track entity
-   - Production entity
-   - Relationships (played_on, produced, engineered, etc.)
+   - Production entity (session, studio, engineer, producer)
+   - Relationships (played_on, produced, engineered, recorded_at, etc.)
 
 3. Normalize vs. denormalize decision:
-   - Query pattern: Album → Track → Personnel
-   - Also: Musician → Albums → Tracks
+   - Query patterns: Album → Track → Personnel; Musician → Albums → Tracks; Engineer → Sessions → Albums
+   - Timeline queries: Musician × Date (e.g., Philly Joe Jones recording schedule across the canon)
    - JSON flat files vs. SQLite vs. Postgres
 
 4. Migration path:
@@ -154,7 +132,7 @@
 
 ---
 
-## Phase 5: Web App — Architecture & Stack
+## Phase 4: Web App — Architecture & Stack
 
 **Goal:** Design the interactive exploration layer.
 
@@ -164,6 +142,7 @@
    - View album → tracks → personnel
    - View musician → albums → tracks
    - Search across all fields
+   - Timeline view: musician activity across the canon
 2. **Stack selection** — Options to evaluate:
    - Static site (11ty, Astro) + client-side JS
    - Lightweight framework (Flask, FastAPI) + templates
@@ -178,7 +157,7 @@
 
 ---
 
-## Phase 6: Web App — Implementation
+## Phase 5: Web App — Implementation
 
 **Goal:** Build the interactive exploration app.
 
@@ -187,11 +166,10 @@
    - Hermes: spec, review, test
    - Coding model: generate, iterate
 
-2. Agent swarm opportunities (if supported by chosen coding model at Phase 5):
-   - Research (list compilation; track personnel)
+2. Agent swarm opportunities (if supported by chosen coding model at Phase 4):
    - Parallel component development
    - Separate agents for frontend, backend, data ingestion
-   
+
 3. Testing:
    - Data integrity checks
    - UI/UX validation
@@ -205,7 +183,7 @@
 
 ---
 
-## Phase 7: Deployment & Wrap
+## Phase 6: Deployment & Wrap
 
 **Goal:** Make the app accessible.
 
@@ -228,7 +206,7 @@
 ## Cross-Cutting Concerns
 
 ### Epistemic Discipline
-- Every research compile gets epistemic labels (direct observation / inference / uncertain)
+- Every research compile gets epistemic labels (obs / inf / unk)
 - Personnel data flagged when source-conflicted
 - John reviews before any data becomes "canonical"
 
@@ -236,14 +214,14 @@
 
 Alert John when parallel work is possible:
 - Multiple source compiles (Phase 1)
-- Batch personnel extraction (Phase 2)
-- Component development (Phase 6)
+- Batch personnel extraction (Phase 2) — 10 concurrent agents
+- Component development (Phase 5)
 
 ### Data Integrity
 - Source URLs preserved for every claim
 - Versioned data files (git-tracked)
-### John's Learning Goals
 
+### John's Learning Goals
 - Experience chosen coding model as implementation partner
 - Build first web app with these characteristics
 - Deepen jazz knowledge (listening + reading)
@@ -253,12 +231,13 @@ Alert John when parallel work is possible:
 ## Open Questions (for future planning)
 
 1. Should we ingest final data into Postgres (for query flexibility) or keep as JSON (for simplicity)?
-3. Should the app be public-facing or private (vps2 only)?
-4. Do we want Apple Music / Spotify embeds?
-5. Timeline visualization — static or interactive?
+2. Should the app be public-facing or private (vps2 only)?
+3. Do we want Apple Music / Spotify embeds?
+4. Timeline visualization — static or interactive?
 
 ---
 
-*Plan version: 1.0*  
-*Date: 2026-05-19*  
-*Next step: John reviews, adjusts, approves Phase 0 start*
+*Plan version: 1.1*  
+*Updated: 2026-06-09*  
+*Changes from v1.0: Phase 3 (Personnel by Track) folded into Phase 2 (single deep research pass). Phases 4–7 renumbered to 3–6. Phase 3 schema note and timeline query use case added.*  
+*Next step: Phase 1 dispatch — three specialist agents ready in `research/agent-briefs/`*
