@@ -53,7 +53,22 @@ Write your output to: `research/cool-jazz-candidates.md`
 Follow `research/candidate-schema.md` exactly:
 1. Source map table at the top (minimum 4 sources)
 2. One JSON block per candidate album
-3. Synthesis notes at the end (consensus picks, single-source picks, scope calls, gaps)
+3. Synthesis notes at the end (see below)
+
+### Priority Field
+
+Every candidate record must include a `priority` field — your own confidence signal, independent of source count:
+
+- `must_have` — you consider this non-negotiable for the Cool Jazz / West Coast Jazz canon; you would advocate for it if John cut it
+- `strong` — clearly belongs; well-sourced and artistically significant
+- `consider` — worth including; lighter evidence or more marginal contribution
+
+Be honest. Aim for roughly 6–10 `must_have`, 12–18 `strong`, and the rest `consider`. Cool Jazz has a narrower canon — the must-haves should be genuinely elite.
+
+### Synthesis Notes
+
+The synthesis notes section must include all six subsections from the schema:
+**Must-Haves** (your top 5–8, with one sentence each on why), **Hidden Gems** (under-cited but strong), **Consensus Picks** (3+ sources), **Single-Source Picks**, **Scope Calls**, and **Gaps Noticed**.
 
 For `style_primary` use `cool-jazz` for the majority. Use `cool-jazz` for West Coast Jazz as well (it is a subgenre, not a separate primary style). Use `style_tags` to add `"west-coast"` when the album is specifically a West Coast recording.
 

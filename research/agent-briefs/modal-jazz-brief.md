@@ -59,7 +59,22 @@ Write your output to: `research/modal-jazz-candidates.md`
 Follow `research/candidate-schema.md` exactly:
 1. Source map table at the top (minimum 4 sources)
 2. One JSON block per candidate album
-3. Synthesis notes at the end (consensus picks, single-source picks, scope calls, gaps)
+3. Synthesis notes at the end (see below)
+
+### Priority Field
+
+Every candidate record must include a `priority` field — your own confidence signal, independent of source count:
+
+- `must_have` — you consider this non-negotiable for the Modal Jazz / Post-Bop canon; you would advocate for it if John cut it
+- `strong` — clearly belongs; well-sourced and artistically significant
+- `consider` — worth including; lighter evidence or more marginal contribution
+
+Be honest. Modal Jazz has the deepest canon — be selective with `must_have`. Aim for roughly 10–15 `must_have`, 20–30 `strong`, and the rest `consider`.
+
+### Synthesis Notes
+
+The synthesis notes section must include all six subsections from the schema:
+**Must-Haves** (your top 5–8, with one sentence each on why), **Hidden Gems** (under-cited but strong), **Consensus Picks** (3+ sources), **Single-Source Picks**, **Scope Calls**, and **Gaps Noticed**.
 
 For `style_primary`:
 - Use `modal-jazz` for albums clearly in the modal tradition

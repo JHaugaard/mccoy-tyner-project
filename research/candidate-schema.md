@@ -39,6 +39,7 @@ One JSON block per album, using this exact structure:
   "sources": ["S1", "S2"],
   "epistemic": "obs",
   "rationale": "obs[S1]: Penguin Guide 4-star core collection. obs[S2]: DownBeat poll top-ranked. inf: universally recognized as defining modal jazz.",
+  "priority": "must_have",
   "overlap_risk": "",
   "scope_flag": "",
   "include": null
@@ -59,6 +60,7 @@ One JSON block per album, using this exact structure:
 | `sources` | array | Source IDs from the file's source map. At least one required. |
 | `epistemic` | string | `obs` if any source directly names the album; `inf` if reasoned from pattern; `unk` if single-source or uncertain. |
 | `rationale` | string | Lead with `obs[ID]:` claims, then `inf:`, then `unk:`. Cite source IDs inline. |
+| `priority` | string | Agent's own confidence signal. One of: `must_have` (non-negotiable; agent would advocate for this if cut) \| `strong` (clearly belongs, well-sourced) \| `consider` (worth including, lighter evidence or more marginal). |
 | `overlap_risk` | string | Empty string if none. Otherwise name the overlapping style (e.g., `"hard-bop/soul-jazz border"`). |
 | `scope_flag` | string | Empty string if clearly in scope. Otherwise state the concern (e.g., `"may be too bebop"`, `"1970 — check fusion proximity"`). |
 | `include` | null | Always `null` from agents. John sets `true` or `false` at review. |
@@ -71,6 +73,14 @@ After all candidate records, append this section:
 
 ```markdown
 ## Synthesis Notes
+
+### Must-Haves
+The agent's own top 5–8 non-negotiables — albums it considers essential to this style's canon regardless of source count. These are the records the agent would advocate for most strongly if they were cut. One sentence per album explaining why.
+[List here]
+
+### Hidden Gems
+Under-cited albums the agent considers underrated by the canonical lists — strong artistic merit, lighter consensus. These are the records John may not already know. One sentence per album.
+[List here]
 
 ### Consensus Picks
 Albums appearing in 3+ sources. These are the high-confidence core of the list.
