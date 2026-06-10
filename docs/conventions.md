@@ -1,7 +1,7 @@
 # McCoy Tyner Project — Conventions
 
-**Version:** 1.0  
-**Date:** 2026-06-04
+**Version:** 1.1  
+**Date:** 2026-06-10 (orig. 2026-06-04)
 
 ---
 
@@ -35,7 +35,17 @@ mccoy-tyner/
 - **Default**: JSON — human-readable, git-diffable, no dependencies
 - **Encoding**: UTF-8
 - **Indentation**: 2 spaces
-- **Schema**: Documented in `docs/schema.md` (Phase 4); data files are authoritative until schema lock
+- **Schema**: Documented in `docs/schema.md` (Phase 3); data files are authoritative until schema lock
+
+## Database Target (Phase 4)
+
+- **Store**: Shared Postgres 16 on `vps8-core` (`127.0.0.1:5433`), project schema **`_jazzcanon`**
+  (decided 2026-06-10; schema created at Phase 4 `CREATE SCHEMA`, per database-conventions). Not a
+  standalone DB; not mixed into existing tables.
+- **Extensions in use**: `vector` (pgvector, semantic search), `pg_cron`.
+- **Naming**: `mccoy-tyner` is the working **codename**. Product name and DB namespace are deferred,
+  decision; `_jazzcanon` is the official namespace. The product name is still open.
+- **Roles** (Phase 4): `_jazzcanon_role` (app read/write), `_jazzcanon_ro` (read-only for app/agents).
 
 ---
 
@@ -120,15 +130,17 @@ Per `research-compiler` skill:
 
 ## Review Gates (Non-Negotiable)
 
+Gate numbering follows `plan-v1.md` v1.2.
+
 | Phase | Gate |
 |-------|------|
 | 0 | Conventions approved |
-| 1 | `canon-draft.json` ~100 albums confirmed |
+| 1 | Canon ballot reviewed; ~100 albums confirmed in `canon-draft.json` |
 | 2 | Personnel spot-check (5–10 albums) |
-| 3 | Track-personnel model supports exploration |
-| 4 | Schema supports album→track→personnel + musician→albums→tracks |
-| 5 | Architecture + UX approved before code |
-| 6 | App meets "fun, cool, informative" bar on vps2 |
+| 3 | Schema supports album→track→personnel + musician→albums→tracks + semantic search |
+| 4 | App architecture, stack, and UX approved before code |
+| 5 | App meets "fun, cool, informative" bar |
+| 6 | Deployed and documented |
 
 ---
 

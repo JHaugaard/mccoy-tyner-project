@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "purpose": "Worked example validating docs/schema.md against one fully-known album.",
+    "status": "Illustrative fixture, not canonical data. No Phase 1-2 data compiled yet.",
+    "date": "2026-06-10",
+    "conventions": {
+      "person_ref": "Persons are referenced by '_slug' within an album. The Phase 4 loader assigns uuid person.id during the identity-resolution pass; slugs are the human-readable stand-in.",
+      "instrument_ref": "Instruments referenced by their exact taxonomy 'name'.",
+      "source_ref": "Citations reference source by integer 'id' from the sources array.",
+      "track_ref": "selected-tracks performances reference tracks by 'title'.",
+      "session_ref": "performances reference sessions by 'sequence'."
+    }
+  },
+
+  "sources": [
+    { "id": 1, "title": "AllMusic — Kind of Blue (Credits)", "source_type": "web", "url": "https://www.allmusic.com/album/kind-of-blue", "notes": "Full credits tab" },
+    { "id": 2, "title": "Wikipedia — Kind of Blue", "source_type": "web", "url": "https://en.wikipedia.org/wiki/Kind_of_Blue", "notes": "Personnel + sessions" },
+    { "id": 3, "title": "Original Columbia liner notes (Bill Evans, 'Improvisation in Jazz')", "source_type": "liner-notes", "url": null, "notes": "1959 LP gatefold" }
+  ],
+
+  "labels": [
+    { "name": "Columbia", "name_slug": "columbia", "notes": "Original release label" }
+  ],
+
+  "studios": [
+    { "name": "Columbia 30th Street Studio", "city": "New York", "name_slug": "columbia-30th-street", "notes": "'The Church'" }
+  ],
+
+  "styles": [
+    { "code": "modal-jazz", "display_name": "Modal Jazz", "description": "Improvisation over static modes/scales rather than cycling chord changes." }
+  ],
+
+  "instruments": [
+    { "name": "trumpet", "family": "brass" },
+    { "name": "tenor saxophone", "family": "woodwinds" },
+    { "name": "alto saxophone", "family": "woodwinds" },
+    { "name": "piano", "family": "keyboards" },
+    { "name": "double bass", "family": "strings" },
+    { "name": "drums", "family": "percussion" }
+  ],
+
+  "persons": [
+    { "_slug": "miles-davis",       "canonical_name": "Miles Davis",       "sort_name": "Davis, Miles",        "name_slug": "miles-davis",       "name_variants": [], "notes": "Leader" },
+    { "_slug": "john-coltrane",     "canonical_name": "John Coltrane",     "sort_name": "Coltrane, John",      "name_slug": "john-coltrane",     "name_variants": [], "notes": "" },
+    { "_slug": "cannonball-adderley","canonical_name": "Cannonball Adderley","sort_name": "Adderley, Cannonball","name_slug": "cannonball-adderley","name_variants": ["Julian Adderley"], "notes": "Absent from 'Blue in Green'" },
+    { "_slug": "bill-evans",        "canonical_name": "Bill Evans",        "sort_name": "Evans, Bill",         "name_slug": "bill-evans",        "name_variants": ["William John Evans"], "notes": "On all tracks except 'Freddie Freeloader'" },
+    { "_slug": "wynton-kelly",      "canonical_name": "Wynton Kelly",      "sort_name": "Kelly, Wynton",       "name_slug": "wynton-kelly",      "name_variants": [], "notes": "Plays only on 'Freddie Freeloader'" },
+    { "_slug": "paul-chambers",     "canonical_name": "Paul Chambers",     "sort_name": "Chambers, Paul",      "name_slug": "paul-chambers",     "name_variants": [], "notes": "" },
+    { "_slug": "jimmy-cobb",        "canonical_name": "Jimmy Cobb",        "sort_name": "Cobb, Jimmy",         "name_slug": "jimmy-cobb",        "name_variants": [], "notes": "" },
+    { "_slug": "irving-townsend",   "canonical_name": "Irving Townsend",   "sort_name": "Townsend, Irving",    "name_slug": "irving-townsend",   "name_variants": [], "notes": "Producer (production credit only)" },
+    { "_slug": "fred-plaut",        "canonical_name": "Fred Plaut",        "sort_name": "Plaut, Fred",         "name_slug": "fred-plaut",        "name_variants": [], "notes": "Engineer (production credit only)" }
+  ],
+
+  "albums": [
+    {
+      "id": "miles-davis-kind-of-blue-1959",
+      "title": "Kind of Blue",
+      "artist_name": "Miles Davis",
+      "leader_person_ref": "miles-davis",
+      "year": 1959,
+      "label": "Columbia",
+      "style_primary": "modal-jazz",
+      "styles": [ { "code": "modal-jazz", "is_primary": true } ],
+      "recording_dates_text": "1959-03-02, 1959-04-22",
+      "multi_session": true,
+      "canon_status": "included",
+      "canon_tier": "consensus_core",
+      "priority": "must_have",
+      "inclusion_rationale": "obs[1][2]: universal critical consensus; defining modal-jazz statement.",
+      "epistemic": "obs",
+      "notes": "Two sessions. Session 1: So What, Freddie Freeloader, Blue in Green. Session 2: All Blues, Flamenco Sketches. Bill Evans replaced by Wynton Kelly on Freddie Freeloader only.",
+
+      "sessions": [
+        { "sequence": 1, "session_date": "1959-03-02", "studio": "Columbia 30th Street Studio", "epistemic": "obs" },
+        { "sequence": 2, "session_date": "1959-04-22", "studio": "Columbia 30th Street Studio", "epistemic": "obs" }
+      ],
+
+      "tracks": [
+        { "title": "So What",           "track_number": 1, "side": "A", "duration_text": "9:22", "session_ref": 1, "composers": ["miles-davis"], "epistemic_track": "obs" },
+        { "title": "Freddie Freeloader","track_number": 2, "side": "A", "duration_text": "9:46", "session_ref": 1, "composers": ["miles-davis"], "epistemic_track": "obs" },
+        { "title": "Blue in Green",     "track_number": 3, "side": "A", "duration_text": "5:37", "session_ref": 1, "composers": ["miles-davis", "bill-evans"], "epistemic_track": "obs", "composer_notes": "obs: Davis credited on release. inf: Bill Evans widely regarded as co-composer." },
+        { "title": "All Blues",         "track_number": 4, "side": "B", "duration_text": "11:33","session_ref": 2, "composers": ["miles-davis"], "epistemic_track": "obs" },
+        { "title": "Flamenco Sketches", "track_number": 5, "side": "B", "duration_text": "9:26", "session_ref": 2, "composers": ["miles-davis", "bill-evans"], "epistemic_track": "obs" }
+      ],
+
+      "performances": [
+        { "person_ref": "miles-davis",        "instrument": "trumpet",         "scope": "all-tracks",      "epistemic": "obs", "sessions": [1, 2] },
+        { "person_ref": "john-coltrane",      "instrument": "tenor saxophone", "scope": "all-tracks",      "epistemic": "obs", "sessions": [1, 2] },
+        { "person_ref": "cannonball-adderley","instrument": "alto saxophone",  "scope": "selected-tracks", "epistemic": "obs", "tracks": ["So What", "Freddie Freeloader", "All Blues", "Flamenco Sketches"], "sessions": [1, 2], "notes": "Not on 'Blue in Green'." },
+        { "person_ref": "bill-evans",         "instrument": "piano",           "scope": "selected-tracks", "epistemic": "obs", "tracks": ["So What", "Blue in Green", "All Blues", "Flamenco Sketches"], "sessions": [1, 2], "notes": "All tracks except 'Freddie Freeloader'." },
+        { "person_ref": "wynton-kelly",       "instrument": "piano",           "scope": "selected-tracks", "epistemic": "obs", "tracks": ["Freddie Freeloader"], "sessions": [1], "notes": "Only track he plays." },
+        { "person_ref": "paul-chambers",      "instrument": "double bass",     "scope": "all-tracks",      "epistemic": "obs", "sessions": [1, 2] },
+        { "person_ref": "jimmy-cobb",         "instrument": "drums",           "scope": "all-tracks",      "epistemic": "obs", "sessions": [1, 2] }
+      ],
+
+      "production_credits": [
+        { "person_ref": "irving-townsend", "role": "producer", "session_ref": null, "epistemic": "obs" },
+        { "person_ref": "fred-plaut",      "role": "engineer", "session_ref": null, "epistemic": "obs" }
+      ],
+
+      "citations": [
+        { "source_id": 1, "fact": "album",       "ref": "miles-davis-kind-of-blue-1959", "locator": "Credits tab" },
+        { "source_id": 2, "fact": "album",       "ref": "miles-davis-kind-of-blue-1959", "locator": "Personnel section" },
+        { "source_id": 3, "fact": "track",       "ref": "Flamenco Sketches", "locator": "Evans liner note describes the modal scales" },
+        { "source_id": 1, "fact": "performance", "ref": "wynton-kelly/piano", "locator": "Credited on Freddie Freeloader" }
+      ]
+    }
+  ]
+}

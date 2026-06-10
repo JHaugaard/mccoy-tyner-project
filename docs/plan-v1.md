@@ -8,6 +8,27 @@
 
 ---
 
+## Foundation Decisions (locked 2026-06-10)
+
+Settled during the data-platforming session, before any agent launched or album selected:
+
+- **Storage target:** Shared Postgres 16 on `vps8-core` (native, `127.0.0.1:5433`). The project gets
+  its own **schema** — not its own database, not mixed into existing tables. `DROP SCHEMA ... CASCADE`
+  is the clean kill switch. Third-party apps (Honcho, memory_persistence) own databases; John's
+  projects own schemas (the `_foundry` pattern). pgvector 0.8.2 and pg_cron already installed.
+- **Namespace:** `_jazzcanon` — **decided 2026-06-10** (John's call). The schema is *created* at
+  Phase 4 (`CREATE SCHEMA`); nothing was bound through Phase 3, so choosing the name now cost nothing.
+  The *product* name remains open — `mccoy-tyner` stays the working codename for as long as John likes.
+- **Data lifecycle:** JSON draft files through Phase 1–2; relational schema designed in Phase 3;
+  schema *applied* in Phase 4. Postgres is authoritative store **and** semantic-search lab.
+- **Semantic search (two engines):** (1) **pgvector** over composed per-album / per-musician "search
+  documents" for similarity & discovery; (2) **relational/recursive** for networks (six-degrees,
+  sideman co-occurrence, timelines) — graph traversal, not embeddings. The ~100-album corpus is tiny,
+  so a build step can export a static bundle (JSON + precomputed neighbors) for a simple static app;
+  only free-text NL search needs a live backend (decide at Phase 4).
+
+---
+
 ## Phase 0: Infrastructure & Conventions
 
 **Goal:** Establish working patterns before research begins.
@@ -47,22 +68,31 @@
    - Marginal candidates (appear once, worth evaluating)
    - Gaps (genres/periods underrepresented)
 
-4. **John's evaluative sort** — John listens, reads, applies taste at the margins.
+4. **Canon Orchestrator pass** *(added 2026-06-10)* — A synthesis agent reconciles the three
+   specialist lists into a **decision ballot** for John. It is a *decision-compression layer*, not a
+   selector: it absorbs dedup, overlap resolution, and scope arbitration, sorts every album into
+   tiers (`consensus_core` / `contested` / `scope_call` / `exclude_suggested`), and drafts a
+   sourced case-for/case-against on each contested album. It never sets `include` and never
+   free-selects from parametric memory — every advanced album traces to a specialist's cited source.
+   Spec: `research/agent-briefs/canon-orchestrator-brief.md`.
+
+5. **John's evaluative sort** — John reviews the ballot, not the raw pool: rubber-stamps the
+   `consensus_core` block, rules on the ~40 pre-argued `contested`/`scope_call` decisions.
    - No quotas per phase
    - No hard category boundaries
    - Post-bebop, pre-Fusion, no Free Jazz
 
 **Deliverables:**
-- `research/source-<name>-compile.md` (per source)
-- `research/canon-synthesis.md` (merged analysis)
-- `data/canon-draft.json` (structured album list, ~100 entries)
+- `research/{hard-bop,cool-jazz,modal-jazz}-candidates.md` (per specialist)
+- `data/canon-ballot.json` (Orchestrator output — tiered, pre-argued, `include: null`)
+- `research/canon-synthesis.md` (human-readable companion to the ballot)
+- `data/canon-draft.json` (John's selection — `include` set, ~100 entries)
 
-**Parallel opportunities:** Multiple source compiles can run simultaneously via:
-- Hermes `delegate_task` subagents (up to 3 concurrent)
-- Coding model agent swarm (if available and configured at Phase 4)
-- Hermes `researcher` profile for background compiles
+**Parallel opportunities:** Three specialist compiles run simultaneously; the Orchestrator runs
+after them as a bounded Workflow (compile → surface contested → specialist rebuttal → assemble
+ballot). Live Agent Teams are CLI-only/VS-Code-unreliable — use a deterministic Workflow.
 
-**Gate:** John reviews canon-draft.json, confirms or adjusts the ~100.
+**Gate:** John reviews the ballot, confirms or adjusts the ~100.
 
 ---
 
@@ -102,12 +132,17 @@
 
 ---
 
-## Phase 3: Data Model & Schema Design
+## Phase 3: Data Model & Schema Design  *(designed 2026-06-10 — contract-first)*
 
 **Goal:** Lock the data structure before building the app.
 
+**Note:** Designed *ahead of* Phase 1–2 data (none compiled yet). The two research schemas
+(`candidate-schema.md`, `personnel-schema.md`) ARE the data shape; Phase 3 maps them to a relational
+contract. See `docs/schema.md` for the full design, `data/schema.sql` for DDL, `data/seed.json` for a
+worked example, and `data/data-platform-handoff.json` for the machine-readable implementation handoff.
+
 **Approach:**
-1. Review Phase 1–2 data shapes
+1. Map the two research schemas → relational entities (done)
 2. Design schema:
    - Album entity
    - Musician entity (with instrument taxonomy)
@@ -123,10 +158,11 @@
 4. Migration path:
    - Draft JSON → validated schema → seed data
 
-**Deliverables:**
-- `docs/schema.md`
-- `data/schema.sql` (if SQL)
-- `data/seed.json` (validated, canonical)
+**Deliverables:** *(produced 2026-06-10)*
+- `docs/schema.md` ✓ — relational design doc (entities, ERD, query patterns, semantic-search design)
+- `data/schema.sql` ✓ — DDL + views + functions for `_jazzcanon` (apply at Phase 4)
+- `data/seed.json` ✓ — worked example (Kind of Blue) validating the shape
+- `data/data-platform-handoff.json` ✓ — machine-readable handoff for implementation
 
 **Gate:** John reviews schema, confirms it supports exploration goals.
 
@@ -230,14 +266,19 @@ Alert John when parallel work is possible:
 
 ## Open Questions (for future planning)
 
-1. Should we ingest final data into Postgres (for query flexibility) or keep as JSON (for simplicity)?
+1. ~~Postgres vs JSON?~~ **Resolved 2026-06-10:** Postgres `_jazzcanon` is authoritative + semantic
+   lab; a build step can export static JSON for the app. Best of both.
 2. Should the app be public-facing or private (vps2 only)?
 3. Do we want Apple Music / Spotify embeds?
 4. Timeline visualization — static or interactive?
+5. Free-text NL search — worth a live backend, or stop at precomputed similarity + faceted filter? (Phase 4)
+6. Embeddings local to `_jazzcanon`, or also pushed to `_foundry` for cross-project RAG? (Phase 4)
+7. Final project name + DB namespace binding (Phase 4).
 
 ---
 
-*Plan version: 1.1*  
-*Updated: 2026-06-09*  
-*Changes from v1.0: Phase 3 (Personnel by Track) folded into Phase 2 (single deep research pass). Phases 4–7 renumbered to 3–6. Phase 3 schema note and timeline query use case added.*  
-*Next step: Phase 1 dispatch — three specialist agents ready in `research/agent-briefs/`*
+*Plan version: 1.2*  
+*Updated: 2026-06-10*  
+*Changes from v1.1: Added Foundation Decisions block (Postgres `_jazzcanon` schema, namespace binding deferred to Phase 4, two-engine semantic search). Added Canon Orchestrator decision-compression pass to Phase 1. Phase 3 designed contract-first (schema.md, schema.sql, seed.json, handoff produced). Resolved Open Question 1; added Qs 5–7.*  
+*Changes from v1.0: Phase 3 (Personnel by Track) folded into Phase 2 (single deep research pass). Phases 4–7 renumbered to 3–6.*  
+*Next step: Phase 1 dispatch — three specialist agents + Canon Orchestrator ready in `research/agent-briefs/`.*
