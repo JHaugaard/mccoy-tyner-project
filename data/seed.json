@@ -63,6 +63,8 @@
       "styles": [ { "code": "modal-jazz", "is_primary": true } ],
       "recording_dates_text": "1959-03-02, 1959-04-22",
       "multi_session": true,
+      "musicbrainz_release_group_mbid": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+      "musicbrainz_release_mbid": null,
       "canon_status": "included",
       "canon_tier": "consensus_core",
       "priority": "must_have",
@@ -96,6 +98,21 @@
       "production_credits": [
         { "person_ref": "irving-townsend", "role": "producer", "session_ref": null, "epistemic": "obs" },
         { "person_ref": "fred-plaut",      "role": "engineer", "session_ref": null, "epistemic": "obs" }
+      ],
+
+      "album_art": [
+        {
+          "role": "front",
+          "source": "cover-art-archive",
+          "source_url": "https://coverartarchive.org/release-group/f5093c06-23e3-404f-aeaa-40f72885ee3a/front",
+          "local_path": "album-art/miles-davis-kind-of-blue-1959-front.jpg",
+          "width": 1200, "height": 1200, "mime_type": "image/jpeg", "bytes": null, "sha256": null,
+          "is_original_cover": true,
+          "is_primary": true,
+          "epistemic": "obs",
+          "fetched_at": null,
+          "notes": "Phase 2 captures the ref; Phase 4 fetches the file and fills bytes/sha256/fetched_at."
+        }
       ],
 
       "citations": [

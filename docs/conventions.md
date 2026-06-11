@@ -36,6 +36,7 @@ mccoy-tyner/
 - **Encoding**: UTF-8
 - **Indentation**: 2 spaces
 - **Schema**: Documented in `docs/schema.md` (Phase 3); data files are authoritative until schema lock
+- **Album art**: cover images under `data/album-art/` (git-ignored, regenerable from stored MBIDs/URLs); `manifest.json` is tracked. DB stores paths + metadata, never bytes.
 
 ## Database Target (Phase 4)
 
@@ -115,7 +116,7 @@ Per `research-compiler` skill:
 - Deferred to Phase 5
 - Options: Kimi Code, Claude Code, Codex, other
 - Decision criteria: Agent swarm support, code quality, John's prompt-crafting comfort
-- Hermes drafts architecture + prompts; coding model implements
+- Platform-agnostic: a planning agent drafts architecture + prompts; an implementation harness builds (currently Claude Code)
 
 ---
 

@@ -29,6 +29,8 @@ CREATE TYPE performance_scope AS ENUM ('all-tracks', 'selected-tracks', 'unknown
 CREATE TYPE production_role    AS ENUM ('producer', 'engineer', 'arranger', 'mixing', 'mastering', 'supervisor', 'other');
 CREATE TYPE instrument_family AS ENUM ('brass', 'woodwinds', 'keyboards', 'strings', 'percussion', 'other');
 CREATE TYPE source_type       AS ENUM ('book', 'web', 'liner-notes', 'discography', 'other');
+CREATE TYPE art_source        AS ENUM ('cover-art-archive', 'itunes', 'discogs', 'wikimedia', 'manual', 'other');
+CREATE TYPE art_role          AS ENUM ('front', 'back', 'liner', 'disc', 'alternate', 'other');
 
 -- -----------------------------------------------------------------------------
 -- Reference / vocabulary tables
@@ -106,6 +108,8 @@ CREATE TABLE album (
     style_primary_id     int NOT NULL REFERENCES style(id),
     recording_dates_text text,
     multi_session        boolean NOT NULL DEFAULT false,
+    musicbrainz_release_group_mbid text,   -- stable external key (art + future enrichment)
+    musicbrainz_release_mbid       text,   -- specific pressing, when distinguished
     canon_status         canon_status NOT NULL DEFAULT 'candidate',
     canon_tier           canon_tier,
     priority             priority_label,
@@ -210,6 +214,34 @@ CREATE TABLE citation (
 );
 
 -- -----------------------------------------------------------------------------
+-- Album art. Image FILES live on disk (data/album-art/, copied into the static
+-- bundle); this table holds the path + metadata + provenance, never the bytes.
+-- An album may have several images (front/back/alternate) from several sources.
+-- Identification is captured in Phase 2 (MBID + url); fetch/store is Phase 4.
+-- -----------------------------------------------------------------------------
+CREATE TABLE album_art (
+    id          uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+    album_id    text NOT NULL REFERENCES album(id) ON DELETE CASCADE,
+    role        art_role   NOT NULL DEFAULT 'front',
+    source      art_source NOT NULL,
+    source_url  text,                              -- where it was fetched (provenance)
+    local_path  text,                              -- relative path in the static bundle
+    width       int,
+    height      int,
+    mime_type   text,
+    bytes       int,
+    sha256      text,                              -- integrity / dedup
+    is_original_cover boolean,                     -- true=original pressing, false=reissue, null=unknown
+    is_primary  boolean NOT NULL DEFAULT false,    -- the image the UI shows by default
+    epistemic   epistemic_label NOT NULL DEFAULT 'obs',
+    fetched_at  timestamptz,
+    notes       text,
+    UNIQUE (album_id, role, source)
+);
+-- At most one primary image per album.
+CREATE UNIQUE INDEX uq_album_art_primary ON album_art(album_id) WHERE is_primary;
+
+-- -----------------------------------------------------------------------------
 -- Indexes
 -- -----------------------------------------------------------------------------
 CREATE INDEX idx_album_year         ON album(year);
@@ -227,6 +259,7 @@ CREATE INDEX idx_prodcredit_person  ON production_credit(person_id);
 CREATE INDEX idx_prodcredit_album   ON production_credit(album_id);
 CREATE INDEX idx_prodcredit_role    ON production_credit(role);
 CREATE INDEX idx_citation_source    ON citation(source_id);
+CREATE INDEX idx_album_art_album    ON album_art(album_id);
 
 -- Vector similarity (HNSW, cosine). Build after embeddings are populated.
 CREATE INDEX idx_album_embedding  ON album  USING hnsw (embedding vector_cosine_ops);
@@ -372,6 +405,12 @@ LEFT JOIN performance p ON p.person_id = pe.id
 LEFT JOIN instrument i  ON i.id = p.instrument_id
 LEFT JOIN album a       ON a.id = p.album_id
 GROUP BY pe.id, pe.canonical_name, pe.notes;
+
+-- Primary cover per album (convenience for UI / static export)
+CREATE VIEW v_album_primary_art AS
+SELECT album_id, local_path, source, source_url, width, height, is_original_cover
+FROM album_art
+WHERE is_primary;
 
 COMMIT;
 

@@ -243,6 +243,38 @@ Every cited fact gets one `citation` row per source. Query "all claims backed by
 sources support this performance" cleanly, with referential integrity the `text[]`-of-source-ids
 approach can't give.
 
+### 5.8 `album_art` — cover images (files on disk, metadata in the DB)
+
+Album art is an **asset**, not a fact, so it gets its own table rather than riding the `citation`
+model. The image **files live on disk** under `data/album-art/` (copied into the static bundle at
+build); this table holds only the path, dimensions, provenance, and integrity hash — **never the
+bytes** (bytea-for-images is an anti-pattern that bloats the DB and defeats static serving). `album`
+also gains `musicbrainz_release_group_mbid` / `musicbrainz_release_mbid` — a stable external key that
+anchors art lookup and any future enrichment.
+
+| Column | Type | Notes |
+|--------|------|-------|
+| `id` | `uuid` PK | |
+| `album_id` | `text` FK→album CASCADE | |
+| `role` | enum `front`/`back`/`liner`/`disc`/`alternate`/`other` | usually `front` |
+| `source` | enum `cover-art-archive`/`itunes`/`discogs`/`wikimedia`/`manual`/`other` | provenance |
+| `source_url` | `text` | where it was fetched |
+| `local_path` | `text` | relative path in the static bundle |
+| `width`/`height`/`mime_type`/`bytes` | | populated at fetch |
+| `sha256` | `text` | integrity / dedup |
+| `is_original_cover` | `bool` (nullable) | `true` original pressing, `false` reissue, `null` unknown |
+| `is_primary` | `bool` | the image the UI shows; partial-unique so only one per album |
+| `epistemic` | enum | confidence the art matches *this* release |
+| `fetched_at`/`notes` | | |
+
+**Two-phase flow.** Identification is captured opportunistically in **Phase 2** (the personnel agents
+record the MBID and any cover URL they see — source-grounded, with epistemic, no binary download).
+The authoritative **fetch + store** is a deterministic **Phase 4** ingest step (§11): resolve the
+MBID, pull the front cover from **Cover Art Archive** (canonical, redistributable, no auth), fall back
+to the **iTunes Search API** (high-res, no auth) when CAA has nothing, validate, store to disk, and
+write `album_art` rows. Jazz reissues frequently carry different covers, so the original pressing is
+preferred and `is_original_cover` records which we got.
+
 ---
 
 ## 6. Enumerated types
@@ -252,7 +284,9 @@ approach can't give.
 `priority_label` (must_have/strong/consider) · `performance_scope` (all-tracks/selected-tracks/unknown) ·
 `production_role` (producer/engineer/arranger/mixing/mastering/supervisor/other) ·
 `instrument_family` (brass/woodwinds/keyboards/strings/percussion/other) ·
-`source_type` (book/web/liner-notes/discography/other).
+`source_type` (book/web/liner-notes/discography/other) ·
+`art_source` (cover-art-archive/itunes/discogs/wikimedia/manual/other) ·
+`art_role` (front/back/liner/disc/alternate/other).
 
 ---
 
@@ -332,6 +366,7 @@ Defined in `schema.sql`:
 | Six degrees | `fn_degrees_between(a, b)` (recursive CTE) |
 | Sideman network / graph | `v_sideman_network` |
 | Composition by X | `v_composer_works` |
+| Album cover for UI | `v_album_primary_art` |
 | Search document source | `v_album_search_source`, `v_person_search_source` (feed embedding build) |
 | "Why is this in the canon / how sure are we?" | epistemic + `citation` exposed in detail views |
 
@@ -360,6 +395,8 @@ validated JSON, not interactive inserts, so heavy write-side functions are defer
 | personnel `tracks[]` | `track` rows |
 | personnel `tracks[].composers` | `track_composer` + `person` |
 | personnel `tracks[].personnel` | `performance_track` (resolved) |
+| personnel `musicbrainz_release_group_mbid` | `album.musicbrainz_release_group_mbid` |
+| personnel `cover_art[]` (refs captured by agents) | `album_art` rows (files fetched at Phase 4) |
 | every `sources[]` | `citation` rows |
 
 ---
@@ -370,13 +407,19 @@ validated JSON, not interactive inserts, so heavy write-side functions are defer
 canon-draft.json (include:true) ─┐
                                  ├─► validate ─► identity-resolve persons ─► load _jazzcanon
 personnel-draft.json ────────────┘                                    │
+                                                                       ├─► resolve MBID + fetch album art
+                                                                       │     (Cover Art Archive → iTunes fallback)
+                                                                       │     → data/album-art/ + album_art rows
                                                                        ├─► generate search_documents
                                                                        ├─► embed (Ollama) → vector cols
-                                                                       └─► build static export (JSON + neighbors)
+                                                                       └─► build static export (JSON + neighbors + art)
 ```
 
 Idempotent loader keyed on `album.id` and resolved `person.id`. JSON files stay git-tracked and remain
-the human-editable source; Postgres is the query/derive layer.
+the human-editable source; Postgres is the query/derive layer. **Album-art fetch** (Phase 4 step):
+honor MBIDs/URLs captured in Phase 2 when present, else resolve from artist+title+year via the
+MusicBrainz API (no auth, ≤1 req/s); store originals under `data/album-art/` (git-ignored, regenerable;
+a tracked `manifest.json` records what was fetched); copy into the static bundle at build.
 
 ---
 
@@ -386,6 +429,12 @@ the human-editable source; Postgres is the query/derive layer.
 - **Namespace** — `_jazzcanon` for all official paperwork; `mccoy-tyner` stays the codename.
 - **Embedding model** — local `nomic-embed-text` (768) on vps4, working-first and reversible (§8.1).
 - **Post-Bop** — Modal agent absorbs it (Option A).
+
+**Album art (added 2026-06-10, defaults — flip any):**
+- **Sources:** Cover Art Archive (via MusicBrainz MBID) primary; iTunes Search API fallback.
+- **Cover preference:** original pressing; `is_original_cover` records which we actually got.
+- **Storage:** files under `data/album-art/`, git-ignored + regenerable, with a tracked `manifest.json`;
+  DB holds path/metadata, never bytes. Phase 2 finds (refs); Phase 4 grabs + stores (binaries).
 
 **Still open (none block Phase 3):**
 1. **Embeddings local vs pushed to `_foundry`** — single-purpose vs cross-project RAG. *Recommend

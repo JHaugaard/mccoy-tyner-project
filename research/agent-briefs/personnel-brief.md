@@ -82,6 +82,14 @@ Record session dates in `recording_dates` (album level) and in `session_date` pe
 
 If a source gives you Layer 3 or 4 data "for free" while you're already there, take it. This is a single deep pass — there is no second pass planned.
 
+**Layer 5 — Album art references (optional, opportunistic)**  
+While you're on the album's AllMusic / Wikipedia / Discogs / MusicBrainz pages, capture cover-art
+references into the `cover_art` array and the `musicbrainz_release_group_mbid` field — see
+`research/personnel-schema.md` ("Album Art"). You are **recording URLs, not downloading images**; the
+Phase 4 ingest step fetches and stores the files. Prefer the **original pressing** cover and flag
+reissues. This is the lowest priority — never let it slow the personnel work, and `cover_art: []` is
+fine. Phase 4 can resolve art from artist+title+year on its own.
+
 ---
 
 ## Edge Cases

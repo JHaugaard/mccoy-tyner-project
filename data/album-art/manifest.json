@@ -1,0 +1,8 @@
+{
+  "_meta": {
+    "purpose": "Tracks which album-art files were fetched, from where, with dimensions and integrity hashes. The binary images are git-ignored and regenerable from these references.",
+    "generated_by": "Phase 4 album-art fetch step (not yet run — this is an empty stub)",
+    "entry_shape": "album_id -> [ { role, source, source_url, local_path, width, height, mime_type, bytes, sha256, is_original_cover, fetched_at } ]"
+  },
+  "art": {}
+}

@@ -35,3 +35,9 @@ logs/
 tmp/
 temp/
 .cache/
+
+# Album art binaries — regenerable from stored MBIDs/URLs (Phase 4 fetch).
+# The manifest IS tracked so the references stay in version control.
+data/album-art/*
+!data/album-art/manifest.json
+!data/album-art/.gitkeep

@@ -30,7 +30,9 @@
     "performance_scope": ["all-tracks", "selected-tracks", "unknown"],
     "production_role": ["producer", "engineer", "arranger", "mixing", "mastering", "supervisor", "other"],
     "instrument_family": ["brass", "woodwinds", "keyboards", "strings", "percussion", "other"],
-    "source_type": ["book", "web", "liner-notes", "discography", "other"]
+    "source_type": ["book", "web", "liner-notes", "discography", "other"],
+    "art_source": ["cover-art-archive", "itunes", "discogs", "wikimedia", "manual", "other"],
+    "art_role": ["front", "back", "liner", "disc", "alternate", "other"]
   },
 
   "tables": [
@@ -41,7 +43,7 @@
     { "name": "source", "pk": "id serial", "columns": ["title", "source_type", "url", "notes"], "purpose": "Global source registry (replaces per-file S1/S2 maps)." },
     { "name": "person", "pk": "id uuid", "columns": ["canonical_name UNIQUE", "sort_name", "name_slug UNIQUE", "notes", "search_document", "embedding vector(768)", "created_at", "updated_at"], "purpose": "Unified people entity." },
     { "name": "person_name_variant", "pk": "id uuid", "columns": ["person_id FK", "variant_name", "source_note"], "purpose": "Identity-resolution support (dedup surface forms)." },
-    { "name": "album", "pk": "id text (canon slug)", "columns": ["title", "artist_name", "leader_person_id FK", "year CHECK 1940-1990", "label_id FK", "style_primary_id FK", "recording_dates_text", "multi_session", "canon_status", "canon_tier", "priority", "inclusion_rationale", "epistemic", "notes", "search_document", "embedding vector(768)", "created_at", "updated_at"], "purpose": "One row per album; PK is the join key to all research data." },
+    { "name": "album", "pk": "id text (canon slug)", "columns": ["title", "artist_name", "leader_person_id FK", "year CHECK 1940-1990", "label_id FK", "style_primary_id FK", "recording_dates_text", "multi_session", "musicbrainz_release_group_mbid", "musicbrainz_release_mbid", "canon_status", "canon_tier", "priority", "inclusion_rationale", "epistemic", "notes", "search_document", "embedding vector(768)", "created_at", "updated_at"], "purpose": "One row per album; PK is the join key to all research data." },
     { "name": "album_style", "pk": "(album_id, style_id)", "columns": ["is_primary"], "purpose": "M:N secondary style tags." },
     { "name": "session", "pk": "id uuid", "columns": ["album_id FK CASCADE", "session_date", "session_date_text", "studio_id FK", "sequence", "epistemic"], "purpose": "Recording session; supports multi-session albums." },
     { "name": "track", "pk": "id uuid", "columns": ["album_id FK CASCADE", "session_id FK", "title", "track_number", "side CHECK", "duration_text", "bonus_track", "alternate_take", "epistemic_track"], "purpose": "One row per track per album." },
@@ -50,7 +52,8 @@
     { "name": "performance_track", "pk": "(performance_id, track_id)", "columns": [], "purpose": "selected-tracks linkage." },
     { "name": "performance_session", "pk": "(performance_id, session_id)", "columns": [], "purpose": "Multi-session personnel distinction." },
     { "name": "production_credit", "pk": "id uuid", "columns": ["album_id FK CASCADE", "session_id FK", "person_id FK", "role production_role", "epistemic", "notes"], "purpose": "Non-instrumental credits (producer/engineer/...)." },
-    { "name": "citation", "pk": "id uuid", "columns": ["source_id FK", "album_id FK?", "performance_id FK?", "track_id FK?", "production_credit_id FK?", "locator", "CHECK num_nonnulls(targets)=1"], "purpose": "Provenance with FK integrity; one fact per row." }
+    { "name": "citation", "pk": "id uuid", "columns": ["source_id FK", "album_id FK?", "performance_id FK?", "track_id FK?", "production_credit_id FK?", "locator", "CHECK num_nonnulls(targets)=1"], "purpose": "Provenance with FK integrity; one fact per row." },
+    { "name": "album_art", "pk": "id uuid", "columns": ["album_id FK CASCADE", "role art_role", "source art_source", "source_url", "local_path", "width", "height", "mime_type", "bytes", "sha256", "is_original_cover", "is_primary (partial-unique per album)", "epistemic", "fetched_at", "notes"], "purpose": "Cover images: FILES on disk (data/album-art/), path+metadata+provenance in the row, never bytes. Phase 2 captures refs; Phase 4 fetches/stores." }
   ],
 
   "relationships": [
@@ -94,7 +97,7 @@
 
   "ingest": {
     "inputs": ["data/canon-draft.json (include:true)", "data/personnel-draft.json"],
-    "steps": ["validate", "resolve person identities (name -> uuid, surface borderline merges to John)", "load _jazzcanon", "generate search_documents", "embed via Ollama", "build HNSW indexes", "export static bundle (JSON + neighbors)"],
+    "steps": ["validate", "resolve person identities (name -> uuid, surface borderline merges to John)", "load _jazzcanon", "resolve MBID + fetch album art (Cover Art Archive -> iTunes fallback) into data/album-art/ + album_art rows", "generate search_documents", "embed via Ollama", "build HNSW indexes", "export static bundle (JSON + neighbors + art)"],
     "idempotency": "keyed on album.id and resolved person.id; JSON files remain git-tracked human-editable source of truth"
   },
 
@@ -104,6 +107,7 @@
     { "decision": "Epistemic + citation on every fact", "why": "Source-grounded discovery is the product's differentiator; the app renders confidence. FK-backed citation beats text[] of source ids for integrity." },
     { "decision": "Identity-resolution pass flagged as real Phase 4 work", "why": "Research data has no person ids, only name strings + variants; 'Bill Evans'/'William John Evans' must collapse to one person." },
     { "decision": "Two semantic engines + static export", "why": "pgvector can't do graph traversal; recursion can't do fuzzy similarity. Tiny corpus lets a build step precompute neighbors and ship a static site, honoring the simplicity intent while maximizing discovery." },
+    { "decision": "Album art split: Phase 2 finds refs, Phase 4 grabs/stores files; files on disk not in DB", "why": "Identification is research (agents); binary fetch is deterministic plumbing (script). Cover Art Archive (canonical, redistributable) primary, iTunes fallback. Files under data/album-art/ keep the DB lean and feed the static bundle directly. MBID also stored as a durable external key for future enrichment." },
     { "decision": "canon_tier/priority retained on album", "why": "Cheap provenance of the Orchestrator ballot; renders a 'why it's in the canon' story." },
     { "decision": "Namespace decided as _jazzcanon (2026-06-10); mccoy-tyner stays the codename", "why": "A codename is free; the durable name only costs when bound to schema/roles/URL at Phase 4. John chose _jazzcanon now since nothing was bound through Phase 3 — zero cost. Product name still open." }
   ],

@@ -20,7 +20,7 @@ Override: App stack TBD (decided in Phase 5); data storage decided in Phase 4 (J
 - Scope = post-bebop, pre-Fusion; no Free Jazz. Albums too bebop or edging into Fusion are out.
 - Personnel data is source-grounded — every claim carries an epistemic label (direct / inference / uncertain).
 - No style quotas — 60 Modal Jazz albums is fine.
-- Research/planning = Hermes; implementation = Kimi Code CLI/VS Code.
+- Tooling is platform-agnostic — the plan names roles (planning agent, implementation harness), not products. Currently proceeding in Claude Code (CLI/VS Code).
 - Flag multi-agent parallel opportunities (Phase 1 source compiles, Phase 2 batch personnel extraction).
 
 </gotchas>

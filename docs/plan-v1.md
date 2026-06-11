@@ -3,7 +3,7 @@
 **Project:** Canonical Jazz Albums (Cool Jazz → Hard Bop → Modal Jazz)  
 **Directory:** `~/dev/active/mccoy-tyner/`  
 **Approach:** Deliberate, no one-shotting. Research-first, data model emerges from findings.  
-**Orchestration:** Hermes (research, planning, architecture) → Coding model (TBD — chosen at Phase 4) for implementation and agent orchestration  
+**Orchestration:** Platform-agnostic by design — the plan names *roles*, not products. A planning/architecture agent shapes the work; an implementation harness builds it. (Currently proceeding in Claude Code; harness is not load-bearing in the plan.)  
 **Research Tool:** *research-compiler* skill for source-grounded compilation
 
 ---
@@ -106,6 +106,7 @@ ballot). Live Agent Teams are CLI-only/VS-Code-unreliable — use a deterministi
    - Layer 2: Session contributors — musicians appearing on some but not all tracks (`scope: selected-tracks`)
    - Layer 3: Track-level assignments — when liner notes or sessionographies list personnel per track
    - Layer 4: Per-session recording dates — for multi-session albums, which tracks belong to each date
+   - Layer 5 *(optional, added 2026-06-10)*: Album-art references — MusicBrainz release-group MBID + cover-art URL(s), captured opportunistically. Agents record URLs only; the image files are fetched and stored at Phase 4. `cover_art: []` is fine.
 
 2. **Source strategy** —
    - AllMusic (Credits tab)
@@ -122,7 +123,7 @@ ballot). Live Agent Teams are CLI-only/VS-Code-unreliable — use a deterministi
 **Deliverables:**
 - `research/personnel-batch-NN.md` (one per agent, 10 total)
 - `research/personnel-sources-compile.md` (source evaluation notes)
-- `data/personnel-draft.json` (merged from agent outputs — album → personnel + tracks)
+- `data/personnel-draft.json` (merged from agent outputs — album → personnel + tracks + cover-art refs)
 
 **Parallel opportunities:**
 - All 10 agents run concurrently; each works independently with no cross-album dependencies
@@ -148,6 +149,7 @@ worked example, and `data/data-platform-handoff.json` for the machine-readable i
    - Musician entity (with instrument taxonomy)
    - Track entity
    - Production entity (session, studio, engineer, producer)
+   - Album-art entity (cover images: files on disk, path + metadata + provenance in DB)
    - Relationships (played_on, produced, engineered, recorded_at, etc.)
 
 3. Normalize vs. denormalize decision:
@@ -184,6 +186,9 @@ worked example, and `data/data-platform-handoff.json` for the machine-readable i
    - Lightweight framework (Flask, FastAPI) + templates
    - Full SPA (React/Vue/Svelte) + API
    - Database-backed vs. static JSON
+3. **Data-load & build pipeline (design)** — ingest validated JSON → `_jazzcanon` → identity-resolve
+   persons → **fetch + store album art** (Cover Art Archive → iTunes fallback, into `data/album-art/`)
+   → generate search documents → embed (Ollama) → export static bundle (JSON + neighbors + art).
 
 **Deliverables:**
 - `docs/architecture.md`
@@ -198,9 +203,9 @@ worked example, and `data/data-platform-handoff.json` for the machine-readable i
 **Goal:** Build the interactive exploration app.
 
 **Approach:**
-1. Hermes + Coding model pair programming:
-   - Hermes: spec, review, test
-   - Coding model: generate, iterate
+1. Pair-programming loop (platform-agnostic):
+   - Planning/spec agent: spec, review, test
+   - Implementation harness: generate, iterate
 
 2. Agent swarm opportunities (if supported by chosen coding model at Phase 4):
    - Parallel component development
@@ -268,17 +273,18 @@ Alert John when parallel work is possible:
 
 1. ~~Postgres vs JSON?~~ **Resolved 2026-06-10:** Postgres `_jazzcanon` is authoritative + semantic
    lab; a build step can export static JSON for the app. Best of both.
-2. Should the app be public-facing or private (vps2 only)?
+2. Should the app be public-facing or private (vps2 only)? (Also gates album-cover display: personal/private use is clearly fine; public reuse of cover art is a rights question.)
 3. Do we want Apple Music / Spotify embeds?
 4. Timeline visualization — static or interactive?
 5. Free-text NL search — worth a live backend, or stop at precomputed similarity + faceted filter? (Phase 4)
 6. Embeddings local to `_jazzcanon`, or also pushed to `_foundry` for cross-project RAG? (Phase 4)
-7. Final project name + DB namespace binding (Phase 4).
+7. Public-facing product name (DB namespace `_jazzcanon` decided 2026-06-10; codename `mccoy-tyner` stays).
 
 ---
 
-*Plan version: 1.2*  
+*Plan version: 1.3*  
 *Updated: 2026-06-10*  
-*Changes from v1.1: Added Foundation Decisions block (Postgres `_jazzcanon` schema, namespace binding deferred to Phase 4, two-engine semantic search). Added Canon Orchestrator decision-compression pass to Phase 1. Phase 3 designed contract-first (schema.md, schema.sql, seed.json, handoff produced). Resolved Open Question 1; added Qs 5–7.*  
+*Changes from v1.2: Album art added — Phase 2 captures cover-art refs (MBID + URLs) opportunistically; Phase 4 fetches/stores files (Cover Art Archive → iTunes), `album_art` table + MBID columns added to the schema. Plan made platform-agnostic (removed Hermes/coding-model-specific orchestration language — names roles, not products). Namespace decision (`_jazzcanon`) reflected in Open Questions.*  
+*Changes from v1.1: Added Foundation Decisions block (Postgres `_jazzcanon` schema, two-engine semantic search). Added Canon Orchestrator decision-compression pass to Phase 1. Phase 3 designed contract-first. Resolved Open Question 1; added Qs 5–7.*  
 *Changes from v1.0: Phase 3 (Personnel by Track) folded into Phase 2 (single deep research pass). Phases 4–7 renumbered to 3–6.*  
 *Next step: Phase 1 dispatch — three specialist agents + Canon Orchestrator ready in `research/agent-briefs/`.*
