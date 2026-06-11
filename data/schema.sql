@@ -103,7 +103,7 @@ CREATE TABLE album (
     title                text NOT NULL,
     artist_name          text NOT NULL,               -- leader/primary as cited (display)
     leader_person_id     uuid REFERENCES person(id) ON DELETE SET NULL,
-    year                 int CHECK (year BETWEEN 1940 AND 1990),
+    year                 int CHECK (year BETWEEN 1900 AND 2100),  -- wide on purpose: the platform outlives the first canon's era
     label_id             int REFERENCES label(id),
     style_primary_id     int NOT NULL REFERENCES style(id),
     recording_dates_text text,
@@ -127,6 +127,32 @@ CREATE TABLE album_style (
     style_id   int  NOT NULL REFERENCES style(id),
     is_primary boolean NOT NULL DEFAULT false,
     PRIMARY KEY (album_id, style_id)
+);
+
+-- -----------------------------------------------------------------------------
+-- Collections (added 2026-06-11). An album belongs to zero or more named
+-- collections; the ~100-album canon is the FIRST collection, not the only one
+-- (a Fusion canon, a "Desert Island 20", etc. need no migration later).
+-- `canon_status` remains the editorial workflow flag for the canon-building
+-- process; collection membership is the durable, multi-canon structure.
+-- Phase 4 ingest seeds one row (slug 'core-canon') and adds every
+-- include:true album to it.
+-- -----------------------------------------------------------------------------
+CREATE TABLE collection (
+    id          serial PRIMARY KEY,
+    slug        text NOT NULL UNIQUE,        -- e.g. 'core-canon'
+    name        text NOT NULL,
+    description text,
+    created_at  timestamptz NOT NULL DEFAULT now()
+);
+
+CREATE TABLE album_collection (
+    album_id      text NOT NULL REFERENCES album(id) ON DELETE CASCADE,
+    collection_id int  NOT NULL REFERENCES collection(id) ON DELETE CASCADE,
+    position      int,                       -- optional ordering within the collection
+    added_at      timestamptz NOT NULL DEFAULT now(),
+    notes         text,
+    PRIMARY KEY (album_id, collection_id)
 );
 
 -- -----------------------------------------------------------------------------
@@ -260,6 +286,7 @@ CREATE INDEX idx_prodcredit_album   ON production_credit(album_id);
 CREATE INDEX idx_prodcredit_role    ON production_credit(role);
 CREATE INDEX idx_citation_source    ON citation(source_id);
 CREATE INDEX idx_album_art_album    ON album_art(album_id);
+CREATE INDEX idx_album_collection   ON album_collection(collection_id);
 
 -- Vector similarity (HNSW, cosine). Build after embeddings are populated.
 CREATE INDEX idx_album_embedding  ON album  USING hnsw (embedding vector_cosine_ops);
@@ -279,6 +306,16 @@ SELECT a.id, a.title, a.artist_name, a.year,
 FROM album a
 LEFT JOIN label l ON l.id = a.label_id
 LEFT JOIN style s ON s.id = a.style_primary_id;
+
+-- Albums in a collection, ordered
+CREATE VIEW v_collection_albums AS
+SELECT c.slug AS collection_slug, c.name AS collection_name,
+       ac.position, ac.added_at,
+       a.id AS album_id, a.title, a.artist_name, a.year
+FROM album_collection ac
+JOIN collection c ON c.id = ac.collection_id
+JOIN album a      ON a.id = ac.album_id
+ORDER BY c.slug, ac.position NULLS LAST, a.year;
 
 -- Flattened album personnel (album × person × instrument)
 CREATE VIEW v_album_personnel AS

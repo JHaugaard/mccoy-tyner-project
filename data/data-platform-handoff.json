@@ -6,7 +6,7 @@
     "namespace_status": "DECIDED 2026-06-10: _jazzcanon. Schema created at Phase 4 (CREATE SCHEMA). Product name still deferred; mccoy-tyner remains the working codename.",
     "platform": "Standalone Postgres 16 on vps8-core (127.0.0.1:5433), shared instance, project-owned schema",
     "extensions": ["vector", "pg_cron"],
-    "design_date": "2026-06-10",
+    "design_date": "2026-06-10 (v1.1 delta 2026-06-11: collections, wide year CHECK, serving posture)",
     "status": "Phase 3 design complete. Applied at Phase 4. No Phase 1-2 data exists yet (contract-first)."
   },
 
@@ -18,7 +18,8 @@
       "People (performers, leaders, producers, engineers, composers) are ONE 'person' entity.",
       "Every fact-bearing row carries epistemic (obs/inf/unk) + citation provenance.",
       "Identity-resolution pass (name -> person uuid) is required Phase 4 ingest work; not in research data.",
-      "Two semantic engines: pgvector (similarity) + relational/recursive (networks)."
+      "Two semantic engines: pgvector (similarity) + relational/recursive (networks).",
+      "The platform outlives the first canon: albums belong to named collections (the ~100 canon = seed collection 'core-canon'); styles are rows; year CHECK is wide (1900-2100). Growth = ingest run, never migration."
     ]
   },
 
@@ -43,8 +44,10 @@
     { "name": "source", "pk": "id serial", "columns": ["title", "source_type", "url", "notes"], "purpose": "Global source registry (replaces per-file S1/S2 maps)." },
     { "name": "person", "pk": "id uuid", "columns": ["canonical_name UNIQUE", "sort_name", "name_slug UNIQUE", "notes", "search_document", "embedding vector(768)", "created_at", "updated_at"], "purpose": "Unified people entity." },
     { "name": "person_name_variant", "pk": "id uuid", "columns": ["person_id FK", "variant_name", "source_note"], "purpose": "Identity-resolution support (dedup surface forms)." },
-    { "name": "album", "pk": "id text (canon slug)", "columns": ["title", "artist_name", "leader_person_id FK", "year CHECK 1940-1990", "label_id FK", "style_primary_id FK", "recording_dates_text", "multi_session", "musicbrainz_release_group_mbid", "musicbrainz_release_mbid", "canon_status", "canon_tier", "priority", "inclusion_rationale", "epistemic", "notes", "search_document", "embedding vector(768)", "created_at", "updated_at"], "purpose": "One row per album; PK is the join key to all research data." },
+    { "name": "album", "pk": "id text (canon slug)", "columns": ["title", "artist_name", "leader_person_id FK", "year CHECK 1900-2100", "label_id FK", "style_primary_id FK", "recording_dates_text", "multi_session", "musicbrainz_release_group_mbid", "musicbrainz_release_mbid", "canon_status", "canon_tier", "priority", "inclusion_rationale", "epistemic", "notes", "search_document", "embedding vector(768)", "created_at", "updated_at"], "purpose": "One row per album; PK is the join key to all research data." },
     { "name": "album_style", "pk": "(album_id, style_id)", "columns": ["is_primary"], "purpose": "M:N secondary style tags." },
+    { "name": "collection", "pk": "id serial", "columns": ["slug UNIQUE", "name", "description", "created_at"], "purpose": "Named album collections; the ~100 canon is the first ('core-canon'), seeded at Phase 4 ingest. Multi-canon growth without migration." },
+    { "name": "album_collection", "pk": "(album_id, collection_id)", "columns": ["position", "added_at", "notes"], "purpose": "M:N collection membership; canon_status stays the editorial workflow flag." },
     { "name": "session", "pk": "id uuid", "columns": ["album_id FK CASCADE", "session_date", "session_date_text", "studio_id FK", "sequence", "epistemic"], "purpose": "Recording session; supports multi-session albums." },
     { "name": "track", "pk": "id uuid", "columns": ["album_id FK CASCADE", "session_id FK", "title", "track_number", "side CHECK", "duration_text", "bonus_track", "alternate_take", "epistemic_track"], "purpose": "One row per track per album." },
     { "name": "track_composer", "pk": "(track_id, person_id)", "columns": [], "purpose": "Composers as persons; enables 'compositions by X'." },
@@ -67,8 +70,17 @@
   "views": [
     "v_album_card", "v_album_detail", "v_album_personnel", "v_track_personnel",
     "v_musician_albums", "v_musician_timeline", "v_engineer_sessions", "v_composer_works",
-    "v_sideman_network", "v_album_search_source", "v_person_search_source"
+    "v_sideman_network", "v_album_search_source", "v_person_search_source", "v_collection_albums"
   ],
+
+  "serving": {
+    "posture": "DECIDED 2026-06-11 (staged): the views/functions ARE the API contract; every serving layer speaks the same vocabulary.",
+    "layers": [
+      "1. Static export (default) — build step ships JSON + precomputed neighbors + art; the web app needs no backend.",
+      "2. PostgREST read-only (when a live consumer appears) — single binary over _jazzcanon views via the _jazzcanon_ro role; zero code, config only.",
+      "3. MCP server (banked) — agent-facing interface wrapping the same views + search functions, so Claude/agents can query the canon directly."
+    ]
+  },
 
   "functions": [
     "fn_degrees_between(person_a uuid, person_b uuid) -> int  (six-degrees, recursive CTE over co-occurrence)"
@@ -109,7 +121,9 @@
     { "decision": "Two semantic engines + static export", "why": "pgvector can't do graph traversal; recursion can't do fuzzy similarity. Tiny corpus lets a build step precompute neighbors and ship a static site, honoring the simplicity intent while maximizing discovery." },
     { "decision": "Album art split: Phase 2 finds refs, Phase 4 grabs/stores files; files on disk not in DB", "why": "Identification is research (agents); binary fetch is deterministic plumbing (script). Cover Art Archive (canonical, redistributable) primary, iTunes fallback. Files under data/album-art/ keep the DB lean and feed the static bundle directly. MBID also stored as a durable external key for future enrichment." },
     { "decision": "canon_tier/priority retained on album", "why": "Cheap provenance of the Orchestrator ballot; renders a 'why it's in the canon' story." },
-    { "decision": "Namespace decided as _jazzcanon (2026-06-10); mccoy-tyner stays the codename", "why": "A codename is free; the durable name only costs when bound to schema/roles/URL at Phase 4. John chose _jazzcanon now since nothing was bound through Phase 3 — zero cost. Product name still open." }
+    { "decision": "Namespace decided as _jazzcanon (2026-06-10); mccoy-tyner stays the codename", "why": "A codename is free; the durable name only costs when bound to schema/roles/URL at Phase 4. John chose _jazzcanon now since nothing was bound through Phase 3 — zero cost. Product name still open." },
+    { "decision": "Collections added; year CHECK widened (2026-06-11)", "why": "John directive: architect for the future — the 100-album canon is a robust PoC, not the ceiling. collection/album_collection make multi-canon growth an INSERT; the 1940-1990 CHECK would have blocked era expansion." },
+    { "decision": "Staged serving: static -> PostgREST(ro) -> MCP (2026-06-11)", "why": "Views are the contract; static export honors the simplicity intent; PostgREST adds a zero-code live REST layer only when a consumer exists; MCP is the agent-facing door, fitting John's MCP-first toolchain." }
   ],
 
   "openDecisions": [

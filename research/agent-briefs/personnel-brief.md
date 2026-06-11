@@ -1,5 +1,7 @@
 # Personnel Research Agent Brief
 
+> **Superseded 2026-06-11** by the first-class agent `~/.claude/agents/jazz-personnel-researcher.md` (self-contained, model-scoped: Sonnet). This brief is retained as design history; the agent file is canonical.
+
 ## Your Role
 
 You are a personnel research agent for the McCoy Tyner jazz canon project. Your task: for each album in your assigned list, extract complete personnel and production data and write it to your output file.

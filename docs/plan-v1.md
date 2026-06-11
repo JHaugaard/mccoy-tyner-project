@@ -26,6 +26,24 @@ Settled during the data-platforming session, before any agent launched or album 
   sideman co-occurrence, timelines) — graph traversal, not embeddings. The ~100-album corpus is tiny,
   so a build step can export a static bundle (JSON + precomputed neighbors) for a simple static app;
   only free-text NL search needs a live backend (decide at Phase 4).
+- **Built to outlive the first canon** *(locked 2026-06-11)*: the ~100-album canon is a
+  well-researched, well-architected **proof of concept**, not the ceiling. Albums belong to named
+  **collections** (the canon = seed collection `core-canon`); styles are rows, not enums; the year
+  CHECK is wide. Adding albums, artists, styles, or whole new canons is an ingest run, never a
+  migration. (Schema v1.1, `docs/schema.md` §5.2b.)
+- **Agents are first-class** *(locked 2026-06-11)*: all project agents live in `~/.claude/agents/`
+  as named, self-contained, model-scoped Claude Agents usable outside this project —
+  `jazz-hard-bop-researcher` (Opus), `jazz-cool-jazz-researcher` (Opus), `jazz-modal-jazz-researcher`
+  (Opus), `jazz-canon-orchestrator` (Opus), `jazz-personnel-researcher` (Sonnet, ×10 parallel).
+  Each carries its full output contract inline and takes dispatch parameters (output path, targets);
+  the briefs in `research/agent-briefs/` are retained as design history. Model posture: Opus where
+  research judgment concentrates; Sonnet for high-volume extraction; Haiku only for mechanical
+  validation/merge steps.
+- **Serving posture (staged)** *(locked 2026-06-11)*: the schema's views/functions ARE the API
+  contract. Layer 1: static export (default — app needs no backend). Layer 2: **PostgREST read-only**
+  over `_jazzcanon` views via `_jazzcanon_ro` when a live consumer appears (single binary, zero
+  code). Layer 3 (banked): an **MCP server** wrapping the same views, so Claude/agents query the
+  canon directly. Every layer speaks the same vocabulary.
 
 ---
 
@@ -92,6 +110,10 @@ Settled during the data-platforming session, before any agent launched or album 
 after them as a bounded Workflow (compile → surface contested → specialist rebuttal → assemble
 ballot). Live Agent Teams are CLI-only/VS-Code-unreliable — use a deterministic Workflow.
 
+**Agents (first-class, 2026-06-11):** `jazz-hard-bop-researcher`, `jazz-cool-jazz-researcher`,
+`jazz-modal-jazz-researcher` (all Opus), `jazz-canon-orchestrator` (Opus) — in `~/.claude/agents/`,
+self-contained, dispatch-parameterized. Dispatch sequence: `docs/runbook.md`.
+
 **Gate:** John reviews the ballot, confirms or adjusts the ~100.
 
 ---
@@ -116,7 +138,7 @@ ballot). Live Agent Teams are CLI-only/VS-Code-unreliable — use a deterministi
    - Liner notes (digitized via Google Books, archive.org, label reissue pages)
    - Recording label discographies (Blue Note, Prestige, Impulse!, Columbia, Verve, ECM)
 
-3. **Agent architecture** — 10 parallel agents, ~10 albums each, shared brief and schema. No style specialization needed; the task is identical per album. Instrument names and musician name forms follow a controlled vocabulary defined in `research/personnel-schema.md` so records are consistent across all agents.
+3. **Agent architecture** — 10 parallel dispatches of `jazz-personnel-researcher` (first-class agent, Sonnet), ~10 albums each. No style specialization needed; the task is identical per album. Instrument names and musician name forms follow the controlled vocabulary carried inline in the agent (mirrors `research/personnel-schema.md`) so records are consistent across all dispatches.
 
 **Note:** Track-level personnel (originally planned as a separate Phase 3) is captured here opportunistically in the same pass. When sources provide track assignments, they are recorded. `track_assignments_complete` flags what the data platform can trust.
 
@@ -187,8 +209,13 @@ worked example, and `data/data-platform-handoff.json` for the machine-readable i
    - Full SPA (React/Vue/Svelte) + API
    - Database-backed vs. static JSON
 3. **Data-load & build pipeline (design)** — ingest validated JSON → `_jazzcanon` → identity-resolve
-   persons → **fetch + store album art** (Cover Art Archive → iTunes fallback, into `data/album-art/`)
-   → generate search documents → embed (Ollama) → export static bundle (JSON + neighbors + art).
+   persons → seed `core-canon` collection → **fetch + store album art** (Cover Art Archive → iTunes
+   fallback, into `data/album-art/`) → generate search documents → embed (Ollama) → export static
+   bundle (JSON + neighbors + art).
+4. **Serving layer (decided 2026-06-11, staged)** — static export is the app's data source.
+   When a live consumer appears: PostgREST read-only over the `_jazzcanon` views (`_jazzcanon_ro`
+   role, single binary, config-only). Banked: an MCP server over the same views as the agent-facing
+   interface. The views are the contract; no bespoke API code is planned.
 
 **Deliverables:**
 - `docs/architecture.md`
@@ -276,14 +303,21 @@ Alert John when parallel work is possible:
 2. Should the app be public-facing or private (vps2 only)? (Also gates album-cover display: personal/private use is clearly fine; public reuse of cover art is a rights question.)
 3. Do we want Apple Music / Spotify embeds?
 4. Timeline visualization — static or interactive?
-5. Free-text NL search — worth a live backend, or stop at precomputed similarity + faceted filter? (Phase 4)
+5. ~~Free-text NL search — worth a live backend?~~ **Posture set 2026-06-11:** staged serving —
+   static-first; PostgREST read-only when a live consumer appears; MCP server banked. NL search rides
+   whichever live layer exists; it never blocks the static app. (Final call still confirmable at Phase 4.)
 6. Embeddings local to `_jazzcanon`, or also pushed to `_foundry` for cross-project RAG? (Phase 4)
 7. Public-facing product name (DB namespace `_jazzcanon` decided 2026-06-10; codename `mccoy-tyner` stays).
 
 ---
 
-*Plan version: 1.3*  
-*Updated: 2026-06-10*  
+*Plan version: 1.4*  
+*Updated: 2026-06-11*  
+*Changes from v1.3: Built-for-the-future block added (collections in schema v1.1, wide year CHECK —
+the canon is a robust PoC, growth is ingest not migration). All five agents promoted to first-class,
+model-scoped Claude Agents in `~/.claude/agents/` (briefs retained as design history). Staged serving
+posture decided (static → PostgREST read-only → MCP, views as the single contract). End-to-end
+Phase 1→4 dispatch runbook added (`docs/runbook.md`). Open Question 5 resolved as posture.*  
 *Changes from v1.2: Album art added — Phase 2 captures cover-art refs (MBID + URLs) opportunistically; Phase 4 fetches/stores files (Cover Art Archive → iTunes), `album_art` table + MBID columns added to the schema. Plan made platform-agnostic (removed Hermes/coding-model-specific orchestration language — names roles, not products). Namespace decision (`_jazzcanon`) reflected in Open Questions.*  
 *Changes from v1.1: Added Foundation Decisions block (Postgres `_jazzcanon` schema, two-engine semantic search). Added Canon Orchestrator decision-compression pass to Phase 1. Phase 3 designed contract-first. Resolved Open Question 1; added Qs 5–7.*  
 *Changes from v1.0: Phase 3 (Personnel by Track) folded into Phase 2 (single deep research pass). Phases 4–7 renumbered to 3–6.*  

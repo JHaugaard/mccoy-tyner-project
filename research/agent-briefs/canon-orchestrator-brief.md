@@ -1,5 +1,7 @@
 # Canon Orchestrator — Agent Brief
 
+> **Superseded 2026-06-11** by the first-class agent `~/.claude/agents/jazz-canon-orchestrator.md` (self-contained, model-scoped: Opus). This brief is retained as design history; the agent file is canonical.
+
 **Phase:** 1 (Canon Assembly)
 **Role type:** Orchestrator / synthesis — runs *after* the three style specialists, *before* John's selection gate.
 **Status:** Spec — not yet dispatched. No agents launched and no albums selected as of 2026-06-10.

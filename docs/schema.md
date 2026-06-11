@@ -1,8 +1,9 @@
 # Data Model & Schema — Phase 3
 
-**Version:** 1.0
-**Date:** 2026-06-10
+**Version:** 1.1
+**Date:** 2026-06-11 (v1.0: 2026-06-10)
 **Status:** Design complete. Schema is *applied* at Phase 4 (`CREATE SCHEMA _jazzcanon`), not now.
+**v1.1:** Collections added (multi-canon extensibility); `album.year` CHECK widened to 1900–2100.
 **Companions:** `data/schema.sql` (DDL) · `data/seed.json` (worked example) · `data/data-platform-handoff.json` (machine-readable handoff)
 
 ---
@@ -42,6 +43,12 @@ RAG pipeline — speaks this language.
 6. **Soft curation, hard facts.** Canon membership (`canon_status`) is editorial and mutable; album
    facts (personnel, sessions) are source-grounded. Keep the two conceptually separate even though
    both ride on `album`.
+7. **The platform outlives the first canon.** *(added 2026-06-11)* The ~100-album canon is a
+   well-researched proof of concept, not the ceiling. Nothing in the schema assumes one canon, one
+   era, or the current style list: styles are rows (add `vocal-jazz` with an INSERT), the year CHECK
+   is wide (1900–2100), and albums belong to named **collections** (§5.2b) — the first canon is just
+   the first collection. Growth in albums, artists, styles, or whole new canons is an ingest run,
+   never a migration.
 
 ---
 
@@ -139,6 +146,18 @@ is the reference with rationale. All `id` columns are `uuid` (default `gen_rando
 
 Secondary styles via `album_style(album_id, style_id, is_primary)` M:N; `style_primary_id` is the
 denormalized convenience copy of the primary.
+
+### 5.2b `collection` — named album collections *(added 2026-06-11)*
+
+| Table | Key | Columns | Rationale |
+|-------|-----|---------|-----------|
+| `collection` | `id serial` | `slug` (unique), `name`, `description`, `created_at` | A named, durable grouping of albums. The ~100-album canon is the *first* collection (seeded at Phase 4 ingest as `core-canon`); a Fusion canon, a "Desert Island 20", or any future curation needs no migration. |
+| `album_collection` | `(album_id, collection_id)` | `position` (optional ordering), `added_at`, `notes` | M:N membership. `ON DELETE CASCADE` both ways. |
+
+Relationship to `canon_status`: `canon_status` remains the editorial *workflow* flag for the
+canon-building process (candidate → included/excluded); collection membership is the durable
+*structure*. Phase 4 ingest sets both: `include: true` → `canon_status = 'included'` **and** a
+`core-canon` membership row.
 
 ### 5.3 `person` — unified people
 
@@ -367,6 +386,7 @@ Defined in `schema.sql`:
 | Sideman network / graph | `v_sideman_network` |
 | Composition by X | `v_composer_works` |
 | Album cover for UI | `v_album_primary_art` |
+| Browse a collection | `v_collection_albums` |
 | Search document source | `v_album_search_source`, `v_person_search_source` (feed embedding build) |
 | "Why is this in the canon / how sure are we?" | epistemic + `citation` exposed in detail views |
 
@@ -429,6 +449,16 @@ a tracked `manifest.json` records what was fetched); copy into the static bundle
 - **Namespace** — `_jazzcanon` for all official paperwork; `mccoy-tyner` stays the codename.
 - **Embedding model** — local `nomic-embed-text` (768) on vps4, working-first and reversible (§8.1).
 - **Post-Bop** — Modal agent absorbs it (Option A).
+
+**Decided 2026-06-11 (John):**
+- **Collections** — `collection` + `album_collection` added; the ~100 canon is the first collection
+  (`core-canon`), not the only one. Multi-canon growth is an INSERT, not a migration (§5.2b).
+- **Year CHECK widened** to 1900–2100 — the platform outlives the first canon's era.
+- **API/serving (Phase 4 posture)** — staged: static export remains the app's data source; a
+  **read-only PostgREST** instance over the `_jazzcanon` views (using `_jazzcanon_ro`) is the
+  zero-code REST layer when a live consumer appears; an **MCP server** wrapping the same views is
+  the banked agent-facing interface. The views/functions in §9 *are* the API contract — every
+  serving layer (static bundle, PostgREST, MCP) speaks the same vocabulary.
 
 **Album art (added 2026-06-10, defaults — flip any):**
 - **Sources:** Cover Art Archive (via MusicBrainz MBID) primary; iTunes Search API fallback.
