@@ -1,8 +1,9 @@
 # Data Model & Schema — Phase 3
 
-**Version:** 1.1
-**Date:** 2026-06-11 (v1.0: 2026-06-10)
+**Version:** 1.2
+**Date:** 2026-06-12 (v1.1: 2026-06-11; v1.0: 2026-06-10)
 **Status:** Design complete. Schema is *applied* at Phase 4 (`CREATE SCHEMA _jazzcanon`), not now.
+**v1.2:** `album.apple_album_id` + optional `track.apple_track_id` added (Apple Music; captured free via iTunes Search). Merge-seam confirmed separable with no migration (§12).
 **v1.1:** Collections added (multi-canon extensibility); `album.year` CHECK widened to 1900–2100.
 **Companions:** `data/schema.sql` (DDL) · `data/seed.json` (worked example) · `data/data-platform-handoff.json` (machine-readable handoff)
 
@@ -134,6 +135,7 @@ is the reference with rationale. All `id` columns are `uuid` (default `gen_rando
 | `style_primary_id` | `int` FK→style NOT NULL | |
 | `recording_dates_text` | `text` | free-form fallback for ranges/uncertainty |
 | `multi_session` | `bool` | from personnel schema |
+| `apple_album_id` | `text` (nullable) | iTunes `collectionId` / Apple Music album id — previews, links, MusicKit player at serving. Captured free via iTunes Search in Phase 1–2; sits beside `musicbrainz_release_group_mbid` as a stable external key. |
 | `canon_status` | enum `candidate`/`included`/`excluded` | editorial; default `candidate` |
 | `canon_tier` | enum `consensus_core`/`contested`/`scope_call`/`exclude_suggested` (nullable) | provenance from the Orchestrator ballot |
 | `priority` | enum `must_have`/`strong`/`consider` (nullable) | agent/orchestrator confidence |
@@ -202,6 +204,7 @@ Producers/engineers attach via `production_credit` (album- or session-level), no
 | `track_number` | `int` | across all sides |
 | `side` | `text` (nullable) | A/B/C/D or null (CD) |
 | `duration_text` | `text` | "MM:SS" |
+| `apple_track_id` | `text` (nullable) | iTunes `trackId` / Apple Music track id (optional; resolved at serving) |
 | `bonus_track`/`alternate_take` | `bool` | |
 | `epistemic_track` | enum | |
 
@@ -416,6 +419,7 @@ validated JSON, not interactive inserts, so heavy write-side functions are defer
 | personnel `tracks[].composers` | `track_composer` + `person` |
 | personnel `tracks[].personnel` | `performance_track` (resolved) |
 | personnel `musicbrainz_release_group_mbid` | `album.musicbrainz_release_group_mbid` |
+| personnel `apple_album_id` | `album.apple_album_id` |
 | personnel `cover_art[]` (refs captured by agents) | `album_art` rows (files fetched at Phase 4) |
 | every `sources[]` | `citation` rows |
 
@@ -459,6 +463,19 @@ a tracked `manifest.json` records what was fetched); copy into the static bundle
   zero-code REST layer when a live consumer appears; an **MCP server** wrapping the same views is
   the banked agent-facing interface. The views/functions in §9 *are* the API contract — every
   serving layer (static bundle, PostgREST, MCP) speaks the same vocabulary.
+
+**Decided 2026-06-12 (John):**
+- **Streaming = Apple Music** (John is an Apple Music subscriber; supersedes an earlier Spotify lean).
+  Added `album.apple_album_id` (+ optional `track.apple_track_id`) — the iTunes `collectionId`/`trackId`,
+  captured free via the iTunes Search API in Phase 1–2. Powers free 30-sec previews + artwork + Apple
+  links on the public site, and the paid MusicKit player ($99/yr Apple Developer Program) for full-length
+  playback at serving. No player, auth, or spend in the data phase.
+- **Merge-seam confirmed separable.** Under plan-v2 the style specialists gather personnel in one pass
+  (nested `personnel_record`); this schema already stores personnel in **dedicated tables** (`performance`,
+  `performance_track`/`_session`, `production_credit`, `session`, `track`) fully independent of the
+  album's canon-judgment columns (`canon_status`/`canon_tier`/`priority`/`inclusion_rationale`).
+  Re-splitting personnel into a separate agent is therefore an *ingest-pipeline* change only — **no schema
+  migration**. The seam is structural and already open.
 
 **Album art (added 2026-06-10, defaults — flip any):**
 - **Sources:** Cover Art Archive (via MusicBrainz MBID) primary; iTunes Search API fallback.

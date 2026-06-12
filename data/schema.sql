@@ -110,6 +110,7 @@ CREATE TABLE album (
     multi_session        boolean NOT NULL DEFAULT false,
     musicbrainz_release_group_mbid text,   -- stable external key (art + future enrichment)
     musicbrainz_release_mbid       text,   -- specific pressing, when distinguished
+    apple_album_id                 text,   -- iTunes collectionId / Apple Music album id (previews, links, MusicKit player at serving; captured free via iTunes Search in Phase 1-2)
     canon_status         canon_status NOT NULL DEFAULT 'candidate',
     canon_tier           canon_tier,
     priority             priority_label,
@@ -176,6 +177,7 @@ CREATE TABLE track (
     track_number   int,
     side           text CHECK (side IN ('A','B','C','D') OR side IS NULL),
     duration_text  text,
+    apple_track_id text,                               -- iTunes trackId / Apple Music track id (optional; resolved at serving)
     bonus_track    boolean NOT NULL DEFAULT false,
     alternate_take boolean NOT NULL DEFAULT false,
     epistemic_track epistemic_label NOT NULL DEFAULT 'obs',
