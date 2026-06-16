@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls ~/.claude/skills/ | grep -i honcho)"
+    ]
+  }
+}

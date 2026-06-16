@@ -2,39 +2,24 @@
 
 ## Current Focus
 
-Between-phase refinement (Phase 3 → Phase 4). Five directives from John:
+Hardening the jazz canon build from plan to runnable, then setting up a model A/B. This session (2026-06-12 → 2026-06-16) took the project from "Phase 3 done" to "Segment A live," adopted Apple Music, and stood up a clean-room Kimi Code twin for a Claude-vs-Kimi comparison. Still no albums dispatched — but everything is now ready to run.
 
-1. **Architect for the future** — structure in place to grow beyond 100 albums (more albums, artists, styles) without rework.
-2. **Treat the 100-album project as a robust, well-architected proof of concept** — built to extend without practical limits, usable for years in unforeseen ways.
-3. **Research agents as first-class tools** — each of the 3 style specialists (and all project agents) well-spec'd, named, standalone, and scoped to the best-suited Claude model.
-4. **Evaluate an API** for the database/data resource (blends into Phase 4).
-5. **All agents created so far become first-class Claude Agents** that function outside the confines of this project.
+## Key Decisions (this session)
 
-Goal: end-to-end plan through Phase 4 rock solid, capable of being run with a one-shot prompt. Still in planning/architecting — no implementation.
-
-## Honcho Context
-
-Dialectic chat timed out (8s plugin limit); hook + curation log used instead. Relevant from curation log (2026-06-09 session): three parallel style specialists chosen over one general researcher; priority field (must_have/strong/consider) enables advocacy step; advocacy workflow planned but not written — Canon Orchestrator brief has since absorbed this. Subagent model preference on record: Haiku for mechanical/parallel work, Sonnet/Opus for judgment.
-
-## Key Decisions
-
-All four decision points approved as recommended (AskUserQuestion, 2026-06-11):
-
-- **Collections now** — `collection` + `album_collection` added (schema v1.1); the ~100 canon = first collection `core-canon`. `album.year` CHECK widened 1940–1990 → 1900–2100.
-- **Five named standalone agents** in `~/.claude/agents/`: jazz-hard-bop-researcher, jazz-cool-jazz-researcher, jazz-modal-jazz-researcher, jazz-canon-orchestrator (Opus), jazz-personnel-researcher (Sonnet). Self-contained, dispatch-parameterized; briefs marked superseded.
-- **Staged serving** — static export default; PostgREST read-only over `_jazzcanon` views when a live consumer appears; MCP server banked. Views = the API contract.
-- **Model posture** — Opus where research judgment concentrates; Sonnet for high-volume extraction; Haiku for mechanical steps.
-- Plan bumped to v1.4; `docs/runbook.md` created (Segments A–D, gates as hard stops).
-- Stale `~/.claude/agents/jazz-researcher.md` flagged for John to delete (predates specialist design).
+- **Plan/Runbook v2** written (`docs/plan-v2.md`, `docs/runbook-v2.md`); v1 retained as history. Two structural shifts: the **"Starting with 100"** pivot (collection grows organically; canon is a curated lens) and **the merge** (style specialists now gather canon judgment AND personnel in one two-phase pass).
+- **Agent updates** (Steps 1–3): name scrub to "the jazz canon project" (kept McCoy-Tyner-the-musician refs); model defaults are floors, overridable up per dispatch; hardwired counts replaced by a **dispatch directive** (count and/or focus); personnel contract extracted to **`docs/personnel-contract.md`** (single source of truth, read at dispatch); record gains a nested `personnel_record` block = the **seam** for a future split; specialists read a dispatch-ledger (exclude) + cull-notes (calibrate); orchestrator reframed as a recurring gardener.
+- **Apple Music, not Spotify** — Spotify killed previews; Apple still serves them and gives John full playback as a subscriber. Schema bumped to **v1.2** (`apple_album_id` on album, optional `apple_track_id` on track). Capture is free via the iTunes Search API in the data phase; paid MusicKit player deferred to serving. John now has an Apple Developer account + MusicKit access; `.env.example`/`.env.local` carry the Apple block; `*.p8` gitignored.
+- **Merge-seam confirmed** needs no migration — personnel already lives in dedicated tables independent of canon-judgment columns.
+- **Model A/B pivot** — Fable 5 suspended worldwide (2026-06-12, US export-control directive), killing the Opus-vs-Fable plan. Replaced with a **Claude Code vs Kimi Code** comparison: clean-room twin repo `~/dev/active/mccoy-tyner-kc/` (own git, own DB namespace `_jazzcanonkc`, solution-design deliberately withheld to avoid the "transcription trap"; `docs/runbook-kernel.md` gives Kimi gated starter prompts that make it design its own).
+- **Runbook-v2 cleaned** of the dead Fable A/B (POC now runs on Opus 4.8).
 
 ## Notes
 
-- Session started: 2026-06-11
-- Current state: plan v1.3, Phase 3 schema design complete (docs/schema.md, data/schema.sql), 5 agent briefs in research/agent-briefs/, no agents dispatched yet
-- Existing global agent ~/.claude/agents/jazz-researcher.md is a stale generalist (predates the 3-specialist design, references moved/missing files: plan-v1.md at root, initial.questions.md) — needs replacement or retirement as part of point 5
-- Prior session (2026-06-10) deliverables were committed: 6d66e62, a8cbcf6
+- Execution mode: **slow, gated iteration** — not one-shot automation (John's explicit choice).
+- **Nothing committed to git** in either repo this whole session — John's standing call.
+- Memory files written this session: `move-to-v2`, `execution-mode-slow-iterate`, `kimi-ab-twin` (+ the research-platform-template vision saved to Honcho as peer=john).
 
 ## Session Status
-Completed: 2026-06-11
+Completed: 2026-06-16
 Servers cleaned: none added this session
-Honcho curation: 4 items written (collections-as-platform-extension, model posture confirmed, staged serving posture, runbook gate pattern); 3 rejected (timing/date-bound, stale agent cleanup task, bug fix already captured)
+Honcho curation: 1 consolidated user-fact written (Apple Developer account + Claude-vs-Kimi A/B); template vision already saved earlier in session

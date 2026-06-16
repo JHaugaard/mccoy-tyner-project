@@ -48,14 +48,10 @@ Each prompt invokes the merged contract + ledger/cull-notes awareness (built int
 | `jazz-cool-jazz-researcher` | same, 10 records → `research/cool-jazz-candidates.md` |
 | `jazz-modal-jazz-researcher` | same, 10 records → `research/modal-jazz-candidates.md` |
 
-**Model A/B — Opus 4.8 vs Fable 5 (free window, before 2026-06-22).** Best run **standalone, first**, to
-settle the model before the full POC. **No-bleed protocol:** keep `dispatch-ledger.json` and `cull-notes.md`
-**empty for both runs** (identical inputs); dispatch the **modal** specialist **twice in parallel**, same
-prompt and count, the *only* difference being `model: opus` vs `model: fable`; write to **distinct,
-neutrally-named** paths (`research/modal-run-1.md` / `research/modal-run-2.md`) so neither sees the other
-and you can judge **blind**. Do **not** update the ledger until after you compare and pick. Then run the
-full 3-style POC on the winner. Compare the two runs on judgment quality, source grounding, personnel
-depth/accuracy, and scope discipline before un-blinding.
+**Model:** run on **Opus 4.8** (the specialists' default floor). The originally-planned Opus-vs-Fable-5
+A/B is **void** — Fable 5 was suspended worldwide on 2026-06-12 under a US export-control directive, no
+restoration date. The model comparison moved **cross-harness**: the Kimi Code build lives in the twin repo
+`~/dev/active/mccoy-tyner-kc/` (clean-room, walled). Nothing model-comparative happens inside this runbook.
 
 **Validate before proceeding:** each file has a source map (≥4 sources); JSON blocks parse; every record
 carries the **full merged contract** (canon fields **and** a personnel block with `obs/inf/unk` labels);
@@ -67,7 +63,7 @@ Only if useful at 30 albums — likely skip for the POC, run once the collection
 (it never sets `include`).
 
 ### A3. 🛑 GATE — John reviews the POC
-John reviews the 30 records (and the Fable-vs-Opus pair). For each: accept / cull. He:
+John reviews the 30 records. For each: accept / cull. He:
 1. promotes accepted records in `data/canon-draft.json` (`include: true`);
 2. **updates `data/dispatch-ledger.json`** — adds accepted albums to `albums_in_collection`, logs the
    dispatch row (agent, date, requested, accepted, model);
@@ -152,15 +148,9 @@ with its own UX gate.
 
 ## Master prompts
 
-**Model A/B (optional, run first — settles Opus vs Fable):**
-> Run the Model A/B from `docs/runbook-v2.md` Segment A: with `dispatch-ledger.json` and `cull-notes.md`
-> empty, dispatch the **modal** specialist twice in parallel — identical prompt and count of 10, one on
-> `model: opus`, one on `model: fable` — writing to `research/modal-run-1.md` and `research/modal-run-2.md`.
-> Do not touch the ledger. Stop and show me both, labeled only run-1 / run-2, for a blind compare.
-
 **Segment A (POC):**
 > Run Segment A of `docs/runbook-v2.md`: initialize the ledger + cull-notes if needed, dispatch the three
-> specialists (10 records each, merged contract) on [chosen model], validate all outputs, and stop at the
+> specialists (10 records each, merged contract) on Opus 4.8, validate all outputs, and stop at the
 > A3 gate with a per-style summary and anything needing my attention.
 
 **Segment B (one dispatch):**
