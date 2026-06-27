@@ -1,0 +1,306 @@
+{
+  "id": "charles-mingus-mingus-ah-um",
+  "artist": "Charles Mingus",
+  "album": "Mingus Ah Um",
+  "year": 1959,
+  "label": "Columbia",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "hard-bop",
+    "post-bop",
+    "modal-jazz"
+  ],
+  "sources": [
+    "kimi:wiki-mau; allmusic-mau; jazzdisco-mingus; jazztome-mau; mingus-dot-com; discogs-mau; bsnpubs-columbia; apple-mau; task-list"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: wiki-mau; allmusic-mau; jazzdisco-mingus; jazztome-mau; mingus-dot-com; discogs-mau; bsnpubs-columbia; apple-mau; task-list. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "CL 1370",
+  "personnel_record": {
+    "recording_dates": [
+      "1959-05-05",
+      "1959-05-12"
+    ],
+    "multi_session": true,
+    "studio": "FILL-REQUIRED",
+    "producer": "FILL-REQUIRED",
+    "engineer": "FILL-REQUIRED",
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Horace Parlan",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Booker Ervin",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Handy",
+        "instrument": "alto saxophone / tenor saxophone / clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Shafi Hadi",
+        "instrument": "alto saxophone / tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Knepper",
+        "instrument": "trombone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Willie Dennis",
+        "instrument": "trombone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Better Git It in Your Soul",
+        "track_number": 1,
+        "side": null,
+        "duration": "7:22",
+        "session_date": "1959-05-05",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Goodbye Pork Pie Hat",
+        "track_number": 2,
+        "side": null,
+        "duration": "4:48",
+        "session_date": "1959-05-12",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Boogie Stop Shuffle",
+        "track_number": 3,
+        "side": null,
+        "duration": "3:43",
+        "session_date": "1959-05-12",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Self-Portrait in Three Colors",
+        "track_number": 4,
+        "side": null,
+        "duration": "3:06",
+        "session_date": "1959-05-12",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Open Letter to Duke",
+        "track_number": 5,
+        "side": null,
+        "duration": "4:56",
+        "session_date": "1959-05-12",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Bird Calls",
+        "track_number": 6,
+        "side": null,
+        "duration": "3:12",
+        "session_date": "1959-05-05",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Fables of Faubus",
+        "track_number": 7,
+        "side": null,
+        "duration": "8:14",
+        "session_date": "1959-05-05",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Pussy Cat Dues",
+        "track_number": 8,
+        "side": null,
+        "duration": "6:30",
+        "session_date": "1959-05-05",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Jelly Roll",
+        "track_number": 9,
+        "side": null,
+        "duration": "4:02",
+        "session_date": "1959-05-05",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

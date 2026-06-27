@@ -59,6 +59,8 @@ CREATE TABLE studio (
     id        serial PRIMARY KEY,
     name      text NOT NULL,
     city      text,
+    lat       numeric,                       -- for Venue Map feature
+    lon       numeric,
     name_slug text NOT NULL UNIQUE,
     notes     text,
     UNIQUE (name, city)
@@ -105,18 +107,21 @@ CREATE TABLE album (
     leader_person_id     uuid REFERENCES person(id) ON DELETE SET NULL,
     year                 int CHECK (year BETWEEN 1900 AND 2100),  -- wide on purpose: the platform outlives the first canon's era
     label_id             int REFERENCES label(id),
+    catalog_number       text NOT NULL DEFAULT '',           -- original pressing catalog number (e.g. 'BLP-1522')
     style_primary_id     int NOT NULL REFERENCES style(id),
     recording_dates_text text,
     multi_session        boolean NOT NULL DEFAULT false,
     musicbrainz_release_group_mbid text,   -- stable external key (art + future enrichment)
     musicbrainz_release_mbid       text,   -- specific pressing, when distinguished
     apple_album_id                 text,   -- iTunes collectionId / Apple Music album id (previews, links, MusicKit player at serving; captured free via iTunes Search in Phase 1-2)
+    consensus            text,                               -- A/B harness pick: 'both' | 'claude_only' | 'kimi_only'
     canon_status         canon_status NOT NULL DEFAULT 'candidate',
     canon_tier           canon_tier,
     priority             priority_label,
     inclusion_rationale  text,
     epistemic            epistemic_label,
     notes                text,
+    description          text,                               -- public-facing editorial note for UI album detail (nullable)
     search_document      text,
     embedding            vector(768),
     created_at           timestamptz NOT NULL DEFAULT now(),
@@ -136,12 +141,12 @@ CREATE TABLE album_style (
 -- (a Fusion canon, a "Desert Island 20", etc. need no migration later).
 -- `canon_status` remains the editorial workflow flag for the canon-building
 -- process; collection membership is the durable, multi-canon structure.
--- Phase 4 ingest seeds one row (slug 'core-canon') and adds every
+-- Phase 4 ingest seeds one row (slug 'the-jazz-canon') and adds every
 -- include:true album to it.
 -- -----------------------------------------------------------------------------
 CREATE TABLE collection (
     id          serial PRIMARY KEY,
-    slug        text NOT NULL UNIQUE,        -- e.g. 'core-canon'
+    slug        text NOT NULL UNIQUE,        -- e.g. 'the-jazz-canon'
     name        text NOT NULL,
     description text,
     created_at  timestamptz NOT NULL DEFAULT now()

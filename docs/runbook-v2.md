@@ -21,7 +21,7 @@ John's gates are **hard stops** — the run halts and resumes only on his decisi
 
 ## Preconditions (verify before any dispatch)
 
-- [ ] Working directory: `~/dev/active/mccoy-tyner/`
+- [x] Working directory: `~/dev/active/mccoy-tyner/`
 - [x] Specialist agents updated to merged role (Step 2, 2026-06-12) — **done**
 - [ ] `docs/genre-definitions.md` present (scope authority, passed to specialists)
 - [ ] `data/dispatch-ledger.json` exists (initialize empty on first run) and `research/cull-notes.md` exists
@@ -78,6 +78,9 @@ John reviews the 30 records. For each: accept / cull. He:
 
 The growth loop. Repeat as often as wanted; each run is one **dispatch spec**.
 
+### B0. Cross-harness diff on overlaps (read-only, at the gate)
+Before the B3 review: for any album in this batch also covered in the Kimi twin (`~/dev/active/mccoy-tyner-kc/research/`), diff the two records and surface only the divergences (composer credits, dates, personnel) for John's eye. **Read-only and product-only:** raw `research/*.md` artifacts in both repos stay pristine (they are the A/B); corrections land only in `data/canon-draft.json`. Overlap is derived on the fly — no tracking file. Manual/on-demand; never scheduled or hooked (preserves the clean-room wall and the slow-iterate mode).
+
 ### B1. Spec the dispatch
 Choose: **style** (which specialist) · **count** · **model** · output path. `exclude` is **automatic** —
 the agent reads the current ledger. Optionally target a gap the gardener flagged.
@@ -101,7 +104,13 @@ supports this — no migration. Document the reason in `research/cull-notes.md` 
 Design locked (schema v1.1): `docs/schema.md`, `data/schema.sql`, `data/seed.json`,
 `data/data-platform-handoff.json`. **Before ingest, apply John's step-3 changes:**
 1. add `apple_album_id` (album) + optional `apple_track_id` (track);
-2. confirm the personnel block is cleanly separable (merge-seam check).
+2. confirm the personnel block is cleanly separable (merge-seam check);
+3. **pin the `year` field's meaning — recording year vs. release year.** Surfaced 2026-06-18 by
+   the Kimi-twin cross-check: our specialists recorded *recording* year, Kimi's recorded *release*
+   year, producing apparent gaps that are the same fact (*Speak No Evil* 1964 rec / 1966 rel;
+   *The Sidewinder* 1963 rec / 1964 rel). Decide one convention, document it in `schema.md`, and
+   consider carrying both (`recording_year` + `release_year`) since the personnel record already
+   captures session dates. A single ambiguous `year` will bite any future merge or comparison.
 Then verify `schema.sql` parses (load into a scratch schema and drop). If Phase 1–2 data surfaced any
 other contract gap, **STOP and surface to John** — do not patch silently.
 
@@ -121,7 +130,7 @@ On vps8 (`127.0.0.1:5433`): `CREATE SCHEMA _jazzcanon;` + run `data/schema.sql`;
 2. **Identity-resolve persons** — cluster name variants → `person` + `person_name_variant`;
    **borderline merges go to John** (mini-gate, batched).
 3. **Load** albums, sessions, tracks, performances, production credits, citations.
-4. **Seed collection** — `collection(slug='core-canon')` + membership for every included album.
+4. **Seed collection** — `collection(slug='the-jazz-canon', name='The Jazz Canon')` + membership for every included album. `added_at` timestamps membership — the provenance of when each album joined, without versioned slugs.
 5. **Album art** — resolve MBIDs (honor Phase 1–2 refs; else MusicBrainz, ≤1 req/s) → fetch Cover Art
    Archive → iTunes/Apple → `data/album-art/` + `album_art` rows + `manifest.json`.
 6. **Apple Music IDs** — load captured `apple_album_id`s (preview / link / player targets for the serving phase).

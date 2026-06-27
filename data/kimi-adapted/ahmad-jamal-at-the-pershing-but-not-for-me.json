@@ -1,0 +1,229 @@
+{
+  "id": "ahmad-jamal-at-the-pershing-but-not-for-me",
+  "artist": "Ahmad Jamal",
+  "album": "At the Pershing: But Not for Me",
+  "year": 1958,
+  "label": "Argo Records",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "modal-jazz",
+    "cool-jazz"
+  ],
+  "sources": [
+    "kimi:musicbrainz-aj; discogs-aj; wiki-aj; allmusic-aj; projazz-aj; jazzjournal-aj; stuartnicholson-aj; presto-aj; raggywaltz-aj; allaboutjazz-aj"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: musicbrainz-aj; discogs-aj; wiki-aj; allmusic-aj; projazz-aj; jazzjournal-aj; stuartnicholson-aj; presto-aj; raggywaltz-aj; allaboutjazz-aj. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "LP-628 (mono); LPS-628 (stereo)",
+  "personnel_record": {
+    "recording_dates": [
+      "1958-01-16"
+    ],
+    "multi_session": false,
+    "studio": "FILL-REQUIRED",
+    "producer": "Dave Usher",
+    "engineer": "Malcolm Chisholm",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ahmad Jamal",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Israel Crosby",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Vernel Fournier",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "But Not for Me",
+        "track_number": 1,
+        "side": null,
+        "duration": "3:32",
+        "session_date": "1958-01-16",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "The Surrey With the Fringe on Top",
+        "track_number": 2,
+        "side": null,
+        "duration": "2:35",
+        "session_date": "1958-01-16",
+        "composers": [
+          "Richard Rodgers",
+          "Oscar Hammerstein II"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Moonlight in Vermont",
+        "track_number": 3,
+        "side": null,
+        "duration": "3:10",
+        "session_date": "1958-01-16",
+        "composers": [
+          "Karl Suessdorf",
+          "John Blackburn"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "(Put Another Nickel In) Music, Music, Music",
+        "track_number": 4,
+        "side": null,
+        "duration": "2:57",
+        "session_date": "1958-01-16",
+        "composers": [
+          "Bernie Baum",
+          "Stephan Weiss"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "There Is No Greater Love",
+        "track_number": 5,
+        "side": null,
+        "duration": "3:26",
+        "session_date": "1958-01-16",
+        "composers": [
+          "Isham Jones",
+          "Marty Symes"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Poinciana",
+        "track_number": 6,
+        "side": null,
+        "duration": "8:08",
+        "session_date": "1958-01-16",
+        "composers": [
+          "Buddy Bernier",
+          "Nat Simon"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Woody 'n' You",
+        "track_number": 7,
+        "side": null,
+        "duration": "3:40",
+        "session_date": "1958-01-16",
+        "composers": [
+          "Dizzy Gillespie"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "What's New?",
+        "track_number": 8,
+        "side": null,
+        "duration": "4:11",
+        "session_date": "1958-01-16",
+        "composers": [
+          "Bob Haggart",
+          "Johnny Burke"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

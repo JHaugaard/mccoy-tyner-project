@@ -1,0 +1,404 @@
+{
+  "id": "shorty-rogers-cool-and-crazy",
+  "artist": "Shorty Rogers",
+  "album": "Cool and Crazy",
+  "year": 1953,
+  "label": "RCA Victor",
+  "style_primary": "cool-jazz",
+  "style_tags": [
+    "cool-jazz"
+  ],
+  "sources": [
+    "kimi:jazzdisco-coolcrazy; sessiondays-coolcrazy; discogs-coolcrazy-cd; nypl-coolcrazy; allmusic-rogers; itunes-coolcrazy"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: jazzdisco-coolcrazy; sessiondays-coolcrazy; discogs-coolcrazy-cd; nypl-coolcrazy; allmusic-rogers; itunes-coolcrazy. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "LPM-3138",
+  "personnel_record": {
+    "recording_dates": [
+      "1953-03-26",
+      "1953-04-02"
+    ],
+    "multi_session": true,
+    "studio": "FILL-REQUIRED",
+    "producer": "FILL-REQUIRED",
+    "engineer": "FILL-REQUIRED",
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Shorty Rogers",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Maynard Ferguson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Conrad Gozzo",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Howell",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tom Reeves",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milt Bernhart",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Harry Betts",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Halliburton",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Graas",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Gene Englund",
+        "instrument": "tuba",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Pepper",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bud Shank",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Giuffre",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bob Cooper",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Marty Paich",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Counce",
+        "instrument": "bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Shelly Manne",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Coop The Graas",
+        "track_number": 1,
+        "side": null,
+        "duration": "2:57",
+        "session_date": "1953-03-26",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Infinity Promenade",
+        "track_number": 2,
+        "side": null,
+        "duration": "3:35",
+        "session_date": "1953-03-26",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Short Stop",
+        "track_number": 3,
+        "side": null,
+        "duration": "3:17",
+        "session_date": "1953-03-26",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Boar-Jibu",
+        "track_number": 4,
+        "side": null,
+        "duration": "3:36",
+        "session_date": "1953-03-26",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Contours",
+        "track_number": 5,
+        "side": null,
+        "duration": "3:27",
+        "session_date": "1953-04-02",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Tale Of An African Lobster",
+        "track_number": 6,
+        "side": null,
+        "duration": "3:23",
+        "session_date": "1953-04-02",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Chiquito Loco",
+        "track_number": 7,
+        "side": null,
+        "duration": "3:29",
+        "session_date": "1953-04-02",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "The Sweetheart Of Sigmund Freud",
+        "track_number": 8,
+        "side": null,
+        "duration": "2:40",
+        "session_date": "1953-04-02",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

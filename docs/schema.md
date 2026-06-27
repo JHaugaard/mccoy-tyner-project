@@ -153,13 +153,13 @@ denormalized convenience copy of the primary.
 
 | Table | Key | Columns | Rationale |
 |-------|-----|---------|-----------|
-| `collection` | `id serial` | `slug` (unique), `name`, `description`, `created_at` | A named, durable grouping of albums. The ~100-album canon is the *first* collection (seeded at Phase 4 ingest as `core-canon`); a Fusion canon, a "Desert Island 20", or any future curation needs no migration. |
+| `collection` | `id serial` | `slug` (unique), `name`, `description`, `created_at` | A named, durable grouping of albums. The ~100-album canon is the *first* collection (seeded at Phase 4 ingest as `the-jazz-canon`); a Fusion canon, a "Desert Island 20", or any future curation needs no migration. |
 | `album_collection` | `(album_id, collection_id)` | `position` (optional ordering), `added_at`, `notes` | M:N membership. `ON DELETE CASCADE` both ways. |
 
 Relationship to `canon_status`: `canon_status` remains the editorial *workflow* flag for the
 canon-building process (candidate → included/excluded); collection membership is the durable
 *structure*. Phase 4 ingest sets both: `include: true` → `canon_status = 'included'` **and** a
-`core-canon` membership row.
+`the-jazz-canon` membership row.
 
 ### 5.3 `person` — unified people
 
@@ -456,7 +456,7 @@ a tracked `manifest.json` records what was fetched); copy into the static bundle
 
 **Decided 2026-06-11 (John):**
 - **Collections** — `collection` + `album_collection` added; the ~100 canon is the first collection
-  (`core-canon`), not the only one. Multi-canon growth is an INSERT, not a migration (§5.2b).
+  (`the-jazz-canon`), not the only one. Multi-canon growth is an INSERT, not a migration (§5.2b).
 - **Year CHECK widened** to 1900–2100 — the platform outlives the first canon's era.
 - **API/serving (Phase 4 posture)** — staged: static export remains the app's data source; a
   **read-only PostgREST** instance over the `_jazzcanon` views (using `_jazzcanon_ro`) is the

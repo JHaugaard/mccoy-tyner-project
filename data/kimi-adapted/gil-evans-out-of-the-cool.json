@@ -1,0 +1,344 @@
+{
+  "id": "gil-evans-out-of-the-cool",
+  "artist": "Gil Evans",
+  "album": "Out of the Cool",
+  "year": 1961,
+  "label": "Impulse!",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "modal-jazz"
+  ],
+  "sources": [
+    "kimi:wiki-ooc; mb-vinyl-ooc; discogs-rel10566429; allmusic-ooc; jazztome-ooc; albumlinernotes-ooc; udiscover-ooc; jazzviews-ooc; bsnpubs-impulse; arts-gov-ooc"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: wiki-ooc; mb-vinyl-ooc; discogs-rel10566429; allmusic-ooc; jazztome-ooc; albumlinernotes-ooc; udiscover-ooc; jazzviews-ooc; bsnpubs-impulse; arts-gov-ooc. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "A-4",
+  "personnel_record": {
+    "recording_dates": [
+      "November 18 & 30",
+      "December 10 & 15",
+      "1960"
+    ],
+    "multi_session": true,
+    "studio": "FILL-REQUIRED",
+    "producer": "FILL-REQUIRED",
+    "engineer": "FILL-REQUIRED",
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Gil Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Gil Evans",
+        "instrument": "arranger",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Johnny Coles",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Phil Sunkel",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Keg Johnson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Knepper",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tony Studd",
+        "instrument": "bass trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bill Barber",
+        "instrument": "tuba",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Beckenstein",
+        "instrument": "alto saxophone, flute, piccolo",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eddie Caine",
+        "instrument": "alto saxophone, flute, piccolo",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Budd Johnson",
+        "instrument": "tenor saxophone, soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bob Tricarico",
+        "instrument": "bassoon, flute, piccolo",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Crawford",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums, percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Persip",
+        "instrument": "drums, percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "La Nevada",
+        "track_number": 1,
+        "side": null,
+        "duration": "15:34",
+        "session_date": "1960-12-10/15",
+        "composers": [
+          "Gil Evans"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Where Flamingos Fly",
+        "track_number": 2,
+        "side": null,
+        "duration": "5:13",
+        "session_date": "1960-11-18/30",
+        "composers": [
+          "Elthea Peale",
+          "Harold Courlander",
+          "John Benson Brooks"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Bilbao Song",
+        "track_number": 3,
+        "side": null,
+        "duration": "4:14",
+        "session_date": "1960-12-10/15",
+        "composers": [
+          "Bertolt Brecht",
+          "Kurt Weill"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Stratusphunk",
+        "track_number": 4,
+        "side": null,
+        "duration": "8:05",
+        "session_date": "1960-11-18/30",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Sunken Treasure",
+        "track_number": 5,
+        "side": null,
+        "duration": "4:19",
+        "session_date": "1960-11-18/30",
+        "composers": [
+          "Gil Evans"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

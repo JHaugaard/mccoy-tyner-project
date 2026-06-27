@@ -1,0 +1,172 @@
+{
+  "id": "grant-green-green-street",
+  "artist": "Grant Green",
+  "album": "Green Street",
+  "year": 1961,
+  "label": "Blue Note",
+  "style_primary": "soul-jazz",
+  "style_tags": [
+    "soul-jazz",
+    "hard-bop"
+  ],
+  "sources": [
+    "kimi:discogs-green-lp; discogs-green-master; discogs-green-cd; mb-green-rel; am-green; jazzdisco-green; bn-store-green; mosaic-green; hraudio-green"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: discogs-green-lp; discogs-green-master; discogs-green-cd; mb-green-rel; am-green; jazzdisco-green; bn-store-green; mosaic-green; hraudio-green. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "BLP 4071 (mono) / BST 84071 (stereo)",
+  "personnel_record": {
+    "recording_dates": [
+      "1961-04-01"
+    ],
+    "multi_session": false,
+    "studio": "FILL-REQUIRED",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Grant Green",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ben Tucker",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dave Bailey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "No. 1 Green Street",
+        "track_number": 1,
+        "side": null,
+        "duration": "7:18",
+        "session_date": "1961-04-01",
+        "composers": [
+          "Grant Green"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "'Round About Midnight",
+        "track_number": 2,
+        "side": null,
+        "duration": "7:02",
+        "session_date": "1961-04-01",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Grant's Dimensions",
+        "track_number": 3,
+        "side": null,
+        "duration": "7:54",
+        "session_date": "1961-04-01",
+        "composers": [
+          "Grant Green"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Green With Envy",
+        "track_number": 4,
+        "side": null,
+        "duration": "9:44",
+        "session_date": "1961-04-01",
+        "composers": [
+          "Grant Green"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Alone Together",
+        "track_number": 5,
+        "side": null,
+        "duration": "7:14",
+        "session_date": "1961-04-01",
+        "composers": [
+          "Howard Dietz",
+          "Arthur Schwartz"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

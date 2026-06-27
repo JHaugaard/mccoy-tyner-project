@@ -2,28 +2,30 @@
 
 ## Where are we?
 
-The jazz canon project is fully designed, the agents are built, and the first real run is ready to fire. Nothing has been dispatched yet — no albums gathered, no data loaded — but the blueprint is now executable, not just planned.
+**The Jazz Canon database is fully built and ready for an app.** Phase 4 is complete: 100 albums, 535 musicians, 627 performances in `_jazzcanon` on vps8-core — all enriched with MusicBrainz IDs, Apple Music IDs (97/100), catalog numbers, cover art, semantic embeddings, studios, and production credits. The data is clean; the Cannonball duplicate is merged; identity resolution found nothing else to fix.
 
-Concretely, since the last handoff a lot changed:
+**The project architecture is also settled** beyond just the data. A dedicated session (jazz-canon-extras, 2026-06-26) worked through three open design questions before Phase 5 begins:
 
-- **The plan grew up to v2.** The framing shifted from "pare down to 100" to "start with 100 and grow" — the canon is now a curated lens over a collection that can expand without rework. The plan and an executable runbook live at `docs/plan-v2.md` and `docs/runbook-v2.md`.
-- **The research agents were merged.** The three style specialists (hard bop, cool jazz, modal) now do everything in one pass: pick the album AND gather its full personnel/sessions/tracks. They read a shared `docs/personnel-contract.md` for the personnel format, exclude albums already collected (a ledger), and learn from your past cull decisions (a cull-notes file). The runbook is "live" — its banner has been lifted.
-- **Apple Music replaced Spotify.** You're an Apple person, Apple still serves preview clips (Spotify killed theirs), and you get full playback in your own tool as a subscriber. The schema gained an `apple_album_id` field; capture is free in the data phase via the iTunes Search API. You now have an Apple Developer account; the token-related keys have placeholders in `.env.local`.
-- **A second repo was created for a model bake-off.** Because Fable 5 got pulled offline (a US export-control order), the planned Opus-vs-Fable test is dead. Instead there's now a twin repo, `~/dev/active/mccoy-tyner-kc/`, where you'll build the same project with **Kimi Code** and compare approaches. It's deliberately walled off — its own database namespace, and it does NOT contain any of this build's design, so Kimi has to think for itself.
+- **Admin layer**: Not a coded admin site. A Hermes Agent profile (`jazz-canon-admin`) accessed via Telegram or the Hermes CUI — inference-powered, Claude Sonnet 4.6 doing the thinking, with write access guarded by SOUL.md guardrails. Already proven: Hermes has read access to `_jazzcanon` via `_foundry_app` and it's fast. Build happens in a Hermes session, not here.
 
-Nothing this session is committed to git, in either repo. That's been your call throughout.
+- **Growth loop for new albums**: Settled architecture — fresh JSON batch file per foray (`data/batches/`), not a growing append-with-flags file. The pipeline is: dispatch agent → batch file → John reviews → ingest → enrich → log in dispatch-ledger. Fully documented in `docs/growth-runbook.md`.
+
+- **Data Platforming First scaffold**: The methodology developed across this whole project has been packaged for reuse. Three files now live in `idea-foundry-vault/areas/research/scaffold/` — methodology, new-project starter, and growth-runbook template. Future research corpus projects (economists, film, etc.) start ~40% done.
+
+`docs/plan-v2.md` has been updated to reflect all of the above: Phase 5 is now correctly split into 5A (Hermes admin, separate build) and 5B (public discovery app, this project).
 
 ## What's unresolved?
 
-- **Two housekeeping items you said you'd handle:** (1) `docs/plan-v2.md` still mentions the now-dead Fable A/B in a couple of spots — wants the same cleanup the runbook already got; (2) committing both repos to git when you're ready.
-- **An Apple ID question to settle once you have the token:** the free iTunes `collectionId` may NOT be the same number as the Apple Music catalog album id. A 5-minute test (does the id resolve in the catalog API, or do we look up by UPC?) decides exactly what gets stored. Serving-phase, not urgent.
-- **The Kimi twin still needs its own brief file** (`.claude` / a CLAUDE.md equivalent) — you said you'd set that up.
-- **Smaller, parked:** public-facing product name; whether embeddings stay local to `_jazzcanon` or also feed a cross-project index.
+**The Phase 5B stack decision** is the only real gate before any visible app work begins. Framework, serving model (static export vs PostgREST vs both), and hosting need to be chosen. The Personnel Network force-directed graph is the hero feature and the main constraint on stack selection. See `docs/phase5-and-beyond.md` § 5A.
+
+The minor open items — 3 null Apple IDs, 9 sessions without studio, vocal sub-collection question — are all low priority and not blocking anything.
 
 ## What's next?
 
-If you sit down to move the **Claude build** forward: open `docs/runbook-v2.md` and run **Segment A** — it initializes the ledger and cull-notes, sends the three specialists out for 10 albums each (on Opus 4.8), and stops at your review gate with ~30 source-grounded records across three Markdown files. Nothing touches the database; it's all reviewable text.
+Two parallel tracks you can start in any order:
 
-If you'd rather kick off the **experiment**: open Kimi Code in `~/dev/active/mccoy-tyner-kc/`, read `docs/runbook-kernel.md`, and paste its **Phase 0** prompt — it asks Kimi to propose its own plan and stack, which you then review. (Resist pasting any of the Claude build's design — that's the one rule that keeps the comparison honest.)
+**Track A — Hermes admin profile**: Open a Hermes session, create the `jazz-canon-admin` profile, wire up the Telegram channel, draft SOUL.md with write-access guardrails. This is a Hermes build, not a Claude Code session.
 
-Either path is a calm, gated first step. Both are waiting on you.
+**Track B — Phase 5B stack decision**: Read `docs/phase5-and-beyond.md` § 5A, review `research/ui-reference/`, and make the stack call. No code — just the decision. Once it's made, the build sequence is already laid out session by session.
+
+The growth runbook (`docs/growth-runbook.md`) is ready to use whenever you want to add the next batch of albums.

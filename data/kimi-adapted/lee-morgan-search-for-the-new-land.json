@@ -1,0 +1,211 @@
+{
+  "id": "lee-morgan-search-for-the-new-land",
+  "artist": "Lee Morgan",
+  "album": "Search for the New Land",
+  "year": 1966,
+  "label": "Blue Note",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "post-bop",
+    "modal-jazz",
+    "hard-bop"
+  ],
+  "sources": [
+    "kimi:wiki-sftnl; allmusic-sftnl; discogs-sftnl; bluenote-release-sftnl; bluenote-artist-sftnl; everythingjazz-sftnl; allaboutjazz-sftnl"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: wiki-sftnl; allmusic-sftnl; discogs-sftnl; bluenote-release-sftnl; bluenote-artist-sftnl; everythingjazz-sftnl; allaboutjazz-sftnl. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "BST 84169 (stereo); BLP 4169 (mono)",
+  "personnel_record": {
+    "recording_dates": [
+      "1964-02-15"
+    ],
+    "multi_session": false,
+    "studio": "FILL-REQUIRED",
+    "producer": "FILL-REQUIRED",
+    "engineer": "FILL-REQUIRED",
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Grant Green",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Search for the New Land",
+        "track_number": 1,
+        "side": null,
+        "duration": "15:45",
+        "session_date": "1964-02-15",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "The Joker",
+        "track_number": 2,
+        "side": null,
+        "duration": "5:04",
+        "session_date": "1964-02-15",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Mr. Kenyatta",
+        "track_number": 3,
+        "side": null,
+        "duration": "8:43",
+        "session_date": "1964-02-15",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Melancholee",
+        "track_number": 4,
+        "side": null,
+        "duration": "6:14",
+        "session_date": "1964-02-15",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Morgan the Pirate",
+        "track_number": 5,
+        "side": null,
+        "duration": "6:30",
+        "session_date": "1964-02-15",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

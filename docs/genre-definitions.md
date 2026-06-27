@@ -2,9 +2,13 @@
 
 Working reference for the McCoy Tyner project. Rules evolve as the list develops — this is a personal canon, not an academic taxonomy.
 
-**Version:** draft 1 — May 2026
+**Version:** draft 2 — 2026-06-18 (eras relaxed to guidance, not gates)
 
 ---
+
+## On Eras (read first)
+
+The **Era** line under each genre is a *center of gravity, not a fence*. It tells you where the style clusters — it does **not** reject an album for landing a few years outside. The governing test is always the Test Question at the bottom (swings with structure, post-bebop, pre-fusion in spirit — **regardless of year**). Do not flag or down-rank a candidate for date alone; only the spirit test and the hard Out-of-Scope markers (pre-1949 bebop, free jazz, post-*Bitches Brew* fusion) exclude. When a record sits near an edge, keep it and note *why it belongs*, not *which year it missed*.
 
 ## In Scope
 

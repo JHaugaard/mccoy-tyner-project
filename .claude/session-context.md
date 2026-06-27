@@ -1,25 +1,37 @@
 # Session Context
 
+## Session Name
+jazz-canon-app
+
 ## Current Focus
+Phase 5B — The Public App. Stack decision session first; implementation follows.
+Goal this session: produce a Claude/Kimi-neutral app spec that can be presented to both Claude Code Opus 4.8 and Kimi K2.7 for independent stack selection and first-draft implementation.
 
-Hardening the jazz canon build from plan to runnable, then setting up a model A/B. This session (2026-06-12 → 2026-06-16) took the project from "Phase 3 done" to "Segment A live," adopted Apple Music, and stood up a clean-room Kimi Code twin for a Claude-vs-Kimi comparison. Still no albums dispatched — but everything is now ready to run.
+Side question: is the A/B testing phase (data platform, Kimi twin) done and settled?
 
-## Key Decisions (this session)
+## Honcho Context
+- Phase 4 complete (2026-06-26): 100 albums, 535 persons, 627 performances in `_jazzcanon` on vps8-core. All enriched: MBIDs, Apple IDs (97/100), catalog numbers, cover art, embeddings. Cannonball duplicate merged; identity resolution clean.
+- Phase 5 split: 5A = Hermes admin profile (separate build, not here); 5B = public discovery app (this track).
+- Stack decision is the only gate before any Phase 5B build work.
+- Hero feature: Personnel Network force-directed graph (D3.js force simulation, `v_sideman_network`).
+- Core value proposition (John's words): "Being able to easily find the Paul Chambers nugget is just what I want."
+- Execution preference: slow/iterative, human-gated. Do not pitch full-automation runs.
+- A/B wall rule: Kimi twin repo (`mccoy-tyner-kc`) is read-only from this side; raw artifacts must stay pristine.
+- Stack candidates: Svelte (recommended), React, or static HTML + D3. Hosting: Cloudflare Pages or vps2 + PostgREST.
 
-- **Plan/Runbook v2** written (`docs/plan-v2.md`, `docs/runbook-v2.md`); v1 retained as history. Two structural shifts: the **"Starting with 100"** pivot (collection grows organically; canon is a curated lens) and **the merge** (style specialists now gather canon judgment AND personnel in one two-phase pass).
-- **Agent updates** (Steps 1–3): name scrub to "the jazz canon project" (kept McCoy-Tyner-the-musician refs); model defaults are floors, overridable up per dispatch; hardwired counts replaced by a **dispatch directive** (count and/or focus); personnel contract extracted to **`docs/personnel-contract.md`** (single source of truth, read at dispatch); record gains a nested `personnel_record` block = the **seam** for a future split; specialists read a dispatch-ledger (exclude) + cull-notes (calibrate); orchestrator reframed as a recurring gardener.
-- **Apple Music, not Spotify** — Spotify killed previews; Apple still serves them and gives John full playback as a subscriber. Schema bumped to **v1.2** (`apple_album_id` on album, optional `apple_track_id` on track). Capture is free via the iTunes Search API in the data phase; paid MusicKit player deferred to serving. John now has an Apple Developer account + MusicKit access; `.env.example`/`.env.local` carry the Apple block; `*.p8` gitignored.
-- **Merge-seam confirmed** needs no migration — personnel already lives in dedicated tables independent of canon-judgment columns.
-- **Model A/B pivot** — Fable 5 suspended worldwide (2026-06-12, US export-control directive), killing the Opus-vs-Fable plan. Replaced with a **Claude Code vs Kimi Code** comparison: clean-room twin repo `~/dev/active/mccoy-tyner-kc/` (own git, own DB namespace `_jazzcanonkc`, solution-design deliberately withheld to avoid the "transcription trap"; `docs/runbook-kernel.md` gives Kimi gated starter prompts that make it design its own).
-- **Runbook-v2 cleaned** of the dead Fable A/B (POC now runs on Opus 4.8).
+## Key Decisions
+- Hermes admin profile replaces coded admin site (decided 2026-06-26, jazz-canon-extras session)
+- Growth loop: fresh JSON batch files in `data/batches/`, not append-with-flags
+- Data Platforming First scaffold packaged for reuse in idea-foundry-vault
+
+## Open Items (not blocking)
+- 3 null Apple Music IDs
+- 9 sessions without studio
+- Vocal sub-collection (June Christy, Mel Tormé, Shelly Manne) — deferred
 
 ## Notes
-
-- Execution mode: **slow, gated iteration** — not one-shot automation (John's explicit choice).
-- **Nothing committed to git** in either repo this whole session — John's standing call.
-- Memory files written this session: `move-to-v2`, `execution-mode-slow-iterate`, `kimi-ab-twin` (+ the research-platform-template vision saved to Honcho as peer=john).
-
-## Session Status
-Completed: 2026-06-16
-Servers cleaned: none added this session
-Honcho curation: 1 consolidated user-fact written (Apple Developer account + Claude-vs-Kimi A/B); template vision already saved earlier in session
+- Session started: 2026-06-26
+- Session name: jazz-canon-app
+- UI reference material: `research/ui-reference/`
+- Phase 5 plan: `docs/phase5-and-beyond.md`
+- Status doc: `.docs/status.md`

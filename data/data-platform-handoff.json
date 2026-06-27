@@ -19,7 +19,7 @@
       "Every fact-bearing row carries epistemic (obs/inf/unk) + citation provenance.",
       "Identity-resolution pass (name -> person uuid) is required Phase 4 ingest work; not in research data.",
       "Two semantic engines: pgvector (similarity) + relational/recursive (networks).",
-      "The platform outlives the first canon: albums belong to named collections (the ~100 canon = seed collection 'core-canon'); styles are rows; year CHECK is wide (1900-2100). Growth = ingest run, never migration."
+      "The platform outlives the first canon: albums belong to named collections (the ~100 canon = seed collection 'the-jazz-canon'); styles are rows; year CHECK is wide (1900-2100). Growth = ingest run, never migration."
     ]
   },
 
@@ -46,7 +46,7 @@
     { "name": "person_name_variant", "pk": "id uuid", "columns": ["person_id FK", "variant_name", "source_note"], "purpose": "Identity-resolution support (dedup surface forms)." },
     { "name": "album", "pk": "id text (canon slug)", "columns": ["title", "artist_name", "leader_person_id FK", "year CHECK 1900-2100", "label_id FK", "style_primary_id FK", "recording_dates_text", "multi_session", "musicbrainz_release_group_mbid", "musicbrainz_release_mbid", "apple_album_id", "canon_status", "canon_tier", "priority", "inclusion_rationale", "epistemic", "notes", "search_document", "embedding vector(768)", "created_at", "updated_at"], "purpose": "One row per album; PK is the join key to all research data." },
     { "name": "album_style", "pk": "(album_id, style_id)", "columns": ["is_primary"], "purpose": "M:N secondary style tags." },
-    { "name": "collection", "pk": "id serial", "columns": ["slug UNIQUE", "name", "description", "created_at"], "purpose": "Named album collections; the ~100 canon is the first ('core-canon'), seeded at Phase 4 ingest. Multi-canon growth without migration." },
+    { "name": "collection", "pk": "id serial", "columns": ["slug UNIQUE", "name", "description", "created_at"], "purpose": "Named album collections; the ~100 canon is the first ('the-jazz-canon'), seeded at Phase 4 ingest. Multi-canon growth without migration." },
     { "name": "album_collection", "pk": "(album_id, collection_id)", "columns": ["position", "added_at", "notes"], "purpose": "M:N collection membership; canon_status stays the editorial workflow flag." },
     { "name": "session", "pk": "id uuid", "columns": ["album_id FK CASCADE", "session_date", "session_date_text", "studio_id FK", "sequence", "epistemic"], "purpose": "Recording session; supports multi-session albums." },
     { "name": "track", "pk": "id uuid", "columns": ["album_id FK CASCADE", "session_id FK", "title", "track_number", "side CHECK", "duration_text", "apple_track_id", "bonus_track", "alternate_take", "epistemic_track"], "purpose": "One row per track per album." },

@@ -1,0 +1,193 @@
+{
+  "id": "jackie-mclean-destination-out",
+  "artist": "Jackie McLean",
+  "album": "Destination... Out!",
+  "year": 1964,
+  "label": "Blue Note Records",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "modal-jazz",
+    "post-bop"
+  ],
+  "sources": [
+    "kimi:wiki-doo; discogs-doo; discogs-release-doo; jazzdisco-bn; jazzdisco-mclean; rym-doo; allmusic-doo; bluenote-doo; listening-doo; phase4-tasks"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: wiki-doo; discogs-doo; discogs-release-doo; jazzdisco-bn; jazzdisco-mclean; rym-doo; allmusic-doo; bluenote-doo; listening-doo; phase4-tasks. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "BLP 4165 / BST 84165",
+  "personnel_record": {
+    "recording_dates": [
+      "1963-09-20"
+    ],
+    "multi_session": false,
+    "studio": "FILL-REQUIRED",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Jackie McLean",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Grachan Moncur III",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bobby Hutcherson",
+        "instrument": "vibraphone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Larry Ridley",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jackie McLean",
+        "instrument": "liner notes",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Love and Hate",
+        "track_number": 1,
+        "side": null,
+        "duration": "8:26",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Grachan Moncur III"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Esoteric",
+        "track_number": 2,
+        "side": null,
+        "duration": "9:06",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Grachan Moncur III"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Kahlil the Prophet",
+        "track_number": 3,
+        "side": null,
+        "duration": "10:27",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Jackie McLean"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Riff Raff",
+        "track_number": 4,
+        "side": null,
+        "duration": "7:10",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Grachan Moncur III"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

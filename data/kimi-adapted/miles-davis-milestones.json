@@ -1,0 +1,242 @@
+{
+  "id": "miles-davis-milestones",
+  "artist": "Miles Davis",
+  "album": "Milestones",
+  "year": 1958,
+  "label": "Columbia Records",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "modal-jazz",
+    "hard-bop"
+  ],
+  "sources": [
+    "kimi:wiki-milestones; discogs-milestones; milesdavis-milestones; musicbrainz-milestones; allmusic-milestones; albumlinernotes-milestones; jazztome-milestones; aaj-milestones"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: wiki-milestones; discogs-milestones; milesdavis-milestones; musicbrainz-milestones; allmusic-milestones; albumlinernotes-milestones; jazztome-milestones; aaj-milestones. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "CL 1193",
+  "personnel_record": {
+    "recording_dates": [
+      "1958-02-04",
+      "1958-03-04"
+    ],
+    "multi_session": true,
+    "studio": "FILL-REQUIRED",
+    "producer": "George Avakian",
+    "engineer": "FILL-REQUIRED",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Julian 'Cannonball' Adderley",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Red Garland",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charles Edward Smith",
+        "instrument": "liner notes",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Dr. Jekyll",
+        "track_number": 1,
+        "side": null,
+        "duration": "5:55",
+        "session_date": "1958-03-04",
+        "composers": [
+          "Jackie McLean"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Sid's Ahead",
+        "track_number": 2,
+        "side": null,
+        "duration": "13:13",
+        "session_date": "1958-03-04",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Two Bass Hit",
+        "track_number": 3,
+        "side": null,
+        "duration": "5:19",
+        "session_date": "1958-02-04",
+        "composers": [
+          "Dizzy Gillespie",
+          "John Lewis"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Milestones",
+        "track_number": 4,
+        "side": null,
+        "duration": "5:49",
+        "session_date": "1958-02-04",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Billy Boy",
+        "track_number": 5,
+        "side": null,
+        "duration": "7:19",
+        "session_date": "1958-02-04",
+        "composers": [
+          "Traditional; arranged by Ahmad Jamal"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Straight, No Chaser",
+        "track_number": 6,
+        "side": null,
+        "duration": "10:41",
+        "session_date": "1958-02-04",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

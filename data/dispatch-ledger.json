@@ -1,0 +1,840 @@
+{
+  "albums_in_collection": [
+    {
+      "id": "art-blakey-moanin-1958",
+      "album": "Moanin'",
+      "artist": "Art Blakey & the Jazz Messengers",
+      "year": 1958,
+      "style": "hard-bop"
+    },
+    {
+      "id": "horace-silver-song-for-my-father-1964",
+      "album": "Song for My Father",
+      "artist": "Horace Silver",
+      "year": 1964,
+      "style": "hard-bop"
+    },
+    {
+      "id": "lee-morgan-the-sidewinder-1963",
+      "album": "The Sidewinder",
+      "artist": "Lee Morgan",
+      "year": 1963,
+      "style": "hard-bop"
+    },
+    {
+      "id": "hank-mobley-soul-station-1960",
+      "album": "Soul Station",
+      "artist": "Hank Mobley",
+      "year": 1960,
+      "style": "hard-bop"
+    },
+    {
+      "id": "jimmy-smith-the-sermon-1958",
+      "album": "The Sermon!",
+      "artist": "Jimmy Smith",
+      "year": 1958,
+      "style": "hard-bop"
+    },
+    {
+      "id": "miles-davis-birth-of-the-cool-1950",
+      "album": "Birth of the Cool",
+      "artist": "Miles Davis",
+      "year": 1950,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "dave-brubeck-quartet-time-out-1959",
+      "album": "Time Out",
+      "artist": "The Dave Brubeck Quartet",
+      "year": 1959,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "gerry-mulligan-quartet-1952",
+      "album": "Gerry Mulligan Quartet",
+      "artist": "Gerry Mulligan Quartet",
+      "year": 1952,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "chet-baker-chet-baker-sings-1954",
+      "album": "Chet Baker Sings",
+      "artist": "Chet Baker",
+      "year": 1954,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "art-pepper-art-pepper-meets-the-rhythm-section-1957",
+      "album": "Art Pepper Meets the Rhythm Section",
+      "artist": "Art Pepper",
+      "year": 1957,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "miles-davis-kind-of-blue-1959",
+      "album": "Kind of Blue",
+      "artist": "Miles Davis",
+      "year": 1959,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "john-coltrane-a-love-supreme-1964",
+      "album": "A Love Supreme",
+      "artist": "John Coltrane",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "mccoy-tyner-the-real-mccoy-1967",
+      "album": "The Real McCoy",
+      "artist": "McCoy Tyner",
+      "year": 1967,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "herbie-hancock-maiden-voyage-1965",
+      "album": "Maiden Voyage",
+      "artist": "Herbie Hancock",
+      "year": 1965,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "wayne-shorter-speak-no-evil-1964",
+      "album": "Speak No Evil",
+      "artist": "Wayne Shorter",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "sonny-rollins-saxophone-colossus-1956",
+      "album": "Saxophone Colossus",
+      "artist": "Sonny Rollins",
+      "year": 1956,
+      "style": "hard-bop"
+    },
+    {
+      "id": "cannonball-adderley-somethin-else-1958",
+      "album": "Somethin' Else",
+      "artist": "Cannonball Adderley",
+      "year": 1958,
+      "style": "hard-bop"
+    },
+    {
+      "id": "clifford-brown-max-roach-study-in-brown-1955",
+      "album": "Study in Brown",
+      "artist": "Clifford Brown & Max Roach",
+      "year": 1955,
+      "style": "hard-bop"
+    },
+    {
+      "id": "wes-montgomery-the-incredible-jazz-guitar-of-wes-montgomery-1960",
+      "album": "The Incredible Jazz Guitar of Wes Montgomery",
+      "artist": "Wes Montgomery",
+      "year": 1960,
+      "style": "hard-bop"
+    },
+    {
+      "id": "sonny-clark-cool-struttin-1958",
+      "album": "Cool Struttin'",
+      "artist": "Sonny Clark",
+      "year": 1958,
+      "style": "hard-bop"
+    },
+    {
+      "id": "jackie-mclean-let-freedom-ring-1962",
+      "album": "Let Freedom Ring",
+      "artist": "Jackie McLean",
+      "year": 1962,
+      "style": "hard-bop"
+    },
+    {
+      "id": "freddie-hubbard-ready-for-freddie-1961",
+      "album": "Ready for Freddie",
+      "artist": "Freddie Hubbard",
+      "year": 1961,
+      "style": "hard-bop"
+    },
+    {
+      "id": "kenny-dorham-una-mas-1963",
+      "album": "Una Mas",
+      "artist": "Kenny Dorham",
+      "year": 1963,
+      "style": "hard-bop"
+    },
+    {
+      "id": "grant-green-idle-moments-1963",
+      "album": "Idle Moments",
+      "artist": "Grant Green",
+      "year": 1963,
+      "style": "hard-bop"
+    },
+    {
+      "id": "dexter-gordon-go-1962",
+      "album": "Go",
+      "artist": "Dexter Gordon",
+      "year": 1962,
+      "style": "hard-bop"
+    },
+    {
+      "id": "joe-henderson-page-one-1963",
+      "album": "Page One",
+      "artist": "Joe Henderson",
+      "year": 1963,
+      "style": "hard-bop"
+    },
+    {
+      "id": "horace-silver-blowin-the-blues-away-1959",
+      "album": "Blowin' the Blues Away",
+      "artist": "Horace Silver",
+      "year": 1959,
+      "style": "hard-bop"
+    },
+    {
+      "id": "lou-donaldson-alligator-bogaloo-1967",
+      "album": "Alligator Bogaloo",
+      "artist": "Lou Donaldson",
+      "year": 1967,
+      "style": "hard-bop"
+    },
+    {
+      "id": "jimmy-smith-back-at-the-chicken-shack-1960",
+      "album": "Back at the Chicken Shack",
+      "artist": "Jimmy Smith",
+      "year": 1960,
+      "style": "hard-bop"
+    },
+    {
+      "id": "gene-ammons-boss-tenor-1960",
+      "album": "Boss Tenor",
+      "artist": "Gene Ammons",
+      "year": 1960,
+      "style": "hard-bop"
+    },
+    {
+      "id": "lee-konitz-subconscious-lee-1950",
+      "album": "Subconscious-Lee",
+      "artist": "Lee Konitz",
+      "year": 1950,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "lennie-tristano-lennie-tristano-1955",
+      "album": "Lennie Tristano",
+      "artist": "Lennie Tristano",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "stan-getz-west-coast-jazz-1955",
+      "album": "West Coast Jazz",
+      "artist": "Stan Getz",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "shorty-rogers-and-his-giants-1953",
+      "album": "Shorty Rogers and His Giants",
+      "artist": "Shorty Rogers",
+      "year": 1953,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "shelly-manne-my-fair-lady-1956",
+      "album": "My Fair Lady",
+      "artist": "Shelly Manne",
+      "year": 1956,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "jimmy-giuffre-the-jimmy-giuffre-3-1956",
+      "album": "The Jimmy Giuffre 3",
+      "artist": "Jimmy Giuffre",
+      "year": 1956,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "howard-rumsey-sunday-jazz-a-la-lighthouse-vol-1-1953",
+      "album": "Sunday Jazz a la Lighthouse, Vol. 1",
+      "artist": "Howard Rumsey's Lighthouse All-Stars",
+      "year": 1953,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "lee-konitz-plays-with-the-gerry-mulligan-quartet-1953",
+      "album": "Lee Konitz Plays with the Gerry Mulligan Quartet",
+      "artist": "Lee Konitz",
+      "year": 1953,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "modern-jazz-quartet-django-1955",
+      "album": "Django",
+      "artist": "The Modern Jazz Quartet",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "art-pepper-art-pepper-plus-eleven-1959",
+      "album": "Art Pepper + Eleven – Modern Jazz Classics",
+      "artist": "Art Pepper",
+      "year": 1959,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "dave-brubeck-jazz-at-oberlin-1953",
+      "album": "Jazz at Oberlin",
+      "artist": "The Dave Brubeck Quartet",
+      "year": 1953,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "barney-kessel-the-poll-winners-1957",
+      "album": "The Poll Winners",
+      "artist": "Barney Kessel",
+      "year": 1957,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "gil-evans-new-bottle-old-wine-1958",
+      "album": "New Bottle Old Wine",
+      "artist": "Gil Evans",
+      "year": 1958,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "chet-baker-chet-baker-and-crew-1956",
+      "album": "Chet Baker & Crew",
+      "artist": "Chet Baker",
+      "year": 1956,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "chico-hamilton-quintet-featuring-buddy-collette-1955",
+      "album": "Chico Hamilton Quintet featuring Buddy Collette",
+      "artist": "Chico Hamilton",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "miles-davis-e-s-p-1965",
+      "album": "E.S.P.",
+      "artist": "Miles Davis",
+      "year": 1965,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "miles-davis-miles-smiles-1966",
+      "album": "Miles Smiles",
+      "artist": "Miles Davis",
+      "year": 1966,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "miles-davis-nefertiti-1967",
+      "album": "Nefertiti",
+      "artist": "Miles Davis",
+      "year": 1967,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "john-coltrane-my-favorite-things-1960",
+      "album": "My Favorite Things",
+      "artist": "John Coltrane",
+      "year": 1960,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "john-coltrane-crescent-1964",
+      "album": "Crescent",
+      "artist": "John Coltrane",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "john-coltrane-coltrane-1962",
+      "album": "Coltrane",
+      "artist": "John Coltrane",
+      "year": 1962,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "bill-evans-sunday-at-the-village-vanguard-1961",
+      "album": "Sunday at the Village Vanguard",
+      "artist": "Bill Evans",
+      "year": 1961,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "wayne-shorter-juju-1964",
+      "album": "JuJu",
+      "artist": "Wayne Shorter",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "wayne-shorter-adams-apple-1966",
+      "album": "Adam's Apple",
+      "artist": "Wayne Shorter",
+      "year": 1966,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "joe-henderson-inner-urge-1964",
+      "album": "Inner Urge",
+      "artist": "Joe Henderson",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "herbie-hancock-empyrean-isles-1964",
+      "album": "Empyrean Isles",
+      "artist": "Herbie Hancock",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "mccoy-tyner-sahara-1972",
+      "album": "Sahara",
+      "artist": "McCoy Tyner",
+      "year": 1972,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "chick-corea-now-he-sings-now-he-sobs-1968",
+      "album": "Now He Sings, Now He Sobs",
+      "artist": "Chick Corea",
+      "year": 1968,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "keith-jarrett-the-koln-concert-1975",
+      "album": "The Köln Concert",
+      "artist": "Keith Jarrett",
+      "year": 1975,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "andrew-hill-point-of-departure-1964",
+      "album": "Point of Departure",
+      "artist": "Andrew Hill",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "john-coltrane-blue-train-1957",
+      "album": "Blue Train",
+      "artist": "John Coltrane",
+      "year": 1957,
+      "style": "hard-bop"
+    },
+    {
+      "id": "sonny-rollins-way-out-west-1957",
+      "album": "Way Out West",
+      "artist": "Sonny Rollins",
+      "year": 1957,
+      "style": "hard-bop"
+    },
+    {
+      "id": "clifford-brown-clifford-brown-and-max-roach-1954",
+      "album": "Clifford Brown and Max Roach",
+      "artist": "Clifford Brown & Max Roach",
+      "year": 1954,
+      "style": "hard-bop"
+    },
+    {
+      "id": "art-blakey-a-night-at-birdland-vol-1-1954",
+      "album": "A Night at Birdland, Vol. 1",
+      "artist": "Art Blakey Quintet",
+      "year": 1954,
+      "style": "hard-bop"
+    },
+    {
+      "id": "horace-silver-horace-silver-and-the-jazz-messengers-1954",
+      "album": "Horace Silver and the Jazz Messengers",
+      "artist": "Horace Silver",
+      "year": 1954,
+      "style": "hard-bop"
+    },
+    {
+      "id": "lee-morgan-the-cooker-1957",
+      "album": "The Cooker",
+      "artist": "Lee Morgan",
+      "year": 1957,
+      "style": "hard-bop"
+    },
+    {
+      "id": "hank-mobley-roll-call-1960",
+      "album": "Roll Call",
+      "artist": "Hank Mobley",
+      "year": 1960,
+      "style": "hard-bop"
+    },
+    {
+      "id": "jackie-mclean-bluesnik-1961",
+      "album": "Bluesnik",
+      "artist": "Jackie McLean",
+      "year": 1961,
+      "style": "hard-bop"
+    },
+    {
+      "id": "freddie-hubbard-hub-tones-1962",
+      "album": "Hub-Tones",
+      "artist": "Freddie Hubbard",
+      "year": 1962,
+      "style": "hard-bop"
+    },
+    {
+      "id": "dexter-gordon-our-man-in-paris-1963",
+      "album": "Our Man in Paris",
+      "artist": "Dexter Gordon",
+      "year": 1963,
+      "style": "hard-bop"
+    },
+    {
+      "id": "kenny-burrell-midnight-blue-1963",
+      "album": "Midnight Blue",
+      "artist": "Kenny Burrell",
+      "year": 1963,
+      "style": "hard-bop"
+    },
+    {
+      "id": "donald-byrd-a-new-perspective-1963",
+      "album": "A New Perspective",
+      "artist": "Donald Byrd",
+      "year": 1963,
+      "style": "hard-bop"
+    },
+    {
+      "id": "cannonball-adderley-the-cannonball-adderley-quintet-in-san-francisco-1959",
+      "album": "The Cannonball Adderley Quintet in San Francisco",
+      "artist": "Cannonball Adderley",
+      "year": 1959,
+      "style": "hard-bop"
+    },
+    {
+      "id": "wes-montgomery-full-house-1962",
+      "album": "Full House",
+      "artist": "Wes Montgomery",
+      "year": 1962,
+      "style": "hard-bop"
+    },
+    {
+      "id": "tina-brooks-true-blue-1960",
+      "album": "True Blue",
+      "artist": "Tina Brooks",
+      "year": 1960,
+      "style": "hard-bop"
+    },
+    {
+      "id": "miles-davis-miles-ahead-1957",
+      "album": "Miles Ahead",
+      "artist": "Miles Davis",
+      "year": 1957,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "stan-getz-focus-1961",
+      "album": "Focus",
+      "artist": "Stan Getz",
+      "year": 1961,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "lee-konitz-lee-konitz-with-warne-marsh-1955",
+      "album": "Lee Konitz with Warne Marsh",
+      "artist": "Lee Konitz",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "modern-jazz-quartet-fontessa-1956",
+      "album": "Fontessa",
+      "artist": "The Modern Jazz Quartet",
+      "year": 1956,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "john-lewis-grand-encounter-1956",
+      "album": "Grand Encounter: 2° East / 3° West",
+      "artist": "John Lewis",
+      "year": 1956,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "june-christy-something-cool-1955",
+      "album": "Something Cool",
+      "artist": "June Christy",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "bill-evans-everybody-digs-bill-evans-1958",
+      "album": "Everybody Digs Bill Evans",
+      "artist": "Bill Evans",
+      "year": 1958,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "gerry-mulligan-what-is-there-to-say-1959",
+      "album": "What Is There to Say?",
+      "artist": "Gerry Mulligan Quartet",
+      "year": 1959,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "gil-evans-gil-evans-and-ten-1957",
+      "album": "Gil Evans & Ten",
+      "artist": "Gil Evans",
+      "year": 1957,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "jimmy-giuffre-the-jimmy-giuffre-clarinet-1956",
+      "album": "The Jimmy Giuffre Clarinet",
+      "artist": "Jimmy Giuffre",
+      "year": 1956,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "stan-kenton-contemporary-concepts-1955",
+      "album": "Contemporary Concepts",
+      "artist": "Stan Kenton",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "paul-desmond-take-ten-1963",
+      "album": "Take Ten",
+      "artist": "Paul Desmond",
+      "year": 1963,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "bob-brookmeyer-the-dual-role-of-bob-brookmeyer-1955",
+      "album": "The Dual Role of Bob Brookmeyer",
+      "artist": "Bob Brookmeyer",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "shorty-rogers-martians-come-back-1955",
+      "album": "Martians Come Back!",
+      "artist": "Shorty Rogers",
+      "year": 1955,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "mel-torme-mel-torme-and-the-marty-paich-dek-tette-1956",
+      "album": "Mel Tormé and the Marty Paich Dek-Tette",
+      "artist": "Mel Tormé",
+      "year": 1956,
+      "style": "cool-jazz"
+    },
+    {
+      "id": "john-coltrane-live-at-the-village-vanguard-1961",
+      "album": "\"Live\" at the Village Vanguard",
+      "artist": "John Coltrane",
+      "year": 1961,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "john-coltrane-ballads-1962",
+      "album": "Ballads",
+      "artist": "John Coltrane",
+      "year": 1962,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "john-coltrane-africa-brass-1961",
+      "album": "Africa/Brass",
+      "artist": "John Coltrane",
+      "year": 1961,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "bill-evans-portrait-in-jazz-1959",
+      "album": "Portrait in Jazz",
+      "artist": "Bill Evans",
+      "year": 1959,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "bill-evans-explorations-1961",
+      "album": "Explorations",
+      "artist": "Bill Evans",
+      "year": 1961,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "bill-evans-waltz-for-debby-1961",
+      "album": "Waltz for Debby",
+      "artist": "Bill Evans",
+      "year": 1961,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "wayne-shorter-night-dreamer-1964",
+      "album": "Night Dreamer",
+      "artist": "Wayne Shorter",
+      "year": 1964,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "wayne-shorter-the-all-seeing-eye-1965",
+      "album": "The All Seeing Eye",
+      "artist": "Wayne Shorter",
+      "year": 1965,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "mccoy-tyner-expansions-1968",
+      "album": "Expansions",
+      "artist": "McCoy Tyner",
+      "year": 1968,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "mccoy-tyner-tender-moments-1967",
+      "album": "Tender Moments",
+      "artist": "McCoy Tyner",
+      "year": 1967,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "herbie-hancock-speak-like-a-child-1968",
+      "album": "Speak Like a Child",
+      "artist": "Herbie Hancock",
+      "year": 1968,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "larry-young-unity-1965",
+      "album": "Unity",
+      "artist": "Larry Young",
+      "year": 1965,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "bobby-hutcherson-dialogue-1965",
+      "album": "Dialogue",
+      "artist": "Bobby Hutcherson",
+      "year": 1965,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "charles-lloyd-forest-flower-1966",
+      "album": "Forest Flower",
+      "artist": "Charles Lloyd",
+      "year": 1966,
+      "style": "modal-jazz"
+    },
+    {
+      "id": "joe-henderson-mode-for-joe-1966",
+      "album": "Mode for Joe",
+      "artist": "Joe Henderson",
+      "year": 1966,
+      "style": "modal-jazz"
+    }
+  ],
+  "dispatches": [
+    {
+      "date": "2026-06-18",
+      "segment": "A",
+      "agent": "jazz-hard-bop-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 5,
+      "returned": 5,
+      "accepted": 5,
+      "culled": 0,
+      "notes": "POC first run; all returned records accepted at A3 gate."
+    },
+    {
+      "date": "2026-06-18",
+      "segment": "A",
+      "agent": "jazz-cool-jazz-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 5,
+      "returned": 5,
+      "accepted": 5,
+      "culled": 0,
+      "notes": "POC first run; all returned records accepted at A3 gate."
+    },
+    {
+      "date": "2026-06-18",
+      "segment": "A",
+      "agent": "jazz-modal-jazz-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 5,
+      "returned": 5,
+      "accepted": 5,
+      "culled": 0,
+      "notes": "POC first run; all returned records accepted at A3 gate."
+    },
+    {
+      "date": "2026-06-23",
+      "segment": "B",
+      "agent": "jazz-hard-bop-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 15,
+      "returned": 15,
+      "accepted": 15,
+      "culled": 0,
+      "notes": "Round 1 of the push-to-100. All records accepted at B3 gate (accept-all, loose-on-membership). r2 file."
+    },
+    {
+      "date": "2026-06-23",
+      "segment": "B",
+      "agent": "jazz-cool-jazz-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 15,
+      "returned": 15,
+      "accepted": 15,
+      "culled": 0,
+      "notes": "Round 1 of the push-to-100. All records accepted at B3 gate (accept-all, loose-on-membership). r2 file."
+    },
+    {
+      "date": "2026-06-23",
+      "segment": "B",
+      "agent": "jazz-modal-jazz-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 15,
+      "returned": 15,
+      "accepted": 15,
+      "culled": 0,
+      "notes": "Round 1 of the push-to-100. All records accepted at B3 gate (accept-all, loose-on-membership). r2 file."
+    },
+    {
+      "date": "2026-06-23",
+      "segment": "B",
+      "agent": "jazz-hard-bop-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 15,
+      "returned": 15,
+      "accepted": 15,
+      "culled": 0,
+      "notes": "Round 2 of the push-to-100. All records accepted at B3 gate (accept-all, loose-on-membership). r3 file."
+    },
+    {
+      "date": "2026-06-23",
+      "segment": "B",
+      "agent": "jazz-cool-jazz-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 15,
+      "returned": 15,
+      "accepted": 15,
+      "culled": 0,
+      "notes": "Round 2 of the push-to-100. All records accepted at B3 gate (accept-all, loose-on-membership). r3 file."
+    },
+    {
+      "date": "2026-06-23",
+      "segment": "B",
+      "agent": "jazz-modal-jazz-researcher",
+      "model": "claude-opus-4-8",
+      "requested": 15,
+      "returned": 15,
+      "accepted": 15,
+      "culled": 0,
+      "notes": "Round 2 of the push-to-100. All records accepted at B3 gate (accept-all, loose-on-membership). r3 file."
+    }
+  ]
+}

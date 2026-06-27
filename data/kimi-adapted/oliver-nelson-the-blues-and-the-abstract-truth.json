@@ -1,0 +1,240 @@
+{
+  "id": "oliver-nelson-the-blues-and-the-abstract-truth",
+  "artist": "Oliver Nelson",
+  "album": "The Blues and the Abstract Truth",
+  "year": 1961,
+  "label": "Impulse!",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "modal-jazz",
+    "hard-bop"
+  ],
+  "sources": [
+    "kimi:wiki-bat; allmusic-bat; discogs-2268702; discogs-4481943; jazztome; rollingstone-aoty; jazz-basics; musicbrainz-rg"
+  ],
+  "epistemic": "obs",
+  "rationale": "Kimi Code research: wiki-bat; allmusic-bat; discogs-2268702; discogs-4481943; jazztome; rollingstone-aoty; jazz-basics; musicbrainz-rg. Adapted by adapt-kimi-record.py; review before ingest.",
+  "priority": "standard",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": false,
+  "consensus": "kimi_only",
+  "catalog_number": "A-5",
+  "personnel_record": {
+    "recording_dates": [
+      "1961-02-23"
+    ],
+    "multi_session": false,
+    "studio": "FILL-REQUIRED",
+    "producer": "Creed Taylor",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Oliver Nelson",
+        "instrument": "tenor saxophone, alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone, flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Barrow",
+        "instrument": "baritone saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "kimi"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Stolen Moments",
+        "track_number": 1,
+        "side": null,
+        "duration": "8:45",
+        "session_date": "1961-02-23",
+        "composers": [
+          "Oliver Nelson"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Hoe-Down",
+        "track_number": 2,
+        "side": null,
+        "duration": "4:42",
+        "session_date": "1961-02-23",
+        "composers": [
+          "Oliver Nelson"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Cascades",
+        "track_number": 3,
+        "side": null,
+        "duration": "5:31",
+        "session_date": "1961-02-23",
+        "composers": [
+          "Oliver Nelson"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Yearnin'",
+        "track_number": 4,
+        "side": null,
+        "duration": "6:23",
+        "session_date": "1961-02-23",
+        "composers": [
+          "Oliver Nelson"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Butch And Butch",
+        "track_number": 5,
+        "side": null,
+        "duration": "4:35",
+        "session_date": "1961-02-23",
+        "composers": [
+          "Oliver Nelson"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      },
+      {
+        "title": "Teenie's Blues",
+        "track_number": 6,
+        "side": null,
+        "duration": "6:34",
+        "session_date": "1961-02-23",
+        "composers": [
+          "Oliver Nelson"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "kimi"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "FILL-REQUIRED",
+    "apple_album_id": "FILL-REQUIRED",
+    "cover_art": {
+      "musicbrainz_url": "FILL-REQUIRED",
+      "itunes_url": "FILL-REQUIRED",
+      "local_path": null,
+      "fetched": false
+    },
+    "notes": "Adapted from Kimi phase4-albums record. Track-level personnel not ported (Kimi pads album lineup per track; see mccoy-tyner-kc/research/phase4-albums/ for source). FILL-REQUIRED fields need research before Phase 4 ingest."
+  }
+}

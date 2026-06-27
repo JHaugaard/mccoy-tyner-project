@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls ~/.claude/skills/ | grep -i honcho)"
+      "Bash(ls ~/.claude/skills/ | grep -i honcho)",
+      "Bash(~/.honcho-venv/bin/python3 *)",
+      "Bash(echo \"---EXIT $?---\")",
+      "Bash(python3 *)"
     ]
   }
 }

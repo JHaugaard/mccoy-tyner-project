@@ -53,7 +53,7 @@ choice is made on **quality and speed, never cost** (see Model Strategy).
   co-occurrence, timelines). A build step exports a **static bundle** (JSON + precomputed neighbors) so the
   app needs no live backend; only free-text NL search would need one.
 - **Built to outlive the first canon:** albums belong to named **collections** (the canon = seed collection
-  `core-canon`); **styles are rows, not enums**; the year CHECK is wide. Adding albums / artists / styles /
+  `the-jazz-canon`); **styles are rows, not enums**; the year CHECK is wide. Adding albums / artists / styles /
   whole new canons is an **ingest run, never a migration** (schema v1.1, `docs/schema.md` §5.2b). *This is
   the structural feature that makes "Starting with 100" free.*
 - **Agents are first-class:** project agents live in `~/.claude/agents/` as named, self-contained,
@@ -87,8 +87,11 @@ choice is made on **quality and speed, never cost** (see Model Strategy).
 
 This is the loop that makes a *growing* collection cheap and good. Four parts:
 
-### 1. The dispatch ledger — `data/dispatch-ledger.json`
+### 1. The dispatch ledger — `data/dispatch-ledger.json` · batch files — `data/batches/`
 A running manifest of **what the collection already contains** and **what has already been dispatched**.
+Each research foray produces a batch file in `data/batches/YYYY-MM-DD-<label>.json` — staging artifacts
+reviewed by John before ingest; kept for provenance after. The operational guide for the growth loop
+lives in `docs/growth-runbook.md`.
 Every specialist reads it **before** a run and treats listed albums as already-claimed (don't re-surface
 *Kind of Blue*). John updates it **after** he accepts picks from a dispatch. Minimal shape:
 
@@ -178,14 +181,26 @@ Locked: `docs/schema.md` (v1.1), `data/schema.sql`, `data/seed.json`, `data/data
 
 ### Phase 4 — Platform Build & App Architecture
 Apply `_jazzcanon`; ingest validated JSON; identity-resolve persons (**borderline merges go to John**);
-seed `core-canon`; fetch album art (Cover Art Archive → iTunes/Apple); build search
+seed `the-jazz-canon` collection; fetch album art (Cover Art Archive → iTunes/Apple); build search
 documents; embed (Ollama, vps4); export static bundle. App stack/UX choices remain John's, decided here.
 *Hosting candidates open (vps2 / Fly.io / Cloudflare Pages) — a later, explicit discussion; the static
 bundle runs identically on all three, so the DB does not constrain the host.*
 
 ### Phase 5 — App Implementation
-Build the interactive exploration app against the static bundle (and, if/when present, the live layer).
-Browse albums; album → tracks → personnel; musician → albums → tracks; search; timelines; "six degrees".
+
+**Two front-ends; different build homes.**
+
+**5A — Admin layer (Hermes Agent — separate build, not in this project):**
+A Hermes Agent profile (`jazz-canon-admin`) replaces the coded admin site. Handles CRUD, research
+queries, batch dispatch, ad-hoc SQL, brainstorming — via Telegram channel or Hermes CUI. Inference-
+powered: Claude Sonnet 4.6 does the thinking, not a form. Write access guarded by SOUL.md/AGENTS.md
+guardrails. Build: spec the profile, Telegram channel, and SOUL.md in a Hermes session; not a
+Claude Code deliverable.
+
+**5B — Public discovery app (this project):**
+The "wow" experience. Build against the static bundle (and live layer when present).
+Hero feature: **Personnel Network** — force-directed graph of musician connections.
+Also: browse albums; album → tracks → personnel; musician → albums; search; timelines; "six degrees".
 
 ### Phase 6 — Deployment & Wrap
 Deploy to the chosen host; document maintenance; bank future extensions (deep-link players, more
