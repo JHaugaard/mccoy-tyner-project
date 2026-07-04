@@ -15,6 +15,14 @@ cp "$PLATFORM/exports/jazz-canon/"details.json "$SITE/app/public/data/"
 cp "$PLATFORM/exports/jazz-canon/"graph.json   "$SITE/app/public/data/"
 echo "✓ Copied contract into site"
 
+# Apple 30-sec preview URLs are not in the DB — fetch them from iTunes and write
+# them into the site's details.json. Best-effort (resilient to per-album misses);
+# non-fatal so a network hiccup can't block a ship — but the preview pause below
+# is your chance to confirm previews actually play before deploying.
+echo "… Enriching Apple previews (iTunes lookup; needs internet)…"
+node "$SITE/scripts/enrich-previews.mjs" || echo "⚠ preview enrichment incomplete (non-fatal) — verify at the preview before deploying"
+echo "✓ Previews enriched"
+
 cd "$SITE/app"
 npm run build >/dev/null
 echo "✓ Built site (app/dist/)"
