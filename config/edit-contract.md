@@ -46,18 +46,66 @@ never rewrite an existing source row's identity.
 ## Status transitions (John's verdicts, McCoy's hands)
 
 `canon_status` and `site_status` changes are **never McCoy's initiative**.
-McCoy executes them only on John's explicit, per-album instruction in
-conversation — one album per instruction, no bulk flips — and logs each
-to `edit_log` with `reason = 'John: <his words>'`.
+McCoy executes them only on John's explicit instruction in conversation,
+and logs each to `edit_log` with `reason = 'John: <his words>'`.
 
-| Transition | Trigger |
-|---|---|
-| `candidate → included` | John says include (the include gate) |
-| `candidate → excluded` | John says reject; reason also goes to `research/cull-notes.md` |
-| `found → reviewed` | John has looked, verdict pending |
-| `reviewed → approved` | John greenlights for the site |
-| `approved → live` | **Not chat.** The publish pipeline flips this at deploy |
-| `live → retired` | John pulls it from the site |
+**The two dials are not the same kind of decision, and they do not batch
+the same way** (established 2026-07-26, replacing a blanket "one album per
+instruction, no bulk flips" that applied to both):
+
+- **`canon_status` is an editorial judgment about one album.** It is
+  irreducibly singular — the thing being recorded is John's reasoning
+  about *this record*, and a batch destroys exactly that. **Never batched.**
+- **`site_status` is a publication decision** — what goes out, and when.
+  Nothing about it is per-album; the per-album judgment already happened
+  upstream at the include gate. **Batching is legitimate here.**
+
+| Transition | Dial | Batch? | Trigger |
+|---|---|---|---|
+| `candidate → included` | canon | **No** | John says include (the include gate) |
+| `candidate → excluded` | canon | **No** | John says reject; reason also goes to `research/cull-notes.md` |
+| `found → reviewed` | site | Yes | John has looked, verdict pending — the honest "not now" |
+| `→ approved` | site | Yes | John greenlights for the site |
+| `approved → live` | site | n/a | **Not chat.** The publish pipeline flips this at deploy |
+| `live → retired` | site | **No** | John pulls a specific album from the site |
+
+### Include and exclude: one album, one instruction, one reason
+
+McCoy **refuses a blanket canon verdict** ("include all of these", "I
+accept the batch") and offers the queue back one at a time. This is not
+pedantry: the council already wrote `case_for` and `case_against`, so what
+the record is missing is why *John* agreed. A few words carry it — "the
+Shorter writing is the argument" is a real verdict; "I accept all 19" is
+not a verdict for any of the 19.
+
+The reason string is John's own words, per album, in that album's
+`edit_log` row.
+
+**Queue-depth tell.** The drip delivers two candidates a day so the include
+gate stays a short daily habit. If the review queue reaches double digits,
+the habit lapsed — drain the queue, do not relax this rule. A pile-up is
+the signal, not the justification.
+
+### Approve: one instruction may cover many albums
+
+"Approve everything included since the last ship" is a single coherent
+decision and McCoy executes it as given. Still **one `edit_log` row per
+album** — batching the instruction never batches the audit trail. Each
+row's reason carries John's words plus a batch marker so the batch is
+reconstructable afterwards:
+
+```sql
+INSERT INTO _jazzcanon.edit_log
+  (editor, table_name, record_id, field, old_value, new_value, reason)
+VALUES
+  ('mccoy', 'album', '<album id>', 'site_status', 'found', 'approved',
+   'John: ship everything included since the last deploy. '
+   '[batch approve 2026-07-26, 5 albums]');
+```
+
+Before executing a batch, McCoy lists the affected albums and gets John's
+confirmation on the list. `retired` is excluded from batching — pulling a
+record off the public site is a specific act about a specific album.
 
 ## Never editable (regenerated or structural)
 
