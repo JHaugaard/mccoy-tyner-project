@@ -13,6 +13,21 @@ Run as postgres user:
   sudo -u postgres /tmp/pg-venv/bin/python3 /tmp/embed.py [--dry-run]
 
 Idempotent: skips records where embedding IS NOT NULL (unless --force).
+
+Targeted regeneration:
+  ... /tmp/embed.py --only-ids <album-id> [<album-id> ...]
+
+  Re-embeds exactly those albums regardless of null-ness, and skips persons
+  entirely. Use this after a content change to a handful of albums — --force
+  would push all 121 albums and 629 persons back through Ollama for it. This
+  is also why the search_document / embedding columns are never nulled by
+  hand to "trigger" a refresh: --only-ids is the supported way in.
+
+The album document includes the council's case_for / case_against prose
+(migrate-4a, 2026-07-26), so John's deliberation is semantically searchable
+alongside the musical identity. Note that _jazzcanon.v_album_search_source
+builds a DIFFERENT document (adds label and notes, omits description) and
+this script does not read it — see docs/follow-ups.md.
 """
 
 import json
@@ -24,6 +39,18 @@ import psycopg2
 
 DRY_RUN = "--dry-run" in sys.argv
 FORCE = "--force" in sys.argv
+
+# --only-ids consumes every remaining non-flag argument
+ONLY_IDS = []
+if "--only-ids" in sys.argv:
+    ONLY_IDS = [a for a in sys.argv[sys.argv.index("--only-ids") + 1:]
+                if not a.startswith("--")]
+    if not ONLY_IDS:
+        print("✗ --only-ids given with no album ids", file=sys.stderr)
+        sys.exit(1)
+    if FORCE:
+        print("✗ --only-ids and --force are mutually exclusive", file=sys.stderr)
+        sys.exit(1)
 OLLAMA_URL = "http://172.18.0.1:11435/api/embeddings"
 MODEL = "nomic-embed-text"
 
@@ -58,31 +85,50 @@ def vec_to_pg(embedding):
 
 # ── Album embeddings ──────────────────────────────────────────────────────────
 
-where_clause = "WHERE a.embedding IS NULL" if not FORCE else "WHERE true"
+if ONLY_IDS:
+    where_clause, album_params = "WHERE a.id = ANY(%s)", (ONLY_IDS,)
+elif FORCE:
+    where_clause, album_params = "WHERE true", ()
+else:
+    where_clause, album_params = "WHERE a.embedding IS NULL", ()
+
 cur.execute(f"""
     SELECT a.id, a.title, a.artist_name, a.year,
            s.display_name as style,
            a.description,
-           STRING_AGG(DISTINCT p.canonical_name || ' (' || inst.name || ')', ', ') as performers
+           STRING_AGG(DISTINCT p.canonical_name || ' (' || inst.name || ')', ', ') as performers,
+           a.case_for, a.case_against
     FROM _jazzcanon.album a
     JOIN _jazzcanon.style s ON s.id = a.style_primary_id
     LEFT JOIN _jazzcanon.performance perf ON perf.album_id = a.id
     LEFT JOIN _jazzcanon.person p ON p.id = perf.person_id
     LEFT JOIN _jazzcanon.instrument inst ON inst.id = perf.instrument_id
     {where_clause}
-    GROUP BY a.id, a.title, a.artist_name, a.year, s.display_name, a.description
+    GROUP BY a.id, a.title, a.artist_name, a.year, s.display_name, a.description,
+             a.case_for, a.case_against
     ORDER BY a.artist_name, a.year
-""")
+""", album_params)
 albums = cur.fetchall()
 print(f"Albums to embed: {len(albums)}")
 
+if ONLY_IDS:
+    found = {row[0] for row in albums}
+    for missing in sorted(set(ONLY_IDS) - found):
+        print(f"  ! --only-ids: no album row for {missing!r} — skipped")
+
 album_ok, album_err = 0, 0
-for album_id, title, artist, year, style, description, performers in albums:
+for (album_id, title, artist, year, style, description, performers,
+     case_for, case_against) in albums:
     parts = [f"{title} by {artist}, {year}", f"Style: {style}"]
     if performers:
         parts.append(f"Performers: {performers}")
     if description:
         parts.append(description)
+    # Council deliberation — searchable alongside the musical identity (4a)
+    if case_for:
+        parts.append(f"Case for inclusion: {case_for}")
+    if case_against:
+        parts.append(f"Case against inclusion: {case_against}")
     doc = ". ".join(parts) + "."
 
     if DRY_RUN:
@@ -111,8 +157,13 @@ if not DRY_RUN:
 
 # ── Person embeddings ─────────────────────────────────────────────────────────
 
-where_clause_p = "WHERE p.embedding IS NULL" if not FORCE else "WHERE true"
-cur.execute(f"""
+persons = []
+person_ok, person_err = 0, 0
+if ONLY_IDS:
+    print("\nPersons: skipped (--only-ids targets albums only)")
+else:
+    where_clause_p = "WHERE p.embedding IS NULL" if not FORCE else "WHERE true"
+    cur.execute(f"""
     SELECT p.id, p.canonical_name,
            STRING_AGG(DISTINCT inst.name, ', ') as instruments,
            STRING_AGG(DISTINCT a.artist_name || ' — ' || a.title || ' (' || a.year::text || ')', '; '
@@ -125,10 +176,9 @@ cur.execute(f"""
     GROUP BY p.id, p.canonical_name
     ORDER BY p.canonical_name
 """)
-persons = cur.fetchall()
-print(f"\nPersons to embed: {len(persons)}")
+    persons = cur.fetchall()
+    print(f"\nPersons to embed: {len(persons)}")
 
-person_ok, person_err = 0, 0
 for person_id, name, instruments, album_list in persons:
     parts = [name]
     if instruments:
@@ -157,7 +207,7 @@ for person_id, name, instruments, album_list in persons:
         print(f"  ✗ {name}: {e}")
         person_err += 1
 
-if not DRY_RUN:
+if not DRY_RUN and not ONLY_IDS:
     conn.commit()
     print(f"Persons: {person_ok} ok, {person_err} errors")
 
