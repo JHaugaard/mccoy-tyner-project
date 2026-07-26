@@ -1,4 +1,4 @@
-# The Jazz Canon — Public App Design Spec v1.0
+# A Jazz Canon — Public App Design Spec v1.0
 
 **Status:** Draft — 2026-06-26  
 **Author:** John Haugaard  
@@ -12,7 +12,7 @@ implementation agent proposes them with rationale. The spec is binding on everyt
 
 ## 1. Overview
 
-The Jazz Canon is a curated set of ~100 canonical jazz albums (post-bebop through
+A Jazz Canon is a curated set of ~100 canonical jazz albums (post-bebop through
 pre-Fusion, ~1949–1972) with track-level personnel records for every album. The data is
 fully built and lives in a Postgres database (`_jazzcanon` schema on vps8-core, port 5433).
 

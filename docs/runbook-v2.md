@@ -1,4 +1,4 @@
-# Runbook v2 — The Jazz Canon, End to End
+# Runbook v2 — A Jazz Canon, End to End
 
 **Version:** 2.0 · 2026-06-12
 **Purpose:** The executable form of `plan-v2.md` (v2.0). Each segment dispatches with a single prompt;
@@ -44,7 +44,7 @@ Each prompt invokes the merged contract + ledger/cull-notes awareness (built int
 
 | Agent | Dispatch prompt |
 |-------|----------------|
-| `jazz-hard-bop-researcher` | "Gather **10** complete candidate records for The Jazz Canon — canon metadata **and** full personnel/tracks/sessions/dates/locations in one pass, per your output contract. Read `docs/genre-definitions.md` (scope), `data/dispatch-ledger.json` (exclude everything already listed), and `research/cull-notes.md` (calibrate to John's past verdicts) first. Output: `research/hard-bop-candidates.md`. Capture album-art + Apple/iTunes + MusicBrainz reference IDs where available." |
+| `jazz-hard-bop-researcher` | "Gather **10** complete candidate records for A Jazz Canon — canon metadata **and** full personnel/tracks/sessions/dates/locations in one pass, per your output contract. Read `docs/genre-definitions.md` (scope), `data/dispatch-ledger.json` (exclude everything already listed), and `research/cull-notes.md` (calibrate to John's past verdicts) first. Output: `research/hard-bop-candidates.md`. Capture album-art + Apple/iTunes + MusicBrainz reference IDs where available." |
 | `jazz-cool-jazz-researcher` | same, 10 records → `research/cool-jazz-candidates.md` |
 | `jazz-modal-jazz-researcher` | same, 10 records → `research/modal-jazz-candidates.md` |
 
@@ -130,7 +130,7 @@ On vps8 (`127.0.0.1:5433`): `CREATE SCHEMA _jazzcanon;` + run `data/schema.sql`;
 2. **Identity-resolve persons** — cluster name variants → `person` + `person_name_variant`;
    **borderline merges go to John** (mini-gate, batched).
 3. **Load** albums, sessions, tracks, performances, production credits, citations.
-4. **Seed collection** — `collection(slug='the-jazz-canon', name='The Jazz Canon')` + membership for every included album. `added_at` timestamps membership — the provenance of when each album joined, without versioned slugs.
+4. **Seed collection** — `collection(slug='the-jazz-canon', name='The Jazz Canon')` + membership for every included album. (The live row keeps this name; the product was renamed to *A Jazz Canon* 2026-07-26 without touching the DB.) `added_at` timestamps membership — the provenance of when each album joined, without versioned slugs.
 5. **Album art** — resolve MBIDs (honor Phase 1–2 refs; else MusicBrainz, ≤1 req/s) → fetch Cover Art
    Archive → iTunes/Apple → `data/album-art/` + `album_art` rows + `manifest.json`.
 6. **Apple Music IDs** — load captured `apple_album_id`s (preview / link / player targets for the serving phase).

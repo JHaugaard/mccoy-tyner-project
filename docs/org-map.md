@@ -1,4 +1,4 @@
-# The Jazz Canon — Organizational Map
+# A Jazz Canon — Organizational Map
 
 Written 2026-07-26 (EDT), one month in. The mental map of the enterprise:
 one product, five departments, one boss. Load this when the

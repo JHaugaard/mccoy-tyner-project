@@ -1,4 +1,4 @@
-# Cull Notes — The Jazz Canon
+# Cull Notes — A Jazz Canon
 
 One line per culled candidate: album — reason. Specialists read this to calibrate to John's verdicts.
 

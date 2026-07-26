@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Semantic search over The Jazz Canon (albums + people).
+Semantic search over A Jazz Canon (albums + people).
 
 Embeds the query with the SAME model that built the stored vectors
 (nomic-embed-text, 768-dim, via the vps4 Ollama tunnel) and ranks by

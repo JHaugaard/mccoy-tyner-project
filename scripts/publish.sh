@@ -22,7 +22,7 @@ counts="$(psql "$URL" -X -q -At -c "SELECT
   ' tracks='||(SELECT count(*) FROM _jazzcanon.track)||
   ' performances='||(SELECT count(*) FROM _jazzcanon.performance)||
   ' track_links='||(SELECT count(*) FROM _jazzcanon.performance_track)")"
-printf 'The Jazz Canon — data snapshot\ndate: %s\n%s\n' "$DATE" "$counts" > "$SNAP/MANIFEST"
+printf 'A Jazz Canon — data snapshot\ndate: %s\n%s\n' "$DATE" "$counts" > "$SNAP/MANIFEST"
 
 git add exports/jazz-canon "snapshots/canon-$DATE"
 if git diff --cached --quiet; then

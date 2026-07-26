@@ -1,4 +1,4 @@
-# Phase 5 and Beyond — The Jazz Canon
+# Phase 5 and Beyond — A Jazz Canon
 # Runbook / Session Guide
 
 **Status as of 2026-06-25**

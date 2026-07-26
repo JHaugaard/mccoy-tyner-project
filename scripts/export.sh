@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Export The Jazz Canon contract from the SYSTEM OF RECORD (postgres._jazzcanon)
+# Export A Jazz Canon contract from the SYSTEM OF RECORD (postgres._jazzcanon)
 # via the read-only role, into app-shaped JSON consumed by jazz-canon and evals.
 set -euo pipefail
 

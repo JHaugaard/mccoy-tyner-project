@@ -1,6 +1,6 @@
-# The Jazz Canon — Phased Plan v2
+# A Jazz Canon — Phased Plan v2
 
-**Project (external):** The Jazz Canon · `jazzcanon.com` (domain registered; Cloudflare for **DNS only** — not a hosting/stack decision)
+**Project (external):** A Jazz Canon · `jazzcanon.com` (domain registered; Cloudflare for **DNS only** — not a hosting/stack decision)
 **Project (codename):** `mccoy-tyner` — the working repo name; stays as long as John likes
 **DB namespace:** `_jazzcanon`
 **Directory:** `~/dev/active/mccoy-tyner/`
@@ -293,4 +293,4 @@ The line, stated so it can be enforced:
 the merge (specialist gathers personnel in one pass; old Phases 1+2 collapse; seam kept for a future
 split); POC-first 10-album dispatch; dispatch-ledger + cull-notes learning loop; Orchestrator reframed as
 recurring gardener; Fable 5 model strategy + free-window A/B; Apple-Music-as-data posture (free iTunes previews; paid MusicKit player deferred);
-mission-creep guardrails made explicit; external name "The Jazz Canon" / jazzcanon.com (DNS only).*
+mission-creep guardrails made explicit; external name "The Jazz Canon" / jazzcanon.com (DNS only; renamed to "A Jazz Canon" 2026-07-26).*
