@@ -1,81 +1,43 @@
 # Session Context
 
 ## Session Name
-mccoy-build
+schema-update
 
 ## Current Focus
-Build McCoy — the Hermes agent profile — from `docs/mccoy-agent-spec.md`
-(v0.3 draft → **v1.0 BUILT**). Fable 5 session, launched via
-`docs/fable-build-prompt.md`, indexed as "mccoy-build".
+Execute `docs/handoffs/2026-07-26-ballot-fields-into-db.md` — promote council ballot
+prose (`case_for`, `case_against`) from dossier JSON into `_jazzcanon.album`, backfill
+the 21 ballot-bearing dossiers, patch the staging + embedding pipeline so future
+candidates carry the fields, and keep the site export unchanged.
 
-## What This Session Did (2026-07-15)
+Indexed 2026-07-26, uuid `1cdf2f30-3aac-481a-a6bf-07c18eda970a`.
 
-### Database (spec §10 3b–3c)
-- `site_status` lookup (text-code PK: found/reviewed/approved/live/retired) +
-  `album.site_status` (100 included albums backfilled → `live`), `edit_log`
-  (append-only), `_jazzcanon_app` role (SELECT/INSERT/UPDATE, **no DELETE** —
-  never-delete is structural). `scripts/migrate-3b-site-status.sql` +
-  `run-migrate-3b.sh`; grants verified live (DELETE + edit_log UPDATE denied).
-- `export.sh` now enforces the publication gate in all 4 query sites — it was
-  previously **unfiltered** (first staged candidate would have leaked to the
-  site). Verified content-identical output for the current 100.
-- Citation backfill: `scripts/citation-backfill.py` (Sonnet subagent).
+## Honcho Context
+peer=john, reasoning_level=low. Confirms: `_jazzcanon` is the canonical schema and the
+site is a read-only consumer of exported JSON; the council produces a ballot
+(`tier`, `priority`, `case_for`, `case_against`) but include/reject stays John's;
+v1 albums without ballots keep NULL ballot fields rather than retrofitted judgments;
+schema changes go through real, reversible migrations that update the staging code in
+the same change and are verified against exports/search before being called complete.
 
-### Hermes (spec §10 3d–3f)
-- **mccoy profile**: SOUL.md constitution (Fable-authored), Kimi K2.7-Code lead,
-  delegation lane (web+file children), `canon-council` MoA preset (DeepSeek +
-  Gemini refs via Nous; GPT-5.6 Terra aggregator via Codex OAuth — verified).
-- **JUDGE lane** = `~/.hermes/scripts/canon-council.py` (agent-invocable; no
-  in-agent MoA tool exists in v0.18.2; refs argue both cases — per-ref roles
-  unsupported). Verified e2e: real ballot on a next-batch candidate, 60s.
-- **Drip**: cron job `canon-drip` in the DEFAULT profile scheduler (always-on;
-  zero new footprint) with per-job Kimi override; 06:00, telegram,
-  `--script canon-drip-precheck.py` (dedup list + backlog cap as code; both
-  branches verified). Drip gathers INLINE; delegation is for interactive
-  missions. Next fire: 2026-07-16 06:00.
-- **Staging** = deterministic `scripts/stage-candidate.py` (Sonnet subagent),
-  adapted from ingest.py: candidate/found only, dedup + window guards.
-
-### Repo config (John steers by editing markdown)
-`config/canon-rubric.md` (scope window/gates in frontmatter + judgment prose),
-`config/edit-contract.md`, `config/gather-mission.md`, `docs/mccoy-runbook.md`,
-`scripts/canon-search.py` (semantic search, nomic via vps4 tunnel — verified).
+**Divergence noted:** Honcho recalls the documented semantic-search recommendation as
+Option B (a separate council-search surface), with "A now, B later" as fallback. The
+handoff's binding Answers section (John, 2026-07-26) directs Option A — append ballot
+text inside `embed.py`. Newer instruction wins; recording that it departs from the
+earlier written recommendation.
 
 ## Key Decisions
-Round-3 build decisions **#13–#22** appended to spec §11 (the spec remains the
-source of truth). Notables: preset lives in mccoy profile config only
-(canon-council.py pins HERMES_HOME); Hermes v0.18.2 always backgrounds
-top-level delegations (fine interactively, breaks -z probes only);
-McCoy executes John's explicit per-album status verdicts (decision John's,
-typing McCoy's); `subagent_auto_approve` stays false (moot for web+file
-children).
+- Columns: `case_for`, `case_against` only. No `council_tier` (duplicates
+  `album.canon_tier`), no new rationale column (`inclusion_rationale` already covers it).
+- DDL runs as `sudo -u postgres` (album is owned by `_jazzcanon_role`); backfill runs
+  as `_jazzcanon_app` with one `edit_log` row per album per field.
+- `embed.py` gets `--only-ids` for targeted regeneration; no `--force`, no hand-nulling
+  of `search_document`/`embedding`.
+- `v_album_search_source` left alone; report as suspected dead/drifted.
+- `v_album_detail` gets the two columns appended **after** `leader_name`.
+- 21 ballot dossiers (19 archive + 2 inbox), not 19.
 
-## Late-session completions
-- Citation backfill EXECUTED: 191 sources, 393 citations, 100/100 albums,
-  idempotent (2nd run creates 0). Held item 1 closed.
-- Full pipeline validated live: Shorty Rogers and His Giants (1953) staged as
-  the first real candidate (dossier + real council ballot → stage-candidate.py
-  → candidate/found, tier consensus_core, must_have; edit_log row; backlog
-  1/10; export still exactly 100 — the publication gate holds).
-- ship.sh now flips approved→live after verified deploy (audited).
+## Notes
+- Session started: 2026-07-26
 
-## Open Items / Next
-- John reviews the staged Shorty Rogers candidate (first item in the queue);
-  first drip fires 2026-07-16 06:00 → Telegram.
-- First interactive mission (John: `mccoy` chat → "run a gather mission…")
-  is the natural full-pipeline smoke test; all mechanics verified piecewise.
-- First drip fires 2026-07-16 06:00 → Telegram.
-- Deferred: per-line citation backfill (memory reminder); `_jazzcanon_ro`
-  password rotation (carried from last session).
-- DONE late in session: approved→live flip wired into ship.sh (audited via
-  edit_log; SQL dry-run verified).
-
-## Session Status
-Completed: 2026-07-15 (evening)
-Servers cleaned: none added this session — nothing to clean up
-Honcho curation: 5 durable facts written to session `mccoy-build` (McCoy
-shipped v1.0; executes-but-never-initiates verdict boundary + no-DELETE
-pattern; drip-gathers-inline architecture refinement; Hermes v0.18.2
-delegation-backgrounds gotcha; open loop: Shorty Rogers verdict + first drip
-2026-07-16 + commits pending). Rejected: field-level decision list (spec is
-source of truth), one-off Q&A noise.
+## Previous session (2026-07-15, `mccoy-build`) — carried-forward open items
+- Deferred: per-line citation backfill; `_jazzcanon_ro` password rotation.
