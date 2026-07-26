@@ -21,11 +21,17 @@ Differences from ingest.py (see team-lead brief for the full contract):
   - Writes as `_jazzcanon_app` (SELECT/INSERT/UPDATE, no DELETE) via
     JAZZCANON_APP_DB_URL, not the superuser bulk-load path.
   - album.canon_status is hard-coded 'candidate', site_status 'found'.
-  - canon_tier/priority/inclusion_rationale come from a ballot
-    (jazz-canon-orchestrator's tier/priority/case_for) when one is
-    available, else from the record's own fields. A ballot can arrive
-    two ways: a top-level "ballot": {tier,priority,case_for} key
-    embedded directly in the record, or a separate --ballot file
+  - canon_tier/priority come from a ballot (jazz-canon-orchestrator's
+    tier/priority) when one is available, else from the record's own
+    fields, and the ballot's case_for/case_against prose is written to
+    the album columns of the same names. inclusion_rationale always
+    comes from the record's own top-level `rationale` on BOTH paths —
+    what the album IS, as opposed to what the council ARGUED (migrate-4a,
+    John's decision 2026-07-26). Before 4a the ballot path wrote case_for
+    into inclusion_rationale, which made the column mean two different
+    things depending on which era a row came from. A ballot can arrive
+    two ways: a top-level "ballot": {tier,priority,case_for,case_against}
+    key embedded directly in the record, or a separate --ballot file
     (looked up by album id — see load_ballot_entry). The inline key
     always wins when both are present. --ballot-inline is a pure
     assertion flag: it requires the inline "ballot" key to exist and
@@ -547,15 +553,25 @@ def main():
                     return person_reg.get(name)
             return None
 
-        # ── Resolve tier/priority/rationale: ballot > record's own fields ───
+        # ── Resolve tier/priority: ballot > record's own fields ─────────────
+        # inclusion_rationale is NOT part of this fallback — it is the record's
+        # own `rationale` on both paths (migrate-4a). The ballot's prose goes to
+        # case_for/case_against, its own columns since 4a.
         if ballot_entry:
             canon_tier = ballot_entry.get("tier") if ballot_entry.get("tier") in CANON_TIERS else None
             priority = PRIORITY_MAP.get(ballot_entry.get("priority"))
-            inclusion_rationale = null(ballot_entry.get("case_for"))
+            case_for = null(ballot_entry.get("case_for"))
+            case_against = null(ballot_entry.get("case_against"))
         else:
             canon_tier = None
             priority = PRIORITY_MAP.get(record.get("priority"))
-            inclusion_rationale = null(record.get("rationale"))
+            case_for = None
+            case_against = None
+
+        inclusion_rationale = null(record.get("rationale"))
+        if ballot_entry and inclusion_rationale is None:
+            warnings.append("ballot present but record has no top-level 'rationale' — "
+                            "inclusion_rationale left NULL (case_for is not a substitute)")
 
         leader_id = find_leader(record.get("artist", ""))
         mbid      = null(pr.get("musicbrainz_release_group_mbid"))
@@ -574,14 +590,14 @@ def main():
                 recording_dates_text, multi_session,
                 musicbrainz_release_group_mbid, apple_album_id,
                 canon_status, site_status, canon_tier, priority, inclusion_rationale,
-                epistemic, notes
+                epistemic, notes, case_for, case_against
             ) VALUES (
                 %s,%s,%s,%s,%s,%s,
                 %s,%s,%s,
                 %s,%s,
                 %s,%s,
                 'candidate'::canon_status, 'found', %s::canon_tier, %s::priority_label, %s,
-                %s::epistemic_label, %s
+                %s::epistemic_label, %s, %s, %s
             )
         """, (
             aid,
@@ -602,6 +618,8 @@ def main():
             inclusion_rationale,
             ep(record.get("epistemic")),
             null(pr.get("notes")),
+            case_for,
+            case_against,
         ))
 
         counts = dict(sessions=0, tracks=0, track_composers=0, performances=0,
