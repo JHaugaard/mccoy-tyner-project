@@ -1,8 +1,15 @@
 # A Jazz Canon — Organizational Map
 
-Written 2026-07-26 (EDT), one month in. The mental map of the enterprise:
-one product, five departments, one boss. Load this when the
+Written 2026-07-26 (EDT) by McCoy, one month in. The mental map of the
+enterprise: one product, five departments, one boss. Load this when the
 "which workbench / whose job is this" question comes up.
+
+Reviewed and amended by Claude Code the same day (schema-update session).
+The departments, roles, and rules 1 and 3 were accurate as written and are
+unchanged. Rule 2 was rewritten — it drew the two status axes as a single
+chain, which is structurally wrong. `edit_log` was added to the database
+department, the git ritual gained the one-repo-per-turn rule, and the
+follow-ups list was refreshed.
 
 ```
                         JOHN
@@ -35,6 +42,13 @@ one product, five departments, one boss. Load this when the
   through `_jazzcanon_app` under `config/edit-contract.md` (whitelisted
   fields, one edit_log row per change, epistemic pairing: a fact edit
   carries its label and citation in the same breath).
+- **`edit_log` is the audit spine, and it is where a decision becomes a
+  fact.** Every write carries a row: who, which record, which field, old
+  value, new value, why. It is append-only for the app role — `_jazzcanon_app`
+  has INSERT and SELECT but deliberately no UPDATE, so a correction is a new
+  row, never an amendment to history. This is what makes "John decided X"
+  durable rather than inferred, and it is the reason a verdict must be
+  *communicated* to be real: an unrecorded decision did not happen.
 - **The schema includes the canon** (affirmed 2026-07-26): the canon
   proper is the subset where `canon_status='included'` and
   `site_status IN ('approved','live')` — the only rows the site export
@@ -43,7 +57,11 @@ one product, five departments, one boss. Load this when the
   and semantic search. Nothing assembled is ever deleted; rejection is
   `canon_status='excluded'`, not a DELETE.
 - The **canon-council** (script + model panel) judges dossiers and
-  attaches ballots. It proposes; it never disposes.
+  attaches ballots. It proposes; it never disposes. Since migrate-4a
+  (2026-07-26) the ballot's argument lives in the database as
+  `album.case_for` / `album.case_against`, not only in the dossier JSON —
+  so the deliberation is SQL-queryable and part of the semantic index.
+  The dossiers remain the archival source; the columns are a projection.
 - **Steering file:** `config/canon-rubric.md` — the hard gates
   (1940–1979 window, no free-jazz/fusion, drip 2, backlog cap 10).
   John's one-line edits steer the whole department. Rubric edits get
@@ -86,10 +104,29 @@ one product, five departments, one boss. Load this when the
 1. **Truth flows one direction: DB → export → site.** A fact needing
    fixing is fixed in the database via the edit contract, never in the
    site repo. The site is regenerated; the DB is curated.
-2. **Status is the handoff protocol.** candidate → included (John's
-   verdict) → reviewed → approved (John's greenlight) → live (only the
-   deploy pipeline flips this). If you wonder "who's holding this
-   album," its two status fields answer it.
+2. **Status is the handoff protocol — and it is two dials, not one
+   chain.** This section previously drew a single line from `candidate`
+   through to `live`. That reads well and is structurally wrong; the two
+   fields are orthogonal by design (migrate-3b says so explicitly).
+
+   - **`canon_status`** answers *is it in the canon?* —
+     `candidate → included | excluded`. This is John's editorial verdict,
+     human-only, and it is irreducibly per-album.
+   - **`site_status`** answers *where is it in the publication pipeline?* —
+     `found → reviewed → approved → live | retired`. This is logistics:
+     what gets published, and when. Only the deploy pipeline flips `live`.
+
+   Neither implies the other. An album can be `included` and still sit at
+   `found`. The export gate reads **both** —
+   `canon_status='included' AND site_status IN ('approved','live')` — which
+   is why one dial alone never tells you whether something is public. To
+   ask "who's holding this album," read both fields.
+
+   **Open question (feeds follow-ups #4):** `site_status='reviewed'` is
+   defined as "John has looked at it; not yet greenlit," which is close to
+   the same event as the `included` verdict. Today nothing distinguishes
+   them and `reviewed` is unused in practice. Either it means something the
+   canon verdict doesn't, or it should go. John's call.
 3. **Repo = role.** `mccoy-tyner` = workshop (research, DB, machinery,
    config). `jazz-canon` = gallery (site code + exported data). Touching
    dossiers, rubric, DB, or scripts → mccoy-tyner. Touching layout,
@@ -116,6 +153,11 @@ one product, five departments, one boss. Load this when the
   individually auditable.
 - Push to origin (github.com/JHaugaard/mccoy-tyner-project) at session
   end.
+- **One repo per turn.** Commits and pushes stay scoped to the repo that
+  was actually touched; never push `mccoy-tyner` and `jazz-canon` in the
+  same turn. `ship.sh` is the sanctioned path into the site repo. This
+  matters more now the site is live — a cross-repo push is how an
+  unreviewed change reaches production sideways.
 
 ## Known future refinements (noted, not scheduled)
 
@@ -124,6 +166,9 @@ one product, five departments, one boss. Load this when the
   inflating the review queue or tripping the backlog cap. Schema work —
   Claude Code's lane via handoff note, when bulk research-gathering
   becomes habitual.
-- The four pending follow-ups in `docs/follow-ups.md` (embeddings
-  backfill, Apple preview backfill, drip source_map mismatch,
-  review-process redesign).
+- The open follow-ups in `docs/follow-ups.md`. As of 2026-07-26 two are
+  closed (#1 embeddings backfill — all 121 albums and 629 persons now
+  embedded; #5 dead search-source views — dropped by migrate-4b) and three
+  remain: **#2** Apple preview backfill, **#3** drip `source_map` key
+  mismatch, **#4** review-process redesign. #4 is the live one — see the
+  open question under rule 2 above.
