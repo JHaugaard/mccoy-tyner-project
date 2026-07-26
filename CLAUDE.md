@@ -1,31 +1,50 @@
-# McCoy Tyner
+# A Jazz Canon (repo codename: mccoy-tyner)
 
-Compile ~100 canonical jazz albums (post-bebop through pre-Fusion), extract personnel data, and build an interactive web exploration app.
+Workshop repo: research, the Postgres system of record, and the pipeline that publishes the site.
 
 <intent>
-Objective: Build a personal jazz discovery tool — curated canon, track-level personnel, searchable web app.
-Outcomes: (1) ~100-album canon in structured data; (2) Track-level personnel records; (3) Fun, searchable web app for exploring albums and musicians.
-Override: App stack TBD (decided in Phase 5); data storage decided in Phase 4 (JSON → possibly Postgres).
+Objective: Curate a personal jazz canon (post-bebop → pre-fusion) as a source-grounded
+database, and publish it as a static site.
+Outcomes: (1) `_jazzcanon` schema is the sole system of record; (2) every personnel claim
+carries an epistemic label and citation; (3) `scripts/ship.sh` regenerates the live site from the DB.
+Override: John's `include` verdict and every status transition are human-only.
 </intent>
 
 <stack>
-- runtime: TBD (Phase 5)
-- framework: TBD (Phase 5)
-- database: TBD — JSON draft files through Phase 3; schema locked in Phase 4
-- deploy: vps2 or static host (decided in Phase 7)
+- runtime: python 3.11 (`.venv/`), bash, psql
+- database: Postgres 16 on vps8-core:5433, schema `_jazzcanon` (pgvector, pg_cron)
+- site: separate repo `~/dev/active/jazz-canon` (Svelte + Vite → Cloudflare Pages)
+- deploy: `scripts/ship.sh` — export → build → preview pause → wrangler
 </stack>
+
+<commands>
+
+| Task | Command |
+|------|---------|
+| Export contract from DB | `scripts/export.sh` |
+| Export + snapshot + commit | `scripts/publish.sh` |
+| Full ship | `scripts/ship.sh` (`--go` skips the preview pause) |
+| Search the canon | `.venv/bin/python scripts/canon-search.py` |
+| Install secret hooks | `pre-commit install` |
+
+</commands>
 
 <gotchas>
 
-- Scope = post-bebop, pre-Fusion; no Free Jazz. Albums too bebop or edging into Fusion are out.
-- Personnel data is source-grounded — every claim carries an epistemic label (direct / inference / uncertain).
-- No style quotas — 60 Modal Jazz albums is fine.
-- Tooling is platform-agnostic — the plan names roles (planning agent, implementation harness), not products. Currently proceeding in Claude Code (CLI/VS Code).
-- Flag multi-agent parallel opportunities (Phase 1 source compiles, Phase 2 batch personnel extraction).
+- Truth flows DB → export → site. Fix facts in Postgres per `config/edit-contract.md`; never edit data in the `jazz-canon` repo.
+- Writes use `_jazzcanon_app`, which has no DELETE grant. Rejection is `canon_status='excluded'`.
+- A fact edit updates its epistemic label in the same statement and adds one `edit_log` row.
+- The canon = rows where `canon_status='included'` and `site_status IN ('approved','live')`. Everything else stays in the DB, export-invisible.
+- Scope = 1940–1979 window, no free jazz, no fusion — hard gates in `config/canon-rubric.md`.
+- Epistemic labels: `obs` = sourced observation, `inf` = inference, `unk` = unknown or weakly supported.
+- Scope commits and pushes to one repo per turn.
+- `docs/org-map.md` answers "whose job is this" — read it before restructuring anything.
 
 </gotchas>
 
 <references>
-<!-- ~/.claude/references/ — anthropic-best-practices/, contract-architecture/, agent-teams/ -->
-<!-- Load on demand -->
+Project docs (read on demand): docs/org-map.md (departments, roles, three rules),
+docs/schema.md, docs/personnel-contract.md, docs/conventions.md, docs/follow-ups.md.
+Shared knowledge at ~/.claude/references/ — anthropic-best-practices/, contract-principles.md,
+agent-teams/.
 </references>
