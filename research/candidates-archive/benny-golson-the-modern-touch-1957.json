@@ -1,0 +1,343 @@
+{
+  "id": "benny-golson-the-modern-touch-1957",
+  "artist": "Benny Golson",
+  "album": "The Modern Touch",
+  "year": 1957,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "rationale": "Benny Golson's second Riverside album gathers a peak hard-bop sextet: Kenny Dorham, J.J. Johnson, Wynton Kelly, Paul Chambers, and Max Roach. The program is all Golson originals (plus two Gigi Gryce contributions) and is praised by AllMusic and Penguin Guide as a defining statement of the modern mainstream circa 1957. It adds a composer-leader voice not yet represented in the canon and strengthens the mid-1950s Riverside hard-bop thread. Session gravity and discovery value are high.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic – The Modern Touch",
+      "type": "reference",
+      "url": "https://www.allmusic.com/album/the-modern-touch-mw0000099791"
+    },
+    "S2": {
+      "title": "Wikipedia – The Modern Touch",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/The_Modern_Touch"
+    },
+    "S3": {
+      "title": "JazzDisco.org – Benny Golson Discography",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/benny-golson/discography/"
+    },
+    "S4": {
+      "title": "Discogs – The Modern Touch",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/286384-Benny-Golson-Sextet-The-Modern-Touch"
+    },
+    "S5": {
+      "title": "MusicBrainz – The Modern Touch Release Group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/0ee4533d-7981-3615-a9d1-ac8effc88372"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-12-19",
+      "1957-12-23"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York City",
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-12-19",
+          "1957-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader and primary composer."
+      },
+      {
+        "name": "Kenny Dorham",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-12-19",
+          "1957-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "J. J. Johnson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-12-19",
+          "1957-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-12-19",
+          "1957-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-12-19",
+          "1957-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-12-19",
+          "1957-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Out of the Past",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:22",
+        "session_date": "1957-12-19",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Benny Golson",
+          "Kenny Dorham",
+          "J. J. Johnson",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Reunion",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:14",
+        "session_date": "1957-12-19",
+        "composers": [
+          "Gigi Gryce"
+        ],
+        "personnel": [
+          "Benny Golson",
+          "Kenny Dorham",
+          "J. J. Johnson",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Venetian Breeze",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:38",
+        "session_date": "1957-12-19",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Benny Golson",
+          "Kenny Dorham",
+          "J. J. Johnson",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Hymn to the Orient",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:07",
+        "session_date": "1957-12-23",
+        "composers": [
+          "Gigi Gryce"
+        ],
+        "personnel": [
+          "Benny Golson",
+          "Kenny Dorham",
+          "J. J. Johnson",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Namely You",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:42",
+        "session_date": "1957-12-23",
+        "composers": [
+          "Gene de Paul",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Benny Golson",
+          "Kenny Dorham",
+          "J. J. Johnson",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Blues On Down",
+        "track_number": 6,
+        "side": "B",
+        "duration": "11:34",
+        "session_date": "1957-12-23",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Benny Golson",
+          "Kenny Dorham",
+          "J. J. Johnson",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "0ee4533d-7981-3615-a9d1-ac8effc88372",
+    "apple_album_id": "1538070721",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/0ee4533d-7981-3615-a9d1-ac8effc88372/front",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "MusicBrainz release group MBID available; cover art URL inferred from Cover Art Archive by MBID, not directly verified."
+      }
+    ],
+    "notes": "Two sessions at Reeves Sound Studios, NYC: Dec 19 and Dec 23, 1957. JazzDisco lists all six tracks for the album without per-track session dates, so track-to-date assignments are inferred (S3) and epistemic_track set to 'inf'. Wikipedia/AllMusic confirm personnel across both dates. Discogs credits Jack Higgins as engineer; Wikipedia names Orrin Keepnews as producer. Apple Music collectionId 1538070721 found for confident match."
+  },
+  "ballot": {
+    "album": "Benny Golson — The Modern Touch (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "This is an unusually high-gravity hard-bop session: Golson leads Kenny Dorham, J. J. Johnson, Wynton Kelly, Paul Chambers, and Max Roach, a frontline and rhythm section that directly embody the elite mainstream jazz network of 1957 (S2-S4). Its Golson originals, alongside pieces by Gigi Gryce and the standard \"Namely You,\" foreground the sophisticated arranging and compositional voice that made Golson a central hard-bop architect. AllMusic and the dossier's reported Penguin Guide support, combined with the exceptionally approachable playing and sound, make it a strong discovery document of arranged late-1950s hard bop.",
+    "case_against": "The evidence does not establish broad, independent canon-list consensus: the dossier names AllMusic and Penguin Guide but supplies no demonstrated Penguin Core status or corroboration from major canon traditions. Golson's most visible defining achievements may instead be his compositions for Art Blakey, later work with the Jazztet, or another leader date, leaving this excellent session vulnerable to being one of many comparably strong 1957 hard-bop albums rather than a load-bearing landmark. The dossier also flags incomplete track assignments and inferred track-to-session dates, while its \"defining statement\" claim is stronger than the cited evidence.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat this as a worthwhile, session-driven consideration rather than a necessary Golson representative until stronger consensus evidence distinguishes it from competing hard-bop dates.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

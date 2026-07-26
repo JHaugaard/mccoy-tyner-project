@@ -1,0 +1,634 @@
+{
+  "id": "shorty-rogers-and-his-giants-1953",
+  "artist": "Shorty Rogers",
+  "album": "Shorty Rogers and His Giants",
+  "year": 1953,
+  "label": "RCA Victor",
+  "style_primary": "cool-jazz",
+  "style_tags": [
+    "cool-jazz",
+    "west-coast"
+  ],
+  "sources": [
+    "S4",
+    "S16",
+    "S17"
+  ],
+  "epistemic": "obs",
+  "rationale": "obs[S4]: Rogers nonet/octet sides for RCA Victor (Jan 1953) plus a 1954 quartet session, with Art Pepper, Jimmy Giuffre, Hampton Hawes, Shelly Manne. obs[S17]: a canonical West Coast Jazz title. inf: one of the founding documents of the arranged, contrapuntal Los Angeles sound the prior run named as a gap; Rogers's charts and the Lighthouse-circle personnel define the West Coast nonet template.",
+  "priority": "must_have",
+  "personnel_record": {
+    "recording_dates": [
+      "1953-01-12",
+      "1953-01-15",
+      "1954-10-10"
+    ],
+    "multi_session": true,
+    "studio": "RCA Studios, Hollywood, California",
+    "producer": "Jack Lewis",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Shorty Rogers",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader and arranger."
+      },
+      {
+        "name": "Milt Bernhart",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Morpo",
+          "Bunny",
+          "Powder Puff",
+          "Mambo del Crow",
+          "The Pesky Serpent",
+          "Diablo's Dance",
+          "Pirouette",
+          "Indian Club"
+        ],
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Octet tracks (1-4, 7-10)."
+      },
+      {
+        "name": "John Graas",
+        "instrument": "French horn",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Morpo",
+          "Bunny",
+          "Powder Puff",
+          "Mambo del Crow",
+          "The Pesky Serpent",
+          "Diablo's Dance",
+          "Pirouette",
+          "Indian Club"
+        ],
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Octet tracks."
+      },
+      {
+        "name": "Gene Englund",
+        "instrument": "tuba",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Morpo",
+          "Bunny",
+          "Powder Puff",
+          "Mambo del Crow",
+          "The Pesky Serpent",
+          "Diablo's Dance",
+          "Pirouette",
+          "Indian Club"
+        ],
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Octet tracks. 'tuba' is outside the contract taxonomy; recorded as the most specific term per source."
+      },
+      {
+        "name": "Art Pepper",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Morpo",
+          "Bunny",
+          "Powder Puff",
+          "Mambo del Crow",
+          "The Pesky Serpent",
+          "Diablo's Dance",
+          "Pirouette",
+          "Indian Club"
+        ],
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Octet tracks."
+      },
+      {
+        "name": "Jimmy Giuffre",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Morpo",
+          "Bunny",
+          "Powder Puff",
+          "Mambo del Crow",
+          "The Pesky Serpent",
+          "Diablo's Dance",
+          "Pirouette",
+          "Indian Club"
+        ],
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15"
+        ],
+        "epistemic": "inf",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "S4 lists Giuffre without a track restriction; placed on the octet tracks by inference (he composed 'The Pesky Serpent' and 'Indian Club'). Also arranged for the date."
+      },
+      {
+        "name": "Hampton Hawes",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Morpo",
+          "Bunny",
+          "Powder Puff",
+          "Mambo del Crow",
+          "The Pesky Serpent",
+          "Diablo's Dance",
+          "Pirouette",
+          "Indian Club"
+        ],
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Octet tracks (1-4, 7-10)."
+      },
+      {
+        "name": "Pete Jolly",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Joycycle",
+          "The Lady Is a Tramp",
+          "The Goof and I",
+          "My Little Suede Shoes"
+        ],
+        "session_dates": [
+          "1954-10-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Quartet tracks (5, 6, 11, 12)."
+      },
+      {
+        "name": "Curtis Counce",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Morpo",
+          "Bunny",
+          "Powder Puff",
+          "Mambo del Crow",
+          "The Pesky Serpent",
+          "Diablo's Dance",
+          "Pirouette",
+          "Indian Club"
+        ],
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Octet tracks."
+      },
+      {
+        "name": "Joe Mondragon",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Joycycle",
+          "The Lady Is a Tramp",
+          "The Goof and I",
+          "My Little Suede Shoes"
+        ],
+        "session_dates": [
+          "1954-10-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Quartet tracks."
+      },
+      {
+        "name": "Shelly Manne",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1953-01-12",
+          "1953-01-15",
+          "1954-10-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Drums on all sessions."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Morpo",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:27",
+        "session_date": null,
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "Bunny",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:25",
+        "session_date": null,
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "Powder Puff",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:49",
+        "session_date": null,
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "Mambo del Crow",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:02",
+        "session_date": null,
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "Joycycle",
+        "track_number": 5,
+        "side": "A",
+        "duration": "2:39",
+        "session_date": "1954-10-10",
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Pete Jolly",
+          "Joe Mondragon",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "The Lady Is a Tramp",
+        "track_number": 6,
+        "side": "A",
+        "duration": "2:17",
+        "session_date": "1954-10-10",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Pete Jolly",
+          "Joe Mondragon",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "The Pesky Serpent",
+        "track_number": 7,
+        "side": "B",
+        "duration": "2:38",
+        "session_date": null,
+        "composers": [
+          "Jimmy Giuffre"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "Diablo's Dance",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:17",
+        "session_date": null,
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "Pirouette",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:10",
+        "session_date": null,
+        "composers": [
+          "Shorty Rogers"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "Indian Club",
+        "track_number": 10,
+        "side": "B",
+        "duration": "2:35",
+        "session_date": null,
+        "composers": [
+          "Jimmy Giuffre"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Milt Bernhart",
+          "John Graas",
+          "Gene Englund",
+          "Art Pepper",
+          "Jimmy Giuffre",
+          "Hampton Hawes",
+          "Curtis Counce",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "The Goof and I",
+        "track_number": 11,
+        "side": "B",
+        "duration": "2:53",
+        "session_date": "1954-10-10",
+        "composers": [
+          "Al Cohn"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Pete Jolly",
+          "Joe Mondragon",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      },
+      {
+        "title": "My Little Suede Shoes",
+        "track_number": 12,
+        "side": "B",
+        "duration": "2:46",
+        "session_date": "1954-10-10",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Shorty Rogers",
+          "Pete Jolly",
+          "Joe Mondragon",
+          "Shelly Manne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": null,
+    "apple_album_id": "1652403010",
+    "cover_art": [],
+    "notes": "Originally the 10-inch LP RCA Victor LPM-3137 (1953, octet tracks from the Jan 12 & 15 1953 sessions). The 12-inch LPM-1195 (1956) added the four 1954-10-10 quartet tracks (5, 6, 11, 12); this record documents that expanded 12-track sequence. year=1953 reflects the album's identity and the bulk of its material; the 1954 quartet session and 1956 12-inch reissue are noted. track_assignments_complete is false because Giuffre's exact track coverage is an inference (S4 lists him without a restriction). 'tuba' (Gene Englund) is outside the contract taxonomy. apple_album_id from S16."
+  },
+  "source_map": {
+    "S4": {
+      "title": "Wikipedia — *Shorty Rogers and His Giants*",
+      "type": "Encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Shorty_Rogers_and_His_Giants",
+      "notes": "Per-session personnel, tracks, producer"
+    },
+    "S16": {
+      "title": "iTunes Search API (Apple Music)",
+      "type": "API",
+      "url": "https://itunes.apple.com/search",
+      "notes": "`collectionId` lookups (Layer 5)"
+    },
+    "S17": {
+      "title": "Web search corpus (AllMusic / Discogs / RateYourMusic / Fresh Sound / Internet Archive snippets)",
+      "type": "Aggregated search results",
+      "url": null,
+      "notes": "Cool/West-Coast genre classification; Giuffre Dec 1956 session dates; Art Pepper +Eleven per-session sax/brass rotation; Lighthouse Vol. 1 personnel cross-check"
+    }
+  },
+  "ballot": {
+    "album": "Shorty Rogers — Shorty Rogers and His Giants (1953)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "This is a defining early document of West Coast cool: Rogers's arranged, contrapuntal nonet/octet writing and its trumpet-trombone-French horn-tuba palette crystallize the Los Angeles sound identified in the dossier as a canon gap. The January 1953 sessions carry exceptional session gravity, bringing together Art Pepper, Jimmy Giuffre, Hampton Hawes, Curtis Counce, and Shelly Manne (S4), while S17 explicitly identifies the title as canonical West Coast jazz. Its poised but swinging ensemble sound makes it a particularly useful discovery record for explaining an essential post-bebop regional tradition.",
+    "case_against": "The album is assembled from separate 1953 nonet/octet sides and a later 1954 quartet session rather than conceived as one unified album statement, which weakens its coherence beside the era's more self-contained landmarks. Its polished, densely arranged cool aesthetic may feel lightweight or overly academic to listeners seeking the direct force of contemporary hard bop, and its influence is principally concentrated within the West Coast lineage. The dossier supplies only three opaque source tokens and marks Giuffre's personnel entry as inferred, so its claims of broad consensus need more transparent sourcing.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat this as a must-have foundational West Coast-cool ballot, while verifying the claimed consensus and complete session personnel against named sources.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

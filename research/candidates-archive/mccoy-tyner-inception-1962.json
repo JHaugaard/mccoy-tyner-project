@@ -1,0 +1,63 @@
+{
+  "id": "mccoy-tyner-inception-1962",
+  "artist": "McCoy Tyner",
+  "album": "Inception",
+  "year": 1962,
+  "label": "Impulse!",
+  "style_primary": "modal-jazz",
+  "rationale": "Tyner's debut as a leader is a defining statement of early-1960s modal/post-bop piano: a cohesive trio with bassist Art Davis and drummer Elvin Jones, recorded at Van Gelder Studio in January 1962. AllMusic and the Penguin Guide give it strong ratings, and it is frequently cited as the album that first reveals Tyner's lyric voice outside the Coltrane quartet. The session pulls together two musicians already central to the canon (Tyner, Jones) and bassist Davis, whose presence links to Coltrane's own sessions. It strengthens the existing Tyner arc (The Real McCoy, Expansions, Sahara) and fills the early-Impulse period in the modal canon.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {"title": "Wikipedia - Inception (McCoy Tyner album)", "type": "wiki", "url": "https://en.wikipedia.org/wiki/Inception_(McCoy_Tyner_album)"},
+    "S2": {"title": "AllMusic - Inception", "type": "allmusic", "url": "https://www.allmusic.com/album/inception-mw0000314260"},
+    "S3": {"title": "All About Jazz - McCoy Tyner Trio: Inception", "type": "review", "url": "https://www.allaboutjazz.com/inception-mccoy-tyner-impulse-review-by-lawrence-peryer"},
+    "S4": {"title": "JazzTimes - McCoy Tyner: Inception", "type": "review", "url": "https://jazztimes.com/reviews/albums/mccoy-tyner-inception/"},
+    "S5": {"title": "Discogs - McCoy Tyner Trio – Inception", "type": "discogs", "url": "https://www.discogs.com/master/177612-McCoy-Tyner-Trio-Inception"}
+  },
+  "personnel_record": {
+    "recording_dates": ["1962-01-10", "1962-01-11"],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {"name": "McCoy Tyner", "instrument": "piano", "scope": "all-tracks", "tracks": null, "session_dates": ["1962-01-10", "1962-01-11"], "epistemic": "obs", "sources": ["S1", "S2", "S3"], "name_variants": [], "notes": ""},
+      {"name": "Art Davis", "instrument": "double bass", "scope": "all-tracks", "tracks": null, "session_dates": ["1962-01-10", "1962-01-11"], "epistemic": "obs", "sources": ["S1", "S3"], "name_variants": [], "notes": ""},
+      {"name": "Elvin Jones", "instrument": "drums", "scope": "all-tracks", "tracks": null, "session_dates": ["1962-01-10", "1962-01-11"], "epistemic": "obs", "sources": ["S1", "S3"], "name_variants": [], "notes": ""}
+    ],
+    "tracks": [
+      {"title": "Inception", "track_number": 1, "side": "A", "duration": "4:28", "session_date": "1962-01-10", "composers": ["McCoy Tyner"], "personnel": ["McCoy Tyner", "Art Davis", "Elvin Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "There Is No Greater Love", "track_number": 2, "side": "A", "duration": "6:21", "session_date": "1962-01-11", "composers": ["Isham Jones", "Marty Symes"], "personnel": ["McCoy Tyner", "Art Davis", "Elvin Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Blues for Gwen", "track_number": 3, "side": "A", "duration": "4:27", "session_date": "1962-01-11", "composers": ["McCoy Tyner"], "personnel": ["McCoy Tyner", "Art Davis", "Elvin Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Sunset", "track_number": 4, "side": "B", "duration": "4:41", "session_date": "1962-01-10", "composers": ["McCoy Tyner"], "personnel": ["McCoy Tyner", "Art Davis", "Elvin Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Effendi", "track_number": 5, "side": "B", "duration": "6:39", "session_date": "1962-01-10", "composers": ["McCoy Tyner"], "personnel": ["McCoy Tyner", "Art Davis", "Elvin Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Speak Low", "track_number": 6, "side": "B", "duration": "6:18", "session_date": "1962-01-11", "composers": ["Kurt Weill", "Ogden Nash"], "personnel": ["McCoy Tyner", "Art Davis", "Elvin Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]}
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b19867c3-1f7d-313a-880f-d91005417a07",
+    "apple_album_id": null,
+    "cover_art": [
+      {"role": "front", "source": "wikimedia", "url": "https://upload.wikimedia.org/wikipedia/en/d/dd/Inception_%28McCoy_Tyner_album%29.jpg", "is_original_cover": true, "epistemic": "obs", "notes": ""}
+    ],
+    "notes": "Two sessions: January 10 (tracks 1, 4, 5) and January 11 (tracks 2, 3, 6). All three musicians present on all tracks. Producer Bob Thiele and engineer Rudy Van Gelder credited by Wikipedia and Discogs/YouTube description referencing the original release."
+  },
+  "ballot": {
+    "album": "McCoy Tyner — Inception (1962)",
+    "scope_check": {"in_window": true, "boundary_note": null},
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Tyner's first leader date is a valuable early document of the modal/post-bop piano language he would make foundational: four originals, his emerging harmonic voice, and a focused trio setting outside the Coltrane Quartet. Its personnel has substantial lineage weight—Elvin Jones brings the Coltrane rhythmic engine and Art Davis links the session to that same network—while the Van Gelder/Bob Thiele Impulse! context and favorable AllMusic, Penguin Guide, All About Jazz, and JazzTimes reception support its quality. For discovery, it offers an accessible, swinging entry into early-1960s modal piano and a meaningful bridge to Tyner's later leader landmarks.",
+    "case_against": "The evidence does not establish broad canon-list consensus: the dossier supplies favorable reviews and ratings, but no Penguin Core, NPR, DownBeat, or comparable independent canon-list placement. As a leader statement, it is plausibly eclipsed by The Real McCoy and Expansions, whose compositions, ensembles, and historical profile more fully define Tyner's mature achievement. With Tyner already represented through major leader records and essential Coltrane-era sideman work, this tasteful trio debut may add historical context more than indispensable explanatory power.",
+    "disagreement": "Both references judge the album contested and agree that its principal liability is redundancy beside Tyner's later defining records; they split on urgency, with one calling it a strong addition for its lineage and debut importance and the other rating it only consider because consensus and incremental value are limited.",
+    "recommendation": "The council proposes that John treat Inception as a contested strong candidate, adding it if an early Tyner/Coltrane-network bridge is wanted rather than as a substitute for his later leader landmarks.",
+    "confidence": "medium",
+    "_council": {
+      "references": ["nous:deepseek/deepseek-v4-pro", "nous:google/gemini-3.1-pro-preview"],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

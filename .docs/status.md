@@ -2,30 +2,76 @@
 
 ## Where are we?
 
-**The Jazz Canon database is fully built and ready for an app.** Phase 4 is complete: 100 albums, 535 musicians, 627 performances in `_jazzcanon` on vps8-core — all enriched with MusicBrainz IDs, Apple Music IDs (97/100), catalog numbers, cover art, semantic embeddings, studios, and production credits. The data is clean; the Cannonball duplicate is merged; identity resolution found nothing else to fix.
+**McCoy is built and running.** The Fable 5 build session (this one) took the
+spec from last session and made all of it real, verified piece by piece:
 
-**The project architecture is also settled** beyond just the data. A dedicated session (jazz-canon-extras, 2026-06-26) worked through three open design questions before Phase 5 begins:
+- **Talk to it now:** type `mccoy` in any terminal on vps8 and you're chatting
+  with McCoy — it queries the live canon database, answers in its own voice,
+  and can make small audited edits when you ask. `docs/mccoy-runbook.md` is
+  the how-to.
+- **The review pipeline works end to end, proven with a real album.** *Shorty
+  Rogers and His Giants* (1953) went through the whole machine — researched
+  record, judged by the canon-council (two models argue for/against, a third
+  writes the ballot: it scored consensus-core, must-have), and staged into the
+  database as a candidate. It's sitting in your review queue right now, and it
+  did NOT leak onto the public site (that gate was tested).
+- **The nightly drip is scheduled.** Starting tomorrow at 6:00 AM, up to 2
+  fresh candidates arrive on Telegram each morning. It stays silent when your
+  queue has 10 unreviewed or there's nothing worth proposing. All the
+  guardrails (dedup against everything known, the year window, the cap) are
+  enforced by code, not by trusting the model.
+- **The database got its queued upgrades.** Publication states
+  (found → reviewed → approved → live → retired), an edit audit log, a writer
+  role that physically cannot delete rows, and — held item closed — all 393
+  album-level citations loaded (every one of the 100 albums now has its
+  sources on record; nothing fabricated, including the 14 Kimi-only albums).
+- **You steer it by editing markdown, never code:** `config/canon-rubric.md`
+  (the year window and quality bar), `config/edit-contract.md` (what McCoy may
+  touch), `config/gather-mission.md` (how missions run). Widening the canon to
+  1975 is a one-line edit.
 
-- **Admin layer**: Not a coded admin site. A Hermes Agent profile (`jazz-canon-admin`) accessed via Telegram or the Hermes CUI — inference-powered, Claude Sonnet 4.6 doing the thinking, with write access guarded by SOUL.md guardrails. Already proven: Hermes has read access to `_jazzcanon` via `_foundry_app` and it's fast. Build happens in a Hermes session, not here.
+## Update 2026-07-17 — drip incident, repaired
 
-- **Growth loop for new albums**: Settled architecture — fresh JSON batch file per foray (`data/batches/`), not a growing append-with-flags file. The pipeline is: dispatch agent → batch file → John reviews → ingest → enrich → log in dispatch-ledger. Fully documented in `docs/growth-runbook.md`.
+The second nightly drip failed safely: it re-picked the previous night's
+candidates instead of finding new ones, the database guard refused them
+(nothing corrupted), but the run reported itself as a success. Root causes
+found and fixed the same day:
 
-- **Data Platforming First scaffold**: The methodology developed across this whole project has been packaged for reuse. Three files now live in `idea-foundry-vault/areas/research/scaffold/` — methodology, new-project starter, and growth-runbook template. Future research corpus projects (economists, film, etc.) start ~40% done.
-
-`docs/plan-v2.md` has been updated to reflect all of the above: Phase 5 is now correctly split into 5A (Hermes admin, separate build) and 5B (public discovery app, this project).
+- Deduplication is now enforced by code, not by trusting the model — the
+  precheck archives already-staged files before the agent runs, and a new
+  `scripts/check-candidate.py` gate must pass before any research starts.
+- A refused candidate is now reported as "DRIP FAILED", never dressed up
+  as a result.
+- A path bug meant both drips were judged by the wrong council (the
+  default one, not the canon-council). Fixed, and both queued candidates
+  were re-judged by the real council — Art Blakey's *Free for All* was
+  upgraded to consensus-core in the process.
 
 ## What's unresolved?
 
-**The Phase 5B stack decision** is the only real gate before any visible app work begins. Framework, serving model (static export vs PostgREST vs both), and hosting need to be chosen. The Personnel Network force-directed graph is the hero feature and the main constraint on stack selection. See `docs/phase5-and-beyond.md` § 5A.
+Nothing is blocked. Small open threads:
 
-The minor open items — 3 null Apple IDs, 9 sessions without studio, vocal sub-collection question — are all low priority and not blocking anything.
+- **Three staged candidates await your verdict** — Shorty Rogers, Art
+  Blakey (*Free for All*), Horace Silver (*Serenade to a Soul Sister*):
+  include / reject / later. Tell McCoy in chat, or reply when a drip card
+  arrives. The next drip fires 2026-07-18 06:00.
+- **One untested-in-anger path:** a full interactive gather mission ("find me
+  3 soul-jazz candidates from 1958–64") — every piece is verified separately,
+  but the first whole run happens when you ask for one in `mccoy` chat.
+- **Nothing is committed to git yet** — this session created/changed a lot
+  (migration scripts, config files, the runbook, the spec now marked BUILT).
+  Waiting on your say-so.
+- **Two carried-over deferrals:** per-musician citations (album-level is live;
+  the upgrade is additive, reminder saved) and rotating the read-only DB
+  password (it's now been on screen twice).
 
 ## What's next?
 
-Two parallel tracks you can start in any order:
+If you sat down right now, in order of payoff:
 
-**Track A — Hermes admin profile**: Open a Hermes session, create the `jazz-canon-admin` profile, wire up the Telegram channel, draft SOUL.md with write-access guardrails. This is a Hermes build, not a Claude Code session.
-
-**Track B — Phase 5B stack decision**: Read `docs/phase5-and-beyond.md` § 5A, review `research/ui-reference/`, and make the stack call. No code — just the decision. Once it's made, the build sequence is already laid out session by session.
-
-The growth runbook (`docs/growth-runbook.md`) is ready to use whenever you want to add the next batch of albums.
+1. **Type `mccoy` and review the Shorty Rogers candidate** — your first real
+   include/reject through the new machinery.
+2. **See what tomorrow's 6 AM drip brings** to Telegram — the first unattended
+   run.
+3. **Say "commit it"** here in Claude Code to get the session's work into git.
+4. When you feel like it: run your first gather mission from `mccoy` chat.

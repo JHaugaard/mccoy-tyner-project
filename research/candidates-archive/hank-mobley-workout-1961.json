@@ -1,0 +1,290 @@
+{
+  "id": "hank-mobley-workout-1961",
+  "artist": "Hank Mobley",
+  "album": "Workout",
+  "year": 1961,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Identified by Scott Yanow in his AllMusic 'Hard Bop' essay as one of 17 Essential Hard Bop Recordings; 4.5 stars from both AllMusic and the Penguin Guide. Recorded March 26, 1961 with the same rhythm section as Soul Station (Kelly/Chambers/Jones) plus Grant Green, it is the companion peak to a Mobley run already anchored in the canon by Soul Station and Roll Call. Session gravity is exceptional: five musicians each already load-bearing in the network.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Workout (album) - Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Workout_(album)"
+    },
+    "S2": {
+      "title": "Hank Mobley: Workout - AllMusic",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/workout-mw0000651777"
+    },
+    "S3": {
+      "title": "iTunes Search API - Hank Mobley Workout",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Hank+Mobley+Workout&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive - Workout release group",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/71b3e5e8-3683-3b96-82c0-abf57a989604"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-03-26"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Grant Green",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Workout",
+        "track_number": 1,
+        "side": null,
+        "duration": "10:00",
+        "session_date": "1961-03-26",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Grant Green",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Uh Huh",
+        "track_number": 2,
+        "side": null,
+        "duration": "10:43",
+        "session_date": "1961-03-26",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Grant Green",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Smokin'",
+        "track_number": 3,
+        "side": null,
+        "duration": "7:30",
+        "session_date": "1961-03-26",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Grant Green",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Best Things in Life Are Free",
+        "track_number": 4,
+        "side": null,
+        "duration": "5:18",
+        "session_date": "1961-03-26",
+        "composers": [
+          "Lew Brown",
+          "Buddy DeSylva",
+          "Ray Henderson"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Grant Green",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Greasin' Easy",
+        "track_number": 5,
+        "side": null,
+        "duration": "6:58",
+        "session_date": "1961-03-26",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Grant Green",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Three Coins in the Fountain",
+        "track_number": 6,
+        "side": null,
+        "duration": "5:31",
+        "session_date": "1961-03-26",
+        "composers": [
+          "Sammy Cahn",
+          "Jule Styne"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Grant Green",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "71b3e5e8-3683-3b96-82c0-abf57a989604",
+    "apple_album_id": "1443209701",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/71b3e5e8-3683-3b96-82c0-abf57a989604/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front cover returned by Cover Art Archive for the release group; pressing not individually verified."
+      }
+    ],
+    "notes": "Single session, March 26, 1961 (Wikipedia S1; AllMusic S2 confirms date and Van Gelder Studios NJ). Released March 1962 as BST 84080. Engineer not named in sources; Rudy Van Gelder assigned per the Van Gelder-inference rule (Blue Note, 1961, Van Gelder Studio confirmed) \u2014 engineer field is inf even though epistemic_production reflects producer/studio obs. AllMusic (S2) tags styles Hard Bop / Guitar Jazz / Saxophone Jazz and dates release 1961 (recording date); Wikipedia gives March 1962 release. Track 6 is a CD bonus track; a second alternate take of 'Three Coins in the Fountain' appears only on the 2014 SHM-CD and is excluded. Yanow 'Hard Bop' essay citation via Wikipedia reference [4]. Per-track personnel not itemized in sources; full quintet assumed on all tracks, track_assignments_complete=false."
+  },
+  "ballot": {
+    "album": "Hank Mobley \u2014 Workout (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Workout is an exceptionally lucid, durable hard-bop statement: Mobley's relaxed melodic logic, Grant Green's guitar, and the Wynton Kelly\u2013Paul Chambers\u2013Philly Joe Jones rhythm section create a deeply swinging, immediately accessible Blue Note quintet sound. The dossier identifies Scott Yanow's placement of the album among 17 Essential Hard Bop Recordings and reports 4.5-star assessments from both AllMusic and the Penguin Guide, giving it meaningful cross-publication critical support. Its personnel also make it a major network session, joining the late Miles Davis rhythm-section engine to Mobley and Green at defining moments in their Blue Note work.",
+    "case_against": "Its claim is stronger as a superb consolidation than as a decisive historical turning point: Soul Station is the more singular Mobley defining statement, while Workout largely extends a closely related early-1960s hard-bop language and personnel world. The consensus evidence is favorable but not extensively triangulated in the dossier: Yanow is one critic's essential list, while the Penguin rating is asserted without a supplied source, and the substantive documentation relies chiefly on Wikipedia and AllMusic. Track-level personnel are assumed rather than independently documented, so the research file is less robust than the musical reputation warrants.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Workout as a strong consensus-core addition to the hard-bop canon, while preserving Soul Station as Mobley's more indispensable single defining record.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

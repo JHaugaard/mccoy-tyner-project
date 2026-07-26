@@ -1,0 +1,277 @@
+{
+  "id": "duke-ellington-money-jungle-1962",
+  "artist": "Duke Ellington",
+  "album": "Money Jungle",
+  "year": 1962,
+  "label": "United Artists",
+  "style_primary": "post-bop",
+  "rationale": "One of the great intergenerational summit sessions in jazz: Ellington (63), Charles Mingus (40), and Max Roach (38) in a piano trio with no safety net — unrehearsed, first takes, lead sheets only. Penguin Guide core-collection status, perennial DownBeat/NPR canon lists, and audible lineage (Ethan Iverson calls 'Fleurette Africaine' a forerunner of The Bad Plus; Terri Lyne Carrington built a Grammy-winning album on it). Session gravity is maximal: it binds three figures already load-bearing in this canon (Mingus, Roach) to the tradition's deepest root, and it still plays — ferocious, funny, and alive.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Money Jungle — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Money_Jungle"
+    },
+    "S2": {
+      "title": "Money Jungle — AllMusic (overview + credits tab)",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/money-jungle-mw0000187978/credits"
+    },
+    "S3": {
+      "title": "iTunes Search API — Money Jungle (Blue Note reissue, collectionId 724777639)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+Money+Jungle&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group + Cover Art Archive",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/1c18538e-e9be-3449-8be1-f3cdc7b493e0"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-09-17"
+    ],
+    "multi_session": false,
+    "studio": "Sound Makers Studios, New York City (57th Street, between Sixth and Seventh Avenues)",
+    "producer": "Alan Douglas",
+    "engineer": "Bill Schwartau",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composed six of the seven original-LP tracks; 'Caravan' co-composed with Juan Tizol."
+      },
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "Famously nearly walked out mid-session (Wikipedia, citing Nicholson)."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Money Jungle",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:30",
+        "session_date": "1962-09-17",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Le Fleurs Africaines (African Flower)",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:36",
+        "session_date": "1962-09-17",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Very Special",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:26",
+        "session_date": "1962-09-17",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Warm Valley",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:33",
+        "session_date": "1962-09-17",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Wig Wise",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:21",
+        "session_date": "1962-09-17",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Caravan",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:13",
+        "session_date": "1962-09-17",
+        "composers": [
+          "Juan Tizol",
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Solitude",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:33",
+        "session_date": "1962-09-17",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ],
+        "notes": "Piano solo until Mingus and Roach enter in the final minute (Wikipedia, citing DownBeat 2013)."
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "1c18538e-e9be-3449-8be1-f3cdc7b493e0",
+    "apple_album_id": "724777639",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/1c18538e-e9be-3449-8be1-f3cdc7b493e0/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "CAA front from release 6a3d8dfe within the release group; pressing edition not confirmed as the 1963 United Artists original."
+      }
+    ],
+    "notes": "Single session, September 17, 1962; released February 1963 on United Artists. Original LP had 7 tracks; later CD reissues add 8 more from the same session. Trio instrumentation throughout — the only piano-trio album in Ellington's core catalog. Year given as 1962 (recording year); release year 1963."
+  },
+  "ballot": {
+    "album": "Duke Ellington — Money Jungle (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Recorded in 1962 and stylistically post-bop, Money Jungle cleanly meets the canon's scope and brings extraordinary session gravity: Ellington, Charles Mingus, and Max Roach reduce three foundational but distinct traditions to a volatile, intensely interactive trio. The dossier identifies Penguin Guide core-collection status and recurrent DownBeat/NPR/JazzTimes canon recognition, while the music's afterlife includes Ethan Iverson's account of \"Fleurette Africaine\" as a precursor to The Bad Plus and Terri Lyne Carrington's direct album-length response. Its lean, percussive modernism, reworked Ellington standards, and dramatic solo-to-trio architecture make it both a singular late Ellington statement and an immediately persuasive discovery record.",
+    "case_against": "The strongest reservation is that this is an unrehearsed summit session rather than a developed working-group statement: its first-take friction and unevenness can make it feel more like a historic collision than a fully cohesive piano-trio conception. Its claim to broad critical consensus is asserted in the rationale, but the dossier does not supply direct source records for the Penguin, NPR, JazzTimes, or DownBeat list placements; much of the session narrative instead rests on Wikipedia-derived material. These are evidence and aesthetic qualifications, though, rather than a persuasive challenge to the record's stature.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Money Jungle as a must-have consensus-core album, while retaining the sourcing caveat in its research record.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

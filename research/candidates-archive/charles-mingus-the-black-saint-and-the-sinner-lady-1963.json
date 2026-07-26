@@ -1,0 +1,350 @@
+{
+  "id": "charles-mingus-the-black-saint-and-the-sinner-lady-1963",
+  "artist": "Charles Mingus",
+  "album": "The Black Saint and the Sinner Lady",
+  "year": 1963,
+  "label": "Impulse!",
+  "style_primary": "post-bop",
+  "rationale": "Widely characterized as one of Mingus's two major masterworks (alongside Mingus Ah Um, already in the canon): Penguin Guide four stars plus its Crown accolade, AllMusic five stars ('one of the greatest achievements in orchestration by any composer in jazz history'), five stars in the Rolling Stone Jazz Record Guide, and a place in 1001 Albums You Must Hear Before You Die. A single continuous through-composed suite for an eleven-piece ensemble — worked out over a six-week Village Vanguard residency — it is Mingus's definitive large-form statement and the clearest demonstration that post-bop composition could carry symphonic ambition without leaving the tradition. Session gravity is exceptional: Jaki Byard, Dannie Richmond, Booker Ervin, Charlie Mariano, and Jerome Richardson in one room, orchestrated with Bob Hammer.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — The Black Saint and the Sinner Lady (personnel from original liner notes, Impulse! AS-35)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Black_Saint_and_the_Sinner_Lady"
+    },
+    "S2": {
+      "title": "AllMusic — The Black Saint and the Sinner Lady/Mingus Mingus Mingus Mingus Mingus (credits; combined 2011 reissue, credits blend both sessions)",
+      "type": "credits-database",
+      "url": "https://www.allmusic.com/album/the-black-saint-and-the-sinner-lady-mingus-mingus-mingus-mingus-mingus-mw0002228361"
+    },
+    "S3": {
+      "title": "Charles Mingus official site — recording-anniversary note (session date confirmation)",
+      "type": "official-artist-site",
+      "url": "https://www.charlesmingus.com/blog/the-black-saint-and-the-sinner-lady-by-charles-mingus-was-recorded-fifty-nine-years-ago-today-on-january-20th-1963"
+    },
+    "S4": {
+      "title": "MusicBrainz — release group: The Black Saint and the Sinner Lady",
+      "type": "discography-database",
+      "url": "https://musicbrainz.org/release-group/48070ee2-1865-3b11-ba36-360b1453a37a"
+    },
+    "S5": {
+      "title": "Apple Music — The Black Saint and the Sinner Lady (iTunes Lookup, collectionId 1443280597)",
+      "type": "commercial-catalog",
+      "url": "https://music.apple.com/us/album/the-black-saint-and-the-sinner-lady/1443280597"
+    },
+    "S6": {
+      "title": "Jazzfuel (Facebook) — secondary post claiming Van Gelder Studio, Englewood Cliffs (conflicts with S1; weak source)",
+      "type": "secondary-post",
+      "url": "https://www.facebook.com/JazzfuelDiscover/posts/the-black-saint-and-the-sinner-lady-was-recorded-in-a-single-session-on-20-janua/1047235841166692/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-01-20"
+    ],
+    "multi_session": false,
+    "studio": "Atlantic Studios, New York City",
+    "producer": "Bob Thiele",
+    "engineer": "Bob Simpson",
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also plays piano and is the composer of all music (S1)."
+      },
+      {
+        "name": "Jaki Byard",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Doubles soprano saxophone and flute (S1, S2)."
+      },
+      {
+        "name": "Charlie Mariano",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Booker Ervin",
+        "instrument": "tenor saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Credited 'Sax (Tenor)' by AllMusic (S2), but that page is the combined Black Saint/Mingus Mingus Mingus Mingus Mingus reissue and its credits blend the two sessions; Ervin does not appear in the Wikipedia personnel list drawn from the original Black Saint liner notes (S1). Presence on this album probable but session attribution unresolved — recorded as unk per contract."
+      },
+      {
+        "name": "Dick Hafer",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles flute per S1; S2 additionally credits clarinet and oboe (oboe is off-taxonomy; credit retained in notes only)."
+      },
+      {
+        "name": "Rolf Ericson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richard Williams",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Quentin Jackson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Don Butterfield",
+        "instrument": "tuba",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Tuba is outside the contract instrument taxonomy — most specific descriptive term used and flagged here. S1 also credits contrabass trombone."
+      },
+      {
+        "name": "Jay Berliner",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1 specifies classical guitar."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Track A – Solo Dancer",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:39",
+        "session_date": "1963-01-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Track B – Duet Solo Dancers",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:45",
+        "session_date": "1963-01-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Track C – Group Dancers",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:22",
+        "session_date": "1963-01-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Mode D – Trio and Group Dancers / Mode E – Single Solos and Group Dance / Mode F – Group and Solo Dance",
+        "track_number": 4,
+        "side": "B",
+        "duration": "18:39",
+        "session_date": "1963-01-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "48070ee2-1865-3b11-ba36-360b1453a37a",
+    "apple_album_id": "1443280597",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/48070ee2-1865-3b11-ba36-360b1453a37a/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "URL existence verified (HTTP 307 redirect to image). Release-group level art; pressing not individually confirmed, so inf rather than obs."
+      }
+    ],
+    "notes": "Single session, January 20, 1963, by an eleven-piece band; Bob Hammer co-orchestrator/arranger (non-performing, production role; S1). STUDIO CONFLICT: Wikipedia, citing the original liner notes (Impulse! AS-35), says Atlantic Studios, New York City (S1); a weak secondary source (S6) claims Rudy Van Gelder Studio, Englewood Cliffs — recorded as a conflict; studio field follows S1, epistemic_production downgraded to unk. Production: Bob Thiele (producer) and Bob Simpson (engineer) confirmed by both S1 and S2; do NOT apply the Van Gelder inference here — engineer is explicitly named. The AllMusic page available (S2) is the combined 2011 reissue The Black Saint and the Sinner Lady/Mingus Mingus Mingus Mingus Mingus; its credit list blends both sessions. Names appearing only in S2 and attributable to the Mingus Mingus Mingus Mingus Mingus session are EXCLUDED from this record: Britt Woodman (trombone), Eddie Preston (trumpet), Eric Dolphy (alto saxophone/flute), Walter Perkins (drums), plus composer credits for Duke Ellington, Irving Mills, and Barney Bigard (Black Saint is all-Mingus compositions per S1). Booker Ervin (tenor sax) appears in S2 but not S1; his long association with Mingus makes Black Saint plausible but the blended reissue credits cannot confirm session attribution — included with epistemic unk. Track subtitles per original LP: Track A 'Stop! Look! And Listen, Sinner Jim Whitney!'; Track B 'Hearts' Beat and Shades in Physical Embraces'; Track C '(Soul Fusion) Freewoman and Oh, This Freedom's Slave Cries'; side-B modes: 'Stop! Look! And Sing Songs of Revolutions!' / 'Saint and Sinner Join in Merriment on Battle Front' / 'Of Love, Pain, and Passioned Revolt, then Farewell, My Beloved, 'til It's Freedom Day'. S1 notes the album-sleeve track times are incorrect; durations above are the actual lengths S1 lists. Per-track personnel not distinguished in sources — all performing musicians treated as all-tracks except the unresolved Ervin credit. Liner notes by Mingus and his psychotherapist Edmund Pollock (S1); cover/liner photography Bob Ghiraldini, liner design Joe Lebow (S1, S2)."
+  },
+  "ballot": {
+    "album": "Charles Mingus — The Black Saint and the Sinner Lady (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "This is an unusually emphatic consensus choice: the dossier cites a Penguin Guide Crown and four-star rating, five-star assessments from AllMusic and the Rolling Stone Jazz Record Guide, and inclusion in 1001 Albums You Must Hear Before You Die. Mingus's continuous, eleven-piece suite is his defining large-form statement, joining blues, collective improvisation, ballet-like structure, and ambitious orchestration without leaving post-bop; its emotional force also makes that ambition immediately legible to a new listener. The Mingus-Byard-Richmond core and Charlie Mariano, Jerome Richardson, and the brass/reed ensemble give the session exceptional era-specific gravity.",
+    "case_against": "The meaningful curatorial objection is artist concentration: Mingus Ah Um already represents Mingus as a composer-bandleader, and a finite discovery canon might reserve a second Mingus place for an otherwise unrepresented artist. The dossier also has a real personnel-hygiene flaw: its AllMusic source is a blended reissue, and its unresolved Booker Ervin attribution should not be used to strengthen the session case; Ervin belongs to the separate Mingus Mingus Mingus Mingus Mingus session. The suite's dense through-composed design may be less immediately representative of jazz improvisation for some discovery purposes, though this is a programming trade-off rather than a challenge to its stature.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat it as a must-have consensus-core addition, while correcting or omitting the unresolved Booker Ervin credit in the supporting record.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

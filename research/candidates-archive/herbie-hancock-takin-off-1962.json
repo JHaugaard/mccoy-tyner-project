@@ -1,0 +1,293 @@
+{
+  "id": "herbie-hancock-takin-off-1962",
+  "artist": "Herbie Hancock",
+  "album": "Takin' Off",
+  "year": 1962,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Herbie Hancock's debut as a leader, recorded at 22 with Freddie Hubbard, Dexter Gordon, Butch Warren and Billy Higgins. 'Watermelon Man' became a jazz standard and a Mongo Santamaria hit single; the album caught Miles Davis's attention and led directly to the second great quintet. Consensus-level debut: Penguin Guide 3.5 stars, Rolling Stone Jazz Record Guide 4 stars, Down Beat 4.5 stars, AllMusic 4.5 stars.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Takin' Off — Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Takin%27_Off"
+    },
+    "S2": {
+      "title": "Takin' Off — AllMusic album page (Steve Huey review, session data)",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/r140178"
+    },
+    "S3": {
+      "title": "Blue Note official store — Takin' Off Classic Vinyl Series listing",
+      "type": "label",
+      "url": "https://store.bluenote.com/products/herbie-hancock-takin-off-lp-blue-note-classic-vinyl-edition"
+    },
+    "S4": {
+      "title": "iTunes Search API — Takin' Off album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Herbie+Hancock+Takin+Off&entity=album"
+    },
+    "S5": {
+      "title": "Cover Art Archive — MusicBrainz release-group b481d115-5b42-316b-a525-c669c762c73b",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/b481d115-5b42-316b-a525-c669c762c73b"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-05-28"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composed all six tracks (S1)."
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dexter Gordon",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Butch Warren",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Watermelon Man",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:09",
+        "session_date": "1962-05-28",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Freddie Hubbard",
+          "Dexter Gordon",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Three Bags Full",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:27",
+        "session_date": "1962-05-28",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Freddie Hubbard",
+          "Dexter Gordon",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Empty Pockets",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:09",
+        "session_date": "1962-05-28",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Freddie Hubbard",
+          "Dexter Gordon",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Maze",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:45",
+        "session_date": "1962-05-28",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Freddie Hubbard",
+          "Dexter Gordon",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Driftin'",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:58",
+        "session_date": "1962-05-28",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Freddie Hubbard",
+          "Dexter Gordon",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Alone and I",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:25",
+        "session_date": "1962-05-28",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Freddie Hubbard",
+          "Dexter Gordon",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "b481d115-5b42-316b-a525-c669c762c73b",
+    "apple_album_id": "1443302878",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/a4de06d8-ec13-3d7e-abf0-42509a1c31f6/15723924280.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Single approved front image in Cover Art Archive; pressing not confirmed as the 1962 original."
+      }
+    ],
+    "notes": "Single session, May 28, 1962, Van Gelder Studio, Englewood Cliffs (S1 infobox; S2 confirms recording date and location). Producer Alfred Lion per S1 infobox. Engineer not named in sources; Blue Note session at Van Gelder Studio in 1962 implies Rudy Van Gelder — recorded as engineer with epistemic inf per the Van Gelder inference rule, and epistemic_production set to inf. CD reissue adds three alternate takes (Watermelon Man, Three Bags Full, Empty Pockets) — excluded as reissue-only tracks. AllMusic legacy page r140178 serves correctly; newer mw-IDs for this title are rotted (mw0000187271 serves an unrelated compilation). Genre tags per S1: soul jazz / hard bop; S2 styles include Hard Bop and Modal Music — filed as hard-bop."
+  },
+  "ballot": {
+    "album": "Herbie Hancock — Takin' Off (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is Hancock's consequential Blue Note debut: at 22 he wrote all six pieces and led Freddie Hubbard, Dexter Gordon, Butch Warren, and Billy Higgins in a high-gravity 1962 session (S1, S2). \"Watermelon Man\" became both a jazz standard and a crossover hit through Mongo Santamaría, while the album's reported connection to Miles Davis gives it major lineage value as Hancock's route into the Second Great Quintet. Strong ratings from Down Beat, Rolling Stone's Jazz Record Guide, AllMusic, and the Penguin Guide, plus its immediate accessibility and enduring swing, make it an unusually effective discovery record.",
+    "case_against": "The dossier documents favorable ratings rather than repeated placement in independent canon lists or a Penguin Core Collection designation, so the consensus case is strong but not demonstrably overwhelming. Its historic reputation is concentrated heavily in \"Watermelon Man,\" and the remaining program can be heard as an excellent but conventional hard-bop date rather than the fully formed compositional and modal language of Hancock's more widely definitive albums, such as Empyrean Isles or Maiden Voyage. The Miles connection establishes the album as an important calling card, but not necessarily as the stylistic model for the music that followed.",
+    "disagreement": "One reference judges the debut's standard-making composition, Miles-lineage importance, session personnel, and broad critical acclaim sufficient for consensus_core and must_have; the other finds its consensus documentation and album-wide distinctiveness insufficient for that level, favoring contested and strong.",
+    "recommendation": "The council proposes that John treat Takin' Off as a strong, contested canon candidate whose historical and discovery value is substantial but whose must-have status remains a judgment call.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

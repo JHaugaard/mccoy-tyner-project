@@ -1,0 +1,289 @@
+{
+  "id": "freddie-hubbard-open-sesame-1960",
+  "artist": "Freddie Hubbard",
+  "album": "Open Sesame",
+  "year": 1960,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Freddie Hubbard's debut as a leader at 22, recorded June 19, 1960 and named to the Penguin Guide's Core Collection ('a great Blue Note set', 4 stars); 4.5 stars from both AllMusic and DownBeat. The band is pure session gravity: Tina Brooks (already in the canon with True Blue) contributed the title tune and 'Gypsy Blue', and a pre-Coltrane McCoy Tyner holds the piano chair months after his own Inception. It opens the Hubbard arc that Ready for Freddie and Hub-Tones already represent in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Open Sesame (Freddie Hubbard album) - Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Open_Sesame_(Freddie_Hubbard_album)"
+    },
+    "S2": {
+      "title": "Freddie Hubbard: Open Sesame - AllMusic",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/open-sesame-mw0000213239"
+    },
+    "S3": {
+      "title": "iTunes Search API - Freddie Hubbard Open Sesame",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Freddie+Hubbard+Open+Sesame&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive - Open Sesame release group",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/4953ba3d-e831-32d4-990d-fc01bc89f4a3"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-06-19"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tina Brooks",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia lists 'bass'; double bass per taxonomy."
+      },
+      {
+        "name": "Clifford Jarvis",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Open Sesame",
+        "track_number": 1,
+        "side": null,
+        "duration": "7:11",
+        "session_date": "1960-06-19",
+        "composers": [
+          "Tina Brooks"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Tina Brooks",
+          "McCoy Tyner",
+          "Sam Jones",
+          "Clifford Jarvis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "But Beautiful",
+        "track_number": 2,
+        "side": null,
+        "duration": "6:26",
+        "session_date": "1960-06-19",
+        "composers": [
+          "Johnny Burke",
+          "Jimmy Van Heusen"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Tina Brooks",
+          "McCoy Tyner",
+          "Sam Jones",
+          "Clifford Jarvis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Gypsy Blue",
+        "track_number": 3,
+        "side": null,
+        "duration": "6:28",
+        "session_date": "1960-06-19",
+        "composers": [
+          "Tina Brooks"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Tina Brooks",
+          "McCoy Tyner",
+          "Sam Jones",
+          "Clifford Jarvis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "All or Nothing at All",
+        "track_number": 4,
+        "side": null,
+        "duration": "5:36",
+        "session_date": "1960-06-19",
+        "composers": [
+          "Arthur Altman",
+          "Jack Lawrence"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Tina Brooks",
+          "McCoy Tyner",
+          "Sam Jones",
+          "Clifford Jarvis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "One Mint Julep",
+        "track_number": 5,
+        "side": null,
+        "duration": "6:04",
+        "session_date": "1960-06-19",
+        "composers": [
+          "Rudy Toombs"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Tina Brooks",
+          "McCoy Tyner",
+          "Sam Jones",
+          "Clifford Jarvis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Hub's Nub",
+        "track_number": 6,
+        "side": null,
+        "duration": "6:51",
+        "session_date": "1960-06-19",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Tina Brooks",
+          "McCoy Tyner",
+          "Sam Jones",
+          "Clifford Jarvis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "4953ba3d-e831-32d4-990d-fc01bc89f4a3",
+    "apple_album_id": "724538312",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/4953ba3d-e831-32d4-990d-fc01bc89f4a3/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front cover returned by Cover Art Archive for the release group; pressing not individually verified."
+      }
+    ],
+    "notes": "Single session, June 19, 1960, recorded by Rudy Van Gelder at Van Gelder Studio, Englewood Cliffs (Wikipedia S1 states 'recorded ... by Rudy Van Gelder'; AllMusic S2 confirms date and location). Released 1960 as BLP 4040 (mono) / BST 84040 (stereo); producer Alfred Lion per S1. AllMusic (S2) tags styles Hard Bop / Trumpet Jazz. CD reissue adds alternate takes of 'Open Sesame' (7:16) and 'Gypsy Blue' (7:35) \u2014 excluded as reissue-only tracks. Per-track personnel not itemized in sources; full quintet assumed on all tracks, track_assignments_complete=false."
+  },
+  "ballot": {
+    "album": "Freddie Hubbard \u2014 Open Sesame (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Open Sesame is an unusually well-credentialed leader debut: the dossier identifies it as a Penguin Guide Core Collection selection and reports 4.5-star assessments from both AllMusic and DownBeat. Its June 1960 Blue Note session has exceptional period gravity\u2014Hubbard with Tina Brooks, whose two compositions shape the programme, McCoy Tyner immediately before his Coltrane years, Sam Jones, and Clifford Jarvis\u2014under Alfred Lion and Rudy Van Gelder. It is also a vivid, accessible hard-bop document whose Brooks originals, standards, R&B adaptation, and Hubbard composition display the emerging voice of a major post-Brown/post-Miles trumpeter.",
+    "case_against": "The album's Core Collection designation is a powerful consensus signal, but the dossier does not substantiate the additional rating claims with direct DownBeat evidence or establish repeated presence across a wider range of independent canon lists. Musically, it can be heard as an excellent but conventional quintet blowing date rather than Hubbard's definitive artistic statement; Ready for Freddie and Hub-Tones more fully establish his compositional and conceptual identity. The incomplete track-assignment documentation is a minor candidate-hygiene weakness, even if the all-track quintet attribution is very plausible for this single-session date.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Open Sesame as a strong consensus-core addition, while recognizing it as an essential exemplar and debut rather than Hubbard's singular peak statement.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

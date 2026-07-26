@@ -1,63 +1,81 @@
 # Session Context
 
 ## Session Name
-transition-to-sites
+mccoy-build
 
 ## Current Focus
-Data platform maintenance / gap-fill complete. Phase 4 is done.
-Active build work has moved to the **jazz-canon-site** repo.
-mccoy-tyner is in **maintenance mode** — new data only via dispatch-ledger.
+Build McCoy — the Hermes agent profile — from `docs/mccoy-agent-spec.md`
+(v0.3 draft → **v1.0 BUILT**). Fable 5 session, launched via
+`docs/fable-build-prompt.md`, indexed as "mccoy-build".
 
-## What Happened This Session (2026-06-29/30)
+## What This Session Did (2026-07-15)
 
-### Gap-fill batch 01 — Something Cool (June Christy, 1955)
-- Dispatched `jazz-personnel-researcher` agent; full personnel from JazzDisco.org
-- 48 musicians, 11 tracks, 167 perf-track links; `track_assignments_complete: true`
-- Research file: `research/personnel-batch-gap-fill-01.md`
+### Database (spec §10 3b–3c)
+- `site_status` lookup (text-code PK: found/reviewed/approved/live/retired) +
+  `album.site_status` (100 included albums backfilled → `live`), `edit_log`
+  (append-only), `_jazzcanon_app` role (SELECT/INSERT/UPDATE, **no DELETE** —
+  never-delete is structural). `scripts/migrate-3b-site-status.sql` +
+  `run-migrate-3b.sh`; grants verified live (DELETE + edit_log UPDATE denied).
+- `export.sh` now enforces the publication gate in all 4 query sites — it was
+  previously **unfiltered** (first staged candidate would have leaked to the
+  site). Verified content-identical output for the current 100.
+- Citation backfill: `scripts/citation-backfill.py` (Sonnet subagent).
 
-### Gap-fill batch 02 — Mulligan / Chet Baker Sings / Black Fire
-- Gerry Mulligan 1952: Carson Smith + Larry Bunker removed (1953 sessions only);
-  correct 4-piece lineup, 8 tracks, all `all-tracks`, no perf-track links needed
-- Chet Baker Sings: 4 sessions resolved; Shelly Manne added; Jimmy Bond
-  single-performance entry spanning both Jul 56 sessions (unique constraint fix)
-- Black Fire: sides assigned A/B; Henderson absent on Subterfuge + Tired Trade;
-  Haynes absent on McNeil Island; MBID and Van Gelder/Alfred Lion credits added
-- Research file: `research/personnel-batch-gap-fill-02.md`
+### Hermes (spec §10 3d–3f)
+- **mccoy profile**: SOUL.md constitution (Fable-authored), Kimi K2.7-Code lead,
+  delegation lane (web+file children), `canon-council` MoA preset (DeepSeek +
+  Gemini refs via Nous; GPT-5.6 Terra aggregator via Codex OAuth — verified).
+- **JUDGE lane** = `~/.hermes/scripts/canon-council.py` (agent-invocable; no
+  in-agent MoA tool exists in v0.18.2; refs argue both cases — per-ref roles
+  unsupported). Verified e2e: real ballot on a next-batch candidate, 60s.
+- **Drip**: cron job `canon-drip` in the DEFAULT profile scheduler (always-on;
+  zero new footprint) with per-job Kimi override; 06:00, telegram,
+  `--script canon-drip-precheck.py` (dedup list + backlog cap as code; both
+  branches verified). Drip gathers INLINE; delegation is for interactive
+  missions. Next fire: 2026-07-16 06:00.
+- **Staging** = deterministic `scripts/stage-candidate.py` (Sonnet subagent),
+  adapted from ingest.py: candidate/found only, dedup + window guards.
 
-### Apple Music ID fixes
-- Ahmad Jamal *At the Pershing* → `1445769114` ✅
-- Jackie McLean *Destination... Out!* → `1442859687` ✅
-- Gerry Mulligan 1952 → `1460621783` ✅
-- MJQ *Django* → NULL (no standalone Apple Music album) ⛔
-- Lee Konitz *Subconscious-Lee* → NULL (1950 Prestige LP absent from catalog) ⛔
+### Repo config (John steers by editing markdown)
+`config/canon-rubric.md` (scope window/gates in frontmatter + judgment prose),
+`config/edit-contract.md`, `config/gather-mission.md`, `docs/mccoy-runbook.md`,
+`scripts/canon-search.py` (semantic search, nomic via vps4 tunnel — verified).
 
-### export.py — epistemic_track fix
-- Added `t.epistemic_track::text` to track SELECT; 591 obs / 56 inf / 7 unk
-- Script physically lives in jazz-canon-site/scripts/; migration to mccoy-tyner decided but not executed
+## Key Decisions
+Round-3 build decisions **#13–#22** appended to spec §11 (the spec remains the
+source of truth). Notables: preset lives in mccoy profile config only
+(canon-council.py pins HERMES_HOME); Hermes v0.18.2 always backgrounds
+top-level delegations (fine interactively, breaks -z probes only);
+McCoy executes John's explicit per-album status verdicts (decision John's,
+typing McCoy's); `subagent_auto_approve` stays false (moot for web+file
+children).
 
-### Waltz for Debby (Bill Evans) — no action needed
-- Confirmed 6/6 preview matches against the expanded Apple Music edition
-- Title matching works cleanly; link-out lands on expanded edition but data is correct
+## Late-session completions
+- Citation backfill EXECUTED: 191 sources, 393 citations, 100/100 albums,
+  idempotent (2nd run creates 0). Held item 1 closed.
+- Full pipeline validated live: Shorty Rogers and His Giants (1953) staged as
+  the first real candidate (dossier + real council ballot → stage-candidate.py
+  → candidate/found, tier consensus_core, must_have; edit_log row; backlog
+  1/10; export still exactly 100 — the publication gate holds).
+- ship.sh now flips approved→live after verified deploy (audited).
 
-## DB State (as of 2026-06-30)
-- Albums: 100 | Persons: 535 | Performances: 627+
-- Apple Music IDs: 97/100 (3 confirmed NULL — Konitz, Django, and one other)
-- Preview coverage: 640/666 tracks (jazz-canon-site side)
-- Embeddings: all 100 albums
+## Open Items / Next
+- John reviews the staged Shorty Rogers candidate (first item in the queue);
+  first drip fires 2026-07-16 06:00 → Telegram.
+- First interactive mission (John: `mccoy` chat → "run a gather mission…")
+  is the natural full-pipeline smoke test; all mechanics verified piecewise.
+- First drip fires 2026-07-16 06:00 → Telegram.
+- Deferred: per-line citation backfill (memory reminder); `_jazzcanon_ro`
+  password rotation (carried from last session).
+- DONE late in session: approved→live flip wired into ship.sh (audited via
+  edit_log; SQL dry-run verified).
 
-## Key Decisions (standing)
-- Data changes: author in mccoy-tyner DB → export.py → jazz-canon-site JSON. Never edit JSON directly.
-- Growth loop: fresh JSON batch files in `data/batches/`, not append-with-flags
-- Hermes admin profile replaces coded admin site (decided 2026-06-26)
-- Slow/iterative execution — no full-automation runs
-
-## Open Items
-- Stray `docs/data-pipeline-sop.md` — belongs in jazz-canon-site, not here; safe to delete
-- 9 sessions without studio location
-- Vocal sub-collection (June Christy, Mel Tormé, Shelly Manne) — deferred
-- export.py migration from jazz-canon-site/scripts/ to mccoy-tyner/scripts/ — not yet done
-
-## Phase Status
-- Phase 1–4: COMPLETE
-- Phase 5 (public app): active in jazz-canon-site
-- This repo: maintenance mode
+## Session Status
+Completed: 2026-07-15 (evening)
+Servers cleaned: none added this session — nothing to clean up
+Honcho curation: 5 durable facts written to session `mccoy-build` (McCoy
+shipped v1.0; executes-but-never-initiates verdict boundary + no-DELETE
+pattern; drip-gathers-inline architecture refinement; Hermes v0.18.2
+delegation-backgrounds gotcha; open loop: Shorty Rogers verdict + first drip
+2026-07-16 + commits pending). Rejected: field-level decision list (spec is
+source of truth), one-off Q&A noise.

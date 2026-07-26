@@ -1,0 +1,274 @@
+{
+  "id": "ornette-coleman-the-shape-of-jazz-to-come-1959",
+  "artist": "Ornette Coleman",
+  "album": "The Shape of Jazz to Come",
+  "year": 1959,
+  "label": "Atlantic",
+  "style_primary": "post-bop",
+  "rationale": "The rubric names this exact album as the borderline-avant case to argue as scope_call rather than auto-exclude. The case for: it is one of the most consequential jazz records ever made — Library of Congress National Recording Registry (2012), Grammy Hall of Fame (2015), all three Rolling Stone 500 lists — and its pianoless quartet is a lineage bridge out of bebop head-solo-head form that shaped Coltrane, Coleman Hawkins' heirs, and everything after; 'Lonely Woman' is a standard. The case against: Wikipedia and AllMusic both tag it free jazz, an excluded style; the council should judge whether 1959 Ornette is the canon's outer edge or outside it. John rules.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: The Shape of Jazz to Come",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Shape_of_Jazz_to_Come"
+    },
+    "S2": {
+      "title": "AllMusic: The Shape of Jazz to Come — Ornette Coleman",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/the-shape-of-jazz-to-come-mw0000187968"
+    },
+    "S3": {
+      "title": "iTunes Search API: The Shape of Jazz to Come (Mono)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Ornette+Coleman+The+Shape+of+Jazz+to+Come&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://musicbrainz.org/release-group/5879cfca-e1d0-3ef4-8014-3b284832ed18"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-05-22"
+    ],
+    "multi_session": false,
+    "studio": "Radio Recorders, Hollywood, California",
+    "producer": "Nesuhi Ertegun",
+    "engineer": null,
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Ornette Coleman",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Played a plastic Grafton alto saxophone (S1)."
+      },
+      {
+        "name": "Don Cherry",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia personnel section lists cornet; elsewhere Cherry is described as a trumpeter (pocket trumpet)."
+      },
+      {
+        "name": "Charlie Haden",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Lonely Woman",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:59",
+        "session_date": "1959-05-22",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Eventually",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:20",
+        "session_date": "1959-05-22",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Peace",
+        "track_number": 3,
+        "side": "A",
+        "duration": "9:04",
+        "session_date": "1959-05-22",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Focus on Sanity",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:50",
+        "session_date": "1959-05-22",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Congeniality",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:41",
+        "session_date": "1959-05-22",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Chronology",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:05",
+        "session_date": "1959-05-22",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "5879cfca-e1d0-3ef4-8014-3b284832ed18",
+    "apple_album_id": "921051612",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/5879cfca-e1d0-3ef4-8014-3b284832ed18/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front cover returned by Cover Art Archive for the release group; pressing not verified against original Atlantic 1317."
+      }
+    ],
+    "notes": "Single session, May 22, 1959, Radio Recorders, Hollywood (Wikipedia, AllMusic). Producer Nesuhi Ertegun (both sources). No engineer credit found in any consulted source — engineer null, epistemic_production unk. AllMusic tags styles as Avant-Garde Jazz / Free Jazz; Wikipedia tags avant-garde jazz / free jazz — the style-primary is recorded as post-bop only because the project taxonomy has no avant-garde value; this is the scope_call boundary the ballot must argue. Apple ID 921051612 is the Mono edition (℗1959 Atlantic); a 2005 remaster (50234787) also exists."
+  },
+  "ballot": {
+    "album": "Ornette Coleman — The Shape of Jazz to Come (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1959 date is safely in range, but free-jazz/avant-garde classification is the decisive boundary: both Wikipedia (S1) and AllMusic (S2) tag it as free jazz, while the rubric explicitly identifies this exact record as a borderline avant-garde case requiring a scope ruling rather than automatic exclusion."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "If John judges its retained pulse, melodic themes, blues-rooted material, and head-solo-head traces as sufficient post-bop continuity, this is an indispensable canon record. Coleman, Don Cherry, Charlie Haden, and Billy Higgins make the pianoless quartet a defining ensemble, and the record's liberation from chordal accompaniment made a foundational change in jazz improvisation and subsequent 1960s lineage. Its consensus is unusually broad: the dossier cites National Recording Registry induction, Grammy Hall of Fame recognition, and multiple Rolling Stone 500 appearances; \"Lonely Woman\" remains an emotionally immediate standard and a powerful discovery entry point.",
+    "case_against": "The strongest objection is not quality but scope: this is widely understood as a founding free-jazz document, and both consulted overview sources explicitly classify it as free jazz/avant-garde jazz (S1, S2). Its rejection of fixed harmonic progression is a rupture from the post-bop/modal tradition, not merely an adventurous extension of it; admitting the origin-point record risks making the canon's exclusion of later free-jazz records difficult to apply consistently. The documentation establishes basic personnel and session facts but relies chiefly on Wikipedia and AllMusic, without original liner notes or a stronger sessionographic source, leaving some production detail unresolved.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John make an explicit ruling on whether this melodic, pulse-based 1959 Ornette date is the permitted outer edge of post-bop or the excluded free-jazz threshold; if permitted, treat it as must-have.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

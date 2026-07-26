@@ -1,0 +1,66 @@
+{
+  "id": "kenny-dorham-whistle-stop-1961",
+  "artist": "Kenny Dorham",
+  "album": "Whistle Stop",
+  "year": 1961,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "A consensus hard-bop cornerstone: Kenny Dorham's 1961 Blue Note return pairs him with Hank Mobley, Kenny Drew, Paul Chambers and Philly Joe Jones, all already in the canon. AllMusic gives it 4.5 stars, the Penguin Guide and Rolling Stone Jazz Record Guide include it, and a 1975 British critics' poll selected it as one of 200 essential post-war jazz albums. The session is all Dorham compositions, displaying both his lyrical trumpet voice and his under-recognized writing. It fills a gap for Dorham as a leader and strengthens the early-1960s Blue Note hard-bop core.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {"title": "Wikipedia - Whistle Stop (album)", "type": "wiki", "url": "https://en.wikipedia.org/wiki/Whistle_Stop_(album)"},
+    "S2": {"title": "AllMusic - Whistle Stop", "type": "allmusic", "url": "https://www.allmusic.com/album/whistle-stop-mw0000101121"},
+    "S3": {"title": "Blue Note Records - Doing The Philly Twist: Kenny Dorham's Whistle Stop", "type": "label", "url": "https://www.bluenote.com/spotlight/doing-the-philly-twist-kenny-dorhams-whistle/"},
+    "S4": {"title": "Jazzwise - Kenny Dorham: Whistle Stop", "type": "review", "url": "https://www.jazzwise.com/reviews/kenny-dorham-whistle-stop"},
+    "S5": {"title": "uDiscoverMusic - Kenny Dorham's 'Whistle Stop' Reissued", "type": "news", "url": "https://www.udiscovermusic.com/news/kenny-dorham-whistle-stop-blue-note-classic-vinyl-series/"}
+  },
+  "personnel_record": {
+    "recording_dates": ["1961-01-15"],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {"name": "Kenny Dorham", "instrument": "trumpet", "scope": "all-tracks", "tracks": null, "session_dates": ["1961-01-15"], "epistemic": "obs", "sources": ["S1", "S2", "S3"], "name_variants": [], "notes": ""},
+      {"name": "Hank Mobley", "instrument": "tenor saxophone", "scope": "all-tracks", "tracks": null, "session_dates": ["1961-01-15"], "epistemic": "obs", "sources": ["S1", "S3", "S4"], "name_variants": [], "notes": ""},
+      {"name": "Kenny Drew", "instrument": "piano", "scope": "all-tracks", "tracks": null, "session_dates": ["1961-01-15"], "epistemic": "obs", "sources": ["S1", "S3"], "name_variants": [], "notes": ""},
+      {"name": "Paul Chambers", "instrument": "double bass", "scope": "all-tracks", "tracks": null, "session_dates": ["1961-01-15"], "epistemic": "obs", "sources": ["S1", "S3"], "name_variants": [], "notes": ""},
+      {"name": "Philly Joe Jones", "instrument": "drums", "scope": "all-tracks", "tracks": null, "session_dates": ["1961-01-15"], "epistemic": "obs", "sources": ["S1", "S3"], "name_variants": [], "notes": ""}
+    ],
+    "tracks": [
+      {"title": "Philly Twist", "track_number": 1, "side": "A", "duration": "5:39", "session_date": "1961-01-15", "composers": ["Kenny Dorham"], "personnel": ["Kenny Dorham", "Hank Mobley", "Kenny Drew", "Paul Chambers", "Philly Joe Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Buffalo", "track_number": 2, "side": "A", "duration": "7:43", "session_date": "1961-01-15", "composers": ["Kenny Dorham"], "personnel": ["Kenny Dorham", "Hank Mobley", "Kenny Drew", "Paul Chambers", "Philly Joe Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Sunset", "track_number": 3, "side": "A", "duration": "6:20", "session_date": "1961-01-15", "composers": ["Kenny Dorham"], "personnel": ["Kenny Dorham", "Hank Mobley", "Kenny Drew", "Paul Chambers", "Philly Joe Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Whistle Stop", "track_number": 4, "side": "B", "duration": "5:56", "session_date": "1961-01-15", "composers": ["Kenny Dorham"], "personnel": ["Kenny Dorham", "Hank Mobley", "Kenny Drew", "Paul Chambers", "Philly Joe Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Sunrise in Mexico", "track_number": 5, "side": "B", "duration": "5:39", "session_date": "1961-01-15", "composers": ["Kenny Dorham"], "personnel": ["Kenny Dorham", "Hank Mobley", "Kenny Drew", "Paul Chambers", "Philly Joe Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Windmill", "track_number": 6, "side": "B", "duration": "6:17", "session_date": "1961-01-15", "composers": ["Kenny Dorham"], "personnel": ["Kenny Dorham", "Hank Mobley", "Kenny Drew", "Paul Chambers", "Philly Joe Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Dorham's Epitaph", "track_number": 7, "side": "B", "duration": "1:09", "session_date": "1961-01-15", "composers": ["Kenny Dorham"], "personnel": ["Kenny Dorham", "Hank Mobley", "Kenny Drew", "Paul Chambers", "Philly Joe Jones"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]}
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "938c1f3b-520b-3003-9cd8-09e62c91b49b",
+    "apple_album_id": null,
+    "cover_art": [
+      {"role": "front", "source": "wikimedia", "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Dorhamwhistle.jpg/250px-Dorhamwhistle.jpg", "is_original_cover": true, "epistemic": "obs", "notes": ""}
+    ],
+    "notes": "Single session recorded January 15, 1961 at Van Gelder Studio. Producer Alfred Lion (Blue Note); engineer Rudy Van Gelder per standard Blue Note documentation and Wikipedia. All five musicians present on all tracks. Wikipedia genres include 'hard bop'."
+  },
+  "ballot": {
+    "album": "Kenny Dorham — Whistle Stop (1961)",
+    "scope_check": {"in_window": true, "boundary_note": null},
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is an exceptionally concentrated hard-bop date: Dorham’s trumpet and seven original compositions are carried by Hank Mobley, Kenny Drew, Paul Chambers, and Philly Joe Jones in a single 1961 Van Gelder session (S1–S4). The dossier reports support across several critical traditions—AllMusic’s 4.5-star rating, Penguin Guide and Rolling Stone Jazz Record Guide recognition, and a 1975 British critics’ essential-albums poll—while Blue Note and Jazzwise documentation reinforces its stature (S2–S5). As an all-original program, it makes a substantial claim as Dorham’s fullest leader-and-composer statement and offers immediate discovery value through its melodic, poised, deeply swinging quintet writing.",
+    "case_against": "Its case is stronger as exemplary hard bop than as a record that redirected the music: the dossier supplies no direct evidence of downstream influence, musician testimony, or a stylistic breakthrough comparable to the era’s most load-bearing albums. Several cited sources are label-adjacent or secondary, while the reported Penguin and Rolling Stone distinctions are not documented in the supplied source records; the breadth of consensus therefore remains somewhat asserted rather than demonstrated. In an already dense early-1960s Blue Note hard-bop canon, a superb all-star session can be redundant if more singular Mobley, Blakey, or Dorham leadership statements are already represented.",
+    "disagreement": "Reference 1 judges the limited lineage evidence and potential Blue Note hard-bop redundancy sufficient to make it contested, whereas Reference 2 regards its reported critical consensus, Dorham’s all-original authorship, and the personnel as enough for consensus_core.",
+    "recommendation": "The council proposes that John treat Whistle Stop as a strong candidate, adding it if the canon needs Dorham’s leader voice or another peak hard-bop statement, but not as an automatic core selection.",
+    "confidence": "medium",
+    "_council": {
+      "references": ["nous:deepseek/deepseek-v4-pro", "nous:google/gemini-3.1-pro-preview"],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

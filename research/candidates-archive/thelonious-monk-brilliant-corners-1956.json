@@ -1,0 +1,351 @@
+{
+  "id": "thelonious-monk-brilliant-corners-1956",
+  "artist": "Thelonious Monk",
+  "album": "Brilliant Corners",
+  "year": 1956,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "rationale": "Thelonious Monk's first Riverside album built entirely from his own compositions, routinely cited as the definitive studio statement of his 1950s comeback. It pairs Monk with a peerless hard-bop cohort—Sonny Rollins, Max Roach, Clark Terry, Ernie Henry, Oscar Pettiford, and Paul Chambers—and was named by DownBeat the most acclaimed jazz LP of 1957. Penguin Guide lists it in the core collection; the title track's editing-from-multiple-takes legend only adds to its canonical weight. Strong consensus + defining statement + session gravity.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic – Brilliant Corners",
+      "type": "reference",
+      "url": "https://www.allmusic.com/album/brilliant-corners-mw0000188572"
+    },
+    "S2": {
+      "title": "Wikipedia – Brilliant Corners",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Brilliant_Corners"
+    },
+    "S3": {
+      "title": "JazzDisco.org – Thelonious Monk Discography",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/thelonious-monk/discography/"
+    },
+    "S4": {
+      "title": "Discogs – Brilliant Corners",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/120705-Thelonious-Monk-Brilliant-Corners"
+    },
+    "S5": {
+      "title": "MusicBrainz – Brilliant Corners Release Group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/764d0d9e-68b1-39fe-b1d1-eda104926777"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-10-09",
+      "1956-10-15",
+      "1956-12-07"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-10-09",
+          "1956-10-15",
+          "1956-12-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also celesta on track 3 ('Pannonica') per Wikipedia."
+      },
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Brilliant Corners",
+          "Ba-Lue Bolivar Ba-Lues-Are",
+          "Pannonica",
+          "Bemsha Swing"
+        ],
+        "session_dates": [
+          "1956-10-09",
+          "1956-10-15",
+          "1956-12-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Not on track 4 ('I Surrender, Dear')."
+      },
+      {
+        "name": "Ernie Henry",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Brilliant Corners",
+          "Ba-Lue Bolivar Ba-Lues-Are",
+          "Pannonica"
+        ],
+        "session_dates": [
+          "1956-10-09",
+          "1956-10-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Present October 9 and 15 sessions; not on December 7 tracks."
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bemsha Swing"
+        ],
+        "session_dates": [
+          "1956-12-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Only on December 7 session."
+      },
+      {
+        "name": "Oscar Pettiford",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Brilliant Corners",
+          "Ba-Lue Bolivar Ba-Lues-Are",
+          "Pannonica"
+        ],
+        "session_dates": [
+          "1956-10-09",
+          "1956-10-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bass on October sessions; not present December 7."
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bemsha Swing"
+        ],
+        "session_dates": [
+          "1956-12-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bass on December 7 session."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Brilliant Corners",
+          "Ba-Lue Bolivar Ba-Lues-Are",
+          "Pannonica",
+          "Bemsha Swing"
+        ],
+        "session_dates": [
+          "1956-10-09",
+          "1956-10-15",
+          "1956-12-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia notes timpani on track 5 ('Bemsha Swing'). Not on track 4 ('I Surrender, Dear')."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Brilliant Corners",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:42",
+        "session_date": "1956-10-15",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Sonny Rollins",
+          "Ernie Henry",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Ba-Lue Bolivar Ba-Lues-Are",
+        "track_number": 2,
+        "side": "A",
+        "duration": "13:24",
+        "session_date": "1956-10-09",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Sonny Rollins",
+          "Ernie Henry",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Pannonica",
+        "track_number": 3,
+        "side": "B",
+        "duration": "8:50",
+        "session_date": "1956-10-09",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Sonny Rollins",
+          "Ernie Henry",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "I Surrender, Dear",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:25",
+        "session_date": "1956-12-07",
+        "composers": [
+          "Harry Barris",
+          "Gordon Clifford"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Bemsha Swing",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:42",
+        "session_date": "1956-12-07",
+        "composers": [
+          "Thelonious Monk",
+          "Denzil Best"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Sonny Rollins",
+          "Clark Terry",
+          "Paul Chambers",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "764d0d9e-68b1-39fe-b1d1-eda104926777",
+    "apple_album_id": null,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/764d0d9e-68b1-39fe-b1d1-eda104926777/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Wikimedia/ Cover Art Archive front cover for original Riverside release."
+      }
+    ],
+    "notes": "Three sessions at Van Gelder Studio, Hackensack: Oct 9 (Ba-Lue/Pannonica), Oct 15 (title track, edited from multiple takes), Dec 7 (I Surrender Dear/Bemsha Swing). Wikipedia lists 'I Surrender, Dear' as solo piano; AllMusic lists recording Dec 17-23, 1956 but Wikipedia's per-session dates are more precise and used here. Discogs credits engineer Jack Higgins; AllMusic does not list engineer."
+  },
+  "ballot": {
+    "album": "Thelonious Monk — Brilliant Corners (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Brilliant Corners is securely within the canon’s central post-bebop territory and carries exceptional consensus evidence: the dossier identifies it as a Penguin Guide core selection and DownBeat’s most acclaimed jazz LP of 1957. It is a defining document of Monk’s Riverside resurgence, centered on his singular compositional language in works including \"Brilliant Corners,\" \"Pannonica,\" and \"Bemsha Swing,\" while the sessions join Monk with Sonny Rollins, Max Roach, Ernie Henry, Oscar Pettiford, Clark Terry, and Paul Chambers (S2, S4). The famously difficult, assembled title performance is not merely lore but evidence of Monk extending rhythmic and formal demands on elite peers; the resulting record remains unusually vivid as both an introduction to Monk and a demonstration of his long influence on jazz composition and improvisation.",
+    "case_against": "The most substantive reservation is curatorial rather than qualitative: Monk has several plausible defining albums, so a tightly limited canon could favor Monk’s Music, the Coltrane collaboration, or later Monk releases instead of treating this as uniquely indispensable. Its title-track assembly and unevenly constituted sessions can also make it feel less like a naturally unified band statement than some competing Monk albums, and the solo-standard interlude is less central to the album’s thesis. The dossier’s strongest prestige claims rely largely on secondary/reference sources and assert the DownBeat and Penguin judgments without supplying the underlying primary citations.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Brilliant Corners as a must-have consensus-core Monk album, while verifying the stated DownBeat and Penguin citations during final editorial review.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

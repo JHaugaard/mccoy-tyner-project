@@ -1,0 +1,271 @@
+{
+  "id": "art-blakey-and-the-jazz-messengers-a-night-in-tunisia-1960",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "A Night in Tunisia",
+  "year": 1960,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "The peak studio statement of the Morgan/Shorter/Timmons Jazz Messengers — AllMusic calls it the group hitting its artistic peak, Penguin Guide 4 stars, Rolling Stone Jazz Record Guide 5 stars, DownBeat 4 stars on release. The 11-minute title track is one of the defining hard-bop performances, and with Moanin' and Free for All already in the canon, this is the missing middle chapter of the Messengers' golden era.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: A Night in Tunisia (1961 album)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/A_Night_in_Tunisia_(1961_album)"
+    },
+    "S2": {
+      "title": "AllMusic: A Night in Tunisia [1961] — Art Blakey & the Jazz Messengers",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/a-night-in-tunisia-1961--mw0000624528"
+    },
+    "S3": {
+      "title": "iTunes Search API: A Night in Tunisia (The Rudy Van Gelder Edition)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+A+Night+in+Tunisia&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://musicbrainz.org/release-group/86ee6a37-c44d-372d-b9d0-a03e07e2db06"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-08-07",
+      "1960-08-14"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bobby Timmons",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jymie Merritt",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "A Night in Tunisia",
+        "track_number": 1,
+        "side": "A",
+        "duration": "11:16",
+        "session_date": null,
+        "composers": [
+          "Dizzy Gillespie",
+          "Frank Paparelli"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Bobby Timmons",
+          "Jymie Merritt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Sincerely Diana",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:50",
+        "session_date": null,
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Bobby Timmons",
+          "Jymie Merritt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "So Tired",
+        "track_number": 3,
+        "side": "B",
+        "duration": "6:39",
+        "session_date": null,
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Bobby Timmons",
+          "Jymie Merritt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Yama",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:23",
+        "session_date": null,
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Bobby Timmons",
+          "Jymie Merritt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Kozo's Waltz",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:49",
+        "session_date": null,
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Bobby Timmons",
+          "Jymie Merritt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "86ee6a37-c44d-372d-b9d0-a03e07e2db06",
+    "apple_album_id": "723877728",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/86ee6a37-c44d-372d-b9d0-a03e07e2db06/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front cover returned by Cover Art Archive for the release group; pressing not verified against original BLP 4049."
+      }
+    ],
+    "notes": "Two Van Gelder Studio sessions (Aug 7 and 14, 1960, per Wikipedia and AllMusic); sources do not state which tracks belong to which date, so per-track session_date left null. Released May 1961 (BLP 4049 mono / BST 84049 stereo). Engineer credit: no source names the engineer; per the Van Gelder inference rule (Blue Note, 1960, confirmed Van Gelder Studio) engineer recorded as Rudy Van Gelder with epistemic inf. CD/reissue bonus tracks 'When Your Lover Has Gone' and 'Sincerely Diana (alternate take)' excluded per contract (reissue-only). Original liner notes by Barbara J. Gardner. Per-track personnel listed as full quintet by inference from the single-ensemble session; no source assigns musicians per track."
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers — A Night in Tunisia (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a peak document by the Morgan/Shorter/Timmons Jazz Messengers, a lineup whose personnel gravity captures hard bop's meeting of Blakey's propulsion, Morgan's virtuosity, Timmons's gospel-rooted rhythmic force, and Shorter's emerging compositional modernism. Its 11-minute recasting of Gillespie and Paparelli's \"A Night in Tunisia\" is a defining hard-bop performance, while Shorter's \"Sincerely Diana\" and Morgan's \"Yama\" and \"Kozo's Waltz\" document the band developing the book that would lead from Moanin' toward Free for All. The dossier further records strong guide recognition—Penguin Guide four stars, Rolling Stone Jazz Record Guide five stars, DownBeat four stars, and AllMusic's artistic-peak assessment—and the Blue Note/Van Gelder setting reinforces its discovery value as a vivid, accessible statement of the tradition.",
+    "case_against": "The critical ratings establish esteem but do not, on the supplied evidence, demonstrate repeated placement on independent consensus canon lists; the dossier's substantive support is mainly Wikipedia and AllMusic rather than primary reviews, liner notes, or a discographical source. The album's reputation is disproportionately concentrated in its extended treatment of a Gillespie standard, and the remaining originals, though important evidence of Morgan and Shorter's development, are less widely established as individual touchstones. Its two-session documentation also remains incomplete at track level, with production and personnel detail partly inferred.",
+    "disagreement": "One reference regards the combined critical reception, defining title performance, and landmark lineup as sufficient for consensus_core and must_have status; the other finds the consensus evidence thinner than that of unambiguous core entries and judges the album's impact too front-loaded to clear that threshold, favoring contested and strong.",
+    "recommendation": "The council proposes that John treat this as a high-priority contested hard-bop candidate, with its exceptional title performance and lineup weighed against the less fully demonstrated album-wide consensus.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

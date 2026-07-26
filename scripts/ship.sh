@@ -42,6 +42,25 @@ npx wrangler pages deploy dist --branch main
 code="$(curl -s -o /dev/null -w '%{http_code}' https://jazzcanon.com/)"
 if [ "$code" = "200" ]; then
   echo "✓ Deployed & verified (HTTP $code) — https://jazzcanon.com"
+  # Publication axis: what was approved is now live (spec §5; edit-contract.md —
+  # this flip belongs to the publish pipeline, not chat). Audited in edit_log.
+  APP_URL="$(grep -E '^JAZZCANON_APP_DB_URL=' "$PLATFORM/.env.local" | cut -d= -f2- || true)"
+  if [ -n "$APP_URL" ]; then
+    flipped=$(psql "$APP_URL" -X -At <<'SQL'
+WITH f AS (
+  UPDATE _jazzcanon.album SET site_status='live'
+   WHERE canon_status='included' AND site_status='approved'
+  RETURNING id
+), logged AS (
+  INSERT INTO _jazzcanon.edit_log (editor, table_name, record_id, field, old_value, new_value, reason)
+  SELECT 'ship.sh', 'album', id, 'site_status', 'approved', 'live', 'published by ship.sh deploy'
+    FROM f RETURNING 1
+)
+SELECT count(*) FROM f;
+SQL
+)
+    [ "$flipped" != "0" ] && echo "✓ site_status: $flipped album(s) approved → live"
+  fi
   echo "✓ Done. Data already committed by publish; deploy is not a git act."
 else
   echo "✗ Verify FAILED: HTTP $code — check the Cloudflare dashboard / rollback if needed" >&2

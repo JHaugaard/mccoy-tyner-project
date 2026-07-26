@@ -17,7 +17,8 @@ orphans=$("${PSQL[@]}" -c "SELECT count(*) FROM _jazzcanon.performance p
   WHERE pe.id IS NULL OR i.id IS NULL")
 [ "$orphans" = "0" ] || { echo "✗ INVARIANT FAILED: $orphans performance rows with orphan person/instrument FK" >&2; exit 1; }
 noperf=$("${PSQL[@]}" -c "SELECT count(*) FROM _jazzcanon.album a
-  WHERE NOT EXISTS (SELECT 1 FROM _jazzcanon.performance p WHERE p.album_id=a.id)")
+  WHERE a.canon_status='included' AND a.site_status IN ('approved','live')
+    AND NOT EXISTS (SELECT 1 FROM _jazzcanon.performance p WHERE p.album_id=a.id)")
 [ "$noperf" = "0" ] || { echo "✗ INVARIANT FAILED: $noperf albums with zero performances" >&2; exit 1; }
 
 # --- albums.json ---
@@ -32,6 +33,8 @@ FROM (
   LEFT JOIN _jazzcanon.label l ON l.id = a.label_id
   JOIN _jazzcanon.style s ON s.id = a.style_primary_id
   LEFT JOIN _jazzcanon.album_art aa ON aa.album_id = a.id AND aa.is_primary
+  -- publication gate: only canon albums greenlit for the site (spec §5/§6)
+  WHERE a.canon_status = 'included' AND a.site_status IN ('approved', 'live')
 ) r;
 SQL
 
@@ -85,7 +88,8 @@ SELECT json_object_agg(a.id, json_build_object(
      ) row)
 ))
 FROM _jazzcanon.album a
-LEFT JOIN _jazzcanon.person lead ON lead.id = a.leader_person_id;
+LEFT JOIN _jazzcanon.person lead ON lead.id = a.leader_person_id
+WHERE a.canon_status = 'included' AND a.site_status IN ('approved', 'live');
 SQL
 
 # --- graph.json ---
@@ -94,7 +98,11 @@ SELECT json_build_object(
   'people', (
      SELECT json_object_agg(pe.id, pe.canonical_name)
      FROM _jazzcanon.person pe
-     WHERE EXISTS (SELECT 1 FROM _jazzcanon.performance p WHERE p.person_id = pe.id)),
+     WHERE EXISTS (SELECT 1 FROM _jazzcanon.performance p
+                   JOIN _jazzcanon.album al ON al.id = p.album_id
+                   WHERE p.person_id = pe.id
+                     AND al.canon_status = 'included'
+                     AND al.site_status IN ('approved', 'live'))),
   'edges', (
      SELECT json_agg(e) FROM (
        SELECT p.person_id AS p, p.album_id AS a,
@@ -102,6 +110,9 @@ SELECT json_build_object(
                        ORDER BY i.name) AS entries
        FROM _jazzcanon.performance p
        JOIN _jazzcanon.instrument i ON i.id = p.instrument_id
+       JOIN _jazzcanon.album al ON al.id = p.album_id
+       WHERE al.canon_status = 'included'
+         AND al.site_status IN ('approved', 'live')
        GROUP BY p.person_id, p.album_id
      ) e)
 );

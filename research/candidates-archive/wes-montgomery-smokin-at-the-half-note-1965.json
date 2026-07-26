@@ -1,0 +1,258 @@
+{
+  "id": "wes-montgomery-smokin-at-the-half-note-1965",
+  "artist": "Wes Montgomery",
+  "album": "Smokin' at the Half Note",
+  "year": 1965,
+  "label": "Verve",
+  "style_primary": "hard-bop",
+  "rationale": "Widely held as Wes Montgomery's defining live record — Pat Metheny called it 'the absolute greatest jazz-guitar album ever made' and 'the record that taught me how to play.' Montgomery fronts the Miles Davis 1959–63 rhythm section (Wynton Kelly, Paul Chambers, Jimmy Cobb); the album's 'Unit 7' and 'Four on Six' helped establish both as jazz standards. Five-star AllMusic, 3.5-star Penguin Guide. Note: only the two side-one tracks were recorded at the Half Note; the side-two titles were re-recorded at Van Gelder Studio at Creed Taylor's behest.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Smokin' at the Half Note — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Smokin'_at_the_Half_Note"
+    },
+    "S2": {
+      "title": "Smokin' at the Half Note — AllMusic album page + credits tab",
+      "type": "reference/credits",
+      "url": "https://www.allmusic.com/album/smokin-at-the-half-note-mw0000188578"
+    },
+    "S3": {
+      "title": "iTunes Search API — Smokin' at the Half Note (Verve, collectionId 1440846063)",
+      "type": "identifier/api",
+      "url": "https://itunes.apple.com/search?term=Wes+Montgomery+Smokin+at+the+Half+Note&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group 1f9c2a56-fdb7-38f1-95e2-ea4e7d946de8 / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://musicbrainz.org/release-group/1f9c2a56-fdb7-38f1-95e2-ea4e7d946de8"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-06-01/1965-06-30",
+      "1965-09-22"
+    ],
+    "multi_session": true,
+    "studio": "Half Note Club, New York City (tracks 1-2); Van Gelder Studio, Englewood Cliffs, NJ (tracks 3-5)",
+    "producer": "Creed Taylor",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Wes Montgomery",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Cobb",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "No Blues",
+        "track_number": 1,
+        "side": "A",
+        "duration": "13:00",
+        "session_date": "1965-06-01/1965-06-30",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Wes Montgomery",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "If You Could See Me Now",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:45",
+        "session_date": "1965-06-01/1965-06-30",
+        "composers": [
+          "Tadd Dameron",
+          "Carl Sigman"
+        ],
+        "personnel": [
+          "Wes Montgomery",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Unit 7",
+        "track_number": 3,
+        "side": "B",
+        "duration": "7:30",
+        "session_date": "1965-09-22",
+        "composers": [
+          "Sam Jones"
+        ],
+        "personnel": [
+          "Wes Montgomery",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Four on Six",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:45",
+        "session_date": "1965-09-22",
+        "composers": [
+          "Wes Montgomery"
+        ],
+        "personnel": [
+          "Wes Montgomery",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "What's New?",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:00",
+        "session_date": "1965-09-22",
+        "composers": [
+          "Bob Haggart",
+          "Johnny Burke"
+        ],
+        "personnel": [
+          "Wes Montgomery",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "1f9c2a56-fdb7-38f1-95e2-ea4e7d946de8",
+    "apple_album_id": "1440846063",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/514eeef0-7328-4b6c-a476-72c69ce82db5/31796318036.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Canonical release-group front via Cover Art Archive; pressing not verified against the 1965 Verve original."
+      }
+    ],
+    "notes": "Two sessions: June 1965 live at the Half Note (tracks 1-2, exact June date undocumented — Wikipedia says only 'June 1965') and 1965-09-22 at Van Gelder Studio (tracks 3-5, re-recorded at producer Creed Taylor's behest, per S1 citing JazzTimes). AllMusic credits (S2) list both locations and confirm Rudy Van Gelder as Engineer plus Val Valentin as engineer/engineering director (S1 calls Valentin 'engineering director'). Original-LP durations from S1; CD reissue lengths differ slightly (e.g., 'No Blues' 12:57). The 2005 remastered CD adds six tracks from the same club date (originally issued as 'Willow Weep for Me' minus strings) — excluded here as reissue-only."
+  },
+  "ballot": {
+    "album": "Wes Montgomery — Smokin' at the Half Note (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "This is a defining Wes Montgomery statement: the dossier documents his quartet with Wynton Kelly, Paul Chambers, and Jimmy Cobb, the rhythm section whose work with Miles Davis gives the session exceptional post-bebop gravity (S1, S2). Pat Metheny's description of it as \"the absolute greatest jazz-guitar album ever made\" and \"the record that taught me how to play\" is unusually direct lineage evidence, while AllMusic's five-star assessment supports its standing as a premier jazz-guitar record (S2). The extended live \"No Blues,\" the canonical \"Four on Six,\" and the group's immediate swing make it an especially persuasive discovery record.",
+    "case_against": "Its celebrated live identity is materially qualified: only \"No Blues\" and \"If You Could See Me Now\" were recorded at the Half Note, while the remaining three original-LP tracks were re-recorded at Van Gelder Studio months later (S1, S2). That hybrid construction can make the album feel less like a wholly spontaneous club document and leaves room to prefer an earlier Riverside album, especially The Incredible Jazz Guitar of Wes Montgomery, as Montgomery's purer definitive statement. The evidence base also relies chiefly on AllMusic and Wikipedia-derived assertions; Penguin's 3.5-star rating is strong but falls short of an unambiguous Penguin core-collection signal.",
+    "disagreement": null,
+    "recommendation": "The council proposes John treat this as a must-have consensus-core record, while noting the live/studio hybrid nature of the original album.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "id": "sonny-rollins-a-night-at-the-village-vanguard-1957",
+  "artist": "Sonny Rollins",
+  "album": "A Night at the Village Vanguard",
+  "year": 1957,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Rollins's first live recording as a leader and the first live recording made at the Village Vanguard — a pianoless trio date that freed the tenor from chordal accompaniment and became a template for the saxophone-trio format. Penguin Guide core collection with crown; named by Scott Yanow as one of the 17 Essential Hard Bop Recordings; AllMusic 5 stars. Session gravity: two distinct rhythm sections including Wilbur Ware and Elvin Jones.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — A Night at the \"Village Vanguard\"",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/A_Night_at_the_%22Village_Vanguard%22"
+    },
+    "S2": {
+      "title": "AllMusic — A Night at the Village Vanguard [1958] (mw0000188596)",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/a-night-at-the-village-vanguard-1958--mw0000188596"
+    },
+    "S3": {
+      "title": "iTunes Search API — Sonny Rollins, A Night at the Village Vanguard",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Sonny+Rollins+Night+at+the+Village+Vanguard&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive — release-group 35cb5391-a144-31e9-853b-4728b9b2a511",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/35cb5391-a144-31e9-853b-4728b9b2a511"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-11-03"
+    ],
+    "multi_session": false,
+    "studio": "Village Vanguard, New York City (live)",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wilbur Ware",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Old Devil Moon",
+          "Softly, as in a Morning Sunrise",
+          "Striver's Row",
+          "Sonnymoon for Two",
+          "I Can't Get Started"
+        ],
+        "session_dates": [
+          "1957-11-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Evening sets rhythm section; all LP tracks except 'A Night in Tunisia'"
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Old Devil Moon",
+          "Softly, as in a Morning Sunrise",
+          "Striver's Row",
+          "Sonnymoon for Two",
+          "I Can't Get Started"
+        ],
+        "session_dates": [
+          "1957-11-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Evening sets rhythm section"
+      },
+      {
+        "name": "Donald Bailey",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Night in Tunisia"
+        ],
+        "session_dates": [
+          "1957-11-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Afternoon set rhythm section; LP track 'A Night in Tunisia' is from the afternoon set"
+      },
+      {
+        "name": "Pete LaRoca",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Night in Tunisia"
+        ],
+        "session_dates": [
+          "1957-11-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Pete La Roca"
+        ],
+        "notes": "Afternoon set rhythm section"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Old Devil Moon",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:19",
+        "session_date": "1957-11-03",
+        "composers": [
+          "E.Y. Harburg",
+          "Burton Lane"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wilbur Ware",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Softly, as in a Morning Sunrise",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:03",
+        "session_date": "1957-11-03",
+        "composers": [
+          "Oscar Hammerstein II",
+          "Sigmund Romberg"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wilbur Ware",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Striver's Row",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:59",
+        "session_date": "1957-11-03",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wilbur Ware",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sonnymoon for Two",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:46",
+        "session_date": "1957-11-03",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wilbur Ware",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "A Night in Tunisia",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:16",
+        "session_date": "1957-11-03",
+        "composers": [
+          "Dizzy Gillespie",
+          "Frank Paparelli"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Donald Bailey",
+          "Pete LaRoca"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Can't Get Started",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:54",
+        "session_date": "1957-11-03",
+        "composers": [
+          "Ira Gershwin",
+          "Vernon Duke"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wilbur Ware",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "35cb5391-a144-31e9-853b-4728b9b2a511",
+    "apple_album_id": "715846080",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/35cb5391-a144-31e9-853b-4728b9b2a511/front",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front cover returned by CAA for the release group; pressing not individually verified"
+      }
+    ],
+    "notes": "Recorded live November 3, 1957 across three sets (one afternoon, two evening) with different rhythm sections: Donald Bailey/Pete LaRoca (afternoon) and Wilbur Ware/Elvin Jones (evening). Original LP (BLP 1581) draws from the evening sets except 'A Night in Tunisia' (afternoon set) per Wikipedia. Released 1958; recorded 1957 — year field uses recording year. Wikipedia states this was the first live recording made at the Village Vanguard, engineered by Rudy Van Gelder. Apple ID 715846080 is the Blue Note 'Vol. 1 (Live)' edition with original 1957-11-03 release date. Note: first AllMusic ID tried (mw0000193098) had rotted to a Jacques Brel album; correct current ID is mw0000188596."
+  },
+  "ballot": {
+    "album": "Sonny Rollins — A Night at the Village Vanguard (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a foundational live hard-bop document: Rollins's pianoless trio setting removes chordal accompaniment and makes his thematic improvisation, rhythmic resourcefulness, and command of standards unusually exposed and compelling. The dossier identifies convergent consensus signals—a Penguin Guide Core Collection crown, Scott Yanow's essential-hard-bop recognition, and an AllMusic five-star rating—while the Ware/Jones and Bailey/LaRoca rhythm sections give the date exceptional session gravity. Its status as the first live recording made at the Village Vanguard, together with its long afterlife as a model for saxophone-trio records, makes it a defining statement rather than merely a superior concert souvenir.",
+    "case_against": "The original LP is not a wholly unified performance statement: it compiles material from different sets and rhythm sections, with \"A Night in Tunisia\" coming from the Bailey/LaRoca afternoon group while the remaining tracks use Ware/Jones. A listener seeking an immediately representative hard-bop entry point may find its stripped-down trio texture more demanding than a classic Rollins studio quartet or quintet album. The dossier's detailed track-to-personnel assignments and several historical claims rely chiefly on Wikipedia (S1), without a second discographical or primary-source verification.",
+    "disagreement": "Both references judge it consensus_core and clear of all scope boundaries; they split only on urgency, with one calling it must_have because the pianoless-trio and Vanguard-live-document holes would be conspicuous, and the other calling it strong because its live, compiled form is somewhat less singularly indispensable than Rollins's foremost studio statements.",
+    "recommendation": "The council proposes that John treat this as a consensus-core Rollins document with strong priority, while weighing the must-have argument for its formative pianoless-trio and Village Vanguard significance.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "id": "miles-davis-relaxin-with-the-miles-davis-quintet-1958",
+  "artist": "Miles Davis",
+  "album": "Relaxin' with the Miles Davis Quintet",
+  "year": 1958,
+  "label": "Prestige",
+  "style_primary": "hard-bop",
+  "rationale": "One of the four albums from the First Great Quintet's legendary 1956 marathon Prestige sessions (Cookin'/Relaxin'/Workin'/Steamin') — with Davis, Coltrane, Garland, Chambers and Philly Joe Jones at their peak, recorded to fulfill the Prestige contract before the Columbia move. AllMusic 5 stars ('among the pinnacle of Davis' work... of the entire bop subgenre'); Penguin Guide 4 stars. 'Oleo' and 'If I Were a Bell' are definitive hard-bop quintet performances.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Relaxin' with the Miles Davis Quintet",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Relaxin%27_with_the_Miles_Davis_Quintet"
+    },
+    "S2": {
+      "title": "AllMusic — Relaxin' With the Miles Davis Quintet (mw0000188060)",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/relaxin-with-the-miles-davis-quintet-mw0000188060"
+    },
+    "S3": {
+      "title": "iTunes Search API — Miles Davis, Relaxin'",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Relaxin&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive — release-group afb1433e-c8b6-3924-8798-c494a3040346",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/afb1433e-c8b6-3924-8798-c494a3040346"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-05-11",
+      "1956-10-26"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, New Jersey",
+    "producer": "Bob Weinstock",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Red Garland",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "If I Were a Bell",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:15",
+        "session_date": "1956-10-26",
+        "composers": [
+          "Frank Loesser"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "You're My Everything",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:18",
+        "session_date": "1956-10-26",
+        "composers": [
+          "Harry Warren"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Could Write a Book",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:09",
+        "session_date": "1956-10-26",
+        "composers": [
+          "Richard Rodgers"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Oleo",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:18",
+        "session_date": "1956-10-26",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "It Could Happen to You",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:37",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Jimmy Van Heusen"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Woody 'n' You",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:02",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Dizzy Gillespie"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "afb1433e-c8b6-3924-8798-c494a3040346",
+    "apple_album_id": "1440950650",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/afb1433e-c8b6-3924-8798-c494a3040346/front",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front cover returned by CAA for the release group; pressing not individually verified"
+      }
+    ],
+    "notes": "Two marathon sessions (May 11 and October 26, 1956) produced four albums: Cookin', Relaxin', Workin', Steamin'. Per-track session dates from Wikipedia track listing (tracks 1-4 from October 26; tracks 5-6 from May 11). Studio confirmed as Van Gelder Studio, Hackensack (Wikipedia); engineer Rudy Van Gelder by the standard Van Gelder inference (Prestige, 1956, Hackensack) — epistemic_production inf for the engineer credit, producer Bob Weinstock obs per Wikipedia. Released March 1958 (Prestige PRLP 7129). Apple ID 1440950650 is the Concord remastered edition with original 1958 release year."
+  },
+  "ballot": {
+    "album": "Miles Davis — Relaxin' with the Miles Davis Quintet (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Released in 1958 and firmly hard-bop, Relaxin' documents the First Great Quintet—Miles Davis, John Coltrane, Red Garland, Paul Chambers, and Philly Joe Jones—on the 1956 Prestige marathon sessions, an ensemble of exceptional session gravity and lasting small-group lineage. The complete dossier personnel record places that lineup on all six tracks, while AllMusic's 5-star assessment and the Penguin Guide's 4-star rating support substantial critical esteem. Its poised standards playing and the Davis-Coltrane exchange on \"If I Were a Bell\" and \"Oleo\" make it an unusually direct, pleasurable discovery document of quintessential 1950s quintet jazz.",
+    "case_against": "Its reputation and importance may be inseparable from the four-album Prestige session corpus rather than from this particular LP as a distinct artistic statement. A strict canon can reasonably prefer one or two representatives from Cookin', Relaxin', Workin', and Steamin': Relaxin' has less singular album identity than the strongest alternatives, and its standard-heavy program can seem like a finely sequenced portion of a larger contractual-session archive rather than a uniquely load-bearing Davis statement. The sourcing establishes high ratings but does not supply independent canon-list evidence from the traditions the rubric treats as strongest, so the consensus-core claim is thinner than the dossier's rhetoric suggests.",
+    "disagreement": "Reference 1 judges the album contested and strong because its incremental value against the other three Prestige releases is limited; Reference 2 judges it consensus_core and must_have, treating this exceptionally accessible document of the First Great Quintet as itself indispensable. Both agree that session redundancy and thin explicit canon-list sourcing are the principal reservations, not scope or musical quality.",
+    "recommendation": "The council proposes that John treat Relaxin' as a strong but genuinely debatable Prestige-quintet selection, especially weighing whether the canon needs another distinct representative from these same 1956 sessions.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

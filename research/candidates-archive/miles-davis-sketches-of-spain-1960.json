@@ -1,0 +1,784 @@
+{
+  "id": "miles-davis-sketches-of-spain-1960",
+  "artist": "Miles Davis",
+  "album": "Sketches of Spain",
+  "year": 1960,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "rationale": "A landmark in the Davis–Evans collaboration and a defining large-ensemble statement that sits between Birth of the Cool and the later orchestral jazz experiments; the album is widely cited as a canonical fusion of jazz, Spanish folk and classical forms. It won the 1961 Grammy for Best Jazz Composition of More Than Five Minutes Duration and appears on major greatest-albums lists.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic — Sketches of Spain Credits",
+      "type": "credits-database",
+      "url": "https://www.allmusic.com/album/sketches-of-spain-mw0000191713/credits"
+    },
+    "S2": {
+      "title": "Wikipedia — Sketches of Spain (Personnel & Track listing)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Sketches_of_Spain"
+    },
+    "S3": {
+      "title": "Peter Losin / Miles Ahead Sessionography — Sketches of Spain sessions",
+      "type": "sessionography",
+      "url": "https://www.plosin.com/milesAhead/Sessions.aspx"
+    },
+    "S4": {
+      "title": "Discogs — Miles Davis: Sketches Of Spain",
+      "type": "discography-database",
+      "url": "https://www.discogs.com/master/48172-Miles-Davis-Sketches-Of-Spain"
+    },
+    "S5": {
+      "title": "Miles Davis Official Site — Sketches Of Spain",
+      "type": "official-artist-site",
+      "url": "https://www.milesdavis.com/albums/sketches-of-spain/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-11-15",
+      "1959-11-20",
+      "1960-03-10"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "producer": "Teo Macero",
+    "engineer": "Fred Plaut",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Davis also plays flugelhorn on the album (notably the opening melody of Concierto de Aranjuez). Wikipedia lists him as arranger, trumpet and flugelhorn; S3 has him as tpt, flh."
+      },
+      {
+        "name": "Gil Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Arranger and conductor; not a performing pianist on the album but he is the primary creative architect. Listed as arranger/conductor in all sources."
+      },
+      {
+        "name": "Johnny Coles",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Pan Piper",
+          "Saeta",
+          "Solea",
+          "Will o' the Wisp"
+        ],
+        "session_dates": [
+          "1960-03-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Present at the March 10, 1960 session but not the November 1959 sessions. Wikipedia lists him in the album personnel; S3 lists him only on the March 10 session."
+      },
+      {
+        "name": "Bernie Glow",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Taft Jordan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Louis Mucci",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ernie Royal",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Barrows",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [
+          "James Barrows"
+        ],
+        "notes": "Wikipedia has John Barrows; S3 has John Barrows."
+      },
+      {
+        "name": "James Buffington",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [
+          "Jimmy Buffington"
+        ],
+        "notes": "Wikipedia lists James Buffington; S3/S4/S5 list Jimmy Buffington. Same person."
+      },
+      {
+        "name": "Earl Chapin",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Singer",
+        "instrument": "French horn",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Pan Piper",
+          "Saeta",
+          "Solea",
+          "Will o' the Wisp"
+        ],
+        "session_dates": [
+          "1960-03-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Present at the March 10, 1960 session; not listed in the November 1959 sessions."
+      },
+      {
+        "name": "Tony Miranda",
+        "instrument": "French horn",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Pan Piper",
+          "Saeta",
+          "Solea",
+          "Will o' the Wisp"
+        ],
+        "session_dates": [
+          "1960-03-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Present at the March 10, 1960 session; not listed in the November 1959 sessions."
+      },
+      {
+        "name": "Dick Hixon",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frank Rehak",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bill Barber",
+        "instrument": "tuba",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Pan Piper",
+          "Saeta",
+          "Solea",
+          "Will o' the Wisp"
+        ],
+        "session_dates": [
+          "1960-03-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Billy Barber"
+        ],
+        "notes": "Wikipedia lists Bill Barber; S3 lists Bill Barber; S4 lists Bill Barber; S1 has Billy Barber. Present at the March 10, 1960 session; not at the November 1959 sessions."
+      },
+      {
+        "name": "Jimmy McAllister",
+        "instrument": "tuba",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Danny Bank",
+        "instrument": "bass clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Al Block",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [
+          "Albert Block"
+        ],
+        "notes": "Wikipedia lists Albert Block; S3/S4/S5 list Al Block; S1 has both Al Block and Albert Block. Same person."
+      },
+      {
+        "name": "Eddie Caine",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "S1 also credits Caine with flugelhorn, but Wikipedia/S3/S4/S5 list only flute. Flugelhorn treated as unconfirmed."
+      },
+      {
+        "name": "Harold Feldman",
+        "instrument": "clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia/S3 list him as oboe, clarinet and flute; S4/S5 as oboe, clarinet, flute. Clarinet is his primary listed instrument."
+      },
+      {
+        "name": "Romeo Penque",
+        "instrument": "clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia lists him as oboe; S3 lists oboe. The contract taxonomy does not include oboe; closest woodwind listed is clarinet."
+      },
+      {
+        "name": "Jack Knitzer",
+        "instrument": "bassoon",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Bassoon is not in the contract taxonomy; preserving the source name but instrument is outside taxonomy."
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia says bass; S3/S4/S5 say bass. Contract taxonomy uses double bass."
+      },
+      {
+        "name": "Jimmy Cobb",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "José Mangual Sr.",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Concierto de Aranjuez"
+        ],
+        "session_dates": [
+          "1959-11-15",
+          "1959-11-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "José Manguel",
+          "Jose Mangual"
+        ],
+        "notes": "Wikipedia specifies castanets (track 1) and lists him as José Mangual Sr.; S3 lists José Mangual (perc); S4/S5 list José Manguel. All refer to the same percussionist. Closest contract taxonomy is percussion."
+      },
+      {
+        "name": "Elden \"Buster\" Bailey",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Pan Piper",
+          "Saeta",
+          "Solea",
+          "Will o' the Wisp"
+        ],
+        "session_dates": [
+          "1960-03-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: percussion (tracks 3–5). S3 lists him on the March 10, 1960 session only."
+      },
+      {
+        "name": "Janet Putnam",
+        "instrument": "harp",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Concierto de Aranjuez (Adagio)",
+        "track_number": 1,
+        "side": "A",
+        "duration": "16:19",
+        "session_date": "1959-11-20",
+        "composers": [
+          "Joaquín Rodrigo"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Taft Jordan",
+          "Louis Mucci",
+          "Dick Hixon",
+          "Frank Rehak",
+          "James Buffington",
+          "John Barrows",
+          "Earl Chapin",
+          "Jimmy McAllister",
+          "Danny Bank",
+          "Al Block",
+          "Eddie Caine",
+          "Harold Feldman",
+          "Romeo Penque",
+          "Jack Knitzer",
+          "Paul Chambers",
+          "Jimmy Cobb",
+          "Elvin Jones",
+          "José Mangual Sr.",
+          "Janet Putnam"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Will o' the Wisp",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:47",
+        "session_date": "1960-03-10",
+        "composers": [
+          "Manuel de Falla"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Johnny Coles",
+          "Bernie Glow",
+          "Louis Mucci",
+          "Ernie Royal",
+          "Dick Hixon",
+          "Frank Rehak",
+          "James Buffington",
+          "Joe Singer",
+          "Tony Miranda",
+          "Bill Barber",
+          "Jimmy McAllister",
+          "Danny Bank",
+          "Al Block",
+          "Harold Feldman",
+          "Romeo Penque",
+          "Jack Knitzer",
+          "Paul Chambers",
+          "Jimmy Cobb",
+          "Elvin Jones",
+          "Elden \"Buster\" Bailey",
+          "Janet Putnam"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "The Pan Piper",
+        "track_number": 3,
+        "side": "B",
+        "duration": "3:52",
+        "session_date": "1960-03-10",
+        "composers": [
+          "Gil Evans",
+          "Traditional"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Johnny Coles",
+          "Bernie Glow",
+          "Louis Mucci",
+          "Ernie Royal",
+          "Dick Hixon",
+          "Frank Rehak",
+          "James Buffington",
+          "Joe Singer",
+          "Tony Miranda",
+          "Bill Barber",
+          "Jimmy McAllister",
+          "Danny Bank",
+          "Al Block",
+          "Harold Feldman",
+          "Romeo Penque",
+          "Jack Knitzer",
+          "Paul Chambers",
+          "Jimmy Cobb",
+          "Elvin Jones",
+          "Elden \"Buster\" Bailey",
+          "Janet Putnam"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Saeta",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:06",
+        "session_date": "1960-03-10",
+        "composers": [
+          "Gil Evans",
+          "Traditional"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Johnny Coles",
+          "Bernie Glow",
+          "Louis Mucci",
+          "Ernie Royal",
+          "Dick Hixon",
+          "Frank Rehak",
+          "James Buffington",
+          "Joe Singer",
+          "Tony Miranda",
+          "Bill Barber",
+          "Jimmy McAllister",
+          "Danny Bank",
+          "Al Block",
+          "Harold Feldman",
+          "Romeo Penque",
+          "Jack Knitzer",
+          "Paul Chambers",
+          "Jimmy Cobb",
+          "Elvin Jones",
+          "Elden \"Buster\" Bailey",
+          "Janet Putnam"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Solea",
+        "track_number": 5,
+        "side": "B",
+        "duration": "12:15",
+        "session_date": "1960-03-10",
+        "composers": [
+          "Gil Evans"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Johnny Coles",
+          "Bernie Glow",
+          "Louis Mucci",
+          "Ernie Royal",
+          "Dick Hixon",
+          "Frank Rehak",
+          "James Buffington",
+          "Joe Singer",
+          "Tony Miranda",
+          "Bill Barber",
+          "Jimmy McAllister",
+          "Danny Bank",
+          "Al Block",
+          "Harold Feldman",
+          "Romeo Penque",
+          "Jack Knitzer",
+          "Paul Chambers",
+          "Jimmy Cobb",
+          "Elvin Jones",
+          "Elden \"Buster\" Bailey",
+          "Janet Putnam"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "966fede2-31b2-3b6a-ab50-4a650d3bb97d",
+    "apple_album_id": "832060615",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "Cover Art Archive (MusicBrainz release aa50db83-2fa2-4347-ad68-3b495cac8ea8)",
+        "url": "http://coverartarchive.org/release/aa50db83-2fa2-4347-ad68-3b495cac8ea8/33304241141.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Columbia LP cover art per Cover Art Archive."
+      }
+    ],
+    "notes": "Recording dates: November 15, 1959; November 20, 1959; March 10, 1960 (Wikipedia and Plosin sessionography agree; MilesDavis.com gives the broader period Nov 1959 – Mar 1960). The November 15 session was devoted to an alternate take of Concierto de Aranjuez part 1; the November 20 session recorded the master/edited version of Concierto de Aranjuez (with José Mangual on percussion); the March 10 session recorded the remaining four tracks (with Elden 'Buster' Bailey on percussion and a slightly different brass section: Johnny Coles replaces Taft Jordan on trumpet, Bill Barber replaces Jimmy McAllister on tuba, and Joe Singer/Tony Miranda replace John Barrows/Earl Chapin on French horn). Jimmy McAllister appears on the November sessions (tuba), Bill Barber on the March session. John Barrows and Earl Chapin appear only on the November sessions; Joe Singer and Tony Miranda only on the March session. Taft Jordan only on the November sessions; Johnny Coles only on the March session. José Mangual Sr. only on the November sessions; Elden 'Buster' Bailey only on the March session. The AllMusic credits page is incomplete (it lists many personnel but does not include session dates or track-level assignments). Minor name variants resolved: Al Block/Albert Block; James/Jimmy Buffington; Bill/Billy Barber; José Manguel/Jose Mangual/José Mangual Sr. Track durations from Wikipedia and AllMusic are essentially the same. Cover art URL from Cover Art Archive for the MusicBrainz release associated with this release group."
+  },
+  "ballot": {
+    "album": "Miles Davis — Sketches of Spain (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Sketches of Spain is the definitive culmination of the Miles Davis–Gil Evans orchestral partnership: a singular large-ensemble statement that made Spanish folk and classical materials integral to an unmistakably jazz conception. Its session joins Davis with Paul Chambers, Jimmy Cobb, Elvin Jones, and an exceptional New York brass-and-woodwind orchestra; the resulting arrangements give the record unusual textural and historical gravity (S2–S5). The 1961 Grammy and its enduring reputation as a major Davis and orchestral-jazz album reinforce its discovery value: it remains an immediately powerful demonstration of jazz's emotional range and formal ambition.",
+    "case_against": "The dossier asserts major-list consensus but supplies no direct Penguin, DownBeat, JazzTimes, NPR, or comparable list citations, so that signal is less well documented here than the album's reputation warrants. More importantly, the record is predominantly arranged and draws heavily on Rodrigo and other classical/Spanish source material; listeners seeking jazz's improvisatory, small-group post-bop core may reasonably hear it as a classical-jazz hybrid at the tradition's edge. A Miles-heavy canon also needs to justify another Davis entry, although this album's orchestral identity makes it less redundant than another quintet record.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat it as a must-have consensus-core record, while documenting its orchestral/Third Stream character rather than presenting it as a typical post-bop blowing session.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "id": "max-roach-we-insist-1960",
+  "artist": "Max Roach",
+  "album": "We Insist! Max Roach's Freedom Now Suite",
+  "year": 1960,
+  "label": "Candid",
+  "style_primary": "hard-bop",
+  "rationale": "The defining political statement of the hard-bop era: a five-part suite on slavery, emancipation, and African independence, recorded weeks after the Sharpeville massacre and at the height of the sit-in movement. Penguin Guide crown + Core Collection, five stars from AllMusic, and 2022 induction into the National Recording Registry. Session gravity is enormous — Coleman Hawkins guesting on 'Driva' Man', Booker Little, Julian Priester, Abbey Lincoln's career-defining vocals — and it sits directly in the lineage of the canonized Mingus works (Black Saint, Ah Um).",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "We Insist! — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/We_Insist!"
+    },
+    "S2": {
+      "title": "We Insist! Max Roach's Freedom Now Suite — AllMusic (overview + credits tab)",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/we-insist%21-max-roachs-freedom-now-suite-mw0000194826/credits"
+    },
+    "S3": {
+      "title": "iTunes Search API — We Insist! (Candid remasters)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Max+Roach+We+Insist&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group + Cover Art Archive",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/74a22423-bc30-3f20-8339-bcee59483819"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-08-31",
+      "1960-09-06"
+    ],
+    "multi_session": true,
+    "studio": "Nola Penthouse Sound Studios, New York City",
+    "producer": "Nat Hentoff",
+    "engineer": "Bob d'Orleans",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of the suite; lyrics co-written with Oscar Brown Jr."
+      },
+      {
+        "name": "Abbey Lincoln",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only Roach and Lincoln perform on all five tracks (Wikipedia). Wordless vocals; screaming passage on 'Triptych: Protest'."
+      },
+      {
+        "name": "Booker Little",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Driva Man",
+          "Freedom Day",
+          "All Africa",
+          "Tears for Johannesburg"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Julian Priester",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Driva Man",
+          "Freedom Day",
+          "Tears for Johannesburg"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Walter Benton",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Driva Man",
+          "Freedom Day",
+          "Tears for Johannesburg"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Coleman Hawkins",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Driva Man"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Guest appearance on 'Driva Man' only."
+      },
+      {
+        "name": "James Schenk",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Driva Man",
+          "Freedom Day",
+          "Tears for Johannesburg"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Jimmy Schenck"
+        ],
+        "notes": "AllMusic lists both 'James Schenk' and 'Jimmy Schenck' as bass credits — same person under variant spellings (unk which spelling is canonical)."
+      },
+      {
+        "name": "Babatunde Olatunji",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Africa",
+          "Tears for Johannesburg"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Michael Olatunji"
+        ],
+        "notes": "Wikipedia credits 'Michael Olatunji' (Babatunde Olatunji) — congas, vocals on side two. Also plays drums per AllMusic credits."
+      },
+      {
+        "name": "Ray Mantilla",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Africa",
+          "Tears for Johannesburg"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Raymond Mantilla",
+          "Raymond Matillo"
+        ],
+        "notes": "AllMusic lists 'Ray Mantilla' and 'Raymond Matillo' as separate percussion credits — same person; Wikipedia's 'Mantillo' is a further variant."
+      },
+      {
+        "name": "Tomas du Vall",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Africa",
+          "Tears for Johannesburg"
+        ],
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Thomas Duvail",
+          "DuVal"
+        ],
+        "notes": "Name varies across sources (Wikipedia: 'Tomas du Vall'; AllMusic: 'Thomas Duvail'). Presence on side two consistent across sources; exact track coverage inferred from 'side two' wording."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Driva Man",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:17",
+        "session_date": null,
+        "composers": [
+          "Max Roach",
+          "Oscar Brown"
+        ],
+        "personnel": [
+          "Max Roach",
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "James Schenk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Freedom Day",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:08",
+        "session_date": null,
+        "composers": [
+          "Max Roach",
+          "Oscar Brown"
+        ],
+        "personnel": [
+          "Max Roach",
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Walter Benton",
+          "James Schenk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Triptych: Prayer/Protest/Peace",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:09",
+        "session_date": null,
+        "composers": [
+          "Max Roach"
+        ],
+        "personnel": [
+          "Max Roach",
+          "Abbey Lincoln"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ],
+        "notes": "Duet between Lincoln and Roach (Wikipedia, citing Monson)."
+      },
+      {
+        "title": "All Africa",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:01",
+        "session_date": null,
+        "composers": [
+          "Max Roach",
+          "Oscar Brown"
+        ],
+        "personnel": [
+          "Max Roach",
+          "Abbey Lincoln",
+          "Booker Little",
+          "Babatunde Olatunji",
+          "Ray Mantilla",
+          "Tomas du Vall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ],
+        "notes": "Percussionists credited to 'side two' by Wikipedia; track-level split between All Africa and Tears for Johannesburg inferred from that wording plus per-track descriptions."
+      },
+      {
+        "title": "Tears for Johannesburg",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:42",
+        "session_date": null,
+        "composers": [
+          "Max Roach"
+        ],
+        "personnel": [
+          "Max Roach",
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Walter Benton",
+          "James Schenk",
+          "Babatunde Olatunji",
+          "Ray Mantilla",
+          "Tomas du Vall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ],
+        "notes": "Percussion coverage on this track inferred from 'side two' credits; Olatunji presence confirmed in text."
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "74a22423-bc30-3f20-8339-bcee59483819",
+    "apple_album_id": "1881455385",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/74a22423-bc30-3f20-8339-bcee59483819/front",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Iconic sit-in cover photograph; CAA front from release 3f83df01 within the release group."
+      }
+    ],
+    "notes": "Two sessions, August 31 and September 6, 1960; released January 1961 on Candid. Which tracks belong to which session date is not stated in sources consulted. Style note: AllMusic tags it Hard Bop; Wikipedia calls it avant-garde jazz with free-jazz moments (end of 'Tears for Johannesburg', the 'Protest' screams) — a fuzzy-edge case the council should weigh, but it swings and is compositionally through-written. Name variants flagged: Schenk/Schenck, Mantilla/Matillo, du Vall/Duvail. iTunes match is the 2024 Candid MONO remaster (5 tracks, 1960 copyright)."
+  },
+  "ballot": {
+    "album": "Max Roach — We Insist! Max Roach's Freedom Now Suite (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1960 recording is within the window; the live issue is whether the wordless vocal abstraction in \"Triptych: Protest\" and the freer climax of \"Tears for Johannesburg\" constitute excluded free-jazz, or remain borderline elements within a structured hard-bop/protest suite."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "This has an unusually complete canon case: the dossier cites a Penguin Guide Crown and Core Collection designation, AllMusic's five-star rating, and 2022 National Recording Registry induction, evidence of recognition across critical and institutional traditions. It is Max Roach's defining political statement and a foundational Civil Rights-era jazz suite, with Abbey Lincoln's performance—especially the Roach-Lincoln duet \"Triptych\"—making its argument inseparable from its musical force. Its personnel joins Roach, Lincoln, Booker Little, Julian Priester, Babatunde Olatunji, and Coleman Hawkins on \"Driva Man,\" giving the record both extraordinary session gravity and a cross-generational account of jazz history (dossier S1–S2).",
+    "case_against": "A strict application of the excluded free-jazz gate can reasonably object that \"Triptych: Protest\" and portions of \"Tears for Johannesburg\" suspend conventional harmonic, melodic, and swinging frameworks for screams, percussion, and collective intensity; these are not merely adventurous hard-bop solos. Even if the suite is largely composed and organized, a cold listener may experience those passages as abrasive and unrepresentative of the canon's intended post-bebop discovery path. The dossier also leaves side-two percussion assignments inferred and does not map individual tracks to the two recording dates, though those documentation gaps are secondary to the stylistic question.",
+    "disagreement": "Reference 1 treats the free-form passages as a genuine free-jazz boundary requiring a scope_call; Reference 2 judges the suite's through-composed hard-bop architecture sufficient to pass scope and rates it consensus_core. Both agree that, if admissible, it is must-have in importance.",
+    "recommendation": "The council proposes that John make the free-jazz boundary ruling explicitly; if embedded avant-garde passages remain admissible, this should be treated as a must-have core record.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

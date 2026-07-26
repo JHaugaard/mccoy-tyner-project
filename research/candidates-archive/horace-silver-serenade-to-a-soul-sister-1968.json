@@ -1,0 +1,394 @@
+{
+  "id": "horace-silver-serenade-to-a-soul-sister-1968",
+  "artist": "Horace Silver",
+  "album": "Serenade to a Soul Sister",
+  "year": 1968,
+  "label": "Blue Note",
+  "style_primary": "soul-jazz",
+  "style_tags": [
+    "soul-jazz",
+    "hard-bop",
+    "modal-jazz"
+  ],
+  "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+  ],
+  "epistemic": "obs",
+  "rationale": "obs[S1]: studio album by Horace Silver released on Blue Note BST 84277 in early June 1968, recorded Feb 23 and Mar 29, 1968 at Van Gelder Studio, Englewood Cliffs, produced by Francis Wolff. obs[S2]: AllMusic rates it 4½ stars and calls it 'one of the last great Horace Silver albums for Blue Note' and 'one of the pianist's most infectiously cheerful, good-humored outings'. obs[S3]: uDiscover Music feature calls the album 'widely considered his final masterpiece' and a 'soul jazz manifesto'. inf: as a late-1960s Horace Blue Note date bridging hard-bop/soul-jazz with modal touches, and featuring a generational cross-section of players (Charles Tolliver, Stanley Turrentine, Bennie Maupin, Billy Cobham), it fills the canon gap for Silver after Song for My Father and extends the Blue Note soul-jazz thread toward the end of the window.",
+  "priority": "strong",
+  "personnel_record": {
+    "recording_dates": [
+      "1968-02-23",
+      "1968-03-29"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Francis Wolff",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1968-02-23",
+          "1968-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Leader, composer of all six tracks."
+      },
+      {
+        "name": "Charles Tolliver",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Psychedelic Sally",
+          "Serenade to a Soul Sister",
+          "Rain Dance",
+          "Jungle Juice",
+          "Kindred Spirits"
+        ],
+        "session_dates": [
+          "1968-02-23",
+          "1968-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Tracks 1-5 per S1; excluded from track 6 by S1."
+      },
+      {
+        "name": "Stanley Turrentine",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Psychedelic Sally",
+          "Serenade to a Soul Sister",
+          "Rain Dance"
+        ],
+        "session_dates": [
+          "1968-02-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Feb 23 session only."
+      },
+      {
+        "name": "Bennie Maupin",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jungle Juice",
+          "Kindred Spirits"
+        ],
+        "session_dates": [
+          "1968-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Mar 29 session only; excluded from track 6 by S1."
+      },
+      {
+        "name": "Bob Cranshaw",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Psychedelic Sally",
+          "Serenade to a Soul Sister",
+          "Rain Dance"
+        ],
+        "session_dates": [
+          "1968-02-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "S1 also lists electric bass on track 1; instrument taxonomy lacks combined entry, so primary double bass is recorded and doubling noted."
+      },
+      {
+        "name": "John Williams",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jungle Juice",
+          "Kindred Spirits",
+          "Next Time I Fall in Love"
+        ],
+        "session_dates": [
+          "1968-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Mar 29 session only."
+      },
+      {
+        "name": "Mickey Roker",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Psychedelic Sally",
+          "Serenade to a Soul Sister",
+          "Rain Dance"
+        ],
+        "session_dates": [
+          "1968-02-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Feb 23 session only."
+      },
+      {
+        "name": "Billy Cobham",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jungle Juice",
+          "Kindred Spirits",
+          "Next Time I Fall in Love"
+        ],
+        "session_dates": [
+          "1968-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Mar 29 session only; cover photographer per S1 production notes."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Psychedelic Sally",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:14",
+        "session_date": "1968-02-23",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Charles Tolliver",
+          "Stanley Turrentine",
+          "Bob Cranshaw",
+          "Mickey Roker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Serenade to a Soul Sister",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:19",
+        "session_date": "1968-02-23",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Charles Tolliver",
+          "Stanley Turrentine",
+          "Bob Cranshaw",
+          "Mickey Roker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Rain Dance",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:21",
+        "session_date": "1968-02-23",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Charles Tolliver",
+          "Stanley Turrentine",
+          "Bob Cranshaw",
+          "Mickey Roker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Jungle Juice",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:46",
+        "session_date": "1968-03-29",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Charles Tolliver",
+          "Bennie Maupin",
+          "John Williams",
+          "Billy Cobham"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Kindred Spirits",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:55",
+        "session_date": "1968-03-29",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Charles Tolliver",
+          "Bennie Maupin",
+          "John Williams",
+          "Billy Cobham"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Next Time I Fall in Love",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:19",
+        "session_date": "1968-03-29",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "John Williams",
+          "Billy Cobham"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b3d7aa9a-49e8-37d1-92e2-c3ac8e5c400e",
+    "apple_album_id": "724490548",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/b3d7aa9a-49e8-37d1-92e2-c3ac8e5c400e/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Two sessions: Feb 23 (tracks 1-3) and Mar 29 (tracks 4-6). S1 is the principal personnel/session source; AllMusic and uDiscover provided reception/context. Bob Cranshaw is listed with both double bass and electric bass on track 1; the contract taxonomy does not have a combined entry, so primary instrument is double bass with doubling noted."
+  },
+  "source_map": {
+    "S1": {
+      "title": "Wikipedia — Serenade to a Soul Sister",
+      "type": "Encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Serenade_to_a_Soul_Sister",
+      "notes": "Personnel per session, track listing, recording dates, studio, producer, cover photographer"
+    },
+    "S2": {
+      "title": "AllMusic — Serenade to a Soul Sister",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/serenade-to-a-soul-sister-mw0000203356",
+      "notes": "Rating and review; genre/styles listing"
+    },
+    "S3": {
+      "title": "uDiscover Music — 'Serenade To A Soul Sister': Horace Silver's Soul Jazz Gem",
+      "type": "web",
+      "url": "https://www.udiscovermusic.com/stories/horace-silver-serenade-to-a-soul-sister-feature/",
+      "notes": "Contextual feature calling the album 'widely considered his final masterpiece'"
+    },
+    "S4": {
+      "title": "MusicBrainz release group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/b3d7aa9a-49e8-37d1-92e2-c3ac8e5c400e",
+      "notes": "MBID and release relationships"
+    },
+    "S5": {
+      "title": "iTunes Search API (Apple Music)",
+      "type": "API",
+      "url": "https://itunes.apple.com/search?term=Horace+Silver+Serenade+to+a+Soul+Sister&entity=album&limit=10",
+      "notes": "collectionId 724490548"
+    }
+  },
+  "ballot": {
+    "album": "Horace Silver — Serenade to a Soul Sister (1968)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "This is an exceptionally inviting late Blue Note session whose split personnel captures 1968 as a meeting point between established soul-jazz/hard-bop forces—Stanley Turrentine and Mickey Roker—and emerging figures Charles Tolliver, Bennie Maupin, and Billy Cobham. AllMusic gives it 4½ stars and calls it one of Silver's last great Blue Note albums and among his most infectiously cheerful outings (S2); its groove, memorable Silver writing, and warmth make a strong cold-listener introduction to soul-jazz. The two-session lineup also gives the album real personnel-network value, even if its later influence is indirect rather than record-defining.",
+    "case_against": "The dossier does not establish the independent, repeated consensus that the rubric treats as its strongest signal: there is no cited Penguin, DownBeat, JazzTimes, NPR, musician-testimony, or comparable canon-list support. uDiscover's claim that it is Silver's final masterpiece (S3) is label-adjacent catalog journalism, while an AllMusic rating alone cannot sustain a canon claim. Silver's earlier landmarks already define his hard-bop contribution more decisively, and this excellent but evolutionary late-period date risks redundancy unless the canon specifically needs a deeper soul-jazz extension beyond Song for My Father.",
+    "disagreement": "Both references find it fully in scope and agree that its consensus evidence is weak; DeepSeek concludes that this deficiency and Silver redundancy warrant exclude_suggested, while Gemini judges its transitional personnel, late-Blue-Note character, and discovery value sufficient to retain a contested consideration.",
+    "recommendation": "The council proposes that John retain this as a consider-level contested candidate only if he wants a late-1960s Silver/soul-jazz chapter, rather than treating it as a required Silver entry.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

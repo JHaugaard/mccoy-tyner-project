@@ -1,0 +1,290 @@
+{
+  "id": "art-blakey-the-jazz-messengers-free-for-all-1964",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "Free for All",
+  "year": 1964,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "hard-bop"
+  ],
+  "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+  ],
+  "epistemic": "obs",
+  "rationale": "obs[S1]: studio album recorded Feb 10, 1964 at Van Gelder Studio, Englewood Cliffs, released July 1965 on Blue Note BLP 4170/BST 84170. obs[S2]: Blue Note Records spotlight calls Free for All 'arguably his most dynamic album' and a 'transcendent four-track album' from the 1961-64 Messengers lineup. obs[S3]: Wikipedia notes DownBeat, AllMusic and Penguin Guide to Jazz Recordings ratings. inf: the session unites Wayne Shorter, Freddie Hubbard, Curtis Fuller, Cedar Walton and Reggie Workman at peak Messengers intensity, making it a canonical hard-bop summit alongside Moanin' and a key document of the Blakey/Shorter/Hubbard era.",
+  "priority": "strong",
+  "personnel_record": {
+    "recording_dates": [
+      "1964-02-10"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Cedar Walton",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Free for All",
+        "track_number": 1,
+        "side": "A",
+        "duration": "11:10",
+        "session_date": "1964-02-10",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Hammer Head",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:55",
+        "session_date": "1964-02-10",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Core",
+        "track_number": 3,
+        "side": "B",
+        "duration": "9:35",
+        "session_date": "1964-02-10",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Pensativa",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:15",
+        "session_date": "1964-02-10",
+        "composers": [
+          "Clare Fischer"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "605de14e-dcca-3328-b16d-64cc62cecfe0",
+    "apple_album_id": "721251231",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/605de14e-dcca-3328-b16d-64cc62cecfe0/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single-session album. Alfred Lion producer and Rudy Van Gelder engineer are listed on Wikipedia (S1) production section. Some sources note alternate takes on reissues; only the four original tracks are documented here. Durations are rounded from common pressings; exact pressing durations may vary slightly."
+  },
+  "source_map": {
+    "S1": {
+      "title": "Wikipedia — Free for All (album)",
+      "type": "Encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Free_for_All_(album)",
+      "notes": "Personnel, track listing, recording date, studio, producer, label, release date, reception citations"
+    },
+    "S2": {
+      "title": "Blue Note Records — ART BLAKEY & THE JAZZ MESSENGERS 'FREE FOR ALL'",
+      "type": "web",
+      "url": "https://www.bluenote.com/spotlight/art-blakey-the-jazz-messengers-free-for-all/",
+      "notes": "Label spotlight calling it arguably Blakey's most dynamic album"
+    },
+    "S3": {
+      "title": "All About Jazz — Art Blakey & the Jazz Messengers: Free for All",
+      "type": "web",
+      "url": "https://www.allaboutjazz.com/news/art-blakey-and-the-jazz-messengers-free-for-all/",
+      "notes": "Personnel list and session description"
+    },
+    "S4": {
+      "title": "MusicBrainz release group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/605de14e-dcca-3328-b16d-64cc62cecfe0",
+      "notes": "MBID and release relationships"
+    },
+    "S5": {
+      "title": "iTunes Search API (Apple Music)",
+      "type": "API",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+Free+For+All&entity=album&limit=10",
+      "notes": "collectionId 721251231"
+    }
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers — Free for All (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Recorded in 1964, this is unequivocally in-scope hard bop: a single-session Van Gelder date led by Blakey with Wayne Shorter, Freddie Hubbard, Curtis Fuller, Cedar Walton, and Reggie Workman (S1). Its claim is not merely the famous title performance but a definitive document of the 1961–64 Messengers sextet at maximum force, joining exceptional personnel gravity to Shorter and Hubbard compositions and an immediately legible, thrilling discovery experience. The dossier records recognition through Penguin Guide, DownBeat, and AllMusic ratings, while Blue Note calls it Blakey's \"arguably ... most dynamic album\" and a \"transcendent four-track album\" (S2); taken together, these support its standing as a hard-bop summit.",
+    "case_against": "The principal reservation is representational rather than musical: Moanin' is the broader public-facing defining statement of the Jazz Messengers and the record most directly associated with fixing their hard-bop identity. Free for All can therefore be heard as the extraordinary culmination of an established approach, rather than a necessary second Blakey entry if the canon is tightly limited and already covers Blakey, Shorter, and Hubbard elsewhere. Its consensus documentation is also thinner than ideal: the dossier relays ratings through Wikipedia and relies on a label spotlight, without direct Penguin, DownBeat, or independent-review text.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Free for All as a consensus-core, strong-priority addition for representing the peak intensity and personnel of the early-1960s Jazz Messengers.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

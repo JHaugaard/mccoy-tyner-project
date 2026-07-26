@@ -1,0 +1,278 @@
+{
+  "id": "john-coltrane-ole-coltrane-1961",
+  "artist": "John Coltrane",
+  "album": "Olé Coltrane",
+  "year": 1961,
+  "label": "Atlantic",
+  "style_primary": "modal-jazz",
+  "rationale": "Coltrane's final Atlantic date under his own supervision, recorded two days after the Africa/Brass session and pairing his working quintet with Freddie Hubbard and Eric Dolphy (the latter credited as 'George Lane'). The 18-minute title track is an unprecedented side-long modal vamp built on the Spanish folk song 'El Vito' — the dark twin of 'My Favorite Things' and a hinge between the Atlantic modality and the Impulse! era. Four-star reviews from AllMusic and the Rolling Stone Jazz Record Guide; rated as a transition record that several critics call essential.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Olé Coltrane — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Ol%C3%A9_Coltrane"
+    },
+    "S2": {
+      "title": "Olé Coltrane — AllMusic album page (overview, recording data, review)",
+      "type": "reference/credits",
+      "url": "https://www.allmusic.com/album/ol%C3%A9-coltrane-mw0000199455"
+    },
+    "S3": {
+      "title": "iTunes Search API — Olé Coltrane (Atlantic, collectionId 962192458)",
+      "type": "identifier/api",
+      "url": "https://itunes.apple.com/search?term=John+Coltrane+Ole+Coltrane&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group 9ba035a7-3f7c-3d96-9e07-0e0d45af41af / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://musicbrainz.org/release-group/9ba035a7-3f7c-3d96-9e07-0e0d45af41af"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-05-25"
+    ],
+    "multi_session": false,
+    "studio": "A & R Recording, New York City",
+    "producer": "Nesuhi Ertegun",
+    "engineer": "Phil Ramone",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "John Coltrane",
+        "instrument": "soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-05-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Soprano on \"Olé\" and \"To Her Ladyship\" (first part); tenor on \"Dahomey Dance\", \"Aisha\", and second part of \"To Her Ladyship\" per Wikipedia (S1), citing The John Coltrane Reference."
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-05-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-05-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "George Lane"
+        ],
+        "notes": "Credited on original pressings as 'George Lane' owing to his Prestige contract (S1). Flute on \"Olé\" and \"To Her Ladyship\"; alto saxophone on \"Dahomey Dance\" and \"Aisha\". Doubling recorded per contract; primary field set to flute."
+      },
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-05-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Olé",
+          "Dahomey Dance",
+          "Aisha"
+        ],
+        "session_dates": [
+          "1961-05-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "One of two bassists; not on \"To Her Ladyship\" per S1."
+      },
+      {
+        "name": "Art Davis",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Olé",
+          "Dahomey Dance",
+          "To Her Ladyship"
+        ],
+        "session_dates": [
+          "1961-05-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Second bassist; not on \"Aisha\" per S1. Workman/Davis play together on \"Olé\" and \"Dahomey Dance\"."
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-05-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Olé",
+        "track_number": 1,
+        "side": "A",
+        "duration": "18:17",
+        "session_date": "1961-05-25",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "Freddie Hubbard",
+          "Eric Dolphy",
+          "McCoy Tyner",
+          "Reggie Workman",
+          "Art Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Dahomey Dance",
+        "track_number": 2,
+        "side": "B",
+        "duration": "10:53",
+        "session_date": "1961-05-25",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "Freddie Hubbard",
+          "Eric Dolphy",
+          "McCoy Tyner",
+          "Reggie Workman",
+          "Art Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Aisha",
+        "track_number": 3,
+        "side": "B",
+        "duration": "7:40",
+        "session_date": "1961-05-25",
+        "composers": [
+          "McCoy Tyner"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "Freddie Hubbard",
+          "Eric Dolphy",
+          "McCoy Tyner",
+          "Reggie Workman",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "9ba035a7-3f7c-3d96-9e07-0e0d45af41af",
+    "apple_album_id": "962192458",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/f0bd1b2e-bb84-36fc-a251-30d5f1c66b00/18781526649.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Canonical release-group front via Cover Art Archive; pressing of the underlying release not verified against the 1961 Atlantic original."
+      }
+    ],
+    "notes": "Single session, 1961-05-25, A&R Studios NYC; producer Nesuhi Ertegun; engineer Phil Ramone (recalled the session in his 2007 memoir, per S1). AllMusic (S2) independently confirms recording date and studio, and names Dolphy's pseudonymous crediting. iTunes canonical release (collectionId 962192458) is the 3-track original program; 'To Her Ladyship' (Billy Frazier) is a reissue bonus track, flagged and excluded from the tracks array per contract. Wikipedia track listing gives original-LP lengths."
+  },
+  "ballot": {
+    "album": "John Coltrane — Olé Coltrane (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Olé Coltrane is an unusually consequential modal-session document: its 18-minute title performance extends the soprano-led, Spanish-inflected vamp approach of \"My Favorite Things\" into a more spacious, drone-rich architecture, making the record a persuasive hinge between Coltrane's Atlantic work and his early Impulse! expansions. Its session gravity is exceptional: Coltrane, McCoy Tyner, Elvin Jones, Freddie Hubbard, Eric Dolphy, Reggie Workman, and Art Davis, with the two-bass configuration giving \"Olé\" and \"Dahomey Dance\" an uncommon density (S1, S2). The dossier's AllMusic and Rolling Stone Jazz Record Guide four-star assessments support substantial critical esteem, while the title track remains a vivid discovery route into how modal jazz could become hypnotic, extended, and structurally open.",
+    "case_against": "Its strongest liability is relative consensus and definitiveness: Olé is widely understood as a transition or bridge record rather than the singular defining statement of Coltrane's Atlantic, classic-quartet, or spiritual-Impulse! phases. The dossier does not document appearance in major cross-tradition canon lists such as Penguin, DownBeat, NPR, or JazzTimes, nor musician testimony establishing it as a principal touchstone; its evidence of esteem is chiefly AllMusic, a Rolling Stone guide rating, and reference/identifier sources. The Spanish-modal approach is also an intensification of ground already opened by \"My Favorite Things\" and related period work, so its historical value need not make it a load-bearing canon pillar.",
+    "disagreement": "The references agree that the album is cleanly in scope and has formidable session gravity, modal ambition, and discovery value, but split on tier: one treats its transitional identity and thinly documented cross-source consensus as grounds for contested status, while the other considers the personnel, two-bass architecture, and title track sufficient for consensus_core.",
+    "recommendation": "The council proposes that John treat Olé Coltrane as a strong, contested candidate: include it if the canon values a crucial modal-to-Impulse! bridge alongside more universally established Coltrane landmarks.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}
