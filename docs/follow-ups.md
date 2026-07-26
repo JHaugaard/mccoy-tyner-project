@@ -30,13 +30,45 @@ rather than debug:
 `sudo rm -rf /tmp/pg-venv && sudo -u postgres python3 -m venv /tmp/pg-venv &&
 sudo -u postgres /tmp/pg-venv/bin/pip install psycopg2-binary`
 
-## 2. Apple preview backfill (3 albums)
-No `apple_album_id` on: `thelonious-monk-brilliant-corners-1956`,
-`kenny-dorham-whistle-stop-1961`, `mccoy-tyner-inception-1962` (plus two
-pre-launch albums: `lee-konitz-subconscious-lee-1950`,
-`modern-jazz-quartet-django-1955`). These ship without preview buttons.
-Fix: iTunes lookup → update `apple_album_id` via edit contract → re-run
-`enrich-previews.mjs` on next ship.
+## 2. Apple preview backfill — 3 of 5 done, 2 need a hand search
+**Partly resolved 2026-07-26 (Claude Code).** Was 5 albums with no
+`apple_album_id`; now 2. Written via the edit contract as `_jazzcanon_app`,
+one `edit_log` row each, `epistemic` untouched (a catalog pointer is not a
+claim about the music — matches what `mbid-apple-lookup.py` does):
+
+| Album | Apple ID | Verified as |
+|---|---|---|
+| `kenny-dorham-whistle-stop-1961` | 1443927557 | 7 tracks, Remastered 2014 |
+| `mccoy-tyner-inception-1962` | 1890340978 | McCoy Tyner Trio, rel. 1962-03-20, 6 tracks |
+| `thelonious-monk-brilliant-corners-1956` | 1440942347 | rel. 1957, 6 tracks (LP is 5 + alt take) |
+
+Live-album coverage is now 116/119. Previews do not appear on the site until
+an export + `apple_previews.py` + a ship; `exports/` is stale against the DB
+until then, which is the normal between-ships state.
+
+**Still open, and neither is a script's job:**
+
+- `modern-jazz-quartet-django-1955` — **`mbid-apple-lookup.py` proposes
+  1191353582, which is WRONG.** That ID is *"Django - Single"*: one track,
+  $0.99, released 2016 — not the 1955 Prestige LP. The script takes the top
+  iTunes search hit and there is no album-vs-single guard, so an unattended
+  re-run will write this bad ID again. Needs a hand search for a legitimate
+  album or reissue, or leave NULL.
+- `lee-konitz-subconscious-lee-1950` — no iTunes match at all. Plausible for
+  a 1950 Prestige date; may genuinely not exist on Apple Music as an album.
+
+**General caution on `mbid-apple-lookup.py`:** its matches are top-search-hit
+guesses and need eyes before they land. Verify a proposed ID with
+`https://itunes.apple.com/lookup?id=<id>&entity=song` and check artist,
+title, release date and track count against the album before writing.
+
+## 2b. Shorty Rogers has no MusicBrainz MBID
+`shorty-rogers-and-his-giants-1953` — `musicbrainz_release_group_mbid` is
+NULL and MusicBrainz returns no match for it. Surfaced 2026-07-26 by a dry
+run of `mbid-apple-lookup.py`; it is the only album in the DB missing an
+MBID. This is the first real drip-staged candidate, so it may simply be a
+harder release to match than the original bulk-ingested 100. Not blocking
+anything — MBID feeds enrichment, not the site.
 
 ## 3. Drip staging: source_map/sources key mismatch
 `stage-candidate.py` expects `source_map`; drip dossiers carry token-keyed
