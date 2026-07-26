@@ -164,11 +164,15 @@ anomalies; all 14 kimi-only albums resolved to real sourced citations from the
 
 ## 6. Read contract — mostly already built ✅
 
-`jcdb` already exposes **13 `v_*` views** that form a clean read surface:
+`jcdb` already exposes **11 `v_*` views** that form a clean read surface:
 `v_album_card`, `v_album_detail`, `v_album_personnel`, `v_track_personnel`,
 `v_musician_albums`, `v_musician_timeline`, `v_sideman_network`,
 `v_composer_works`, `v_engineer_sessions`, `v_collection_albums`,
-`v_album_primary_art`, `v_album_search_source`, `v_person_search_source`.
+`v_album_primary_art`.
+
+(Was 13. `v_album_search_source` and `v_person_search_source` were dropped by
+migrate-4b, 2026-07-26 — dead Phase-3 designs that `embed.py` never read.
+Search documents are composed in `scripts/embed.py`, not in a view.)
 
 The Explorer reads these + semantic search over `album.embedding` (768-dim, HNSW
 index already present). **No new read modeling required** to stand up Mode A.

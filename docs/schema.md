@@ -390,7 +390,7 @@ Defined in `schema.sql`:
 | Composition by X | `v_composer_works` |
 | Album cover for UI | `v_album_primary_art` |
 | Browse a collection | `v_collection_albums` |
-| Search document source | `v_album_search_source`, `v_person_search_source` (feed embedding build) |
+| Search document source | `scripts/embed.py` — it composes `album.search_document` / `person.search_document` in Python and writes them directly. There is no view for this. (`v_album_search_source` / `v_person_search_source` were dropped by migrate-4b, 2026-07-26: they were Phase-3 designs embed.py never read and had drifted from what it actually builds.) |
 | "Why is this in the canon / how sure are we?" | epistemic + `citation` exposed in detail views |
 
 Write contracts (ingest functions, embedding refresh) are Phase 4 — the data arrives via ingest of

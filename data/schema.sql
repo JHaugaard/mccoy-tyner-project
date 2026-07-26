@@ -424,6 +424,14 @@ RETURNS int LANGUAGE sql STABLE AS $$
 $$;
 
 -- Embedding source views (feed the Phase 4 build that composes search_document text)
+--
+-- RETIRED 2026-07-26 by scripts/migrate-4b-drop-search-source-views.sql.
+-- Both views below were dropped from the live database. Phase 4 did not build
+-- on them: scripts/embed.py composes search_document in Python and never read
+-- these, so they drifted (embed.py uses `description` and, since migrate-4a,
+-- the ballot columns; these use `label`/`notes` and know nothing about either).
+-- Kept here because this file is the Phase-3 design record, not a live dump —
+-- do not re-run this section against the database.
 CREATE VIEW v_album_search_source AS
 SELECT a.id AS album_id,
        a.title, a.artist_name, a.year,

@@ -61,7 +61,24 @@ Logged by mccoy, 2026-07-25.
 
 # Added 2026-07-26 (Claude Code, ballot-fields migration)
 
-## 5. `v_album_search_source` is dead or drifted — decide which
+## 5. `v_album_search_source` is dead or drifted — RESOLVED: dropped
+**RESOLVED 2026-07-26** — John's call: dead, so drop. `migrate-4b` dropped
+BOTH `v_album_search_source` and `v_person_search_source` (the person view had
+the identical problem). `_jazzcanon` is down to 11 views. Verified after the
+drop: export byte-stable, `canon-search.py` works on both albums and people,
+`stage-candidate.py` dry-run clean, all 121 album + 629 person
+`search_document` values intact. Rollback exists but recreates the *drifted*
+definitions — if a view should ever become the real source, write a new one
+that matches `embed.py` and change `embed.py` to read it.
+
+**One loose end outside this repo:** McCoy's Hermes config
+(`~/.hermes/profiles/mccoy/config.yaml`, line 10-13) still tells him the DB has
+"the 13 v_* views" and lists both dropped names. Harmless — he'd get a
+relation-does-not-exist if he tried — but his orientation text is now wrong.
+Fix when McCoy's config is next touched: change "13" to "11" and delete the two
+names.
+
+Original entry follows.
 There are two divergent definitions of an album's "search document" and they
 do not agree:
 
