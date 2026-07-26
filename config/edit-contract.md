@@ -113,3 +113,12 @@ record off the public site is a specific act about a specific album.
 `id`, `created_at`, `updated_at`, any foreign-key spine
 (`album_id`, `person_id` on performance, …) — relinking rows is
 restructuring, hand it to Claude Code.
+
+`case_for`, `case_against` (John's ruling, 2026-07-26) — these are
+**projections of the album's research dossier**, not source records. The
+dossier JSON under `research/candidates-archive/` is the archival source;
+editing the column in place would silently diverge the database from it.
+A change goes to the dossier's `ballot` block first, then
+`scripts/backfill-ballot-fields.py` carries it into the DB with its own
+`edit_log` row (the script is idempotent — it only writes what differs).
+Later wordsmithing of ballot prose is John's own, done at the dossier.
