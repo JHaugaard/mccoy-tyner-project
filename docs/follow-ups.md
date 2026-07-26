@@ -13,15 +13,22 @@ see these albums. Site is unaffected.
 Also note: `scripts/cover-art-fetch.py` has the same sudo-postgres pattern,
 so the same path question applies next time it's needed.
 
-**Status 2026-07-26 (Claude Code, schema-update session): albums resolved,
-persons not.** All 121 albums now carry `embedding`/`search_document`; the
-sudo-postgres path ran clean (`/tmp/pg-venv` had been partially wiped and was
-rebuilt — expect to rebuild it after any reboot). **94 of 629 persons still
-have NULL embeddings** — the people added by the 21 staged candidates were
-never embedded. `sudo -u postgres /tmp/pg-venv/bin/python3 /tmp/embed.py`
-with no flags fixes it (idempotent, skips non-null, ~94 Ollama calls). Left
-undone deliberately: outside the ballot-fields handoff's scope. Until then
-`canon-search.py --people` cannot see those 94.
+**RESOLVED 2026-07-26 (Claude Code, schema-update session).** All 121 albums
+and all 629 persons now carry `embedding` + `search_document`; zero NULLs in
+either table. The 94 missing persons were the people added by the 21 staged
+candidates, filled by a no-flag `embed.py` run at John's instruction.
+Verified: `canon-search.py --people` surfaces the newly-embedded (Booker
+Little, from the staged *We Insist!*).
+
+The sudo-postgres execution path that was declined in-session on 2026-07-25
+ran clean:
+`sudo -u postgres /tmp/pg-venv/bin/python3 /tmp/embed.py` — `sudo` is
+passwordless on vps8 and Ollama on vps4 answered. One gotcha: **`/tmp/pg-venv`
+does not survive a reboot intact.** It was found with the directory present
+but `psycopg2` gutted, which fails at import rather than at connect. Rebuild
+rather than debug:
+`sudo rm -rf /tmp/pg-venv && sudo -u postgres python3 -m venv /tmp/pg-venv &&
+sudo -u postgres /tmp/pg-venv/bin/pip install psycopg2-binary`
 
 ## 2. Apple preview backfill (3 albums)
 No `apple_album_id` on: `thelonious-monk-brilliant-corners-1956`,
