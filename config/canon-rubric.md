@@ -74,6 +74,13 @@ strongest first:
   **scope_call**, not auto-excluded: argue them, tier them, let John rule.
 - **No style quotas.** Sixty modal albums is fine if each earns its place.
   Never propose a weaker album to balance a genre.
+- **The drip's pace is deliberate (affirmed 2026-07-26).** The widened
+  window (1940–1979) makes a fast build to 1,000+ albums technically
+  easy — and John has explicitly declined it. drip_size stays 2: each
+  morning's two candidates get read, listened to, and thought about.
+  Reaching 200 in a year or more is the intended tempo, not a backlog
+  failure. Do not propose raising drip_size for throughput reasons;
+  mastery of the collection outranks growth of it.
 - **No artist-concentration penalty.** The first-100 phase guarded against
   a canon one-third Davis and Coltrane; the canon is now open-ended and
   John has directed the dial turned down (2026-07-20). Repeat appearances
