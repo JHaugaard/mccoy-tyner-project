@@ -1,0 +1,874 @@
+{
+  "id": "freddie-hubbard-first-light-1971",
+  "artist": "Freddie Hubbard",
+  "album": "First Light",
+  "year": 1971,
+  "label": "CTI",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "post-bop",
+    "soul-jazz",
+    "jazz-funk",
+    "jazz-fusion"
+  ],
+  "rationale": "obs[S1]: AllMusic credits and review list a core band of Freddie Hubbard, Richard Wyands, George Benson, Ron Carter, Jack DeJohnette, Airto Moreira, and Phil Kraus, plus a woodwind/string ensemble arranged by Don Sebesky, and tag the album Post-Bop / Soul Jazz / Jazz-Funk / Fusion. obs[S2]: Wikipedia confirms the CTI release, producer Creed Taylor, Van Gelder Studio sessions, and notes it won the 1972 Grammy for Best Jazz Performance by a Group. obs[S4]: The CTI sessionography gives exact recording dates (September 14 and 16, 1971), per-track session mapping, and session-level personnel. inf: The album fits the canon window as a high-profile, Grammy-winning CTI record that bridges hard-bop trumpet with orchestrated soul-jazz/post-bop production.",
+  "priority": "high",
+  "epistemic": "obs",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "Freddie Hubbard: First Light Tracks & Reviews | AllMusic",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/first-light-mw0000188197"
+    },
+    "S2": {
+      "title": "First Light (Freddie Hubbard album) - Wikipedia",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/First_Light_(Freddie_Hubbard_album)"
+    },
+    "S3": {
+      "title": "Freddie Hubbard \u2013 First Light | Releases | Discogs",
+      "type": "web",
+      "url": "https://www.discogs.com/master/72355-Freddie-Hubbard-First-Light"
+    },
+    "S4": {
+      "title": "CTI Discography: First Light session (Freddie Hubbard)",
+      "type": "web",
+      "url": "http://www.dougpayne.com/ctid7072.htm#firstlight"
+    },
+    "S5": {
+      "title": "iTunes Search/Lookup API - First Light (CTI Records 40th Anniversary Edition)",
+      "type": "api",
+      "url": "https://itunes.apple.com/lookup?id=430088007"
+    },
+    "S6": {
+      "title": "MusicBrainz release group API: First Light - Freddie Hubbard",
+      "type": "api",
+      "url": "https://musicbrainz.org/ws/2/release-group/068cad48-fa40-3a6b-9b85-0940f3283659?inc=artist-credits+tags+ratings&fmt=json"
+    },
+    "S7": {
+      "title": "Cover Art Archive - First Light release group",
+      "type": "api",
+      "url": "https://coverartarchive.org/release-group/068cad48-fa40-3a6b-9b85-0940f3283659"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1971-09-14",
+      "1971-09-16"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Creed Taylor",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "flugelhorn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "CTI sessionography S4 lists 'tp on d, flhrn' \u2014 flugelhorn on most tracks, trumpet on 'Yesterday's Dreams'; AllMusic S1 and Wikipedia S2 list both trumpet and flugelhorn."
+      },
+      {
+        "name": "Richard Wyands",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Source conflict: CTI S4 specifies electric piano (el-p). AllMusic S1 review says 'acoustic piano' and the credits list 'Piano'; Wikipedia S2 lists 'piano'."
+      },
+      {
+        "name": "George Benson",
+        "instrument": "electric guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "CTI S4 specifies electric guitar (el-g); Wikipedia S2 lists 'guitar'."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "CTI S4 abbreviates the credit as (b)."
+      },
+      {
+        "name": "Jack DeJohnette",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Airto Moreira",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Airto"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Phil Kraus",
+        "instrument": "vibraphone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic S1 also credits background vocals."
+      },
+      {
+        "name": "Hubert Laws",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wally Kane",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "CTI S4 lists flute; Wikipedia S2 and AllMusic S1 also credit bassoon. Taxonomy gap: bassoon is not in the current instrument list."
+      },
+      {
+        "name": "George Marge",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also clarinet per S2/S4."
+      },
+      {
+        "name": "Romeo Penque",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also clarinet, oboe, and English horn per S2/S4."
+      },
+      {
+        "name": "Jane Taylor",
+        "instrument": "bassoon",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Taxonomy gap: 'bassoon' is not in the current instrument taxonomy."
+      },
+      {
+        "name": "Ray Alonge",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "James Buffington",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Margaret Ross",
+        "instrument": "harp",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "David Nadien",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Gershman",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Emanuel Green",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Harold Kohon",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Malin",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Joseph Malin"
+        ],
+        "notes": "AllMusic S1 lists 'Joseph Malin'."
+      },
+      {
+        "name": "Gene Orloff",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Matthew Raimondi",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tosha Samaroff",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Irving Spice",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Alfred Brown",
+        "instrument": "viola",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Not listed in AllMusic S1 credits."
+      },
+      {
+        "name": "Emanuel Vardi",
+        "instrument": "viola",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charles McCracken",
+        "instrument": "cello",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Ricci",
+        "instrument": "cello",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Don Sebesky",
+        "instrument": "conductor",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Arranger and conductor. Taxonomy gap: 'conductor' is not in the current instrument taxonomy."
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "electric piano",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic S1 review lists Herbie Hancock on Rhodes; Wikipedia S2 lead lists him as a performer. Not listed in the CTI S4 sessionography or the Wikipedia S2 formal Personnel section. Scope and tracks unknown."
+      },
+      {
+        "name": "Eric Gale",
+        "instrument": "guitar",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic S1 review lists Eric Gale as a guitarist; Wikipedia S2 lead lists him as a performer. Not listed in the CTI S4 sessionography or the Wikipedia S2 formal Personnel section. Scope and tracks unknown."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "First Light",
+        "track_number": 1,
+        "side": null,
+        "duration": "11:05",
+        "session_date": "1971-09-16",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Richard Wyands",
+          "George Benson",
+          "Ron Carter",
+          "Jack DeJohnette",
+          "Airto Moreira",
+          "Phil Kraus",
+          "Hubert Laws",
+          "Wally Kane",
+          "George Marge",
+          "Romeo Penque",
+          "Jane Taylor",
+          "Ray Alonge",
+          "James Buffington",
+          "Margaret Ross",
+          "David Nadien",
+          "Paul Gershman",
+          "Emanuel Green",
+          "Harold Kohon",
+          "Joe Malin",
+          "Gene Orloff",
+          "Matthew Raimondi",
+          "Tosha Samaroff",
+          "Irving Spice",
+          "Alfred Brown",
+          "Emanuel Vardi",
+          "Charles McCracken",
+          "George Ricci",
+          "Don Sebesky"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Uncle Albert/Admiral Halsey",
+        "track_number": 2,
+        "side": null,
+        "duration": "8:17",
+        "session_date": "1971-09-14",
+        "composers": [
+          "Paul McCartney",
+          "Linda McCartney"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Richard Wyands",
+          "George Benson",
+          "Ron Carter",
+          "Jack DeJohnette",
+          "Airto Moreira",
+          "Phil Kraus",
+          "Hubert Laws",
+          "Wally Kane",
+          "George Marge",
+          "Romeo Penque",
+          "Jane Taylor",
+          "Ray Alonge",
+          "James Buffington",
+          "Margaret Ross",
+          "David Nadien",
+          "Paul Gershman",
+          "Emanuel Green",
+          "Harold Kohon",
+          "Joe Malin",
+          "Gene Orloff",
+          "Matthew Raimondi",
+          "Tosha Samaroff",
+          "Irving Spice",
+          "Alfred Brown",
+          "Emanuel Vardi",
+          "Charles McCracken",
+          "George Ricci",
+          "Don Sebesky"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Moment to Moment",
+        "track_number": 3,
+        "side": null,
+        "duration": "5:43",
+        "session_date": "1971-09-16",
+        "composers": [
+          "Henry Mancini",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Richard Wyands",
+          "George Benson",
+          "Ron Carter",
+          "Jack DeJohnette",
+          "Airto Moreira",
+          "Phil Kraus",
+          "Hubert Laws",
+          "Wally Kane",
+          "George Marge",
+          "Romeo Penque",
+          "Jane Taylor",
+          "Ray Alonge",
+          "James Buffington",
+          "Margaret Ross",
+          "David Nadien",
+          "Paul Gershman",
+          "Emanuel Green",
+          "Harold Kohon",
+          "Joe Malin",
+          "Gene Orloff",
+          "Matthew Raimondi",
+          "Tosha Samaroff",
+          "Irving Spice",
+          "Alfred Brown",
+          "Emanuel Vardi",
+          "Charles McCracken",
+          "George Ricci",
+          "Don Sebesky"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Yesterday's Dreams",
+        "track_number": 4,
+        "side": null,
+        "duration": "3:55",
+        "session_date": "1971-09-16",
+        "composers": [
+          "Norman L. Martin",
+          "Don Sebesky"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Richard Wyands",
+          "George Benson",
+          "Ron Carter",
+          "Jack DeJohnette",
+          "Airto Moreira",
+          "Phil Kraus",
+          "Hubert Laws",
+          "Wally Kane",
+          "George Marge",
+          "Romeo Penque",
+          "Jane Taylor",
+          "Ray Alonge",
+          "James Buffington",
+          "Margaret Ross",
+          "David Nadien",
+          "Paul Gershman",
+          "Emanuel Green",
+          "Harold Kohon",
+          "Joe Malin",
+          "Gene Orloff",
+          "Matthew Raimondi",
+          "Tosha Samaroff",
+          "Irving Spice",
+          "Alfred Brown",
+          "Emanuel Vardi",
+          "Charles McCracken",
+          "George Ricci",
+          "Don Sebesky"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Lonely Town",
+        "track_number": 5,
+        "side": null,
+        "duration": "7:00",
+        "session_date": "1971-09-16",
+        "composers": [
+          "Leonard Bernstein",
+          "Betty Comden",
+          "Adolph Green"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Richard Wyands",
+          "George Benson",
+          "Ron Carter",
+          "Jack DeJohnette",
+          "Airto Moreira",
+          "Phil Kraus",
+          "Hubert Laws",
+          "Wally Kane",
+          "George Marge",
+          "Romeo Penque",
+          "Jane Taylor",
+          "Ray Alonge",
+          "James Buffington",
+          "Margaret Ross",
+          "David Nadien",
+          "Paul Gershman",
+          "Emanuel Green",
+          "Harold Kohon",
+          "Joe Malin",
+          "Gene Orloff",
+          "Matthew Raimondi",
+          "Tosha Samaroff",
+          "Irving Spice",
+          "Alfred Brown",
+          "Emanuel Vardi",
+          "Charles McCracken",
+          "George Ricci",
+          "Don Sebesky"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Fantasy in D",
+        "track_number": 6,
+        "side": null,
+        "duration": "6:55",
+        "session_date": "1971-09-16",
+        "composers": [
+          "Cedar Walton"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Richard Wyands",
+          "George Benson",
+          "Ron Carter",
+          "Jack DeJohnette",
+          "Airto Moreira",
+          "Phil Kraus",
+          "Hubert Laws",
+          "Wally Kane",
+          "George Marge",
+          "Romeo Penque",
+          "Jane Taylor",
+          "Ray Alonge",
+          "James Buffington",
+          "Margaret Ross",
+          "David Nadien",
+          "Paul Gershman",
+          "Emanuel Green",
+          "Harold Kohon",
+          "Joe Malin",
+          "Gene Orloff",
+          "Matthew Raimondi",
+          "Tosha Samaroff",
+          "Irving Spice",
+          "Alfred Brown",
+          "Emanuel Vardi",
+          "Charles McCracken",
+          "George Ricci",
+          "Don Sebesky"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "068cad48-fa40-3a6b-9b85-0940f3283659",
+    "apple_album_id": "430088007",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/068cad48-fa40-3a6b-9b85-0940f3283659/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front for the MusicBrainz release group."
+      }
+    ],
+    "notes": "Two sessions at Van Gelder Studio, Englewood Cliffs, NJ: September 14, 1971 (track 2 'Uncle Albert/Admiral Halsey') and September 16, 1971 (tracks 1, 3, 4, 5, 6). CTI S4 marks the September 16 tracks as 'same or similar' to the September 14 collective personnel. Unresolved conflicts: (1) Richard Wyands' instrument: CTI S4 specifies electric piano (el-p), while AllMusic S1 review says 'acoustic piano' and its credits list 'Piano', and Wikipedia S2 lists 'piano'. (2) Herbie Hancock and Eric Gale are credited as performers in AllMusic S1 review and Wikipedia S2 lead, but they do not appear in the CTI S4 sessionography or the Wikipedia S2 formal Personnel section; they are recorded as disputed entries with epistemic=unk. (3) Track durations differ between AllMusic S1 / Wikipedia S2 / Discogs S3 (e.g., 'Yesterday's Dreams' 3:55) and the CTI S4 sessionography (4:55). (4) Freddie Hubbard's CTI S4 credit is 'tp on d, flhrn' \u2014 trumpet on 'Yesterday's Dreams' and flugelhorn on the other five tracks. (5) Taxonomy gaps: 'bassoon' (Jane Taylor, Wally Kane doubling) and 'conductor' (Don Sebesky) are not in the current instrument taxonomy. A live 1973 bonus performance of 'First Light' appears on reissues but is excluded from the original album tracks."
+  },
+  "ballot": {
+    "album": "Freddie Hubbard \u2014 First Light (1971)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded in 1971, within the window, but the dossier tags it jazz-fusion/jazz-funk; John must decide whether its electric, orchestral CTI crossover idiom remains post-bop/soul-jazz or meets the rubric's excluded-fusion threshold."
+    },
+    "tier": "scope_call",
+    "priority": "consider",
+    "case_for": "First Light is a major statement of the early-1970s CTI sound: Freddie Hubbard's fluent trumpet and especially lyrical flugelhorn are set against Don Sebesky's ambitious orchestral writing without abandoning a jazz rhythm-section foundation. Its session has exceptional gravity\u2014Hubbard, George Benson, Ron Carter, Jack DeJohnette, Airto Moreira, Richard Wyands, Hubert Laws, and a large woodwind-and-string ensemble are documented in the dossier's AllMusic and CTI-sessionography sources (S1, S4). The 1972 Grammy for Best Jazz Performance by a Group (S2) confirms substantial contemporary visibility, and the record is an accessible route into how a central hard-bop player negotiated the era's expanded studio and popular-song vocabulary.",
+    "case_against": "The dossier itself classifies the record as jazz-fusion and jazz-funk as well as post-bop and soul-jazz (S1), while electric piano, electric guitar, percussion, strings, and polished Sebesky arrangements make its relation to the rubric's fusion exclusion a substantive question rather than a mere tag error. Its repertoire is largely crossover-oriented\u2014most conspicuously Paul and Linda McCartney's \"Uncle Albert/Admiral Halsey,\" alongside Mancini/Mercer and Bernstein material\u2014so the album can feel more like a luxurious studio production than a load-bearing post-bop improvising statement. The Grammy is strong evidence of period recognition but not, by itself, evidence of enduring cross-critical canon consensus; the dossier supplies no major canon-list or musician-testimony support, and it retains unresolved personnel conflicts concerning Hancock, Gale, and Wyands.",
+    "disagreement": "One reference treats the fusion tag and CTI electric-orchestral aesthetic as sufficient to make this a scope_call under the hard fusion exclusion; the other concludes that Carter and DeJohnette's non-rock rhythmic foundation keeps it in scope, though contested on artistic grounds.",
+    "recommendation": "The council proposes that John first rule on whether this CTI crossover sound is admissible under the fusion boundary, then consider it as a representative but nonessential 1970s Hubbard/CTI entry.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

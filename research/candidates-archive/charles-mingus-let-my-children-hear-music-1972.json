@@ -1,0 +1,862 @@
+{
+  "id": "charles-mingus-let-my-children-hear-music-1972",
+  "artist": "Charles Mingus",
+  "album": "Let My Children Hear Music",
+  "year": 1972,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "rationale": "Charles Mingus's large-ensemble post-bop/orchestral masterpiece, recorded in 1971 and released by Columbia in 1972. Features ambitious Sy Johnson and Alan Raph orchestrations of original Mingus compositions, a star-studded orchestra, and Teo Macero production. Praised by AllMusic, DownBeat, and Rolling Stone Jazz Record Guide; Mingus himself cited it as his favorite recording.",
+  "priority": "high",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic - Let My Children Hear Music",
+      "type": "allmusic",
+      "url": "https://www.allmusic.com/album/let-my-children-hear-music-mw0000074687"
+    },
+    "S2": {
+      "title": "Wikipedia - Let My Children Hear Music",
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Let_My_Children_Hear_Music"
+    },
+    "S3": {
+      "title": "Jazzdisco - Charles Mingus Catalog",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/charles-mingus/catalog/"
+    },
+    "S4": {
+      "title": "AlbumLinerNotes - Let My Children Hear Music",
+      "type": "liner_notes",
+      "url": "http://albumlinernotes.com/Let_Children_Hear_Music.html"
+    },
+    "S5": {
+      "title": "Discogs - Charles Mingus Let My Children Hear Music",
+      "type": "discogs",
+      "url": "https://www.discogs.com/master/239708-Charles-Mingus-Let-My-Children-Hear-Music"
+    },
+    "S6": {
+      "title": "iTunes Search API - Let My Children Hear Music",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music&entity=album&limit=10"
+    },
+    "S7": {
+      "title": "MusicBrainz - Let My Children Hear Music release group",
+      "type": "musicbrainz",
+      "url": "https://musicbrainz.org/release-group/d0d9a8b2-4df6-3c28-9cbc-bfacb02ae8c9"
+    },
+    "S8": {
+      "title": "Cover Art Archive - Let My Children Hear Music",
+      "type": "cover_art_archive",
+      "url": "https://coverartarchive.org/release-group/d0d9a8b2-4df6-3c28-9cbc-bfacb02ae8c9"
+    },
+    "S9": {
+      "title": "Let My Children Hear Music - Wikipedia (fr), personnel list",
+      "type": "web",
+      "url": "https://fr.wikipedia.org/wiki/Let_My_Children_Hear_Music"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1971-09-23",
+      "1971-09-30",
+      "1971-10-01",
+      "1971-11-18"
+    ],
+    "multi_session": true,
+    "studio": null,
+    "producer": "Teo Macero",
+    "engineer": "Russ Payne, Stan Tonkel",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Composer, arranger, conductor, primary artist; also plays bass on all tracks."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Lonnie Hillyer",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Nottingham",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Wilder",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Snooky Young",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Lead trumpet throughout."
+      },
+      {
+        "name": "Jimmy Knepper",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Julius Watkins",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charles McPherson",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jerry Dodgion",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S9"
+        ],
+        "name_variants": [],
+        "notes": "Jazzdisco lists 'reeds' without specific instrument; fr.wikipedia credits alto saxophone. Recorded as alto saxophone per S9."
+      },
+      {
+        "name": "Bobby Jones",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic also credits clarinet and tenor horn; Wikipedia lists tenor saxophone."
+      },
+      {
+        "name": "Hal McKusick",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic credits alto, baritone, and tenor saxophones; Jazzdisco lists 'reeds'. Primary instrument recorded as alto saxophone (AllMusic); doubling noted here."
+      },
+      {
+        "name": "James Moody",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic also credits alto saxophone."
+      },
+      {
+        "name": "Charles McCracken",
+        "instrument": "cello",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jaki Byard",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Foster",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roland Hanna",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Sir Roland Hanna"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milt Hinton",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Teo Macero",
+        "instrument": "alto saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Producer and conductor; jazzdisco lists alto sax credit, but track coverage is not specified."
+      },
+      {
+        "name": "Eddie Bert",
+        "instrument": "trombone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic; not corroborated by Jazzdisco or liner notes."
+      },
+      {
+        "name": "Brooks Tillotson",
+        "instrument": "French horn",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic."
+      },
+      {
+        "name": "Bucky Pizzarelli",
+        "instrument": "guitar",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic; guitar is mentioned in liner notes for 'Adagio ma Non Troppo' but no player is named."
+      },
+      {
+        "name": "Danny Bank",
+        "instrument": "baritone saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic."
+      },
+      {
+        "name": "George Marge",
+        "instrument": "flute",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic; also credited with 'Reeds (Multiple)'."
+      },
+      {
+        "name": "Howard Johnson",
+        "instrument": "tuba",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic; tuba is not in the instrument taxonomy."
+      },
+      {
+        "name": "Hubert Laws",
+        "instrument": "flute",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic."
+      },
+      {
+        "name": "Jack Jennings",
+        "instrument": "tuba",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic; tuba is not in the instrument taxonomy."
+      },
+      {
+        "name": "Marvin Stamm",
+        "instrument": "trumpet",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic."
+      },
+      {
+        "name": "Patricia H. Bown",
+        "instrument": "piano",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic."
+      },
+      {
+        "name": "Phil Kraus",
+        "instrument": "percussion",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic."
+      },
+      {
+        "name": "Savarese",
+        "instrument": "double bass",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic; may be a reissue credit or an additional bassist."
+      },
+      {
+        "name": "Bobby Lee Jones",
+        "instrument": "tenor saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Only listed by AllMusic; may be a duplicate entry for Bobby Jones or a distinct player."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Shoes of the Fisherman's Wife Are Some Jive Ass Slippers",
+        "track_number": 1,
+        "side": null,
+        "duration": "9:34",
+        "session_date": "1971-09-23",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Dannie Richmond",
+          "Lonnie Hillyer",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "Snooky Young",
+          "Jimmy Knepper",
+          "Julius Watkins",
+          "Charles McPherson",
+          "Jerry Dodgion",
+          "Bobby Jones",
+          "Hal McKusick",
+          "James Moody",
+          "Charles McCracken",
+          "Jaki Byard",
+          "John Foster",
+          "Roland Hanna",
+          "Ron Carter",
+          "Richard Davis",
+          "Milt Hinton",
+          "Teo Macero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Adagio ma Non Troppo",
+        "track_number": 2,
+        "side": null,
+        "duration": "8:22",
+        "session_date": "1971-11-18",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Dannie Richmond",
+          "Lonnie Hillyer",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "Snooky Young",
+          "Jimmy Knepper",
+          "Julius Watkins",
+          "Charles McPherson",
+          "Jerry Dodgion",
+          "Bobby Jones",
+          "Hal McKusick",
+          "James Moody",
+          "Charles McCracken",
+          "Jaki Byard",
+          "John Foster",
+          "Roland Hanna",
+          "Ron Carter",
+          "Richard Davis",
+          "Milt Hinton",
+          "Teo Macero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Don't Be Afraid, the Clown's Afraid Too",
+        "track_number": 3,
+        "side": null,
+        "duration": "9:26",
+        "session_date": "1971-10-01",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Dannie Richmond",
+          "Lonnie Hillyer",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "Snooky Young",
+          "Jimmy Knepper",
+          "Julius Watkins",
+          "Charles McPherson",
+          "Jerry Dodgion",
+          "Bobby Jones",
+          "Hal McKusick",
+          "James Moody",
+          "Charles McCracken",
+          "Jaki Byard",
+          "John Foster",
+          "Roland Hanna",
+          "Ron Carter",
+          "Richard Davis",
+          "Milt Hinton",
+          "Teo Macero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Taurus in the Arena of Life",
+        "track_number": 4,
+        "side": null,
+        "duration": "4:17",
+        "session_date": "1971-09-30",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Dannie Richmond",
+          "Lonnie Hillyer",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "Snooky Young",
+          "Jimmy Knepper",
+          "Julius Watkins",
+          "Charles McPherson",
+          "Jerry Dodgion",
+          "Bobby Jones",
+          "Hal McKusick",
+          "James Moody",
+          "Charles McCracken",
+          "Jaki Byard",
+          "John Foster",
+          "Roland Hanna",
+          "Ron Carter",
+          "Richard Davis",
+          "Milt Hinton",
+          "Teo Macero"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Hobo Ho",
+        "track_number": 5,
+        "side": null,
+        "duration": "10:07",
+        "session_date": "1971-09-30",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Dannie Richmond",
+          "Lonnie Hillyer",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "Snooky Young",
+          "Jimmy Knepper",
+          "Julius Watkins",
+          "Charles McPherson",
+          "Jerry Dodgion",
+          "Bobby Jones",
+          "Hal McKusick",
+          "James Moody",
+          "Charles McCracken",
+          "Jaki Byard",
+          "John Foster",
+          "Roland Hanna",
+          "Ron Carter",
+          "Richard Davis",
+          "Milt Hinton",
+          "Teo Macero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "The Chill of Death",
+        "track_number": 6,
+        "side": null,
+        "duration": "7:38",
+        "session_date": "1971-11-18",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Dannie Richmond",
+          "Lonnie Hillyer",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "Snooky Young",
+          "Jimmy Knepper",
+          "Julius Watkins",
+          "Charles McPherson",
+          "Jerry Dodgion",
+          "Bobby Jones",
+          "Hal McKusick",
+          "James Moody",
+          "Charles McCracken",
+          "Jaki Byard",
+          "John Foster",
+          "Roland Hanna",
+          "Ron Carter",
+          "Richard Davis",
+          "Milt Hinton",
+          "Teo Macero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "The I of Hurricane Sue",
+        "track_number": 7,
+        "side": null,
+        "duration": "10:09",
+        "session_date": "1971-09-23",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Dannie Richmond",
+          "Lonnie Hillyer",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "Snooky Young",
+          "Jimmy Knepper",
+          "Julius Watkins",
+          "Charles McPherson",
+          "Jerry Dodgion",
+          "Bobby Jones",
+          "Hal McKusick",
+          "James Moody",
+          "Charles McCracken",
+          "Jaki Byard",
+          "John Foster",
+          "Roland Hanna",
+          "Ron Carter",
+          "Richard Davis",
+          "Milt Hinton",
+          "Teo Macero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "d0d9a8b2-4df6-3c28-9cbc-bfacb02ae8c9",
+    "apple_album_id": 191449521,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/904f83f2-c0b4-4e12-84bf-d41246dfc64b/40882388765.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Image served by Cover Art Archive for the release group; specific pressing release not verified."
+      }
+    ],
+    "notes": "Large-ensemble Mingus album with Sy Johnson and Alan Raph orchestrations/conducting. Core orchestra confirmed by Jazzdisco sessionography across four NYC sessions (Sep 23, Sep 30, Oct 1, Nov 18 1971). AllMusic credits list additional musicians (Eddie Bert, Marvin Stamm, Bucky Pizzarelli, etc.) that are not corroborated by Jazzdisco or the 1992 liner notes; these are marked epistemic 'unk' and excluded from track-level assignments. Instruments 'reeds', 'tuba', and 'tenor horn' fall outside the standard taxonomy and are flagged in individual notes. Teo Macero is producer and conductor; his saxophone track coverage is unspecified. Studio not listed by any source."
+  },
+  "ballot": {
+    "album": "Charles Mingus \u2014 Let My Children Hear Music (1972)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a major realization of Mingus's large-ensemble ambition: original compositions rendered on a symphonic scale while retaining the blues, swing, volatility, and collective force central to his work. The dossier identifies praise from AllMusic, DownBeat, and the Rolling Stone Jazz Record Guide, and reports that Mingus named it his favorite of his recordings. Its four 1971 sessions assembled extraordinary personnel\u2014Dannie Richmond, Jimmy Knepper, Jaki Byard, Charles McPherson, James Moody, Roland Hanna, and a bass contingent including Ron Carter, Richard Davis, and Milt Hinton\u2014giving the date exceptional session gravity (S1, S3, S4).",
+    "case_against": "Its density is a real discovery-value reservation: Sy Johnson and Alan Raph's elaborate orchestrations can make it less immediately legible than Mingus's classic small-group records, and its most expansive pieces may overwhelm a listener encountering jazz cold. The album's reputation is well attested in the dossier but not documented through a broad range of independent canon-list sources, while parts of the personnel data remain unresolved: numerous AllMusic credits are uncorroborated by Jazzdisco or the liner notes, and track-level assignments are incomplete. Those documentation gaps do not seriously undermine the album's musical standing, but they temper claims of definitive session detail.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat it as a strong consensus-core Mingus statement and weigh its demanding orchestral scale against its singular value in representing large-ensemble post-bop.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

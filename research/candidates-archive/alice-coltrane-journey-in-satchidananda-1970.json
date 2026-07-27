@@ -1,0 +1,367 @@
+{
+  "id": "alice-coltrane-journey-in-satchidananda-1970",
+  "artist": "Alice Coltrane",
+  "album": "Journey in Satchidananda",
+  "year": 1970,
+  "label": "Impulse!",
+  "style_primary": "modal-jazz",
+  "rationale": "Alice Coltrane's fourth Impulse! album is a defining spiritual/modal statement that blends harp, piano, Indian tanpura/tamboura, and Middle Eastern oud with Pharoah Sanders's soprano saxophone, bassists Cecil McBee and Charlie Haden, and drummer Rashied Ali. Recorded in 1970 and released in 1971, it is consistently cited as a landmark: AllMusic awards 5/5, Pitchfork 10/10, and Rolling Stone placed it at #446 on the 2020 500 Greatest Albums of All Time. The modal, raga-influenced writing and the Coltrane\u2013Sanders\u2013Haden\u2013McBee\u2013Ali ensemble make it a canonical late-period jazz document.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic \u2014 Alice Coltrane: Journey in Satchidananda (mw0000204160)",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/journey-in-satchidananda-mw0000204160"
+    },
+    "S2": {
+      "title": "Wikipedia \u2014 Journey in Satchidananda",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Journey_in_Satchidananda"
+    },
+    "S3": {
+      "title": "Jazz Music Archives \u2014 Alice Coltrane: Journey in Satchidananda",
+      "type": "sessionography",
+      "url": "https://www.jazzmusicarchives.com/album/alice-coltrane/journey-in-satchidananda"
+    },
+    "S4": {
+      "title": "Discogs \u2014 Alice Coltrane Featuring Pharoah Sanders: Journey In Satchidananda (master 59538)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/59538-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda"
+    },
+    "S5": {
+      "title": "iTunes Search API \u2014 Alice Coltrane, Journey in Satchidananda",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Alice+Coltrane+Journey+In+Satchidananda&entity=album"
+    },
+    "S6": {
+      "title": "MusicBrainz \u2014 release group cf154081-2678-3778-95cf-cd31c4ea5dfe",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/cf154081-2678-3778-95cf-cd31c4ea5dfe"
+    },
+    "S7": {
+      "title": "Cover Art Archive \u2014 front cover for release-group cf154081-2678-3778-95cf-cd31c4ea5dfe",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/cf154081-2678-3778-95cf-cd31c4ea5dfe/front"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-07-04",
+      "1970-11-08"
+    ],
+    "multi_session": true,
+    "studio": "Coltrane home studios, Dix Hills, New York (A1\u2013B1); Village Gate, New York City (B2 live)",
+    "producer": "Alice Coltrane, Ed Michel",
+    "engineer": "Orville O'Brien, Roy Musgnug",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Alice Coltrane",
+        "instrument": "harp",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Journey in Satchidananda",
+          "Shiva-Loka"
+        ],
+        "session_dates": [
+          "1970-11-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Primary artist, composer, and producer. AllMusic also credits piano; Wikipedia lists piano on 'Stopover Bombay' and 'Something About John Coltrane'. Piano doubling is not represented as a separate instrument row."
+      },
+      {
+        "name": "Pharoah Sanders",
+        "instrument": "soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic also credits percussion."
+      },
+      {
+        "name": "Cecil McBee",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Journey in Satchidananda",
+          "Shiva-Loka",
+          "Stopover Bombay",
+          "Something About John Coltrane"
+        ],
+        "session_dates": [
+          "1970-11-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Not present on the live 'Isis and Osiris'."
+      },
+      {
+        "name": "Charlie Haden",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Isis and Osiris"
+        ],
+        "session_dates": [
+          "1970-07-04"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Bassist on the live Village Gate track only."
+      },
+      {
+        "name": "Rashied Ali",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Vishnu Wood",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Isis and Osiris"
+        ],
+        "session_dates": [
+          "1970-07-04"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic and Wikipedia credit oud, which is not in the instrument taxonomy; mapped to 'guitar' as the closest plucked string."
+      },
+      {
+        "name": "Majid Shabazz",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Journey in Satchidananda",
+          "Shiva-Loka",
+          "Stopover Bombay",
+          "Something About John Coltrane"
+        ],
+        "session_dates": [
+          "1970-11-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic and Wikipedia list bells and tambourine; mapped to 'percussion' as the closest taxonomy term."
+      },
+      {
+        "name": "Tulsi Sen Gupta",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Journey in Satchidananda",
+          "Shiva-Loka",
+          "Stopover Bombay",
+          "Something About John Coltrane"
+        ],
+        "session_dates": [
+          "1970-11-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Tulsi"
+        ],
+        "notes": "Wikipedia gives the full name 'Tulsi Sen Gupta' and credits tanpura; AllMusic lists 'Tulsi' and 'Tamboura'. Tanpura/tamboura is not in the instrument taxonomy; mapped to 'guitar' as the closest plucked string."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Journey in Satchidananda",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:36",
+        "session_date": "1970-11-08",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Cecil McBee",
+          "Rashied Ali",
+          "Tulsi Sen Gupta",
+          "Majid Shabazz"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Shiva-Loka",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:33",
+        "session_date": "1970-11-08",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Cecil McBee",
+          "Rashied Ali",
+          "Tulsi Sen Gupta",
+          "Majid Shabazz"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Stopover Bombay",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:52",
+        "session_date": "1970-11-08",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Cecil McBee",
+          "Rashied Ali",
+          "Tulsi Sen Gupta",
+          "Majid Shabazz"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Something About John Coltrane",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:40",
+        "session_date": "1970-11-08",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Cecil McBee",
+          "Rashied Ali",
+          "Tulsi Sen Gupta",
+          "Majid Shabazz"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Isis and Osiris",
+        "track_number": 5,
+        "side": "B",
+        "duration": "11:32",
+        "session_date": "1970-07-04",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Charlie Haden",
+          "Rashied Ali",
+          "Vishnu Wood"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "cf154081-2678-3778-95cf-cd31c4ea5dfe",
+    "apple_album_id": "1440719294",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/cf154081-2678-3778-95cf-cd31c4ea5dfe/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "CAA front cover for the MusicBrainz release group; exact pressing not individually verified."
+      }
+    ],
+    "notes": "Recording dates: July 4, 1970 (B2 'Isis and Osiris' live at the Village Gate) and November 8, 1970 (A1\u2013B1 studio tracks at Coltrane home studios). Released February 1971 on Impulse! AS-9203. Track durations vary slightly across sources (Wikipedia used here; Discogs/Jazz Music Archives give slightly different timings for some tracks). The tanpura/tamboura and oud are not in the instrument taxonomy and are mapped to 'guitar' with explanatory notes."
+  },
+  "ballot": {
+    "album": "Alice Coltrane \u2014 Journey in Satchidananda (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Recorded in 1970, this is securely within the window and is organized around modal, raga-influenced improvisation rather than free-jazz abstraction or electric-rock fusion. It is Alice Coltrane's defining spiritual-modal statement: harp, piano, tanpura drone, oud, and the Coltrane-circle rhythm language create a distinct, enduring sound, while Pharoah Sanders, Rashied Ali, Cecil McBee, Charlie Haden, and the Indian instrumentalists give the sessions exceptional gravity (S1\u2013S3). The dossier documents broad critical recognition\u2014AllMusic's 5/5 and the stated Pitchfork 10/10 and Rolling Stone 500 placement\u2014and its atmospheric immediacy makes it a powerful entry point to the spiritual jazz lineage.",
+    "case_against": "The dossier's strongest consensus evidence is weighted toward generalist or non-jazz-specialist criticism; it does not document the independent jazz-canon sources the rubric particularly values, such as Penguin Guide, DownBeat, or JazzTimes. A strict traditionalist could also argue that its static drones, sparse harmonic motion, and meditative textures privilege atmosphere over the interactive swing and harmonic vocabulary usually central to post-bop, making it less representative as a general introduction to the tradition. Those objections challenge its representative breadth more than its artistic stature.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat it as a must-have consensus-core document of spiritual and modal jazz.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

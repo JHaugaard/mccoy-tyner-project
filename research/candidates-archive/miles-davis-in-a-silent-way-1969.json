@@ -1,0 +1,283 @@
+{
+  "id": "miles-davis-in-a-silent-way-1969",
+  "artist": "Miles Davis",
+  "album": "In a Silent Way",
+  "year": 1969,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "rationale": "Landmark 1969 Miles Davis studio album that documents the pivot from the acoustic second quintet language toward electric, studio-assembled sound. Features Wayne Shorter, John McLaughlin, Chick Corea, Herbie Hancock, Joe Zawinul, Dave Holland and Tony Williams in a single February 1969 session produced by Teo Macero. Frequently cited as a canonical pre-Bitches Brew statement and one of Davis's most influential recordings (AllMusic 5-star review, Grammy nomination, 1001 Albums You Must Hear Before You Die).",
+  "priority": "high",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Miles Davis: In a Silent Way \u2014 AllMusic album page + credits",
+      "type": "album-page",
+      "url": "https://www.allmusic.com/album/in-a-silent-way-mw0000188020"
+    },
+    "S2": {
+      "title": "In a Silent Way \u2014 Wikipedia album article",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/In_a_Silent_Way"
+    },
+    "S3": {
+      "title": "Miles Davis \u2013 In A Silent Way \u2014 Discogs master release",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/8408-Miles-Davis-In-A-Silent-Way"
+    },
+    "S4": {
+      "title": "Miles Davis \u2014 In a Silent Way \u2014 iTunes Search API",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+In+a+Silent+Way&entity=album"
+    },
+    "S5": {
+      "title": "Release group \u201cIn a Silent Way\u201d by Miles Davis \u2014 MusicBrainz",
+      "type": "musicbrainz",
+      "url": "https://musicbrainz.org/release-group/7d0a9612-7636-34fe-84d9-445c8df9c0f3"
+    },
+    "S6": {
+      "title": "Cover Art Archive \u2014 In a Silent Way release-group front cover",
+      "type": "cover-art-archive",
+      "url": "https://coverartarchive.org/release-group/7d0a9612-7636-34fe-84d9-445c8df9c0f3"
+    },
+    "S7": {
+      "title": "In A Silent Way \u2014 MilesDavis.com official album page",
+      "type": "artist-official",
+      "url": "https://www.milesdavis.com/albums/in-a-silent-way/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1969-02-18"
+    ],
+    "multi_session": false,
+    "studio": "CBS 30th Street Studio, New York City",
+    "producer": "Teo Macero",
+    "engineer": "Stan Tonkel, Russ Payne",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John McLaughlin",
+        "instrument": "electric guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Chick Corea",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic lists instrument as 'Fender Rhodes' (a specific electric piano)."
+      },
+      {
+        "name": "Joe Zawinul",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [
+          "Josef Zawinul"
+        ],
+        "notes": "Wikipedia/Discogs list 'electric piano, organ'; AllMusic lists only 'Organ (Hammond)'. Using electric piano as primary instrument; also credited on organ."
+      },
+      {
+        "name": "Dave Holland",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic and Discogs list generic 'Bass'; Wikipedia specifies double bass."
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [
+          "Anthony Williams"
+        ],
+        "notes": "Discogs uses 'Tony Williams*' linked to artist name Anthony Williams."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Shhh / Peaceful",
+        "track_number": 1,
+        "side": "A",
+        "duration": "18:16",
+        "session_date": "1969-02-18",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "John McLaughlin",
+          "Chick Corea",
+          "Herbie Hancock",
+          "Joe Zawinul",
+          "Dave Holland",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "In a Silent Way / It's About That Time",
+        "track_number": 2,
+        "side": "B",
+        "duration": "19:52",
+        "session_date": "1969-02-18",
+        "composers": [
+          "Joe Zawinul",
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "John McLaughlin",
+          "Chick Corea",
+          "Herbie Hancock",
+          "Joe Zawinul",
+          "Dave Holland",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "7d0a9612-7636-34fe-84d9-445c8df9c0f3",
+    "apple_album_id": "193603857",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/47873c43-4337-4d3b-9bf2-959f85a7cec1/23109799066.png",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover from Cover Art Archive release group matched to Columbia CS 9875 US 1969 release."
+      }
+    ],
+    "notes": "Single session recorded February 18, 1969 at CBS 30th Street Studio (Studio B), New York. Engineers Stan Tonkel and Russ Payne both credited on the original LP; AllMusic renders Tonkel as 'Stanley Tonkel'. Album duration conflicts: AllMusic lists track 1 as 18:03 and track 2 as 19:57; Wikipedia/Discogs list track 1 as 18:16 and track 2 as 19:52. Wikipedia side-breakdown shows track 1 as Shhh (6:14) / Peaceful (5:42) / Shhh (6:20); track 2 as In a Silent Way (4:11) / It's About That Time (11:27) / In a Silent Way (4:14). Joe Zawinul is credited on both electric piano and organ across sources; Herbie Hancock is specified as Fender Rhodes by AllMusic."
+  },
+  "ballot": {
+    "album": "Miles Davis \u2014 In a Silent Way (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Fusion exclusion boundary: the record uses electric guitar, three electric keyboards, and Teo Macero\u2019s studio assembly, but its modal, spacious flow lacks electric-rock backbeat as its organizing idea."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "Its canonical force is exceptional: a single 1969 session joins Davis with Wayne Shorter, John McLaughlin, Chick Corea, Herbie Hancock, Joe Zawinul, Dave Holland, and Tony Williams, an unusually consequential convergence of post-bop musicians (S1\u2013S3, S7). The record is a defining statement of Davis\u2019s spacious electric conception and a major lineage point for ambient jazz, ECM-adjacent lyricism, and the quieter branch of electric jazz; its 5-star AllMusic assessment and appearance in 1001 Albums reinforce broad discovery-canon standing (S1; dossier rationale). Its two extended, immersive suites remain an unusually immediate way to hear how modal jazz, collective improvisation, texture, and studio editing could coexist.",
+    "case_against": "The objection is wholly but seriously one of scope: this is the threshold record for the electric, edited language that culminates in Bitches Brew, the rubric's explicit fusion boundary. Its sound world abandons acoustic piano and conventional tune-based interaction for electric timbres, vamps, and post-production splicing; if fusion is understood as an aesthetic trajectory rather than only rock backbeat, it is already inside the excluded territory. The dossier documents personnel and session facts well, but its strongest consensus claims beyond AllMusic and 1001 Albums are asserted rather than independently sourced in the supplied record.",
+    "disagreement": null,
+    "recommendation": "John should make an explicit fusion-boundary ruling, treating the album as a must-have if electric instrumentation without an organizing rock backbeat remains within post-bop continuity.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

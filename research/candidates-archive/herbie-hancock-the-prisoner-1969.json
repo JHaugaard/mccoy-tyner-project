@@ -1,0 +1,447 @@
+{
+  "id": "herbie-hancock-the-prisoner-1969",
+  "artist": "Herbie Hancock",
+  "album": "The Prisoner",
+  "year": 1969,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Herbie Hancock's final Blue Note studio album before his Warner Bros. move, The Prisoner is a large-ensemble post-bop tribute to Dr. Martin Luther King Jr. recorded in three sessions at Van Gelder Studio. It features a nonet including Joe Henderson, Johnny Coles, Garnett Brown, Hubert Laws, Buster Williams, and Albert 'Tootie' Heath, with expanded woodwind and brass colors (bass clarinet, bass trombone, flute). The compositions are among Hancock's most ambitious Blue Note-era writing, and the album bridges the acoustic post-bop of Speak Like a Child with the more electric direction of his early 1970s work. Strong critical reception: AllMusic 4/5, Down Beat 5/5, Rolling Stone Jazz Record Guide 4/5, Penguin Guide 3/5.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "The Prisoner \u2014 AllMusic album page (credits and overview)",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/the-prisoner-mw0000620299"
+    },
+    "S2": {
+      "title": "The Prisoner (album) \u2014 Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Prisoner_(album)"
+    },
+    "S3": {
+      "title": "Herbie Hancock \u2013 The Prisoner \u2014 Discogs master page",
+      "type": "sessionography",
+      "url": "https://www.discogs.com/master/163789-Herbie-Hancock-The-Prisoner"
+    },
+    "S4": {
+      "title": "The Prisoner \u2014 Herbie Hancock official discography (liner notes and session data)",
+      "type": "artist",
+      "url": "https://www.herbiehancock.com/music/discography/album/the-prisoner/"
+    },
+    "S5": {
+      "title": "iTunes Search API \u2014 The Prisoner album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Herbie+Hancock+The+Prisoner&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "MusicBrainz API \u2014 The Prisoner release-group lookup",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/ws/2/release-group/?query=artist:%22Herbie%20Hancock%22%20AND%20release:%22The%20Prisoner%22&fmt=json"
+    },
+    "S7": {
+      "title": "Cover Art Archive \u2014 MusicBrainz release-group 7111ef27-de81-378b-8f37-2215601f6e2f front",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/7111ef27-de81-378b-8f37-2215601f6e2f/front"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1969-04-18",
+      "1969-04-21",
+      "1969-04-23"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Duke Pearson",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader and composer of all tracks except 'Firewater'. Wikipedia credits acoustic piano and electric piano; AllMusic credits Piano, Piano (Electric), and additionally Vocals. Using 'piano' as primary instrument; electric piano doubling noted. AllMusic vocals credit is single-source and not corroborated."
+      },
+      {
+        "name": "Johnny Coles",
+        "instrument": "flugelhorn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic additionally credits trumpet; other sources specify flugelhorn only."
+      },
+      {
+        "name": "Garnett Brown",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Henderson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic credits Flute and Sax (Tenor); Wikipedia specifies tenor saxophone and alto flute. 'Alto flute' is not in the instrument taxonomy; closest term is 'flute' and is noted here."
+      },
+      {
+        "name": "Buster Williams",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Credited as 'bass' in sources; taxonomy term 'double bass' used."
+      },
+      {
+        "name": "Albert \"Tootie\" Heath",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Tootie Heath"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Tony Studd",
+        "instrument": "bass trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          1,
+          2,
+          4
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jack Jeffers",
+        "instrument": "bass trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          3,
+          5
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Hubert Laws",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          1,
+          2,
+          4
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "bass clarinet",
+        "scope": "selected-tracks",
+        "tracks": [
+          1,
+          2,
+          4
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia lists bass clarinet (1, 2, 4) and flute (3, 5). Split into two personnel entries because different instruments on different tracks."
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          3,
+          5
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "See bass clarinet entry for this musician."
+      },
+      {
+        "name": "Romeo Penque",
+        "instrument": "bass clarinet",
+        "scope": "selected-tracks",
+        "tracks": [
+          3,
+          5
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Oren Waters",
+        "instrument": "vocals",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Credited as vocals on AllMusic and Hancock site, but no source specifies which tracks. Not listed in Wikipedia personnel."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "I Have a Dream",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:58",
+        "session_date": "1969-04-21",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Johnny Coles",
+          "Garnett Brown",
+          "Joe Henderson",
+          "Buster Williams",
+          "Albert \"Tootie\" Heath",
+          "Tony Studd",
+          "Hubert Laws",
+          "Jerome Richardson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Prisoner",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:57",
+        "session_date": "1969-04-18",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Johnny Coles",
+          "Garnett Brown",
+          "Joe Henderson",
+          "Buster Williams",
+          "Albert \"Tootie\" Heath",
+          "Tony Studd",
+          "Hubert Laws",
+          "Jerome Richardson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Firewater",
+        "track_number": 3,
+        "side": "B",
+        "duration": "7:33",
+        "session_date": "1969-04-23",
+        "composers": [
+          "C. B. Williams"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Johnny Coles",
+          "Garnett Brown",
+          "Joe Henderson",
+          "Buster Williams",
+          "Albert \"Tootie\" Heath",
+          "Jack Jeffers",
+          "Jerome Richardson",
+          "Romeo Penque"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "He Who Lives in Fear",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:51",
+        "session_date": "1969-04-18",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Johnny Coles",
+          "Garnett Brown",
+          "Joe Henderson",
+          "Buster Williams",
+          "Albert \"Tootie\" Heath",
+          "Tony Studd",
+          "Hubert Laws",
+          "Jerome Richardson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Promise of the Sun",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:52",
+        "session_date": "1969-04-23",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Johnny Coles",
+          "Garnett Brown",
+          "Joe Henderson",
+          "Buster Williams",
+          "Albert \"Tootie\" Heath",
+          "Jack Jeffers",
+          "Jerome Richardson",
+          "Romeo Penque"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "7111ef27-de81-378b-8f37-2215601f6e2f",
+    "apple_album_id": "1442939539",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/7111ef27-de81-378b-8f37-2215601f6e2f/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image for the release group; specific original 1969 pressing not confirmed."
+      }
+    ],
+    "notes": "Three sessions at Van Gelder Studio, Englewood Cliffs: April 18 (tracks 2, 4, 6), April 21 (track 1), April 23 (tracks 3, 5, 7) per S4. Tracks 6 and 7 are CD reissue bonus alternate takes and are excluded from the main tracks array. Wikipedia lists durations 10:58/7:57/7:33/6:51/7:52; Discogs lists 10:55/7:55/7:30/6:50/7:50. Wikipedia values used with conflict noted. 'Alto flute' (Henderson) not in taxonomy; closest term 'flute' used. Oren Waters vocal credit lacks track-level coverage. AllMusic additionally credits Johnny Coles with trumpet and Herbie Hancock with vocals; neither is corroborated by Wikipedia or Hancock site."
+  },
+  "ballot": {
+    "album": "Herbie Hancock \u2014 The Prisoner (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The Prisoner is a substantial acoustic large-ensemble post-bop statement, securely within scope despite Hancock's limited electric-piano use: its arranging language, instrumentation, and rhythmic foundation are neither fusion nor free jazz. Its nonet\u2014anchored by Hancock, Joe Henderson, Johnny Coles, Buster Williams, and Albert \"Tootie\" Heath, with Hubert Laws and unusually rich low-brass/woodwind coloring\u2014gives the session exceptional post-bop gravity (S1, S2, S4). As Hancock's final Blue Note studio album and a Martin Luther King Jr. tribute recorded in 1969, it compellingly extends the orchestrational concerns of Speak Like a Child toward the more exploratory work to come; Down Beat's 5/5, alongside AllMusic's and Rolling Stone Jazz Record Guide's 4/5 assessments, supports its stature.",
+    "case_against": "The record's critical consensus is appreciably less than overwhelming: Penguin's 3/5, and the absence of documented major core-list recognition or musician-citation evidence in the dossier, make it difficult to establish as a broadly acknowledged canon pillar rather than an admired Hancock deep cut. Its place in Hancock's acoustic legacy is also debatable, since Maiden Voyage, Empyrean Isles, and Speak Like a Child more clearly function as definitive and widely legible statements. The dense, somber, highly arranged program may reward listeners already invested in Hancock but is less immediately effective as a cold-entry discovery record, while its direct downstream influence is asserted more readily than documented.",
+    "disagreement": "Both references agree it is firmly in scope and that its session gravity, ambitious arranging, and transitional place in Hancock's arc are real strengths. They split on urgency: one regards the weak cross-tradition consensus and secondary status in Hancock's catalog as grounds for \"consider,\" while the other finds its historical and musical weight sufficient for \"strong.\"",
+    "recommendation": "The council proposes that John treat The Prisoner as a strong but genuinely debatable addition, hearing it against Speak Like a Child and Hancock's more universally established mid-1960s records before deciding.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

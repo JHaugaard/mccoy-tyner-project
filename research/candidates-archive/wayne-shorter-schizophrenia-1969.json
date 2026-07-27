@@ -1,0 +1,339 @@
+{
+  "id": "wayne-shorter-schizophrenia-1969",
+  "artist": "Wayne Shorter",
+  "album": "Schizophrenia",
+  "year": 1969,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Eleventh Wayne Shorter leader date and a key late-1960s Blue Note session. The front line of tenor saxophone, alto saxophone/flute, and trombone over the Hancock-Carter-Chambers rhythm section produces adventurous but grounded post-bop compositions that sit at the boundary with freer territory without crossing into fusion.",
+  "priority": "high",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wayne Shorter: Schizophrenia (AllMusic album page + credits)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/schizophrenia-mw0000172774"
+    },
+    "S2": {
+      "title": "Schizophrenia (Wayne Shorter album) - Wikipedia",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Schizophrenia_(Wayne_Shorter_album)"
+    },
+    "S3": {
+      "title": "Wayne Shorter \u2013 Schizophrenia \u2013 Vinyl (LP, Album, Stereo) [r492954] - Discogs",
+      "type": "web",
+      "url": "https://www.discogs.com/release/492954-Wayne-Shorter-Schizophrenia"
+    },
+    "S4": {
+      "title": "Release group \u201cSchizophrenia\u201d by Wayne Shorter - MusicBrainz",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/e50ca050-a814-37d3-926f-d8c3d268ded1"
+    },
+    "S5": {
+      "title": "iTunes Search API result for Wayne Shorter Schizophrenia",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Wayne%20Shorter%20Schizophrenia&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "Cover Art Archive - Schizophrenia release-group front cover",
+      "type": "api",
+      "url": "https://coverartarchive.org/release-group/e50ca050-a814-37d3-926f-d8c3d268ded1"
+    },
+    "S7": {
+      "title": "WAYNE SHORTER \"SCHIZOPHRENIA\" - Blue Note Records spotlight",
+      "type": "web",
+      "url": "https://www.bluenote.com/spotlight/wayne-shorter-schizophrenia/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1967-03-10"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Francis Wolff",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "James Spaulding",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": "Source credits also list flute; primary woodwind entry here is alto saxophone. Flute doubling noted on Kryptonite and other tracks in liner notes but not track-specific per available sources."
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": "Discogs credits list 'Bass'; Wikipedia specifies double bass."
+      },
+      {
+        "name": "Joe Chambers",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Tom Thumb",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:15",
+        "session_date": "1967-03-10",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Wayne Shorter",
+          "Curtis Fuller",
+          "James Spaulding",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Go",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:52",
+        "session_date": "1967-03-10",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Wayne Shorter",
+          "Curtis Fuller",
+          "James Spaulding",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Schizophrenia",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:59",
+        "session_date": "1967-03-10",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Wayne Shorter",
+          "Curtis Fuller",
+          "James Spaulding",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Kryptonite",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:25",
+        "session_date": "1967-03-10",
+        "composers": [
+          "James Spaulding"
+        ],
+        "personnel": [
+          "Wayne Shorter",
+          "Curtis Fuller",
+          "James Spaulding",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Miyako",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:55",
+        "session_date": "1967-03-10",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Wayne Shorter",
+          "Curtis Fuller",
+          "James Spaulding",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Playground",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:20",
+        "session_date": "1967-03-10",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Wayne Shorter",
+          "Curtis Fuller",
+          "James Spaulding",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "e50ca050-a814-37d3-926f-d8c3d268ded1",
+    "apple_album_id": "1444114218",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/56f468f8-ee8c-4c55-ab88-badc30a39e1f/7758134703.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "MusicBrainz release 56f468f8-ee8c-4c55-ab88-badc30a39e1f is the 1969 Blue Note US 12\" Vinyl (BST 84297) matched by catalog number and date."
+      }
+    ],
+    "notes": "Recorded 1967-03-10 and released May 1969 (Blue Note BST 84297). AllMusic and the iTunes Search API list a 1967-03-20 release date, which conflicts with the documented 1969 release date on Wikipedia, Discogs, Blue Note, and MusicBrainz; the 1967 date appears to reflect the recording/catalog date rather than the actual LP release. Track durations in the tracks array are taken from Discogs release r492954; Wikipedia gives slightly different timings for 'Go' (5:42 vs 4:52), 'Schizophrenia' (6:50 vs 6:59), 'Kryptonite' (6:29 vs 6:25), and 'Miyako' (5:00 vs 5:55). Side assignments (A1-A3 / B1-B3) are from Discogs release r492954. Liner notes by Leonard Feather; cover photo by John Zoiner."
+  },
+  "ballot": {
+    "album": "Wayne Shorter \u2014 Schizophrenia (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a fully acoustic, advanced post-bop Blue Note session with exceptional session gravity: Shorter, Curtis Fuller, James Spaulding, Herbie Hancock, Ron Carter, and Joe Chambers are documented across the date in the dossier (S2, S3, S7). Its three-horn writing and Shorter's mature compositions, especially \"Tom Thumb,\" \"Miyako,\" and the title piece, make it a vivid late-period statement of the sophisticated but still grounded 1960s Blue Note language. It also has real discovery value as the culminating acoustic edge of Shorter's Blue Note work before his move toward electric-era projects.",
+    "case_against": "The dossier supplies reliable discographical and label documentation, but no independent canon-list evidence such as Penguin, DownBeat, JazzTimes, NPR, or musician testimony establishing this particular album as a consensus essential. In Shorter's unusually deep Blue Note catalogue, Speak No Evil, JuJu, Night Dreamer, and Adam's Apple more often serve as the defining records; Schizophrenia can reasonably be heard as an excellent late consolidation rather than a uniquely load-bearing leap. Its two-year delay between the 1967 session and 1969 release also weakens the claim for immediate historical impact.",
+    "disagreement": "One reference judged the personnel, compositions, and late-Blue Note significance sufficient for consensus_core, while the other treated the missing independent consensus evidence and its secondary position within Shorter's catalogue as substantive reasons to withhold that tier.",
+    "recommendation": "The council proposes that John treat Schizophrenia as a strong contested candidate: hear it as a major late acoustic Shorter statement, while weighing whether it earns a place beyond his more universally defining Blue Note albums.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

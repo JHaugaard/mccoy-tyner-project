@@ -1,0 +1,401 @@
+{
+  "id": "woody-shaw-blackstone-legacy-1970",
+  "artist": "Woody Shaw",
+  "album": "Blackstone Legacy",
+  "year": 1970,
+  "label": "Contemporary Records",
+  "style_primary": "post-bop",
+  "rationale": "Woody Shaw's debut as a leader, recorded in December 1970 and released in 1971 on Contemporary. A landmark septet session that bridges hard-bop roots with the open, politically charged post-bop and early fusion currents of the early 1970s. Shaw is joined by Gary Bartz (alto/soprano saxophone), Bennie Maupin (tenor saxophone, bass clarinet, flute), George Cables (piano, electric piano), Ron Carter (double bass), Clint Houston (electric bass) and Lenny White (drums). AllMusic awards the album five stars and styles it as Hard Bop, Post-Bop, Modern Creative and Progressive Jazz; Wikipedia lists Post-bop and jazz fusion. The Penguin Guide gives a four-star rating and the Rolling Stone Jazz Record Guide four stars. The title track, the George Cables compositions 'Think On Me' and 'New World', and the tribute 'A Deed for Dolphy' are widely cited as key works in Shaw's early catalogue.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Woody Shaw: Blackstone Legacy \u2014 AllMusic album page (styles, recording date, review)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/blackstone-legacy-mw0000244299"
+    },
+    "S2": {
+      "title": "Blackstone Legacy \u2014 Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Blackstone_Legacy"
+    },
+    "S3": {
+      "title": "Woody Shaw Catalog \u2014 Blackstone Legacy sessionography",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/woody-shaw/catalog/#contemporary-s-7627-28"
+    },
+    "S4": {
+      "title": "Woody Shaw \u2013 Blackstone Legacy \u2014 Discogs master page",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/344637-Woody-Shaw-Blackstone-Legacy"
+    },
+    "S5": {
+      "title": "Blackstone Legacy by Woody Shaw \u2014 MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/fb2fbf8d-19d8-4a8c-ba5b-dd6594d14e9a"
+    },
+    "S6": {
+      "title": "Cover Art Archive \u2014 MusicBrainz release group fb2fbf8d-19d8-4a8c-ba5b-dd6594d14e9a",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/fb2fbf8d-19d8-4a8c-ba5b-dd6594d14e9a"
+    },
+    "S7": {
+      "title": "iTunes Search API \u2014 Woody Shaw Blackstone Legacy album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Woody+Shaw+Blackstone+Legacy&entity=album&limit=10"
+    },
+    "S8": {
+      "title": "Woody Shaw \u2013 Blackstone Legacy \u2014 Jazz Dispensary (liner notes/credits)",
+      "type": "liner-notes/credits",
+      "url": "https://jazzdispensary.com/discography/woody-shaw-blackstone-legacy/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-12-08",
+      "1970-12-09"
+    ],
+    "multi_session": true,
+    "studio": "A&R Studios, New York City",
+    "producer": "Lester Koenig",
+    "engineer": "Don Hahn",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Woody Shaw",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-12-08",
+          "1970-12-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "Leader. Composed all tracks except 'Think On Me' and 'New World' (George Cables)."
+      },
+      {
+        "name": "Gary Bartz",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-12-08",
+          "1970-12-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "Also plays soprano saxophone (S3, S8). S3 notes left-channel placement for alto and soprano."
+      },
+      {
+        "name": "Bennie Maupin",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-12-08",
+          "1970-12-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "Also plays bass clarinet and flute (S3, S8). S3 notes right-channel placement for tenor saxophone, bass clarinet and flute."
+      },
+      {
+        "name": "George Cables",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-12-08",
+          "1970-12-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "Also plays electric piano. Composed 'Think On Me' and 'New World' (S2, S3, S8)."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Think On Me",
+          "Lost and Found",
+          "New World",
+          "Boo-Ann's Grand",
+          "A Deed for Dolphy"
+        ],
+        "session_dates": [
+          "1970-12-08",
+          "1970-12-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "S3: left-channel bass on tracks 2-6. S8: bass on tracks B1 to D2. S2 lists only 'bass'; track coverage from S3/S8."
+      },
+      {
+        "name": "Clint Houston",
+        "instrument": "electric bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blackstone Legacy",
+          "Think On Me",
+          "New World",
+          "Boo-Ann's Grand",
+          "A Deed for Dolphy"
+        ],
+        "session_dates": [
+          "1970-12-08",
+          "1970-12-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "S3: right-channel electric bass on tracks 1, 2, 4-6. S8: electric bass on tracks A, B1, C to D2."
+      },
+      {
+        "name": "Lenny White",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-12-08",
+          "1970-12-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Blackstone Legacy",
+        "track_number": 1,
+        "side": "A",
+        "duration": "16:08",
+        "session_date": "1970-12-08",
+        "composers": [
+          "Woody Shaw"
+        ],
+        "personnel": [
+          "Woody Shaw",
+          "Gary Bartz",
+          "Bennie Maupin",
+          "George Cables",
+          "Clint Houston",
+          "Lenny White"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S8"
+        ]
+      },
+      {
+        "title": "Think On Me",
+        "track_number": 2,
+        "side": "B",
+        "duration": "10:45",
+        "session_date": "1970-12-08",
+        "composers": [
+          "George Cables"
+        ],
+        "personnel": [
+          "Woody Shaw",
+          "Gary Bartz",
+          "Bennie Maupin",
+          "George Cables",
+          "Ron Carter",
+          "Clint Houston",
+          "Lenny White"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S8"
+        ]
+      },
+      {
+        "title": "Lost and Found",
+        "track_number": 3,
+        "side": "B",
+        "duration": "11:57",
+        "session_date": "1970-12-09",
+        "composers": [
+          "Woody Shaw"
+        ],
+        "personnel": [
+          "Woody Shaw",
+          "Gary Bartz",
+          "Bennie Maupin",
+          "George Cables",
+          "Ron Carter",
+          "Lenny White"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S8"
+        ]
+      },
+      {
+        "title": "New World",
+        "track_number": 4,
+        "side": "C",
+        "duration": "18:30",
+        "session_date": "1970-12-09",
+        "composers": [
+          "George Cables"
+        ],
+        "personnel": [
+          "Woody Shaw",
+          "Gary Bartz",
+          "Bennie Maupin",
+          "George Cables",
+          "Ron Carter",
+          "Clint Houston",
+          "Lenny White"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S8"
+        ]
+      },
+      {
+        "title": "Boo-Ann's Grand",
+        "track_number": 5,
+        "side": "D",
+        "duration": "14:25",
+        "session_date": "1970-12-09",
+        "composers": [
+          "Woody Shaw"
+        ],
+        "personnel": [
+          "Woody Shaw",
+          "Gary Bartz",
+          "Bennie Maupin",
+          "George Cables",
+          "Ron Carter",
+          "Clint Houston",
+          "Lenny White"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S8"
+        ]
+      },
+      {
+        "title": "A Deed for Dolphy",
+        "track_number": 6,
+        "side": "D",
+        "duration": "8:56",
+        "session_date": "1970-12-09",
+        "composers": [
+          "Woody Shaw"
+        ],
+        "personnel": [
+          "Woody Shaw",
+          "Gary Bartz",
+          "Bennie Maupin",
+          "George Cables",
+          "Ron Carter",
+          "Clint Houston",
+          "Lenny White"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S8"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "fb2fbf8d-19d8-4a8c-ba5b-dd6594d14e9a",
+    "apple_album_id": "1529347715",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/fb2fbf8d-19d8-4a8c-ba5b-dd6594d14e9a/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S5",
+          "S6"
+        ],
+        "notes": "Front cover approved in Cover Art Archive for the 1971 Contemporary 2\u00d7LP release (S6)."
+      }
+    ],
+    "notes": "Two-day session at A&R Studios, New York City, December 8-9, 1970 (S2, S3, S4, S8). Recorded in 1970 and released in 1971 on Contemporary S7627/8 (S2 infobox, S3, S5). Producer Lester Koenig (S2, S8); associate/co-producer John Koenig (S4, S8). Engineer Don Hahn credited as 'Recorded By' (S8), corroborated by AllAboutJazz review and YouTube metadata. Cover/design by George Kershaw (S4, S8). Liner notes by Nat Hentoff and Woody Shaw (S2, S8). AllMusic styles include Hard Bop, Post-Bop, Modern Creative, Progressive Jazz and Trumpet Jazz (S1); Wikipedia genres are Post-bop and jazz fusion (S2). style_primary set to 'post-bop' because both sources name it and it fits the allowed taxonomy. Durations vary slightly across sources: Wikipedia (used here), Discogs, and the iTunes/Apple Music reissue all differ by a few seconds; these are reissue-transfer variations, not alternate takes. The album is a 2\u00d7LP; side assignments follow the original Contemporary release (A/B1/B2/C/D1/D2). No alternate takes or bonus tracks on the original release."
+  },
+  "ballot": {
+    "album": "Woody Shaw \u2014 Blackstone Legacy (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1970 recording date is in range, but the fusion exclusion is a genuine boundary: the dossier documents electric piano and electric bass and notes Wikipedia's jazz-fusion classification, even though the music is also classified post-bop and does not appear to be organized around electric-rock backbeat."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Shaw's leader debut is an unusually ambitious, large-scale statement of early-1970s post-bop, with long original compositions that extend hard-bop and modal language into a more open, politically alert setting. Its documented personnel\u2014Gary Bartz, Bennie Maupin, George Cables, Ron Carter, Clint Houston, and Lenny White\u2014gives the date exceptional session gravity, connecting 1960s post-bop to the emerging decade's major players (S2, S3, S8). The dossier also reports strong critical standing across AllMusic, the Penguin Guide, and the Rolling Stone Jazz Record Guide, while the Shaw and Cables compositions make it a substantial discovery record rather than merely an all-star session (S1; dossier rationale).",
+    "case_against": "The record's electric piano and dual acoustic/electric-bass texture, plus its jazz-fusion classification in Wikipedia, make it difficult to separate cleanly from the rubric's excluded fusion territory (S2, S3, S8). The dossier's strongest consensus evidence is largely ratings claims rather than independently documented placement on major canon lists or specific evidence of downstream influence; acclaim alone does not establish that this is a load-bearing post-bebop album. Its expansive two-LP format and early-1970s stylistic hybridity may also make it a less immediately representative entry point than Shaw's more unanimously identified landmarks.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John first rule on whether its electric, fusion-adjacent palette remains subordinate to post-bop continuity, then weigh it as a strong Shaw statement.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

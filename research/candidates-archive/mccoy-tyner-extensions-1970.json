@@ -1,0 +1,286 @@
+{
+  "id": "mccoy-tyner-extensions-1970",
+  "artist": "McCoy Tyner",
+  "album": "Extensions",
+  "year": 1970,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "All-star 1970 Blue Note sextet session pairing McCoy Tyner with Wayne Shorter, Gary Bartz, Ron Carter, Elvin Jones, and Alice Coltrane on harp. AllMusic and Wikipedia tag the album as post-bop/modal; the AllMusic review explicitly describes the four Tyner originals as modal. It fits the post-bop/modal synthesis while remaining structured and pre-fusion.",
+  "priority": 1,
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "McCoy Tyner: Extensions Tracks & Reviews | AllMusic",
+      "type": "allmusic",
+      "url": "https://www.allmusic.com/album/extensions-mw0000183631"
+    },
+    "S2": {
+      "title": "Extensions (McCoy Tyner album) - Wikipedia",
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Extensions_(McCoy_Tyner_album)"
+    },
+    "S3": {
+      "title": "McCoy Tyner \u2013 Extensions \u2013 Vinyl (LP, Album, Stereo), 1972 [r1052701] | Discogs",
+      "type": "discogs",
+      "url": "https://www.discogs.com/release/1052701-McCoy-Tyner-Extensions"
+    },
+    "S4": {
+      "title": "Release group \u201cExtensions\u201d by McCoy Tyner - MusicBrainz",
+      "type": "musicbrainz",
+      "url": "https://musicbrainz.org/release-group/18c5a0bc-0663-3066-8f74-66be69ee1a30"
+    },
+    "S5": {
+      "title": "iTunes Search API: McCoy Tyner Extensions",
+      "type": "itunes",
+      "url": "https://itunes.apple.com/search?term=McCoy%20Tyner%20Extensions&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "Cover Art Archive: Extensions release group",
+      "type": "cover-art-archive",
+      "url": "https://coverartarchive.org/release-group/18c5a0bc-0663-3066-8f74-66be69ee1a30"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-02-09"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Duke Pearson",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also composer and primary artist per S1 and S3."
+      },
+      {
+        "name": "Gary Bartz",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays soprano saxophone per S1, S2, and S3."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "S1 lists 'Bass' and 'Bass (Acoustic)'; S3 lists 'Acoustic Bass'. Mapped to taxonomy 'double bass'."
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Alice Coltrane",
+        "instrument": "harp",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Message from the Nile",
+          "Survival Blues",
+          "His Blessings"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "S2 explicitly states harp on tracks 1, 3 & 4. S3 lists 'Harp' without track breakdown. Taxonomy includes 'harp'."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Message from the Nile",
+        "track_number": 1,
+        "side": "A",
+        "duration": "12:22",
+        "session_date": "1970-02-09",
+        "composers": [
+          "McCoy Tyner"
+        ],
+        "personnel": [
+          "McCoy Tyner",
+          "Gary Bartz",
+          "Wayne Shorter",
+          "Ron Carter",
+          "Elvin Jones",
+          "Alice Coltrane"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Wanderer",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:43",
+        "session_date": "1970-02-09",
+        "composers": [
+          "McCoy Tyner"
+        ],
+        "personnel": [
+          "McCoy Tyner",
+          "Gary Bartz",
+          "Wayne Shorter",
+          "Ron Carter",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Survival Blues",
+        "track_number": 3,
+        "side": "B",
+        "duration": "13:15",
+        "session_date": "1970-02-09",
+        "composers": [
+          "McCoy Tyner"
+        ],
+        "personnel": [
+          "McCoy Tyner",
+          "Gary Bartz",
+          "Wayne Shorter",
+          "Ron Carter",
+          "Elvin Jones",
+          "Alice Coltrane"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "His Blessings",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:50",
+        "session_date": "1970-02-09",
+        "composers": [
+          "McCoy Tyner"
+        ],
+        "personnel": [
+          "McCoy Tyner",
+          "Gary Bartz",
+          "Wayne Shorter",
+          "Ron Carter",
+          "Elvin Jones",
+          "Alice Coltrane"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "18c5a0bc-0663-3066-8f74-66be69ee1a30",
+    "apple_album_id": "725529497",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/9a2f8c51-2321-4bdd-8d5b-2984a121f967/27704936421.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original 1972 Blue Note front cover matched to MusicBrainz release 9a2f8c51-2321-4bdd-8d5b-2984a121f967 (US LP, BN-LA006-F)."
+      }
+    ],
+    "notes": "Single session recorded February 9, 1970 at Van Gelder Studio, Englewood Cliffs, NJ. Released 1972 (Discogs first pressing) / January 1973 (Wikipedia). Producer conflict: S2 (Wikipedia) and S3 (Discogs r1052701) credit Duke Pearson; S1 (AllMusic) credits Francis Wolff. epistemic_production set to 'unk' and the majority claim recorded; unresolved. Track durations use S2's listing; S3 gives slightly different timings (12:10, 7:35, 13:02, 6:41). Liner notes by Andr\u00e9 Perry; cover photography by Clifford Janoff per S2/S3."
+  },
+  "ballot": {
+    "album": "McCoy Tyner \u2014 Extensions (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is an exceptional acoustic post-bop/modal summit: Tyner and Elvin Jones from the classic Coltrane Quartet join Wayne Shorter and Ron Carter, with Gary Bartz and Alice Coltrane's harp lending the date a singular texture (S1\u2013S3). Its four extended Tyner originals sustain the late-1960s modal vocabulary in a structured, forceful form rather than moving into fusion or free jazz; AllMusic explicitly characterizes the music as modal (S1). The personnel and music make it a vivid document of how post-bop expanded into the spiritual/modal acoustic jazz of the early 1970s, with substantial discovery value.",
+    "case_against": "The dossier supplies little evidence of the cross-publication consensus that the rubric ranks above session gravity: its sources are principally AllMusic and discographic databases, not Penguin, DownBeat, JazzTimes, NPR, or comparable canon-making traditions. Extensions is also not clearly Tyner's defining statement; The Real McCoy and Sahara have substantially stronger claims to that role, making this a potentially excellent adjacent entry rather than an indispensable one. Its delayed 1972/1973 release after the 1970 session further complicates the claim that Blue Note regarded it as a flagship contemporary statement (S2\u2013S3).",
+    "disagreement": "The references agree that the album is securely in scope and that its personnel and musical quality are formidable, but split on tier: one treats the session gravity and execution as sufficient for consensus_core, while the other holds that absent independent canon-list evidence and a clear defining-statement claim, it should not receive that level of certainty.",
+    "recommendation": "The council proposes that John treat Extensions as a strong contested candidate, prioritizing a listening decision and seeking independent critical-consensus evidence before elevating it to core status.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

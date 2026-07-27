@@ -1,0 +1,450 @@
+{
+  "id": "stanley-turrentine-sugar-1970",
+  "artist": "Stanley Turrentine",
+  "album": "Sugar",
+  "year": 1970,
+  "label": "CTI",
+  "style_primary": "soul-jazz",
+  "style_tags": [
+    "soul-jazz",
+    "hard-bop"
+  ],
+  "rationale": "obs[S2]: Wikipedia identifies Sugar as Turrentine's first CTI album, a commercial and critical landmark featuring a crossover soul-jazz lineup with Freddie Hubbard, George Benson, and Ron Carter. obs[S1]: AllMusic styles the album as Soul Jazz / Hard Bop / Saxophone Jazz and highlights its midnight-blue groove and CTI-era importance. obs[S3]: JazzDisco catalogs the CTI 6005 session as a core 1971 release. inf: The album fits the soul-jazz/hard-bop canon window as a high-profile CTI debut that bridges hard-bop soloing with groove-oriented soul-jazz production.",
+  "priority": "high",
+  "epistemic": "obs",
+  "overlap_risk": "",
+  "scope_flag": "",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "Stanley Turrentine: Sugar Tracks & Reviews | AllMusic",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/sugar-mw0000649760"
+    },
+    "S2": {
+      "title": "Sugar (Stanley Turrentine album) - Wikipedia",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Sugar_(Stanley_Turrentine_album)"
+    },
+    "S3": {
+      "title": "Stanley Turrentine Catalog - JazzDisco.org (CTI 6005 session)",
+      "type": "web",
+      "url": "http://www.jazzdisco.org/stanley-turrentine/catalog/#cti-6005"
+    },
+    "S4": {
+      "title": "Stanley Turrentine \u2013 Sugar | Releases | Discogs",
+      "type": "web",
+      "url": "https://www.discogs.com/master/155626-Stanley-Turrentine-Sugar"
+    },
+    "S5": {
+      "title": "MusicBrainz release group: Sugar - Stanley Turrentine",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/e3d3987f-a55c-3db4-b1fb-2aeea0d2950b"
+    },
+    "S6": {
+      "title": "iTunes Search/Lookup API - Sugar (40th Anniversary Edition)",
+      "type": "api",
+      "url": "https://itunes.apple.com/lookup?id=394275529"
+    },
+    "S7": {
+      "title": "Cover Art Archive - Sugar release group front cover",
+      "type": "api",
+      "url": "https://coverartarchive.org/release-group/e3d3987f-a55c-3db4-b1fb-2aeea0d2950b/front"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-11"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Creed Taylor",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Stanley Turrentine",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader / primary artist."
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Benson",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Kaye",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sugar",
+          "Sunshine Alley",
+          "Impressions",
+          "Gibraltar"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Studio session only; not on live bonus track."
+      },
+      {
+        "name": "Lonnie Liston Smith",
+        "instrument": "electric piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sugar",
+          "Gibraltar"
+        ],
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Lonnie L. Smith Jr.",
+          "Dr. Lonnie Smith"
+        ],
+        "notes": "S2 (Wikipedia) explicitly assigns electric piano to tracks 1 and 4. S3 (JazzDisco) and S4 (Discogs) list Smith in the session roster without per-track detail. S1 (AllMusic) lists 'Dr. Lonnie Smith' as Piano (Electric)."
+      },
+      {
+        "name": "Butch Cornell",
+        "instrument": "organ",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sunshine Alley",
+          "Impressions"
+        ],
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "S2 (Wikipedia) explicitly assigns organ to tracks 2 and 3. S3 (JazzDisco) and S4 (Discogs) list Cornell in the session roster without per-track detail. S1 (AllMusic) lists Cornell as Organ."
+      },
+      {
+        "name": "Richard Pablo Landrum",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sunshine Alley",
+          "Impressions",
+          "Gibraltar"
+        ],
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Richard \"Pablo\" Landrum",
+          "Pablo Landrum"
+        ],
+        "notes": "S2 (Wikipedia) explicitly assigns congas to tracks 2, 3, and 4. S3 (JazzDisco) lists 'Richard \"Pablo\" Landrum, conga' in the session roster without per-track detail. S1 (AllMusic) lists 'Richard Landrum' as Congas."
+      },
+      {
+        "name": "Hubert Laws",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sugar [Live]"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Live bonus track only."
+      },
+      {
+        "name": "Johnny Hammond Smith",
+        "instrument": "organ",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sugar [Live]"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Johnny \"Hammond\" Smith"
+        ],
+        "notes": "Live bonus track only; S2 says organ and electric piano."
+      },
+      {
+        "name": "Billy Cobham",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sugar [Live]"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Live bonus track only."
+      },
+      {
+        "name": "Airto Moreira",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Sugar [Live]"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Airto"
+        ],
+        "notes": "Live bonus track only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Sugar",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:03",
+        "session_date": "1970-11",
+        "composers": [
+          "Stanley Turrentine"
+        ],
+        "personnel": [
+          "Stanley Turrentine",
+          "Freddie Hubbard",
+          "George Benson",
+          "Ron Carter",
+          "Billy Kaye",
+          "Lonnie Liston Smith"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Sunshine Alley",
+        "track_number": 2,
+        "side": "A",
+        "duration": "10:48",
+        "session_date": "1970-11",
+        "composers": [
+          "Butch Cornell"
+        ],
+        "personnel": [
+          "Stanley Turrentine",
+          "Freddie Hubbard",
+          "George Benson",
+          "Ron Carter",
+          "Billy Kaye",
+          "Butch Cornell",
+          "Richard Pablo Landrum"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Impressions",
+        "track_number": 3,
+        "side": "B",
+        "duration": "14:14",
+        "session_date": "1970-11",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Stanley Turrentine",
+          "Freddie Hubbard",
+          "George Benson",
+          "Ron Carter",
+          "Billy Kaye",
+          "Butch Cornell",
+          "Richard Pablo Landrum"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Gibraltar",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:35",
+        "session_date": "1970-11",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Stanley Turrentine",
+          "Freddie Hubbard",
+          "George Benson",
+          "Ron Carter",
+          "Billy Kaye",
+          "Lonnie Liston Smith",
+          "Richard Pablo Landrum"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Sugar [Live]",
+        "track_number": 5,
+        "side": null,
+        "duration": "14:29",
+        "session_date": "1971-07",
+        "composers": [
+          "Stanley Turrentine"
+        ],
+        "personnel": [
+          "Stanley Turrentine",
+          "Freddie Hubbard",
+          "Hubert Laws",
+          "Johnny Hammond Smith",
+          "George Benson",
+          "Ron Carter",
+          "Billy Cobham",
+          "Airto Moreira"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "e3d3987f-a55c-3db4-b1fb-2aeea0d2950b",
+    "apple_album_id": "394275529",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/e3d3987f-a55c-3db4-b1fb-2aeea0d2950b/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front for the MusicBrainz release group."
+      }
+    ],
+    "notes": "Two sessions: studio session at Van Gelder Studio, Englewood Cliffs, NJ in November 1970 (tracks 1-4); live bonus track recorded in Los Angeles in July 1971 (track 5). Unresolved conflicts: (1) S2 track-listing note says live track recorded at Southgate Palace on July 19, 1971, while S2 infobox says Hollywood Palladium on July 18, 1971. (2) S2 gives explicit per-track keyboard/percussion assignments (Lonnie Liston Smith on tracks 1,4; Butch Cornell on tracks 2,3; Landrum on tracks 2,3,4) whereas S3 and S4 list all session musicians together without track distinction. Track assignments marked unk and track_assignments_complete=false. (3) Durations: S2 says 10:03/10:48/14:14/9:35/14:29; S4 lists 10:00/11:00/15:30 for the first three tracks. Production credits: producer Creed Taylor from S2; engineer Rudy Van Gelder from S1 and S4; studio from S1/S2/S4. Other credits from S1/S4: cover photo Pete Turner, photography Chuck Stewart, liner notes Ira Gitler, design Elton Robinson, reissue producer Richard Seidel, mastering Mark Wilder."
+  },
+  "ballot": {
+    "album": "Stanley Turrentine \u2014 Sugar (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Sugar is a defining early-1970s soul-jazz/CTI statement: Turrentine's first CTI album, produced by Creed Taylor and engineered by Rudy Van Gelder, with a core studio band of Freddie Hubbard, George Benson, Ron Carter, Lonnie Liston Smith, and Butch Cornell (S1-S4). Its extended, blues-rooted grooves preserve substantial hard-bop soloing\u2014especially on the title piece, Coltrane's \"Impressions,\" and Hubbard's \"Gibraltar\"\u2014while making that language unusually immediate for a new listener. The session's personnel gravity and its polished but swinging CTI sound give it real value as a document of how post-bop players carried the tradition into the 1970s.",
+    "case_against": "The case for broad canon consensus is asserted more strongly than the dossier demonstrates: its sources establish style, session details, and reputation, but do not provide independent major-canon-list evidence or a robust account of influence. A strict post-bop canon could regard Sugar's vamp-based accessibility and crossover CTI sheen as an attractive branch of the tradition rather than a load-bearing artistic statement, especially beside Turrentine's tougher Blue Note work. The album's core personnel are well supported, but conflicting or incomplete track-level documentation also weakens the dossier's precision.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Sugar as a strong but genuinely debatable addition, especially if the canon intends to represent CTI-era soul-jazz as part of the continuing post-bop tradition.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

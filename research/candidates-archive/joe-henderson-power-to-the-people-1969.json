@@ -1,0 +1,362 @@
+{
+  "id": "joe-henderson-power-to-the-people-1969",
+  "artist": "Joe Henderson",
+  "album": "Power to the People",
+  "year": 1969,
+  "label": "Milestone",
+  "style_primary": "hard-bop",
+  "rationale": "Joe Henderson's first Milestone leader date after leaving Blue Note, recorded in May 1969 with a working band of Herbie Hancock, Ron Carter, and Jack DeJohnette at the cusp of their Miles Davis electric-band work, plus trumpeter Mike Lawrence on two tracks. The album blends Henderson's hard-bop tenor vocabulary with late-1960s electric textures, and includes durable Henderson originals ('Black Narcissus', 'Isotope', 'Power to the People') alongside Ron Carter's 'Opus One-Point-Five'. AllMusic and Wikipedia tag it hard bop/post-bop, with AllMusic also listing modal, soul-jazz, and fusion touches; MusicBrainz listeners tag it hard bop. The rhythm-section pedigree and the presence of tunes that became Henderson staples make it a strong candidate for the post-1965 hard-bop/post-bop seam.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Joe Henderson: Power to the People - AllMusic",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/power-to-the-people-mw0000004668"
+    },
+    "S2": {
+      "title": "Power to the People (Joe Henderson album) - Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Power_to_the_People_(Joe_Henderson_album)"
+    },
+    "S3": {
+      "title": "Joe Henderson - Power To The People (Milestone MSP 9024) - Discogs",
+      "type": "credits",
+      "url": "https://www.discogs.com/release/15828053-Joe-Henderson-Power-To-The-People"
+    },
+    "S4": {
+      "title": "Joe Henderson Discography & Chronology - JazzDiscography.com",
+      "type": "sessionography",
+      "url": "https://jazzdiscography.com/Artists/Henderson/JoeHenderson.php"
+    },
+    "S5": {
+      "title": "MusicBrainz Release Group - Power to the People by Joe Henderson",
+      "type": "identifiers",
+      "url": "https://musicbrainz.org/release-group/7f698111-ff1b-32ee-88b6-d1dac454d413"
+    },
+    "S6": {
+      "title": "iTunes Search API - Joe Henderson Power to the People",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Joe+Henderson+Power+to+the+People+1969&entity=album&limit=10"
+    },
+    "S7": {
+      "title": "Cover Art Archive - Power to the People release group",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/7f698111-ff1b-32ee-88b6-d1dac454d413"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1969-05-23",
+      "1969-05-29"
+    ],
+    "multi_session": true,
+    "studio": "Plaza Sound Studios, New York City",
+    "producer": "Orrin Keepnews",
+    "engineer": "George Sawtelle",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Joe Henderson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-05-23",
+          "1969-05-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Mike Lawrence",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Afro-Centric",
+          "Power to the People"
+        ],
+        "session_dates": [
+          "1969-05-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Black Narcissus",
+          "Afro-Centric",
+          "Opus One-Point-Five",
+          "Isotope",
+          "Lazy Afternoon"
+        ],
+        "session_dates": [
+          "1969-05-23",
+          "1969-05-29"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S4",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia/Discogs credit Hancock on all tracks (piano on 3,4,6; Fender Rhodes/electric piano on 1,2,5). JazzDiscography (S4) omits Hancock entirely on tracks 5 (Power to the People) and 7 (Foresight and Afterthought), and lists him on electric piano only on track 1 (Black Narcissus). Also doubles electric piano (Fender Rhodes) on tracks 1, 2, 5 per S2/S3, conflicting with S4 on track 5. Marked unk pending liner-note verification."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-05-23",
+          "1969-05-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles electric bass on tracks 2 (Afro-Centric) and 5 (Power to the People) per S4/S2/S3."
+      },
+      {
+        "name": "Jack DeJohnette",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-05-23",
+          "1969-05-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Black Narcissus",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:46",
+        "session_date": "1969-05-29",
+        "composers": [
+          "Joe Henderson"
+        ],
+        "personnel": [
+          "Joe Henderson",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4",
+          "S3"
+        ]
+      },
+      {
+        "title": "Afro-Centric",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:02",
+        "session_date": "1969-05-23",
+        "composers": [
+          "Joe Henderson"
+        ],
+        "personnel": [
+          "Joe Henderson",
+          "Mike Lawrence",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4",
+          "S3"
+        ]
+      },
+      {
+        "title": "Opus One-Point-Five",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:55",
+        "session_date": "1969-05-29",
+        "composers": [
+          "Ron Carter"
+        ],
+        "personnel": [
+          "Joe Henderson",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4",
+          "S3"
+        ]
+      },
+      {
+        "title": "Isotope",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:51",
+        "session_date": "1969-05-29",
+        "composers": [
+          "Joe Henderson"
+        ],
+        "personnel": [
+          "Joe Henderson",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4",
+          "S3"
+        ]
+      },
+      {
+        "title": "Power to the People",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:39",
+        "session_date": "1969-05-23",
+        "composers": [
+          "Joe Henderson"
+        ],
+        "personnel": [
+          "Joe Henderson",
+          "Mike Lawrence",
+          "Ron Carter",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S4",
+          "S3",
+          "S2"
+        ]
+      },
+      {
+        "title": "Lazy Afternoon",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:31",
+        "session_date": "1969-05-29",
+        "composers": [
+          "John Latouche",
+          "Jerome Moross"
+        ],
+        "personnel": [
+          "Joe Henderson",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4",
+          "S3"
+        ]
+      },
+      {
+        "title": "Foresight and Afterthought (An Impromptu Suite in Three Movements)",
+        "track_number": 7,
+        "side": "B",
+        "duration": "7:31",
+        "session_date": "1969-05-29",
+        "composers": [
+          "Joe Henderson"
+        ],
+        "personnel": [
+          "Joe Henderson",
+          "Ron Carter",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S4",
+          "S3",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "7f698111-ff1b-32ee-88b6-d1dac454d413",
+    "apple_album_id": "1443217967",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/7f698111-ff1b-32ee-88b6-d1dac454d413/front",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive returned a front image for the release group; likely original 1969 Milestone cover but pressing not individually verified."
+      }
+    ],
+    "notes": "Two sessions at Plaza Sound Studios: 1969-05-23 (tracks 2, 5) and 1969-05-29 (tracks 1, 3, 4, 6, 7). Producer Orrin Keepnews and engineer George Sawtelle per S3; studio and dates corroborated by S1, S2, S4. Unresolved source conflict: Herbie Hancock's keyboard presence. S4 (JazzDiscography) omits Hancock on tracks 5 and 7 and uses electric piano only on track 1, while S2 (Wikipedia) and S3 (Discogs) credit him on all tracks (piano on 3,4,6; Fender Rhodes/electric piano on 1,2,5). Carter's electric bass on tracks 2 and 5 is agreed across S2, S3, S4. Wikipedia notes this as the first appearance of electric instruments on a Henderson album. Durations taken from S3; S2 gives slightly different timings (e.g., 4:50 vs 4:46 for track 1)."
+  },
+  "ballot": {
+    "album": "Joe Henderson \u2014 Power to the People (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Henderson's first Milestone leader date is an unusually potent late-1960s post-bop document: his tenor is joined by Herbie Hancock, Ron Carter, and Jack DeJohnette, with Mike Lawrence on two tracks (S2-S4). The program preserves a sophisticated acoustic post-bop language while selectively using Rhodes and electric bass, and it contains enduring Henderson repertoire including \"Black Narcissus\" and \"Isotope.\" Its personnel and its position at the meeting point of Henderson's Blue Note-era writing and the Hancock-Carter-DeJohnette rhythm-section language give it substantial lineage and discovery value.",
+    "case_against": "The dossier establishes the date, credits, and stylistic tags, but it supplies no independent canon-list, critical, or musician-testimony evidence that this album has the consensus standing of Henderson's most universally recognized statements. It can reasonably be heard as a strong transitional session rather than a singular defining Henderson album: its electric color is exploratory, its aesthetic identity is less concentrated than his major Blue Note records, and the exact Hancock track assignments remain unresolved between JazzDiscography and Wikipedia/Discogs (S2-S4). The presence of durable tunes and elite personnel alone does not prove that the album itself is load-bearing.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat it as a strong, evidence-worthy post-bop candidate, while verifying broader critical consensus and the unresolved keyboard credits before deciding.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}
