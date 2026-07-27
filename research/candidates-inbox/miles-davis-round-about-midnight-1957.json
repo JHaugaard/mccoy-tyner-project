@@ -1,0 +1,303 @@
+{
+  "id": "miles-davis-round-about-midnight-1957",
+  "artist": "Miles Davis",
+  "album": "'Round About Midnight",
+  "year": 1957,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "rationale": "Miles Davis's Columbia debut and the first studio album of the First Great Quintet (Davis, Coltrane, Garland, Chambers, Philly Joe Jones) \u2014 the band whose Prestige marathon and Kind of Blue lineage anchor the late-50s canon. The title track's definitive reading of Monk's standard and the band's rendition of 'Bye Bye Blackbird' are era-defining performances; consensus across AllMusic (5 stars), DownBeat (5 stars), Rolling Stone (5 stars), and MusicHound, with a documented dissent from the Penguin Guide (3 stars, 'footnote to the Prestige sessions') preserved rather than smoothed over.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: 'Round About Midnight",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/%27Round_About_Midnight"
+    },
+    "S2": {
+      "title": "AllMusic: 'Round About Midnight (Thom Jurek)",
+      "type": "credits_review",
+      "url": "https://www.allmusic.com/album/round-about-midnight-mw0000649471"
+    },
+    "S3": {
+      "title": "iTunes Search API: 'Round About Midnight (Mono Version)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Round+About+Midnight&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/6477da93-2286-4919-a898-031caa34c307"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/6477da93-2286-4919-a898-031caa34c307"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1955-10-26",
+      "1956-06-05",
+      "1956-09-10"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York (first session at Columbia Studio D per Wikipedia; AllMusic also lists 799 Seventh Avenue Studio)",
+    "producer": "George Avakian",
+    "engineer": "Frank Laico",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Red Garland",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "'Round Midnight",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:58",
+        "session_date": "1956-09-10",
+        "composers": [
+          "Thelonious Monk",
+          "Bernie Hanighen",
+          "Cootie Williams"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ah-Leu-Cha",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:53",
+        "session_date": "1955-10-26",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "All of You",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:03",
+        "session_date": "1956-09-10",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Bye Bye Blackbird",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:57",
+        "session_date": "1956-06-05",
+        "composers": [
+          "Mort Dixon",
+          "Ray Henderson"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Tadd's Delight",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:29",
+        "session_date": "1956-06-05",
+        "composers": [
+          "Tadd Dameron"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Dear Old Stockholm",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:52",
+        "session_date": "1956-06-05",
+        "composers": [
+          "Traditional",
+          "Stan Getz (arr.)"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "6477da93-2286-4919-a898-031caa34c307",
+    "apple_album_id": "832081417",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/30392b21-44b8-3c9b-afd1-fe18d579e756/5813692063.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front cover on the release-group's canonical release; pressing matched by title+artist+year, original 1957 pressing not individually confirmed."
+      }
+    ],
+    "notes": "Three sessions: Oct 26 1955 (Ah-Leu-Cha, first studio recording of the quintet, at Studio D per Wikipedia), June 5 1956 (Dear Old Stockholm, Bye Bye Blackbird, Tadd's Delight), Sept 10 1956 (All of You, 'Round Midnight). Source conflict: AllMusic lists recording dates as 'October 27, 1955 & June 5, 1956' (day 26 vs 27, and omits the Sept 10 session) \u2014 Wikipedia's per-session detail, citing Porter's John Coltrane Reference, is used. Released March 4, 1957 (year recorded as release year). Album year sometimes cited as 1956; sessionography and label both give 1957 release. Same quintet on all six tracks; no guests on the original LP. Reissue bonus/live tracks (Newport 1955 jam with Monk, Mulligan, Sims, Heath, Kay) excluded as reissue-only."
+  },
+  "ballot": {
+    "album": "Miles Davis \u2014 'Round About Midnight (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Miles Davis's Columbia debut documents the First Great Quintet\u2014Davis, John Coltrane, Red Garland, Paul Chambers, and Philly Joe Jones\u2014at a point when that personnel network was defining late-1950s small-group jazz. Its readings of Monk's \"'Round Midnight\" and \"Bye Bye Blackbird\" are enduring statements of Davis's lyrical, muted-trumpet voice and provide an especially clear discovery entry into hard bop's relation to bebop. The dossier reports strong critical consensus from AllMusic, DownBeat, Rolling Stone, and MusicHound, while its complete original-LP personnel and session detail substantiate the date's exceptional session gravity.",
+    "case_against": "The serious dissent is the Penguin Guide's reported three-star judgment that the album is a \"footnote to the Prestige sessions.\" Recorded piecemeal across three sessions from October 1955 through September 1956, rather than as a unified project, it can seem less cohesive and less representative of the quintet's working-band force than the contemporaneous Prestige marathon albums. The dossier's high-rating consensus is asserted in its rationale rather than documented through direct review excerpts or links for DownBeat, Rolling Stone, and MusicHound, so that consensus signal is not as fully sourced as it could be.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat this as a must-have consensus-core record, while retaining the Prestige-session cohesion objection as meaningful critical context.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

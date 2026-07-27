@@ -1,0 +1,348 @@
+{
+  "id": "thelonious-monk-monks-dream-1963",
+  "artist": "Thelonious Monk",
+  "album": "Monk's Dream",
+  "year": 1963,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "rationale": "Monk's Columbia debut and the first studio document of his classic 1960s quartet with Charlie Rouse, John Ore, and Frankie Dunlop \u2014 the working band that carried his music through its widest-recognition decade. DownBeat's Pete Welding gave it five stars as 'a stunning reaffirmation of his powers as a performer and composer'; AllMusic likewise five stars, and the quartet chemistry Rouse/Dunlop show against Monk's angles is the record's defining argument. Brilliant Corners covers the compositional peak; this is the band-of-record peak.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Monk's Dream (Thelonious Monk album)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Monk%27s_Dream_(Thelonious_Monk_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Monk's Dream (Lindsay Planer)",
+      "type": "credits_review",
+      "url": "https://www.allmusic.com/album/monks-dream-mw0000188438"
+    },
+    "S3": {
+      "title": "iTunes Search API: Monk's Dream (Thelonious Monk Quartet)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Thelonious+Monk+Monk%27s+Dream&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/e592af5d-94e1-33a5-bc42-2a500a818c92"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/e592af5d-94e1-33a5-bc42-2a500a818c92"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-10-31",
+      "1962-11-01",
+      "1962-11-02",
+      "1962-11-06"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York",
+    "producer": "Teo Macero",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Solo (unaccompanied) on 'Body and Soul' and 'Just a Gigolo' per AllMusic review."
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Monk's Dream",
+          "Bright Mississippi",
+          "Five Spot Blues",
+          "Bolivar Blues",
+          "Bye-Ya",
+          "Sweet and Lovely"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Off the two solo-piano tracks."
+      },
+      {
+        "name": "John Ore",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Monk's Dream",
+          "Bright Mississippi",
+          "Five Spot Blues",
+          "Bolivar Blues",
+          "Bye-Ya",
+          "Sweet and Lovely"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Off the two solo-piano tracks."
+      },
+      {
+        "name": "Frankie Dunlop",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Monk's Dream",
+          "Bright Mississippi",
+          "Five Spot Blues",
+          "Bolivar Blues",
+          "Bye-Ya",
+          "Sweet and Lovely"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Off the two solo-piano tracks."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Monk's Dream",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:26",
+        "session_date": "1962-11-02",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Body and Soul",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:29",
+        "session_date": "1962-11-01",
+        "composers": [
+          "Edward Heyman",
+          "Robert Sour",
+          "Frank Eyton",
+          "Johnny Green"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Bright Mississippi",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:34",
+        "session_date": "1962-11-01",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Five Spot Blues",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:15",
+        "session_date": "1962-11-06",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Bolivar Blues",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:30",
+        "session_date": "1962-10-31",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Just a Gigolo",
+        "track_number": 6,
+        "side": "B",
+        "duration": "2:29",
+        "session_date": "1962-11-02",
+        "composers": [
+          "Julius Brammer",
+          "Irving Caesar",
+          "Leonello Casucci"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Bye-Ya",
+        "track_number": 7,
+        "side": "B",
+        "duration": "6:01",
+        "session_date": "1962-10-31",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sweet and Lovely",
+        "track_number": 8,
+        "side": "B",
+        "duration": "7:48",
+        "session_date": "1962-11-02",
+        "composers": [
+          "Gus Arnheim",
+          "Harry Tobias",
+          "Jules LeMare"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "e592af5d-94e1-33a5-bc42-2a500a818c92",
+    "apple_album_id": "207177629",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/deda3965-05e7-4dec-9f81-2879bd61729c/12695370791.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front image on the release-group's canonical release; matched by title+artist+year, original 1963 Columbia pressing not individually confirmed."
+      }
+    ],
+    "notes": "Four sessions at Columbia 30th Street: Oct 31 1962 (Bye-Ya, Bolivar Blues), Nov 1 (Body and Soul, Bright Mississippi), Nov 2 (Sweet and Lovely, Just a Gigolo, Monk's Dream), Nov 6 (Five Spot Blues). Engineer not credited in any source consulted \u2014 explicit null. Album recorded Oct-Nov 1962, released January 1963 (year recorded as release year; AllMusic lists release year 1962). 'Bright Mississippi' is the only composition Monk had not previously recorded. 2002-reissue alternate takes excluded."
+  },
+  "ballot": {
+    "album": "Thelonious Monk \u2014 Monk's Dream (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Monk's Dream is a definitive document of Monk's durable 1960s working quartet: Monk, Charlie Rouse, John Ore, and Frankie Dunlop, recorded across four 1962 sessions at Columbia's 30th Street Studio with Teo Macero (S1, S2). Its combination of classic Monk themes, Rouse's unusually fluent command of Monk's angular language, and the two unaccompanied standards makes an accessible but musically complete entry into Monk's world. AllMusic awards five stars (S2), while the dossier reports a contemporary five-star DownBeat review by Pete Welding; the album's case is less compositional novelty than its exceptional realization of an established master band.",
+    "case_against": "This is substantially a retrospective statement: apart from \"Bright Mississippi,\" the Monk originals had been recorded before, alongside standards, so the album does not have the compositional breakthrough or forward-lineage claim of Monk's earlier Blue Note and Riverside landmarks. A strict canon could favor Brilliant Corners, the Coltrane date, or key early recordings as the albums that changed the music rather than this polished Columbia-era consolidation. The claimed DownBeat acclaim is not directly documented among the supplied source links, so the consensus case should not rest too heavily on it.",
+    "disagreement": null,
+    "recommendation": "The council proposes John treat Monk's Dream as a must-have core document of Monk's classic Rouse quartet, while recognizing that its importance is interpretive and band-defining rather than innovative.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}
