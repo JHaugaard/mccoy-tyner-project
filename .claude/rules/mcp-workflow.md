@@ -1,1 +1,1 @@
-/home/john/.claude/rules/mcp-workflow.md
+/home/john/.claude/rules/mcp-config.md

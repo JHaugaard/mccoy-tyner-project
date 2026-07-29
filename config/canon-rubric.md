@@ -3,7 +3,7 @@
 # Edit these lines to steer McCoy; no code or schema change is ever needed.
 year_min: 1940
 year_max: 1979
-excluded_styles: [free-jazz, fusion]
+excluded_styles: []     # opened 2026-07-28 — see "The opened genre gates" below
 drip_size: 2            # candidates per nightly drip
 backlog_cap: 10         # stop proposing when this many sit unreviewed
 min_sources: 3          # target sources per candidate (1 acceptable if complete+reliable)
@@ -66,12 +66,46 @@ strongest first:
   vocabulary = the fusion exclusion bites. 1973+ arrivals should lean
   **scope_call** or **contested** by default and name the boundary in
   the ballot; John rules.
-- **excluded_styles** are out even inside the window. Free Jazz: energy
-  music, full abstraction — Ascension, not A Love Supreme. Fusion:
-  electric-rock instrumentation and backbeat as the organizing idea —
-  Bitches Brew opens the door we don't walk through. Borderline modal /
-  avant records (Out to Lunch!, The Shape of Jazz to Come) are
-  **scope_call**, not auto-excluded: argue them, tier them, let John rule.
+- **The opened genre gates (2026-07-28).** `excluded_styles` is now empty:
+  free jazz, fusion, and the ECM catalogue are **admissible**, and each has
+  a dedicated specialist agent (`jazz-fusion-researcher`,
+  `jazz-free-jazz-researcher`, `jazz-ecm-researcher`). This is a *permeable
+  boundary*, not an annexation. The canon's center of gravity stays in the
+  post-bebop / hard-bop / modal tradition; these three gates exist to test
+  continuities the old blanket exclusions hid. Three standing rules:
+    1. **Arrivals from these three gates lean `scope_call` or `contested`
+       by default.** `consensus_core` from a newly opened gate needs an
+       exceptional for-case. Name the boundary in the ballot; John rules.
+    2. **The bridge test outranks the genre label.** Ask what a record
+       connects to — not what bin a source files it in. A fusion album
+       earns its place by being a load-bearing link in the lineage
+       (Miles' sidemen dispersing; the road toward Charles Lloyd and
+       Kamasi Washington), not by being good fusion.
+    3. **Incremental, not floodgate.** These gates open a few records at a
+       time. Do not propose a burst to "cover" a newly opened genre; the
+       drip pace in this file governs all three (see *The drip's pace*).
+  Borderline modal / avant records (*Out to Lunch!*, *The Shape of Jazz to
+  Come*) remain **scope_call**: argue them, tier them, let John rule.
+- **Free jazz — the standing taste note.** John has said plainly that free
+  jazz does not currently resonate with him, and that he is studying it
+  rather than dismissing it. Treat that as calibration, not as a veto:
+  propose the records that *teach* the idiom and connect to what is
+  already in the canon, argue them honestly, and expect a high cull rate.
+  Energy-music maximalism (*Machine Gun*, late Ayler) is admissible but
+  is the hardest case in the project — make the argument or don't propose it.
+- **Fusion — the anti-drift note.** This is not becoming a fusion canon.
+  Electric-rock instrumentation and backbeat as the organizing idea is
+  still a case-*against*, no longer an auto-exclusion. *Bitches Brew* (1970)
+  is now a candidate, argued, not a wall.
+- **ECM — window-bound for now.** The ECM gate runs **1969–1979 only**;
+  `year_max` stays at 1979 (John, 2026-07-28, deliberately a small step —
+  he expects to push the end date out later). ECM albums are judged on
+  continuity with the 1960s modal tradition, never accepted or rejected by
+  label or decade alone. *The Köln Concert* (1975) is the anchor.
+- **`excluded_styles` is prose-enforced.** `check-candidate.py` and
+  `stage-candidate.py` read `year_min`/`year_max` from this frontmatter and
+  nothing else. Style scope lives in agent and council judgment — this
+  section *is* the enforcement.
 - **No style quotas.** Sixty modal albums is fine if each earns its place.
   Never propose a weaker album to balance a genre.
 - **The drip's pace is deliberate (affirmed 2026-07-26).** The widened

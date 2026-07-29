@@ -1,43 +1,57 @@
 # Session Context
 
 ## Session Name
-schema-update
+new-agent-briefs
 
 ## Current Focus
-Execute `docs/handoffs/2026-07-26-ballot-fields-into-db.md` — promote council ballot
-prose (`case_for`, `case_against`) from dossier JSON into `_jazzcanon.album`, backfill
-the 21 ballot-bearing dossiers, patch the staging + embedding pipeline so future
-candidates carry the fields, and keep the site export unchanged.
 
-Indexed 2026-07-26, uuid `1cdf2f30-3aac-481a-a6bf-07c18eda970a`.
+Open the genre gates on the jazz canon. Three genres now admissible that no existing
+agent brief covers: **fusion**, **free jazz**, and **ECM**. Remit: develop briefs for
+these three categories (existing set lives in `research/agent-briefs/`).
 
 ## Honcho Context
-peer=john, reasoning_level=low. Confirms: `_jazzcanon` is the canonical schema and the
-site is a read-only consumer of exported JSON; the council produces a ballot
-(`tier`, `priority`, `case_for`, `case_against`) but include/reject stays John's;
-v1 albums without ballots keep NULL ballot fields rather than retrofitted judgments;
-schema changes go through real, reversible migrations that update the staging code in
-the same change and are verified against exports/search before being called complete.
 
-**Divergence noted:** Honcho recalls the documented semantic-search recommendation as
-Option B (a separate council-search surface), with "A now, B later" as fallback. The
-handoff's binding Answers section (John, 2026-07-26) directs Option A — append ballot
-text inside `embed.py`. Newer instruction wins; recording that it departs from the
-earlier written recommendation.
+peer=john, reasoning_level=low. John's position has evolved from "excluded" to
+"provisional, permeable gates":
+
+- **Fusion** — does not want the canon to become a fusion project, but a total exclusion
+  is too blunt: walling it off loses the **lineage/bridge to later jazz** (Kamasi Washington,
+  Charles Lloyd). Called his old "I don't understand it" rationale "lame."
+- **Free jazz** — personal taste remains cool; explicitly says it doesn't currently resonate.
+  But he is *studying* it rather than dismissing it, and asked how many free-jazz records
+  might be canon-worthy (~20 / 50 / 100). Gate opens **incrementally**.
+- **ECM** — the preferred middle path: a route from modal/post-bop into later, genre-fluid
+  music without leaping to fusion. Investigated specifically as **"modal jazz after 1970."**
+  Jarrett's *Köln Concert* is central — possibly his #2 after *Kind of Blue*, must eventually
+  enter the canon. ECM records arrive as **scope_call / contested**, judged on continuity
+  with the 1960s modal tradition — never accepted or rejected by label or decade alone.
+- **Year boundary** — 1940–1972 was acknowledged scaffolding; pushed to 1979 to let the
+  ECM-era bridge records be evaluated. Genre harness retained for now.
+
+Read: keep the canon's center of gravity in the jazz John understands and loves, but make
+the boundaries permeable enough to test important continuities.
+
+**Divergence noted:** this instruction departs from the CLAUDE.md scope gate ("no free jazz,
+no fusion") and the `config/canon-rubric.md` frontmatter `excluded_styles`. Flagged before
+proceeding; newer instruction wins and the rubric is being edited to match.
 
 ## Key Decisions
-- Columns: `case_for`, `case_against` only. No `council_tier` (duplicates
-  `album.canon_tier`), no new rationale column (`inclusion_rationale` already covers it).
-- DDL runs as `sudo -u postgres` (album is owned by `_jazzcanon_role`); backfill runs
-  as `_jazzcanon_app` with one `edit_log` row per album per field.
-- `embed.py` gets `--only-ids` for targeted regeneration; no `--force`, no hand-nulling
-  of `search_document`/`embedding`.
-- `v_album_search_source` left alone; report as suspected dead/drifted.
-- `v_album_detail` gets the two columns appended **after** `leader_name`.
-- 21 ballot dossiers (19 archive + 2 inbox), not 19.
+
+- **Deliverable = agent files + briefs.** All three existing briefs are marked
+  "Superseded 2026-06-11" by first-class agents in `~/.claude/agents/`. New work ships as
+  three dispatchable agent files *plus* matching design-history briefs, cross-linked like
+  the existing pairs.
+- **Rubric edited this session.** `excluded_styles: [free-jazz, fusion]` is the gate;
+  briefs alone would produce candidates the council rejects on sight.
+- **ECM scoped 1969–1979 only.** John chose the small step: `year_max: 1979` stays put.
+  He expects to push the end date out in coming weeks/months.
 
 ## Notes
-- Session started: 2026-07-26
 
-## Previous session (2026-07-15, `mccoy-build`) — carried-forward open items
+- Session started: 2026-07-28
+- `excluded_styles` is **prose-enforced only** — `check-candidate.py` and `stage-candidate.py`
+  parse `year_min`/`year_max` from the frontmatter but never read `excluded_styles`.
+  Style gating happens in agent/council judgment, not in code.
+
+## Previous session (2026-07-26, `schema-update`) — carried-forward open items
 - Deferred: per-line citation backfill; `_jazzcanon_ro` password rotation.

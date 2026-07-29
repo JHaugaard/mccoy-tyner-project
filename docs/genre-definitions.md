@@ -8,7 +8,7 @@ Working reference for the McCoy Tyner project. Rules evolve as the list develops
 
 ## On Eras (read first)
 
-The **Era** line under each genre is a *center of gravity, not a fence*. It tells you where the style clusters — it does **not** reject an album for landing a few years outside. The governing test is always the Test Question at the bottom (swings with structure, post-bebop, pre-fusion in spirit — **regardless of year**). Do not flag or down-rank a candidate for date alone; only the spirit test and the hard Out-of-Scope markers (pre-1949 bebop, free jazz, post-*Bitches Brew* fusion) exclude. When a record sits near an edge, keep it and note *why it belongs*, not *which year it missed*.
+The **Era** line under each genre is a *center of gravity, not a fence*. It tells you where the style clusters — it does **not** reject an album for landing a few years outside. The governing test is always the Test Question at the bottom (swings with structure, post-bebop, pre-fusion in spirit — **regardless of year**). Do not flag or down-rank a candidate for date alone; only the spirit test and the hard Out-of-Scope marker (pre-1949 bebop) exclude — free jazz and fusion moved from *excluded* to *gated* on 2026-07-28, see **The Opened Gates** below. When a record sits near an edge, keep it and note *why it belongs*, not *which year it missed*.
 
 ## In Scope
 
@@ -48,25 +48,70 @@ The **Era** line under each genre is a *center of gravity, not a fence*. It tell
 
 | Genre | Reason |
 |-------|--------|
-| Bebop (pre-1949) | Too early — the starting point, not part of the list |
-| Free Jazz | Too far outside structure (Ornette Coleman, late Coltrane post-1965) |
-| Fusion | Rock/funk elements cross the line (*Bitches Brew*, 1970, is the marker) |
+| Bebop (pre-1949) | Too early — the starting point, not part of the list. Transition records inside the 1940–1948 band are `scope_call`; see the rubric. |
+
+---
+
+## The Opened Gates (2026-07-28)
+
+**Free jazz and fusion are no longer out of scope.** `excluded_styles` in
+`config/canon-rubric.md` is now empty, and three specialists own the newly admissible
+territory. This is a *permeable boundary*, not an annexation — the canon's center of
+gravity stays in the post-bebop, hard-bop, and modal tradition.
+
+| Gate | Owner | Window | Governing test |
+|------|-------|--------|----------------|
+| Fusion / jazz-rock / jazz-funk | `jazz-fusion-researcher` | 1968–1979 | The **bridge test**: what does this record connect, on both ends? Excellent fusion is not by itself an argument. |
+| Free jazz / avant-garde / free improvisation | `jazz-free-jazz-researcher` | 1959–1979 | Does it **teach the idiom** and connect audibly to what is already in the canon? Every record also carries an honest `gateway` / `intermediate` / `demanding` rating. |
+| ECM Records (the label, 1969–1979) | `jazz-ecm-researcher` | 1969–1979 | **Continuity** with the 1960s modal tradition — and *would I make the same case if the label were not ECM?* |
+
+Three standing rules apply to all three:
+
+1. Arrivals from these gates lean **`scope_call` or `contested`** by default; `consensus_core`
+   needs an exceptional for-case, and the boundary is named in the ballot. John rules.
+2. **Incremental, not floodgate.** These gates open a few records at a time. No genre
+   advocacy, no proposing records to "cover" a newly opened style — style quotas remain
+   forbidden.
+3. **The ECM agent owns the label, not the aesthetic.** The fusion and free-jazz agents hand
+   every ECM release in the window to it and note the hand-off in their Gaps, so no record
+   gets argued twice from two directions.
+
+The full prose — including the free-jazz taste note and the fusion anti-drift note — lives in
+`config/canon-rubric.md` under *The opened genre gates*, which is authoritative over this file.
 
 ---
 
 ## The Fuzzy Edges
 
-- **Post-bop leaning avant-garde:** Does it still swing with structure? If yes, in. If it dissolves, out.
-- **Late modal jazz (1970s–80s):** McCoy Tyner's solo work, Keith Jarrett's Köln Concert — eligible. Evaluate whether it feels continuous with the 1960s modal tradition.
-- **Soul jazz:** Per-album judgment. Funky but pre-fusion = in. Starts incorporating rock = out.
+- **Post-bop leaning avant-garde:** *Out to Lunch!*, *Point of Departure*, the Blue Note avant
+  sides — shared between the modal and free-jazz specialists. Argue them as bridges, set
+  `overlap_risk`, let the council resolve.
+- **Late modal jazz (1970s–80s):** McCoy Tyner's solo work, Keith Jarrett's *Köln Concert* —
+  eligible. Evaluate whether it feels continuous with the 1960s modal tradition. Where the
+  record is an ECM release, check the ledger: the modal specialist keeps what it already
+  collected, and new seam records go to the ECM specialist.
+- **Soul jazz:** Per-album judgment. Funky but pre-fusion = modal/hard-bop territory. Once
+  rock and backbeat organize the record, it is the fusion specialist's — no longer "out."
+- **Coltrane:** classic quartet through *A Love Supreme* (1964) is modal territory.
+  *Ascension* (1965) forward belongs to the free-jazz specialist.
 
 ---
 
 ## The Test Question
 
+The original test still governs the **core** of the canon:
+
 > *Does it swing with structure, post-bebop, and pre-fusion in spirit — regardless of the year it was recorded?*
 
-If yes, it's a candidate.
+If yes, it's a candidate for one of the three original specialists.
+
+If **no**, it is no longer automatically out. It may still be a candidate through one of the
+opened gates — but only on that gate's own terms:
+
+> *Does it bridge a lineage the canon cares about (fusion), teach an idiom John is studying
+> (free jazz), or extend the 1960s modal tradition forward (ECM)?*
+
+A record that passes neither test is out.
 
 ---
 
