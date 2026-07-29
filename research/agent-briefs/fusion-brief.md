@@ -1,6 +1,6 @@
 # Fusion Specialist — Agent Brief
 
-> **Canonical agent:** `~/.claude/agents/jazz-fusion-researcher.md` (self-contained, model-scoped: Opus).
+> **Canonical agent:** `~/.claude/agents/jazz-fusion-researcher.md` (self-contained, model-agnostic as of 2026-07-29 — runs under the dispatching host's model; the Opus floor was removed per John's ruling).
 > Written 2026-07-28, alongside the agent — unlike the 2026-06-11 briefs, this one was
 > never the operative document. It is the **design record**: why the gate opened, what was
 > decided, and what stayed open. The agent file is authoritative on behaviour; when the two

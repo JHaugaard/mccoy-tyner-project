@@ -1,100 +1,54 @@
 # Candidate Album Schema
 
-Every agent returns a markdown file containing three sections in order:
-1. Source map table
-2. One JSON block per candidate album
-3. Synthesis notes
+> **Rewritten 2026-07-29.** The original version of this document described the
+> Segment-B (June 2026, push-to-100) deliverable: one markdown file per agent run
+> containing a source map, JSON blocks, and synthesis notes (`research/<style>-candidates.md`).
+> That format is retired. The current deliverable is **one JSON dossier per album**,
+> staged by `scripts/stage-candidate.py` one file at a time.
 
-No deviations from this structure.
+## Current contract
 
----
+A candidate album is a single JSON file at
+`research/candidates-inbox/<id>.json`, where `<id>` is the normalized
+`artist-album-year` slug. Top-level fields, as staged by
+`scripts/stage-candidate.py`:
 
-## Source Map (one per agent output file)
+| Field | Notes |
+|-------|-------|
+| `id` | Normalized slug, e.g. `woody-shaw-blackstone-legacy-1970` |
+| `artist` | Leader or group name as it should appear |
+| `album` | Album title |
+| `year` | Original recording year (hard gate: `config/canon-rubric.md` window) |
+| `label` | Label name; ECM-family records keep the imprint (`JAPO`, not folded into `ECM`) |
+| `catalog_number` | Optional; required for ECM-agent output (stable dedup key) |
+| `style_primary` | Must be a code in the `STYLES` dict of `scripts/stage-candidate.py`. Label-only codes (`ecm`) are refused here — tags only |
+| `style_tags` | List of style codes; `ecm` belongs here when applicable |
+| `rationale` | The case for inclusion (council/judgment text) |
+| `priority` | `must_have` etc. per the rubric's priority labels |
+| `epistemic` | `obs` / `inf` / `unk` |
+| `sources` | Source tokens/URLs backing the claims |
+| `personnel_record` | The full five-layer record — **shape owned by `docs/personnel-contract.md`** |
+| `ballot` | Council ballot, attached at staging (`--ballot-inline`) |
 
-Each agent builds its own source map. IDs are local to that file (S1, S2, etc.).
+Newly-opened-gate agents (fusion, free-jazz, ECM) additionally carry their
+brief-required fields on the record: `bridge_case` (fusion, free-jazz),
+`continuity_case` (ECM), `accessibility` (free-jazz), `scope_flag` (all three,
+never empty for opened gates).
 
-| ID | Title | Type | URL or Location | Notes |
-|----|-------|------|-----------------|-------|
-| S1 | Penguin Guide to Jazz, 10th ed. | Book | — | Core critical reference |
-| S2 | DownBeat Critics Poll Archive | Web | https://downbeat.com/polls | Historical polls |
-| S3 | AllMusic genre page | Web | https://allmusic.com | Editor picks + ratings |
+## The authoritative pieces
 
-Add rows for every source consulted. Minimum 4 sources per agent.
+- **Personnel record shape + instrument taxonomy:** `docs/personnel-contract.md`
+- **Gathering discipline (sources, conflicts, epistemics):** the
+  `album-candidate-dossier` skill (Hermes, mccoy profile)
+- **Scope and gates:** `config/canon-rubric.md`
+- **Style vocabulary:** `STYLES` in `scripts/stage-candidate.py` (upserted to the
+  `style` table on every run)
 
----
+One contract, one home each — do not restate personnel or scope rules here.
 
-## Candidate Record
+## Archive
 
-One JSON block per album, using this exact structure:
-
-```json
-{
-  "id": "artist-slug-album-slug-year",
-  "artist": "Miles Davis",
-  "album": "Kind of Blue",
-  "year": 1959,
-  "label": "Columbia",
-  "style_primary": "modal-jazz",
-  "style_tags": ["modal-jazz"],
-  "sources": ["S1", "S2"],
-  "epistemic": "obs",
-  "rationale": "obs[S1]: Penguin Guide 4-star core collection. obs[S2]: DownBeat poll top-ranked. inf: universally recognized as defining modal jazz.",
-  "priority": "must_have",
-  "overlap_risk": "",
-  "scope_flag": "",
-  "include": null
-}
-```
-
-### Field Definitions
-
-| Field | Type | Rules |
-|-------|------|-------|
-| `id` | string | kebab-case. For group recordings use leader's name (e.g., `art-blakey-moanin-1958`). Year is the recording year if known, otherwise release year. |
-| `artist` | string | Leader or primary artist name as commonly cited. |
-| `album` | string | Full album title. |
-| `year` | integer | Recording year preferred; release year if recording year unknown. |
-| `label` | string | Original label (e.g., Blue Note, Prestige, Columbia). |
-| `style_primary` | string | One of: `hard-bop` \| `soul-jazz` \| `cool-jazz` \| `modal-jazz` \| `post-bop` |
-| `style_tags` | array | Include secondary style only if the album genuinely straddles two (e.g., hard bop with strong soul-jazz elements). Otherwise single-entry array. |
-| `sources` | array | Source IDs from the file's source map. At least one required. |
-| `epistemic` | string | `obs` if any source directly names the album; `inf` if reasoned from pattern; `unk` if single-source or uncertain. |
-| `rationale` | string | Lead with `obs[ID]:` claims, then `inf:`, then `unk:`. Cite source IDs inline. |
-| `priority` | string | Agent's own confidence signal. One of: `must_have` (non-negotiable; agent would advocate for this if cut) \| `strong` (clearly belongs, well-sourced) \| `consider` (worth including, lighter evidence or more marginal). |
-| `overlap_risk` | string | Empty string if none. Otherwise name the overlapping style (e.g., `"hard-bop/soul-jazz border"`). |
-| `scope_flag` | string | Empty string if clearly in scope. Otherwise state the concern (e.g., `"may be too bebop"`, `"1970 — check fusion proximity"`). |
-| `include` | null | Always `null` from agents. John sets `true` or `false` at review. |
-
----
-
-## Synthesis Notes (end of each agent file)
-
-After all candidate records, append this section:
-
-```markdown
-## Synthesis Notes
-
-### Must-Haves
-The agent's own top 5–8 non-negotiables — albums it considers essential to this style's canon regardless of source count. These are the records the agent would advocate for most strongly if they were cut. One sentence per album explaining why.
-[List here]
-
-### Hidden Gems
-Under-cited albums the agent considers underrated by the canonical lists — strong artistic merit, lighter consensus. These are the records John may not already know. One sentence per album.
-[List here]
-
-### Consensus Picks
-Albums appearing in 3+ sources. These are the high-confidence core of the list.
-[List here]
-
-### Single-Source Picks
-Albums from only one source but with strong critical weight. Flag for John's attention.
-[List here]
-
-### Scope Calls
-Albums where a judgment call was made on the in/out boundary. One sentence per album explaining the call.
-[List here]
-
-### Gaps Noticed
-Periods, figures, labels, or subgenres the consulted sources covered poorly.
-[List here]
-```
+Worked examples of complete dossiers live in `research/candidates-archive/`
+(e.g. `woody-shaw-blackstone-legacy-1970.json`). The old combined-markdown runs
+survive as `research/<style>-candidates*.md` for historical reference only; do
+not produce new ones.

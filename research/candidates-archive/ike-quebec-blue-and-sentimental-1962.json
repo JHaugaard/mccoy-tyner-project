@@ -1,0 +1,347 @@
+{
+  "id": "ike-quebec-blue-and-sentimental-1962",
+  "artist": "Ike Quebec",
+  "album": "Blue & Sentimental",
+  "year": 1962,
+  "label": "Blue Note",
+  "style_primary": "soul-jazz",
+  "rationale": "Ike Quebec's comeback masterpiece and the defining statement of his big-toned, ballad-drenched tenor style \u2014 the record that reintroduced him to Blue Note (where he had been a 78-era stalwart and the label's house A&R scout) months before his death. Session gravity is exceptional: Grant Green on both dates, with Paul Chambers and Philly Joe Jones on the main session and Sonny Clark, Sam Jones, and Louis Hayes on 'Count Every Star'. A quiet consensus pick among Blue Note devotees (BLP 4098, repeatedly reissued including the Rudy Van Gelder Edition), it is also a personnel-network record: it sits between Green Street/Idle Moments and the Chambers/Philly Joe Miles-adjacent axis.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Blue Note Records Catalog: 4000 series \u2014 BLP 4098 (jazzdisco.org)",
+      "type": "label-discography",
+      "url": "https://www.jazzdisco.org/blue-note-records/catalog-4000-series/"
+    },
+    "S2": {
+      "title": "Blue and Sentimental (song) \u2014 Wikipedia (cites Blue Note discography for the album)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Blue_and_Sentimental"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Ike Quebec Blue and Sentimental",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Ike+Quebec+Blue+and+Sentimental&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz WS2 release-group query \u2014 Blue & Sentimental / Ike Quebec",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/ws/2/release-group/?query=releasegroup:%22Blue%20%26%20Sentimental%22%20AND%20artist:%22Ike%20Quebec%22&fmt=json"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 Blue & Sentimental release group (via archive.org index)",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/30c773e2-c556-3feb-ae06-da8efaa1f4de"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-12-16",
+      "1961-12-23"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Ike Quebec",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-12-16",
+          "1961-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on piano on the December 16 session per jazzdisco ('tenor sax, piano')."
+      },
+      {
+        "name": "Grant Green",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-12-16",
+          "1961-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blue and Sentimental",
+          "Minor Impulse",
+          "Don't Take Your Love from Me",
+          "Blues for Charlie",
+          "Like"
+        ],
+        "session_dates": [
+          "1961-12-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blue and Sentimental",
+          "Minor Impulse",
+          "Don't Take Your Love from Me",
+          "Blues for Charlie",
+          "Like"
+        ],
+        "session_dates": [
+          "1961-12-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sonny Clark",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Count Every Star"
+        ],
+        "session_dates": [
+          "1961-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Count Every Star"
+        ],
+        "session_dates": [
+          "1961-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Louis Hayes",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Count Every Star"
+        ],
+        "session_dates": [
+          "1961-12-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Blue and Sentimental",
+        "track_number": 1,
+        "side": "A",
+        "duration": null,
+        "session_date": "1961-12-16",
+        "composers": [
+          "Count Basie",
+          "Jerry Livingston",
+          "Mack David"
+        ],
+        "personnel": [
+          "Ike Quebec",
+          "Grant Green",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Minor Impulse",
+        "track_number": 2,
+        "side": "A",
+        "duration": null,
+        "session_date": "1961-12-16",
+        "composers": [],
+        "personnel": [
+          "Ike Quebec",
+          "Grant Green",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Don't Take Your Love from Me",
+        "track_number": 3,
+        "side": "A",
+        "duration": null,
+        "session_date": "1961-12-16",
+        "composers": [],
+        "personnel": [
+          "Ike Quebec",
+          "Grant Green",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blues for Charlie",
+        "track_number": 4,
+        "side": "B",
+        "duration": null,
+        "session_date": "1961-12-16",
+        "composers": [],
+        "personnel": [
+          "Ike Quebec",
+          "Grant Green",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Like",
+        "track_number": 5,
+        "side": "B",
+        "duration": null,
+        "session_date": "1961-12-16",
+        "composers": [],
+        "personnel": [
+          "Ike Quebec",
+          "Grant Green",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Count Every Star",
+        "track_number": 6,
+        "side": "B",
+        "duration": null,
+        "session_date": "1961-12-23",
+        "composers": [],
+        "personnel": [
+          "Ike Quebec",
+          "Sonny Clark",
+          "Grant Green",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "30c773e2-c556-3feb-ae06-da8efaa1f4de",
+    "apple_album_id": "1443275178",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/2606f5b2-f19b-41d3-a847-a286d1abdad2/28233747005.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front cover via Cover Art Archive (release 2606f5b2 in the release group, served through archive.org); pressing not verified as the original BLP 4098."
+      }
+    ],
+    "notes": "Session data and per-date personnel from jazzdisco.org Blue Note 4000-series catalog (BLP 4098). Dec 16, 1961: Quebec (tenor, piano), Grant Green, Paul Chambers, Philly Joe Jones \u2014 five masters. Dec 23, 1961: Quebec (tenor), Sonny Clark, Grant Green, Sam Jones, Louis Hayes \u2014 'Count Every Star'. Track order and side split from the iTunes/Apple Music listing (6-track original sequence). Producer Alfred Lion and engineer Rudy Van Gelder are pattern inferences for a 1961 Blue Note session at Van Gelder Studio, Englewood Cliffs (Van Gelder inference per the personnel contract); neither is named in the sources consulted tonight. Release year conflict: MusicBrainz and iTunes give 1962; jazzdisco catalogs the LP under 1963 \u2014 recorded December 1961, issued as BLP 4098."
+  },
+  "ballot": {
+    "album": "Ike Quebec \u2014 Blue & Sentimental (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a compelling defining statement for Quebec: its unhurried ballad language and large, warm tenor tone make the album an unusually direct entry point to the emotional and tonal tradition of mainstream jazz. Its session gravity is exceptional and documented by the jazzdisco Blue Note catalogue (S1): Grant Green appears throughout, while the principal date joins Quebec with Paul Chambers and Philly Joe Jones, and \"Count Every Star\" adds Sonny Clark, Sam Jones, and Louis Hayes. The album's repeated reissue history and enduring Blue Note-devotee reputation support its durability, even if the dossier does not adequately document that reputation through independent critical lists.",
+    "case_against": "The dossier provides no Penguin Guide, DownBeat, NPR, JazzTimes, musician testimony, or other independent critical source to substantiate its claim of broad canon consensus; its cited material is predominantly discographic and identifier data. Quebec's performance perfects an older big-tenor and ballad tradition rather than visibly redirecting post-bebop lineage, so the record can seem like an exquisite specialist pleasure rather than a load-bearing explanation of the tradition. The production credits are inferred rather than sourced, and the release-year discrepancy between jazzdisco's 1963 listing and the 1962 dates in MusicBrainz/iTunes further illustrates the dossier's limited documentary depth, though neither date affects scope.",
+    "disagreement": "Reference 1 judges the album contested because its defining-statement and session-gravity strengths are not matched by documented consensus or clear lineage influence; Reference 2 judges it consensus_core, treating its discovery value, Blue Note stature, and bridge from swing-era tenor playing to 1960s soul-jazz as sufficient to overcome its backward-looking character.",
+    "recommendation": "The council proposes that John treat Blue & Sentimental as a strong contested candidate: hear it as Quebec's definitive late statement, but require its musical necessity to outweigh the thinly documented consensus case.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

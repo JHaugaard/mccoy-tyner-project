@@ -1,0 +1,322 @@
+{
+  "id": "pharoah-sanders-karma-1969",
+  "artist": "Pharoah Sanders",
+  "album": "Karma",
+  "year": 1969,
+  "label": "Impulse!",
+  "style_primary": "modal-jazz",
+  "rationale": "Karma is the defining statement of spiritual jazz and Sanders' most acclaimed record: 'The Creator Has a Master Plan' extends the A Love Supreme lineage (Sanders was Coltrane's last-band tenor) into a communal, chant-based modal language that became a genre template. Consensus across independent traditions: AllMusic 5 stars, Penguin Guide 3 stars, Pitchfork #53 of the 1960s, Jazzwise '100 Jazz Albums That Shook the World', New Yorker 100 essential jazz albums. Session gravity is high: Lonnie Liston Smith, Leon Thomas, Reggie Workman, Richard Davis, Ron Carter, Billy Hart, Freddie Waits. Admissibility note: Wikipedia tags it free jazz \u2014 arrivals from the free-jazz gate lean scope_call/contested per the rubric, but this record's center is a loping modal groove with sung melody, the teaching record for the idiom.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Karma (Pharoah Sanders album) \u2014 Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Karma_(Pharoah_Sanders_album)"
+    },
+    "S2": {
+      "title": "iTunes Search API \u2014 Pharoah Sanders Karma",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Pharoah+Sanders+Karma&entity=album"
+    },
+    "S3": {
+      "title": "Cover Art Archive \u2014 Karma release group",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/22f978cb-26e6-3757-a13a-347970574eec"
+    },
+    "S4": {
+      "title": "MusicBrainz release group \u2014 Karma",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/22f978cb-26e6-3757-a13a-347970574eec"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1969-02-14",
+      "1969-02-19"
+    ],
+    "multi_session": true,
+    "studio": "RCA Studios, New York City",
+    "producer": "Bob Thiele",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Pharoah Sanders",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Leon Thomas",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also percussion; yodelling vocal style. Co-composer of both pieces."
+      },
+      {
+        "name": "Lonnie Liston Smith",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Julius Watkins",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia lists without track qualifier; likely 'The Creator Has a Master Plan' only \u2014 track coverage unconfirmed."
+      },
+      {
+        "name": "James Spaulding",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Creator Has a Master Plan"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Creator Has a Master Plan"
+        ],
+        "session_dates": null,
+        "epistemic": "inf",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia lists 'bass' without qualifier; Ron Carter is explicitly credited on 'Colors', so Workman's coverage is inferred to be 'The Creator Has a Master Plan'."
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Creator Has a Master Plan"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Second bassist on 'The Creator Has a Master Plan'."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Colors"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Hart",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Creator Has a Master Plan"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Freddie Waits",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Colors"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Nathaniel Bettis",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Creator Has a Master Plan"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Creator Has a Master Plan (part one)",
+        "track_number": 1,
+        "side": "A",
+        "duration": "19:20",
+        "session_date": null,
+        "composers": [
+          "Pharoah Sanders",
+          "Leon Thomas"
+        ],
+        "personnel": [
+          "Pharoah Sanders",
+          "Leon Thomas",
+          "Lonnie Liston Smith",
+          "Julius Watkins",
+          "James Spaulding",
+          "Reggie Workman",
+          "Richard Davis",
+          "Billy Hart",
+          "Nathaniel Bettis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Creator Has a Master Plan (part two)",
+        "track_number": 2,
+        "side": "B",
+        "duration": "13:36",
+        "session_date": null,
+        "composers": [
+          "Pharoah Sanders",
+          "Leon Thomas"
+        ],
+        "personnel": [
+          "Pharoah Sanders",
+          "Leon Thomas",
+          "Lonnie Liston Smith",
+          "Julius Watkins",
+          "James Spaulding",
+          "Reggie Workman",
+          "Richard Davis",
+          "Billy Hart",
+          "Nathaniel Bettis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Colors",
+        "track_number": 3,
+        "side": "B",
+        "duration": "5:37",
+        "session_date": null,
+        "composers": [
+          "Pharoah Sanders",
+          "Leon Thomas"
+        ],
+        "personnel": [
+          "Pharoah Sanders",
+          "Leon Thomas",
+          "Lonnie Liston Smith",
+          "Ron Carter",
+          "Freddie Waits"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "22f978cb-26e6-3757-a13a-347970574eec",
+    "apple_album_id": "1443785100",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/df151c91-79cf-49a6-9bab-374dec6a1812/8654400318.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front cover from Cover Art Archive release df151c91 in the Karma release group; pressing not verified as the 1969 original."
+      }
+    ],
+    "notes": "Two sessions (Feb 14 & 19, 1969) per Wikipedia; which tracks belong to which date is not stated in the sources consulted. LP split 'The Creator Has a Master Plan' across both sides; the 1995 CD reissue rejoined it as a single 32:46 track. Engineer not credited in sources consulted (AllMusic page unreachable tonight). Part two personnel inferred identical to part one (continuous piece split by LP side). Julius Watkins and Reggie Workman track coverage per Wikipedia is unqualified; assignments here are reasoned, not stated."
+  },
+  "ballot": {
+    "album": "Pharoah Sanders \u2014 Karma (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1969 date is safely in range, but the newly opened free-jazz gate is genuinely in play: sources classify the album as free jazz while its long-form chant, melody, and loping modal groove make it a direct late-Coltrane/modal bridge rather than straightforward energy-music maximalism."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "Karma is Sanders' defining leader statement and a foundational spiritual-jazz record: \"The Creator Has a Master Plan\" transforms the devotional modal language of Coltrane's late work into a communal, vocal-led form that became a durable genre template. Its consensus case is unusually broad, with the dossier citing Penguin Guide, AllMusic, Pitchfork's 1960s ranking, Jazzwise's \"100 Jazz Albums That Shook the World,\" and the New Yorker's essential-albums list. Sanders' direct late-Coltrane lineage, Leon Thomas's singular vocal presence, and the session's network\u2014Lonnie Liston Smith, Reggie Workman, Richard Davis, Ron Carter, Billy Hart, and Freddie Waits\u2014make it both a load-bearing bridge and an unusually accessible teaching record for spiritual jazz.",
+    "case_against": "The record's ecstatic tenor language, overblowing, and open-ended chant format can place it on the free-jazz side of the canon's center of gravity, directly testing John's stated difficulty with that idiom even though the underlying pulse is modal. The dossier also falls short of the preferred research standard: its substantive personnel and recording claims rest chiefly on Wikipedia (S1), while three listed sources are identifier or cover-art services, and several track assignments\u2014including Workman, Watkins, and part two of the title piece\u2014are inferred rather than confirmed.",
+    "disagreement": "Reference 1 treats the free-jazz/modal boundary as dispositive and votes scope_call; Reference 2 judges Karma's bridge function and exceptional consensus sufficient to override the newly opened-gate default and votes consensus_core. Both agree on must_have priority and on the album's extraordinary spiritual-jazz stature.",
+    "recommendation": "The council proposes that John make an explicit free-jazz/modal scope ruling on Karma, with its exceptional consensus and bridge value strongly favoring it if he finds the record's ecstatic language compatible with the canon.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}
