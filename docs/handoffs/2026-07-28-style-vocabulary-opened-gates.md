@@ -59,7 +59,14 @@ a. `scripts/stage-candidate.py` — add the rows to the `STYLES` dict. The scrip
 b. Verify after the first staging run that `SELECT code FROM _jazzcanon.style ORDER BY
    code;` shows all 16 codes.
 
-**2. JAPO ruling (agent-file edit, not DB).** John ruled 2026-07-28: **JAPO releases are
+**2. `ecm` guard (small, same script).** `ecm` is a label tag and must never headline a
+record. In `scripts/stage-candidate.py`, refuse (warn + treat as error) any candidate
+whose `style_primary` is `ecm` — the fix is always "pick the real musical style, keep
+`ecm` in `style_tags`." Also set the style row's description to note it:
+"ECM Records label tag — never a primary style." (John, 2026-07-29: keeps the tag from
+taking outsized emphasis.)
+
+**3. JAPO ruling (agent-file edit, not DB).** John ruled 2026-07-28: **JAPO releases are
 inside the ECM specialist's remit.** Edit `~/.claude/agents/jazz-ecm-researcher.md`: in the
 "FUZZY — the sister labels" paragraph, JAPO moves from "name it in Gaps and ask" to IN —
 an ECM subsidiary within the 1969–1979 window, catalogued like any ECM release, with the
@@ -67,7 +74,7 @@ label recorded as `JAPO` (not folded into `ECM`) so the imprint survives in the 
 update the matching line in `research/agent-briefs/ecm-brief.md` (boundary table row and
 Open questions entry — the brief is the design record; keep it truthful).
 
-**3. Explicitly out of scope** (do not do these):
+**4. Explicitly out of scope** (do not do these):
 
 - No new columns on `_jazzcanon.album`. `bridge_case`, `accessibility`, and
   `continuity_case` stay candidate-JSON-only for now; the briefs raise schema promotion as

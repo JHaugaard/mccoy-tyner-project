@@ -82,6 +82,15 @@ if it were a genre.
 opened-gate records get card-level accents, and the gate filter chips are in scope as a
 follow-on in the same site pass. John approved in conversation.
 
+**AMENDED 2026-07-29: Option B2 + C.** On reflection John ruled that free jazz and fusion
+— being genres with genuine era shapes — belong IN the era-lane framework: add two bands,
+Free Jazz (1959–1979) and Fusion (1968–1979), alongside the four tradition bands (six
+total). ECM does NOT get a band — it is a label tag, per the genre-or-label ruling, and
+appears only as a card-level accent. Gate accents on cards remain for all three gates.
+Acceptance test: CC-Site prototypes the six-band layout and confirms legibility; if the
+overlap-blend turns to mush, fall back to four bands (original B) and John re-reviews in
+preview.
+
 - [ ] Option A — more bands
 - [x] **Option B + C — accents now, gate filter as follow-on (DECIDED)**
 
