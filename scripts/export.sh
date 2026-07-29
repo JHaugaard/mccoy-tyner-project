@@ -28,6 +28,15 @@ FROM (
   SELECT a.id, a.title, a.artist_name AS artist, a.year,
          l.name AS label, a.catalog_number AS catalog,
          s.display_name AS style, s.code AS "styleCode",
+         -- secondary style codes (album_style holds tags only; the primary
+         -- lives in album.style_primary_id). The site drives its opened-gate
+         -- card accents off these — the `ecm` tag in particular can never
+         -- appear as a primary style, so styleCode alone cannot express it.
+         coalesce((SELECT json_agg(s2.code ORDER BY s2.code)
+                   FROM _jazzcanon.album_style ast
+                   JOIN _jazzcanon.style s2 ON s2.id = ast.style_id
+                   WHERE ast.album_id = a.id
+                     AND s2.id IS DISTINCT FROM a.style_primary_id), '[]'::json) AS "styleTags",
          aa.source_url AS "artUrl", a.apple_album_id AS "appleAlbumId"
   FROM _jazzcanon.album a
   LEFT JOIN _jazzcanon.label l ON l.id = a.label_id
@@ -129,6 +138,7 @@ if (albums.length !== Object.keys(details).length)
 for (const a of albums) {
   for (const k of ['title','artist','year','artUrl'])
     if (!a[k]) fail(`album ${a.id} missing ${k}`);
+  if (!Array.isArray(a.styleTags)) fail(`album ${a.id} styleTags is not an array`);
   const d = details[a.id];
   if (!d) fail(`no details for album ${a.id}`);
   if (!d.tracks || d.tracks.length < 1) fail(`album ${a.id} has no tracks`);

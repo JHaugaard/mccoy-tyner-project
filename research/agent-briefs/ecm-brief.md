@@ -116,7 +116,7 @@ the first Metheny records, and the late-1970s opening to the AACM and the Ornett
 | **ECM's fusion edge** | This agent, not `jazz-fusion-researcher` — Return to Forever 1972, Abercrombie *Timeless* 1975 and Gateway, Metheny 1976–79, Rypdal's electric records. The rubric's standing framing of early Pat Metheny Group as the border case (acoustic/swinging/song-form = arguable; electric-rock vocabulary = the exclusion bites) predates the opened gates and remains the right way to argue it. |
 | **ECM's free-jazz edge** | This agent, not `jazz-free-jazz-researcher` — *Conference of the Birds* 1972, Marion Brown, Old and New Dreams 1979, the Art Ensemble's ECM sides. Noted that these are usually *more* legible than the same players' work elsewhere, because the ECM production is itself the bridge. That is a real argument and the agent may make it. |
 | **ECM New Series** | Contemporary-classical releases with no jazz improvisation are out. Steve Reich's *Music for 18 Musicians* (1978, ECM 1129) named explicitly as the trap. |
-| **Sister labels** | Black Saint/Soul Note, Enja — not this agent's unless dispatched. **JAPO** (an ECM subsidiary) is the genuine grey area: named in Gaps and asked, not assumed. |
+| **Sister labels** | Black Saint/Soul Note, Enja — not this agent's unless dispatched. **JAPO is IN** (John, 2026-07-28): an ECM subsidiary inside the 1969–1979 window, catalogued like any ECM release, with the label recorded as `JAPO` rather than folded into `ECM` so the imprint survives in the data. |
 
 ## Open questions
 
@@ -124,7 +124,8 @@ the first Metheny records, and the late-1970s opening to the AACM and the Ornett
   reads the rubric window at run time, so mechanically yes. But the 1980s ECM catalogue is
   a different proposition — larger, further from the modal lineage, and where the label's
   reputation actually sits. Worth an explicit decision rather than an inherited one.
-- **JAPO.** Unresolved; awaiting John.
+- **JAPO — RESOLVED 2026-07-28.** John ruled JAPO inside this agent's remit; see the
+  boundary table above. The label is recorded as `JAPO`, not folded into `ECM`.
 - **`catalog_number` — no action needed (verified 2026-07-28).** `scripts/stage-candidate.py`
   already reads `record.get("catalog_number")` off the candidate JSON and writes it to
   `_jazzcanon.album`. Making the field required on this agent therefore feeds an existing

@@ -155,7 +155,25 @@ STYLES = {
     "cool-jazz":  ("Cool Jazz",  "Relaxed, lyrical post-bebop from the late 1940s–50s"),
     "modal-jazz": ("Modal Jazz", "Improvisation over modal scales rather than chord changes"),
     "post-bop":   ("Post-Bop",   "Eclectic post-1960 jazz drawing from multiple traditions"),
+    # Opened genre gates, 2026-07-28 (docs/handoffs/2026-07-28-style-vocabulary-
+    # opened-gates.md). Emitted by the fusion / free-jazz / ECM specialist agents.
+    "fusion":             ("Fusion",             "Jazz improvisation fused with rock and funk rhythm and electric instruments"),
+    "jazz-rock":          ("Jazz-Rock",          "Rock-weighted fusion variant driven by backbeat and amplified guitar"),
+    "jazz-funk":          ("Jazz-Funk",          "Groove-first fusion built on funk vamps and electric bass"),
+    "free-jazz":          ("Free Jazz",          "Collective improvisation released from fixed changes, meter, or key"),
+    "avant-garde-jazz":   ("Avant-Garde Jazz",   "Composition-minded experimentalism in the AACM lineage"),
+    "free-improvisation": ("Free Improvisation", "Non-idiomatic improvisation of the European wing, without jazz form"),
+    "european-jazz":      ("European Jazz",      "Postwar European jazz with folk and chamber-music centre of gravity"),
+    "spiritual-jazz":     ("Spiritual Jazz",     "Modal and free playing in a devotional, often non-Western frame"),
+    "loft-jazz":          ("Loft Jazz",          "New York loft-era scene of the 1970s, free playing outside the club circuit"),
+    "aacm":               ("AACM",               "Association for the Advancement of Creative Musicians and its lineage"),
+    "ecm":                ("ECM",                "ECM Records label tag — never a primary style"),
 }
+
+# Label tags that describe an imprint, not a musical style: valid in `style_tags`,
+# refused as `style_primary` (John, 2026-07-29 — keeps the tag from taking
+# outsized emphasis; ECM records earn their place on musical continuity).
+LABEL_ONLY_STYLES = {"ecm"}
 
 PRIORITY_MAP = {
     "must_have": "must_have",
@@ -438,8 +456,25 @@ def main():
         conn.close()
         sys.exit(1)
 
+    # ── Guard 3: style vocabulary ────────────────────────────────────────────
+    # A label tag (ecm) must never headline a record — the fix is always "pick
+    # the real musical style, keep the tag in style_tags". Unknown codes are
+    # warned rather than refused: style_id() would otherwise drop them to NULL
+    # in silence, which is how the opened gates would have lost data.
+    style_primary = (record.get("style_primary") or "").strip()
+    if style_primary in LABEL_ONLY_STYLES:
+        print(f"REFUSED — style_primary={style_primary!r} is a label tag, not a musical style.")
+        print(f"  Fix: set style_primary to the record's real musical style and keep "
+              f"{style_primary!r} in style_tags.")
+        print("No rows written.")
+        conn.close()
+        sys.exit(1)
+    if style_primary and style_primary not in STYLES:
+        warnings.append(f"unknown style_primary {style_primary!r} — style_primary_id will be "
+                        f"NULL. Known codes: {', '.join(sorted(STYLES))}")
+
     try:
-        # ── Guard 3: instrument taxonomy — hard fail, list valid names ───────
+        # ── Guard 4: instrument taxonomy — hard fail, list valid names ───────
         cur.execute("SELECT name FROM instrument")
         valid_instruments = {row[0] for row in cur.fetchall()}
         unknown = []
@@ -634,6 +669,10 @@ def main():
                     INSERT INTO album_style (album_id, style_id, is_primary)
                     VALUES (%s,%s,false) ON CONFLICT (album_id, style_id) DO NOTHING
                 """, (aid, sid))
+            else:
+                # unknown tags stay non-fatal (a tag is not load-bearing), but
+                # they no longer vanish without trace
+                warnings.append(f"unknown style_tag {tag!r} — skipped")
 
         # ── Sessions ──────────────────────────────────────────────────────────
         session_dates = rec_dates if rec_dates else [None]
