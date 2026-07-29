@@ -40,6 +40,8 @@ FROM (
          aa.source_url AS "artUrl", a.apple_album_id AS "appleAlbumId"
   FROM _jazzcanon.album a
   LEFT JOIN _jazzcanon.label l ON l.id = a.label_id
+  -- inner join is safe here, and provably total: album.style_primary_id is
+  -- NOT NULL with an FK to style(id), so it can never drop a publishable row.
   JOIN _jazzcanon.style s ON s.id = a.style_primary_id
   LEFT JOIN _jazzcanon.album_art aa ON aa.album_id = a.id AND aa.is_primary
   -- publication gate: only canon albums greenlit for the site (spec §5/§6)
@@ -136,7 +138,7 @@ const fail = m => { console.error('✗ INVARIANT FAILED: ' + m); process.exit(1)
 if (albums.length !== Object.keys(details).length)
   fail(`albums ${albums.length} != details ${Object.keys(details).length}`);
 for (const a of albums) {
-  for (const k of ['title','artist','year','artUrl'])
+  for (const k of ['title','artist','year','artUrl','style','styleCode'])
     if (!a[k]) fail(`album ${a.id} missing ${k}`);
   if (!Array.isArray(a.styleTags)) fail(`album ${a.id} styleTags is not an array`);
   const d = details[a.id];
