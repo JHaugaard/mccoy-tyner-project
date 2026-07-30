@@ -1,0 +1,279 @@
+{
+  "id": "keith-jarrett-facing-you-1971",
+  "artist": "Keith Jarrett",
+  "album": "Facing You",
+  "year": 1971,
+  "label": "ECM",
+  "catalog_number": "ECM 1017 ST",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "ecm",
+    "modal-jazz",
+    "post-bop"
+  ],
+  "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+  ],
+  "epistemic": "obs",
+  "priority": "strong",
+  "rationale": "obs[S1]: ECM 1017, Jarrett's first solo disc, recorded November 1971 at Arne Bendiksen Studio, Oslo; produced by Manfred Eicher. obs[S2]: Wikipedia confirms recording on November 10, 1971, release March 1972. obs[S3]: AllMusic lists recording date November 1971, styles Free Jazz / Mainstream Jazz / Post-Bop / Piano Jazz, location Arne Bendiksen Studio, Oslo. obs[S4]: Discogs release 1535974 confirms engineer Jan Erik Kongshaug, producer Manfred Eicher, recorded at Arne Bendiksen Studio, Oslo. obs[S5]: ecmreviews lists engineer Jan Erik Kongshaug and producer Manfred Eicher. inf: A landmark solo-piano statement that extends the modal/post-bop piano lineage into the 1970s; its argument is musical and not dependent on the ECM label.",
+  "continuity_case": "Jarrett's solo-piano idiom—singing, modal-inflected, long-form improvisation—extends the 1960s post-bop and modal piano tradition (Evans, Tyner) into the 1970s; the case is musical, not label-dependent, and would hold on any imprint.",
+  "overlap_risk": "modal — late-modal ECM; check ledger before surfacing",
+  "scope_flag": "ECM gate — 1971, inside window; late-modal solo piano; the boundary at issue is whether a solo-piano album carries enough lineage weight for the canon.",
+  "include": null,
+  "personnel_record": {
+    "recording_dates": [
+      "1971-11-10"
+    ],
+    "multi_session": false,
+    "studio": "Arne Bendiksen Studio, Oslo",
+    "producer": "Manfred Eicher",
+    "engineer": "Jan Erik Kongshaug",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Keith Jarrett",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "In Front",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:05",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ritooria",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:50",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Lalene",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:29",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "My Lady; My Child",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:17",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Landscape for Future Earth",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:29",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Starbright",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:01",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Vapallia",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:51",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Semblence",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:00",
+        "session_date": "1971-11-10",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "7260d883-056f-34e9-ba51-6c1da663d64b",
+    "apple_album_id": null,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/7260d883-056f-34e9-ba51-6c1da663d64b/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "MusicBrainz release group MBID from Wikipedia (S2)."
+      }
+    ],
+    "notes": "Thin personnel list reflects a true solo-piano record, not a failed extraction."
+  },
+  "sources_map": {
+    "S1": {
+      "title": "Facing You – ECM Records",
+      "type": "label",
+      "url": "https://ecmrecords.com/product/facing-you-keith-jarrett/",
+      "notes": "House source — authoritative on credits, recording date, and catalogue number; not used for merit claims."
+    },
+    "S2": {
+      "title": "Facing You — Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Facing_You",
+      "notes": "Independent; recording date and release year."
+    },
+    "S3": {
+      "title": "Facing You – AllMusic",
+      "type": "discography",
+      "url": "https://www.allmusic.com/album/facing-you-mw0000192031",
+      "notes": "Independent; styles and recording date."
+    },
+    "S4": {
+      "title": "Keith Jarrett – Facing You – Discogs",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/1535974-Keith-Jarrett-Facing-You",
+      "notes": "Independent; production credits and exact recording date."
+    },
+    "S5": {
+      "title": "Keith Jarrett: Facing You (ECM 1017) – ecmreviews",
+      "type": "blog",
+      "url": "https://ecmreviews.com/2010/02/24/facing-you/",
+      "notes": "Independent ECM-focused blog; corroborates engineer and producer."
+    }
+  },
+  "ballot": {
+    "album": "Keith Jarrett — Facing You (1971)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "ECM gate, 1969–1979: this is an admissible late-modal ECM record, but the live boundary is whether a solo-piano studio album has sufficient continuity and lineage weight within a canon centered on ensemble post-bop/modal tradition."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Recorded in Oslo on November 10, 1971, Facing You is Jarrett's first solo album for ECM, with Jarrett alone on piano and Manfred Eicher and Jan Erik Kongshaug establishing the production partnership documented by ECM, Discogs, and AllMusic (S1, S3, S4). Its singing, modal, long-form improvisational language carries 1960s post-bop and modal piano practice into the 1970s and supplies an early blueprint for the solo-piano branch that later culminated in the rubric's ECM anchor, The Köln Concert. The case is thus principally one of lineage: it makes audible the formation of a major late-modal acoustic vocabulary rather than merely claiming importance by label association.",
+    "case_against": "The dossier establishes recording facts and styles well but supplies no major critical-canon source demonstrating that Facing You has broad consensus comparable to Jarrett's more celebrated solo concert recordings. It may be an important first document rather than the definitive statement that fixed the sound; Köln and later live solo records more fully realize and popularized this idiom. As a solo studio date it has no ensemble interaction or personnel-network gravity, and its reflective ECM aesthetic may be less immediately load-bearing for a discovery canon centered on post-bop, hard-bop, and modal group traditions.",
+    "disagreement": "Both references classify the record as a scope_call under the ECM/solo-piano boundary. They split on urgency: one regards the limited consensus, absent session gravity, and supersession by Köln as grounds for consider priority, while the other judges its blueprint-level lineage to the 1970s solo-piano tradition strong enough for strong priority.",
+    "recommendation": "The council proposes John treat Facing You as a strong scope decision: retain it if the canon intends to document the formative solo-piano extension of 1960s modal jazz, rather than only its later definitive public statement.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

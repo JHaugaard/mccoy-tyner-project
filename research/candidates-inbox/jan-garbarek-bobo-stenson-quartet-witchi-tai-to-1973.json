@@ -1,0 +1,266 @@
+{
+  "id": "jan-garbarek-bobo-stenson-quartet-witchi-tai-to-1973",
+  "artist": "Jan Garbarek / Bobo Stenson Quartet",
+  "album": "Witchi-Tai-To",
+  "year": 1973,
+  "label": "ECM",
+  "catalog_number": "ECM 1041 ST",
+  "style_primary": "european-jazz",
+  "style_tags": [
+    "ecm",
+    "european-jazz",
+    "modal-jazz"
+  ],
+  "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "epistemic": "obs",
+  "priority": "strong",
+  "rationale": "obs[S1]: ECM 1041, recorded November 1973 at Arne Bendiksen Studio, Oslo; produced by Manfred Eicher; voted Record of the Year 1974/75 in Jazz Forum. obs[S2]: Wikipedia confirms recording in November 1973, release 1974. obs[S3]: AllMusic lists the album and recording details. obs[S4]: Discogs release 20144257 confirms personnel Jan Garbarek (soprano/tenor saxophone), Bobo Stenson (piano), Palle Danielsson (double bass), Jon Christensen (drums), engineer Jan Erik Kongshaug, producer Manfred Eicher, recorded November 27–28, 1973. inf: A defining European chamber-jazz quartet record built on modal and folk material; its continuity with the 1960s modal quartet tradition is strong.",
+  "continuity_case": "The quartet's open, folk-tinged modal jazz is a European extension of the 1960s post-bop and modal quartet language (Garbarek, Stenson, Danielsson, Christensen); the repertoire includes Carla Bley and Don Cherry, and I would argue for it on any label because it is a defining statement of that Nordic scene.",
+  "overlap_risk": "modal — late-modal ECM; european-jazz seam",
+  "scope_flag": "ECM gate — 1973, inside window; European/modal chamber quartet; the boundary at issue is whether the European folk/chamber voice is a separate lineage or an extension of modal jazz.",
+  "include": null,
+  "personnel_record": {
+    "recording_dates": [
+      "1973-11-27",
+      "1973-11-28"
+    ],
+    "multi_session": true,
+    "studio": "Arne Bendiksen Studio, Oslo",
+    "producer": "Manfred Eicher",
+    "engineer": "Jan Erik Kongshaug",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Jan Garbarek",
+        "instrument": "soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays tenor saxophone per ECM and Discogs (S1, S4)."
+      },
+      {
+        "name": "Bobo Stenson",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Palle Danielsson",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jon Christensen",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "A.I.R.",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:15",
+        "session_date": "1973-11-27/1973-11-28",
+        "composers": [
+          "Carla Bley"
+        ],
+        "personnel": [
+          "Jan Garbarek",
+          "Bobo Stenson",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Kukka",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:32",
+        "session_date": "1973-11-27/1973-11-28",
+        "composers": [
+          "Palle Danielsson"
+        ],
+        "personnel": [
+          "Jan Garbarek",
+          "Bobo Stenson",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Hasta Siempre",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:10",
+        "session_date": "1973-11-27/1973-11-28",
+        "composers": [
+          "Carlos Puebla"
+        ],
+        "personnel": [
+          "Jan Garbarek",
+          "Bobo Stenson",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Witchi-Tai-To",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:24",
+        "session_date": "1973-11-27/1973-11-28",
+        "composers": [
+          "Jim Pepper"
+        ],
+        "personnel": [
+          "Jan Garbarek",
+          "Bobo Stenson",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Desireless",
+        "track_number": 5,
+        "side": "B",
+        "duration": "20:25",
+        "session_date": "1973-11-27/1973-11-28",
+        "composers": [
+          "Don Cherry"
+        ],
+        "personnel": [
+          "Jan Garbarek",
+          "Bobo Stenson",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": null,
+    "apple_album_id": null,
+    "cover_art": [],
+    "notes": "Discogs gives exact session dates November 27–28, 1973 (S4)."
+  },
+  "sources_map": {
+    "S1": {
+      "title": "Witchi-Tai-To – ECM Records",
+      "type": "label",
+      "url": "https://ecmrecords.com/product/witchi-tai-to-jan-garbarek-bobo-stenson-quartet/",
+      "notes": "House source — authoritative on credits, recording date, and catalogue number; not used for merit claims."
+    },
+    "S2": {
+      "title": "Witchi-Tai-To (album) — Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Witchi-Tai-To_(album)",
+      "notes": "Independent; recording date and personnel."
+    },
+    "S3": {
+      "title": "Witchi-Tai-To – AllMusic",
+      "type": "discography",
+      "url": "https://www.allmusic.com/album/witchi-tai-to-r139071",
+      "notes": "Independent; album entry and recording details."
+    },
+    "S4": {
+      "title": "Jan Garbarek - Bobo Stenson Quartet – Witchi-Tai-To – Discogs",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/20144257-Jan-Garbarek-Bobo-Stenson-Quartet-Witchi-Tai-To",
+      "notes": "Independent; exact session dates, production credits, and personnel."
+    }
+  },
+  "ballot": {
+    "album": "Jan Garbarek / Bobo Stenson Quartet — Witchi-Tai-To (1973)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1973 ECM/continuity boundary is decisive: this is an admitted ECM-era candidate, but John must determine whether its Nordic folk-inflected, chamber-like modal language extends the 1960s post-bop/modal tradition or establishes a sufficiently separate European lineage."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "This is a defining early statement of the Garbarek–Stenson–Danielsson–Christensen quartet and of the Nordic ECM sound, with exceptional session gravity: these musicians became central figures in European jazz and its connection to Keith Jarrett's European Quartet. Its repertoire makes the bridge concrete rather than merely stylistic, recasting Carla Bley's \"A.I.R.\" and Don Cherry's \"Desireless\" alongside Jim Pepper and Carlos Puebla material through open modal quartet interplay. The dossier documents contemporary recognition through Jazz Forum's 1974/75 Record of the Year vote, while ECM and independent discographical sources substantiate the 1973 Oslo session, personnel, and repertoire.",
+    "case_against": "The record's spacious, folk-shaped chamber aesthetic can reasonably be heard as leaving behind the blues, swing, and rhythmic tension that organize much of the core post-bebop lineage; on that reading, it founds a distinct European genre rather than continuing the 1960s modal tradition. Its evidence for enduring cross-tradition canon status is thin: the dossier offers one Jazz Forum honor, while its remaining sources are principally label and discographical sources, not independent major canon lists or substantial critical assessments. Thus its artistic stature alone cannot settle the rubric's continuity test.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John make an explicit ECM-continuity ruling here, treating the album as a strong candidate if Nordic folk-modal chamber jazz is accepted as a genuine extension of 1960s modal quartet practice.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

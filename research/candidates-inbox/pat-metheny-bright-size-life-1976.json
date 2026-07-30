@@ -1,0 +1,324 @@
+{
+  "id": "pat-metheny-bright-size-life-1976",
+  "artist": "Pat Metheny",
+  "album": "Bright Size Life",
+  "year": 1976,
+  "label": "ECM",
+  "catalog_number": "ECM 1073",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "ecm",
+    "post-bop",
+    "fusion"
+  ],
+  "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+  ],
+  "epistemic": "obs",
+  "priority": "strong",
+  "rationale": "obs[S1]: ECM 1073, recorded December 1975 at Tonstudio Bauer, Ludwigsburg; produced by Manfred Eicher; Metheny's first studio recording as leader. obs[S2]: Wikipedia confirms recording December 1975, release 1976; personnel Pat Metheny, Jaco Pastorius, Bob Moses; engineer Martin Wieland. obs[S3]: AllMusic lists styles Post-Bop / Contemporary Jazz / Fusion / Guitar Jazz, recording date December 1975 at Bauer/Tonstudio Bauer Ludwigsburg. obs[S4]: Discogs release 9205620 confirms engineer Martin Wieland, producer Manfred Eicher, and personnel. obs[S5]: MusicBrainz release b60d1bc5-a18c-38ca-a26b-6e040d5d7acb confirms engineer Martin Wieland and producer Manfred Eicher. inf: Landmark modern-jazz guitar debut bridging post-bop melody with electric rhythm; the continuity with the 1960s post-bop and Ornette Coleman lineage is clear, but the fusion tag is present and must be flagged.",
+  "continuity_case": "Metheny's debut is a song-form, post-bop guitar trio record (including an Ornette Coleman cover) that reaches the 1960s modal/post-bop lineage forward; the electric bass and guitar give it a fusion flavor, but the core argument is melodic improvisation and trio interplay, which I would make if the record had appeared on Milestone or ECM.",
+  "overlap_risk": "fusion gate overlap",
+  "scope_flag": "ECM gate — 1976 (recorded December 1975), inside window; post-bop/fusion border case — electric instrumentation and the fusion tag are the strongest case against; continuity rests on song-form, post-bop lineage, and the Ornette Coleman connection.",
+  "include": null,
+  "personnel_record": {
+    "recording_dates": [
+      "1975-12"
+    ],
+    "multi_session": false,
+    "studio": "Tonstudio Bauer, Ludwigsburg",
+    "producer": "Manfred Eicher",
+    "engineer": "Martin Wieland",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Pat Metheny",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays 6-string and electric 12-string guitar per ECM (S1)."
+      },
+      {
+        "name": "Jaco Pastorius",
+        "instrument": "electric bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bob Moses",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Bright Size Life",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:45",
+        "session_date": "1975-12",
+        "composers": [
+          "Pat Metheny"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sirabhorn",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:27",
+        "session_date": "1975-12",
+        "composers": [
+          "Pat Metheny"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Unity Village",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:38",
+        "session_date": "1975-12",
+        "composers": [
+          "Pat Metheny"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Missouri Uncompromised",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:13",
+        "session_date": "1975-12",
+        "composers": [
+          "Pat Metheny"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Midwestern Nights Dream",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:00",
+        "session_date": "1975-12",
+        "composers": [
+          "Pat Metheny"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Unquity Road",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:36",
+        "session_date": "1975-12",
+        "composers": [
+          "Pat Metheny"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Omaha Celebration",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:17",
+        "session_date": "1975-12",
+        "composers": [
+          "Pat Metheny"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Round Trip / Broadway Blues",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:58",
+        "session_date": "1975-12",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Pat Metheny",
+          "Jaco Pastorius",
+          "Bob Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "abac8d3d-f25a-386f-a819-5063c8df56a4",
+    "apple_album_id": null,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/abac8d3d-f25a-386f-a819-5063c8df56a4/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "MusicBrainz release group MBID from MusicBrainz search (S5)."
+      }
+    ],
+    "notes": "Session date is documented only as December 1975 (S1, S2, S3)."
+  },
+  "sources_map": {
+    "S1": {
+      "title": "Bright Size Life – ECM Records",
+      "type": "label",
+      "url": "https://ecmrecords.com/product/bright-size-life-pat-metheny/",
+      "notes": "House source — authoritative on credits, recording date, and catalogue number; not used for merit claims."
+    },
+    "S2": {
+      "title": "Bright Size Life — Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Bright_Size_Life",
+      "notes": "Independent; recording date, release year, personnel, and engineer."
+    },
+    "S3": {
+      "title": "Bright Size Life – AllMusic",
+      "type": "discography",
+      "url": "https://www.allmusic.com/album/bright-size-life-mw0000188524",
+      "notes": "Independent; styles and recording details."
+    },
+    "S4": {
+      "title": "Pat Metheny – Bright Size Life – Discogs",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/9205620-Pat-Metheny-Bright-Size-Life",
+      "notes": "Independent; production credits and personnel."
+    },
+    "S5": {
+      "title": "Release “Bright Size Life” by Pat Metheny – MusicBrainz",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release/b60d1bc5-a18c-38ca-a26b-6e040d5d7acb",
+      "notes": "Independent; corroborates engineer and producer; release group MBID used for cover art."
+    }
+  },
+  "ballot": {
+    "album": "Pat Metheny — Bright Size Life (1976)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded December 1975 and released 1976, it is inside the 1973–1979 band and ECM’s permitted 1969–1979 range, but requires a continuity ruling at both the ECM/modal and fusion boundaries: electric guitar and Jaco Pastorius’s electric bass make the bridge test central."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Metheny’s first leader date is a landmark modern-jazz guitar statement and a consequential meeting of Metheny, Pastorius, and Bob Moses; its compact trio interplay has substantial session gravity. The dossier documents a program of Metheny originals plus Ornette Coleman’s \"Round Trip / Broadway Blues\" (S1), making a concrete link to the 1960s post-bop/avant-garde lineage rather than merely applying a jazz label to electric music. Its melodic writing, improvisational focus, and non-rock rhythmic organization support the case that it extends post-bop practice into the ECM era.",
+    "case_against": "The dossier’s sources securely establish credits, dates, and broad style labels, but provide little independent evidence for the larger claims of canonical consensus, influence, or defining-statement status; ECM and discographic documentation cannot by itself prove those claims. The record’s electric guitar-and-bass sound can also be heard as an early foundation for Metheny’s distinct contemporary-jazz/Americana vocabulary, a new late-1970s direction rather than a direct continuation of the modal/post-bop center of this canon. Under the rubric’s anti-drift rule, its fusion-adjacent instrumentation and polished sound are a meaningful scope concern even without a rock backbeat.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Bright Size Life as a strong scope call and decide whether its post-bop trio language outweighs its ECM-era fusion/contemporary-jazz departure.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}
