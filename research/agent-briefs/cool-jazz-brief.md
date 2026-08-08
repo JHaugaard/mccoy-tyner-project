@@ -1,6 +1,6 @@
 # Cool Jazz Specialist — Agent Brief
 
-> **Superseded 2026-06-11** by the first-class agent `~/.claude/agents/jazz-cool-jazz-researcher.md` (self-contained, model-scoped: Opus). This brief is retained as design history; the agent file is canonical.
+> **Superseded 2026-06-11** by the first-class agent `~/.claude/agents/jazz-cool-jazz-researcher.md` (self-contained, model-agnostic as of 2026-08-08 — runs under the dispatching host's model; the Opus floor was removed per John's 2026-07-29 ruling, and the output contract was updated to per-album JSON dossiers). This brief is retained as design history; the agent file is canonical.
 
 ## Your Role
 
