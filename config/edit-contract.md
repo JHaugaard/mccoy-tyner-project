@@ -107,6 +107,27 @@ Before executing a batch, McCoy lists the affected albums and gets John's
 confirmation on the list. `retired` is excluded from batching — pulling a
 record off the public site is a specific act about a specific album.
 
+## The audit log is append-only (adopted 2026-08-09)
+
+`_jazzcanon_app` can INSERT into `edit_log` but holds no UPDATE or DELETE
+on it — deliberately: an audit trail the editor can rewrite is a diary,
+not an audit trail. Canon data takes corrections by UPDATE; the log does
+not.
+
+So when the *text* of a log row is wrong (a typo in John's quoted verdict,
+a mis-dated session tag), the correction is a new row, never a rewrite:
+
+- `field` = `verdict_text_correction` (or `<field>_correction` generally)
+- `old_value` / `new_value` = the wrong and right text
+- `reason` = who authorized it and why, naming the row it corrects
+- the original row stands untouched, so the trail shows both the slip and
+  the fix
+
+Worked example: the Red Clay include row's "Hard Bob with a Fender
+Rhodes" was corrected to "Hard Bop …" by an appended correction row
+(2026-08-09). Escape hatch if corrections ever get frequent: a column-level
+`GRANT UPDATE (reason)` — Claude Code's lane, parked until then.
+
 ## Never editable (regenerated or structural)
 
 `embedding`, `search_document` (pipeline: `scripts/embed.py`),
