@@ -1,0 +1,399 @@
+{
+  "id": "george-russell-ezz-thetics-1961",
+  "artist": "George Russell",
+  "album": "Ezz-thetics",
+  "year": 1961,
+  "label": "Riverside",
+  "style_primary": "post-bop",
+  "rationale": "A landmark 1961 sextet date that distills George Russell's Lydian theories into a razor-sharp post-bop/avant-garde edge, showcasing Eric Dolphy and Don Ellis at peak creative power. The album is universally rated a classic (AllMusic 5 stars, Penguin 4 stars, Rolling Stone 5 stars) and marks an early, widely celebrated recording of Steve Swallow. Its influence on modal and free-leaning small-group jazz makes it a must-have canon candidate.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Ezz-thetics - George Russell | AllMusic",
+      "type": "allmusic",
+      "url": "https://www.allmusic.com/album/ezz-thetics-mw0000526212"
+    },
+    "S2": {
+      "title": "Ezz-thetics - Wikipedia",
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ezz-thetics"
+    },
+    "S3": {
+      "title": "George Russell Sextet – Ezz-thetics (CD, Reissue, Remastered, 1992) | Discogs",
+      "type": "discogs",
+      "url": "https://www.discogs.com/release/2485173-George-Russell-Sextet-Ezz-thetics"
+    },
+    "S4": {
+      "title": "iTunes Search API: George Russell Ezz-thetics",
+      "type": "itunes-api",
+      "url": "https://itunes.apple.com/search?term=George+Russell+Ezz-thetics&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group: Ezz-thetics",
+      "type": "musicbrainz",
+      "url": "https://musicbrainz.org/ws/2/release-group/f5c6ce8f-945d-3710-b10c-6e1b9f23e18f?fmt=json"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-05-08"
+    ],
+    "multi_session": false,
+    "studio": "Plaza Sound Studios, New York",
+    "producer": "Orrin Keepnews",
+    "engineer": "Ray Fowler",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "George Russell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also credited as composer and arranger; leader of the sextet."
+      },
+      {
+        "name": "Don Ellis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dave Baker",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "David Baker"
+        ],
+        "notes": "Cited as 'Dave Baker' by AllMusic and Wikipedia and as 'David Baker' by Discogs. The task prompt mentioned 'George Baker'; no source supports that form."
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "bass clarinet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nardis",
+          "Thoughts"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Discogs explicitly lists bass clarinet on tracks 2 and 4 only; AllMusic and Wikipedia note he doubles bass clarinet generally."
+      },
+      {
+        "name": "Steve Swallow",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Stephen Swallow"
+        ],
+        "notes": "Discogs credits 'Stephen Swallow'."
+      },
+      {
+        "name": "Joe Hunt",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Ezz-thetic",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:57",
+        "session_date": "1961-05-08",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Nardis",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:34",
+        "session_date": "1961-05-08",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Lydiot",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:06",
+        "session_date": "1961-05-08",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Thoughts",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:26",
+        "session_date": "1961-05-08",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Honesty",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:55",
+        "session_date": "1961-05-08",
+        "composers": [
+          "David Baker"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "'Round Midnight",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:29",
+        "session_date": "1961-05-08",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Kige's Tune (take 2)",
+        "track_number": 7,
+        "side": null,
+        "duration": "6:44",
+        "session_date": "1961-05-08",
+        "composers": [
+          "Al Kiger"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Kige's Tune (take 5)",
+        "track_number": 8,
+        "side": null,
+        "duration": "5:42",
+        "session_date": "1961-05-08",
+        "composers": [
+          "Al Kiger"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Dave Baker",
+          "Eric Dolphy",
+          "Steve Swallow",
+          "Joe Hunt"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "f5c6ce8f-945d-3710-b10c-6e1b9f23e18f",
+    "apple_album_id": "1442951888",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/f5c6ce8f-945d-3710-b10c-6e1b9f23e18f/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "URL verified via Cover Art Archive for the MusicBrainz release group."
+      }
+    ],
+    "notes": "Single session recorded May 8, 1961 at Plaza Sound Studios, New York. Original 1961 LP: tracks 1–6. Bonus tracks 7–8 (alternate takes of 'Kige's Tune') first issued on the 2007 Keepnews Collection CD remaster. Duration discrepancies exist across sources (e.g., Wikipedia vs. Discogs vs. AllMusic) but are minor. The trombonist is consistently identified as Dave Baker / David Baker; 'George Baker' from the task prompt is not source-supported."
+  },
+  "ballot": {
+    "album": "George Russell — Ezz-thetics (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "The album is the definitive small-group realization of Russell's Lydian Chromatic Concept — the record that moved his theory from the concert-hall scores of *Jazz Workshop* into a working sextet, making it his defining statement under rubric signal 2. Session gravity is exceptional for a single 1961-05-08 Plaza Sound date: Eric Dolphy on alto and bass clarinet at the threshold of his peak period, Don Ellis before his microtonal big bands, Dave Baker, and one of Steve Swallow's earliest major recordings (obs, S1–S3). Lineage runs both directions: the radical recastings of Miles's 'Nardis' and Monk's ''Round Midnight' show the post-bop generation re-reading its immediate past, while the angular modal vocabulary points forward to Dolphy's Blue Note work and the freer small groups of the mid-60s. The rationale reports top-tier critical consensus (AllMusic 5 stars, Penguin 4 stars, Rolling Stone 5 stars), and 1961 is safely inside the post-bebop center of the canon's gravity — no opened-gate standing rules apply.",
+    "case_against": "The real case against is the discovery test: Russell's arrangements are theory-forward and angular, and a listener sent to this cold may hear an intellectual exercise where a *Saxophone Colossus* or *Moanin'* delivers visceral pleasure — its canonical status among musicians and critics may outrun its accessibility. Second, the sourcing is thinner than the rationale claims: the dossier's actual source objects are database-level (AllMusic, Wikipedia, Discogs, iTunes API, MusicBrainz), and the Penguin/Rolling Stone ratings are asserted in the rationale but not captured as sources — min_sources is met on completeness, not on critical-text depth. Finally, track assignments are incomplete and bonus-take provenance is 'inf,' minor hygiene flags that don't bear on merit but show the dossier isn't fully load-bearing.",
+    "disagreement": null,
+    "recommendation": "The council proposes John treat Ezz-thetics as a core inclusion candidate — Russell's defining small-group record with an unassailable personnel network — while noting that only one reference voice argued the case, so he may wish to spot-check the discovery-test concern by listening before ruling.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

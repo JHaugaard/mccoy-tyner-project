@@ -1,0 +1,374 @@
+{
+  "id": "yusef-lateef-eastern-sounds-1961",
+  "artist": "Yusef Lateef",
+  "album": "Eastern Sounds",
+  "year": 1961,
+  "label": "Moodsville/Prestige",
+  "style_primary": "hard-bop",
+  "rationale": "A defining statement in Yusef Lateef's catalog, Eastern Sounds fuses hard-bop quartet interplay with Middle Eastern and Asian instruments and modes at a moment when such cross-cultural experimentation was still rare in jazz. The album is frequently cited as a gateway into jazz for new listeners and has been sampled and referenced widely, while the presence of Barry Harris, Ernie Farrow, and Lex Humphries gives it strong canonical credentials beyond Lateef's own leadership. It is one of the most enduring Prestige/Moodsville sessions of the early 1960s.",
+  "priority": "must_have",
+  "sources": {
+    "S1": {
+      "title": "Eastern Sounds - Wikipedia",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Sounds"
+    },
+    "S2": {
+      "title": "Yusef Lateef: Eastern Sounds Tracks & Reviews - AllMusic",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/eastern-sounds-mw0000311786"
+    },
+    "S3": {
+      "title": "Yusef Lateef – Eastern Sounds - Discogs",
+      "type": "web",
+      "url": "https://www.discogs.com/release/1498088-Yusef-Lateef-Eastern-Sounds"
+    },
+    "S4": {
+      "title": "Eastern Sounds - MusicBrainz release group",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/90059646-f8d5-3f1a-8315-0e511cae7f7f"
+    },
+    "S5": {
+      "title": "Yusef Lateef discography - AllMusic",
+      "type": "web",
+      "url": "https://www.allmusic.com/artist/yusef-lateef-mn0000596922"
+    },
+    "S6": {
+      "title": "iTunes Search API - Yusef Lateef Eastern Sounds",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Yusef+Lateef+Eastern+Sounds&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-09-05"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Esmond Edwards",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Yusef Lateef",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Multi-instrumentalist; sources also credit him with flute, oboe, and xun (Chinese globular flute) on this album. The oboe and xun are not in the contract taxonomy; tenor saxophone is used as the primary horn. AllMusic additionally lists bamboo flute."
+      },
+      {
+        "name": "Barry Harris",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ernie Farrow",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Sources also credit Farrow with rabab/rabat/rabaab (a lute-like instrument) on selected tracks; spelling varies across sources (Wikipedia: 'Rabaab', called 'rabat' in liner notes; Discogs: 'Rabab [Rabat]'). This instrument is not in the contract taxonomy."
+      },
+      {
+        "name": "Lex Humphries",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Plum Blossom",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:03",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blues for the Orient",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:40",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ching Miau",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:20",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Don't Blame Me",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:57",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Jimmy McHugh",
+          "Dorothy Fields"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Love Theme from Spartacus",
+        "track_number": 5,
+        "side": "A",
+        "duration": "4:15",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Alex North"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Snafu",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:42",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Purple Flower",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:32",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Love Theme from The Robe",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:02",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Alfred Newman"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Three Faces of Balal",
+        "track_number": 9,
+        "side": "B",
+        "duration": "2:23",
+        "session_date": "1961-09-05",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "90059646-f8d5-3f1a-8315-0e511cae7f7f",
+    "apple_album_id": "1725397456",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/90059646-f8d5-3f1a-8315-0e511cae7f7f/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "notes": ""
+      }
+    ],
+    "notes": "Single session recorded September 5, 1961, at Van Gelder Studio, Englewood Cliffs, NJ. Wikipedia lists the release date as April 1962 on Moodsville MVLP 22; the canonical canon year is the recording year 1961. Discogs lists Joe Goldberg as liner notes author and Rudy Van Gelder as recorded by/remastered by. Wikipedia lists Esmond Edwards as producer; Discogs lists him as 'Supervised By'. AllMusic review (Thom Jurek) explicitly names the quartet and confirms Lateef's Eastern-music exploration. Spelling of Farrow's secondary instrument varies across sources (Rabaab / Rabat / Rabab)."
+  },
+  "ballot": {
+    "album": "Yusef Lateef — Eastern Sounds (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "A defining statement: this is the definitive Yusef Lateef record, crystallizing his integration of non-Western instruments (oboe, xun, Farrow's rabab) into the jazz idiom years before 'world music' was a category, and it passes the bridge test cleanly — the Eastern textures are anchored by an unimpeachable hard-bop rhythm section led by Barry Harris, with Ernie Farrow and Lex Humphries, giving the date real session gravity in the Detroit/bop lineage. Its lineage signal is strong and audible: a premier gateway record whose influence echoes through spiritual jazz and decades of hip-hop sampling, and 'Love Theme from Spartacus' and 'The Plum Blossom' still play cold for a new listener. Recorded at Van Gelder Studio in a single September 1961 session with fully observed personnel (S1–S5), it is one of the most enduring Prestige/Moodsville sessions of the early 1960s.",
+    "case_against": "The honest against-case is contextual: Moodsville was a Prestige subsidiary built for accessible, low-key 'mood' music, and the album's brief tracks, gentle tempos, and two film themes ('Spartacus', 'The Robe') can be framed as polished exotica rather than the boundary-pushing post-bop being made elsewhere in 1961. A skeptic could argue the non-Western instruments are flavoring on standard hard-bop rather than a structural evolution of the idiom. Dossier sourcing is adequate for facts (Wikipedia, AllMusic, Discogs, MusicBrainz) but thin on independent canon-list citations — the consensus signal here rests more on longevity and reputation than on documented list appearances.",
+    "disagreement": "No genuine split to preserve: only one reference (gemini-3.1-pro) delivered a substantive argument (consensus_core / must_have); the deepseek reference returned an empty response.",
+    "recommendation": "The council proposes John include Eastern Sounds as a must_have pillar of the early-1960s hard-bop canon — Lateef's defining record and one of the genre's great gateway albums.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  },
+  "epistemic": "obs",
+  "epistemic_detail": {
+    "personnel": "obs",
+    "recording_date": "obs",
+    "studio": "obs",
+    "producer": "obs",
+    "style": "obs",
+    "priority": "inf",
+    "overall": "obs"
+  }
+}
