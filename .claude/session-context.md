@@ -1,57 +1,63 @@
 # Session Context
 
-## Session Name
-new-agent-briefs
-
 ## Current Focus
-
-Open the genre gates on the jazz canon. Three genres now admissible that no existing
-agent brief covers: **fusion**, **free jazz**, and **ECM**. Remit: develop briefs for
-these three categories (existing set lives in `research/agent-briefs/`).
+Studios map — platform-side data work (handoff from jazz-canon `studios` branch).
+Make `_jazzcanon` able to answer "where was every session recorded, at what
+coordinates, with what confidence," then export it as `places.json` for the
+site's new D3 time-scrubber Studios view. Full handoff brief was pasted at
+session start (7 decisions for John, one at a time; site repo stays read-only
+consumer).
 
 ## Honcho Context
-
-peer=john, reasoning_level=low. John's position has evolved from "excluded" to
-"provisional, permeable gates":
-
-- **Fusion** — does not want the canon to become a fusion project, but a total exclusion
-  is too blunt: walling it off loses the **lineage/bridge to later jazz** (Kamasi Washington,
-  Charles Lloyd). Called his old "I don't understand it" rationale "lame."
-- **Free jazz** — personal taste remains cool; explicitly says it doesn't currently resonate.
-  But he is *studying* it rather than dismissing it, and asked how many free-jazz records
-  might be canon-worthy (~20 / 50 / 100). Gate opens **incrementally**.
-- **ECM** — the preferred middle path: a route from modal/post-bop into later, genre-fluid
-  music without leaping to fusion. Investigated specifically as **"modal jazz after 1970."**
-  Jarrett's *Köln Concert* is central — possibly his #2 after *Kind of Blue*, must eventually
-  enter the canon. ECM records arrive as **scope_call / contested**, judged on continuity
-  with the 1960s modal tradition — never accepted or rejected by label or decade alone.
-- **Year boundary** — 1940–1972 was acknowledged scaffolding; pushed to 1979 to let the
-  ECM-era bridge records be evaluated. Genre harness retained for now.
-
-Read: keep the canon's center of gravity in the jazz John understands and loves, but make
-the boundaries permeable enough to test important continuities.
-
-**Divergence noted:** this instruction departs from the CLAUDE.md scope gate ("no free jazz,
-no fusion") and the `config/canon-rubric.md` frontmatter `excluded_styles`. Flagged before
-proceeding; newer instruction wins and the rubric is being edited to match.
+Honcho (peer=john) already holds the design-session record and it matches the
+handoff: self-drawn D3 map, all recording places (studios + live venues,
+visually distinguished), time scrubber; ~42 raw studio strings mentioned in
+design (verify against live DB); cleanup via per-item worksheet (raw → canonical
+→ merge/split/exclude → evidence), item-by-item first, bulk-accept only after
+John sees the pattern; location labels `obs` (documented address) vs `inf`
+(city centroid), never invent precision; proposed `kind` column and epistemic
+storage location are OPEN, need John's explicit schema approval; Van Gelder
+Hackensack-vs-Englewood-Cliffs is the one-place-or-two test case; export
+principle "loose on membership, never loose on facts" — albums without places
+still ship. No prior curation of studios work in the honcho-memory log (this is
+its first platform-side session).
 
 ## Key Decisions
+- Cross-session messaging channel established with the site session
+  (`jazz-canon-07`, John's first use of the feature). Ground rule ratified on
+  both sides: factual coordination direct, decisions through John.
+- Site-side contract requirements received in full (they had NOT arrived via
+  John — assumed-pasted gap caught and closed):
+  R1 single unambiguous precision field per place (address|city semantics,
+  no cross-entity joins to recover it); R2 one coordinate per exported place
+  (moved venues = distinct exported places; renderer constraint, informs but
+  does not decide the Van Gelder ruling); R3 deterministic slug ids
+  export-to-export, merge survivor keeps one id. Optional non-contractual
+  4th: one-line editorial note per place from studio.notes.
+- Site falls back to album canon year when session dates are NULL — no
+  platform requirement.
 
-- **Deliverable = agent files + briefs.** All three existing briefs are marked
-  "Superseded 2026-06-11" by first-class agents in `~/.claude/agents/`. New work ships as
-  three dispatchable agent files *plus* matching design-history briefs, cross-linked like
-  the existing pairs.
-- **Rubric edited this session.** `excluded_styles: [free-jazz, fusion]` is the gate;
-  briefs alone would produce candidates the council rejects on sight.
-- **ECM scoped 1969–1979 only.** John chose the small step: `year_max: 1979` stays put.
-  He expects to push the end date out in coming weeks/months.
+## Survey (live DB, 2026-08-12, read-only)
+- 46 studio rows, all lat/lon NULL. 263 sessions; 14 unlinked to a studio;
+  7 undated. Exactly 5 canon albums have no studio-linked session:
+  Subconscious-Lee 1950, Something Cool 1955, What Is There to Say? 1959,
+  Sahara 1972, Let My Children Hear Music 1972 — ship placeless.
+- Van Gelder row (id 137, "Englewood Cliffs") holds 100 sessions / 73 albums
+  and certainly includes pre-1959 Hackensack sessions → a split ruling means
+  date-based session reassignment, not just a new row. Row 128 is a compound
+  string already holding Hackensack dates.
+- Schema notes: session.epistemic exists (default obs) — it labels the
+  session claim, not location; studio has UNIQUE(name,city) and
+  UNIQUE(name_slug) — merges must respect both; studio has no kind or
+  location-epistemic column (decisions 2/3).
 
 ## Notes
-
-- Session started: 2026-07-28
-- `excluded_styles` is **prose-enforced only** — `check-candidate.py` and `stage-candidate.py`
-  parse `year_min`/`year_max` from the frontmatter but never read `excluded_styles`.
-  Style gating happens in agent/council judgment, not in code.
-
-## Previous session (2026-07-26, `schema-update`) — carried-forward open items
-- Deferred: per-line citation backfill; `_jazzcanon_ro` password rotation.
+- Session started: 2026-08-12
+- Done means: studio table cleaned + geocoded, kind + location-epistemic
+  ratified somewhere, exporter emits places.json, fresh export in site's
+  app/public/data/. jazz-canon `studios` branch parked until then.
+- Decisions queue (ask one at a time): 1 canonical place set, 2 venue kind
+  storage, 3 location epistemic storage, 4 bare-city entries, 5 moved venues,
+  6 export contract shape, 7 geocoding method.
+- Constraint reminders: schema changes propose-first; `_jazzcanon_app` has no
+  DELETE grant; every coordinate/merge needs evidence.
