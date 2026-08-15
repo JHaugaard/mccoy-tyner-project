@@ -129,11 +129,49 @@ SELECT json_build_object(
 );
 SQL
 
+# --- places.json ---
+# Studios map contract (ratified 2026-08-14; confirmed with site session).
+# One coordinate per place (moved venues are distinct places — R2); id is
+# name_slug, deterministic run-to-run (R3); precision is the single
+# unambiguous field the site renders from (R1): address = street/block-grade
+# documented coordinate (location_epistemic obs), city = 3-decimal centroid
+# (inf). Same publication gate as every other file. Places whose albums are
+# all un-gated are omitted; their ids are stable when they later appear.
+# The optional per-place editorial note is deferred until notes are curated.
+"${PSQL[@]}" <<'SQL' > "$OUT/places.json"
+SELECT json_agg(r ORDER BY r.id)
+FROM (
+  SELECT st.name_slug AS id, st.name, st.kind, st.city, st.lat, st.lon,
+         CASE st.location_epistemic::text WHEN 'obs' THEN 'address' ELSE 'city' END AS precision,
+         (SELECT json_agg(al_r ORDER BY al_r.year, al_r."albumId")
+          FROM (
+            SELECT a.id AS "albumId", a.year,
+                   coalesce((SELECT json_agg(dd.d ORDER BY dd.d) FROM (
+                      SELECT DISTINCT coalesce(se2.session_date::text, se2.session_date_text) AS d
+                      FROM _jazzcanon.session se2
+                      WHERE se2.studio_id = st.id AND se2.album_id = a.id
+                        AND coalesce(se2.session_date::text, se2.session_date_text) IS NOT NULL) dd),
+                    '[]'::json) AS dates
+            FROM _jazzcanon.album a
+            WHERE a.canon_status = 'included' AND a.site_status IN ('approved','live')
+              AND EXISTS (SELECT 1 FROM _jazzcanon.session se
+                          WHERE se.studio_id = st.id AND se.album_id = a.id)
+          ) al_r) AS albums
+  FROM _jazzcanon.studio st
+  WHERE st.name_slug NOT LIKE 'merged-%'
+    AND EXISTS (SELECT 1 FROM _jazzcanon.session se
+                JOIN _jazzcanon.album a ON a.id = se.album_id
+                WHERE se.studio_id = st.id
+                  AND a.canon_status = 'included' AND a.site_status IN ('approved','live'))
+) r;
+SQL
+
 # --- structural invariants (no magic numbers — hold at any canon size) ---
 node - "$OUT" <<'JS'
 const fs = require('fs'), path = process.argv[2];
 const rd = f => JSON.parse(fs.readFileSync(path + '/' + f, 'utf8'));
 const albums = rd('albums.json'), details = rd('details.json'), graph = rd('graph.json');
+const places = rd('places.json');
 const fail = m => { console.error('✗ INVARIANT FAILED: ' + m); process.exit(1); };
 if (albums.length !== Object.keys(details).length)
   fail(`albums ${albums.length} != details ${Object.keys(details).length}`);
@@ -152,7 +190,25 @@ for (const e of graph.edges) {
   if (!graph.people[e.p]) fail(`edge references unknown person ${e.p}`);
   if (!e.entries || e.entries.length < 1) fail(`edge ${e.p}/${e.a} has no entries`);
 }
+const albumIds = new Set(albums.map(a => a.id));
+const placeIds = new Set(), KINDS = ['studio','club','hall','festival','home','other'];
+for (const p of places) {
+  for (const k of ['id','name','kind','city','precision'])
+    if (!p[k]) fail(`place ${p.id || '?'} missing ${k}`);
+  if (placeIds.has(p.id)) fail(`duplicate place id ${p.id}`);
+  placeIds.add(p.id);
+  if (!KINDS.includes(p.kind)) fail(`place ${p.id} bad kind ${p.kind}`);
+  if (!['address','city'].includes(p.precision)) fail(`place ${p.id} bad precision ${p.precision}`);
+  if (typeof p.lat !== 'number' || p.lat < -90 || p.lat > 90) fail(`place ${p.id} bad lat`);
+  if (typeof p.lon !== 'number' || p.lon < -180 || p.lon > 180) fail(`place ${p.id} bad lon`);
+  if (!p.albums || p.albums.length < 1) fail(`place ${p.id} has no albums`);
+  for (const pa of p.albums) {
+    if (!albumIds.has(pa.albumId)) fail(`place ${p.id} references unknown album ${pa.albumId}`);
+    if (!Array.isArray(pa.dates)) fail(`place ${p.id}/${pa.albumId} dates not an array`);
+  }
+}
 const kb = f => Math.round(fs.statSync(path + '/' + f).size / 1024);
 console.log(`✓ Export valid — albums=${albums.length} people=${Object.keys(graph.people).length} `
-  + `edges=${graph.edges.length}  (${kb('albums.json')}+${kb('details.json')}+${kb('graph.json')} KB)`);
+  + `edges=${graph.edges.length} places=${places.length}  `
+  + `(${kb('albums.json')}+${kb('details.json')}+${kb('graph.json')}+${kb('places.json')} KB)`);
 JS
