@@ -139,3 +139,80 @@ handoff)`) — recoverable, not lost. No action needed; recorded so the
 `edit_log` churn on 2026-07-26 has an explanation attached.
 
 Logged by Claude Code, 2026-07-26.
+
+---
+
+# Added 2026-08-14 (Claude Code, studios-map session)
+
+Context: the studios cleanup + geocoding + `places.json` export (worksheet at
+`research/studios-cleanup-worksheet.md`, ratified in full; commits 54e1865 →
+e4dde39). None blocking; the site's Studios build is live against the export.
+
+## 7. Ingest does NOT capture place data — the pipeline needs teaching
+**The big one.** Everything the studios session accomplished was retroactive
+cleanup. The drip/staging path (`gather-mission.md` → dossier →
+`stage-candidate.py`) still writes raw studio strings exactly as researchers
+emit them: compound strings, bare cities, name variants, no `kind`, no
+`address`, no `location_epistemic`, no `location_source`, no coordinates.
+*Seven Steps to Heaven* proved it mid-session — it arrived 2026-08-13 with a
+compound row and needed its own mini-ruling. Until the pipeline is taught:
+**every drip arrival with a new place needs a mini-worksheet pass** (match
+against existing canonical places first; new places need kind + address
+research + geocode per the ratified method in the worksheet header and
+`scripts/studio-geocode-2026-08-14.sql`). The real fix is upstream: extend
+the gather mission / personnel contract so researchers emit a canonical-place
+match (or a flagged new-place record with address + source) at ingest time,
+and extend `stage-candidate.py` to resolve against `studio.name_slug` instead
+of blind-inserting name/city strings. That is a spec change → John's approval.
+
+## 8. Per-place editorial note field (site's optional 4th ask) — deferred
+The site has a venue-card slot for a one-line editorial note (e.g. "Rudy Van
+Gelder's parents' living room"). `studio.notes` now holds good material but
+mixed with internal caveats (merge markers, worksheet refs, source-conflict
+notes). Shipping it raw would leak plumbing. Needs: a John-reviewed curation
+pass over 47 places (many notes are already display-grade), then a purely
+additive `note` field in the `places.json` exporter block. Site confirmed
+non-blocking; no shape change when it lands.
+
+## 9. Tristano coordinate override — John's option, open
+`lennie-tristanos-home-studio`: address (317 E 32nd St) is documented — the
+track names it — but the 300-block was swallowed by the Kips Bay Towers
+superblock and the address is extinct in OSM, Census, and NYC GeoSearch.
+Coordinate is block-approximate (3 decimals, anchored to 252 E 32nd) and
+`location_epistemic` was degraded obs→inf so the map never implies a
+street-grade pin. John may override back to obs (one UPDATE + edit_log);
+flagged at execution, not yet ruled either way.
+
+## 10. Bauer merge is a medium-confidence inference
+`studio-bauer-ludwigsburg` merged "Musikstudio Bauer" (1969, engineer Kurt
+Rapp) and "Tonstudio Bauer" (1975, engineer Martin Wieland) on same-city/
+same-surname/same-producer inference — no source confirms one physical room
+vs. a family business with two facilities. Noted on the row. If an ECM
+history source ever settles it and the answer is "two rooms," the split is:
+new row, reassign one session, both stay city-precision (no address known
+for either).
+
+## 11. Out of the Cool full session normalization — optional
+Option 1 (year-prefix on the two date strings) executed 2026-08-14. The
+proper fix remains available: four dated session rows (1960-11-18, -11-30,
+-12-10, -12-15) with the album's 5 tracks researched onto their actual days
+and FKs reassigned. Cosmetic for the map (year-grade is all the scrubber
+uses); worth doing only if track-level session data matters elsewhere.
+
+## 12. Small data checks surfaced by the worksheet, unruled
+- Pershing (`At the Pershing`): sources say Jan 16–17 1958; DB holds only
+  Jan 16. Adding a session row is new data → needs a source + John's nod.
+- Atlantic Feb-1959 session (*Blues & Roots* bundle): place identity solid,
+  but the address is ambiguous between 157 W 57th and 1841 Broadway (move
+  month undocumented). Noted on the studio row; affects nothing unless
+  per-session address precision ever matters.
+- Two Van Gelder sessions carry dates matching no documented session
+  (1954-01-06 Brookmeyer, 1956-01-22 Fontessa — nearest documented dates are
+  days off). Epistemic degraded to inf; a discography deep-dive could fix
+  the dates properly.
+- RLA Studios (`rla-studios`) is fully researched + geocoded but absent from
+  `places.json` until its only album (*Heliocentric Worlds Vol. 1*,
+  candidate/found) passes John's include gate. Nothing to do — it appears
+  automatically with a stable id.
+
+Logged by Claude Code, 2026-08-14.
