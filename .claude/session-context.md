@@ -51,6 +51,15 @@ its first platform-side session).
   UNIQUE(name_slug) — merges must respect both; studio has no kind or
   location-epistemic column (decisions 2/3).
 
+## Status: DONE (2026-08-14)
+All seven handoff decisions ratified and executed. 47 canonical places
+(migration 5a; worksheet ratified in full; Seven Steps follow-up split),
+all geocoded with citations (34 obs / 13 inf), places.json contract
+confirmed with site session and landed in app/public/data (46 places —
+RLA awaits its album's include gate). Commits 54e1865, 37ae9e7, e4dde39.
+Open flags recorded in memory/studios-map-complete.md (note-field curation,
+Tristano obs override, Bauer merge caveat, drip adds messy studio rows).
+
 ## Notes
 - Session started: 2026-08-12
 - Done means: studio table cleaned + geocoded, kind + location-epistemic

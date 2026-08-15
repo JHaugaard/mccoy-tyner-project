@@ -1,77 +1,68 @@
 # Status
 
+_Last updated 2026-08-14, end of the studios-map platform session._
+
 ## Where are we?
 
-**McCoy is built and running.** The Fable 5 build session (this one) took the
-spec from last session and made all of it real, verified piece by piece:
+**The Studios map data work is done, end to end.** The database can now answer
+"where was every session recorded, at what coordinates, with what confidence"
+— which is what this session existed to make true:
 
-- **Talk to it now:** type `mccoy` in any terminal on vps8 and you're chatting
-  with McCoy — it queries the live canon database, answers in its own voice,
-  and can make small audited edits when you ask. `docs/mccoy-runbook.md` is
-  the how-to.
-- **The review pipeline works end to end, proven with a real album.** *Shorty
-  Rogers and His Giants* (1953) went through the whole machine — researched
-  record, judged by the canon-council (two models argue for/against, a third
-  writes the ballot: it scored consensus-core, must-have), and staged into the
-  database as a candidate. It's sitting in your review queue right now, and it
-  did NOT leak onto the public site (that gate was tested).
-- **The nightly drip is scheduled.** Starting tomorrow at 6:00 AM, up to 2
-  fresh candidates arrive on Telegram each morning. It stays silent when your
-  queue has 10 unreviewed or there's nothing worth proposing. All the
-  guardrails (dedup against everything known, the year window, the cap) are
-  enforced by code, not by trusting the model.
-- **The database got its queued upgrades.** Publication states
-  (found → reviewed → approved → live → retired), an edit audit log, a writer
-  role that physically cannot delete rows, and — held item closed — all 393
-  album-level citations loaded (every one of the 100 albums now has its
-  sources on record; nothing fabricated, including the 14 Kimi-only albums).
-- **You steer it by editing markdown, never code:** `config/canon-rubric.md`
-  (the year window and quality bar), `config/edit-contract.md` (what McCoy may
-  touch), `config/gather-mission.md` (how missions run). Widening the canon to
-  1975 is a one-line edit.
+- The 46 messy studio strings (plus one that arrived mid-session with *Seven
+  Steps to Heaven*) were researched, ruled on by you item by item, and cleaned
+  into **47 canonical places** — every one with a venue kind, a city, a
+  documented address or an honest "city-level only" label, and a citation.
+  The ruling document is `research/studios-cleanup-worksheet.md`.
+- **All 47 places have coordinates**: 34 street-grade (from venue Wikipedia
+  pages or geocoded from documented addresses), 13 deliberately-coarse city
+  centroids. Nothing invented — four wrong-pin traps were caught and dodged
+  along the way.
+- The **Van Gelder problem is fixed**: Hackensack and Englewood Cliffs are two
+  places now, with ~100 sessions correctly divided at the documented July 1959
+  boundary. Three factual errors found and corrected with sources (*Karma* was
+  NYC not Hollywood; *Inner Mounting Flame* was NYC not Paris; *The Sermon!*
+  was a Manhattan hotel ballroom, not Van Gelder's).
+- The exporter now emits **places.json** (46 places — one waits on an album
+  still in your review queue), the site session confirmed the contract point
+  by point, and the file is landed in the site repo. The `studios` branch over
+  there is unparked and building.
+- Everything is audited (~170 edit-log rows), committed locally
+  (five commits, `54e1865` → `e8ee8f7`), **not yet pushed**.
 
-## Update 2026-07-17 — drip incident, repaired
-
-The second nightly drip failed safely: it re-picked the previous night's
-candidates instead of finding new ones, the database guard refused them
-(nothing corrupted), but the run reported itself as a success. Root causes
-found and fixed the same day:
-
-- Deduplication is now enforced by code, not by trusting the model — the
-  precheck archives already-staged files before the agent runs, and a new
-  `scripts/check-candidate.py` gate must pass before any research starts.
-- A refused candidate is now reported as "DRIP FAILED", never dressed up
-  as a result.
-- A path bug meant both drips were judged by the wrong council (the
-  default one, not the canon-council). Fixed, and both queued candidates
-  were re-judged by the real council — Art Blakey's *Free for All* was
-  upgraded to consensus-core in the process.
+This was also the first project use of **cross-session messaging** — this
+session and the jazz-canon site session coordinated directly (contract
+negotiation, verification, forward briefing) with you ruling on decisions but
+out of the paste-carrying business. It worked well.
 
 ## What's unresolved?
 
-Nothing is blocked. Small open threads:
+Nothing blocking. The follow-ups live in `docs/follow-ups.md` items 7–12;
+the ones that will actually tap you on the shoulder:
 
-- **Three staged candidates await your verdict** — Shorty Rogers, Art
-  Blakey (*Free for All*), Horace Silver (*Serenade to a Soul Sister*):
-  include / reject / later. Tell McCoy in chat, or reply when a drip card
-  arrives. The next drip fires 2026-07-18 06:00.
-- **One untested-in-anger path:** a full interactive gather mission ("find me
-  3 soul-jazz candidates from 1958–64") — every piece is verified separately,
-  but the first whole run happens when you ask for one in `mccoy` chat.
-- **Nothing is committed to git yet** — this session created/changed a lot
-  (migration scripts, config files, the runbook, the spec now marked BUILT).
-  Waiting on your say-so.
-- **Two carried-over deferrals:** per-musician citations (album-level is live;
-  the upgrade is additive, reminder saved) and rotating the read-only DB
-  password (it's now been on screen twice).
+- **The ingest pipeline doesn't know any of this happened** (item 7, the big
+  one). New albums from the drip still arrive with raw messy studio strings —
+  no kind, no coordinates, no canonical matching. Until the gather mission and
+  staging script are taught to resolve places at ingest (a spec change needing
+  your approval), each new place needs a quick manual ruling.
+- **The per-place editorial note** for the site's venue cards ("Rudy Van
+  Gelder's parents' living room") awaits a curation pass you'd review — the
+  notes column holds good material mixed with internal bookkeeping.
+- **One coordinate call is yours to override**: Tristano's home studio address
+  is documented but extinct (the block became Kips Bay Towers), so its pin is
+  labeled approximate. Flip it back to street-grade if you disagree.
+- **Carried from July, still open**: per-musician citations (additive upgrade,
+  reminder on file) and rotating the read-only DB password.
 
 ## What's next?
 
-If you sat down right now, in order of payoff:
+If you sat down right now:
 
-1. **Type `mccoy` and review the Shorty Rogers candidate** — your first real
-   include/reject through the new machinery.
-2. **See what tomorrow's 6 AM drip brings** to Telegram — the first unattended
-   run.
-3. **Say "commit it"** here in Claude Code to get the session's work into git.
-4. When you feel like it: run your first gather mission from `mccoy` chat.
+1. **Watch the site session build the map** — the platform side owes it
+   nothing further; your next involvement there is seeing pins on a screen.
+2. **Push the five local commits** when you're ready (`git push` in
+   mccoy-tyner; the site repo's places.json commit belongs to that session).
+3. **Pore over follow-ups 7–12** as you said you would — item 7 (teach the
+   ingest pipeline about places) is the one worth scheduling a session for
+   before the drip delivers many more albums.
+4. *Heliocentric Worlds Vol. 1* (Sun Ra) is still in your review queue — when
+   you rule on it, RLA Studios joins the map automatically.

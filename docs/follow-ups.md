@@ -63,6 +63,7 @@ guesses and need eyes before they land. Verify a proposed ID with
 title, release date and track count against the album before writing.
 
 ## 2b. Shorty Rogers has no MusicBrainz MBID
+
 `shorty-rogers-and-his-giants-1953` — `musicbrainz_release_group_mbid` is
 NULL and MusicBrainz returns no match for it. Surfaced 2026-07-26 by a dry
 run of `mbid-apple-lookup.py`; it is the only album in the DB missing an
