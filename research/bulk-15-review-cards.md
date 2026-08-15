@@ -71,6 +71,7 @@ DISAGREEMENT: Both references tier it as a fusion/1973+ scope call and regard it
 Council recommendation: The council proposes that John treat Head Hunters as a must-have if he judges its Mwandishi-to-jazz-funk bridge sufficiently continuous with the post-bebop tradition; otherwise, the fusion boundary should exclude it rather than its quality. (confidence: high)
 
 ## 6. Jan Garbarek / Bobo Stenson Quartet — Witchi-Tai-To (1973, ECM)
+
 tier: scope_call · priority: strong · style: european-jazz ['ecm', 'european-jazz', 'modal-jazz'] · sources: 4 · personnel: 4
 
 SCOPE: The 1973 ECM/continuity boundary is decisive: this is an admitted ECM-era candidate, but John must determine whether its Nordic folk-inflected, chamber-like modal language extends the 1960s post-bop/modal tradition or establishes a sufficiently separate European lineage.

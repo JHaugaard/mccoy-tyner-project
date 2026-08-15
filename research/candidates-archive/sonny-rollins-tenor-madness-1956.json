@@ -1,0 +1,264 @@
+{
+  "id": "sonny-rollins-tenor-madness-1956",
+  "artist": "Sonny Rollins",
+  "album": "Tenor Madness",
+  "year": 1956,
+  "label": "Prestige",
+  "style_primary": "hard-bop",
+  "rationale": "Rollins leading the Miles Davis First Great Quintet rhythm section (Garland, Chambers, Philly Joe Jones), and the title track is the only known recording of Sonny Rollins and John Coltrane playing together — a singular document in the tenor lineage the canon is built on. AllMusic 4.5 stars (Nastos: 'belongs on everybody's shelf'), Rolling Stone Jazz Record Guide 5 stars, Penguin Guide 4 stars — consensus across independent listing traditions, recorded two weeks after the quintet's own Workin'/Relaxin' marathon at the same studio.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Tenor Madness",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Tenor_Madness"
+    },
+    "S2": {
+      "title": "AllMusic — Tenor Madness (review, Michael G. Nastos)",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/tenor-madness-mw0000197692"
+    },
+    "S3": {
+      "title": "iTunes Search API — Tenor Madness (Remastered), collectionId 1443206098",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Sonny+Rollins+Tenor+Madness&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group ed32cd49-5a77-449f-abdb-2170fb1938de / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://coverartarchive.org/release-group/ed32cd49-5a77-449f-abdb-2170fb1938de"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-05-24"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, New Jersey",
+    "producer": "Bob Weinstock",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tenor Madness"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Title track only — the only known recording of Rollins and Coltrane together."
+      },
+      {
+        "name": "Red Garland",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Tenor Madness",
+        "track_number": 1,
+        "side": null,
+        "duration": "12:16",
+        "session_date": "1956-05-24",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "When Your Lover Has Gone",
+        "track_number": 2,
+        "side": null,
+        "duration": "6:11",
+        "session_date": "1956-05-24",
+        "composers": [
+          "Einar Aaron Swan"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Paul's Pal",
+        "track_number": 3,
+        "side": null,
+        "duration": "5:12",
+        "session_date": "1956-05-24",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "My Reverie",
+        "track_number": 4,
+        "side": null,
+        "duration": "6:08",
+        "session_date": "1956-05-24",
+        "composers": [
+          "Larry Clinton",
+          "Claude Debussy"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Most Beautiful Girl in the World",
+        "track_number": 5,
+        "side": null,
+        "duration": "5:37",
+        "session_date": "1956-05-24",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "ed32cd49-5a77-449f-abdb-2170fb1938de",
+    "apple_album_id": "1443206098",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/ed32cd49-5a77-449f-abdb-2170fb1938de/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front for the release group; pressing not verified as the original 1956 Prestige issue."
+      }
+    ],
+    "notes": "Single session, May 24, 1956, Van Gelder Studio, Hackensack. Producer Bob Weinstock per Wikipedia (obs). Engineer not stated in sources consulted; Rudy Van Gelder inferred per contract rule (Prestige, 1956, recorded at Van Gelder Studio, Hackensack) — epistemic_production reflects the producer obs; the engineer inference is the Van Gelder rule. 'Tenor Madness' melody first recorded 1946 by Kenny Clarke and His 52nd Street Boys as 'Royal Roost'; credited to Rollins on this release. Non-title tracks are the quartet without Coltrane (Wikipedia lists Coltrane '#1 only')."
+  },
+  "ballot": {
+    "album": "Sonny Rollins — Tenor Madness (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "The title track is the only known recording of Sonny Rollins and John Coltrane playing together — a singular document of the two defining tenor voices of the post-bebop era, and a record no canon built on the tenor lineage can omit. The session gravity is exceptional: Rollins fronts the Miles Davis First Great Quintet rhythm section (Garland, Chambers, Philly Joe Jones) at their peak, recorded at Van Gelder's Hackensack studio two weeks after the quintet's own Workin'/Relaxin' marathon. Critical consensus spans independent listing traditions: AllMusic 4.5 stars (Nastos: 'belongs on everybody's shelf'), Rolling Stone Jazz Record Guide 5 stars, Penguin Guide 4 stars. The discovery test passes immediately — the 12-minute tenor chase on the title track still plays as one of the thrilling documents of 1950s hard bop.",
+    "case_against": "The album is not Rollins' defining statement — Saxophone Colossus, recorded roughly a month later, holds that position — and the four non-title tracks are a very fine but conventional blowing session on standards and blues rather than a unified artistic conception; strip away the title track and this is excellent, not epochal. The dossier's sourcing is also thinner than the rationale implies: only Wikipedia and AllMusic are actually tokenized as qualitative sources, while the Rolling Stone and Penguin Guide ratings are asserted without source entries, and the remaining sources are identifiers (iTunes, MusicBrainz, Cover Art Archive). Neither reference found these points decisive, but both are real.",
+    "disagreement": null,
+    "recommendation": "The council proposes John include Tenor Madness as a must_have consensus_core record — the sole Rollins–Coltrane meeting plus the First Great Quintet rhythm section makes the canon's tenor lineage visibly incomplete without it.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

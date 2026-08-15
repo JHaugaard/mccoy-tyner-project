@@ -1,0 +1,300 @@
+{
+  "id": "eric-dolphy-out-there-1960",
+  "artist": "Eric Dolphy",
+  "album": "Out There",
+  "year": 1960,
+  "label": "New Jazz (Prestige)",
+  "style_primary": "post-bop",
+  "rationale": "Dolphy's second leader date and the first full statement of his mature, chord-less concept: cello-and-bass front line (Ron Carter in one of his first recorded appearances, George Duvivier), no piano, Roy Haynes driving. Five-star AllMusic review ('a depth and purpose that were unprecedented and remain singularly unique'), five-star Rolling Stone Jazz Record Guide, 3.5-star Penguin Guide. Lineage signal: the explicit bridge from Chico Hamilton's cello ensembles through Dolphy's Mingus years toward Out to Lunch! (already in the canon); James Newton cites this record's flute work as formative. Wikipedia tags it avant-garde/third stream/post-bop \u2014 proposed as post-bop leaning scope_call for John to weigh how far toward the free-jazz boundary this sits. (inf \u2014 synthesis across listed sources)",
+  "priority": "strong",
+  "epistemic": "inf",
+  "sources": {
+    "S1": {
+      "title": "Out There (Eric Dolphy album) \u2014 Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Out_There_(Eric_Dolphy_album)"
+    },
+    "S2": {
+      "title": "Out There \u2014 AllMusic (review, credits page)",
+      "type": "reference",
+      "url": "https://www.allmusic.com/album/out-there-mw0002571715"
+    },
+    "S3": {
+      "title": "New Jazz Label Discography \u2014 Both Sides Now Publications (PDF)",
+      "type": "label-discography",
+      "url": "http://www.bsnpubs.com/new/newjazz.pdf"
+    },
+    "S4": {
+      "title": "MusicBrainz release group f17eb6cd-d1ef-3e2f-94a9-06e286368245 / Cover Art Archive",
+      "type": "identifier",
+      "url": "https://coverartarchive.org/release-group/f17eb6cd-d1ef-3e2f-94a9-06e286368245"
+    },
+    "S5": {
+      "title": "iTunes Search API \u2014 Eric Dolphy Out There (no standalone match found)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Eric+Dolphy+Out+There&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-08-15"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Esmond Edwards",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Per-track doubling per Wikipedia: alto saxophone (tracks 1, 7); bass clarinet (2, 3); clarinet (4); flute (5, 6). Bb clarinet on 'Eclipse' is a rare Dolphy clarinet solo (Simosko/Tepperman via Wikipedia)."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "cello",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "One of Carter's first recorded appearances (Wikipedia)."
+      },
+      {
+        "name": "George Duvivier",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Out There",
+        "track_number": 1,
+        "side": null,
+        "duration": "6:55",
+        "session_date": "1960-08-15",
+        "composers": [
+          "Eric Dolphy"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Ron Carter",
+          "George Duvivier",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Serene",
+        "track_number": 2,
+        "side": null,
+        "duration": "7:01",
+        "session_date": "1960-08-15",
+        "composers": [
+          "Eric Dolphy"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Ron Carter",
+          "George Duvivier",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Baron",
+        "track_number": 3,
+        "side": null,
+        "duration": "2:57",
+        "session_date": "1960-08-15",
+        "composers": [
+          "Eric Dolphy"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Ron Carter",
+          "George Duvivier",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Eclipse",
+        "track_number": 4,
+        "side": null,
+        "duration": "2:45",
+        "session_date": "1960-08-15",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Ron Carter",
+          "George Duvivier",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "17 West",
+        "track_number": 5,
+        "side": null,
+        "duration": "4:50",
+        "session_date": "1960-08-15",
+        "composers": [
+          "Eric Dolphy"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Ron Carter",
+          "George Duvivier",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sketch of Melba",
+        "track_number": 6,
+        "side": null,
+        "duration": "4:40",
+        "session_date": "1960-08-15",
+        "composers": [
+          "Randy Weston"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Ron Carter",
+          "George Duvivier",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Feathers",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:00",
+        "session_date": "1960-08-15",
+        "composers": [
+          "Hale Smith"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Ron Carter",
+          "George Duvivier",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "f17eb6cd-d1ef-3e2f-94a9-06e286368245",
+    "apple_album_id": null,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/f17eb6cd-d1ef-3e2f-94a9-06e286368245/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Release-group front via Cover Art Archive; pressing not verified as original 1961 New Jazz sleeve (cover painting 'Prophet' by Richard Jennings per Wikipedia)."
+      }
+    ],
+    "notes": "Recorded August 15, 1960 at Van Gelder Studio, Englewood Cliffs; released September 1961 on New Jazz (NJLP 8252), a Prestige subsidiary \u2014 year field uses recording year per rubric. Producer Esmond Edwards per Wikipedia. Engineer not named in sources consulted; Rudy Van Gelder inferred per the contract's Van Gelder inference rule (Prestige/New Jazz date confirmed at Van Gelder Studio). AllMusic gives release date August 16, 1960 (likely a metadata artifact contradicting the September 1961 release per Schwann/Reporter citations) \u2014 conflict recorded. iTunes Search API returned no standalone 'Out There' album (only compilations), so apple_album_id is null. Quartet instrumentation (no chordal instrument) confirmed by all sources."
+  },
+  "ballot": {
+    "album": "Eric Dolphy \u2014 Out There (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Year is safely inside 1940\u20131979; the live boundary is the avant-garde / post-bop edge \u2014 Wikipedia tags the album avant-garde and third stream, and the rubric's borderline modal/avant rule (Out to Lunch!, The Shape of Jazz to Come) applies directly here."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "This is the first full statement of Dolphy's mature chordless concept \u2014 cello-and-bass front line, no piano \u2014 recorded four years before Out to Lunch! (already in the canon) and functioning as the explicit lineage bridge from Chico Hamilton's cello ensembles through Dolphy's Mingus years (James Newton cites its flute work as formative). Consensus is strong across independent reference works: 5 stars from AllMusic ('a depth and purpose that were unprecedented and remain singularly unique') and 5 stars from the Rolling Stone Jazz Record Guide, with 3.5 from the Penguin Guide. Session gravity is exceptional: one of Ron Carter's first recorded appearances, George Duvivier, Roy Haynes, Rudy Van Gelder at the board. And it passes the discovery test vividly \u2014 the timbral identity of cello as highest voice with no chordal instrument remains singular in the entire catalog.",
+    "case_against": "The album's angular, harmonically ungrounded language leans well past the canon's hard-bop/modal center of gravity, and John's standing free-jazz taste note ('studying it rather than dismissing it') means this chordless chamber-avant texture will test what actually resonates with him. The consensus, while real, is not overwhelming: the rigorous Penguin Guide stops at 3.5 stars, and no Penguin Core Collection, NPR, or DownBeat canon-list citation is in evidence \u2014 the case rests on star ratings and a Wikipedia synthesis, with a recorded metadata conflict on the release date. Finally, with Out to Lunch! already carrying Dolphy's definitive avant-garde statement in the canon, this record can be read as the developmental step toward it rather than a load-bearing pillar in its own right.",
+    "disagreement": null,
+    "recommendation": "The council proposes John rule on the avant-garde boundary: both references independently tier this scope_call at strong priority \u2014 a singular, lineage-bridging Dolphy record whose chordless abstraction only he can weigh against his free-jazz calibration.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

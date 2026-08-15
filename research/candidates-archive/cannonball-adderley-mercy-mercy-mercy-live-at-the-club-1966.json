@@ -1,0 +1,263 @@
+{
+  "id": "cannonball-adderley-mercy-mercy-mercy-live-at-the-club-1966",
+  "artist": "Cannonball Adderley",
+  "album": "Mercy, Mercy, Mercy! Live at \"The Club\"",
+  "year": 1966,
+  "label": "Capitol",
+  "style_primary": "soul-jazz",
+  "rationale": "The defining soul-jazz record and the Cannonball Adderley Quintet's biggest statement: the title track (Joe Zawinul) hit No. 11 on the Billboard Hot 100, the album won the 1967 Grammy for Best Instrumental Jazz Performance and entered the Grammy Hall of Fame in 2021. It is also a lineage node — Zawinul's first recorded electric piano (Wurlitzer) performance, the direct precursor to his Weather Report path — and session gravity for the Nat Adderley / Gaskin / McCurdy working quintet at its peak. AllMusic 5 stars, Rolling Stone Jazz Record Guide 5 stars, Penguin Guide 3 stars. Recorded October 20, 1966, released February 1967; famous fiction of being live at Chicago's Club DeLisa — actually Capitol's Hollywood studio with an invited audience.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Mercy, Mercy, Mercy! Live at \"The Club\"",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Mercy,_Mercy,_Mercy!_Live_at_%27The_Club%27"
+    },
+    "S2": {
+      "title": "iTunes Search API — Mercy, Mercy, Mercy (Live at 'the Club'), collectionId 723778170",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Cannonball+Adderley+Mercy+Mercy+Mercy&entity=album"
+    },
+    "S3": {
+      "title": "MusicBrainz release group 28ea51ba-f497-3bc1-9290-dc9d476c21ea / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://coverartarchive.org/release-group/28ea51ba-f497-3bc1-9290-dc9d476c21ea"
+    },
+    "S4": {
+      "title": "Capitol Records discography (bsnpubs.com, cited by Wikipedia)",
+      "type": "label-discography",
+      "url": "http://www.bsnpubs.com/capitol/previews/600-2999.pdf"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1966-10-20"
+    ],
+    "multi_session": false,
+    "studio": "Capitol Studios, Hollywood (recorded live in-studio with invited audience; liner notes claimed Club DeLisa, Chicago)",
+    "producer": "David Axelrod",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Cannonball Adderley",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Julian \"Cannonball\" Adderley"
+        ],
+        "notes": "Leader."
+      },
+      {
+        "name": "Nat Adderley",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Zawinul",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on Wurlitzer electric piano per Wikipedia — his first recorded electric piano performance; title track composer."
+      },
+      {
+        "name": "Victor Gaskin",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roy McCurdy",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Fun",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:26",
+        "session_date": "1966-10-20",
+        "composers": [
+          "Nat Adderley"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Games",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:19",
+        "session_date": "1966-10-20",
+        "composers": [
+          "Nat Adderley"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Mercy, Mercy, Mercy",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:10",
+        "session_date": "1966-10-20",
+        "composers": [
+          "Joe Zawinul"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sticks",
+        "track_number": 4,
+        "side": "B",
+        "duration": "3:54",
+        "session_date": "1966-10-20",
+        "composers": [
+          "Cannonball Adderley"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Hippodelphia",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:49",
+        "session_date": "1966-10-20",
+        "composers": [
+          "Joe Zawinul"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sack O' Woe",
+        "track_number": 6,
+        "side": "B",
+        "duration": "10:29",
+        "session_date": "1966-10-20",
+        "composers": [
+          "Cannonball Adderley"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "28ea51ba-f497-3bc1-9290-dc9d476c21ea",
+    "apple_album_id": "723778170",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/28ea51ba-f497-3bc1-9290-dc9d476c21ea/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image present in the release group; pressing/originality not confirmed."
+      }
+    ],
+    "notes": "Single live-in-studio date, October 20, 1966, Capitol Studios, Hollywood, with invited audience; original liner notes claimed Club DeLisa, Chicago (a publicity favor, per the CD reissue notes quoted by Wikipedia) — venue conflict preserved. Released February 1967; dossier year is recording year. Engineer not named in consulted sources; explicit null. Side A/B split inferred from standard LP sequencing; Wikipedia gives a single numbered list — sides marked inf-adjacent but left as A/B on the conventional split after track 3. Per-track personnel not distinguished by sources (single working quintet throughout) — track personnel arrays null. AllMusic mw IDs for this title served wrong albums (rot); not cited."
+  },
+  "ballot": {
+    "album": "Cannonball Adderley — Mercy, Mercy, Mercy! Live at \"The Club\" (1966)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "This is the defining soul-jazz record and the Cannonball Adderley Quintet's peak statement, hitting nearly every rubric signal at once. Consensus is formidable and cross-tradition: 1967 Grammy for Best Instrumental Jazz Performance, Grammy Hall of Fame induction in 2021, AllMusic 5 stars, Rolling Stone Jazz Record Guide 5 stars, and a title track that reached No. 11 on the Billboard Hot 100 — proof of jazz's popular reach deep into the rock decade. Lineage is the strongest card: Joe Zawinul's first recorded electric piano (Wurlitzer) performance is a load-bearing node connecting acoustic hard-bop to the electric era and his own Weather Report path, and the Nat Adderley / Gaskin / McCurdy working quintet gives real session gravity. It passes the discovery test easily — the groove and audience energy make it an ideal cold-entry record for a curious listener.",
+    "case_against": "The Penguin Guide's lukewarm 3 stars reflects a genuine critical tradition that reads crossover soul-jazz as commercially calculated and harmonically lightweight, especially against 1966's monumental modal and avant-garde work (Coltrane, Miles' Second Great Quintet). The album's celebrated 'live at the Club DeLisa' framing was a fabrication — it was cut in Capitol's Hollywood studio with an invited audience — which slightly dims the authenticity aura that is part of its legend. Sourcing is also thinner than ideal: the engineer is unknown, the AllMusic IDs for this title were rotted, and the critical ratings rest largely on Wikipedia's summary rather than directly verified guides.",
+    "disagreement": null,
+    "recommendation": "The council proposes John include this as the canon's soul-jazz anchor — a consensus_core, must_have record whose populism is a feature of its discovery value, not a defect.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

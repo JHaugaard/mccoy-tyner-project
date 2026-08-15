@@ -1,0 +1,389 @@
+{
+  "id": "mahavishnu-orchestra-the-inner-mounting-flame-1971",
+  "artist": "Mahavishnu Orchestra",
+  "album": "The Inner Mounting Flame",
+  "year": 1971,
+  "label": "Columbia",
+  "style_primary": "jazz-rock",
+  "style_tags": [
+    "jazz-rock",
+    "fusion"
+  ],
+  "sources": {
+    "S1": {
+      "title": "Mahavishnu Orchestra: The Inner Mounting Flame — AllMusic album page (styles, release/recording date, review)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/the-inner-mounting-flame-mw0000198020"
+    },
+    "S2": {
+      "title": "The Inner Mounting Flame — Wikipedia article (personnel, track listing, production)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Inner_Mounting_Flame"
+    },
+    "S3": {
+      "title": "The Inner Mounting Flame by Mahavishnu Orchestra — MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/cc166f72-5bb4-3534-941f-e974b20604aa"
+    },
+    "S4": {
+      "title": "The Mahavishnu Orchestra With John McLaughlin – The Inner Mounting Flame — Discogs master",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/72307-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame"
+    },
+    "S5": {
+      "title": "Cover Art Archive — MusicBrainz release group cc166f72-5bb4-3534-941f-e974b20604aa",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/cc166f72-5bb4-3534-941f-e974b20604aa"
+    },
+    "S6": {
+      "title": "iTunes Search API — Mahavishnu Orchestra The Inner Mounting Flame album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Mahavishnu+Orchestra+The+Inner+Mounting+Flame&entity=album&limit=10"
+    }
+  },
+  "epistemic": "obs",
+  "rationale": "obs[S1]: AllMusic styles the album Fusion and Jazz-Rock and calls it 'the album that made John McLaughlin a semi-household name... defined the fusion of jazz and rock a year after Miles Davis' Bitches Brew breakthrough.' obs[S2]: Wikipedia documents the quintet, all-McLaughlin compositions, CBS Studios recording, August 14, 1971, and Columbia release November 3, 1971. obs[S3]: MusicBrainz release group confirms the identifier. inf: The record is the first studio statement of the post-Bitches Brew jazz-rock quintet, connecting McLaughlin's earlier acoustic work and Miles sideman credits to the high-energy, odd-meter rock-fusion vocabulary that shaped the 1970s. unk: The August 14 recording date is single-sourced in S2; AllMusic gives a release date of August 14, 1971, which may be a conflation.",
+  "priority": "strong",
+  "bridge_case": "Connects John McLaughlin's work with Miles Davis and the early acoustic jazz scene to the jazz-rock quintet model that defined the high-energy fusion of the 1970s; it is the step after Bitches Brew that made the electric guitar a lead voice in the canon.",
+  "overlap_risk": "",
+  "scope_flag": "Fusion gate — amplified guitar, violin, and odd-meter rock forms are the organizing language; the case-against is that its virtuosic, rock-audience orientation can look like a rock record rather than a jazz lineage document.",
+  "include": null,
+  "personnel_record": {
+    "recording_dates": [
+      "1971-08-14"
+    ],
+    "multi_session": false,
+    "studio": "CBS Studios, New York City",
+    "producer": "John McLaughlin",
+    "engineer": "Don Puluse",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "John McLaughlin",
+        "instrument": "electric guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1971-08-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 lists 'guitar'; leader/composer of all tracks."
+      },
+      {
+        "name": "Rick Laird",
+        "instrument": "electric bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1971-08-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 lists 'bass'; electric bass is the standard instrument in this Mahavishnu lineup."
+      },
+      {
+        "name": "Billy Cobham",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1971-08-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 also credits percussion."
+      },
+      {
+        "name": "Jan Hammer",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1971-08-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 lists keyboards and organ."
+      },
+      {
+        "name": "Jerry Goodman",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1971-08-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Meeting of the Spirits",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:52",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Dawn",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:10",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "The Noonward Race",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:28",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "A Lotus on Irish Streams",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:39",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Vital Transformation",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:16",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "The Dance of Maya",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:17",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "You Know You Know",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:07",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Awakening",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:32",
+        "session_date": "1971-08-14",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Noonward Race (live)",
+        "track_number": 9,
+        "side": null,
+        "duration": "15:03",
+        "session_date": "1972-04-03",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "Rick Laird",
+          "Billy Cobham",
+          "Jan Hammer",
+          "Jerry Goodman"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ],
+        "notes": "Live bonus track from Mar y Sol Pop Festival, 2011 box-set reissue only."
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "cc166f72-5bb4-3534-941f-e974b20604aa",
+    "apple_album_id": "511075517",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/cc166f72-5bb4-3534-941f-e974b20604aa/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S5"
+        ],
+        "notes": ""
+      }
+    ],
+    "notes": "Single quintet session on August 14, 1971 per S2. The 2011 remaster bonus live track is excluded from original-LP coverage."
+  },
+  "ballot": {
+    "album": "Mahavishnu Orchestra — The Inner Mounting Flame (1971)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Fusion gate: amplified guitar, violin, electric keyboards, and rock-derived odd-meter/backbeat forms are central to the music, so John must decide whether its direct post-Bitches Brew lineage outweighs its electric-rock organizing vocabulary."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "This is the defining studio statement of Mahavishnu Orchestra's original quintet and a load-bearing bridge from Miles Davis's electric period into 1970s virtuosic fusion: McLaughlin and Billy Cobham came directly from Davis's orbit, while Jan Hammer, Jerry Goodman, and Rick Laird helped establish the new ensemble template. AllMusic (S1) calls it the record that \"defined the fusion of jazz and rock\" in the wake of Bitches Brew, and the dossier documents a concentrated, all-McLaughlin quintet statement rather than a loosely assembled crossover project (S2). Its influence on fusion's instrumental vocabulary—electric guitar as lead voice, violin, dense ensemble writing, and rhythmic complexity—is difficult to separate from the decade that followed.",
+    "case_against": "The anti-drift rule applies with unusual force: this record's principal identity is high-volume, technically extreme jazz-rock, with electric instrumentation, rock-derived pulse, and guitar-hero rhetoric doing more structural work than swing, blues language, or the acoustic post-bop tradition. McLaughlin's Miles connection establishes a historical bridge, but a personal post-bebop discovery canon may reasonably treat this as the point where the lineage becomes a distinct progressive-rock-facing form rather than an extension of its center of gravity. The dossier establishes genre-landmark status chiefly through AllMusic and provides no direct evidence from independent jazz-canon sources such as Penguin, DownBeat, NPR, or JazzTimes, so the consensus case should not be overstated.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John make an explicit fusion-boundary ruling on this essential Bitches Brew-to-1970s bridge rather than treating its genre prestige as automatic admission.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

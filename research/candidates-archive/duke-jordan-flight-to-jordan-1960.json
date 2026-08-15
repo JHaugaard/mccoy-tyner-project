@@ -1,0 +1,336 @@
+{
+  "id": "duke-jordan-flight-to-jordan-1960",
+  "artist": "Duke Jordan",
+  "album": "Flight to Jordan",
+  "year": 1960,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Duke Jordan's defining statement as a leader — the bebop pianist from Bird's 1947 quintet, fully matured into a composer of originals ('Flight to Jordan', 'Si-Joya') that became session calls. AllMusic 5 stars (Yanow), Penguin Guide 3 stars. Session gravity is high: Dizzy Reece and Stanley Turrentine at the front of their Blue Note years, Reggie Workman and Art Taylor in the engine room — the personnel network links straight into Jordan (Workman), Page One-era Blue Note, and the Coltrane-adjacent circles Jordan came from.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Flight to Jordan",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Flight_to_Jordan"
+    },
+    "S2": {
+      "title": "AllMusic — Flight to Jordan (review, Scott Yanow)",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/flight-to-jordan-mw0000653981"
+    },
+    "S3": {
+      "title": "Jazzdisco.org — Blue Note 4000 series catalog, BLP 4046",
+      "type": "label-discography",
+      "url": "http://www.jazzdisco.org/blue-note-records/catalog-4000-series/#blp-4046"
+    },
+    "S4": {
+      "title": "iTunes Search API — Flight to Jordan (RVG Edition), collectionId 715854469",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Duke+Jordan+Flight+to+Jordan&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group 9fd708dd-ac97-30fe-a2e8-41e02fcfec94 / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://coverartarchive.org/release-group/9fd708dd-ac97-30fe-a2e8-41e02fcfec94"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-08-04"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Jordan",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Solo piano on the CD bonus track 'I Should Care'."
+      },
+      {
+        "name": "Dizzy Reece",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Stanley Turrentine",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Flight to Jordan",
+        "track_number": 1,
+        "side": null,
+        "duration": "5:32",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Duke Jordan",
+          "Dizzy Reece",
+          "Stanley Turrentine",
+          "Reggie Workman",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Star Brite",
+        "track_number": 2,
+        "side": null,
+        "duration": "7:49",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Duke Jordan",
+          "Dizzy Reece",
+          "Stanley Turrentine",
+          "Reggie Workman",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Squawkin'",
+        "track_number": 3,
+        "side": null,
+        "duration": "5:00",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Duke Jordan",
+          "Dizzy Reece",
+          "Stanley Turrentine",
+          "Reggie Workman",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Deacon Joe",
+        "track_number": 4,
+        "side": null,
+        "duration": "8:43",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Duke Jordan",
+          "Dizzy Reece",
+          "Stanley Turrentine",
+          "Reggie Workman",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Split Quick",
+        "track_number": 5,
+        "side": null,
+        "duration": "5:11",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Duke Jordan",
+          "Dizzy Reece",
+          "Stanley Turrentine",
+          "Reggie Workman",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Si-Joya",
+        "track_number": 6,
+        "side": null,
+        "duration": "6:46",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Duke Jordan",
+          "Dizzy Reece",
+          "Stanley Turrentine",
+          "Reggie Workman",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Diamond Stud",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:04",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Duke Jordan",
+          "Dizzy Reece",
+          "Stanley Turrentine",
+          "Reggie Workman",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Should Care",
+        "track_number": 8,
+        "side": null,
+        "duration": "3:49",
+        "session_date": "1960-08-04",
+        "composers": [
+          "Sammy Cahn",
+          "Axel Stordahl",
+          "Paul Weston"
+        ],
+        "personnel": [
+          "Duke Jordan"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "9fd708dd-ac97-30fe-a2e8-41e02fcfec94",
+    "apple_album_id": "715854469",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/9fd708dd-ac97-30fe-a2e8-41e02fcfec94/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front for the release group; pressing not verified as the original 1960 Blue Note BLP 4046 issue."
+      }
+    ],
+    "notes": "Single session, August 4, 1960, Van Gelder Studio, Englewood Cliffs (Blue Note BLP 4046). Producer Alfred Lion per Wikipedia (obs). Engineer not stated in sources consulted; Rudy Van Gelder inferred per contract rule (Blue Note, 1960, Van Gelder Studio). Tracks 7-8 are CD-reissue bonus tracks; 'I Should Care' is Duke Jordan solo piano. Wikipedia does not distinguish whether Reece/Turrentine sit out any original-LP track — quintet scope recorded as all-tracks per its flat personnel list; track_assignments_complete false for that reason. Original LP comprises tracks 1-6, all Jordan originals."
+  },
+  "ballot": {
+    "album": "Duke Jordan — Flight to Jordan (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "This is Duke Jordan's defining statement as a leader — the pianist from Bird's 1947 quintet fully matured into a hard-bop composer, with all six original-LP tracks his own compositions, including 'Flight to Jordan' and 'Si-Joya', which saw some session-call afterlife. Session gravity is exceptional: Stanley Turrentine at the dawn of his Blue Note run, the under-recorded Dizzy Reece, Reggie Workman just before entering Coltrane's orbit, and Art Taylor powering the engine room — recorded August 4, 1960 at Van Gelder with Alfred Lion producing (S1, S3). AllMusic's Scott Yanow awards 5 stars (S2), and the album passes the discovery test cleanly: a warm, swinging, flawlessly executed document of the archetypal 1960 Blue Note sound that bridges 1940s bebop veterans and 1960s hard-bop modernists.",
+    "case_against": "Consensus is thin at the level the rubric prizes: the Penguin Guide gives only 3 stars — 'good, but' — and the album is absent from NPR, JazzTimes, and DownBeat canon lists; it is beloved by Blue Note aficionados rather than independently recognized across listing traditions. The lineage signal is essentially absent — it changed nothing that came after, sitting among 1960's crowded landmark field (Soul Station, The Big Beat, Giant Steps) as an excellent date rather than a load-bearing cornerstone. Dossier hygiene is also imperfect: track_assignments_complete is false, relying on Wikipedia's flat personnel list, so we cannot confirm whether Reece and Turrentine lay out on any core track — a small but real gap in the historical record.",
+    "disagreement": "The references converged on tier (both contested) but split on urgency: Reference 1 weighted session gravity and Jordan's personal arc heavily enough to lean toward 'strong', treating the album as a genuinely strengthening entry for the era; Reference 2 argued 'consider', holding that the split consensus (AllMusic 5★ vs. Penguin 3★) and the non-load-bearing lineage cap it below that. The ballot reflects the more conservative read given the thin independent-consensus evidence.",
+    "recommendation": "The council proposes John treat this as a legitimate but non-urgent candidate: a superb, era-defining Blue Note session worth including if the collection wants a deep-cut hard-bop quintet date, but not a hole anyone would notice.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

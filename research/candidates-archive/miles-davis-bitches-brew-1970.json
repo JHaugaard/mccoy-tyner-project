@@ -1,0 +1,610 @@
+{
+  "id": "miles-davis-bitches-brew-1970",
+  "artist": "Miles Davis",
+  "album": "Bitches Brew",
+  "year": 1970,
+  "label": "Columbia",
+  "style_primary": "fusion",
+  "style_tags": [
+    "fusion",
+    "jazz-rock"
+  ],
+  "sources": {
+    "S1": {
+      "title": "Miles Davis: Bitches Brew — AllMusic album page (styles, recording dates, review)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/bitches-brew-mw0000188019"
+    },
+    "S2": {
+      "title": "Bitches Brew — Wikipedia album article (personnel, track listing, production)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Bitches_Brew"
+    },
+    "S3": {
+      "title": "Bitches Brew by Miles Davis — MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/a9e30282-5b37-3f92-b897-b9659a1a312b"
+    },
+    "S4": {
+      "title": "Miles Davis – Bitches Brew — Discogs master",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew"
+    },
+    "S5": {
+      "title": "Cover Art Archive — MusicBrainz release group a9e30282-5b37-3f92-b897-b9659a1a312b",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/a9e30282-5b37-3f92-b897-b9659a1a312b"
+    },
+    "S6": {
+      "title": "iTunes Search API — Miles Davis Bitches Brew album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Bitches+Brew&entity=album&limit=10"
+    }
+  },
+  "epistemic": "obs",
+  "rationale": "obs[S1]: AllMusic styles the album Fusion and Jazz-Rock and records August 19, 1969 – January 28, 1970 at Columbia Recording Studio B, New York. obs[S2]: Wikipedia documents the multi-session personnel, track listing, and production credits (Teo Macero producer, Frank Laico/Stan Tonkel engineers). obs[S3]: MusicBrainz release group confirms the canonical Columbia release identifier. inf: The album is the watershed studio document of Miles Davis's electric period, connecting the modal and post-bop Miles already in the canon to the sideman-led fusion bands (Weather Report, Mahavishnu, Hancock's Head Hunters) that define the rest of the decade. unk: Exact per-track personnel within each session is not fully decomposed in the consulted sources; the dossier records session rosters and marks track assignments incomplete.",
+  "priority": "must_have",
+  "bridge_case": "Connects the canonical acoustic/modal Miles Davis lineage (Kind of Blue, In a Silent Way) to the electric fusion diaspora of the 1970s; without it, the road from post-bop to Weather Report, Mahavishnu Orchestra and Herbie Hancock's Head Hunters is missing its origin point.",
+  "overlap_risk": "",
+  "scope_flag": "Fusion gate — electric instrumentation, rock/funk rhythm, and tape-edited studio construction are the organizing language; the case-against is that its sprawl and pop-chart success can look like a break from jazz rather than a bridge.",
+  "include": null,
+  "personnel_record": {
+    "recording_dates": [
+      "1969-08-19",
+      "1969-08-20",
+      "1969-08-21",
+      "1970-01-28"
+    ],
+    "multi_session": true,
+    "studio": "Columbia Recording Studio B, New York, NY (CBS 30th Street Studio per Wikipedia)",
+    "producer": "Teo Macero",
+    "engineer": "Frank Laico (August 19 session); Stan Tonkel (remaining sessions)",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bennie Maupin",
+        "instrument": "bass clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Zawinul",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 notes 'left' placement on August 19/21 sessions."
+      },
+      {
+        "name": "Chick Corea",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 notes 'right' placement on August 19/21 and January 28 sessions."
+      },
+      {
+        "name": "John McLaughlin",
+        "instrument": "electric guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dave Holland",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 lists 'bass' on August 19 and 'electric bass' on August 20/January 28."
+      },
+      {
+        "name": "Jack DeJohnette",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21",
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 notes 'right' drum placement on August 19/21."
+      },
+      {
+        "name": "Harvey Brooks",
+        "instrument": "electric bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bitches Brew",
+          "John McLaughlin",
+          "Sanctuary",
+          "Miles Runs the Voodoo Down",
+          "Spanish Key",
+          "Pharaoh's Dance"
+        ],
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Present on August 19, 20 and 21 sessions; absent from January 28 'Feio' session."
+      },
+      {
+        "name": "Don Alias",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bitches Brew",
+          "John McLaughlin",
+          "Sanctuary",
+          "Miles Runs the Voodoo Down",
+          "Spanish Key",
+          "Pharaoh's Dance"
+        ],
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 lists congas on August 19/21 and drum set (left) on August 20 'Miles Runs the Voodoo Down'."
+      },
+      {
+        "name": "Juma Santos",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bitches Brew",
+          "John McLaughlin",
+          "Sanctuary",
+          "Miles Runs the Voodoo Down",
+          "Spanish Key",
+          "Pharaoh's Dance"
+        ],
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-20",
+          "1969-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [
+          "Jim Riley"
+        ],
+        "notes": "Credited as 'Jim Riley' on S2. Shaker on August 19/21; congas on August 20."
+      },
+      {
+        "name": "Lenny White",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bitches Brew",
+          "John McLaughlin",
+          "Sanctuary",
+          "Spanish Key",
+          "Pharaoh's Dance"
+        ],
+        "session_dates": [
+          "1969-08-19",
+          "1969-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 notes 'left' drum placement on August 19 and 21. Absent from August 20 and January 28 sessions."
+      },
+      {
+        "name": "Larry Young",
+        "instrument": "electric piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Spanish Key",
+          "Pharaoh's Dance"
+        ],
+        "session_dates": [
+          "1969-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 notes 'center' placement on August 21 session."
+      },
+      {
+        "name": "Billy Cobham",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Feio"
+        ],
+        "session_dates": [
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 notes 'left' drum placement on January 28 'Feio' session."
+      },
+      {
+        "name": "Airto Moreira",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Feio"
+        ],
+        "session_dates": [
+          "1970-01-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S2 lists percussion and cuica on January 28 'Feio' session."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Pharaoh's Dance",
+        "track_number": 1,
+        "side": "A",
+        "duration": "20:07",
+        "session_date": "1969-08-21",
+        "composers": [
+          "Joe Zawinul"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Bennie Maupin",
+          "Joe Zawinul",
+          "Larry Young",
+          "Chick Corea",
+          "John McLaughlin",
+          "Dave Holland",
+          "Harvey Brooks",
+          "Lenny White",
+          "Jack DeJohnette",
+          "Don Alias",
+          "Juma Santos"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Bitches Brew",
+        "track_number": 2,
+        "side": "B",
+        "duration": "27:00",
+        "session_date": "1969-08-19",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Bennie Maupin",
+          "Joe Zawinul",
+          "Chick Corea",
+          "John McLaughlin",
+          "Dave Holland",
+          "Harvey Brooks",
+          "Lenny White",
+          "Jack DeJohnette",
+          "Don Alias",
+          "Juma Santos"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Spanish Key",
+        "track_number": 3,
+        "side": "C",
+        "duration": "17:30",
+        "session_date": "1969-08-21",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Bennie Maupin",
+          "Joe Zawinul",
+          "Larry Young",
+          "Chick Corea",
+          "John McLaughlin",
+          "Dave Holland",
+          "Harvey Brooks",
+          "Lenny White",
+          "Jack DeJohnette",
+          "Don Alias",
+          "Juma Santos"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "John McLaughlin",
+        "track_number": 4,
+        "side": "C",
+        "duration": "4:23",
+        "session_date": "1969-08-19",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Bennie Maupin",
+          "Joe Zawinul",
+          "Chick Corea",
+          "John McLaughlin",
+          "Dave Holland",
+          "Harvey Brooks",
+          "Lenny White",
+          "Jack DeJohnette",
+          "Don Alias",
+          "Juma Santos"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Miles Runs the Voodoo Down",
+        "track_number": 5,
+        "side": "D",
+        "duration": "14:03",
+        "session_date": "1969-08-20",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Bennie Maupin",
+          "Joe Zawinul",
+          "Chick Corea",
+          "John McLaughlin",
+          "Dave Holland",
+          "Harvey Brooks",
+          "Don Alias",
+          "Jack DeJohnette",
+          "Juma Santos"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Sanctuary",
+        "track_number": 6,
+        "side": "D",
+        "duration": "10:54",
+        "session_date": "1969-08-19",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Bennie Maupin",
+          "Joe Zawinul",
+          "Chick Corea",
+          "John McLaughlin",
+          "Dave Holland",
+          "Harvey Brooks",
+          "Lenny White",
+          "Jack DeJohnette",
+          "Don Alias",
+          "Juma Santos"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Feio",
+        "track_number": 7,
+        "side": null,
+        "duration": "11:51",
+        "session_date": "1970-01-28",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Bennie Maupin",
+          "Joe Zawinul",
+          "Chick Corea",
+          "John McLaughlin",
+          "Dave Holland",
+          "Billy Cobham",
+          "Jack DeJohnette",
+          "Airto Moreira"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "a9e30282-5b37-3f92-b897-b9659a1a312b",
+    "apple_album_id": "168376392",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/a9e30282-5b37-3f92-b897-b9659a1a312b/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S5"
+        ],
+        "notes": "Mati Klarwein cover painting per S2."
+      }
+    ],
+    "notes": "Studio-assembled album from four sessions. S2 gives session rosters but includes some conflicting parenthetical omissions per track; the dossier preserves the session rosters and marks track-level assignments incomplete. S1 confirms August 19, 1969 – January 28, 1970 recording span at Columbia Recording Studio B, New York."
+  },
+  "ballot": {
+    "album": "Miles Davis — Bitches Brew (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Fusion gate: electric instrumentation, rock/funk-derived rhythmic organization, and Teo Macero's studio assembly test whether the album remains a load-bearing continuation of post-bebop/modal jazz rather than a break into a separate electric tradition."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "This is the fusion gate's strongest possible bridge case: the dossier directly connects Miles's acoustic/modal lineage to the 1970s work of Weather Report, Mahavishnu Orchestra, Return to Forever, and Herbie Hancock's electric bands. Its session personnel make that lineage concrete—Wayne Shorter and Joe Zawinul, John McLaughlin and Billy Cobham, Chick Corea and Lenny White, Bennie Maupin, Dave Holland, and Jack DeJohnette are gathered around Davis in a uniquely consequential incubator (S2). The record is a defining statement rather than merely an early fusion success: its long-form collective improvisation, electric timbres, and edited construction changed the vocabulary and audience of jazz, while retaining Davis's modal, ensemble-centered approach.",
+    "case_against": "The album's organizing language is substantially unlike the canon's post-bebop center: layered electric keyboards and guitar, repeated grooves and backbeats, dense percussion, and tape-edited studio form can make it sound less like an extension of small-group jazz practice than the founding document of a new hybrid. Its extraordinary historical reach can therefore cut both ways: including it may pull the canon toward fusion as an autonomous tradition rather than documenting the modal/post-bop line itself. The dossier establishes style, dates, personnel, and production well enough (S1-S4), but it does not itself supply the independent canon-list evidence needed to substantiate its broad consensus claim.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Bitches Brew as a must-have scope ruling under the fusion bridge test, admitting it only if he wants the canon's Miles-to-electric-diaspora lineage represented.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai-codex:gpt-5.6-terra",
+      "preset": "canon-council"
+    }
+  }
+}

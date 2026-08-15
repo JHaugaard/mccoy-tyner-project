@@ -1,0 +1,361 @@
+{
+  "id": "thelonious-monk-monks-music-1957",
+  "artist": "Thelonious Monk",
+  "album": "Monk's Music",
+  "year": 1957,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "rationale": "Consensus Riverside high point: four-star Penguin Guide rating, 4.5 AllMusic stars, five-star Rolling Stone Jazz Record Guide, Pitchfork 9.1, Grammy Hall of Fame (2001). Defining septet session of Monk's Riverside years \u2014 the only recorded meeting of Coleman Hawkins and Art Blakey, and John Coltrane captured inside the 1957 Monk quartet residency that reshaped him. Definitive versions of 'Epistrophy', 'Well, You Needn't', 'Off Minor'; Gigi Gryce arrangements. Session gravity is about as high as the era offers. (inf \u2014 synthesis across listed sources)",
+  "priority": "must_have",
+  "epistemic": "inf",
+  "sources": {
+    "S1": {
+      "title": "Monk's Music \u2014 Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Monk%27s_Music"
+    },
+    "S2": {
+      "title": "Monk's Music \u2014 AllMusic (review, personnel, dates)",
+      "type": "reference",
+      "url": "https://www.allmusic.com/album/monks-music-mw0000192245"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Monk's Music (Remastered), Thelonious Monk",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Thelonious+Monk+Monk%27s+Music&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group 1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10 / Cover Art Archive",
+      "type": "identifier",
+      "url": "https://coverartarchive.org/release-group/1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-06-25",
+      "1957-06-26"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York City",
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Well, You Needn't",
+          "Ruby, My Dear",
+          "Off Minor",
+          "Epistrophy",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: piano on tracks 2-6 (not on the horn-only 'Abide with Me')."
+      },
+      {
+        "name": "Ray Copeland",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Abide with Me",
+          "Well, You Needn't",
+          "Off Minor",
+          "Epistrophy",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: tracks 1, 2, 4-6 (not on 'Ruby, My Dear')."
+      },
+      {
+        "name": "Gigi Gryce",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Abide with Me",
+          "Well, You Needn't",
+          "Off Minor",
+          "Epistrophy",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also credited with arrangements (Wikipedia)."
+      },
+      {
+        "name": "Coleman Hawkins",
+        "instrument": "tenor saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia lists no track restriction; narrative confirms him on 'Ruby, My Dear' (with Monk, Ware, Blakey only) and AllMusic review places him on 'Well, You Needn't'. Only recorded meeting of Hawkins and Blakey (Wikipedia)."
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Abide with Me",
+          "Well, You Needn't",
+          "Off Minor",
+          "Epistrophy",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: tracks 1, 2, 4-6. Joined Monk after the Miles Davis Quintet; Monk audibly calls 'Coltrane! Coltrane!' to launch the first horn solo on 'Well, You Needn't'."
+      },
+      {
+        "name": "Wilbur Ware",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Well, You Needn't",
+          "Ruby, My Dear",
+          "Off Minor",
+          "Epistrophy",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: tracks 2-6."
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Well, You Needn't",
+          "Ruby, My Dear",
+          "Off Minor",
+          "Epistrophy",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: tracks 2-6."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Abide with Me",
+        "track_number": 1,
+        "side": "A",
+        "duration": "0:54",
+        "session_date": null,
+        "composers": [
+          "Henry Francis Lyte",
+          "William Henry Monk"
+        ],
+        "personnel": [
+          "Ray Copeland",
+          "Gigi Gryce",
+          "Coleman Hawkins",
+          "John Coltrane"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Well, You Needn't",
+        "track_number": 2,
+        "side": "A",
+        "duration": "11:24",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Ray Copeland",
+          "Gigi Gryce",
+          "John Coltrane",
+          "Wilbur Ware",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ruby, My Dear",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:26",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Coleman Hawkins",
+          "Wilbur Ware",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Off Minor",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:07",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Ray Copeland",
+          "Gigi Gryce",
+          "John Coltrane",
+          "Wilbur Ware",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Epistrophy",
+        "track_number": 5,
+        "side": "B",
+        "duration": "10:46",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk",
+          "Kenny Clarke"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Ray Copeland",
+          "Gigi Gryce",
+          "John Coltrane",
+          "Wilbur Ware",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Crepuscule with Nellie",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:38",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Ray Copeland",
+          "Gigi Gryce",
+          "John Coltrane",
+          "Wilbur Ware",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10",
+    "apple_album_id": "1440565683",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Release-group front via Cover Art Archive; pressing not verified as original Riverside mono/stereo sleeve."
+      }
+    ],
+    "notes": "Wikipedia infobox gives recorded June 25-26, 1957; the article body says June 26 only \u2014 both dates retained. Released November 1957 (mono RLP 12-242); stereo RLP 1102 followed August 1958. Engineer per Wikipedia personnel: Jack Higgins; Keepnews notes staff engineer Ray Fowler ran a separate binaural/stereo rig in isolation booths \u2014 Fowler's role is production detail, not credited recording engineer. Original stereo LP omitted 'Crepuscule with Nellie'. CD reissues add alternate takes and 'Blues for Tomorrow' (not part of original LP). Hawkins track coverage beyond 'Ruby, My Dear' not explicitly stated by sources, hence scope unknown."
+  },
+  "ballot": {
+    "album": "Thelonious Monk \u2014 Monk's Music (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Consensus is overwhelming and independent: Penguin Guide four-star, five-star Rolling Stone Jazz Record Guide, Pitchfork 9.1, Grammy Hall of Fame (2001) \u2014 the densest signal the rubric recognizes. Session gravity is near the era's maximum: the only recorded meeting of Coleman Hawkins and Art Blakey, John Coltrane captured mid-apprenticeship in the 1957 Monk residency that rewired his harmonic thinking (Monk audibly shouting 'Coltrane! Coltrane!' on 'Well, You Needn't' is living history), plus Gigi Gryce's expanded septet arrangements. It carries definitive versions of cornerstone repertoire \u2014 'Epistrophy,' 'Well, You Needn't,' 'Off Minor,' 'Crepuscule with Nellie' \u2014 and passes the discovery test easily: a cold listener hears immediately why Monk is central.",
+    "case_against": "The only substantive musical reservation (raised by one reference): this is an all-star studio assembly, not Monk's telepathic working quartet \u2014 the Five Spot live recordings with Coltrane show a tighter unit, and this date occasionally teeters toward disorganization. The dossier itself has hygiene gaps: most track-level personnel are 'inf' from Wikipedia alone, Hawkins' track scope is 'unknown,' and the sources conflict on whether he plays on 'Well, You Needn't'; two of four sources are identifiers, not critical authorities. Neither point touches the album's canonical status \u2014 they are cleanup items, not a case for exclusion.",
+    "disagreement": "No disagreement on tier or priority \u2014 both references land on consensus_core / must_have. The only divergence is emphasis: one reference offers a mild musical reservation (all-star assembly vs. working-band cohesion) that the other dismisses as a contextual note, but neither treats it as a real barrier.",
+    "recommendation": "The council proposes John include Monk's Music as a cornerstone Monk record, with a note to clean up the Hawkins track-scope conflict in the personnel record.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

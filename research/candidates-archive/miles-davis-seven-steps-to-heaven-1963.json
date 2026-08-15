@@ -1,0 +1,397 @@
+{
+  "id": "miles-davis-seven-steps-to-heaven-1963",
+  "artist": "Miles Davis",
+  "album": "Seven Steps to Heaven",
+  "year": 1963,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "rationale": "The hinge album of Miles Davis's career: recorded in two sessions, it documents the exact moment the second great quintet crystallized — the April Los Angeles dates (Victor Feldman, Frank Butler, Ron Carter, George Coleman) and the May New York date that introduced the Herbie Hancock / Ron Carter / Tony Williams rhythm section that would define Davis through 1968. The title track and 'Joshua' became permanent fixtures of the Davis book. Consensus backing: Penguin Guide 3 stars, AllMusic 4.5, Rolling Stone Album Guide 4, DownBeat 5 stars on release. Lineage signal is the strongest card: this is where Hancock-Carter-Williams first record together.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Seven Steps to Heaven",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Seven_Steps_to_Heaven"
+    },
+    "S2": {
+      "title": "iTunes Search API — Seven Steps to Heaven (collectionId 193614955)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Seven+Steps+to+Heaven&entity=album"
+    },
+    "S3": {
+      "title": "MusicBrainz release group 5f491dad-4138-3f03-b3a0-655e6e15df2a / Cover Art Archive",
+      "type": "identifier/cover-art",
+      "url": "https://coverartarchive.org/release-group/5f491dad-4138-3f03-b3a0-655e6e15df2a"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-04-16",
+      "1963-04-17",
+      "1963-05-14"
+    ],
+    "multi_session": true,
+    "studio": "Columbia Studios (CBS Columbia Square), Hollywood (April 16-17 sessions); Columbia 30th Street Studio, New York City (May 14 session)",
+    "producer": "Teo Macero",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-04-16",
+          "1963-04-17",
+          "1963-05-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Coleman",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-04-16",
+          "1963-04-17",
+          "1963-05-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia personnel lists him on both sessions; per Wikipedia's Music section, the LA ballads 'Basin Street Blues' and 'Baby Won't You Please Come Home' are quartet performances without Coleman — track-level coverage conflict noted, assignments marked incomplete."
+      },
+      {
+        "name": "Victor Feldman",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Basin Street Blues",
+          "I Fall in Love Too Easily",
+          "Baby Won't You Please Come Home"
+        ],
+        "session_dates": [
+          "1963-04-16",
+          "1963-04-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "LA session pianist; also composed 'Seven Steps to Heaven' (with Davis) and 'Joshua'."
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Seven Steps to Heaven",
+          "So Near, So Far",
+          "Joshua"
+        ],
+        "session_dates": [
+          "1963-05-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "First recording session with Davis; core of the second great quintet."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-04-16",
+          "1963-04-17",
+          "1963-05-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frank Butler",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Basin Street Blues",
+          "I Fall in Love Too Easily",
+          "Baby Won't You Please Come Home"
+        ],
+        "session_dates": [
+          "1963-04-16",
+          "1963-04-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Seven Steps to Heaven",
+          "So Near, So Far",
+          "Joshua"
+        ],
+        "session_dates": [
+          "1963-05-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "First recording session with Davis, age 17."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Basin Street Blues",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:29",
+        "session_date": "1963-04-16/1963-04-17",
+        "composers": [
+          "Spencer Williams"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Victor Feldman",
+          "Ron Carter",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Seven Steps to Heaven",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:26",
+        "session_date": "1963-05-14",
+        "composers": [
+          "Victor Feldman",
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Fall in Love Too Easily",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:46",
+        "session_date": "1963-04-16/1963-04-17",
+        "composers": [
+          "Jule Styne",
+          "Sammy Cahn"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Victor Feldman",
+          "Ron Carter",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "So Near, So Far",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:59",
+        "session_date": "1963-05-14",
+        "composers": [
+          "Tony Crombie",
+          "Benny Green"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Baby Won't You Please Come Home",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:28",
+        "session_date": "1963-04-16/1963-04-17",
+        "composers": [
+          "Clarence Williams",
+          "Charles Warfield"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Victor Feldman",
+          "Ron Carter",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Joshua",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:00",
+        "session_date": "1963-05-14",
+        "composers": [
+          "Victor Feldman"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "So Near, So Far (alternative version)",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:11",
+        "session_date": "1963-05-14",
+        "composers": [
+          "Tony Crombie",
+          "Benny Green"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Summer Night",
+        "track_number": 8,
+        "side": null,
+        "duration": "6:02",
+        "session_date": "1963-04-16/1963-04-17",
+        "composers": [
+          "Harry Warren",
+          "Al Dubin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Victor Feldman",
+          "Ron Carter",
+          "Frank Butler"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "5f491dad-4138-3f03-b3a0-655e6e15df2a",
+    "apple_album_id": "193614955",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/5f491dad-4138-3f03-b3a0-655e6e15df2a/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from a Japanese pressing (release dd767248) within the release group; original US cover not confirmed."
+      }
+    ],
+    "notes": "Two sessions: April 16-17, 1963 at Columbia Studios Hollywood (tracks 1, 3, 5 + bonus tracks 7-8 per Wikipedia's session grouping); May 14, 1963 at Columbia 30th Street Studio, New York (tracks 2, 4, 6). Wikipedia notes 'Basin Street Blues' and 'Baby Won't You Please Come Home' are quartet performances without Coleman, while its personnel list places him on the LA session generally — conflict preserved via track-level personnel. Engineer not named in any consulted source; explicit null. AllMusic mw IDs for this title served wrong albums (rot); not cited. Tracks 7-8 are 2005 Legacy CD reissue additions, flagged bonus."
+  },
+  "ballot": {
+    "album": "Miles Davis — Seven Steps to Heaven (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The lineage signal is overwhelming: the May 14, 1963 New York session is the first recorded meeting of the Hancock–Carter–Williams rhythm section that would define post-bop rhythm vocabulary through 1968 — this album is the audible hinge between Davis's two great eras. It doubles on repertoire: the title track and 'Joshua' (both Victor Feldman compositions) became permanent fixtures of the jazz standard book. Consensus backing is solid across independent sources — a 5-star DownBeat review on release, AllMusic 4.5, Rolling Stone Album Guide 4 — and the session-gravity argument needs no elaboration given the personnel. It passes the discovery test cleanly: a listener sent here cold hears both Miles's ballad mastery and the birth of the second great quintet.",
+    "case_against": "It is structurally a transitional document, not a unified artistic statement: two sessions, two rhythm sections (Feldman/Butler in LA, Hancock/Williams in NY), and the result plays as a hinge rather than a masterpiece in its own right — the Penguin Guide's 3-star rating reflects exactly that reading. The sourcing is brittle: essentially every historical and personnel claim rests on a single encyclopedic source (Wikipedia), with an unresolved track-level conflict over George Coleman's presence on the LA quartet tracks, an unnamed engineer, and AllMusic identifier rot noted in the dossier. If the canon already carries the second quintet's mature statements, this record's value is partly historical-contextual rather than purely musical.",
+    "disagreement": "None on the merits — but only one reference actually argued: Reference 1 (deepseek-v4-pro) returned an empty response, so this ballot rests on a single reference's judgment rather than a true two-voice synthesis.",
+    "recommendation": "The council proposes John include Seven Steps to Heaven as a strong-priority lineage album — the birth certificate of the second great quintet — while noting the single-source dossier and transitional structure as the honest caveats.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}
