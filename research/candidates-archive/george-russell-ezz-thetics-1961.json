@@ -41,6 +41,16 @@
     ],
     "multi_session": false,
     "studio": "Plaza Sound Studios, New York",
+    "recording_sites": [
+      {
+        "session_date": "1961-05-08",
+        "site_raw": "Plaza Sound Studios, New York",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
     "producer": "Orrin Keepnews",
     "engineer": "Ray Fowler",
     "epistemic_production": "obs",

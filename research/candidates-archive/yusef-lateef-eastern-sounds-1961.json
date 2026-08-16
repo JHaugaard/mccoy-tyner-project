@@ -45,6 +45,16 @@
     ],
     "multi_session": false,
     "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1961-09-05",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
     "producer": "Esmond Edwards",
     "engineer": "Rudy Van Gelder",
     "epistemic_production": "obs",
