@@ -18,6 +18,14 @@ this file to change how missions behave.
      sources priority, epistemic rules, instrument taxonomy)
    - the rubric's scope window and excluded styles
    - the dedup exclusion list (ids + artist/title)
+   - **the canonical recording-place vocabulary** — a child has no precheck
+     output, so it cannot resolve a site unless you hand it the list:
+     `SELECT name_slug, name, city, kind FROM _jazzcanon.studio
+      WHERE name_slug NOT LIKE 'merged-%' ORDER BY name;`
+     Send it with the standing traps spelled out: Van Gelder is Hackensack
+     through mid-1959 and Englewood Cliffs after; Capitol is Melrose Avenue
+     before April 1956 and Capitol Tower after; the session date decides
+     both. A child that invents a slug has its record discarded.
    - output instruction: write ONE JSON file per candidate to
      `research/candidates-inbox/<album-id>.json` — the specialist record
      shape (id, artist, album, year, label, style_primary, rationale,
@@ -26,7 +34,14 @@ this file to change how missions behave.
    model memory is discarded.
 4. **Validate** — McCoy checks each inbox file: in-window, not a dup,
    personnel_record present, every claim has a source token, source map
-   included. Fails → back to the child (once) or discard with a note.
+   included, and `recording_sites` present with one entry per session —
+   every `site_slug` drawn from the canonical list, no entry naming two
+   venues, any `site_new` complete (name, city, kind, address-or-null, lat,
+   lon, location_epistemic, location_source), and a silent album recorded
+   as `unk` rather than omitted. `stage-candidate.py` refuses all of this
+   too, but catching it here is the shorter loop — a child can be sent back
+   once, a refusal at staging costs the night. Fails → back to the child
+   (once) or discard with a note.
 5. **Judge** — per candidate:
    `~/.hermes/scripts/canon-council.py research/candidates-inbox/<id>.json`
    → ballot JSON. Attach the ballot into the inbox file under `"ballot"`.

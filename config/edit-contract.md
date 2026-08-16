@@ -43,6 +43,48 @@ outside this contract is read-only or Claude Code's job.
 **source / citation** — inserts only (new provenance is always welcome);
 never rewrite an existing source row's identity.
 
+**studio** (a recording place) — inserts, plus enrichment `UPDATE` on
+`kind`, `address`, `lat`, `lon`, `location_epistemic`, `location_source`
+when an existing row is missing one (plus `studio_name_variant` inserts).
+Two hard conditions:
+
+- **Complete or not at all.** A new row carries `name`, `city`, `kind`,
+  `lat`, `lon`, `location_epistemic`, `location_source` in the same
+  statement, or it is not created and the session's site stays empty. A
+  partial row passes every DB constraint and then aborts `export.sh`'s
+  place validator the day John promotes the album — the failure surfaces
+  weeks downstream of the mistake, which is why this is a contract rule
+  and not just a code check.
+- **`name` and `name_slug` are identity, never rewritten**, and a
+  `merged-*` tombstone is never resurrected or matched. Those rows record
+  merge and split rulings John already made (2026-08-14); re-minting one
+  discards a decision.
+
+Deciding that two places are the same room, or that one string is really
+two venues, is a **merge/split ruling — John's, not McCoy's**. McCoy
+resolves against the existing set and creates genuinely new places; it
+never consolidates existing ones.
+
+**studio_name_variant** — **inserts only**, exactly as `person_name_variant`
+is for people: recording a wording a source uses for a place already in the
+canon. Never rewrite or repoint an existing variant — that is re-deciding
+what a past wording meant, which is a ruling, not a note. Three rules:
+
+- **One venue per variant.** A string naming two venues is never a variant;
+  it is two entries in the record. Seeding deliberately excluded the five
+  compound raws for this reason.
+- **Never point at a tombstone.** A variant points *from* a merged row's raw
+  string *to* the surviving place, never the other way. Enforced by a trigger
+  as well as stated here.
+- **Ambiguous wordings stay out.** If a wording could honestly mean two
+  different places — "Van Gelder Studio", "CBS Studios" — it is not a
+  variant, it is a disambiguation rule, and it belongs in the drip's
+  guidance rather than in this table. A missing alias costs a match; a wrong
+  one silently mis-files a session.
+
+**session** — `studio_id` **only**, and only to fill a NULL. See the
+carve-out under *Never editable* below.
+
 ## Status transitions (John's verdicts, McCoy's hands)
 
 `canon_status` and `site_status` changes are **never McCoy's initiative**.
@@ -134,6 +176,13 @@ Rhodes" was corrected to "Hard Bop …" by an appended correction row
 `id`, `created_at`, `updated_at`, any foreign-key spine
 (`album_id`, `person_id` on performance, …) — relinking rows is
 restructuring, hand it to Claude Code.
+
+**One narrow carve-out (John, 2026-08-16): `session.studio_id`.** McCoy may
+set it **when it is NULL** — that is not relinking, it is filling in a fact
+that was never recorded. Changing a `studio_id` that already points
+somewhere *is* relinking and stays Claude Code's, because it means one of
+the two places is wrong, which is a merge/split ruling. The rest of the
+spine is untouched by this carve-out.
 
 `case_for`, `case_against` (John's ruling, 2026-07-26) — these are
 **projections of the album's research dossier**, not source records. The
