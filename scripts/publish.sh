@@ -11,9 +11,12 @@ cd "$ROOT"
 DATE="$(date +%F)"
 SNAP="$ROOT/snapshots/canon-$DATE"
 mkdir -p "$SNAP"
-cp "$ROOT/exports/jazz-canon/"albums.json "$SNAP/"
-cp "$ROOT/exports/jazz-canon/"details.json "$SNAP/"
-cp "$ROOT/exports/jazz-canon/"graph.json "$SNAP/"
+# Every file export.sh writes belongs in the snapshot — a file that is
+# exported and validated but not carried forward goes stale invisibly, which
+# is exactly what happened to places.json between 2026-08-14 and 2026-08-18.
+for f in albums.json details.json graph.json places.json people-activity.json; do
+  cp "$ROOT/exports/jazz-canon/$f" "$SNAP/"
+done
 
 URL="$(grep -E '^JAZZCANON_DB_URL=' "$ROOT/.env.local" | cut -d= -f2-)"
 counts="$(psql "$URL" -X -q -At -c "SELECT

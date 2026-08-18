@@ -166,12 +166,93 @@ FROM (
 ) r;
 SQL
 
+# --- people-activity.json ---
+# "Working" page contract (spec 2026-08-18, ratified with the site session).
+# One lane per musician over time. Two rulings shape it:
+#   D7 — an admitted date is session_date, OR session_date_text verbatim when
+#        it is exactly YYYY-MM. String LENGTH is the precision contract (same
+#        variable-precision convention places.json already uses), so the site
+#        never has to guess whether a day was known. Compound ("1960 November
+#        18 & 30"), spanning ("1953-08/1955-07") and year-only values are NOT
+#        admitted — a single DATE cannot honestly hold them.
+#   D5 — a person with zero admitted dates is omitted entirely rather than
+#        drawn as an empty lane. meta counts what was left out, so the page
+#        can footnote its own gaps instead of silently under-reporting.
+# Attribution is album-level: a performance inherits that album's session
+# dates, deduped by (person, date, album). Same publication gate as every
+# other file. Sort is total and deterministic run-to-run.
+"${PSQL[@]}" <<'SQL' > "$OUT/people-activity.json"
+WITH gated AS (
+  SELECT id FROM _jazzcanon.album
+  WHERE canon_status = 'included' AND site_status IN ('approved', 'live')
+),
+adm AS (
+  SELECT s.album_id,
+         coalesce(s.session_date::text,
+                  CASE WHEN s.session_date_text ~ '^[0-9]{4}-[0-9]{2}$'
+                       THEN s.session_date_text END) AS d
+  FROM _jazzcanon.session s
+  JOIN gated g ON g.id = s.album_id
+),
+mk AS (
+  SELECT DISTINCT p.person_id, a.d, a.album_id
+  FROM _jazzcanon.performance p
+  JOIN gated g ON g.id = p.album_id
+  JOIN adm a ON a.album_id = p.album_id
+  WHERE a.d IS NOT NULL
+),
+per AS (
+  SELECT person_id, min(d) AS first, max(d) AS last,
+         count(DISTINCT substr(d, 1, 4))::int AS years
+  FROM mk GROUP BY person_id
+),
+undated AS (
+  SELECT s.album_id
+  FROM _jazzcanon.session s
+  JOIN gated g ON g.id = s.album_id
+  WHERE s.session_date IS NULL
+    AND (s.session_date_text IS NULL
+         OR s.session_date_text !~ '^[0-9]{4}-[0-9]{2}$')
+)
+SELECT json_build_object(
+  'people', coalesce((
+    SELECT json_agg(r ORDER BY r.first, r."personId")
+    FROM (
+      SELECT pe.id AS "personId", pe.canonical_name AS name,
+             (SELECT coalesce(json_agg(DISTINCT i.name ORDER BY i.name), '[]'::json)
+              FROM _jazzcanon.performance p2
+              JOIN gated g2 ON g2.id = p2.album_id
+              JOIN _jazzcanon.instrument i ON i.id = p2.instrument_id
+              WHERE p2.person_id = per.person_id) AS instruments,
+             per.years AS "yearsActive", per.first, per.last,
+             (SELECT json_agg(json_build_object('date', m.d, 'albumId', m.album_id)
+                              ORDER BY m.d, m.album_id)
+              FROM mk m WHERE m.person_id = per.person_id) AS sessions
+      FROM per
+      JOIN _jazzcanon.person pe ON pe.id = per.person_id
+    ) r), '[]'::json),
+  'meta', json_build_object(
+    'spanStart', (SELECT min(d) FROM mk),
+    'spanEnd',   (SELECT max(d) FROM mk),
+    'undatedSessions', (SELECT count(*) FROM undated),
+    'undatedOnlyPeople', (
+      SELECT count(*) FROM (
+        SELECT DISTINCT p.person_id
+        FROM _jazzcanon.performance p JOIN gated g ON g.id = p.album_id
+      ) allp
+      WHERE NOT EXISTS (SELECT 1 FROM mk WHERE mk.person_id = allp.person_id)),
+    'undatedAlbums', coalesce((
+      SELECT json_agg(DISTINCT album_id ORDER BY album_id) FROM undated), '[]'::json)
+  )
+);
+SQL
+
 # --- structural invariants (no magic numbers — hold at any canon size) ---
 node - "$OUT" <<'JS'
 const fs = require('fs'), path = process.argv[2];
 const rd = f => JSON.parse(fs.readFileSync(path + '/' + f, 'utf8'));
 const albums = rd('albums.json'), details = rd('details.json'), graph = rd('graph.json');
-const places = rd('places.json');
+const places = rd('places.json'), activity = rd('people-activity.json');
 const fail = m => { console.error('✗ INVARIANT FAILED: ' + m); process.exit(1); };
 if (albums.length !== Object.keys(details).length)
   fail(`albums ${albums.length} != details ${Object.keys(details).length}`);
@@ -207,8 +288,55 @@ for (const p of places) {
     if (!Array.isArray(pa.dates)) fail(`place ${p.id}/${pa.albumId} dates not an array`);
   }
 }
+// people-activity.json — lanes contract. Every rule here is structural: it
+// holds at 100 albums or 1000, and none of it hard-codes a count.
+const peopleIds = new Set(Object.keys(graph.people));
+const seenPerson = new Set();
+let prevKey = null;
+for (const pr of activity.people) {
+  if (!pr.personId || !pr.name) fail(`activity person ${pr.personId || '?'} missing id/name`);
+  if (seenPerson.has(pr.personId)) fail(`duplicate activity personId ${pr.personId}`);
+  seenPerson.add(pr.personId);
+  // the lanes page renders names/instruments out of graph.json, so an id the
+  // graph does not carry would draw a lane the rest of the site cannot label
+  if (!peopleIds.has(pr.personId)) fail(`activity person ${pr.personId} absent from graph.people`);
+  if (!Array.isArray(pr.instruments)) fail(`activity ${pr.personId} instruments not an array`);
+  if (!pr.sessions || pr.sessions.length < 1) fail(`activity ${pr.personId} has no sessions`);
+  const dates = [], pairs = new Set();
+  for (const se of pr.sessions) {
+    if (!/^\d{4}-\d{2}(-\d{2})?$/.test(se.date)) fail(`activity ${pr.personId} bad date ${se.date}`);
+    if (!albumIds.has(se.albumId)) fail(`activity ${pr.personId} unknown album ${se.albumId}`);
+    const k = se.date + '|' + se.albumId;
+    if (pairs.has(k)) fail(`activity ${pr.personId} duplicate session ${k}`);
+    pairs.add(k);
+    if (se.date < activity.meta.spanStart || se.date > activity.meta.spanEnd)
+      fail(`activity ${pr.personId} date ${se.date} outside meta span`);
+    dates.push(se.date);
+  }
+  // string compare is the ordering contract: YYYY-MM sorts before YYYY-MM-DD
+  // of the same month, which is the intended "month, day unknown" placement
+  const sorted = [...dates].sort();
+  if (dates.join() !== sorted.join()) fail(`activity ${pr.personId} sessions not sorted by date`);
+  if (pr.first !== sorted[0]) fail(`activity ${pr.personId} first != min(dates)`);
+  if (pr.last !== sorted[sorted.length - 1]) fail(`activity ${pr.personId} last != max(dates)`);
+  const years = new Set(dates.map(d => d.slice(0, 4)));
+  if (pr.yearsActive !== years.size) fail(`activity ${pr.personId} yearsActive != distinct years`);
+  const key = pr.first + '|' + pr.personId;
+  if (prevKey !== null && key < prevKey) fail(`activity people not sorted at ${pr.personId}`);
+  prevKey = key;
+}
+// D5: excluded people are exactly those the graph knows but the lanes omit —
+// so the page's own footnote is checkable against the other contract file
+if (activity.meta.undatedOnlyPeople !== peopleIds.size - activity.people.length)
+  fail(`activity meta.undatedOnlyPeople ${activity.meta.undatedOnlyPeople} != graph.people - lanes `
+       + `(${peopleIds.size - activity.people.length})`);
+for (const id of activity.meta.undatedAlbums)
+  if (!albumIds.has(id)) fail(`activity meta.undatedAlbums unknown album ${id}`);
+
 const kb = f => Math.round(fs.statSync(path + '/' + f).size / 1024);
 console.log(`✓ Export valid — albums=${albums.length} people=${Object.keys(graph.people).length} `
   + `edges=${graph.edges.length} places=${places.length}  `
-  + `(${kb('albums.json')}+${kb('details.json')}+${kb('graph.json')}+${kb('places.json')} KB)`);
+  + `lanes=${activity.people.length} `
+  + `(${kb('albums.json')}+${kb('details.json')}+${kb('graph.json')}+${kb('places.json')}`
+  + `+${kb('people-activity.json')} KB)`);
 JS

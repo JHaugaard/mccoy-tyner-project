@@ -10,10 +10,12 @@ GO=0; case "${1:-}" in --go|--no-preview) GO=1 ;; esac
 
 "$PLATFORM/scripts/publish.sh"
 
-cp "$PLATFORM/exports/jazz-canon/"albums.json  "$SITE/app/public/data/"
-cp "$PLATFORM/exports/jazz-canon/"details.json "$SITE/app/public/data/"
-cp "$PLATFORM/exports/jazz-canon/"graph.json   "$SITE/app/public/data/"
-echo "✓ Copied contract into site"
+# Same rule as publish.sh's snapshot: everything export.sh writes ships.
+# places.json was hand-carried once (site commit f4b92f5) and never wired in.
+for f in albums.json details.json graph.json places.json people-activity.json; do
+  cp "$PLATFORM/exports/jazz-canon/$f" "$SITE/app/public/data/"
+done
+echo "✓ Copied contract into site (5 files)"
 
 # Apple 30-sec preview URLs are not in the DB — fetch them from iTunes and write
 # them into the site's details.json. Best-effort (resilient to per-album misses);
