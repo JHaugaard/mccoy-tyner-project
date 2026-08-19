@@ -1,0 +1,310 @@
+{
+  "id": "elvin-jones-live-at-the-lighthouse-1972",
+  "artist": "Elvin Jones",
+  "album": "Live at the Lighthouse",
+  "year": 1972,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Elvin Jones' defining live document as a leader: the two-tenor quartet with Dave Liebman and Steve Grossman (both just out of the Miles orbit \u2014 Grossman had replaced Wayne Shorter in Miles' band) and Gene Perla, caught at full stretch at the Lighthouse in Hermosa Beach. AllMusic's Scott Yanow (4 stars) calls it 'exciting and adventurous music that stretches the boundaries of modal hard bop'; it is the record that carried the Coltrane quartet's energy concept into the 1970s and made Liebman's reputation. Session gravity is exceptional, and the extended forms (21-minute 'Fancy Free', 15-minute 'Sweet Mama') are the live realization of the post-Coltrane lineage the canon's Elvin sideman records only imply.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Live at the Lighthouse (Elvin Jones album) \u2014 Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Live_at_the_Lighthouse_(Elvin_Jones_album)"
+    },
+    "S2": {
+      "title": "Elvin Jones Catalog \u2014 jazzdisco.org (Blue Note BN-LA015-G session entries, Sept 9, 1972)",
+      "type": "sessionography",
+      "url": "http://www.jazzdisco.org/elvin-jones/catalog/#blue-note-bn-la015-g"
+    },
+    "S3": {
+      "title": "Elvin Jones \u2014 Mosaic Records artist profile (session personnel per track)",
+      "type": "label/sessionography",
+      "url": "https://www.mosaicrecords.com/the-great-jazz-artists/elvin-jones/"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 Live At the Lighthouse (collectionId)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Elvin+Jones+Live+at+the+Lighthouse&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group (via Wikidata link on Wikipedia)",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/63215382-668f-4fa4-859e-7eb507af9370"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1972-09-09"
+    ],
+    "multi_session": false,
+    "studio": "The Lighthouse, Hermosa Beach, CA (live)",
+    "recording_sites": [
+      {
+        "session_date": "1972-09-09",
+        "site_raw": "Lighthouse Caf\u00e9, Hermosa Beach",
+        "site_slug": "the-lighthouse",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "George Butler",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "Steve Grossman",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles soprano saxophone (S1, S2)."
+      },
+      {
+        "name": "Dave Liebman",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "David Liebman"
+        ],
+        "notes": "Doubles soprano saxophone and flute (S1, S2)."
+      },
+      {
+        "name": "Gene Perla",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Fancy Free",
+        "track_number": 1,
+        "side": null,
+        "duration": "21:06",
+        "session_date": "1972-09-09",
+        "composers": [
+          "Donald Byrd"
+        ],
+        "personnel": [
+          "Elvin Jones",
+          "Steve Grossman",
+          "Dave Liebman",
+          "Gene Perla"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "New Breed",
+        "track_number": 2,
+        "side": null,
+        "duration": "12:06",
+        "session_date": "1972-09-09",
+        "composers": [
+          "Dave Liebman"
+        ],
+        "personnel": [
+          "Elvin Jones",
+          "Steve Grossman",
+          "Dave Liebman",
+          "Gene Perla"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Sambra",
+        "track_number": 3,
+        "side": null,
+        "duration": "13:12",
+        "session_date": "1972-09-09",
+        "composers": [
+          "Gene Perla"
+        ],
+        "personnel": [
+          "Elvin Jones",
+          "Steve Grossman",
+          "Dave Liebman",
+          "Gene Perla"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "My Ship",
+        "track_number": 4,
+        "side": null,
+        "duration": "8:52",
+        "session_date": "1972-09-09",
+        "composers": [
+          "Ira Gershwin",
+          "Kurt Weill"
+        ],
+        "personnel": [
+          "Elvin Jones",
+          "Steve Grossman",
+          "Dave Liebman",
+          "Gene Perla"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Happy Birthday Greeting",
+        "track_number": 5,
+        "side": null,
+        "duration": "0:50",
+        "session_date": "1972-09-09",
+        "composers": [],
+        "personnel": [
+          "Elvin Jones",
+          "Steve Grossman",
+          "Dave Liebman",
+          "Gene Perla"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Sweet Mama",
+        "track_number": 6,
+        "side": null,
+        "duration": "15:30",
+        "session_date": "1972-09-09",
+        "composers": [
+          "Gene Perla"
+        ],
+        "personnel": [
+          "Elvin Jones",
+          "Steve Grossman",
+          "Dave Liebman",
+          "Gene Perla"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "The Children, Save the Children",
+        "track_number": 7,
+        "side": null,
+        "duration": "7:58",
+        "session_date": "1972-09-09",
+        "composers": [
+          "Don Garcia"
+        ],
+        "personnel": [
+          "Elvin Jones",
+          "Steve Grossman",
+          "Dave Liebman",
+          "Gene Perla"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "63215382-668f-4fa4-859e-7eb507af9370",
+    "apple_album_id": "1443082696",
+    "cover_art": [],
+    "notes": "One evening, three sets, at The Lighthouse, Hermosa Beach, CA, September 9, 1972 (S2). Original double LP (Blue Note BN-LA 015-G2) tracks are the seven listed; CD reissues (Vol 1 CDP 7 84447 2 / Vol 2 CDP 7 84448 2, 1990) add Taurus People, Small One, Brite Piece, I'm a Fool to Want You, The Children's Merry-Go-Round March, For All Those Other Times/Announcement \u2014 excluded as reissue-only. Exact LP side assignments not documented in gathered sources, so side is null. Producer George Butler per Wikipedia (obs); engineer undocumented \u2014 null. Per-track saxophone doubling (who plays tenor vs soprano vs flute on which track) is indicated at session level by S1/S2/S3 but not resolved per track, hence track_assignments_complete false. Cover Art Archive returned 404 for this release group; no cover art recorded."
+  },
+  "ballot": {
+    "album": "Elvin Jones \u2014 Live at the Lighthouse (1972)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Widely regarded as Elvin Jones' defining statement as a bandleader, this is the load-bearing document of how the Coltrane Quartet's torrential energy concept was carried into 1970s acoustic post-bop \u2014 the lineage argument at its strongest. The piano-less two-tenor frontline (Steve Grossman, fresh from replacing Wayne Shorter in Miles' band, and Dave Liebman, likewise out of the Miles orbit) opens massive harmonic space for Jones' polyrhythmic drive, and the date effectively launched Liebman's reputation \u2014 session gravity of the first rank, per the dossier's jazzdisco/Mosaic-sourced personnel record. AllMusic's Scott Yanow (4 stars) calls it 'exciting and adventurous music that stretches the boundaries of modal hard bop.' Discovery value is visceral and immediate: the 21-minute 'Fancy Free' teaches a cold listener exactly what drum-led post-Coltrane energy music is at its peak.",
+    "case_against": "The honest against-case is about breadth of consensus and accessibility, not quality. This is a demanding, potentially fatiguing listen \u2014 a piano-less heavy-tenor assault where two tracks alone consume 36 minutes \u2014 and while drum devotees and post-bop scholars revere it, it lacks the household-name, crossover consensus of a Moanin' or Maiden Voyage; it is not a fixture of Penguin Guide core-collection-style lists the way the 1950s/60s defining statements are. There is also a real (if minor) sourcing gap: per-track saxophone doubling (who plays tenor vs. soprano vs. flute where) is documented only at session level, leaving the personnel record technically incomplete, and cover art is absent. The case for 'must_have' is weaker than the case for 'strong' \u2014 the canon's hole here is audible to specialists more than to a casual browser.",
+    "disagreement": null,
+    "recommendation": "The council proposes John include Live at the Lighthouse as a strong-tier consensus_core album \u2014 Elvin Jones' definitive leader statement and the canon's clearest document of the post-Coltrane lineage reaching the 1970s.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

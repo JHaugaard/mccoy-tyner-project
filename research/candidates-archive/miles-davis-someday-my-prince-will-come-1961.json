@@ -1,0 +1,345 @@
+{
+  "id": "miles-davis-someday-my-prince-will-come-1961",
+  "artist": "Miles Davis",
+  "album": "Someday My Prince Will Come",
+  "year": 1961,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "rationale": "The only Miles Davis Quintet studio album with Hank Mobley, and the record where the Kelly–Chambers–Cobb rhythm section (the 'rhythm section that would back Wes Montgomery at the Half Note') is documented at length in a Columbia studio. It also carries John Coltrane's final recorded appearances with Miles — his solos on the title track and 'Teo' are among the most celebrated of the whole Davis–Coltrane association. Penguin Guide 4 stars, AllMusic 4 stars, DownBeat 4.5 (1962). The against-case is real — several reviewers find the Mobley tracks a step below the Coltrane cameos — but as a session-gravity record closing the first great quintet era, the canon hole is visible without it.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Someday My Prince Will Come (Miles Davis album) - Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Someday_My_Prince_Will_Come_(Miles_Davis_album)"
+    },
+    "S2": {
+      "title": "Someday My Prince Will Come - Miles Davis Sextet / Miles Davis | AllMusic",
+      "type": "overview_credits",
+      "url": "https://www.allmusic.com/album/someday-my-prince-will-come-mw0000187921"
+    },
+    "S3": {
+      "title": "iTunes Search API: Miles Davis - Someday My Prince Will Come",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Someday+My+Prince+Will+Come&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive - release-group 7f5e9a98-d9db-3310-ad31-12e5593f3c9b",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/7f5e9a98-d9db-3310-ad31-12e5593f3c9b"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-03-07",
+      "1961-03-20",
+      "1961-03-21"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1961-03-07",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1961-03-20",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1961-03-21",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": "Fred Plaut, Frank Laico",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Someday My Prince Will Come",
+          "Old Folks",
+          "Pfrancing",
+          "Drad-Dog",
+          "I Thought About You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: tenor on all tracks except 'Teo'. The only Miles Davis Quintet studio album to feature Mobley."
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Someday My Prince Will Come",
+          "Teo"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Cameo appearances; plays instead of Mobley on 'Teo'. His final recordings with Davis."
+      },
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Cobb",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Drums on all original-LP tracks; 'Blues No. 2' (bonus track only) is Philly Joe Jones."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Someday My Prince Will Come",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:02",
+        "session_date": null,
+        "composers": [
+          "Frank Churchill",
+          "Larry Morey"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Hank Mobley",
+          "John Coltrane",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Old Folks",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:14",
+        "session_date": null,
+        "composers": [
+          "Willard Robison",
+          "Dedette Lee Hill"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Hank Mobley",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Pfrancing",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:30",
+        "session_date": null,
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Hank Mobley",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Drad-Dog",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:49",
+        "session_date": null,
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Hank Mobley",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Teo",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:33",
+        "session_date": null,
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Thought About You",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:52",
+        "session_date": null,
+        "composers": [
+          "Jimmy Van Heusen",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Hank Mobley",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "7f5e9a98-d9db-3310-ad31-12e5593f3c9b",
+    "apple_album_id": "170422357",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/e943af36-d809-45ac-b2ea-73c33d99a917/16046748518.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from a release in the correct MusicBrainz release group; pressing not verified as original Columbia CL 1656/CS 8456."
+      }
+    ],
+    "notes": "Columbia CL 1656 / CS 8456; released December 11, 1961. Sessions March 7, 20, 21, 1961, all at Columbia 30th Street Studio (Wikipedia and AllMusic agree). Sources consulted do not state which album tracks belong to which of the three dates, so per-track session_date is null; March 21 is documented as the date Philly Joe Jones replaced Cobb for 'Blues No. 2', which was not used on the original LP. The LP cover credits the 'Miles Davis Sextet', but only the title track features six players. 1999 Legacy reissue bonus tracks ('Blues No. 2', alternate take of the title track) are excluded; Philly Joe Jones therefore appears on no original-LP track and is recorded here in notes only. Producer Teo Macero; engineers Fred Plaut and Frank Laico per Wikipedia and AllMusic credits."
+  },
+  "ballot": {
+    "album": "Miles Davis — Someday My Prince Will Come (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Session gravity and lineage carry the case: this is the definitive Columbia studio documentation of the Kelly–Chambers–Cobb rhythm section — the unit that defined the era's swing feel before leaving to back Wes Montgomery — and it holds John Coltrane's final recorded appearances with Davis, on the title track and 'Teo,' among the most celebrated solos of the entire Davis–Coltrane association (S1). Consensus is rock-solid across independent traditions: Penguin Guide 4 stars, AllMusic 4 stars, DownBeat 4.5 (1962). It is also the only Miles Davis Quintet studio album with Hank Mobley, making it the closing document of the first great quintet era — a visible hole in any Davis arc without it.",
+    "case_against": "The album lacks the unified vision of a defining statement: it is a transitional record, and the stylistic contrast between Mobley's rounded hard-bop and Coltrane's explosive cameos makes for an uneven front-to-back listen, with several reviewers finding the Mobley tracks a step below the Coltrane appearances. It sits in the shadow of the stronger quintet/sextet records immediately before it ('Milestones,' 'Kind of Blue'), and the dossier's sourcing is thin for a canon judgment — Wikipedia, AllMusic, an iTunes identifier lookup, and a cover-art archive, with no dedicated critical essay or Penguin entry text actually quoted.",
+    "disagreement": "Reference 1 (deepseek-v4-pro) returned an empty response, so no genuine split exists to preserve — the tier and verdict rest entirely on Reference 2's argument plus the dossier. Council confidence is correspondingly lowered: a second independent read might have weighed the unevenness case more heavily and argued 'contested.'",
+    "recommendation": "Include as a strong, non-urgent addition: a load-bearing session-gravity record closing the first great quintet era, but not a hole so glaring it must jump the queue ahead of defining statements still missing.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

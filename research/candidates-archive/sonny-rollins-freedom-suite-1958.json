@@ -1,0 +1,261 @@
+{
+  "id": "sonny-rollins-freedom-suite-1958",
+  "artist": "Sonny Rollins",
+  "album": "Freedom Suite",
+  "year": 1958,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "rationale": "Rollins's last Riverside album and his most overtly ambitious 1950s statement: the 19-minute title suite is an extended through-composed trio performance with Oscar Pettiford and Max Roach, recorded while Rollins was framing his music as a civil-rights statement (his original liner note was famously toned down by the label). A piano-less trio record at the peak of the Way Out West / Village Vanguard period, with Roach in devastating form — consensus praise across AllMusic (4.5 stars, Yanow: 'a near masterpiece'), Penguin Guide (3.5 stars), and the Rolling Stone Jazz Record Guide (5 stars). Session gravity is exceptional: Pettiford and Roach are two of the defining rhythm players of the era, and this is one of the great documents of all three.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Freedom Suite (Sonny Rollins album) - Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Freedom_Suite_(Sonny_Rollins_album)"
+    },
+    "S2": {
+      "title": "Freedom Suite - Sonny Rollins | AllMusic",
+      "type": "overview_credits",
+      "url": "https://www.allmusic.com/album/freedom-suite-mw0000188709"
+    },
+    "S3": {
+      "title": "iTunes Search API: Sonny Rollins - Freedom Suite",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Sonny+Rollins+Freedom+Suite&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive - release-group c0178fc2-3eb7-3391-b69d-6416ddbe77a3",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/c0178fc2-3eb7-3391-b69d-6416ddbe77a3"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-02-11",
+      "1958-03-07"
+    ],
+    "multi_session": true,
+    "studio": "WOR Recording Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1958-02-11",
+        "site_raw": "WOR Recording Studio, NYC",
+        "site_slug": "wor-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1958-03-07",
+        "site_raw": "WOR Recording Studio, NYC",
+        "site_slug": "wor-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews, Bill Grauer",
+    "engineer": "Sam Morse",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-11",
+          "1958-03-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Oscar Pettiford",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-11",
+          "1958-03-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-11",
+          "1958-03-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Freedom Suite",
+        "track_number": 1,
+        "side": "A",
+        "duration": "19:17",
+        "session_date": "1958-03-07",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Someday I'll Find You",
+        "track_number": 2,
+        "side": "B",
+        "duration": "4:35",
+        "session_date": "1958-02-11",
+        "composers": [
+          "Noël Coward"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Will You Still Be Mine?",
+        "track_number": 3,
+        "side": "B",
+        "duration": "2:54",
+        "session_date": "1958-02-11",
+        "composers": [
+          "Tom Adair",
+          "Matt Dennis"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Till There Was You",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:54",
+        "session_date": "1958-02-11",
+        "composers": [
+          "Meredith Willson"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Shadow Waltz",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:08",
+        "session_date": "1958-02-11",
+        "composers": [
+          "Al Dubin",
+          "Harry Warren"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Oscar Pettiford",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "c0178fc2-3eb7-3391-b69d-6416ddbe77a3",
+    "apple_album_id": "1443162379",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/95d128d4-a708-4f89-b1fc-2a6b41154dba/19242650982.png",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from a release in the correct MusicBrainz release group; pressing not verified as original Riverside RLP 12-258."
+      }
+    ],
+    "notes": "Riverside RLP 12-258. Session distribution per Wikipedia (citing jazzdisco.org Rollins catalog): February 11, 1958 = tracks 2-5; March 7, 1958 = track 1 ('The Freedom Suite'). A CD-reissue alternate take of 'Till There Was You' (4:55) is excluded as a bonus track. AllMusic gives recording location only as 'New York, NY'; Wikipedia gives WOR Recording Studio for both dates — consistent (WOR ⊂ NYC). Producers Orrin Keepnews and Bill Grauer per both Wikipedia and AllMusic credits (AllMusic lists 'Bill Grauer, Jr.'); engineer Sam Morse per AllMusic credits. Paul Bacon (design), Paul Weller (photography) also credited by AllMusic."
+  },
+  "ballot": {
+    "album": "Sonny Rollins — Freedom Suite (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "A consensus-backed landmark at the canon's center of gravity: AllMusic 4.5 stars (Yanow: 'a near masterpiece'), Penguin Guide 3.5, Rolling Stone Jazz Record Guide 5 stars. It is a defining statement of the piano-less trio format Rollins pioneered — the 19-minute through-composed title suite was a structural leap for a 1958 hard-bop record — and one of the earliest explicit civil-rights statements in the post-bebop LP era, predating Roach's own We Insist! Session gravity is exceptional: Rollins at his Way Out West / Village Vanguard peak with Oscar Pettiford and Max Roach, two of the era's defining rhythm players, makes this one of the great documents of all three.",
+    "case_against": "The album is structurally lopsided: the monumental 19-minute original suite occupies Side A while Side B is four standard show tunes, making it arguably a less complete top-to-bottom statement than the era's uniform masterpieces. The extended piano-less title track also demands real stamina from a cold listener, slightly lowering its pure discovery-test score for a novice. Sourcing is adequate but not bulletproof — the dossier leans on Wikipedia and AllMusic, with session-date mapping resting on Wikipedia's citation of jazzdisco.org rather than a directly consulted primary discography.",
+    "disagreement": "No substantive disagreement: Reference 1 (deepseek-v4-pro) returned an empty response, so only Reference 2 (gemini-3.1-pro-preview) argued the case. That single reference landed consensus_core/strong, and the for-case aligns with the dossier's own evidence; the tier is set accordingly but on one voice rather than two.",
+    "recommendation": "The council proposes John treat Freedom Suite as consensus_core at strong priority — an elite-personnel, civil-rights-era Rollins landmark whose against-case (side imbalance, discovery friction, adequate-but-thin sourcing) does not rise to the level of a contest.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

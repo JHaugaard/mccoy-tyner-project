@@ -1,0 +1,289 @@
+{
+  "id": "sam-rivers-fuchsia-swing-song-1964",
+  "artist": "Sam Rivers",
+  "album": "Fuchsia Swing Song",
+  "year": 1964,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Sam Rivers' debut as a leader, recorded weeks after his brief tenure with the Miles Davis Quintet, is a consensus-cited landmark of inside-outside post-bop: Penguin Guide 4 stars, DownBeat 4 stars, Rolling Stone Jazz Record Guide 4 stars, AllMusic 4.5 stars, and a permanent place in Blue Note's classic canon. The quartet \u2014 Jaki Byard, Ron Carter, and the 18-year-old Tony Williams \u2014 is pure session gravity, and the record fixed 'Beatrice' as a standard. Rivers' inside-outside language on this date is the bridge between the hard-bop mainstream and the avant-garde already represented in the canon (Out to Lunch!, Point of Departure, Dialogue \u2014 on all of which Rivers plays).",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Fuchsia Swing Song \u2014 Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Fuchsia_Swing_Song"
+    },
+    "S2": {
+      "title": "Fuchsia Swing Song \u2014 AllMusic (Thom Jurek review; styles; recording date/location)",
+      "type": "review/credits",
+      "url": "https://www.allmusic.com/album/fuchsia-swing-song-mw0000693386"
+    },
+    "S3": {
+      "title": "Blue Note Records Catalog: 4100 series \u2014 jazzdisco.org (BLP 4184 session entry)",
+      "type": "label discography/sessionography",
+      "url": "http://www.jazzdisco.org/blue-note-records/catalog-4100-series/#blp-4184"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 Fuchsia Swing Song (collectionId)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Sam+Rivers+Fuchsia+Swing+Song&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group (via Wikidata link on Wikipedia)",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/132fe130-b7ad-3c65-be8f-8cdf8d049554"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-12-11"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1964-12-11",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Sam Rivers",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; all compositions (S1)."
+      },
+      {
+        "name": "Jaki Byard",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Anthony Williams"
+        ],
+        "notes": "Credited as Anthony Williams in the jazzdisco.org session entry."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Fuchsia Swing Song",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:03",
+        "session_date": "1964-12-11",
+        "composers": [
+          "Sam Rivers"
+        ],
+        "personnel": [
+          "Sam Rivers",
+          "Jaki Byard",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Downstairs Blues Upstairs",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:33",
+        "session_date": "1964-12-11",
+        "composers": [
+          "Sam Rivers"
+        ],
+        "personnel": [
+          "Sam Rivers",
+          "Jaki Byard",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Cyclic Episode",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:57",
+        "session_date": "1964-12-11",
+        "composers": [
+          "Sam Rivers"
+        ],
+        "personnel": [
+          "Sam Rivers",
+          "Jaki Byard",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Luminous Monolith",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:31",
+        "session_date": "1964-12-11",
+        "composers": [
+          "Sam Rivers"
+        ],
+        "personnel": [
+          "Sam Rivers",
+          "Jaki Byard",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Beatrice",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:13",
+        "session_date": "1964-12-11",
+        "composers": [
+          "Sam Rivers"
+        ],
+        "personnel": [
+          "Sam Rivers",
+          "Jaki Byard",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ellipsis",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:43",
+        "session_date": "1964-12-11",
+        "composers": [
+          "Sam Rivers"
+        ],
+        "personnel": [
+          "Sam Rivers",
+          "Jaki Byard",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "132fe130-b7ad-3c65-be8f-8cdf8d049554",
+    "apple_album_id": "1443260248",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "wikimedia",
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/a8/Fuchsia_Swing_Song.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive timed out on two attempts; image is the one displayed on the Wikipedia album article, matched by title+artist+label."
+      }
+    ],
+    "notes": "Single session, one quartet, all six LP tracks. Wikipedia infobox gives studio as Van Gelder, Englewood Cliffs, NJ; jazzdisco.org session entry concurs with date 1964-12-11. Producer Alfred Lion per Wikipedia (obs). Engineer not stated in any gathered source; Rudy Van Gelder assigned per the contract's Van Gelder-inference rule (Blue Note, 1964, recorded at his studio) \u2014 epistemic_production set to inf on that account. CD reissue adds four alternate takes (excluded here as reissue-only). AllMusic lists styles Avant-Garde Jazz / Post-Bop; AllMusic also gives recording location 'New York, NY' alongside 'Van Gelder Studios, Englewood Cliffs, NJ' \u2014 the jazzdisco session entry resolves this to Englewood Cliffs."
+  },
+  "ballot": {
+    "album": "Sam Rivers \u2014 Fuchsia Swing Song (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "AllMusic tags it Avant-Garde Jazz alongside Post-Bop, but the organizing idiom is structured post-bop; it passes the bridge test and does not trigger the free-jazz gate's default scope_call."
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Rivers' debut as a leader carries overwhelming consensus \u2014 4-to-4.5 stars across Penguin Guide, DownBeat, AllMusic, and Rolling Stone Jazz Record Guide \u2014 and permanent standing in Blue Note's classic catalogue. Session gravity is exceptional: Ron Carter and the 18-year-old Tony Williams (two-thirds of the contemporaneous Miles Davis rhythm section, arriving weeks after Rivers' own Davis stint) plus Jaki Byard. The album fixed 'Beatrice' as an enduring standard, and Rivers' inside-outside language here is the audible bridge between the hard-bop mainstream and the already-canonical avant records he played on \u2014 Out to Lunch!, Point of Departure, Dialogue \u2014 making it exactly the record the rubric asks for: one that teaches the idiom and connects to what the canon already holds.",
+    "case_against": "The honest against-case is thin but real. Rivers' inside-outside approach stretches tonal and harmonic boundaries enough that a listener oriented to the modal comfort of early-60s post-bop may find the angularity abrasive \u2014 relevant given John's standing calibration note on the avant-garde. One could also argue the elite rhythm section's gravity slightly overshadows Rivers' own conceptual authorship at moments. Sourcing is adequate but not deep (five sources, two of them bare identifiers), though the core facts \u2014 date, studio, personnel, ratings \u2014 are well corroborated.",
+    "disagreement": "Reference 1 returned no judgment, so no substantive split exists; Reference 2 alone argued the case and landed on consensus_core/must_have. The ballot rests on a single reference voice plus the dossier evidence.",
+    "recommendation": "The council proposes John treat this as a consensus-core must-have and admit it as the load-bearing Sam Rivers entry in the canon.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}
