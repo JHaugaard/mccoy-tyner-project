@@ -1,0 +1,425 @@
+{
+  "id": "herbie-nichols-herbie-nichols-trio-1956",
+  "artist": "Herbie Nichols",
+  "album": "Herbie Nichols Trio",
+  "year": 1956,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Nichols' only 12-inch Blue Note leader album (BLP 1519), drawing on three Van Gelder sessions with Max Roach and alternating Al McKibbon/Teddy Kotick. AllMusic awarded the Complete Blue Note Recordings five stars: 'virtually unclassifiable... sounds unlike anything produced by Herbie Nichols' contemporaries. Essential music.' Nichols is the canon's great missing composer-pianist \u2014 Monk's only true peer in mid-50s piano composition, championed by Roswell Rudd and a whole revival literature. Discovery value is the point of this canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Herbie Nichols Trio \u2014 Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Herbie_Nichols_Trio"
+    },
+    "S2": {
+      "title": "Herbie Nichols Discography \u2014 JazzDiscography.com (session-level)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/herbie-nichols/discography/"
+    },
+    "S3": {
+      "title": "Ethan Iverson, Do The M@th: Herbie Nichols Trio",
+      "type": "critic-essay",
+      "url": "https://ethaniverson.com/herbie-nichols-trio/"
+    },
+    "S4": {
+      "title": "Music Aficionado: 1955 Jazz \u2014 Herbie Nichols",
+      "type": "critic-essay",
+      "url": "https://musicaficionado.blog/2026/01/27/1955-jazz-herbie-nichols/"
+    },
+    "S5": {
+      "title": "iTunes Search API \u2014 Herbie Nichols Trio (Blue Note, 1956)",
+      "type": "identifier-api",
+      "url": "https://itunes.apple.com/search?term=Herbie+Nichols+Trio&entity=album"
+    },
+    "S6": {
+      "title": "MusicBrainz release group / Cover Art Archive",
+      "type": "identifier-api",
+      "url": "https://musicbrainz.org/release-group/795a0b73-7706-43fd-96e9-369cfa7b9334"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1955-08-01",
+      "1955-08-07",
+      "1956-04-19"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1955-08-01",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1955-08-07",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1956-04-19",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Herbie Nichols",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1955-08-01",
+          "1955-08-07",
+          "1956-04-19"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Album leader; composed all tracks except 'Lady Sings the Blues' (co-written with Billie Holiday) and 'Mine' (Gershwin/Gershwin)."
+      },
+      {
+        "name": "Al McKibbon",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Gig",
+          "House Party Starting",
+          "Chit-Chatting",
+          "Lady Sings the Blues",
+          "Terpsichore",
+          "Hangover Triangle"
+        ],
+        "session_dates": [
+          "1955-08-01",
+          "1955-08-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "August 1955 sessions only."
+      },
+      {
+        "name": "Teddy Kotick",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Spinning Song",
+          "Query",
+          "Wildflower",
+          "Mine"
+        ],
+        "session_dates": [
+          "1956-04-19"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "April 19, 1956 session only."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1955-08-01",
+          "1955-08-07",
+          "1956-04-19"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Gig",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:27",
+        "session_date": "1955-08-01",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Al McKibbon",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "House Party Starting",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:41",
+        "session_date": "1955-08-01",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Al McKibbon",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Chit-Chatting",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:04",
+        "session_date": "1955-08-01",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Al McKibbon",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Lady Sings the Blues",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:25",
+        "session_date": "1955-08-01",
+        "composers": [
+          "Billie Holiday",
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Al McKibbon",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Terpsichore",
+        "track_number": 5,
+        "side": "A",
+        "duration": "4:01",
+        "session_date": "1955-08-07",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Al McKibbon",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "The Spinning Song",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:56",
+        "session_date": "1956-04-19",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Teddy Kotick",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Query",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:29",
+        "session_date": "1956-04-19",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Teddy Kotick",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Wildflower",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:06",
+        "session_date": "1956-04-19",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Teddy Kotick",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Hangover Triangle",
+        "track_number": 9,
+        "side": "B",
+        "duration": "4:05",
+        "session_date": "1955-08-01",
+        "composers": [
+          "Herbie Nichols"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Al McKibbon",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Mine",
+        "track_number": 10,
+        "side": "B",
+        "duration": "4:03",
+        "session_date": "1956-04-19",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Herbie Nichols",
+          "Teddy Kotick",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "795a0b73-7706-43fd-96e9-369cfa7b9334",
+    "apple_album_id": "1472631980",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/795a0b73-7706-43fd-96e9-369cfa7b9334/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "CAA release-group front confirmed (image 37091772302, release 9391c7be-15da-4757-93b9-56f4e93a516c)."
+      }
+    ],
+    "notes": "Three sessions, all Van Gelder Studio Hackensack: 1955-08-01 (The Gig, House Party Starting, Chit-Chatting, Lady Sings the Blues, Hangover Triangle), 1955-08-07 (Terpsichore), 1956-04-19 (The Spinning Song, Query, Wildflower, Mine). Session dates and personnel per JazzDiscography.com (S2), corroborated by Wikipedia (S1). Producer Alfred Lion and engineer Rudy Van Gelder per Wikipedia technical personnel (S1). 'The Spinning Song' titled 'Spinning Song' in the Wikipedia track list; jazzdisco lists 'The Spinning Song' \u2014 Wikipedia title retained for the LP."
+  },
+  "ballot": {
+    "album": "Herbie Nichols \u2014 Herbie Nichols Trio (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is the defining statement of the canon's great missing composer-pianist: Nichols' only 12-inch Blue Note leader LP (BLP 1519), and the primary original document of a compositional mind that Ethan Iverson (S3), Roswell Rudd, and the entire revival literature place beside Monk as mid-50s piano composition's other pole. Session gravity is high \u2014 Max Roach on all three Van Gelder sessions, with Al McKibbon and Teddy Kotick alternating \u2014 and originals like 'The Gig,' 'House Party Starting,' and 'Terpsichore' sound, per the cited AllMusic verdict, 'unlike anything produced by Herbie Nichols' contemporaries.' Under the rubric's discovery test this is close to an ideal candidate: a curious listener sent here cold immediately learns that 1950s jazz held more than one sui generis piano-composer. The dossier is also unusually well-built: session-level personnel and track data from JazzDiscography corroborated by Wikipedia, with identifier confirmation from MusicBrainz and Apple.",
+    "case_against": "The album's lineage is entirely retrospective: Nichols was ignored in his lifetime, the record fixed no sound for the 1950s ecosystem in real time, and its canonical standing rests on the revival literature (Rudd's advocacy, the Iverson essay) rather than continuous recognition like *Saxophone Colossus* or *Moanin'*. There is also a sourcing weakness the dossier itself concedes: the five-star AllMusic rating quoted in the rationale attaches to the *Complete Blue Note Recordings* box set, not to this specific 10-track LP, so the strongest consensus citation may be misattributed to the wrong release vehicle. A council member could fairly argue the box set \u2014 not the original LP sequence \u2014 is what actually carries the cultural weight, which makes this a case about which object is canonical rather than whether Nichols is.",
+    "disagreement": null,
+    "recommendation": "The council proposes John include this as a strong-tier addition: the single functional reference argued consensus_core on the strength of the defining-statement and discovery signals, while flagging that the box-set-vs-LP attribution question is the one thing John should weigh before ruling.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

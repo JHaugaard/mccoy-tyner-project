@@ -1,0 +1,300 @@
+{
+  "id": "sonny-rollins-plus-four-1956",
+  "artist": "Sonny Rollins",
+  "album": "Sonny Rollins Plus 4",
+  "year": 1956,
+  "label": "Prestige",
+  "style_primary": "hard-bop",
+  "rationale": "The only studio album Rollins made as a member of the Clifford Brown/Max Roach Quintet, recorded March 22, 1956 \u2014 the last recording of Clifford Brown and Richie Powell, both killed three months later. Five stars from AllMusic (Yanow: 'particularly strong hard bop set'), Penguin Guide 3.5 stars. Rollins' 'Valse Hot' and 'Pent-Up House' became permanent repertoire. Consensus hard-bop landmark and a defining document of the Brown/Roach quintet already in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Sonny Rollins Plus 4 \u2014 Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Rollins_Plus_4"
+    },
+    "S2": {
+      "title": "Official Sonny Rollins Facebook post on Plus 4 (March 22, 1956, Van Gelder Studio)",
+      "type": "artist-statement",
+      "url": "https://www.facebook.com/officialsonnyrollins/posts/1468474667983274/"
+    },
+    "S3": {
+      "title": "Jazzwise review: Sonny Rollins Plus 4",
+      "type": "review",
+      "url": "https://www.jazzwise.com/reviews/sonny-rollins-plus-4"
+    },
+    "S4": {
+      "title": "Fresh Sound Records \u2014 Complete Studio Recordings with Sonny Rollins (session details)",
+      "type": "label-discography",
+      "url": "https://www.freshsoundrecords.com/max-roach-clifford-brown-quintet-albums/4622-complete-studio-recordings-with-sonny-rollins.html"
+    },
+    "S5": {
+      "title": "iTunes Search API \u2014 Plus 4 (Remastered 2025, Craft Recordings/Prestige)",
+      "type": "identifier-api",
+      "url": "https://itunes.apple.com/search?term=Sonny+Rollins+Plus+Four&entity=album"
+    },
+    "S6": {
+      "title": "MusicBrainz release group / Cover Art Archive",
+      "type": "identifier-api",
+      "url": "https://musicbrainz.org/release-group/dde2147b-0245-3e83-90d4-db667c2d005c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-03-22"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1956-03-22",
+        "site_raw": "Van Gelder Studio, Hackensack, New Jersey",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Bob Weinstock",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-03-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Album leader; composed 'Valse Hot' and 'Pent-Up House' (S1)."
+      },
+      {
+        "name": "Clifford Brown",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Valse Hot",
+          "Kiss and Run",
+          "I Feel a Song Coming On",
+          "Pent-Up House"
+        ],
+        "session_dates": [
+          "1956-03-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Does not play on 'Count Your Blessings (Instead of Sheep)' per Wikipedia personnel section (S1)."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-03-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richie Powell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-03-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Last recording; died June 1956 (S1)."
+      },
+      {
+        "name": "George Morrow",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-03-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Valse Hot",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:36",
+        "session_date": "1956-03-22",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Clifford Brown",
+          "Max Roach",
+          "Richie Powell",
+          "George Morrow"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Kiss and Run",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:08",
+        "session_date": "1956-03-22",
+        "composers": [
+          "Sam Coslow"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Clifford Brown",
+          "Max Roach",
+          "Richie Powell",
+          "George Morrow"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Feel a Song Coming On",
+        "track_number": 3,
+        "side": "B",
+        "duration": "5:13",
+        "session_date": "1956-03-22",
+        "composers": [
+          "Dorothy Fields",
+          "Jimmy McHugh",
+          "George Oppenheimer"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Clifford Brown",
+          "Max Roach",
+          "Richie Powell",
+          "George Morrow"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Count Your Blessings (Instead of Sheep)",
+        "track_number": 4,
+        "side": "B",
+        "duration": "2:30",
+        "session_date": "1956-03-22",
+        "composers": [
+          "Irving Berlin"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Max Roach",
+          "Richie Powell",
+          "George Morrow"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Pent-Up House",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:50",
+        "session_date": "1956-03-22",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Clifford Brown",
+          "Max Roach",
+          "Richie Powell",
+          "George Morrow"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "dde2147b-0245-3e83-90d4-db667c2d005c",
+    "apple_album_id": "1847759046",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/dde2147b-0245-3e83-90d4-db667c2d005c/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "CAA /front endpoint confirmed serving image/jpeg."
+      }
+    ],
+    "notes": "Single session, March 22, 1956, Van Gelder Studio Hackensack (pre-July-1959 location per session date). Producer Bob Weinstock per Wikipedia infobox (S1). Engineer Rudy Van Gelder per Van Gelder Studio inference \u2014 recorded at his own studio, engineer not explicitly credited in sources consulted (epistemic_production obs covers producer; engineer is the standard inf case). All five tracks are the full Brown/Roach Quintet with Rollins; Brown sits out 'Count Your Blessings'. Apple album is the 2025 Craft Recordings remaster of the original Prestige PRLP 7038 (S5)."
+  },
+  "ballot": {
+    "album": "Sonny Rollins \u2014 Sonny Rollins Plus 4 (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Session gravity is near-maximal: this is the only studio album Rollins made with the Clifford Brown/Max Roach Quintet and the final recording of Brown and Richie Powell, both dead three months later (S1). Lineage is concrete \u2014 Rollins' 'Valse Hot' and 'Pent-Up House' became permanent repertoire, with 'Valse Hot' among the earliest successful post-bebop waltz explorations. Consensus is strong across independent traditions: 5-star AllMusic (Yanow: 'particularly strong hard bop set'), 3.5-star Penguin Guide, universal recognition as a hard-bop landmark. It passes the discovery test easily \u2014 a cold listener hears the peak of mid-50s muscular, swinging jazz from a quintet whose EmArcy records are already canon's furniture.",
+    "case_against": "The album has a hybrid identity: it is essentially a Brown/Roach Quintet date issued under Rollins' name for contractual reasons (he was Prestige, the quintet EmArcy), so it lacks the singular artistic unity of his true leader dates like Saxophone Colossus. Penguin's 3.5 stars places it just below the era's absolute zenith, and a purist could argue the quintet is better represented by its core EmArcy albums and Rollins by Colossus \u2014 making this, arguably, a superb record that is no one's single defining statement. This is a real but thin case.",
+    "disagreement": "None on substance, but only one reference returned a usable ballot (nous:deepseek/deepseek-v4-pro gave an empty response); the tier rests on Gemini's argument plus the dossier evidence rather than a true two-voice convergence.",
+    "recommendation": "The council proposes John include this as a strong, near-core hard-bop landmark \u2014 the last document of Brown and Powell and the birthplace of two permanent Rollins compositions.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}
