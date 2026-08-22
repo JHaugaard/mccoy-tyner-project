@@ -1,0 +1,290 @@
+{
+  "id": "blue-mitchell-the-thing-to-do-1964",
+  "artist": "Blue Mitchell",
+  "album": "The Thing to Do",
+  "year": 1964,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Prime Blue Note hard bop and the defining statement of Blue Mitchell's mid-60s quintet with Junior Cook: AllMusic's Scott Yanow awards five stars, calling it 'prime Blue Note hard bop, containing inventive tunes, meaningful solos, and an enthusiastic but tight feel. Highly recommended.' (S1, S2). The session carries unusual lineage weight: it is one of Chick Corea's first recordings and Al Foster's recording debut (S2), two musicians who became central to the canon's next decade. Material by Jimmy Heath ('Mona's Mood', 'The Thing to Do'), Joe Henderson ('Step Lightly') and Corea ('Chick's Tune') alongside Mitchell's 'Fungii Mama' makes it a composer's record as much as a blowing date, and session gravity is high: Mitchell, Cook and the Heath/Henderson writing bench tie it directly into the hard-bop network already in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Blue Mitchell: The Thing to Do — AllMusic album page (review, styles, recording date/location)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/the-thing-to-do-r144011"
+    },
+    "S2": {
+      "title": "The Thing to Do (album) — Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Thing_to_Do_(album)"
+    },
+    "S3": {
+      "title": "Blue Mitchell Leader Entry — JazzDiscography.com (Michael Fitzgerald; session of July 30, 1964)",
+      "type": "sessionography",
+      "url": "http://www.jazzdiscography.com/Leaders/MitchellBlue-ldr.php"
+    },
+    "S4": {
+      "title": "iTunes Search API — Blue Mitchell 'The Thing to Do' (collectionId 1442992581)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Blue+Mitchell+The+Thing+to+Do&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-07-30"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1964-07-30",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": null,
+    "apple_album_id": "1442992581",
+    "cover_art": [],
+    "notes": "Single session, July 30, 1964, Van Gelder Studio, Englewood Cliffs, NJ (S1 recording date/location; S3 sessionography entry). Released June 1965 on Blue Note BST 84178 (S2). Producer Alfred Lion per Wikipedia infobox (S2). Engineer Rudy Van Gelder is marked inf: no consulted source names him on this date, but he engineered the sessions in his own Englewood Cliffs studio — standard for Blue Note 1964 (inf, S1+S3 place the session in his room). Al Foster's recording debut and one of Chick Corea's first recordings per Wikipedia (S2). AllMusic styles: Hard Bop, Jazz Instrument, Trumpet Jazz (S1). Track order and durations follow Wikipedia (S2); jazzdiscography (S3) confirms titles, composers, take numbers and the BST 84178 issue. MusicBrainz lookup timed out tonight — MBID and cover art left null rather than guessed.",
+    "personnel": [
+      {
+        "name": "Blue Mitchell",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-07-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composed 'Fungii Mama'."
+      },
+      {
+        "name": "Junior Cook",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-07-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Chick Corea",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-07-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "One of his first recordings (S2); composed 'Chick's Tune'."
+      },
+      {
+        "name": "Gene Taylor",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-07-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Al Foster",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-07-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Recording debut (S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Fungii Mama",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:49",
+        "session_date": "1964-07-30",
+        "composers": [
+          "Blue Mitchell"
+        ],
+        "personnel": [
+          "Blue Mitchell",
+          "Junior Cook",
+          "Chick Corea",
+          "Gene Taylor",
+          "Al Foster"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mona's Mood",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:18",
+        "session_date": "1964-07-30",
+        "composers": [
+          "Jimmy Heath"
+        ],
+        "personnel": [
+          "Blue Mitchell",
+          "Junior Cook",
+          "Chick Corea",
+          "Gene Taylor",
+          "Al Foster"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Thing to Do",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:08",
+        "session_date": "1964-07-30",
+        "composers": [
+          "Jimmy Heath"
+        ],
+        "personnel": [
+          "Blue Mitchell",
+          "Junior Cook",
+          "Chick Corea",
+          "Gene Taylor",
+          "Al Foster"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Step Lightly",
+        "track_number": 4,
+        "side": "B",
+        "duration": "10:27",
+        "session_date": "1964-07-30",
+        "composers": [
+          "Joe Henderson"
+        ],
+        "personnel": [
+          "Blue Mitchell",
+          "Junior Cook",
+          "Chick Corea",
+          "Gene Taylor",
+          "Al Foster"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Chick's Tune",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:36",
+        "session_date": "1964-07-30",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Blue Mitchell",
+          "Junior Cook",
+          "Chick Corea",
+          "Gene Taylor",
+          "Al Foster"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Blue Mitchell — The Thing to Do (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "This is the defining statement of Blue Mitchell's mid-60s quintet with Junior Cook — the front line that carried Horace Silver's hard-bop DNA forward — captured in a single July 1964 Van Gelder session with Alfred Lion producing. Its session gravity is exceptional for a record of its size: Al Foster's recording debut and one of Chick Corea's first recordings (S2) tie 1964 hard bop directly to two musicians central to the canon's next decade. It is a composer's record as much as a blowing date, with Jimmy Heath's title track and 'Mona's Mood,' Joe Henderson's 'Step Lightly,' Corea's 'Chick's Tune,' and Mitchell's enduring 'Fungii Mama' (S2, S3), and AllMusic's Scott Yanow awards five stars, calling it 'prime Blue Note hard bop... Highly recommended' (S1). It passes the discovery test easily: energetic, tight, and immediately pleasurable.",
+    "case_against": "The consensus signal the rubric ranks first is thin: the entire aesthetic case rests on one AllMusic review plus Wikipedia, with no Penguin Guide core-collection entry, no NPR/JazzTimes/DownBeat canon-list presence, no label-anthology status, and no musician-cited testimony across independent listing traditions. 1964 Blue Note hard bop is among the most crowded shelves in the canon, and by that year the music's frontier had moved to modal and avant-garde work — this is an immaculate execution of a codified formula, not a record that changed what came after. The lineage argument is also easily overstated: Corea and Foster's presence is a fascinating footnote, but appearing on a session is not the same as the album audibly shaping the tradition — this record received the hard-bop lineage rather than redirecting it. At best it is a defining statement at the artist level, not a load-bearing record of the post-bebop tradition.",
+    "disagreement": "The references split cleanly on tier (contested vs. consensus_core) and priority (consider vs. strong) over how to weigh identical facts: the deepseek reference reads the single AllMusic five-star review as thin consensus and the Corea/Foster appearances as overstated lineage, while the gemini reference reads the same facts as a strong consensus signal and decisive lineage value bridging hard bop to the 1970s. Neither disputes scope, sourcing, or the quality of the record — they dispute its canonical weight.",
+    "recommendation": "The council proposes John treat this as a contested candidate: a well-documented, highly enjoyable hard-bop date whose inclusion hinges on whether he weighs the Corea/Foster session gravity more heavily than the thin independent consensus in an already-crowded 1964 Blue Note field.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "id": "art-farmer-benny-golson-jazztet-meet-the-jazztet-1960",
+  "artist": "Art Farmer-Benny Golson Jazztet",
+  "album": "Meet the Jazztet",
+  "year": 1960,
+  "label": "Argo",
+  "style_primary": "hard-bop",
+  "rationale": "The debut and defining statement of the Jazztet, the Art Farmer/Benny Golson sextet that set the standard for arranged hard bop at the turn of the 1960s. AllMusic calls it 'an essential hard bop title' and says the band's reputation 'could rest on this stunning disc alone' (S2); Wikipedia reports a five-star AllMusic rating and a hit single, 'Killer Joe', which sold over 40,000 copies by August 1960 (S1). Golson's writing here — 'Killer Joe', 'I Remember Clifford', 'Blues March', 'Park Avenue Petite' — became repertoire. Session gravity is exceptional: McCoy Tyner's piano chair (his first major recording exposure before joining Coltrane later in 1960), Curtis Fuller, and the Farmer brothers, with Lex Humphries — a direct bridge into musicians already load-bearing in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Meet the Jazztet — Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Meet_the_Jazztet"
+    },
+    "S2": {
+      "title": "Meet the Jazztet — AllMusic album page (review, recording dates)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/meet-the-jazztet-mw0000689979"
+    },
+    "S3": {
+      "title": "Art Farmer Discography — jazzdisco.org (Argo LP-664 session, Nola Penthouse Sound Studios, Feb 6/9/10 1960)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/art-farmer/discography/"
+    },
+    "S4": {
+      "title": "iTunes Search API — 'Meet the Jazztet' (collectionId 1443465903)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Art+Farmer+Benny+Golson+Meet+the+Jazztet&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group + Cover Art Archive (MBID c9bb33a3-8bb5-3fb4-aa78-33c8f1e78ea3)",
+      "type": "identifiers",
+      "url": "https://musicbrainz.org/release-group/c9bb33a3-8bb5-3fb4-aa78-33c8f1e78ea3"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-02-06",
+      "1960-02-09",
+      "1960-02-10"
+    ],
+    "multi_session": true,
+    "studio": "Nola Penthouse Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1960-02-06",
+        "site_raw": "Nola Penthouse Studios, New York City",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1960-02-09",
+        "site_raw": "Nola Penthouse Studios, New York City",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1960-02-10",
+        "site_raw": "Nola Penthouse Studios, New York City",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Kay Norton",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "c9bb33a3-8bb5-3fb4-aa78-33c8f1e78ea3",
+    "apple_album_id": "1443465903",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/c9bb33a3-8bb5-3fb4-aa78-33c8f1e78ea3/front",
+        "is_original_cover": false,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "notes": "Approved front image in Cover Art Archive; attached release is a later reissue, so is_original_cover=false."
+      }
+    ],
+    "notes": "Ten tracks recorded over three days at Nola Penthouse Studios, NYC: Feb 6, 9, 10, 1960 (S1 citing the Mosaic Complete Argo/Mercury notes; S3 sessionography confirms dates, studio and Argo LP-664 matrix 10017–10026). CONFLICT: AllMusic gives recording location as 'Chicago, IL' (S2) with no studio — almost certainly a label-city error (Argo was a Chicago imprint); the NYC studio from S1/S3 is recorded as obs and AllMusic's claim is preserved here as unk. Producer Kay Norton per Wikipedia infobox (S1, obs). Engineer not named in any consulted source — unk, recorded as null. AllMusic styles: Cool, Hard Bop, Jazz Instrument (S2); style_primary hard-bop. Track list and durations follow Wikipedia (S1). Personnel identical across all three days per S1/S2/S3.",
+    "personnel": [
+      {
+        "name": "Art Farmer",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-02-06",
+          "1960-02-09",
+          "1960-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Co-leader; composed 'Mox Nix'."
+      },
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-02-06",
+          "1960-02-09",
+          "1960-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Co-leader; principal composer/arranger."
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-02-06",
+          "1960-02-09",
+          "1960-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-02-06",
+          "1960-02-09",
+          "1960-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "First major recording exposure, months before joining John Coltrane."
+      },
+      {
+        "name": "Addison Farmer",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-02-06",
+          "1960-02-09",
+          "1960-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Art Farmer's twin brother."
+      },
+      {
+        "name": "Lex Humphries",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-02-06",
+          "1960-02-09",
+          "1960-02-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Replaced original drummer Dave Bailey before the recording sessions (S1)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Serenata",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:30",
+        "session_date": null,
+        "composers": [
+          "Leroy Anderson",
+          "Mitchell Parish"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "It Ain't Necessarily So",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:26",
+        "session_date": null,
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Avalon",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:29",
+        "session_date": null,
+        "composers": [
+          "Buddy DeSylva",
+          "Al Jolson",
+          "Vincent Rose"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Remember Clifford",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:10",
+        "session_date": null,
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blues March",
+        "track_number": 5,
+        "side": "A",
+        "duration": "5:16",
+        "session_date": null,
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "It's All Right with Me",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:53",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Park Avenue Petite",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:41",
+        "session_date": null,
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mox Nix",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:01",
+        "session_date": null,
+        "composers": [
+          "Art Farmer"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Easy Living",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:33",
+        "session_date": null,
+        "composers": [
+          "Ralph Rainger",
+          "Leo Robin"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Killer Joe",
+        "track_number": 10,
+        "side": "B",
+        "duration": "4:57",
+        "session_date": null,
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Curtis Fuller",
+          "McCoy Tyner",
+          "Addison Farmer",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Art Farmer-Benny Golson Jazztet — Meet the Jazztet (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The debut and defining statement of the Jazztet, the sextet that set the benchmark for arranged three-horn hard bop; AllMusic calls it 'an essential hard bop title' whose band's reputation 'could rest on this stunning disc alone' (S2), with a five-star rating and a hit single in 'Killer Joe' (40,000+ copies by August 1960, S1) that became a standard. The album is a composer's showcase: 'Killer Joe', 'I Remember Clifford', 'Blues March', 'Park Avenue Petite' are all foundational repertoire in one place, and the tracklist's songfulness gives it real cold-listen discovery value. Session gravity is the strongest signal: McCoy Tyner's first major recording exposure months before joining Coltrane, plus Curtis Fuller alongside the Farmer brothers — a direct lineage bridge into musicians already load-bearing in the canon.",
+    "case_against": "The consensus evidence is narrower than the rationale implies: AllMusic is the only substantive critical appraisal, S1 largely mirrors it, S3 is a sessionography, and S4/S5 are bare identifiers — no Penguin core listing, no NPR/JazzTimes/DownBeat canon citation, no independent musician citations in the dossier. The defining-statement case is partly overstated: 'I Remember Clifford' and 'Blues March' were already established via Art Blakey's Jazz Messengers, leaving 'Killer Joe' as the only major piece genuinely introduced here, and some listeners will find the earlier Messengers versions more visceral. Finally, the Jazztet's polished, arranged sound is arguably a refined genre piece rather than a revolutionary statement, in an early-1960s hard-bop field already crowded with first-rank defining records.",
+    "disagreement": "The references split on tier, not scope. Gemini reads the five-star AllMusic verdict, the 'Killer Joe' standard, and the Tyner debut as an overwhelming for-case meriting consensus_core; Deepseek holds that a single critical source (AllMusic, echoed by Wikipedia) with no Penguin/NPR/JazzTimes corroboration is too thin a consensus base, and that the repertoire-centrality claim is weakened by the Blakey precedents — hence contested. Both agree on priority 'strong' and both flag the same facts; they weigh them differently.",
+    "recommendation": "The council proposes John treat this as a strong-but-contested candidate: clearly canon-worthy on repertoire, session gravity, and the Tyner lineage bridge, but held back from consensus_core until consensus evidence beyond AllMusic can be cited — include if the collection wants the definitive arranged-hard-bop statement.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}
