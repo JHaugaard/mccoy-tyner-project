@@ -1,0 +1,287 @@
+{
+  "id": "charles-mingus-pithecanthropus-erectus-1956",
+  "artist": "Charles Mingus",
+  "album": "Pithecanthropus Erectus",
+  "year": 1956,
+  "label": "Atlantic",
+  "style_primary": "post-bop",
+  "rationale": "Mingus's first Atlantic album and the record where the Jazz Workshop method crystallized — arrangements taught by ear rather than written (Mingus's own account). Penguin Guide core collection, maximum four stars: 'One of the truly great modern jazz albums,' with the title track's all-in ensemble work 'absolutely crucial to the development of free collective improvisation in the following decade.' AllMusic 5 stars; Rolling Stone Album Guide 5 stars. A lineage record in the strongest sense: the bridge between hard bop and everything Mingus (and the avant edge of the canon) did next, and Jackie McLean/Mal Waldron session gravity on top.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Pithecanthropus Erectus (album) — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Pithecanthropus_Erectus_(album)"
+    },
+    "S2": {
+      "title": "Pithecanthropus Erectus — AllMusic",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/pithecanthropus-erectus-mw0000605928"
+    },
+    "S3": {
+      "title": "Charles Mingus Discography — jazzdisco.org",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/charles-mingus/discography/"
+    },
+    "S4": {
+      "title": "iTunes Search API — Charles Mingus Pithecanthropus Erectus",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Charles+Mingus+Pithecanthropus+Erectus&entity=album"
+    },
+    "S5": {
+      "title": "Pithecanthropus Erectus — MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/c4d4589f-c6d0-31d1-a9cd-38e31e7cfa70"
+    },
+    "S6": {
+      "title": "Cover Art Archive — release group c4d4589f",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/c4d4589f-c6d0-31d1-a9cd-38e31e7cfa70"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-01-30"
+    ],
+    "multi_session": false,
+    "studio": "Audio-Video Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1956-01-30",
+        "site_raw": "Audio-Video Studios, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Audio-Video Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": null,
+          "lat": 40.713,
+          "lon": -74.006,
+          "location_epistemic": "inf",
+          "location_source": "Studio named for the session by jazzdisco.org Mingus discography and Wikipedia (citing the album's documentation); no street address documented — coords: city centroid (OSM Nominatim: New York, NY), 3-decimal precision"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Nesuhi Ertegun",
+    "engineer": "Tom Dowd",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "jazzdisco (S3) prints 'Charlie Mingus' as it appeared on the original LP."
+      },
+      {
+        "name": "Jackie McLean",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "J. R. Monterose",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Pithecanthropus Erectus",
+          "A Foggy Day",
+          "Love Chant"
+        ],
+        "session_dates": [
+          "1956-01-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3"
+        ],
+        "name_variants": [
+          "J.R. Monterose"
+        ],
+        "notes": "jazzdisco (S3) restricts Monterose to session items 1-4 (Pithecanthropus Erectus, A Foggy Day, the rejected 'What Is This Thing Called Love', Love Chant); he does not play on 'Profile of Jackie'. Wikipedia (S1) lists him without restriction."
+      },
+      {
+        "name": "Mal Waldron",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Willie Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "S1 also credits overdubbed tambourine."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Pithecanthropus Erectus",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:36",
+        "session_date": "1956-01-30",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jackie McLean",
+          "J. R. Monterose",
+          "Mal Waldron",
+          "Willie Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Foggy Day",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:50",
+        "session_date": "1956-01-30",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jackie McLean",
+          "J. R. Monterose",
+          "Mal Waldron",
+          "Willie Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Profile of Jackie",
+        "track_number": 3,
+        "side": "B",
+        "duration": "3:11",
+        "session_date": "1956-01-30",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jackie McLean",
+          "Mal Waldron",
+          "Willie Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Love Chant",
+        "track_number": 4,
+        "side": "B",
+        "duration": "14:59",
+        "session_date": "1956-01-30",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jackie McLean",
+          "J. R. Monterose",
+          "Mal Waldron",
+          "Willie Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "c4d4589f-c6d0-31d1-a9cd-38e31e7cfa70",
+    "apple_album_id": "299036715",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/c4d4589f-c6d0-31d1-a9cd-38e31e7cfa70/front",
+        "is_original_cover": null,
+        "epistemic": "obs",
+        "notes": "Two front images in the archive, both attached to a later CD reissue (release 31efffb2); whether either reproduces the 1956 Atlantic LP cover is unverified."
+      }
+    ],
+    "notes": "Single session: Audio-Video Studios, NYC, January 30, 1956 (S1 names the studio; S3 confirms studio, date, and matrix numbers 1865-1869 for Atlantic LP 1237). 'What Is This Thing Called Love' was recorded at the session and rejected (S3) — excluded from the track list as non-release. Producer Nesuhi Ertegun (S1); engineers Tom Dowd and Hal Lustig both credited 'recording engineering' by S1 — engineer field carries Dowd as first-named; Lustig preserved here. Wikipedia genres the album jazz/post-bop; the title track's collective improvisation is the documented bridge toward free jazz (Penguin Guide, quoted in S1). Willie Jones's tambourine is overdubbed (S1). Side assignment A1-A2 / B1-B2 follows the original LP sequence in S1."
+  },
+  "ballot": {
+    "album": "Charles Mingus — Pithecanthropus Erectus (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "The record where Mingus's Jazz Workshop method crystallized — arrangements taught by ear rather than written (Mingus's own account) — making it his first defining statement and the birth of his mature compositional voice. Consensus is overwhelming across independent listing traditions: Penguin Guide core collection at maximum four stars ('one of the truly great modern jazz albums'), AllMusic 5 stars, Rolling Stone Album Guide 5 stars. The lineage case is the strongest available: Penguin identifies the title track's all-in ensemble work as 'absolutely crucial to the development of free collective improvisation in the following decade' — the documented bridge from hard bop to the 1960s avant edge. Session gravity from Jackie McLean and Mal Waldron ties it into the era's core network, and the discovery test passes easily: a listener sent here cold hears exactly how bebop structures expanded into emotionally charged compositional forms.",
+    "case_against": "The against-case is thin but real: the ensemble is transitional, with drummer Willie Jones capable but lacking the telepathic rapport Mingus would soon establish with Dannie Richmond, so the rhythm section is not yet in its definitive state. The conceptual sound effects (whistles and sirens on 'A Foggy Day') can read as dated or gimmicky beside the pure musicality of the later masterworks. Minor hygiene flags: jazzdisco restricts J. R. Monterose to three of four tracks while Wikipedia lists him unrestricted (a recorded conflict, not a resolution), and the original 1956 LP cover art is unverified — the archive images attach to a later CD reissue.",
+    "disagreement": null,
+    "recommendation": "The council proposes John treat this as a consensus_core must_have — a load-bearing pillar whose absence would leave a visible hole in the canon's Mingus arc and in the hard-bop-to-avant lineage.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

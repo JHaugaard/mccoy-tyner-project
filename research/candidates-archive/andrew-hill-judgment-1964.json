@@ -1,0 +1,314 @@
+{
+  "id": "andrew-hill-judgment-1964",
+  "artist": "Andrew Hill",
+  "album": "Judgment!",
+  "year": 1964,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Andrew Hill's third Blue Note album as a leader and the one that fixed his voice: a horn-less quartet with Bobby Hutcherson, Richard Davis and Elvin Jones, all Hill originals. Consensus: AllMusic 4.5 stars and Penguin Guide 3.5 stars (obs, S1/S2); AllMusic files it under post-bop, modal and avant-garde (obs, S2) — exactly the border territory where Hill does his defining work. Lineage: the Hill/Hutcherson/Davis axis is the core of the mid-60s Blue Note avant-post-bop already in the canon (Black Fire, Point of Departure, Dialogue); Elvin Jones here is fresh off the classic Coltrane quartet. Session gravity: four players who each anchor other canon records, one session, January 8, 1964 at Van Gelder Studio. Selected for the Blue Note Classic Vinyl Series reissue program (obs, S5) — the label's own canonization. Defining-statement case: among Hill's 1963-64 run, 'Judgment!' is the distilled quartet statement between Black Fire and Point of Departure.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Judgment! — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Judgment!"
+    },
+    "S2": {
+      "title": "Judgment — AllMusic (overview; AllMusic 4.5 stars; styles; recording date/location)",
+      "type": "overview-credits",
+      "url": "https://www.allmusic.com/album/judgment%21-mw0000112981"
+    },
+    "S3": {
+      "title": "iTunes Search API — Andrew Hill 'Judgment (The Rudy Van Gelder Edition)'",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Andrew+Hill+Judgment&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive — MusicBrainz release group 33b893a2",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/33b893a2-c922-3d77-b798-4b3fae9df268"
+    },
+    "S5": {
+      "title": "uDiscover Music — 'Andrew Hill's Judgment! Joins Blue Note Classic Vinyl Series'",
+      "type": "label-press",
+      "url": "https://www.udiscovermusic.com/news/andrew-hill-judgment-blue-note-classic-vinyl-series/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-01-08"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1964-01-08",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Andrew Hill",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-01-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bobby Hutcherson",
+        "instrument": "vibraphone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-01-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-01-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-01-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Siete Ocho",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:58",
+        "session_date": "1964-01-08",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Bobby Hutcherson",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Flea Flop",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:21",
+        "session_date": "1964-01-08",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Bobby Hutcherson",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Yokada Yokada",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:17",
+        "session_date": "1964-01-08",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Bobby Hutcherson",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Alfred",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:04",
+        "session_date": "1964-01-08",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Bobby Hutcherson",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Judgment",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:53",
+        "session_date": "1964-01-08",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Bobby Hutcherson",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Reconciliation",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:24",
+        "session_date": "1964-01-08",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Bobby Hutcherson",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Yokada Yokada (alternate take)",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:12",
+        "session_date": "1964-01-08",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Bobby Hutcherson",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "33b893a2-c922-3d77-b798-4b3fae9df268",
+    "apple_album_id": "715951763",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/aff806c0-f59b-42f5-bcd2-528bb3aeb277/12834915289.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from a release within the release group; pressing unverified"
+      }
+    ],
+    "notes": "Single session, January 8, 1964, Van Gelder Studio, Englewood Cliffs (Wikipedia S1 and AllMusic S2 agree). Producer Alfred Lion per Wikipedia (S1). Engineer Rudy Van Gelder by the contract's Van Gelder inference (Blue Note, 1964, confirmed Van Gelder Studio) — no source names the engineer directly, hence inf. All compositions by Andrew Hill (S1). Quartet with no horn: Hill deliberately ditched the front line after Smoke Stack. Track 7 is a CD bonus alternate take, flagged; original LP is tracks 1-6. Liner notes by Leonard Feather (S1). Wikipedia/AllMusic title the album both 'Judgment!' and 'Judgment'; BST 84159."
+  },
+  "ballot": {
+    "album": "Andrew Hill — Judgment! (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Post-bop/avant-garde edge: AllMusic files it under post-bop, modal AND avant-garde (S2), and it comes from the same 1964 Blue Note hornless/vibes axis as Out to Lunch! — a record the rubric names as a standing scope_call. One reference rules this boundary decisive; the other rules the album sits squarely inside the post-bop center."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity and lineage are overwhelming: Hill, Hutcherson, Richard Davis and Elvin Jones — fresh from the classic Coltrane quartet — on a single January 8, 1964 Van Gelder date (obs, S1/S2) is a defining personnel network, and the Hill/Hutcherson/Davis axis is the load-bearing foundation of the mid-60s Blue Note avant-post-bop already in the canon (Black Fire, Point of Departure, Dialogue, and the language audible in Out to Lunch! and Components). The hornless quartet is itself the defining-statement argument: stripping the front line forces Hill's dense voicings and Hutcherson's vibes to carry the entire melodic-harmonic load, producing the spacious, rhythmically displaced texture that fixed Hill's signature sound — plausibly the distilled quartet statement between Black Fire and Point of Departure. It passes the 'still plays' test: odd-meter originals like 'Siete Ocho' still swing hard under Elvin Jones, and a cold listener encounters a genuinely distinctive post-bop world, not a historical artifact. Blue Note's own Classic Vinyl Series selection (S5) adds label-anthology canonization to AllMusic's 4.5 stars (S2).",
+    "case_against": "The consensus evidence is too thin for consensus_core: the dossier offers AllMusic 4.5 stars (one outlet), Penguin Guide 3.5 stars — respectable but below their 4-star/Core Collection tiers — Wikipedia, and a label press item (S1/S2/S5). The label reissue is Blue Note canonizing its own catalogue, not an independent listing tradition; no NPR/JazzTimes/DownBeat canon list or musician testimony appears in the dossier. There is also a defining-statement competition problem (explicitly not an artist-concentration argument): Point of Departure is near-universally treated as the essential Hill record and is already in the canon, so a cold listener handed Judgment! is arguably getting the brilliant intermediate deep cut rather than the foundational text. Finally, the sourcing is adequate but shallow — engineer is inf, cover pressing unverified, and all critical claims rest on two outlets.",
+    "disagreement": "The references split on both tier and the scope boundary. Ref 1 (deepseek) tiers it scope_call: the post-bop/avant-garde edge is the decisive question, the album sits on the Out to Lunch! border, and if John rules it an avant-gate arrival the default lean to scope_call/contested applies and priority drops to consider. Ref 2 (gemini) tiers it consensus_core with no boundary in play at all: the album sits squarely inside the canon's mid-60s Blue Note post-bop pillar, and session gravity plus lineage make the for-case overwhelming. They also diverge on consensus: Ref 1 reads the dossier's listing evidence as too thin for consensus_core; Ref 2 reads AllMusic 4.5 plus the Classic Vinyl Series as sufficient.",
+    "recommendation": "John should rule first on the post-bop/avant boundary — if Judgment! lands inside the post-bop center, include it at strong priority; if it lands on the avant edge, treat it as an avant-gate arrival and weigh the bridge test before including.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

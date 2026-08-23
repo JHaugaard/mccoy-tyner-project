@@ -1,0 +1,330 @@
+{
+  "id": "ornette-coleman-change-of-the-century-1960",
+  "artist": "Ornette Coleman",
+  "album": "Change of the Century",
+  "year": 1960,
+  "label": "Atlantic",
+  "style_primary": "free-jazz",
+  "rationale": "The second Atlantic statement by the classic Coleman quartet (Cherry/Haden/Higgins), recorded the same autumn as The Shape of Jazz to Come sessions and released May 1960. AllMusic 5 stars ('absolutely essential... some of the most brilliant work of Coleman's career'), Rolling Stone Jazz Record Guide 5 stars, Penguin Guide 4 stars. Consensus free-jazz core; the quartet's group interplay here is the idiom's defining document alongside Shape of Jazz to Come. Opened-gate arrival (free jazz): the bridge test is strong — same quartet already in the canon via The Shape of Jazz to Come — but per rubric it should lean scope_call/contested rather than consensus_core.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Change of the Century — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Change_of_the_Century"
+    },
+    "S2": {
+      "title": "Change of the Century — AllMusic",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/change-of-the-century-mw0000274157"
+    },
+    "S3": {
+      "title": "Ornette Coleman Discography — jazzdisco.org",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/ornette-coleman/discography/"
+    },
+    "S4": {
+      "title": "iTunes Search API — Ornette Coleman Change of the Century",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Ornette+Coleman+Change+of+the+Century&entity=album"
+    },
+    "S5": {
+      "title": "Change of the Century — MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/a42656d2-87f7-31a3-99ca-b7ba7250255c"
+    },
+    "S6": {
+      "title": "Cover Art Archive — release group a42656d2",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/a42656d2-87f7-31a3-99ca-b7ba7250255c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-10-08",
+      "1959-10-09"
+    ],
+    "multi_session": true,
+    "studio": "NYC (studio undocumented)",
+    "recording_sites": [
+      {
+        "session_date": "1959-10-08",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1959-10-09",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Nesuhi Ertegün",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ornette Coleman",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "All compositions by Coleman (S1)."
+      },
+      {
+        "name": "Don Cherry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia (S1) credits pocket trumpet; jazzdisco (S3) lists cornet. Instrument recorded as trumpet per taxonomy; variant in sources preserved here."
+      },
+      {
+        "name": "Charlie Haden",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Ramblin'",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:39",
+        "session_date": "1959-10-09",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Free",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:24",
+        "session_date": "1959-10-09",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Face of the Bass",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:59",
+        "session_date": "1959-10-08",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Forerunner",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:16",
+        "session_date": "1959-10-09",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Bird Food",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:31",
+        "session_date": "1959-10-08",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Una Muy Bonita",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:02",
+        "session_date": "1959-10-08",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Change of the Century",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:41",
+        "session_date": "1959-10-08",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "a42656d2-87f7-31a3-99ca-b7ba7250255c",
+    "apple_album_id": "81872895",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/a42656d2-87f7-31a3-99ca-b7ba7250255c/front",
+        "is_original_cover": null,
+        "epistemic": "obs",
+        "notes": "Front image in the archive is attached to the 2008 Warner Jazz CD reissue (release 947cd815); whether it reproduces the 1960 Atlantic LP cover is unverified."
+      }
+    ],
+    "notes": "Two sessions, NYC, October 8-9, 1959 (S1, S2, S3 agree). Oct 8: The Face of the Bass, Bird Food, Una Muy Bonita, Change of the Century; Oct 9: Ramblin', Free, Forerunner (S1 track dates; S3 matrix/session data consistent). Studio undocumented in all three sources — the city is the honest answer; no street-level claim made. Producer Nesuhi Ertegün per S1; no engineer named in any consulted source (AllMusic credits tab did not render a credits table), so engineer is null/unk rather than an Atlantic-house-engineer inference. Released May 1960 on Atlantic 1327 (S1, S5). AllMusic gives 5 stars; Rolling Stone Jazz Record Guide 5 stars; Penguin Guide 4 stars (S1)."
+  },
+  "ballot": {
+    "album": "Ornette Coleman — Change of the Century (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded 1959 / released 1960, safely in-window, but it arrives through the newly opened free-jazz gate: per rubric standing rule it must lean scope_call/contested by default, be judged on the bridge test, and be weighed against John's stated taste note that free jazz does not yet resonate with him."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Critical consensus is overwhelming and independent: AllMusic 5 stars ('absolutely essential... some of the most brilliant work of Coleman's career'), Rolling Stone Jazz Record Guide 5 stars, Penguin Guide 4 stars. It passes the bridge test flawlessly — the exact same quartet (Coleman, Cherry, Haden, Higgins) already in the canon via The Shape of Jazz to Come, recorded the same October 1959 week, extending rather than founding a tradition. Crucially for John's taste calibration, it is the idiom's best teacher: Haden and Higgins keep a deep swinging pulse and the material is blues- and song-soaked ('Ramblin'', 'Bird Food', 'Una Muy Bonita'), showing precisely how hard bop was fractured and reassembled — teaching free jazz without energy-music maximalism.",
+    "case_against": "The real case is structural redundancy in a discovery canon, not quality. The Shape of Jazz to Come already anchors this quartet, this autumn, and this breakthrough; a listener sent cold to Change of the Century learns essentially the same lesson from the same four musicians recorded days apart. Given John's explicit note that free jazz does not currently resonate and that he expects a high cull rate on free-jazz proposals, the burden is to show this album teaches something distinct — and 'more of the same brilliance' may not clear that bar. Sourcing is also thinner than the consensus claim implies: the star ratings rest largely on Wikipedia's summary (S1), with no primary canon-list appearances documented.",
+    "disagreement": null,
+    "recommendation": "The council proposes John treat this as contested-but-strong: include only if he wants the quartet's most songful, blues-forward teaching record alongside Shape of Jazz to Come, and cull without hesitation if one Atlantic-era Ornette statement is enough for now.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}

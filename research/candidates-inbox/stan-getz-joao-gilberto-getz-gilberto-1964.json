@@ -1,0 +1,390 @@
+{
+  "id": "stan-getz-joao-gilberto-getz-gilberto-1964",
+  "artist": "Stan Getz & João Gilberto",
+  "album": "Getz/Gilberto",
+  "year": 1964,
+  "label": "Verve",
+  "style_primary": "cool-jazz",
+  "rationale": "The record that made bossa nova a permanent part of the jazz language, and by most counts the best-selling and most-consensus jazz album of the 1960s. Getz/Gilberto won the 1965 Grammy for Album of the Year — the first non-American album ever to do so — plus Best Jazz Instrumental Album and Best Engineered Recording, and it sits on Rolling Stone's and Vibe's all-time best-albums lists. Session gravity is unusual and specific: Stan Getz (the canon's cool-jazz tenor voice, already load-bearing here), João Gilberto (bossa nova's inventor, guitar+vocal), Antônio Carlos Jobim (the music's great composer, at the piano), and Astrud Gilberto's career-launching vocals on 'The Girl from Ipanema'. Lineage is everywhere — the whole 1960s–70s jazz/latin conversation runs through it, and it still plays: 'Corcovado' and 'Desafinado' remain touchstones. This is a defining statement of a scene and a consensus core record, not a novelty.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Getz/Gilberto — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Getz/Gilberto"
+    },
+    "S2": {
+      "title": "Getz/Gilberto — AllMusic (credits)",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/getz-gilberto-mw0000649528"
+    },
+    "S3": {
+      "title": "iTunes Search API — Getz/Gilberto (Verve, collectionId 1422655717)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Stan+Getz+Joao+Gilberto+Getz+Gilberto&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group + Cover Art Archive",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/b248d212-aace-3c3e-a23d-e13aaac1f87a"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-03-18",
+      "1963-03-19"
+    ],
+    "multi_session": false,
+    "studio": "A & R Recording, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1963-03-18",
+        "site_raw": "A & R Recording, New York City",
+        "site_slug": "a-r-recording-112-west-48th-street",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1963-03-19",
+        "site_raw": "A & R Recording, New York City",
+        "site_slug": "a-r-recording-112-west-48th-street",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Creed Taylor",
+    "engineer": "Phil Ramone",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Stan Getz",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "João Gilberto",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Joao Gilberto"
+        ],
+        "notes": "Also lead vocals throughout (bossa nova guitar-vocal style); his guitar is the defining rhythmic voice of the album."
+      },
+      {
+        "name": "Antônio Carlos Jobim",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Antonio Carlos Jobim",
+          "Tom Jobim"
+        ],
+        "notes": "Composer of most tracks; also credited as arranger on some reissues."
+      },
+      {
+        "name": "Sebastião Neto",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Sebastiao Neto"
+        ],
+        "notes": "Reissues incorrectly credit Tommy Williams as bassist; recording-session photos (Castro 1990) and AllMusic confirm Sebastião Neto."
+      },
+      {
+        "name": "Milton Banana",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also plays pandeiro."
+      },
+      {
+        "name": "Astrud Gilberto",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Girl from Ipanema",
+          "Corcovado"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Career-launching uncredited appearance; sings on 'The Girl from Ipanema' and 'Corcovado' only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Girl from Ipanema",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:21",
+        "session_date": "1963-03-18",
+        "composers": [
+          "Antônio Carlos Jobim",
+          "Vinícius de Moraes",
+          "Norman Gimbel"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana",
+          "Astrud Gilberto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Doralice",
+        "track_number": 2,
+        "side": "A",
+        "duration": "2:47",
+        "session_date": "1963-03-18",
+        "composers": [
+          "Dorival Caymmi",
+          "Antônio Almeida"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Para Machucar Meu Coração",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:07",
+        "session_date": "1963-03-18",
+        "composers": [
+          "Ary Barroso"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Desafinado",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:09",
+        "session_date": "1963-03-18",
+        "composers": [
+          "Antônio Carlos Jobim",
+          "Newton Mendonça"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Corcovado (Quiet Nights of Quiet Stars)",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:17",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Antônio Carlos Jobim",
+          "Gene Lees"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana",
+          "Astrud Gilberto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Só Danço Samba",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:42",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Antônio Carlos Jobim",
+          "Vinícius de Moraes"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "O Grande Amor",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:27",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Antônio Carlos Jobim",
+          "Vinícius de Moraes"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Vivo Sonhando",
+        "track_number": 8,
+        "side": "B",
+        "duration": "2:56",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Antônio Carlos Jobim"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "João Gilberto",
+          "Antônio Carlos Jobim",
+          "Sebastião Neto",
+          "Milton Banana"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a",
+    "apple_album_id": "1422655717",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/b248d212-aace-3c3e-a23d-e13aaac1f87a/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "CAA front (Olga Albizu painting) from release 3dbe8250 within the release group; pressing edition not confirmed as the 1964 Verve original."
+      }
+    ],
+    "notes": "Recorded March 18–19, 1963 at A & R Recording, New York City (Phil Ramone's studio), released March 1964 on Verve. Two consecutive days, one studio, one ensemble — treated as a single session. Bassist conflict: reissues credit Tommy Williams, but recording-session photos (Castro 1990) and AllMusic confirm Sebastião Neto; the conflict is preserved here. Astrud Gilberto sings on two tracks only. Original LP has 8 tracks; later reissues add 45-rpm single versions as bonus tracks (excluded here). Style filed as cool-jazz (Getz's idiom) though the record is the canonical bossa-nova statement — there is no bossa-nova style code in the taxonomy."
+  },
+  "ballot": {
+    "album": "Stan Getz & João Gilberto — Getz/Gilberto (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Getz/Gilberto is the defining statement of the jazz-bossa nova synthesis and a consensus landmark: 1965 Grammy Album of the Year, Best Jazz Instrumental Album, and appearances on Rolling Stone and Vibe all-time lists. It permanently injected João Gilberto's guitar-vocal pulse, Jobim's songbook, and Astrud Gilberto's debut on 'The Girl from Ipanema' into the jazz language, with Stan Getz's cool-toned tenor as the bridge from the post-bebop tradition. Session gravity is unrepeatable — Getz, João Gilberto, Jobim, and Astrud on the same date — and the record's lineage runs through decades of jazz-Latin and lyrical modal playing. Its discovery value remains absolute: 'Corcovado,' 'Desafinado,' and 'The Girl from Ipanema' still teach a curious listener why jazz matters.",
+    "case_against": "The strongest counter is genre-purity: a strict constructionist could argue this is fundamentally a Brazilian popular music record featuring a jazz soloist, not a direct extension of the bebop/hard-bop/modal trunk the canon centers on. Its enormous pop success and ubiquity also risk reading as easy-listening crossover rather than the exploratory mid-1960s jazz tradition. The dossier's consensus evidence leans more on Wikipedia, Grammy wins, and broad all-time lists than on explicit Penguin/DownBeat jazz-canon citations, though the cross-platform acclaim partly offsets that. Neither reference found these objections sufficient to move it out of core.",
+    "disagreement": null,
+    "recommendation": "The council proposes John accept Getz/Gilberto as a consensus-core must-have, with no scope boundary requiring a separate ruling.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:deepseek/deepseek-v4-pro",
+      "preset": "canon-council"
+    }
+  }
+}

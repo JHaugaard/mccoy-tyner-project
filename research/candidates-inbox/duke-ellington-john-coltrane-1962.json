@@ -1,0 +1,355 @@
+{
+  "id": "duke-ellington-john-coltrane-1962",
+  "artist": "Duke Ellington & John Coltrane",
+  "album": "Duke Ellington & John Coltrane",
+  "year": 1962,
+  "label": "Impulse!",
+  "style_primary": "post-bop",
+  "rationale": "The summit session: Ellington, the tradition's deepest architect, and Coltrane, its most advanced living voice, in the same room for one afternoon. Session gravity is maximal — Coltrane's classic rhythm section (Elvin Jones, Jimmy Garrison) shares the date with Ellington's own (Sam Woodyard, Aaron Bell), so two of the era's defining drummers and bassists appear on one record. Consensus is documented across independent sources, all cited in S1 (Wikipedia's review table): AllMusic 5/5, DownBeat 4/5, Penguin Guide to Jazz Recordings 3.5/4 (Cook & Morton), Rolling Stone Jazz Record Guide 4/5, and an NPR feature. The meeting is itself lineage: it marks the moment the swing tradition formally passed the torch to the modal/hard-bop generation without either side yielding. It still plays — 'In a Sentimental Mood' is one of the most beloved ballad performances in the music, and 'Take the Coltrane' is a hard-swinging dialogue across forty years of jazz. This is a load-bearing record for both artists' arcs and for the canon's core claim that it is about the musicians and their lineages.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Duke Ellington & John Coltrane — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane"
+    },
+    "S2": {
+      "title": "Duke Ellington & John Coltrane — AllMusic (credits)",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/duke-ellington-john-coltrane-mw0000416142"
+    },
+    "S3": {
+      "title": "iTunes Search API — Duke Ellington & John Coltrane (Impulse!/Verve, collectionId 1440810221)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+John+Coltrane&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group + Cover Art Archive",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/4f64c4fc-1de9-3b28-970c-e86f78c631be"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-09-26"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1962-09-26",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composed four of the seven tracks; 'In a Sentimental Mood' co-credited with Irving Mills and Manny Kurtz."
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Plays tenor saxophone on all tracks except 'Big Nick' (track 3), where he plays soprano saxophone."
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "In a Sentimental Mood",
+          "Take the Coltrane",
+          "Big Nick",
+          "Angelica"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Tracks 1–3 and 6 (Coltrane's rhythm section)."
+      },
+      {
+        "name": "Jimmy Garrison",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Take the Coltrane",
+          "Big Nick",
+          "Angelica"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Tracks 2–3 and 6 (Coltrane's rhythm section)."
+      },
+      {
+        "name": "Aaron Bell",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "In a Sentimental Mood",
+          "Stevie",
+          "My Little Brown Book",
+          "The Feeling of Jazz"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Tracks 1, 4–5 and 7 (Ellington's rhythm section)."
+      },
+      {
+        "name": "Sam Woodyard",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Stevie",
+          "My Little Brown Book",
+          "The Feeling of Jazz"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Tracks 4–5 and 7 (Ellington's rhythm section)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "In a Sentimental Mood",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:14",
+        "session_date": "1962-09-26",
+        "composers": [
+          "Duke Ellington",
+          "Irving Mills",
+          "Manny Kurtz"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "John Coltrane",
+          "Elvin Jones",
+          "Aaron Bell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Take the Coltrane",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:42",
+        "session_date": "1962-09-26",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "John Coltrane",
+          "Elvin Jones",
+          "Jimmy Garrison"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Big Nick",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:30",
+        "session_date": "1962-09-26",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "John Coltrane",
+          "Elvin Jones",
+          "Jimmy Garrison"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ],
+        "notes": "Coltrane plays soprano saxophone on this track."
+      },
+      {
+        "title": "Stevie",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:22",
+        "session_date": "1962-09-26",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "John Coltrane",
+          "Sam Woodyard",
+          "Aaron Bell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "My Little Brown Book",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:20",
+        "session_date": "1962-09-26",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "John Coltrane",
+          "Sam Woodyard",
+          "Aaron Bell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Angelica",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:00",
+        "session_date": "1962-09-26",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "John Coltrane",
+          "Elvin Jones",
+          "Jimmy Garrison"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Feeling of Jazz",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:34",
+        "session_date": "1962-09-26",
+        "composers": [
+          "Duke Ellington",
+          "Bobby Troup",
+          "George T. Simon"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "John Coltrane",
+          "Sam Woodyard",
+          "Aaron Bell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "4f64c4fc-1de9-3b28-970c-e86f78c631be",
+    "apple_album_id": "1440810221",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/4f64c4fc-1de9-3b28-970c-e86f78c631be/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "CAA front from release 6bd0a8ee within the release group; pressing edition not confirmed as the 1963 Impulse! original."
+      }
+    ],
+    "notes": "Single session, September 26, 1962, at Van Gelder Studio, Englewood Cliffs; released January 1963 on Impulse!. Year filed as 1962 (recording year), consistent with the canon's Money Jungle (also recorded 1962, released 1963). Two rhythm sections alternate: Coltrane's (Elvin Jones, Jimmy Garrison) on tracks 1–3 and 6, Ellington's (Sam Woodyard, Aaron Bell) on tracks 4–5 and 7 — full per-track assignments confirmed by Wikipedia. Coltrane plays soprano saxophone on 'Big Nick' only. Engineer Rudy Van Gelder confirmed by AllMusic credits and MusicBrainz (recording engineer, 1962-09-26)."
+  },
+  "ballot": {
+    "album": "Duke Ellington & John Coltrane — Duke Ellington & John Coltrane (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "This is one of jazz's defining intergenerational summit sessions: Duke Ellington and John Coltrane together at Van Gelder Studio on 1962-09-26, with both rhythm sections — Jones/Garrison and Woodyard/Bell — alternating track by track. The session gravity is maximal (S1/S2), and the lineage signal is specific and audible: 'In a Sentimental Mood' is a canonical ballad performance, while 'Take the Coltrane' is a direct cross-generational dialogue. Reported consensus from Penguin Guide, DownBeat, and NPR lists is strong, and the album passes the discovery test as accessible, still-living music. The personnel record is unusually complete and source-token-tracked, buttressing the rubric's 'canon is about the musicians' principle.",
+    "case_against": "The strongest honest case is that this is a summit encounter rather than a defining statement for either artist: Ellington's load-bearing statements are earlier, and Coltrane's are A Love Supreme, Giant Steps, and My Favorite Things. Its value is as connective tissue and a famous meeting rather than as an origin point for post-bop. On source hygiene, the listed dossier sources do not directly verify the Penguin Guide core-collection or perennial DownBeat/NPR canon claims made in the rationale; those consensus assertions need explicit source tokens. The granular track-level personnel data leans heavily on Wikipedia (S1), and a session of this magnitude ideally deserves a dedicated discographical source.",
+    "disagreement": "Both references agree on consensus_core / must_have, but they split on source strength: one treats the Penguin/DownBeat/NPR consensus as rock-solid, while the other notes those claims are asserted in the rationale without direct source tokens and should be verified before staging.",
+    "recommendation": "John should verify and attach explicit source tokens for the Penguin Guide/DownBeat/NPR consensus claims, then rule on including this as a core bridge record if the sources confirm it.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:deepseek/deepseek-v4-pro",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "id": "duke-ellington-the-far-east-suite-1967",
+  "artist": "Duke Ellington",
+  "album": "The Far East Suite",
+  "year": 1967,
+  "label": "RCA Victor",
+  "style_primary": "post-bop",
+  "rationale": "Ellington's late-period masterpiece and the load-bearing statement of his 1960s orchestra \u2014 the record that most completely answers 'why the Ellington band still mattered after bebop.' Consensus is the strongest signal here: The Penguin Guide to Jazz rates it four stars out of four and names it 'a postwar peak' (S1 citing Cook & Morton, 2010), singling out 'Isfahan' as 'arguably the most beautiful item in Ellington's and Strayhorn's entire output'; DownBeat gave it five stars (S1); and it won the 1968 Grammy for Best Instrumental Jazz Performance \u2013 Large Group (S1). The suite is a defining statement of the Ellington\u2013Strayhorn partnership \u2014 recorded December 1966, months before Strayhorn's death, it is the last album of new Strayhorn material Ellington recorded in Strayhorn's lifetime (S1). Session gravity is absolute: the full late-period orchestra in peak form \u2014 Hodges, Gonsalves, Carney, Hamilton, Cootie Williams, Cat Anderson, Lawrence Brown \u2014 a personnel network that is itself the core of the big-band canon. It still plays: 'Isfahan' became a standard, and the suite's coloristic writing has made it the most studied and re-recorded Ellington work of the period (Anthony Brown's 1999 Asian-American Orchestra re-recording, S1). The canon currently holds only Money Jungle (Ellington's 1962 trio side); the orchestra \u2014 the instrument Ellington actually led \u2014 is represented by no defining suite, which is a visible hole a jazz listener would notice.",
+  "consensus": "Penguin Guide 4/4 stars ('a postwar peak', Cook & Morton 2010); DownBeat 5 stars (Morgenstern 1967); 1968 Grammy, Best Instrumental Jazz Performance \u2013 Large Group; AllMusic 'quite essential' (Yanow).",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Far East Suite \u2014 Wikipedia album article (personnel, track list, reception, Grammy, Penguin/DownBeat ratings)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Far_East_Suite"
+    },
+    "S2": {
+      "title": "Duke Ellington's Far East Suite \u2014 AllMusic album page (recording dates Dec 19-21 1966, location New York NY)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/duke-ellingtons-far-east-suite-mw0000318101"
+    },
+    "S3": {
+      "title": "The Far East Suite (Special Mix) \u2014 Discogs (recording location: RCA Victor's Studio A, New York City, Dec 19-21 1966)",
+      "type": "sessionography",
+      "url": "https://www.discogs.com/release/4513624-Duke-Ellington-The-Far-East-Suite-Special-Mix"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 'Far East Suite' (collectionId 1209208698, 9-track original RCA release)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+Far+East+Suite&entity=album"
+    },
+    "S5": {
+      "title": "Far East Suite \u2014 Toronto Public Library / BiblioCommons catalog (original producer Brad McCuen)",
+      "type": "other",
+      "url": "https://tpl.bibliocommons.com/v2/record/S234C4069253"
+    },
+    "S6": {
+      "title": "MusicBrainz release-group + Cover Art Archive (MBID c5176862-2fc7-4410-ba2b-46a6c440ede3)",
+      "type": "identifiers",
+      "url": "https://musicbrainz.org/release-group/c5176862-2fc7-4410-ba2b-46a6c440ede3"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1966-12-19",
+      "1966-12-20",
+      "1966-12-21"
+    ],
+    "multi_session": true,
+    "studio": "RCA Victor's Studio A, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1966-12-19",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1966-12-20",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1966-12-21",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Brad McCuen",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "c5176862-2fc7-4410-ba2b-46a6c440ede3",
+    "apple_album_id": "1209208698",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/c5176862-2fc7-4410-ba2b-46a6c440ede3/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "URL constructed from the MusicBrainz release-group MBID (S6); not fetched this run, so pressing/original-cover status is unverified."
+      }
+    ],
+    "notes": "Recorded December 19-21, 1966 at RCA Victor's Studio A, New York City (S3; S2 confirms the Dec 19-21 window and New York). Nine compositions, all by Ellington and Billy Strayhorn except 'Ad Lib on Nippon' by Ellington alone (S1). Strayhorn died May 1967, so this is one of the last albums recorded in his lifetime to feature his compositions (S1). Producer: Brad McCuen per the Toronto Public Library/BiblioCommons catalog (S5); Wikipedia's infobox prints 'Brad McKuen', recorded here as a name variant \u2014 McCuen is the documented spelling. Engineer not named in any consulted source \u2014 recorded null, epistemic unk. Full orchestra plays throughout; featured solos rotate per track (S1): Tourist Point of View (Gonsalves), Bluebird of Delhi/Mynah (Hamilton, clarinet), Isfahan (Hodges), Mount Harissa (Gonsalves & Ellington), Blue Pepper (Hodges & Cat Anderson), Agra (Carney), Amad (Lawrence Brown), Ad Lib on Nippon (Ellington & Hamilton). The 1995 reissue added four alternate takes (bonus tracks) \u2014 excluded from the track list here per the original-release convention.",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader; co-composer with Billy Strayhorn on all tracks except 'Ad Lib on Nippon' (solo composer)."
+      },
+      {
+        "name": "Cat Anderson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "William \"Cat\" Anderson",
+          "William Cat Anderson"
+        ],
+        "notes": "Featured on 'Blue Pepper (Far East of the Blues)'."
+      },
+      {
+        "name": "Mercer Ellington",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flugelhorn (doubling)."
+      },
+      {
+        "name": "Herbie Jones",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flugelhorn (doubling)."
+      },
+      {
+        "name": "Cootie Williams",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Lawrence Brown",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'Amad'."
+      },
+      {
+        "name": "Buster Cooper",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Chuck Connors",
+        "instrument": "bass trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Johnny Hodges",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'Isfahan' and 'Blue Pepper (Far East of the Blues)'."
+      },
+      {
+        "name": "Russell Procope",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also plays clarinet (doubling)."
+      },
+      {
+        "name": "Jimmy Hamilton",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also plays clarinet (doubling); featured on clarinet for 'Bluebird of Delhi (Mynah)' and 'Ad Lib on Nippon'."
+      },
+      {
+        "name": "Paul Gonsalves",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'Tourist Point of View' and 'Mount Harissa'."
+      },
+      {
+        "name": "Harry Carney",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'Agra'."
+      },
+      {
+        "name": "John Lamb",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Rufus Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Rufus \"Speedy\" Jones"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Tourist Point of View",
+        "track_number": 1,
+        "side": null,
+        "duration": "5:09",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Bluebird of Delhi (Mynah)",
+        "track_number": 2,
+        "side": null,
+        "duration": "3:18",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Isfahan",
+        "track_number": 3,
+        "side": null,
+        "duration": "4:02",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Depk",
+        "track_number": 4,
+        "side": null,
+        "duration": "2:38",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Mount Harissa",
+        "track_number": 5,
+        "side": null,
+        "duration": "7:40",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Blue Pepper (Far East of the Blues)",
+        "track_number": 6,
+        "side": null,
+        "duration": "3:00",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Agra",
+        "track_number": 7,
+        "side": null,
+        "duration": "2:35",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Amad",
+        "track_number": 8,
+        "side": null,
+        "duration": "4:26",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ad Lib on Nippon",
+        "track_number": 9,
+        "side": null,
+        "duration": "11:34",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Herbie Jones",
+          "Cootie Williams",
+          "Lawrence Brown",
+          "Buster Cooper",
+          "Chuck Connors",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Jimmy Hamilton",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "John Lamb",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Duke Ellington \u2014 The Far East Suite (1967)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Style-lineage boundary in play per one reference: late-period orchestral Ellingtonia versus the canon's post-bebop/hard-bop center; not a hard window or excluded-style gate."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "The consensus case is overwhelming and independent: Penguin Guide 4/4 as a 'postwar peak,' DownBeat five stars, the 1968 Grammy for large-group jazz, and AllMusic 'quite essential' (S1). It is the defining late Ellington\u2013Strayhorn suite, recorded December 1966 months before Strayhorn's death, with 'Isfahan' entering the standard repertoire and Anthony Brown's 1999 Asian-American Orchestra re-recording as lineage evidence (S1). Session gravity is absolute\u2014Hodges, Gonsalves, Carney, Hamilton, Cootie Williams, Cat Anderson, Lawrence Brown\u2014and the canon's only current Ellington holding is the small-group Money Jungle, leaving his actual orchestra without a defining suite.",
+    "case_against": "The strongest against-case is a scope objection, not quality: this is Ellington's swing-era-derived orchestral idiom extended into 1967, not the small-group post-bebop language at the canon's center, so it needs John's boundary ruling rather than automatic inclusion. Sourcing depth also thins the otherwise strong consensus: the Penguin/DownBeat/Grammy claims rest largely on the Wikipedia relay in S1 rather than separate critical or sessionographic sources, and the engineer is unk. A lesser argument is that other late suites like ...And His Mother Called Him Bill could compete for the definitive late-orchestral slot, though consensus generally favors Far East Suite.",
+    "disagreement": "Reference 1 tiered this scope_call, arguing a real style-lineage boundary is in play; Reference 2 tiered consensus_core and saw no style boundary, treating it as firmly within the post-bebop timeline. The split is over whether late orchestral Ellington is continuous with the canon's post-bebop center or a separate carryover, not over quality or priority.",
+    "recommendation": "John should rule explicitly on the late-orchestral Ellington scope boundary; if ruled in scope, this is a must-have defining statement.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:deepseek/deepseek-v4-pro",
+      "preset": "canon-council"
+    }
+  }
+}

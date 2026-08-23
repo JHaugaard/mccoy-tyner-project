@@ -1,0 +1,428 @@
+{
+  "id": "bud-powell-the-amazing-bud-powell-vol-1-1952",
+  "artist": "Bud Powell",
+  "album": "The Amazing Bud Powell, Vol. 1",
+  "year": 1952,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "The foundational statement of the pianist who translated bebop to the piano and fixed the language every post-bebop pianist speaks. Consensus across independent traditions (obs, S1): Penguin Guide core collection (4 stars), AllMusic 5 stars, Rolling Stone Jazz Record Guide 5 stars; All About Jazz calls it 'among the pianist's most important recordings'. Lineage: the 1949 quintet session pairs Powell with Fats Navarro and the 19-year-old Sonny Rollins (his recording debut era) — the bebop-to-hard-bop transition caught on tape; the 1951 trio session produced 'Un Poco Loco', whose three takes Barry Kernfeld cites as letting us 'hear the evolution of a masterpiece'. Session gravity: Navarro, Rollins, Max Roach, Roy Haynes, Curley Russell, Tommy Potter. Recorded at WOR Studios, already a canonical place in the canon. The rubric's 1940s band exists precisely for records where the post-bebop language is audible forming; Powell is the named bridge case.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "The Amazing Bud Powell — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Amazing_Bud_Powell"
+    },
+    "S2": {
+      "title": "Bud Powell Discography — jazzdisco.org",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/bud-powell/discography/"
+    },
+    "S3": {
+      "title": "iTunes Search API — Bud Powell 'The Amazing Bud Powell, Vol. 1 (The Rudy Van Gelder Edition)'",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Bud+Powell+Amazing+Bud+Powell+Vol+1&entity=album"
+    },
+    "S4": {
+      "title": "The Amazing Bud Powell Volume 1 — Seacoast Jazz appreciation",
+      "type": "cross-check",
+      "url": "https://www.seacoastjazz.org/the-amazing-bud-powell-volume-1.html"
+    },
+    "S5": {
+      "title": "Cover Art Archive — MusicBrainz release group 8a1e66b2",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/8a1e66b2-8633-48d0-8f08-58fea1bf87f0"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1949-08-09",
+      "1951-05-01"
+    ],
+    "multi_session": true,
+    "studio": "WOR Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1949-08-09",
+        "site_raw": "WOR Studios, NYC",
+        "site_slug": "wor-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1951-05-01",
+        "site_raw": "WOR Studios, NYC",
+        "site_slug": "wor-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": null,
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Bud Powell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1949-08-09",
+          "1951-05-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Fats Navarro",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bouncing with Bud",
+          "Wail"
+        ],
+        "session_dates": [
+          "1949-08-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Quintet tracks only (jazzdisco session listing, horns on tracks 1-8 of the session; on the original LP that is 'Bouncing with Bud' and 'Wail')"
+      },
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bouncing with Bud",
+          "Wail"
+        ],
+        "session_dates": [
+          "1949-08-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Quintet tracks only, per jazzdisco"
+      },
+      {
+        "name": "Tommy Potter",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bouncing with Bud",
+          "Wail",
+          "Ornithology",
+          "You Go to My Head"
+        ],
+        "session_dates": [
+          "1949-08-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "1949 session only"
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bouncing with Bud",
+          "Wail",
+          "Ornithology",
+          "You Go to My Head"
+        ],
+        "session_dates": [
+          "1949-08-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "1949 session only"
+      },
+      {
+        "name": "Curley Russell",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Un Poco Loco",
+          "Over the Rainbow",
+          "A Night in Tunisia",
+          "It Could Happen to You"
+        ],
+        "session_dates": [
+          "1951-05-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Curly Russell"
+        ],
+        "notes": "1951 session only"
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Un Poco Loco",
+          "Over the Rainbow",
+          "A Night in Tunisia",
+          "It Could Happen to You"
+        ],
+        "session_dates": [
+          "1951-05-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "1951 session only"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Un Poco Loco",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:42",
+        "session_date": "1951-05-01",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Curley Russell",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Over the Rainbow",
+        "track_number": 2,
+        "side": "A",
+        "duration": "2:55",
+        "session_date": "1951-05-01",
+        "composers": [
+          "Harold Arlen",
+          "E.Y. Harburg"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Curley Russell",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ornithology",
+        "track_number": 3,
+        "side": "A",
+        "duration": null,
+        "session_date": "1949-08-09",
+        "composers": [
+          "Benny Harris",
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Tommy Potter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Wail",
+        "track_number": 4,
+        "side": "A",
+        "duration": null,
+        "session_date": "1949-08-09",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Fats Navarro",
+          "Sonny Rollins",
+          "Tommy Potter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "A Night in Tunisia",
+        "track_number": 5,
+        "side": "B",
+        "duration": null,
+        "session_date": "1951-05-01",
+        "composers": [
+          "Dizzy Gillespie",
+          "Frank Paparelli"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Curley Russell",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "It Could Happen to You",
+        "track_number": 6,
+        "side": "B",
+        "duration": null,
+        "session_date": "1951-05-01",
+        "composers": [
+          "Jimmy Van Heusen",
+          "Johnny Burke"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Curley Russell",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Bouncing with Bud",
+        "track_number": 7,
+        "side": "B",
+        "duration": null,
+        "session_date": "1949-08-09",
+        "composers": [
+          "Bud Powell",
+          "Gil Fuller"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Fats Navarro",
+          "Sonny Rollins",
+          "Tommy Potter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "You Go to My Head",
+        "track_number": 8,
+        "side": "B",
+        "duration": null,
+        "session_date": "1949-08-09",
+        "composers": [
+          "J. Fred Coots",
+          "Haven Gillespie"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Tommy Potter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "8a1e66b2-8633-48d0-8f08-58fea1bf87f0",
+    "apple_album_id": "738341407",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/bfe29cd3-2577-4237-9b34-fe166e04cb18/6437168880.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from a release within the release group; pressing unverified against the 1952 10-inch original"
+      }
+    ],
+    "notes": "Two sessions, both at WOR Studios, NYC. DATE CONFLICT PRESERVED: jazzdisco.org (session authority) gives August 9, 1949 for the quintet session; Wikipedia gives August 8, 1949 — jazzdisco value carried, conflict noted here. Wikipedia confirms the second session date (May 1, 1951). Session 1 (1949): quintet on 'Bouncing with Bud' and 'Wail' (jazzdisco lists Navarro and Rollins on session tracks 1-8 only); trio (Potter/Haynes) on 'Ornithology' and 'You Go to My Head'. Session 2 (1951): trio with Curley Russell and Max Roach throughout. Producer Alfred Lion per Wikipedia (S1). Engineer uncredited in all sources consulted — explicit null; the Van Gelder inference does not apply (pre-Van Gelder Blue Note era, WOR Studios). Track listing and durations: original 10-inch LP (BLP 5003) per Wikipedia; only two durations documented, rest null. Composer credits standard attributions carried from the session listings; 'Ornithology' credited to Benny Harris (Parker commonly co-credited). The apple_album_id points at the RVG Edition whose program mirrors the original 10-inch Vol. 1 (first two sessions)."
+  },
+  "ballot": {
+    "album": "Bud Powell — The Amazing Bud Powell, Vol. 1 (1952)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The pure-bebop vs. bebop-to-post-bebop transition line: recorded 1949–51, the music's organizing idiom is bebop ('Ornithology', 'A Night in Tunisia', Navarro/Rollins front line), but the rubric's 1940–1948 band explicitly names Powell as the bridge case and the 1951 session ('Un Poco Loco') shows the post-bebop language forming."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "This is the foundational text of post-bebop piano: Powell translated Parker's linear/harmonic language to the keyboard and fixed the right-hand horn-line / left-hand comping paradigm that Silver, Evans, Kelly, and Hancock all built on. Consensus is unassailable across independent traditions — Penguin Guide core collection, AllMusic 5 stars, Rolling Stone Jazz Record Guide 5 stars, All About Jazz 'among the pianist's most important recordings' (carried via S1). Session gravity is exceptional: the 1949 quintet catches Fats Navarro and the 19-year-old Sonny Rollins at the dawn of his recording career with Roy Haynes; the 1951 trio has Max Roach, whose interplay on 'Un Poco Loco' (three takes extant, per Kernfeld, letting us 'hear the evolution of a masterpiece') is both a lineage artifact and a record that still plays vividly cold.",
+    "case_against": "The organizing idiom of these sides is bebop, full stop: the repertoire is 'Ornithology' and 'A Night in Tunisia', the horn line is Navarro/Rollins, and the dossier's 'hard-bop' style tag is anachronistic for 1949–51. A strict reading of 'pure bebop is not yet in scope' could make this the very record the rubric has not yet admitted, hiding early bebop under a hard-bop label. Secondarily, it is a 10-inch 'Vol. 1' anthology assembled from two sessions two years apart, lacking the unified album-statement quality of later canonical LPs, and the critical-consensus claims ride on Wikipedia (S1) with only one cross-check (S4) — the Penguin/AllMusic/RSJRG ratings are not individually sourced.",
+    "disagreement": "The references agree on must_have priority and on every material fact, but split on tier. Gemini reads the rubric's explicit naming of 'the pianists bridging Powell to the 1950s' as settling the scope question and tiers it consensus_core; DeepSeek argues the 1949 session is entrenched in pure bebop, that the hard-bop label papers over the boundary, and that the transition-vs-pure-bebop call belongs to John — scope_call. The disagreement is about the boundary, not the quality.",
+    "recommendation": "The council proposes John rule on the bebop-transition boundary: if Powell is the bridge the rubric's early band exists to catch, this is a must_have cornerstone; the council leans strongly toward yes but records the scope question as John's to settle.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:deepseek/deepseek-v4-pro",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "kimi-coding:kimi-k3",
+      "preset": "canon-council"
+    }
+  }
+}
