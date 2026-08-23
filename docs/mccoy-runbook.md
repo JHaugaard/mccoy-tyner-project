@@ -11,8 +11,8 @@ mccoy -z "prompt"    # one-shot: single answer, then exit
                      #  anything that dispatches children needs interactive chat)
 ```
 
-McCoy runs on Kimi K2.7-Code (coding plan, zero marginal cost). Its
-constitution: `~/.hermes/profiles/mccoy/SOUL.md`.
+McCoy's main model is DeepSeek V4-Pro via Nous; gather children run on
+GLM 5.3 via Nous. Its constitution: `~/.hermes/profiles/mccoy/SOUL.md`.
 
 ## Explorer mode — just ask
 
@@ -76,8 +76,8 @@ After including an album: run `sudo -u postgres /tmp/pg-venv/bin/python3
   (add `--raw` to see the full reference arguments on stderr).
 - Stage manually: `python3 scripts/stage-candidate.py --dry-run <file>`.
 - Council preset: `moa.presets.canon-council` in
-  `~/.hermes/profiles/mccoy/config.yaml` (refs DeepSeek V4-Pro +
-  Gemini 3.1 Pro via Nous; aggregator GPT-5.6 Terra via Codex OAuth).
+  `~/.hermes/profiles/mccoy/config.yaml` (refs MiniMax M3 +
+  Gemini 3.1 Pro Preview via Nous; aggregator GLM 5.2 via Nous).
 - Rotate the app-role password: `bash scripts/run-migrate-3b.sh`
   (idempotent; updates `.env.local` — then copy the new URL into
   `~/.hermes/profiles/mccoy/.env`).

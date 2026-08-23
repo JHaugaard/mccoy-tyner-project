@@ -251,23 +251,26 @@ This **collapses the five genre-specific researchers into one lead + a rubric**:
 genre becomes a *dispatch parameter* (and a scope field in the movable rubric,
 §4), not five agent files.
 
-### Runtime model layer (decided 2026-07-15)
+### Runtime model layer (decided 2026-07-15; **UPDATED 2026-08-23** — see Round 5)
 
-Assigned by **cost-shape**: high-volume tool roles → the zero-marginal Kimi plan;
-low-volume no-tool roles → pay-per-use frontier. No Claude models in Hermes (cost).
+Assigned by **cost-shape**: high-volume tool roles → the zero-marginal Nous lane;
+low-volume no-tool roles → pay-per-use. **All provider Nous, no GPT/Codex** (John's
+house-model ruling) and no Claude in Hermes. Bindings current as of 2026-08-23:
 
 | Role | Fires | Needs | **Model** | Provider | Rationale |
 |---|---|---|---|---|---|
-| **Gatherer** (delegate children) | High (parallel) | tool-calling, web | **Kimi K2.7-Code** | Kimi plan | The volume slot — zero marginal cost; proven tool-caller. What the annual plan is *for*. |
-| **Lead/Actor** (McCoy builder) | Med | agentic, tools | **Kimi K2.7-Code** | Kimi plan | One consistent, free, tool-reliable backbone. Optional GPT override for heavy missions. |
-| **Judge ref #1** (skeptic) | Low (per-cand.) | critical reasoning | **DeepSeek V4-Pro** | Nous | Argues *against*. Low volume fits $20/mo credits. |
-| **Judge ref #2** (generalist) | Low (per-cand.) | broad knowledge | **Gemini 3.1 Pro** | Nous | Argues *for*; different family — diversity is the value. |
-| **Aggregator** (ballot) | Low (per-cand.) | fair synthesis | **GPT-5.6 Terra** | OpenAI OAuth | Single-shot text synthesis = Terra's "scoped review" sweet spot; Sol's long-horizon edge is unused here, so half-price Terra is the disciplined pick. **Kimi = declared fallback** if OpenAI access lapses. |
+| **Gatherer** (delegate children) | High (parallel) | tool-calling, web | **GLM 5.3** | Nous | The volume slot — `delegation.model`; tool-calling with web+file. |
+| **Lead/Actor** (McCoy builder) | Med | agentic, tools | **DeepSeek V4-Pro** | Nous | Profile default; heaviest orchestration. |
+| **Judge ref #1** (skeptic) | Low (per-cand.) | critical reasoning | **MiniMax M3** | Nous | Argues *against*; distinct family from ref #2. |
+| **Judge ref #2** (generalist) | Low (per-cand.) | broad knowledge | **Gemini 3.1 Pro Preview** | Nous | Argues *for*; different family — diversity is the value. |
+| **Aggregator** (ballot) | Low (per-cand.) | fair synthesis | **GLM 5.2** | Nous | Single-shot strict-JSON synthesis; distinct from both refs. |
+| **Compression** (context) | As needed | summarization | **DeepSeek V4 Flash** | Nous | Cheap fast lane; `auxiliary.compression.model`. |
 
-Notes: **Tool-calling reliability concentrates entirely on Kimi** (gather+lead);
-references + aggregator are text-only in advisory mode, so their tool ability is
-irrelevant — which is why fluid-availability GPT and rare-credit Nous are safe
-there. **OpenRouter** = pure overflow (e.g. mission fan-out past Kimi rate limits).
+Notes: gather runs on `delegation.model`; council on the `canon-council` MoA preset
+— two different invocation paths, kept separate (gather via `delegate_task`, judge
+via `canon-council.py`). References + aggregator are text-only in advisory mode, so
+tool ability is irrelevant there. All six roles run on distinct model IDs; the only
+family overlap is DeepSeek Pro (lead) vs DeepSeek Flash (compression), by design.
 
 ### Why 2 references, not 3 (decided 2026-07-15)
 The canon call is a *bounded* judgment (in-scope? canon-worthy?), not open-ended
@@ -390,6 +393,16 @@ Fable at all.
 23. ✅ Dedup is now **mechanical, not prompt-trust**: the precheck sweeps already-in-DB inbox files to `research/candidates-archive/` before the agent reasons (inbox = in-flight work only), and new `scripts/check-candidate.py` (exit 0/1: DB + next-batch + artifacts + year window) is a mandatory gate before any research. Same principle as #14/#18 — guardrails as code.
 24. ✅ Success condition inverted: a drip card exists **only** for a newly inserted candidate/found row; a staging refusal is a `DRIP FAILED:` report, never a refreshed card. Cron prompt and runbook rewritten; council fallback to another preset is a hard failure (script exits 4 with instructions).
 25. ✅ `canon-council.py` pins `HERMES_HOME` by **explicit assignment** (setdefault was the bug). Both queued candidates re-judged by the real council 2026-07-17 (ballots + DB updated via edit_log): Art Blakey *Free for All* contested/strong → **consensus_core/strong (high)**; Horace Silver *Serenade to a Soul Sister* held at contested/consider. The `mccoy-tyner` skill is now attached to the cron job.
+
+**Round 5 — model split (2026-08-23, the-super, John-authorized)**
+26. ✅ Distinct model per drip role, all provider Nous, no GPT. Applied to the
+    mccoy profile config + canon-drip job: main/lead = **DeepSeek V4-Pro**;
+    gather (`delegation.model`) = **GLM 5.3**; council ref #1 = **MiniMax M3**;
+    ref #2 = **Gemini 3.1 Pro Preview** (unchanged); aggregator = **GLM 5.2**;
+    compression (`auxiliary.compression.model`) = **DeepSeek V4 Flash**.
+    Supersedes #12 (the 2026-07-15 panel: Kimi gather+lead, DeepSeek/Gemini
+    refs, Terra aggregator). Every selected model live-probed through Nous
+    before edit; drip not run.
 
 **Still open (own loops, deferred by John)**
 - ✅ Hermes scheduler persistence — **confirmed always-on** (2026-07-15); drip rides existing infra, zero new footprint.

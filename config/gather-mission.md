@@ -12,7 +12,7 @@ this file to change how missions behave.
    status). A mission candidate matching any row is dead on arrival.
    The nightly drip gets this list precomputed by its precheck script.
 3. **Dispatch** — one `delegate_task` child per batch of 1–3 candidate
-   albums (toolsets web+file, Kimi). The child prompt MUST include:
+   albums (toolsets web+file, Nous GLM 5.3). The child prompt MUST include:
    - the candidate-selection brief (genre, era, what gap this mission fills)
    - the full text of `docs/personnel-contract.md` (the record shape,
      sources priority, epistemic rules, instrument taxonomy)
@@ -70,6 +70,7 @@ this file to change how missions behave.
   John's dispatch says otherwise; the drip is bounded by the rubric's
   `drip_size` and `backlog_cap`.
 - Parallelism: at most 3 concurrent children (delegation config).
-- Cost: children run on the Kimi coding plan (zero marginal); the council
-  runs per candidate (2 Nous refs + 1 Codex aggregator) — pennies, but
-  per-candidate, so don't judge what validation already discarded.
+- Cost: children run on Nous GLM 5.3 (delegation model); the council runs
+  per candidate (MiniMax M3 + Gemini 3.1 Pro Preview refs, GLM 5.2
+  aggregator — all via Nous) — pennies, but per-candidate, so don't judge
+  what validation already discarded.
