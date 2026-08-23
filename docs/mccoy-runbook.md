@@ -33,7 +33,8 @@ chat open (delegation results re-enter the conversation when done).
 
 ## The nightly drip
 
-- Job `canon-drip`, default profile scheduler, 06:00 daily, delivers to
+- Job `canon-drip` (scheduled in the mccoy profile's own cron store,
+  `~/.hermes/profiles/mccoy/cron/jobs.json`), 06:00 daily, delivers to
   Telegram. Up to 2 candidates/night; silent when your review backlog
   hits the cap or there's nothing worth proposing.
 - **Review**: reply in Telegram (or tell McCoy in chat): *include /
