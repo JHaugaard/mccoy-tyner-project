@@ -1,0 +1,335 @@
+{
+  "id": "art-blakey-the-jazz-messengers-mosaic-1961",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "Mosaic",
+  "year": 1961,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Mosaic (1961) is one of the defining hard-bop records of the Blue Note catalogue: the first studio date by the celebrated Shorter-Hubbard-Fuller front line with the Cedar Walton-Jymie Merritt-Art Blakey rhythm section. Recorded in a single October 2, 1961 session at Van Gelder Studio, it pairs five original compositions (by Walton, Hubbard, Shorter and Fuller) with a sextet whose personnel network sits at the center of the 1960s hard-bop tradition. Consensus is strong and independent: AllMusic rates it four-and-a-half stars (review by Thom Jurek), the Penguin Guide to Jazz Recordings four stars, and the Rolling Stone Jazz Record Guide four stars (ratings as transcribed in Wikipedia's review-score table, S2). It is one of the most frequently cited Jazz Messengers albums and a standard-bearer of the hard-bop sextet sound. style_primary 'hard-bop' per AllMusic's sole style tag (S1) and Wikipedia's genre (S2).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Mosaic - Art Blakey & the Jazz Messengers - AllMusic album page (styles, recording date, credits)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/mosaic-mw0000649410"
+    },
+    "S2": {
+      "title": "Mosaic (Art Blakey album) - Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Mosaic_(Art_Blakey_album)"
+    },
+    "S3": {
+      "title": "Art Blakey Catalog - jazzdisco.org sessionography (Blue Note BLP 4090)",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/art-blakey/catalog/"
+    },
+    "S4": {
+      "title": "Mosaic - MusicBrainz release group aac05e6c-4c7e-31da-ba7e-e5b70d288ef3",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/aac05e6c-4c7e-31da-ba7e-e5b70d288ef3"
+    },
+    "S5": {
+      "title": "Cover Art Archive - MusicBrainz release group aac05e6c-4c7e-31da-ba7e-e5b70d288ef3",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/aac05e6c-4c7e-31da-ba7e-e5b70d288ef3"
+    },
+    "S6": {
+      "title": "iTunes Search API - Art Blakey Mosaic album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+Mosaic&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-10-02"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1961-10-02",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Down Under' and 'Crisis' (S2)."
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Arabia' (S2)."
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Children of the Night' (S2)."
+      },
+      {
+        "name": "Cedar Walton",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed the title track 'Mosaic' (S2)."
+      },
+      {
+        "name": "Jymie Merritt",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Sources list 'bass'; mapped to double bass."
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Mosaic",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:13",
+        "session_date": "1961-10-02",
+        "composers": [
+          "Cedar Walton"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Jymie Merritt",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Down Under",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:29",
+        "session_date": "1961-10-02",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Jymie Merritt",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Children of the Night",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:51",
+        "session_date": "1961-10-02",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Jymie Merritt",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Arabia",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:10",
+        "session_date": "1961-10-02",
+        "composers": [
+          "Curtis Fuller"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Jymie Merritt",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Crisis",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:33",
+        "session_date": "1961-10-02",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Jymie Merritt",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "aac05e6c-4c7e-31da-ba7e-e5b70d288ef3",
+    "apple_album_id": "1443824649",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/aac05e6c-4c7e-31da-ba7e-e5b70d288ef3/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S5"
+        ],
+        "notes": "Front cover (Reid Miles design) approved in Cover Art Archive (S5)."
+      }
+    ],
+    "notes": "Single session, October 2, 1961, Van Gelder Studio, Englewood Cliffs, NJ (S1, S2, S3). Blue Note BLP 4090 (mono) / BST 84090 (stereo) (S3). Wikipedia infobox dates the release January 1962 while AllMusic lists release year 1961 (S1, S2); the 1961 session/catalog year is used. Producer Alfred Lion and engineer Rudy Van Gelder (recording and mastering) per Wikipedia technical personnel (S2), corroborated by AllMusic credits (S1). AllMusic recording location shows a 'New York, NY' city line alongside 'The Van Gelder Studio, Englewood Cliffs, NJ' (S1) - the studio is in Englewood Cliffs, NJ, not New York City (a known AllMusic city-label quirk); site resolved to van-gelder-studio-englewood-cliffs on the post-July-1959 session date. No alternate takes; the session yielded exactly the five issued tracks (S2). Durations per Wikipedia (S2); AllMusic lists total 39:39 (S1) vs Wikipedia 40:16 (S2) - minor transfer/timing variance."
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers — Mosaic (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Mosaic is the studio debut of the Shorter–Hubbard–Fuller–Walton–Merritt–Blakey sextet — the most-cited Jazz Messengers configuration and the moment the band expanded from quintet to a thicker, more orchestral three-horn front line. Three independent rating traditions converge at the top tier (AllMusic 4.5 stars, Penguin Guide 4 stars, Rolling Stone Jazz Record Guide 4 stars). Every track is a band-member original, making the album a composer's workshop for the emerging post-bop generation: Walton's title track, Shorter's 'Children of the Night,' Hubbard's 'Down Under' and 'Crisis,' Fuller's 'Arabia.' The session gravity is immense — Hubbard, Shorter, and Fuller each went on to define the 1960s Blue Note catalogue.",
+    "case_against": "Mosaic is a peak-quality session but not the band's most iconic record: Moanin' (1958) and Free for All (1964) both make stronger claims as the Messengers' defining statement. The album perfects an established hard-bop formula rather than pushing the lineage forward — its organizing principle is squarely within the lane Blakey had already paved. The dossier's sourcing is also partly mediated: the Penguin Guide and Rolling Stone ratings reach the dossier through Wikipedia's review-score table rather than primary sources, and the claim of being 'one of the most frequently cited Jazz Messengers albums' is asserted without a single NPR/JazzTimes/DownBeat canon list or musician-citation trail.",
+    "disagreement": null,
+    "recommendation": "The council proposes consensus_core at strong priority — the Shorter–Hubbard–Fuller front line's studio debut carries overwhelming session gravity and three-source consensus, but the dossier's 'defining record of the Blue Note catalogue' rhetoric should be tempered to 'defining lineup debut' before John records this.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "id": "horace-silver-six-pieces-of-silver-1956",
+  "artist": "Horace Silver",
+  "album": "6 Pieces of Silver",
+  "year": 1956,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Silver's first classic quintet album and, in Scott Yanow's words, the record that 'officially put Horace Silver on the map' (S2). It is the defining early statement of the hard-bop/soul-jazz sound Silver forged — blues- and gospel-inflected, song-form, funky — and it fixed the template his quintets (and the Jazz Messengers lineage they seeded) would carry forward. Session gravity is high: Donald Byrd, Hank Mobley, Doug Watkins and Louis Hayes — the previous year's Jazz Messengers rhythm core, now under Silver's own leadership (S1, S2). 'Señor Blues' became a standard, among the most-recorded hard-bop compositions of the era. Consensus: AllMusic 4.5★ (S2, Yanow 'a hard bop and gospel-tinged jazz gem'); Penguin Guide to Jazz 3.5★ (S1, Cook & Morton 2008). Blue Note BLP 1539, recorded at Van Gelder's Hackensack studio — the room hard bop was built in. Lineage is audible in Silver's own later canon entries already included here (Blowin' the Blues Away, Song for My Father) and in the hard-bop blues vocabulary the album helped define.",
+  "consensus": "AllMusic 4.5★ (Yanow, 'the first classic album by the Horace Silver Quintet'); Penguin Guide to Jazz 3.5★ (Cook & Morton 2008); 'Señor Blues' became a jazz standard.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "6 Pieces of Silver — Wikipedia album article (personnel per session, track list, dates, producer, engineer, reception ratings)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/6_Pieces_of_Silver"
+    },
+    "S2": {
+      "title": "6 Pieces of Silver — AllMusic album page (recording location Van Gelder Studios Hackensack NJ, styles Hard Bop/Soul Jazz, 4.5-star Yanow review)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/6-pieces-of-silver-mw0000099574"
+    },
+    "S3": {
+      "title": "Horace Silver Catalog — jazzdisco.org sessionography (session personnel, take numbers, Van Gelder Studio Hackensack Nov 10 1956 and Jun 15 1958)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/horace-silver/catalog/"
+    },
+    "S4": {
+      "title": "iTunes Search API — 'Horace Silver Six Pieces of Silver' (collectionId 724834271, Rudy Van Gelder Edition remaster)",
+      "type": "other",
+      "url": "https://itunes.apple.com/search?term=Horace+Silver+Six+Pieces+of+Silver&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group + Cover Art Archive (MBID a261c9bb-0f67-45ff-bcee-5bde714a6d41)",
+      "type": "other",
+      "url": "https://musicbrainz.org/release-group/a261c9bb-0f67-45ff-bcee-5bde714a6d41"
+    },
+    "S6": {
+      "title": "Horace Silver — 6 Pieces of Silver LP (Blue Note Classic Vinyl Series) — official label listing confirming personnel",
+      "type": "web",
+      "url": "https://store.bluenote.com/products/horace-silver-6-pieces-of-silver-lp-blue-note-classic-vinyl-series"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-11-10",
+      "1958-06-15"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1956-11-10",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1958-06-15",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "a261c9bb-0f67-45ff-bcee-5bde714a6d41",
+    "apple_album_id": "724834271",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/a261c9bb-0f67-45ff-bcee-5bde714a6d41/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "URL constructed from the MusicBrainz release-group MBID (S5); not fetched this run, so pressing/original-cover status is unverified."
+      }
+    ],
+    "notes": "Two sessions. November 10, 1956 (tracks 1–8, the original Blue Note BLP 1539 release) and June 15, 1958 (tracks 9–10, CD reissue bonus tracks) — both at Van Gelder Studio, Hackensack, NJ (S3; S2 confirms Van Gelder Studios, Hackensack). Van Gelder did not move to Englewood Cliffs until July 1959, so both dates fall in the Hackensack period. Producer Alfred Lion (S1, S3), engineer Rudy Van Gelder (S1). All compositions by Horace Silver except 'For Heaven's Sake' by Elise Bretton, Sherman Edwards and Donald Meyer (S1). 'Shirl' (track 2) and 'For Heaven's Sake' (track 7) are piano-trio features — Donald Byrd and Hank Mobley are absent on both (S1 'except Shirl, For Heaven's Sake'; S3 lists trumpet/tenor on the remaining tracks only). The 1958 session replaces Mobley with Junior Cook on tenor and Doug Watkins with Eugene 'Gene' Taylor on bass; Bill Henderson sings the vocal version of 'Señor Blues' (S1, S3). Track 8 is the alternate take of 'Señor Blues'; tracks 9–10 are reissue bonus tracks, flagged as such. Wikipedia's infobox spells the 1958 bassist 'Gene Taylor'; jazzdisco prints 'Eugene Taylor' — recorded here as a name variant.",
+    "personnel": [
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-11-10",
+          "1958-06-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader and composer on all titles except 'For Heaven's Sake'."
+      },
+      {
+        "name": "Donald Byrd",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Cool Eyes",
+          "Camouflage",
+          "Enchantment",
+          "Señor Blues",
+          "Virgo",
+          "Señor Blues (alternate take)",
+          "Tippin'",
+          "Señor Blues (vocal version)"
+        ],
+        "session_dates": [
+          "1956-11-10",
+          "1958-06-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent on 'Shirl' and 'For Heaven's Sake' (trio features)."
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Cool Eyes",
+          "Camouflage",
+          "Enchantment",
+          "Señor Blues",
+          "Virgo",
+          "Señor Blues (alternate take)"
+        ],
+        "session_dates": [
+          "1956-11-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent on 'Shirl' and 'For Heaven's Sake' (trio features); did not play the 1958 session."
+      },
+      {
+        "name": "Doug Watkins",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Cool Eyes",
+          "Shirl",
+          "Camouflage",
+          "Enchantment",
+          "Señor Blues",
+          "Virgo",
+          "For Heaven's Sake",
+          "Señor Blues (alternate take)"
+        ],
+        "session_dates": [
+          "1956-11-10"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "1956 session only; replaced by Gene Taylor in 1958."
+      },
+      {
+        "name": "Louis Hayes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-11-10",
+          "1958-06-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Junior Cook",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tippin'",
+          "Señor Blues (vocal version)"
+        ],
+        "session_dates": [
+          "1958-06-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "1958 session only."
+      },
+      {
+        "name": "Gene Taylor",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tippin'",
+          "Señor Blues (vocal version)"
+        ],
+        "session_dates": [
+          "1958-06-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Eugene Taylor"
+        ],
+        "notes": "1958 session only. Wikipedia prints 'Gene Taylor'; jazzdisco prints 'Eugene Taylor'."
+      },
+      {
+        "name": "Bill Henderson",
+        "instrument": "voice",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Señor Blues (vocal version)"
+        ],
+        "session_dates": [
+          "1958-06-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Vocals on the 1958 vocal version of 'Señor Blues' only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Cool Eyes",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:55",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Shirl",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:16",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Camouflage",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:25",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Enchantment",
+        "track_number": 4,
+        "side": "A",
+        "duration": "6:22",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Señor Blues",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:01",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Virgo",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:49",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "For Heaven's Sake",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:09",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Elise Bretton",
+          "Sherman Edwards",
+          "Donald Meyer"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Señor Blues (alternate take)",
+        "track_number": 8,
+        "side": "B",
+        "duration": "6:38",
+        "session_date": "1956-11-10",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Doug Watkins",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Tippin'",
+        "track_number": 9,
+        "side": null,
+        "duration": "6:12",
+        "session_date": "1958-06-15",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Junior Cook",
+          "Gene Taylor",
+          "Louis Hayes"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Señor Blues (vocal version)",
+        "track_number": 10,
+        "side": null,
+        "duration": "6:14",
+        "session_date": "1958-06-15",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Donald Byrd",
+          "Junior Cook",
+          "Gene Taylor",
+          "Louis Hayes",
+          "Bill Henderson"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Horace Silver — 6 Pieces of Silver (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The first classic Horace Silver Quintet album — Yanow's words, 'officially put Horace Silver on the map' (S2) — and the seed record for the blues- and gospel-inflected hard-bop template that his later groups and the Jazz Messengers lineage carried forward. Session gravity is exceptional: Donald Byrd, Hank Mobley, Doug Watkins, and Louis Hayes are the previous year's Jazz Messengers rhythm core reassembled under Silver's own leadership, recorded by Van Gelder in the Hackensack room where hard bop was built (S1, S2, S3). 'Señor Blues' became among the most-recorded hard-bop compositions of the era, and the lineage runs directly to the Silver albums already in the canon.",
+    "case_against": "The consensus signal is genuinely narrow: the dossier names only two independent listing traditions — AllMusic 4.5★ (Yanow) and Penguin Guide 3.5★ (Cook & Morton) — with no NPR, DownBeat, JazzTimes, label-anthology, or musician-citation evidence to triangulate further, and the Penguin 3.5★ itself suggests a respected stepping-stone rather than an unambiguous zenith. The 1958 bonus tracks (Junior Cook, Gene Taylor, Bill Henderson vocal) are a CD-era editorial addition that dilutes the original BLP 1539 quintet statement; the cohesive 1956 album is eight tracks, not ten. The rubric's artist-concentration rule removes the redundancy argument, but the thin consensus triangulation remains a real weight on whether this is overwhelming or merely strong.",
+    "disagreement": "One reference reads the for-case (defining statement, standard, session gravity, lineage) as overwhelming and the against-case as exceptionally thin, tiering consensus_core; the other reads the two-tradition consensus ceiling and the 1958-session dilution as keeping it genuinely contested, with the against-case non-trivial even after the artist-concentration penalty is properly removed.",
+    "recommendation": "John should rule on whether two strong independent listings plus an unimpeachable defining-statement and session-gravity case suffice for consensus_core, or whether the absence of a third consensus tradition holds this to contested.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

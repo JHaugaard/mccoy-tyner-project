@@ -1,0 +1,733 @@
+{
+  "id": "duke-ellington-such-sweet-thunder-1957",
+  "artist": "Duke Ellington",
+  "album": "Such Sweet Thunder",
+  "year": 1957,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "rationale": "Ellington's twelve-part Shakespeare suite is a defining statement of the Ellington–Strayhorn partnership and the load-bearing link between the band's swing-era past and its late-career extended works — the suite form that reaches directly forward to The Far East Suite (1966), already staged in this canon. Consensus is strong across independent listing traditions: NPR named it to the Basic Jazz Record Library (S6); the Penguin Guide to Jazz Recordings rates it four stars out of four (S1, Cook & Morton 2010); the Rolling Stone Jazz Record Guide gives it five stars (S1); AllMusic 4.5 stars (S2, Yanow). Session gravity is total — the full 1956–57 orchestra, a personnel network that is itself the big-band canon: Hodges, Gonsalves, Carney, Hamilton, Procope, Clark Terry, Ray Nance, Cat Anderson, Britt Woodman, Quentin Jackson, Jimmy Woode, Sam Woodyard. Lineage: 'The Star-Crossed Lovers' became a standard, and the suite is among the most studied and re-recorded Ellington works of the period. It still plays: witty, colorful, swinging writing with documented per-track solo features. The canon's Ellington holdings lean toward the trio (Money Jungle) and the 1960s orchestra (Far East Suite); this is the missing mid-1950s orchestral peak.",
+  "consensus": "NPR 'Basic Jazz Record Library' selection; Penguin Guide to Jazz 4★ (Cook & Morton 2010); Rolling Stone Jazz Record Guide 5★ (Swenson); AllMusic 4.5★ (Yanow).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Such Sweet Thunder — Wikipedia album article (personnel, track list, recording span Aug 7 1956–May 3 1957, producer, reception ratings)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Such_Sweet_Thunder"
+    },
+    "S2": {
+      "title": "Such Sweet Thunder — AllMusic album page (recording dates, styles, 4.5-star rating)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/such-sweet-thunder-mw0000237420"
+    },
+    "S3": {
+      "title": "Such Sweet Thunder — The Jazz Tome (reproduces Irving Townsend's liner notes: recording location Columbia's 30th Street Studio, catalog CL 1033, per-track soloist notes)",
+      "type": "liner-notes",
+      "url": "https://thejazztome.info/duke-ellington-and-his-orchestra-such-sweet-thunder/"
+    },
+    "S4": {
+      "title": "iTunes Search API — 'Duke Ellington Such Sweet Thunder' (collectionId 999653167, 22-track Columbia release)",
+      "type": "other",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+Such+Sweet+Thunder&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group + Cover Art Archive (MBID a4302a71-d3e0-36b8-b218-c632623f3000)",
+      "type": "other",
+      "url": "https://musicbrainz.org/release-group/a4302a71-d3e0-36b8-b218-c632623f3000"
+    },
+    "S6": {
+      "title": "Duke Ellington: 'Such Sweet Thunder' — NPR Basic Jazz Record Library (consensus listing)",
+      "type": "web",
+      "url": "https://www.npr.org/2011/06/17/4543727/duke-ellington-such-sweet-thunder"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-08-07/1957-05-03"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1956-08-07",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1957-05-03",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Irving Townsend",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "a4302a71-d3e0-36b8-b218-c632623f3000",
+    "apple_album_id": "999653167",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/a4302a71-d3e0-36b8-b218-c632623f3000/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "URL constructed from the MusicBrainz release-group MBID (S5); not fetched this run, so pressing/original-cover status is unverified."
+      }
+    ],
+    "notes": "A twelve-part suite recorded in multiple sessions spanning August 7, 1956 to May 3, 1957 (S1; S2 confirms the same span), all at Columbia's 30th Street Studio, New York City per Irving Townsend's own liner notes (S3). Original release Columbia CL 1033 (S3). Producer Irving Townsend (S1, S3). Engineer not named in any consulted source — recorded null, epistemic unk. All twelve titles composed by Duke Ellington and Billy Strayhorn; Strayhorn is orchestrator/co-composer, not an instrumentalist, so he is not listed as a performer. The full orchestra plays throughout; featured solos rotate per track (Townsend's liner notes, S3): the title track features the ensemble; 'Sonnet in Search of a Moor' features Jimmy Woode (bass); 'Up and Down' features Jimmy Hamilton (clarinet) and Ray Nance (violin) as the lovers, with Clark Terry (trumpet) as Puck; 'Sonnet for Sister Kate' features Quentin Jackson (trombone, plunger); 'The Star-Crossed Lovers' features Johnny Hodges (alto) and Paul Gonsalves (tenor); 'Madness in Great Ones' features Cat Anderson (trumpet); 'Half the Fun' features Johnny Hodges; 'Circle of Fourths' features Paul Gonsalves. Ray Nance's violin and John Sanders's valve trombone are noted as instrument doubles/variants. The 1999 Columbia/Legacy reissue added ten bonus tracks (stereo masters, alternate takes, and outtakes) — excluded from the track list here per the original-release convention (S1).",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader and co-composer with Billy Strayhorn on all twelve titles."
+      },
+      {
+        "name": "Cat Anderson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "William \"Cat\" Anderson"
+        ],
+        "notes": "Featured on 'Madness in Great Ones'."
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Featured (as Puck) on 'Up and Down, Up and Down'."
+      },
+      {
+        "name": "Ray Nance",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles violin; featured on violin on 'Up and Down, Up and Down'."
+      },
+      {
+        "name": "Willie Cook",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Quentin Jackson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Featured (with plunger) on 'Sonnet for Sister Kate'."
+      },
+      {
+        "name": "John Sanders",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Valve trombone (per liner notes, S3); featured on 'Up and Down, Up and Down'."
+      },
+      {
+        "name": "Britt Woodman",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Johnny Hodges",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'The Star-Crossed Lovers' and 'Half the Fun'."
+      },
+      {
+        "name": "Russell Procope",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles clarinet."
+      },
+      {
+        "name": "Paul Gonsalves",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'The Star-Crossed Lovers' and 'Circle of Fourths'."
+      },
+      {
+        "name": "Jimmy Hamilton",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles clarinet; featured on clarinet on 'Up and Down, Up and Down'."
+      },
+      {
+        "name": "Harry Carney",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles bass clarinet."
+      },
+      {
+        "name": "Jimmy Woode",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'Sonnet in Search of a Moor'."
+      },
+      {
+        "name": "Sam Woodyard",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Such Sweet Thunder",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:22",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sonnet for Caesar",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:00",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sonnet to Hank Cinq",
+        "track_number": 3,
+        "side": "A",
+        "duration": "1:24",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Lady Mac",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:41",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sonnet in Search of a Moor",
+        "track_number": 5,
+        "side": "A",
+        "duration": "2:22",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Telecasters",
+        "track_number": 6,
+        "side": "A",
+        "duration": "3:05",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Up and Down, Up and Down (I Will Lead Them Up and Down)",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:09",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sonnet for Sister Kate",
+        "track_number": 8,
+        "side": "B",
+        "duration": "2:24",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Star-Crossed Lovers",
+        "track_number": 9,
+        "side": "B",
+        "duration": "4:00",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Madness in Great Ones",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:26",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Half the Fun",
+        "track_number": 11,
+        "side": "B",
+        "duration": "4:19",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Circle of Fourths",
+        "track_number": 12,
+        "side": "B",
+        "duration": "1:45",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Clark Terry",
+          "Ray Nance",
+          "Willie Cook",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Jimmy Hamilton",
+          "Harry Carney",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Duke Ellington — Such Sweet Thunder (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Four independent listing traditions — NPR's Basic Jazz Record Library (S6), the Penguin Guide's 4/4 (Cook & Morton, via S1), the Rolling Stone Jazz Record Guide's 5★ (S1), and AllMusic's 4.5★ (S2) — converge at or near top tier, the strongest single signal the rubric names. It is the definitive mid-career Ellington–Strayhorn suite, the structural template that leads directly forward to the already-staged Far East Suite (1966), and 'The Star-Crossed Lovers' entered the standard repertoire. Session gravity is total: the full 1956–57 orchestra — Hodges, Gonsalves, Carney, Clark Terry, Nance, Hamilton, Procope — is itself the post-war big-band canon, and the Shakespeare conceit frames each soloist in witty, swinging, cold-listen-accessible writing.",
+    "case_against": "The honest against-case is that Ellington's 1950s suites run parallel to the post-bop tradition rather than inside its central small-group artery (Davis, Blakey, Silver, Monk); a strict purist could call this a masterpiece of American music that nonetheless doesn't teach the hard-bop/modal vocabulary the canon's center of gravity is built on. The sourcing is also listing-tradition-heavy — Penguin and Rolling Stone ratings are relayed through Wikipedia (S1) rather than cited directly, and no DownBeat, JazzTimes, or academic critical essay appears — so the consensus signal is real but qualitatively thinner than its quantity suggests.",
+    "disagreement": "Both references agree on consensus_core; they split on priority — Ref 1 argues must_have on the gap-filling logic (the canon holds Money Jungle 1962 and Far East Suite 1966 but no mid-1950s orchestral apex), while Ref 2 settles at strong, treating the parallel-to-post-bop concern as enough to keep it off the must_have tier.",
+    "recommendation": "The council proposes John include this as consensus_core at strong priority, weighing the overwhelming cross-tradition consensus and direct lineage to Far East Suite against the parallel-tradition concern that kept one voice off must_have.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

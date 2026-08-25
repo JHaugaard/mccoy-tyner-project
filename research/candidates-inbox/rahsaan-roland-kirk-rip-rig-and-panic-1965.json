@@ -1,0 +1,340 @@
+{
+  "id": "rahsaan-roland-kirk-rip-rig-and-panic-1965",
+  "artist": "Rahsaan Roland Kirk",
+  "album": "Rip, Rig and Panic",
+  "year": 1965,
+  "label": "Limelight",
+  "style_primary": "post-bop",
+  "rationale": "Rip, Rig and Panic (1965) is Rahsaan Roland Kirk's defining quartet statement and the record most often named as the entry point to his multi-instrumental world. Recorded January 13, 1965 at Van Gelder Studio, Englewood Cliffs, it places Kirk - simultaneously playing tenor saxophone, manzello and stritch - against a rhythm section of Jaki Byard (piano), Richard Davis (bass) and Elvin Jones (drums), which Kirk himself called 'the most awesome rhythm section he ever recorded with' (S2). AllMusic awards five stars; Cook & Morton's Penguin Guide named the Emarcy two-fer pairing it with Now Please Don't You Cry, Beautiful Edith to their suggested 'core collection' with their second-highest grade (S2); the Rolling Stone Jazz Record Guide gives three stars. Its session gravity - Byard, Davis and Elvin Jones in one room - and its distinctive, still-swinging post-bop vocabulary make it a load-bearing bridge between hard bop and the more open 1960s. style_primary 'post-bop' per Wikipedia (S2); AllMusic styles it Avant-Garde Jazz and Hard Bop (S1). Original Limelight issue credited 'Roland Kirk'; canonical name 'Rahsaan Roland Kirk' per AllMusic and Wikipedia.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Rip, Rig and Panic - Rahsaan Roland Kirk - AllMusic album page (styles, recording date, credits)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/rip-rig-and-panic-mw0000535134"
+    },
+    "S2": {
+      "title": "Rip, Rig and Panic (album) - Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Rip,_Rig_and_Panic_(album)"
+    },
+    "S3": {
+      "title": "Roland Kirk Catalog - jazzdisco.org sessionography (Limelight LM-82027)",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/roland-kirk/catalog/"
+    },
+    "S4": {
+      "title": "Rip, Rig and Panic - MusicBrainz release group 49f4c81f-761f-451b-979b-a6bd940d38e1",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/49f4c81f-761f-451b-979b-a6bd940d38e1"
+    },
+    "S5": {
+      "title": "Cover Art Archive - MusicBrainz release group 49f4c81f-761f-451b-979b-a6bd940d38e1",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/49f4c81f-761f-451b-979b-a6bd940d38e1"
+    },
+    "S6": {
+      "title": "iTunes Search API - Roland Kirk Rip Rig and Panic album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Roland+Kirk+Rip+Rig+Panic&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-01-13"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1965-01-13",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Jack Tracy",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Rahsaan Roland Kirk",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-01-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Roland Kirk"
+        ],
+        "notes": "Leader and multi-instrumentalist. Also plays manzello, stritch, castanets and siren (S3); Wikipedia additionally lists flute and oboe (S2). Primary instrument recorded as tenor saxophone per the taxonomy; the doublings fall outside it. Composed all tracks except 'Once in a While' and 'Black Diamond' (S2)."
+      },
+      {
+        "name": "Jaki Byard",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-01-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-01-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Sources list 'bass'; mapped to double bass."
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-01-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "No Tonic Pres",
+        "track_number": 1,
+        "side": null,
+        "duration": "4:34",
+        "session_date": "1965-01-13",
+        "composers": [
+          "Rahsaan Roland Kirk"
+        ],
+        "personnel": [
+          "Rahsaan Roland Kirk",
+          "Jaki Byard",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Once in a While",
+        "track_number": 2,
+        "side": null,
+        "duration": "4:02",
+        "session_date": "1965-01-13",
+        "composers": [
+          "Michael Edwards",
+          "Bud Green"
+        ],
+        "personnel": [
+          "Rahsaan Roland Kirk",
+          "Jaki Byard",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "From Bechet, Byas, and Fats",
+        "track_number": 3,
+        "side": null,
+        "duration": "6:31",
+        "session_date": "1965-01-13",
+        "composers": [
+          "Rahsaan Roland Kirk"
+        ],
+        "personnel": [
+          "Rahsaan Roland Kirk",
+          "Jaki Byard",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mystical Dream",
+        "track_number": 4,
+        "side": null,
+        "duration": "2:39",
+        "session_date": "1965-01-13",
+        "composers": [
+          "Rahsaan Roland Kirk"
+        ],
+        "personnel": [
+          "Rahsaan Roland Kirk",
+          "Jaki Byard",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Rip, Rig & Panic",
+        "track_number": 5,
+        "side": null,
+        "duration": "7:00",
+        "session_date": "1965-01-13",
+        "composers": [
+          "Rahsaan Roland Kirk"
+        ],
+        "personnel": [
+          "Rahsaan Roland Kirk",
+          "Jaki Byard",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Black Diamond",
+        "track_number": 6,
+        "side": null,
+        "duration": "5:23",
+        "session_date": "1965-01-13",
+        "composers": [
+          "Milt Sealey"
+        ],
+        "personnel": [
+          "Rahsaan Roland Kirk",
+          "Jaki Byard",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Slippery, Hippery, Flippery",
+        "track_number": 7,
+        "side": null,
+        "duration": "4:56",
+        "session_date": "1965-01-13",
+        "composers": [
+          "Rahsaan Roland Kirk"
+        ],
+        "personnel": [
+          "Rahsaan Roland Kirk",
+          "Jaki Byard",
+          "Richard Davis",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "49f4c81f-761f-451b-979b-a6bd940d38e1",
+    "apple_album_id": "1823063287",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/49f4c81f-761f-451b-979b-a6bd940d38e1/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S5"
+        ],
+        "notes": "Front cover approved in Cover Art Archive (S5)."
+      }
+    ],
+    "notes": "Single session, January 13, 1965, Van Gelder Studio, Englewood Cliffs, NJ (S2, S3). Limelight LM-82027 (mono) / LS-86027 (stereo), 1965 (S3); released December 1965 (S2). Producer Jack Tracy (S2). Engineer Rudy Van Gelder inferred: the session was recorded at Van Gelder Studio, where Van Gelder engineered all sessions through the mid-1960s - hence epistemic_production 'inf' while producer is obs (S2). Kirk's manzello/stritch/castanets/siren (S3) and flute/oboe (S2) doublings fall outside the instrument taxonomy and are recorded here rather than as separate entries. Track 1 title is 'No Tonic Pres' per S3 and Wikipedia's prose; Wikipedia's track list renders it 'No Tonic Press' (variant). Original Limelight credit 'Roland Kirk' (S3); canonical name 'Rahsaan Roland Kirk' (S1, S2). Side assignments are not documented in the sources consulted; side left null. Durations per Wikipedia (S2); AllMusic lists total 35:09 (S1) vs Wikipedia 35:05 (S2)."
+  },
+  "ballot": {
+    "album": "Rahsaan Roland Kirk — Rip, Rig and Panic (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "AllMusic awards five stars and the Penguin Guide placed the Emarcy two-fer in its suggested core collection with their second-highest grade — two independent consensus traditions marking this as Kirk's defining quartet statement. The session gravity is extraordinary: Jaki Byard, Richard Davis, and Elvin Jones in one room unite the Mingus, Dolphy, and Coltrane orbits at peak powers, and the date sits at the origin of the multi-reed lineage that runs through Joe McPhee and into the Kamasi Washington generation. As a cold-send discovery record it still swings hard for 35 minutes — the bridge between hard bop and the encroaching avant-garde is audible and thrilling.",
+    "case_against": "AllMusic styles the album 'Avant-Garde Jazz and Hard Bop' while the dossier asserts 'post-bop' — a genuine source conflict on genre that reflects Kirk's siren, castanets, and simultaneous-horn palette, which some critics read as novelty rather than load-bearing tradition (the Rolling Stone Jazz Record Guide gave only three stars). 1965 is a ferociously crowded post-bop year, and Kirk's Limelight period carries thinner consensus distribution than his Atlantic output. Substantively, only two independent critical voices (AllMusic, Cook & Morton via Wikipedia) appear in the dossier; the remaining four sources are aggregators echoing the same data.",
+    "disagreement": "The references split on tier: one reads the consensus and session-gravity signals as overwhelming and tiers it consensus_core; the other preserves the style-label conflict, the crowded 1965 field, and the thin substantive sourcing as enough to warrant contested.",
+    "recommendation": "Include it as a strong contested candidate — the consensus and session-gravity arguments are powerful, but John should weigh whether the AllMusic avant-garde tag and the single Rolling Star dissent give him pause before ruling.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}
