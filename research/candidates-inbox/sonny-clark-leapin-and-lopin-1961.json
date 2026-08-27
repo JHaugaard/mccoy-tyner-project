@@ -1,0 +1,398 @@
+{
+  "id": "sonny-clark-leapin-and-lopin-1961",
+  "artist": "Sonny Clark",
+  "album": "Leapin' and Lopin'",
+  "year": 1961,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Sonny Clark's final album as leader and, in AllMusic's words, 'a definitive recording for Clark, and really for all time in the mainstream jazz idiom' (S1, Michael Nastos, four-and-a-half stars). It is the strongest single case for Clark's own compositional voice \u2014 he wrote four of the six originals \u2014 and the hard-bop quintet writing here ('Somethin' Special', 'Voodoo') is among the most distinctive in the Blue Note catalogue. Session gravity is high: Tommy Turrentine, Charlie Rouse, Butch Warren and Billy Higgins, with Ike Quebec's celebrated cameo on the ballad 'Deep in a Dream' (S2). The Warren-Higgins rhythm section is the same one that powered Dexter Gordon's Go (already in the canon), so the lineage ties directly into existing canon records. Cool Struttin' is already in the canon; this is its more mature sibling \u2014 the record where Clark's artistry peaked before his death at 31.",
+  "consensus": "AllMusic 4.5 stars (Nastos, 'definitive recording for Clark, and really for all time in the mainstream jazz idiom'); Penguin Guide to Jazz Recordings 3.5 stars (Cook & Morton 2008, p.254); The Rolling Stone Jazz Record Guide 3 stars (Swenson 1985, p.41); All About Jazz ('one of his final recordings before an untimely death, everything seemed to solidify with this 1961 ringer').",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Leapin' and Lopin' \u2014 AllMusic album page (Nastos review, styles Hard Bop/Piano Jazz, recording date Nov 13 1961, Van Gelder Studios Englewood Cliffs NJ)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/leapin-and-lopin-mw0000194208"
+    },
+    "S2": {
+      "title": "Leapin' and Lopin' \u2014 Wikipedia album article (personnel, track list, recording date, producer Alfred Lion, AllMusic/Penguin/Rolling Stone ratings)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Leapin'_and_Lopin'"
+    },
+    "S3": {
+      "title": "Leapin' And Lopin' \u2014 Discogs master (credits: Butch Warren bass, Billy Higgins drums, Alfred Lion producer, Ira Gitler liner notes, Francis Wolff cover photo; cat. BLP 4091 / BST 84091)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/185786-Sonny-Clark-Leapin-And-Lopin"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 'Sonny Clark Leapin and Lopin' (collectionId 1443813333, original 6-track Blue Note release)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Sonny+Clark+Leapin+and+Lopin&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group + Cover Art Archive (MBID 144067fd-d219-3733-a5a7-3fe0fb722b3e; front cover served)",
+      "type": "other",
+      "url": "https://musicbrainz.org/release-group/144067fd-d219-3733-a5a7-3fe0fb722b3e"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-11-13"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1961-11-13",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "144067fd-d219-3733-a5a7-3fe0fb722b3e",
+    "apple_album_id": "1443813333",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/144067fd-d219-3733-a5a7-3fe0fb722b3e/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover served by Cover Art Archive (release MBID 03fc3a6a-e4f4-4bcf-a0a9-2c375a000f2f)."
+      }
+    ],
+    "notes": "Single session, November 13, 1961, Van Gelder Studio, Englewood Cliffs, NJ (S1 recording date/location; S2 infobox). Released May 1962 on Blue Note BLP 4091 (mono) / BST 84091 (stereo); conventionally dated by the 1961 recording. Producer Alfred Lion (S2, S3). Engineer Rudy Van Gelder is marked inf: no consulted source names a recording engineer, but the session was cut in Van Gelder's own Englewood Cliffs studio, where he engineered all Blue Note dates (the sanctioned Van Gelder inference). Original six-track LP personnel is fully documented (obs): Turrentine and Rouse are absent on 'Deep in a Dream', which features Ike Quebec's tenor cameo (S1, S2). The 2008 RVG CD reissue adds two bonus tracks from the same session \u2014 'Zellmar's Delight' and 'Melody for C (alternate take)' \u2014 whose per-track personnel is not separately documented in the sources consulted, so those two are marked inf (same-session inference) and track_assignments_complete is set false for that reason alone. Track durations follow Wikipedia/AllMusic (S1, S2); Discogs prints marginally different vinyl-label timings (S3). AllMusic styles: Hard Bop, Jazz Instrument, Piano Jazz (S1).",
+    "personnel": [
+      {
+        "name": "Sonny Clark",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composed 'Somethin' Special', 'Melody for C', 'Voodoo', 'Zellmar's Delight'."
+      },
+      {
+        "name": "Tommy Turrentine",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Somethin' Special",
+          "Melody for C",
+          "Eric Walks",
+          "Voodoo",
+          "Midnight Mambo"
+        ],
+        "session_dates": [
+          "1961-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent on 'Deep in a Dream' (S2). Composed 'Midnight Mambo'."
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Somethin' Special",
+          "Melody for C",
+          "Eric Walks",
+          "Voodoo",
+          "Midnight Mambo"
+        ],
+        "session_dates": [
+          "1961-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent on 'Deep in a Dream' (S2)."
+      },
+      {
+        "name": "Ike Quebec",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Deep in a Dream"
+        ],
+        "session_dates": [
+          "1961-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Tenor cameo on 'Deep in a Dream' only, sans the other horns (S1, S2)."
+      },
+      {
+        "name": "Butch Warren",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Eric Walks'."
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Somethin' Special",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:23",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Tommy Turrentine",
+          "Charlie Rouse",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Deep in a Dream",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:47",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Jimmy Van Heusen",
+          "Eddie DeLange"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Ike Quebec",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Melody for C",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:50",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Tommy Turrentine",
+          "Charlie Rouse",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Eric Walks",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:41",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Butch Warren"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Tommy Turrentine",
+          "Charlie Rouse",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Voodoo",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:39",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Tommy Turrentine",
+          "Charlie Rouse",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Midnight Mambo",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:15",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Tommy Turrentine"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Tommy Turrentine",
+          "Charlie Rouse",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Zellmar's Delight",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:43",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Tommy Turrentine",
+          "Charlie Rouse",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Melody for C (alternate take)",
+        "track_number": 8,
+        "side": null,
+        "duration": "8:13",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Tommy Turrentine",
+          "Charlie Rouse",
+          "Butch Warren",
+          "Billy Higgins"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "inf",
+        "sources": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Sonny Clark \u2014 Leapin' and Lopin' (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Clark's final album as leader before his death at 31 is widely cited as his mature peak \u2014 AllMusic's Nastos calls it 'a definitive recording for Clark, and really for all time in the mainstream jazz idiom' (4.5 stars), backed by Penguin Guide 3.5 stars (Cook & Morton 2008) and the Rolling Stone Jazz Record Guide's 3 stars \u2014 giving genuine cross-tradition consensus. He wrote four of the six originals, and the hard-bop quintet writing ('Somethin' Special,' 'Voodoo') is among the most distinctive in the Blue Note catalogue. Session gravity is the clincher: Butch Warren and Billy Higgins are the same rhythm section powering Dexter Gordon's Go (already in the canon), Charlie Rouse bridges hard-bop Blue Note to the Monk years ahead, and Ike Quebec's tenor cameo on 'Deep in a Dream' is a historically rich ballad performance from Quebec's own late-period stretch. It still plays as a model of what the hard-bop apex sounded like.",
+    "case_against": "The consensus ceiling is real: Penguin's 3.5 is solid but not Crown/Core Collection, the Rolling Stone 3 stars is modest, and no NPR Jazz canon list, DownBeat critics'-poll reference, or label-anthology framing appears in the dossier. Cool Struttin' (1958) is already in the canon and is the album most listeners and critics name first when naming Clark \u2014 Leapin' and Lopin' is widely the second Clark, and the defining-statement signal weakens once the load-bearing Clark slot is filled. As lineage it is a culmination of the 1961 hard-bop formula rather than a catalyst that changed what came after \u2014 it executes the idiom beautifully without pushing the language forward. Session gravity is solid but not top-tier: Turrentine and a pre-Monk Rouse are excellent sidemen, not the era's defining anchors.",
+    "disagreement": "The references split on tier: one argued consensus_core, reading the album as an overwhelming success as a definitive hard-bop statement with immense session gravity; the other argued contested, citing the Penguin 3.5-not-Crown ceiling, the Cool Struttin' shadow capping the defining-statement argument, and session gravity that is solid rather than stellar. Both agreed on priority: strong.",
+    "recommendation": "The council proposes John admit Leapin' and Lopin' as a strong second Sonny Clark \u2014 it earns its place on session gravity, compositional maturity, and cross-tradition consensus \u2014 but rule on whether that consensus clears the bar for consensus_core or whether the Cool Struttin' shadow and 3.5-not-Crown ceiling keep it contested.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

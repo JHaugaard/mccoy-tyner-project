@@ -1,0 +1,362 @@
+{
+  "id": "horace-silver-the-cape-verdean-blues-1965",
+  "artist": "Horace Silver",
+  "album": "The Cape Verdean Blues",
+  "year": 1965,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "One of the three or four definitive late Horace Silver Blue Note albums and a consensus hard-bop cornerstone: the Penguin Guide to Jazz Recordings awards it three-and-a-half stars and The Rolling Stone Jazz Record Guide four of five (S2). It is the fullest statement of Silver's Cape Verdean-heritage music \u2014 the title track and 'The African Queen' are the clearest expression of the African/Cape Verdean thread he carried from 'Song for My Father' (already in the canon) \u2014 and the 1965 quintet of Woody Shaw, Joe Henderson, Bob Cranshaw and Roger Humphries is one of the strongest Silver ever led. Session gravity is high: Shaw's presence marks one of his defining mid-60s Blue Note appearances, Henderson is at his peak, and J.J. Johnson guests on the three October 22 tracks (S2, S3). AllMusic files it under Hard Bop and Soul Jazz (S1). The discovery test passes outright \u2014 'Nutville' and 'Mo' Joe' (a Joe Henderson line) are among the most immediately pleasurable things Silver cut. Blue Note BST 84220.",
+  "consensus": "Penguin Guide to Jazz Recordings 3.5 stars (Cook & Morton 2008, p.1299); The Rolling Stone Jazz Record Guide 4/5 (Swenson 1985, p.181); AllMusic styles Hard Bop / Soul Jazz (S1).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "The Cape Verdean Blues \u2014 AllMusic album page (recording dates Oct 1 & 22 1965; location Van Gelder Studios, Englewood Cliffs, NJ; styles Hard Bop/Soul Jazz/Piano Jazz)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/the-cape-verdean-blues-mw0000204335"
+    },
+    "S2": {
+      "title": "The Cape Verdean Blues \u2014 Wikipedia album article (personnel, track list, session split Oct 1/22 1965, producer Alfred Lion, Penguin & Rolling Stone ratings)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Cape_Verdean_Blues"
+    },
+    "S3": {
+      "title": "The Cape Verdean Blues \u2014 Discogs master (credits: Bob Cranshaw bass, Roger Humphries drums, Rudy Van Gelder lacquer cut, Leonard Feather liner notes, Reid Miles cover; cat. BST 84220 / BLP 4220)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/155017-The-Horace-Silver-Quintet-Plus-JJ-Johnson-The-Cape-Verdean-Blues"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 'Horace Silver The Cape Verdean Blues' (collectionId 1443806389, 6 tracks, feat. J.J. Johnson)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Horace+Silver+The+Cape+Verdean+Blues&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group + Cover Art Archive (MBID 8f2fbfc2-00b2-4b21-87d4-456e0350c8e6; front cover served for original 1965 US Blue Note BST 84220 release)",
+      "type": "other",
+      "url": "https://musicbrainz.org/release-group/8f2fbfc2-00b2-4b21-87d4-456e0350c8e6"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-10-01",
+      "1965-10-22"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1965-10-01",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1965-10-22",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "8f2fbfc2-00b2-4b21-87d4-456e0350c8e6",
+    "apple_album_id": "1443806389",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/8f2fbfc2-00b2-4b21-87d4-456e0350c8e6/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover served by Cover Art Archive for the original 1965 US Blue Note BST 84220 release (release MBID 06401339-315f-4752-a0f7-ffb686a03dae)."
+      }
+    ],
+    "notes": "Two sessions at Van Gelder Studio, Englewood Cliffs, NJ: October 1, 1965 (tracks 1-3: 'The Cape Verdean Blues', 'The African Queen', 'Pretty Eyes') and October 22, 1965 (tracks 4-6: 'Nutville', 'Bonita', 'Mo' Joe'). J.J. Johnson appears on the October 22 session only (tracks 4-6). AllMusic's Recording Location field also carries a stray 'New York, NY' line alongside 'Van Gelder Studios, Englewood Cliffs, NJ'; Wikipedia and the Discogs/jazzdisco session record place both sessions at Van Gelder Studio, Englewood Cliffs, so the 'New York, NY' is treated as an AllMusic data artifact (not a venue conflict). Recorded late 1965, released December 1965 (per MusicBrainz) / early January 1966 (per Wikipedia's Billboard note); conventionally dated 1965. Producer Alfred Lion (S2, S3). Engineer Rudy Van Gelder is marked inf: no consulted source names a recording engineer, but the sessions were cut in Van Gelder's own Englewood Cliffs studio, where he engineered all Blue Note dates (the sanctioned Van Gelder inference). All compositions by Horace Silver except 'Mo' Joe' by Joe Henderson (S2).",
+    "personnel": [
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-10-01",
+          "1965-10-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of all titles except 'Mo' Joe'."
+      },
+      {
+        "name": "Woody Shaw",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-10-01",
+          "1965-10-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Henderson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-10-01",
+          "1965-10-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Mo' Joe'."
+      },
+      {
+        "name": "J.J. Johnson",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nutville",
+          "Bonita",
+          "Mo' Joe"
+        ],
+        "session_dates": [
+          "1965-10-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "J. J. Johnson"
+        ],
+        "notes": "October 22 session only (tracks 4-6)."
+      },
+      {
+        "name": "Bob Cranshaw",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-10-01",
+          "1965-10-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roger Humphries",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-10-01",
+          "1965-10-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Cape Verdean Blues",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:59",
+        "session_date": "1965-10-01",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Woody Shaw",
+          "Joe Henderson",
+          "Bob Cranshaw",
+          "Roger Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "The African Queen",
+        "track_number": 2,
+        "side": "A",
+        "duration": "9:36",
+        "session_date": "1965-10-01",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Woody Shaw",
+          "Joe Henderson",
+          "Bob Cranshaw",
+          "Roger Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Pretty Eyes",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:30",
+        "session_date": "1965-10-01",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Woody Shaw",
+          "Joe Henderson",
+          "Bob Cranshaw",
+          "Roger Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Nutville",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:15",
+        "session_date": "1965-10-22",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Woody Shaw",
+          "Joe Henderson",
+          "J.J. Johnson",
+          "Bob Cranshaw",
+          "Roger Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Bonita",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:37",
+        "session_date": "1965-10-22",
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Woody Shaw",
+          "Joe Henderson",
+          "J.J. Johnson",
+          "Bob Cranshaw",
+          "Roger Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Mo' Joe",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:46",
+        "session_date": "1965-10-22",
+        "composers": [
+          "Joe Henderson"
+        ],
+        "personnel": [
+          "Horace Silver",
+          "Woody Shaw",
+          "Joe Henderson",
+          "J.J. Johnson",
+          "Bob Cranshaw",
+          "Roger Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Horace Silver \u2014 The Cape Verdean Blues (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The session gravity is the decisive signal: a mid-1965 Van Gelder quintet with Woody Shaw at his breakout moment, Joe Henderson at peak, J.J. Johnson guesting on the October 22 date, Bob Cranshaw and Roger Humphries holding the rhythm \u2014 one of the strongest personnel configurations Silver ever led and a load-bearing date in the Shaw-on-Blue-Note and Henderson mid-decade arcs (S1, S2, S3). Cross-tradition consensus is genuine: Penguin Guide 3.5 stars, Rolling Stone Jazz Record Guide 4/5, AllMusic hard-bop/soul-jazz filing (S1, S2). It is the fullest expression of Silver's Cape Verdean-heritage thread, expanding what Song for My Father introduced into a complete aesthetic statement, and the discovery test passes outright \u2014 'Nutville' and Henderson's 'Mo' Joe' are among the most immediately pleasurable things Silver cut.",
+    "case_against": "The Penguin Guide's 3.5-star rating (not 4, no crown, no core-collection designation) is the real hinge: in Silver's Blue Note catalogue, Song for My Father, Blowin' the Blues Away, and Finger Poppin' sit a half-tier above in the same reference tradition, and TCVB is the second 1965 Silver Blue Note from the same Shaw\u2013Henderson\u2013Cranshaw frontline as the already-included Song for My Father. Mid-60s Blue Note hard-bop is the canon's most densely mined vein, and the dossier does not engage whether TCVB clears a bar that a long queue of equally-sourced 1963\u201367 dates also compete for. The consensus citations are reported via metadata rather than inspected guide pages, and the substantive canon-judgment sources are AllMusic and Wikipedia \u2014 adequate but not deep.",
+    "disagreement": "The references split on tier: one reads the session gravity and cross-tradition consensus as overwhelming (consensus_core), the other weights the 3.5-star Penguin tier, the adjacency to Song for My Father, and the crowded 1965 Blue Note field heavily enough to pull it to contested. Both agree on priority (strong) and scope (clean, no boundary in play).",
+    "recommendation": "Include if the collection wants the fullest Cape Verdean-heritage statement alongside Song for My Father and a defining Woody Shaw / Joe Henderson session document; the mid-60s Blue Note density is the honest cost.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

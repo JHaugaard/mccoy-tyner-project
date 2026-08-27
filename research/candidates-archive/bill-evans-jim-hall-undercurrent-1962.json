@@ -1,0 +1,283 @@
+{
+  "id": "bill-evans-jim-hall-undercurrent-1962",
+  "artist": "Bill Evans & Jim Hall",
+  "album": "Undercurrent",
+  "year": 1962,
+  "label": "United Artists",
+  "style_primary": "post-bop",
+  "rationale": "Undercurrent (1962) is the celebrated piano-guitar duo date by Bill Evans and Jim Hall, and the record that marked Evans's return to leading a session after the death of Scott LaFaro in July 1961. It is a consensus-crown album across independent listing traditions: DownBeat's Pete Welding gave the original LP a five-star review (November 1962), AllMusic rates it four-and-a-half stars (Scott Yanow's review), The Penguin Guide to Jazz Recordings four stars, and All About Jazz four-and-a-half stars (ratings transcribed in Wikipedia's review-score table, S2). The duo format \u2014 two chordal instruments held together by improvisatory counterpoint and shared chamber-music values \u2014 is a defining statement of Evans's post-trio voice, and the cover (Toni Frissell's 'Weeki Wachee Spring, Florida' photograph) is among the most recognizable images in the idiom. style_primary 'post-bop' per AllMusic's lead style tag (S1).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Undercurrent - Bill Evans / Jim Hall - AllMusic album page (styles, recording date/location, credits)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/undercurrent-mw0000652581"
+    },
+    "S2": {
+      "title": "Undercurrent (Bill Evans and Jim Hall album) - Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Undercurrent_(Bill_Evans_and_Jim_Hall_album)"
+    },
+    "S3": {
+      "title": "Bill Evans Catalog - jazzdisco.org sessionography (United Artists UAJ 14003)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/bill-evans/catalog/"
+    },
+    "S4": {
+      "title": "Undercurrent - MusicBrainz release group cf24f192-7cfc-3413-a80d-390b523dfbca",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/cf24f192-7cfc-3413-a80d-390b523dfbca"
+    },
+    "S5": {
+      "title": "Cover Art Archive - MusicBrainz release group cf24f192-7cfc-3413-a80d-390b523dfbca",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/cf24f192-7cfc-3413-a80d-390b523dfbca"
+    },
+    "S6": {
+      "title": "iTunes Search API - Bill Evans Undercurrent album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Bill+Evans+Undercurrent&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-04-24",
+      "1962-05-14"
+    ],
+    "multi_session": true,
+    "studio": "Sound Makers, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1962-04-24",
+        "site_raw": "Sound Makers, NYC",
+        "site_slug": "sound-makers-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1962-05-14",
+        "site_raw": "Sound Makers, NYC",
+        "site_slug": "sound-makers-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alan Douglas",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1962-04-24",
+          "1962-05-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Co-leader."
+      },
+      {
+        "name": "Jim Hall",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1962-04-24",
+          "1962-05-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Co-leader; composed 'Romain' (S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "My Funny Valentine",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:21",
+        "session_date": "1962-05-14",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Jim Hall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Hear a Rhapsody",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:36",
+        "session_date": "1962-04-24",
+        "composers": [
+          "Jack Baker",
+          "George Fragos",
+          "Dick Gasparre"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Jim Hall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Dream Gypsy",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:33",
+        "session_date": "1962-05-14",
+        "composers": [
+          "Judith Veevers"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Jim Hall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Romain",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:19",
+        "session_date": "1962-05-14",
+        "composers": [
+          "Jim Hall"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Jim Hall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Skating in Central Park",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:19",
+        "session_date": "1962-05-14",
+        "composers": [
+          "John Lewis"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Jim Hall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Darn That Dream",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:04",
+        "session_date": "1962-05-14",
+        "composers": [
+          "Eddie DeLange",
+          "Jimmy Van Heusen"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Jim Hall"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca",
+    "apple_album_id": "724267459",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/cf24f192-7cfc-3413-a80d-390b523dfbca/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S5"
+        ],
+        "notes": "Approved front cover in Cover Art Archive (S5) - Toni Frissell's 'Weeki Wachee Spring, Florida' photograph (S2)."
+      }
+    ],
+    "notes": "Two sessions at Sound Makers, NYC: April 24, 1962 produced 'I Hear a Rhapsody'; May 14, 1962 produced the other five issued tracks ('My Funny Valentine', 'Dream Gypsy', 'Romain', 'Skating in Central Park', 'Darn That Dream') (S3). 'My Funny Valentine' was the last-recorded piece of the date (S2). Producer Alan Douglas per Wikipedia (S2); recording engineer not documented in the sources consulted (Wikipedia, AllMusic, jazzdisco). Original label United Artists (UAJ 14003); reissued on Solid State (1968) and Blue Note (1988) (S2, S3). The 2002 Blue Note CD added four bonus tracks not part of the original LP: 'Stairway to the Stars', \"I'm Getting Sentimental Over You\", 'My Funny Valentine' (alternate take), 'Romain' (alternate take) (S2). Track durations per Wikipedia (S2); AllMusic (S1) lists slightly different timings (e.g. 5:24 vs 5:21 for 'My Funny Valentine') - minor transfer variance. jazzdisco (S3) spells 'Dream Gypsty'; recorded as 'Dream Gypsy' per Wikipedia (S2)."
+  },
+  "ballot": {
+    "album": "Bill Evans & Jim Hall \u2014 Undercurrent (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Four independent review traditions align at or near the top of their scales: DownBeat's original five-star review by Pete Welding (Nov 1962), AllMusic 4\u00bd stars, Penguin Guide four stars, and All About Jazz 4\u00bd \u2014 genuine cross-tradition consensus spanning a contemporary American critical review, a major retrospective British guide, and web-era aggregators. It is the defining piano-guitar duo record in jazz, the format that proved two chordal instruments could sustain improvisatory counterpoint with swing and lyricism, and it marks Evans's first significant leader date after Scott LaFaro's death in July 1961 \u2014 a documented career hinge where his post-trio voice found a new conversational foil in Hall. The iconic Toni Frissell cover art and the canonical status of 'My Funny Valentine' within it give the album discovery value that pulls a cold listener in and delivers on the promise.",
+    "case_against": "The sourcing independence is moderate rather than maximal: the Penguin Guide rating arrives via Wikipedia's review-score table rather than a direct citation, and the web-era aggregators (AllMusic, All About Jazz) partly cross-cite, leaving the 1962 DownBeat review as the only fully independent critical voice. If the canon already holds the LaFaro trio records (Village Vanguard, Waltz for Debby) and Evans's later solo-piano or duo work, Undercurrent is a refinement of Evans's represented arc rather than a visible hole \u2014 a priority question, not an inclusion question. One might also argue that a drumless, bassless duo album leans into a specialized chamber-jazz aesthetic that sits at the edge of the mainstream post-bop tradition, though the rubric's no-artist-concentration rule and the opened genre gates weaken both lines.",
+    "disagreement": null,
+    "recommendation": "Include Undercurrent as a consensus_core must_have \u2014 the against-case reduces to a priority nuance the rubric already disarms, and the for-case is overwhelming on every signal the canon weights.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

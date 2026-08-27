@@ -1,0 +1,361 @@
+{
+  "id": "art-blakey-the-jazz-messengers-ugetsu-1963",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "Ugetsu",
+  "year": 1963,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "rationale": "Ugetsu: Art Blakey's Jazz Messengers at Birdland (1963) is the definitive live document of the celebrated Shorter-Hubbard-Fuller-Walton-Workman-Blakey sextet - the same front line heard on Mosaic (1961) and Free for All (1964) - captured in a single June 16, 1963 set at Birdland. It is a consensus hard-bop landmark: AllMusic rates it four stars (S1), and DownBeat awarded the original LP four-and-a-half stars (transcribed in Wikipedia's review-score table, S2). The set is a composers' showcase - Wayne Shorter's 'One By One,' 'Ping-Pong,' and 'On the Ginza,' Cedar Walton's title track, Curtis Fuller's 'Time Off' - and its session gravity sits at the center of the 1960s hard-bop personnel network (Shorter, Hubbard, and Fuller each went on to define the Blue Note catalogue). The title track and 'On the Ginza' were written as a homage to Japan following the Messengers' 1963 tour there (S2). style_primary 'hard-bop' per AllMusic's sole style tag (S1).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Ugetsu - Art Blakey / Art Blakey & the Jazz Messengers - AllMusic album page (styles, recording date/location, credits)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/ugetsu-mw0000204080"
+    },
+    "S2": {
+      "title": "Ugetsu (album) - Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Ugetsu_(album)"
+    },
+    "S3": {
+      "title": "Art Blakey Catalog - jazzdisco.org sessionography (Riverside RM 464)",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/art-blakey/catalog/"
+    },
+    "S4": {
+      "title": "Ugetsu - MusicBrainz release group f17c5384-3fb0-4236-a8bf-670c6ca80ebc",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/f17c5384-3fb0-4236-a8bf-670c6ca80ebc"
+    },
+    "S5": {
+      "title": "Cover Art Archive - MusicBrainz release group f17c5384-3fb0-4236-a8bf-670c6ca80ebc",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/f17c5384-3fb0-4236-a8bf-670c6ca80ebc"
+    },
+    "S6": {
+      "title": "iTunes Search API - Art Blakey Ugetsu album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+Ugetsu&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-06-16"
+    ],
+    "multi_session": false,
+    "studio": "Birdland, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1963-06-16",
+        "site_raw": "Birdland, New York City",
+        "site_slug": "birdland",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Time Off' (S2)."
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'One By One', 'Ping-Pong', and 'On the Ginza' (S2)."
+      },
+      {
+        "name": "Cedar Walton",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed the title track 'Ugetsu' (also issued as 'Fantasy in D' on his solo albums, S2)."
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Sources list 'bass'; mapped to double bass."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "One By One",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:18",
+        "session_date": "1963-06-16",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ugetsu",
+        "track_number": 2,
+        "side": "A",
+        "duration": "11:03",
+        "session_date": "1963-06-16",
+        "composers": [
+          "Cedar Walton"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Time Off",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:56",
+        "session_date": "1963-06-16",
+        "composers": [
+          "Curtis Fuller"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ping-Pong",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:09",
+        "session_date": "1963-06-16",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Didn't Know What Time It Was",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:32",
+        "session_date": "1963-06-16",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "On the Ginza",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:04",
+        "session_date": "1963-06-16",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "f17c5384-3fb0-4236-a8bf-670c6ca80ebc",
+    "apple_album_id": "1442929270",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/f17c5384-3fb0-4236-a8bf-670c6ca80ebc/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S5"
+        ],
+        "notes": "Approved front cover in Cover Art Archive (S5)."
+      }
+    ],
+    "notes": "Single live session, June 16, 1963, at Birdland, New York City (S1, S2, S3). Riverside RM 464 (mono) / RS 9464 (stereo), released October 1963 (S2, S3). Producer Orrin Keepnews (S2); recording engineer not documented in the sources consulted (Wikipedia, AllMusic, jazzdisco). The original LP held six tracks; producer Keepnews's liner notes state other performances taped that night could not be fitted on the album (S2). Later CD reissues added tracks from the same night: 'Eva', 'The High Priest', 'Conception', and 'The Theme' (S2) - excluded here as reissue additions. Track durations per the original LP listing (S2); AllMusic's listing (S1) shows slightly different timings (e.g. 11:00 vs 11:03 for 'Ugetsu') - minor transfer variance. iTunes 'Ugetsu' collection (collectionId 1442929270, S6) is the plain-title original issue."
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers \u2014 Ugetsu (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The Shorter\u2013Hubbard\u2013Fuller\u2013Walton\u2013Workman\u2013Blakey sextet is arguably the most celebrated Messengers lineup and a load-bearing node in the early-1960s hard-bop personnel graph \u2014 within eighteen months Shorter joined Miles, Hubbard and Fuller anchored Blue Note's catalogue, and Walton's title track (aka 'Fantasy in D') entered the working repertoire alongside Shorter's 'One By One' and 'Ping-Pong.' This is the definitive *live* document of that band at Birdland, and DownBeat's 4\u00bd-star rating (S2) plus AllMusic's 4 stars (S1) confirm its standing; as a swinging, composer-driven bandstand recording it passes the discovery test with room to spare.",
+    "case_against": "This is the third major document of essentially one sextet in three years \u2014 bracketed by Mosaic (1961) and Free for All (1964) \u2014 and the dossier offers no guidance on which of these John should keep, only that all three are strong. The consensus sourcing meets the three-source minimum but leans heavily on AllMusic and a Wikipedia-transcribed DownBeat rating; no Penguin Guide core-collection status, no NPR or JazzTimes canon-list appearance, and no label-anthology signal appear in the dossier, so the independent-tradition consensus the rubric weights most heavily is thin as filed. And while it is a superb night on the bandstand, it is not THE singular defining statement for any individual member \u2014 each has a clearer capstone elsewhere.",
+    "disagreement": "The references split on tier: one tiers it contested, citing same-lineup redundancy with Mosaic and Free for All and thin cross-tradition consensus sourcing (no Penguin Guide, no independent canon-list); the other tiers it consensus_core, reading the session gravity, repertoire weight, and DownBeat reception as sufficient. Both agree on strong priority.",
+    "recommendation": "Tier Ugetsu as contested at strong priority \u2014 it belongs in the conversation about the Shorter-era Messengers, but John should weigh it against Mosaic and Free for All and decide whether the canon needs all three or whether one live and one studio document of this lineup suffices.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}
