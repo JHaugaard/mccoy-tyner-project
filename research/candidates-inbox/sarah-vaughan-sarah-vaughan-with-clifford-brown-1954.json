@@ -1,0 +1,495 @@
+{
+  "id": "sarah-vaughan-sarah-vaughan-with-clifford-brown-1954",
+  "artist": "Sarah Vaughan",
+  "album": "Sarah Vaughan with Clifford Brown",
+  "year": 1954,
+  "label": "EmArcy",
+  "style_primary": "hard-bop",
+  "rationale": "The definitive jazz-vocal record and the only collaboration between Sarah Vaughan and Clifford Brown. Penguin Guide core collection with crown status (\"one of the great jazz vocal records\"), AllMusic 5 stars (\"one of the most important jazz-meets-vocal sessions ever recorded\"), Grammy Hall of Fame (1999), and Ben Ratliff's 'Jazz: A Critic's Guide to the 100 Most Important Recordings' — all documented in the Wikipedia reception section (S1). Session gravity is exceptional: Clifford Brown (trumpet), Roy Haynes (drums), Paul Quinichette (tenor), Herbie Mann (flute), Jimmy Jones (piano), Joe Benjamin (bass), with Ernie Wilkins arranging. Sarah Vaughan has no representation in the canon; this is the record a vocal-jazz gap should be closed with.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Sarah Vaughan (1955 album) / Sarah Vaughan with Clifford Brown",
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sarah_Vaughan_(1955_album)"
+    },
+    "S2": {
+      "title": "Discogs — Sarah Vaughan With Clifford Brown (EmArcy 814 641-2)",
+      "type": "discogs",
+      "url": "https://www.discogs.com/release/1431157-Sarah-Vaughan-With-Clifford-Brown-Sarah-Vaughan-With-Clifford-Brown"
+    },
+    "S3": {
+      "title": "iTunes Search API — Sarah Vaughan with Clifford Brown",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Sarah+Vaughan+Clifford+Brown&entity=album&limit=10"
+    },
+    "S4": {
+      "title": "MusicBrainz — Sarah Vaughan release group",
+      "type": "musicbrainz",
+      "url": "https://musicbrainz.org/release-group/29cd2950-3d0f-3367-a2a7-25acf89ca2cf"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1954-12-16",
+      "1954-12-18"
+    ],
+    "multi_session": true,
+    "studio": "Fine Sound Studios, 711 Fifth Avenue, New York City",
+    "producer": "Bob Shad",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "recording_sites": [
+      {
+        "session_date": "1954-12-16",
+        "site_raw": "Fine Sound Studios, 711 Fifth Avenue, New York City",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fine Sound Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "711 Fifth Avenue",
+          "lat": 40.713,
+          "lon": -74.006,
+          "location_epistemic": "inf",
+          "location_source": "https://en.wikipedia.org/wiki/Sarah_Vaughan_(1955_album) | coords: city centroid (OSM Nominatim: New York, NY), 3-decimal — street address '711 Fifth Avenue' documented but Nominatim could not resolve it to Manhattan"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1954-12-18",
+        "site_raw": "Fine Sound Studios, 711 Fifth Avenue, New York City",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fine Sound Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "711 Fifth Avenue",
+          "lat": 40.713,
+          "lon": -74.006,
+          "location_epistemic": "inf",
+          "location_source": "https://en.wikipedia.org/wiki/Sarah_Vaughan_(1955_album) | coords: city centroid (OSM Nominatim: New York, NY), 3-decimal — street address '711 Fifth Avenue' documented but Nominatim could not resolve it to Manhattan"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "personnel": [
+      {
+        "name": "Sarah Vaughan",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader, vocalist."
+      },
+      {
+        "name": "Clifford Brown",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Quinichette",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia credits tenor saxophone; Discogs lists 'Saxophone' without a specific horn."
+      },
+      {
+        "name": "Herbie Mann",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Jones",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Benjamin",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ernie Wilkins",
+        "instrument": "arranger",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Arranger and conductor; did not perform an instrument. Wikipedia lists him as conductor (performance section) and arranger (production section); Discogs credits 'Arranged By, Conductor'."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Lullaby of Birdland",
+        "track_number": 1,
+        "side": null,
+        "duration": "4:06",
+        "session_date": null,
+        "composers": [
+          "George Shearing",
+          "George David Weiss"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "April in Paris",
+        "track_number": 2,
+        "side": null,
+        "duration": "6:26",
+        "session_date": null,
+        "composers": [
+          "Vernon Duke",
+          "E.Y. Harburg"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "He's My Guy",
+        "track_number": 3,
+        "side": null,
+        "duration": "4:17",
+        "session_date": null,
+        "composers": [
+          "Gene de Paul",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Jim",
+        "track_number": 4,
+        "side": null,
+        "duration": "5:56",
+        "session_date": null,
+        "composers": [
+          "Caesar Petrillo",
+          "Edward Ross",
+          "Nelson Shawn"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "You're Not the Kind",
+        "track_number": 5,
+        "side": null,
+        "duration": "4:48",
+        "session_date": null,
+        "composers": [
+          "Will Hudson",
+          "Irving Mills"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Embraceable You",
+        "track_number": 6,
+        "side": null,
+        "duration": "4:54",
+        "session_date": null,
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I'm Glad There Is You",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:14",
+        "session_date": null,
+        "composers": [
+          "Jimmy Dorsey",
+          "Paul Mertz"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "September Song",
+        "track_number": 8,
+        "side": null,
+        "duration": "5:50",
+        "session_date": null,
+        "composers": [
+          "Maxwell Anderson",
+          "Kurt Weill"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "It's Crazy",
+        "track_number": 9,
+        "side": null,
+        "duration": "5:01",
+        "session_date": null,
+        "composers": [
+          "Al Fields",
+          "Timmie Rogers"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Lullaby of Birdland (Alternate Take)",
+        "track_number": 10,
+        "side": null,
+        "duration": "3:58",
+        "session_date": null,
+        "composers": [
+          "George Shearing",
+          "George David Weiss"
+        ],
+        "personnel": [
+          "Sarah Vaughan",
+          "Clifford Brown",
+          "Paul Quinichette",
+          "Herbie Mann",
+          "Jimmy Jones",
+          "Joe Benjamin",
+          "Roy Haynes",
+          "Ernie Wilkins"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "29cd2950-3d0f-3367-a2a7-25acf89ca2cf",
+    "apple_album_id": "1434889193",
+    "cover_art": [],
+    "notes": "Recorded at Fine Sound Studios, 711 Fifth Avenue, New York City, across two sessions, December 16 and 18, 1954; released 1955 (EmArcy MG-36004), reissued 1991 as 'Sarah Vaughan with Clifford Brown'. Wikipedia's infobox gives a single recording date (December 18) while Discogs gives December 16 and 18; per-track session assignment is not documented, so track-level session dates are left null. Track 10 ('Lullaby of Birdland, alternate take') is a CD-reissue bonus. Composer conflict on 'It's Crazy': Wikipedia credits Al Fields and Timmie Rogers; Discogs credits Dorothy Fields and Richard Rodgers — the Wikipedia attribution is retained (Al Fields/Timmie Rogers are the known writers of the standard) and the Discogs variant flagged here. No recording engineer is credited by either Wikipedia or Discogs; producer Bob Shad is the only original production credit, so engineer is null."
+  },
+  "ballot": {
+    "album": "Sarah Vaughan — Sarah Vaughan with Clifford Brown (1954)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Four independent critical traditions converge on this record: Penguin Guide core collection with crown designation, AllMusic 5 stars, Grammy Hall of Fame (1999), and Ben Ratliff's Critic's Guide to the 100 Most Important Recordings — a consensus density matched by very few albums in the canon. It is simultaneously Vaughan's definitive small-group studio session and one of the last great documents of Clifford Brown's trumpet playing, recorded eighteen months before his death at 25. The session gravity is extraordinary: Brown, Roy Haynes, Paul Quinichette, Herbie Mann, Jimmy Jones, Joe Benjamin, and arranger Ernie Wilkins constitute a complete elite hard-bop ensemble, anchoring a vocal date deep in the instrumental tradition the canon is built on. Vaughan currently has zero representation; this is the record that closes that gap.",
+    "case_against": "The substantive critique is sourcing depth: every reception claim — Penguin crown, Grammy HoF, Ratliff, AllMusic — routes through a single Wikipedia reception section (S1), with the remaining sources (Discogs, iTunes, MusicBrainz) confirming only credits and catalog data. A dossier this strong should ideally cite the Penguin Guide entry, the Grammy listing, and Ratliff's book directly rather than aggregating them through one secondary source. The secondary tension is center-of-gravity: the canon's spine is instrumental post-bop, and admitting a vocal-led date sets a precedent for how much vocal jazz the collection should carry — not a case against this album, but a horizon question John should weigh.",
+    "disagreement": null,
+    "recommendation": "Admit at consensus_core / must_have, but upgrade the dossier's reception sourcing from a single Wikipedia section to direct citations before final inclusion.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

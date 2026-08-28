@@ -1,0 +1,376 @@
+{
+  "id": "oscar-peterson-night-train-1962",
+  "artist": "Oscar Peterson",
+  "album": "Night Train",
+  "year": 1962,
+  "label": "Verve",
+  "style_primary": "hard-bop",
+  "rationale": "Oscar Peterson's defining trio statement and the single most cited Peterson album — Penguin Guide core collection (\"one of the best-constructed long-players of the period\"), AllMusic 4.5 stars, The Encyclopedia of Popular Music 5 stars, and the 2019 Polaris Heritage Prize (all per the Wikipedia reception section, S1, with the AllMusic review directly at S2). Recorded December 1962 with the classic Peterson–Ray Brown–Ed Thigpen trio, its eleven tracks of blues and R&B standards fixed the group's sound; the closing 'Hymn to Freedom' became a civil-rights anthem. Oscar Peterson has no representation in the canon — a gap any jazz browser would notice. Session gravity: Ray Brown (bass) and Ed Thigpen (drums) at their apex. Consensus is independent and sustained (S1, S2).",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Night Train (Oscar Peterson album)",
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Night_Train_(Oscar_Peterson_album)"
+    },
+    "S2": {
+      "title": "AllMusic — Night Train review",
+      "type": "allmusic",
+      "url": "https://www.allmusic.com/album/night-train-mw0000871247"
+    },
+    "S3": {
+      "title": "Discogs — The Oscar Peterson Trio, Night Train (Verve V6-8538)",
+      "type": "discogs",
+      "url": "https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train"
+    },
+    "S4": {
+      "title": "iTunes Search API — Oscar Peterson Night Train",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Oscar+Peterson+Night+Train&entity=album&limit=10"
+    },
+    "S5": {
+      "title": "Chicago Public Library (BiblioCommons) — Night Train",
+      "type": "web",
+      "url": "https://chipublib.bibliocommons.com/v2/record/S126C1397481"
+    },
+    "S6": {
+      "title": "MusicBrainz — Night Train release group",
+      "type": "musicbrainz",
+      "url": "https://musicbrainz.org/release-group/9ce4b9ee-9ad4-3deb-95a4-4cb4e68c145e"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-12-15",
+      "1962-12-16"
+    ],
+    "multi_session": false,
+    "studio": "Radio Recorders, Hollywood, California",
+    "producer": "Norman Granz",
+    "engineer": "Val Valentin",
+    "epistemic_production": "obs",
+    "recording_sites": [
+      {
+        "session_date": "1962-12-16",
+        "site_raw": "Radio Recorders, Hollywood",
+        "site_slug": "radio-recorders",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S5"
+      }
+    ],
+    "personnel": [
+      {
+        "name": "Oscar Peterson",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "Ray Brown",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ed Thigpen",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Night Train",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:52",
+        "session_date": null,
+        "composers": [
+          "Jimmy Forrest",
+          "Lewis P. Simpkins",
+          "Oscar Washington"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "C Jam Blues",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:26",
+        "session_date": null,
+        "composers": [
+          "Barney Bigard",
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Georgia on My Mind",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:46",
+        "session_date": null,
+        "composers": [
+          "Hoagy Carmichael",
+          "Stuart Gorrell"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Bags' Groove",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:43",
+        "session_date": null,
+        "composers": [
+          "Milt Jackson"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Moten Swing",
+        "track_number": 5,
+        "side": "A",
+        "duration": "2:55",
+        "session_date": null,
+        "composers": [
+          "Bennie Moten"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Easy Does It",
+        "track_number": 6,
+        "side": "A",
+        "duration": "2:45",
+        "session_date": null,
+        "composers": [
+          "Sy Oliver",
+          "Trummy Young"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Honey Dripper",
+        "track_number": 7,
+        "side": "B",
+        "duration": "2:24",
+        "session_date": null,
+        "composers": [
+          "Joe Liggins"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Things Ain't What They Used to Be",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:38",
+        "session_date": null,
+        "composers": [
+          "Mercer Ellington",
+          "Ted Persons"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Got It Bad (and That Ain't Good)",
+        "track_number": 9,
+        "side": "B",
+        "duration": "5:08",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Paul Francis Webster"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Band Call",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:55",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Hymn to Freedom",
+        "track_number": 11,
+        "side": "B",
+        "duration": "5:38",
+        "session_date": null,
+        "composers": [
+          "Oscar Peterson"
+        ],
+        "personnel": [
+          "Oscar Peterson",
+          "Ray Brown",
+          "Ed Thigpen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "9ce4b9ee-9ad4-3deb-95a4-4cb4e68c145e",
+    "apple_album_id": "1440761118",
+    "cover_art": [],
+    "notes": "Trio album recorded at Radio Recorders, Hollywood, December 1962; released 1963 (Verve V6-8538). Wikipedia and Discogs give the session as December 15-16, 1962; the Chicago Public Library catalog (S5) and reissue liner notes (Acoustic Sounds, Jazz Messengers) cite December 16 alone — all agree on Radio Recorders, Hollywood. Identical trio throughout. CD reissue adds six bonus tracks (an alternate take of 'Night Train' plus five more), which are excluded here per the original-LP scope. Engineer Val Valentin per Wikipedia ('recording engineering') and Discogs ('Engineer [Director Of Engineering]')."
+  },
+  "ballot": {
+    "album": "Oscar Peterson — Night Train (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Four independent consensus traditions — Penguin Guide core collection, AllMusic 4½ stars, Encyclopedia of Popular Music 5 stars, and the 2019 Polaris Heritage Prize — converge on this as Peterson's most-cited album and the defining statement of his celebrated trio with Ray Brown and Ed Thigpen (S1, S2). The closing 'Hymn to Freedom' transcends the session as a civil-rights anthem, giving the record cultural weight beyond its immaculate piano-trio craft. Peterson currently has zero representation in the canon — a gap any jazz-aware browser would notice — and the album's blues-and-R&B program is so accessible and flawlessly executed that a curious listener sent to it cold would immediately understand why the piano trio matters in jazz.",
+    "case_against": "The reception evidence is broad but largely aggregator-mediated: the Penguin Guide, Polaris, and encyclopedia citations all trace through Wikipedia (S1) rather than to primary sources, and of the six source tokens only S1 and S2 are doing reception work — the rest are metadata or catalog records. More substantively, Peterson was a conservative force in 1962, perfecting the mainstream rather than fracturing it the way Coltrane, Evans, or Coleman were doing in the same moment; Night Train is a collection of blues and R&B standards played with immaculate polish, but it did not change what came after it the way the era's canonical touchstones did. The 'defining statement of Peterson' claim is also contested — scholars reasonably prefer We Get Requests, Canadiana Suite, or the live Blue Note sessions.",
+    "disagreement": "Both references agree on consensus_core and must_have, but split on the strongest case-against: one emphasizes sourcing thinness (reception claims mediated through Wikipedia, only two of six sources doing real reception work) and a contested 'defining statement' claim; the other emphasizes Peterson's stylistic conservatism and lack of lineage/innovation relative to 1962 peers. Neither argument displaces the for-case; they are notes on different axes — methodological and aesthetic — rather than a fracture in the verdict.",
+    "recommendation": "Include Night Train as a consensus_core must_have — Peterson's absence from the canon is a visible hole, the independent consensus is strong enough to clear the sourcing softness, and the discovery value is textbook — but note in the ballot that the reception sourcing should be strengthened with direct Penguin Guide and Polaris citations before final staging.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}
