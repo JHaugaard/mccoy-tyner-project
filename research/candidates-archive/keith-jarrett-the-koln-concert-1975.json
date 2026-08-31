@@ -1,0 +1,213 @@
+{
+  "id": "keith-jarrett-the-koln-concert-1975",
+  "artist": "Keith Jarrett",
+  "album": "The Köln Concert",
+  "year": 1975,
+  "label": "ECM",
+  "style_primary": "modal-jazz",
+  "rationale": "The ECM gate's explicit continuity anchor: the rubric names The Köln Concert (1975) as 'the canonical example' of a 1973+ record judged on continuity — 'late modal, continuous' — and again as 'the anchor' of the ECM-first-decade gate (config/canon-rubric.md). Recorded 24 January 1975 at the Opera House, Cologne, on a substandard rehearsal Bösendorfer baby grand, and released 30 November 1975 as ECM 1064/65 ST (S1, S2). It is the best-selling solo album in jazz history and the best-selling piano album, around 4 million copies (S1); AllMusic gives it 5 stars and calls it 'a true and lasting masterpiece of melodic, spontaneous composition and improvisation that set the standard' (S2); the Penguin Guide selected it for its 'core collection' in 2008 (S1); it appears in 1001 Albums You Must Hear Before You Die (S1) and was added to the Library of Congress National Recording Registry in 2025 (S1). Continuity case: the concert's long one- and two-chord vamps (Am7–G, A major, D major, F♯ minor) are modal language carried forward from the 1960s lineage, delivered solo — no fusion instrumentation, no rock backbeat. Session gravity is nil by design (solo concert), so the case rests on consensus + defining-statement + lineage, all of which are overwhelming for this record. Because it is a 1973+ ECM arrival, the rubric directs it to lean scope_call; the boundary argument is preserved in the ballot, not resolved here. Directed candidate, researched by tool work (S1–S6).",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — The Köln Concert",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert"
+    },
+    "S2": {
+      "title": "AllMusic — The Köln Concert (album + credits)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-k%C3%B6ln-concert-mw0000188364"
+    },
+    "S3": {
+      "title": "MusicBrainz release group — The Köln Concert",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/516d4629-7bf3-3ac3-907a-ed9a022db840"
+    },
+    "S4": {
+      "title": "iTunes Search API — Keith Jarrett The Köln Concert",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Keith+Jarrett+The+Koln+Concert&entity=album"
+    },
+    "S5": {
+      "title": "Cover Art Archive — The Köln Concert (release-group 516d4629)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/516d4629-7bf3-3ac3-907a-ed9a022db840"
+    },
+    "S6": {
+      "title": "Wikipedia — Cologne Opera (venue coordinate, via scripts/geocode-place.py rung 1)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Cologne_Opera"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1975-01-24"
+    ],
+    "multi_session": false,
+    "studio": "Opera House, Cologne, West Germany",
+    "recording_sites": [
+      {
+        "session_date": "1975-01-24",
+        "site_raw": "Opera House, Cologne, West Germany",
+        "site_slug": null,
+        "site_new": {
+          "name": "Cologne Opera House (Opernhaus Köln, Offenbachplatz)",
+          "city": "Cologne, Germany",
+          "kind": "hall",
+          "address": null,
+          "lat": 50.938,
+          "lon": 6.952,
+          "location_epistemic": "inf",
+          "location_source": "city-level pin from https://en.wikipedia.org/wiki/Cologne_Opera; no documented street address located"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Manfred Eicher",
+    "engineer": "Martin Wieland",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Keith Jarrett",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1975-01-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Solo concert, entirely improvised; performed on a Bösendorfer baby grand in poor condition (the requested Bösendorfer 290 Imperial could not be delivered in time). 'Part IIc' is a reworking of his composition 'Memories of Tomorrow'. S1, S2."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Part I",
+        "track_number": 1,
+        "side": "A",
+        "duration": "26:01",
+        "session_date": "1975-01-24",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Part II a",
+        "track_number": 2,
+        "side": "B",
+        "duration": "14:54",
+        "session_date": "1975-01-24",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Part II b",
+        "track_number": 3,
+        "side": "C",
+        "duration": "18:13",
+        "session_date": "1975-01-24",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Part II c",
+        "track_number": 4,
+        "side": "D",
+        "duration": "6:56",
+        "session_date": "1975-01-24",
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "516d4629-7bf3-3ac3-907a-ed9a022db840",
+    "apple_album_id": "1440840566",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/516d4629-7bf3-3ac3-907a-ed9a022db840/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover via Cover Art Archive release-group 516d4629 (redirects to an ECM 1064/65 ST scan); cover design Barbara and Burkhart Wojirsch, photography Wolfgang Frankenstein (S1)"
+      }
+    ],
+    "notes": "Single solo concert, one session: 24 January 1975, 11:30 pm, Opera House (Offenbachplatz), Cologne — the first jazz concert at that house, organized by 18-year-old Vera Brandes (S1). Recorded by ECM engineer Martin Wieland with Neumann U67 microphones and a Telefunken M-5 portable tape machine (S1). AllMusic's recording location prints 'The Opera, Kolin Germany' (S2) — a typo for Köln, same venue. Venue: the 1957 opera house at Offenbachplatz (demolished 2016), not the earlier 1904 building; the Wikipedia 'Cologne Opera' article coordinate (50.93806, 6.95167) is that building's site, resolved via scripts/geocode-place.py rung 1 (S6) and proposed as a complete site_new since no canonical slug exists for it. Duration variance: Wikipedia total 1:06:07 vs AllMusic 1:06:05; per-track durations per Wikipedia's original-release listing (S1)."
+  },
+  "ballot": {
+    "album": "Keith Jarrett — The Köln Concert (1975)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "1973–1979 band + ECM gate (1969–1979): judged on continuity with the 1960s modal/post-bop tradition. The rubric names this exact album twice — as 'the canonical example' of 1973+ continuity and 'the anchor' of the ECM-first-decade gate — so the boundary is the ruling, not a defect."
+    },
+    "tier": "scope_call",
+    "priority": "must_have",
+    "case_for": "The consensus signal is overwhelming and cross-tradition: Penguin Guide 2008 core collection, AllMusic 5 stars, Library of Congress National Recording Registry 2025, and 1001 Albums You Must Hear Before You Die — four independent listing traditions converging on one record (S1, S2). It is Jarrett's defining statement, the album that fixed his reputation as the top pianist of his generation. The continuity argument is audibly real: the long one- and two-chord vamps (Am7–G over ~12 minutes, A major, D major, F♯ minor) are 1960s modal language carried forward solo, acoustic, song-form-adjacent, with no fusion instrumentation and no rock backbeat. The rubric itself pre-answers the boundary question in this album's favor, by name, in two places — an unusual signal that should be treated as content.",
+    "case_against": "The honest against-case is structural: a solo concert has zero session gravity — the personnel network this canon is explicitly 'about' is entirely absent — and long stretches of the improvisation operate in a free-improv idiom adjacent to rather than continuous with the modal tradition the vamps anchor. The ~4M sales include a crossover, ambient-adjacent listening public whose ownership of this record is partly a cultural phenomenon, not a working-musician consensus. The critical-reception sourcing is thin for a contested scope call: Penguin Guide core, Library of Congress NRR, and the Tom Hull quote all trace to S1 (Wikipedia) and S2 (AllMusic), both tertiary — the canon would be better served by direct citations. Approving the anchor risks setting a precedent that future ECM solo-piano arrivals cite as automatic rather than arguing continuity case-by-case.",
+    "disagreement": null,
+    "recommendation": "The council proposes John ratify the 1973+ continuity test by ruling on this album explicitly — approving it on continuity grounds, not on sales or label, with the understanding that each subsequent ECM arrival argues its own modal lineage rather than inheriting this one.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  },
+  "style_tags": [
+    "ecm",
+    "post-bop"
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "id": "art-farmer-modern-art-1958",
+  "artist": "Art Farmer",
+  "album": "Modern Art",
+  "year": 1958,
+  "label": "United Artists",
+  "style_primary": "hard-bop",
+  "rationale": "The record that first teamed Art Farmer with Benny Golson, two years before the Jazztet — AllMusic's reviewer calls it 'the prelude recording for Art Farmer prior to his partnership in the Jazztet with Benny Golson', with 'the seeds of that forest flower heard and enjoyed here' (S2, quoted in S1). Consensus is unusually strong for a non-Blue Note hard-bop date: the 1958 DownBeat review gave it a maximum five stars, The Penguin Guide to Jazz (4/4 crowns) called it 'one of Farmer's most successful records of the period' praising pianist Bill Evans in particular, and Colin Larkin's Encyclopedia of Popular Music gives 5/5 (all via S1). Session gravity: the Farmer-Golson-Bill Evans-Addison Farmer-Dave Bailey quintet, cut at Nola Penthouse in September 1958 while Evans was between 'Everybody Digs Bill Evans' and 'Portrait in Jazz' — a direct bridge into musicians already load-bearing in this canon, and the DB already holds Meet the Jazztet (1960), making this the intentional Art Farmer-led contribution that completes the pairing's origin.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "scope_flag": "",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "Modern Art (Art Farmer album) — Wikipedia article (infobox, personnel, reception, authority control)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Modern_Art_(Art_Farmer_album)"
+    },
+    "S2": {
+      "title": "Modern Art — AllMusic album page (styles, recording dates/locations, review)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/modern-art-mw0000197770"
+    },
+    "S3": {
+      "title": "Art Farmer Discography — jazzdisco.org (Art Farmer Quintet session, Nola Penthouse Sound Studios, NYC, September 10, 11 and 14, 1958; United Artists UAL 4007/UAS 5007)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/art-farmer/discography/"
+    },
+    "S4": {
+      "title": "Modern Art — Discogs master (tracklist, credits: producer Jack Lewis, engineer Tommy Nola, liner notes Nat Hentoff, photography Alex Singer; UAL-4007)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/259199-Art-Farmer-Modern-Art"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group + Cover Art Archive (MBID 80f536f3-3c50-353a-9896-72f544c82416)",
+      "type": "identifiers",
+      "url": "https://musicbrainz.org/release-group/80f536f3-3c50-353a-9896-72f544c82416"
+    },
+    "S6": {
+      "title": "iTunes Search API — 'Modern Art' (collectionId 724645248, Art Farmer, 8 tracks)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Art+Farmer+Modern+Art&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-09-10",
+      "1958-09-11",
+      "1958-09-14"
+    ],
+    "multi_session": true,
+    "studio": "Nola Penthouse Sound Studios, NYC",
+    "recording_sites": [
+      {
+        "session_date": "1958-09-10",
+        "site_raw": "Nola Penthouse Sound Studios, NYC",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1958-09-11",
+        "site_raw": "Nola Penthouse Sound Studios, NYC",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1958-09-14",
+        "site_raw": "Nola Penthouse Sound Studios, NYC",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Jack Lewis",
+    "engineer": "Tommy Nola",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Art Farmer",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-09-10",
+          "1958-09-11",
+          "1958-09-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composed 'Mox Nix'."
+      },
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-09-10",
+          "1958-09-11",
+          "1958-09-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Fair Weather'."
+      },
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-09-10",
+          "1958-09-11",
+          "1958-09-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The Penguin Guide singled out his contributions in particular (S1)."
+      },
+      {
+        "name": "Addison Farmer",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-09-10",
+          "1958-09-11",
+          "1958-09-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Art Farmer's twin brother."
+      },
+      {
+        "name": "Dave Bailey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-09-10",
+          "1958-09-11",
+          "1958-09-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Mox Nix",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:39",
+        "session_date": null,
+        "composers": [
+          "Art Farmer"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Fair Weather",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:42",
+        "session_date": null,
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Darn That Dream",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:57",
+        "session_date": null,
+        "composers": [
+          "Eddie DeLange",
+          "Jimmy Van Heusen"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Touch of Your Lips",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:52",
+        "session_date": null,
+        "composers": [
+          "Ray Noble"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Jubilation",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:15",
+        "session_date": null,
+        "composers": [
+          "Junior Mance"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Like Someone in Love",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:55",
+        "session_date": null,
+        "composers": [
+          "Johnny Burke",
+          "Jimmy Van Heusen"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "I Love You",
+        "track_number": 7,
+        "side": "B",
+        "duration": "6:58",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Cold Breeze",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:53",
+        "session_date": null,
+        "composers": [
+          "Wade Legge"
+        ],
+        "personnel": [
+          "Art Farmer",
+          "Benny Golson",
+          "Bill Evans",
+          "Addison Farmer",
+          "Dave Bailey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "80f536f3-3c50-353a-9896-72f544c82416",
+    "apple_album_id": "724645248",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/b8d31e9a-2bbd-4658-9df9-fc42ccac15c4/1902193061.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "notes": "Approved CAA front image for the release group; the attached release is a US UAL-4007-era pressing per the Discogs version list (S4)."
+      }
+    ],
+    "notes": "Eight tracks recorded over three days — September 10, 11 and 14, 1958 — by a single five-man quintet at Nola Penthouse Sound Studios, NYC (S3 sessionography; S1 infobox 'September 10-11 & 14, 1958' at 'Nola's Penthouse, NYC'; S4 reissue notes 'Recorded at Nola's Penthouse, New York City on September 10, 11 and 14, 1958'). CONFLICT (dates): AllMusic lists only two recording dates, September 10 and September 14, 1958 (S2); the three-date roster is carried as obs from S1/S3/S4 and AllMusic's two-date claim is preserved here. CONFLICT (track 8 title): Wikipedia and Discogs print 'Cold Breeze' (Wade Legge) (S1/S4); the jazzdisco.org sessionography prints 'Cool Breeze' (S3) — 'Cold Breeze' retained as printed on the original release, per two sources, variant preserved here. Producer Jack Lewis per Wikipedia infobox and Discogs credits (S1/S4, obs). Engineer Tommy Nola per Discogs master credits (S4, obs) — consistent with his family's ownership of Nola Penthouse Sound Studios, but not independently corroborated elsewhere; no other consulted source names an engineer. Liner notes by Nat Hentoff, cover photography by Alex Singer (S4). AllMusic styles: Hard Bop, Jazz Instrument, Piano Jazz (S2); style_primary hard-bop. AllMusic titles the page 'Bill Evans / Art Farmer: Modern Art' and gives a 3.5/5 rating (S2 via S1); the album is an Art Farmer-led date and is filed under Art Farmer (S1, S3, S4). Person-level per-session presence is a single fixed quintet across all three days per the sessionography (S3), which lists one roster for all eight titles."
+  },
+  "ballot": {
+    "album": "Art Farmer — Modern Art (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Critical consensus is exceptional for a non-Blue Note hard-bop date on a second-tier label: DownBeat awarded it a maximum five stars on release, The Penguin Guide gave 4/4 crowns calling it 'one of Farmer's most successful records of the period,' and Larkin's Encyclopedia of Popular Music gave 5/5 — three independent critical traditions aligned at the top. Session gravity is real and load-bearing: the Farmer-Golson-Bill Evans-Addison Farmer-Dave Bailey quintet, recorded September 1958 at Nola Penthouse, captures the Farmer-Golson partnership's origin (AllMusic calls it 'the prelude recording for Art Farmer prior to his partnership in the Jazztet with Benny Golson') while placing Bill Evans between *Everybody Digs Bill Evans* and *Portrait in Jazz* — a transitional document of a canonical pianist just months before *Kind of Blue*. With *Meet the Jazztet* (1960) already in the canon, this is the intentional companion that completes the pairing's origin story.",
+    "case_against": "It is a prelude rather than a defining statement for any of its principals — Farmer's most load-bearing records are arguably the Jazztet dates proper, Evans' defining early work is about to be *Portrait in Jazz* and the Miles sextet, and Golson's defining record is more likely *Meet the Jazztet* itself, so *Modern Art* risks structural redundancy with the 1960 album already representing this partnership. AllMusic's comparatively tepid 3.5/5 — and its odd co-billing as 'Bill Evans / Art Farmer' — tempers the otherwise glowing consensus, suggesting modern retrospective ears may find it slightly less essential than the Penguin and DownBeat ratings imply.",
+    "disagreement": null,
+    "recommendation": "The council proposes John accept *Modern Art* as a consensus_core strong-priority entry — it completes the Farmer-Golson origin arc already anchored by *Meet the Jazztet* and adds a transitional Bill Evans session with unusually high cross-tradition critical consensus.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

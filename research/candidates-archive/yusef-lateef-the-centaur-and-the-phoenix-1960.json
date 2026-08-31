@@ -1,0 +1,659 @@
+{
+  "id": "yusef-lateef-the-centaur-and-the-phoenix-1960",
+  "artist": "Yusef Lateef",
+  "album": "The Centaur and the Phoenix",
+  "year": 1960,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "rationale": "The ambitious large-ensemble peak of Yusef Lateef's Riverside period: his largest group to date (a nine-piece with three brass, three reeds including bassoon, and three rhythm) playing an expanded book — his own compositions beside two ambitious pieces by classical composer Charles Mills and the first recorded writing (arrangement and the tune 'Revelation') by a then-teenaged Kenny Barron, predating Barron's debut as a player. DownBeat 4.5 stars (Don DeMicheal: 'The album is a mature statement by a mature artist'); AllMusic 4 stars (Proefrock: 'an album that bursts with new ideas and textures, while remaining accessible, and above all, beautiful'); cited in The Penguin Guide to Jazz Recordings. Session gravity is strong: Clark Terry, Curtis Fuller, Richard Williams, Tate Houston, and the then-unknown Joe Zawinul in the same room with Lateef's oboe, arghul and flute. Second Lateef contribution alongside Eastern Sounds (1961) — a different statement, not a duplicate: where Eastern Sounds is the intimate late-night classic, this is the orchestral/world-music experiment, and the direct predecessor that made Eastern Sounds possible.",
+  "priority": "consider",
+  "epistemic": "obs",
+  "include": null,
+  "scope_flag": "World-music-inflected hard bop on the modal seam — inside the 1940-1979 window and the hard-bop tradition, but the unusual instrumentation (oboe, bassoon, arghul, tambourine-adjacent percussion) and Charles Mills's classical-leaning pieces put it at the edge of the canon's center of gravity.",
+  "sources": {
+    "S1": {
+      "title": "JazzDisco — Yusef Lateef Catalog (sessionography)",
+      "type": "discography",
+      "url": "http://www.jazzdisco.org/yusef-lateef/catalog/#riverside-rlp-337"
+    },
+    "S2": {
+      "title": "Wikipedia — The Centaur and the Phoenix",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Centaur_and_the_Phoenix"
+    },
+    "S3": {
+      "title": "AllMusic — The Centaur and the Phoenix (album + credits, mw0000085902)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-centaur-and-the-phoenix-mw0000085902"
+    },
+    "S4": {
+      "title": "Concord (Riverside label group) — The Centaur And The Phoenix album page",
+      "type": "web",
+      "url": "https://concord.com/concord-albums/the-centaur-and-the-phoenix/"
+    },
+    "S5": {
+      "title": "Discogs — Yusef Lateef, The Centaur And The Phoenix (master 369960)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/369960-Yusef-Lateef-The-Centaur-And-The-Phoenix"
+    },
+    "S6": {
+      "title": "iTunes Search API — Yusef Lateef The Centaur And The Phoenix",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Yusef+Lateef+The+Centaur+and+the+Phoenix&entity=album"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group f9caae3a-3e14-30ce-ac95-ff93791b0148",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/f9caae3a-3e14-30ce-ac95-ff93791b0148/"
+    },
+    "S8": {
+      "title": "Wikipedia — Bell Sound Studios (address documentation for site_new)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Bell_Sound_Studios"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-10-04",
+      "1960-10-06",
+      "1961-06-23"
+    ],
+    "multi_session": true,
+    "studio": "Plaza Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1960-10-04",
+        "site_raw": "Plaza Sound Studios, NYC",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1960-10-06",
+        "site_raw": "Plaza Sound Studios, NYC",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1961-06-23",
+        "site_raw": "Bell Sound Studios, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Bell Sound Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "237 West 54th Street",
+          "lat": 40.76451,
+          "lon": -73.98301,
+          "location_epistemic": "obs",
+          "location_source": "Wikipedia article Bell Sound Studios (237 West 54th Street) | coords: OSM Nominatim: 237 West 54th Street, New York, New York, NY — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Ray Fowler",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Yusef Lateef",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06",
+          "1961-06-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Yusuf Lateef"
+        ],
+        "notes": "Leader. Also plays oboe, flute and argol (arghul) across the LP sessions (S1, S2, S3); flute on the two 1961 bonus tracks. Taxonomy gaps: oboe and argol are not in the instrument taxonomy. Composer of tracks 2, 5, 7."
+      },
+      {
+        "name": "Richard Williams",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Richard Gene Williams"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "JazzDisco lists Terry on trumpet with Williams; Wikipedia credits flugelhorn and trumpet — treated as doubling, preserved rather than resolved."
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Josea Taylor",
+        "instrument": "bassoon",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Taxonomy gap: bassoon is not in the instrument taxonomy."
+      },
+      {
+        "name": "Tate Houston",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Zawinul",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Then-unknown; Concord's page calls him out as such."
+      },
+      {
+        "name": "Ben Tucker",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Lex Humphries",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-04",
+          "1960-10-06",
+          "1961-06-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Only musician besides Lateef on both the 1960 LP sessions and the 1961 bonus-track session."
+      },
+      {
+        "name": "Barry Harris",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jungle Fantasy",
+          "Titora"
+        ],
+        "session_dates": [
+          "1961-06-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "CONFLICT: AllMusic and Concord fold Harris into the album's personnel, but the JazzDisco sessionography and the original LP rear cover (per contemporary-pressing examination) restrict him to the two June 23, 1961 bonus tracks, originally a 45-RPM single. Not on the original LP."
+      },
+      {
+        "name": "Ernie Farrow",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jungle Fantasy",
+          "Titora"
+        ],
+        "session_dates": [
+          "1961-06-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Same conflict as Barry Harris: bonus-track session only per JazzDisco; merged into album credits by AllMusic/Concord."
+      },
+      {
+        "name": "Garvin Masseaux",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jungle Fantasy",
+          "Titora"
+        ],
+        "session_dates": [
+          "1961-06-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Garvin Masseux"
+        ],
+        "notes": "Bonus-track session only. Spelling varies: Masseaux (Concord) / Masseux (JazzDisco)."
+      },
+      {
+        "name": "Roger Sanders",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jungle Fantasy",
+          "Titora"
+        ],
+        "session_dates": [
+          "1961-06-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Montego Joe"
+        ],
+        "notes": "JazzDisco identifies 'Roger Sanders' as Montego Joe working under that name. Bonus-track session only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Revelation",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:02",
+        "session_date": "1960-10-04",
+        "composers": [
+          "Kenny Barron"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Richard Williams",
+          "Clark Terry",
+          "Curtis Fuller",
+          "Josea Taylor",
+          "Tate Houston",
+          "Joe Zawinul",
+          "Ben Tucker",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Apathy",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:25",
+        "session_date": "1960-10-04",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Richard Williams",
+          "Clark Terry",
+          "Curtis Fuller",
+          "Josea Taylor",
+          "Tate Houston",
+          "Joe Zawinul",
+          "Ben Tucker",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ev'ry Day (I Fall in Love)",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:59",
+        "session_date": "1960-10-06",
+        "composers": [
+          "Sammy Fain",
+          "Irving Kahal"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Richard Williams",
+          "Clark Terry",
+          "Curtis Fuller",
+          "Josea Taylor",
+          "Tate Houston",
+          "Joe Zawinul",
+          "Ben Tucker",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Centaur and the Phoenix",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:37",
+        "session_date": "1960-10-06",
+        "composers": [
+          "Charles Mills"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Richard Williams",
+          "Clark Terry",
+          "Curtis Fuller",
+          "Josea Taylor",
+          "Tate Houston",
+          "Joe Zawinul",
+          "Ben Tucker",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Iqbal",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:51",
+        "session_date": "1960-10-06",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Richard Williams",
+          "Clark Terry",
+          "Curtis Fuller",
+          "Josea Taylor",
+          "Tate Houston",
+          "Joe Zawinul",
+          "Ben Tucker",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Summer Song",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:26",
+        "session_date": "1960-10-06",
+        "composers": [
+          "Charles Mills"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Richard Williams",
+          "Clark Terry",
+          "Curtis Fuller",
+          "Josea Taylor",
+          "Tate Houston",
+          "Joe Zawinul",
+          "Ben Tucker",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Philanthropist",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:02",
+        "session_date": "1960-10-06",
+        "composers": [
+          "Yusef Lateef"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Richard Williams",
+          "Clark Terry",
+          "Curtis Fuller",
+          "Josea Taylor",
+          "Tate Houston",
+          "Joe Zawinul",
+          "Ben Tucker",
+          "Lex Humphries"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Jungle Fantasy",
+        "track_number": 8,
+        "side": null,
+        "duration": "2:42",
+        "session_date": "1961-06-23",
+        "composers": [
+          "Esy Morales"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries",
+          "Garvin Masseaux",
+          "Roger Sanders"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Titora",
+        "track_number": 9,
+        "side": null,
+        "duration": "2:25",
+        "session_date": "1961-06-23",
+        "composers": [
+          "Billy Taylor"
+        ],
+        "personnel": [
+          "Yusef Lateef",
+          "Barry Harris",
+          "Ernie Farrow",
+          "Lex Humphries",
+          "Garvin Masseaux",
+          "Roger Sanders"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "f9caae3a-3e14-30ce-ac95-ff93791b0148",
+    "apple_album_id": "1538070770",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/c90e96c7-b6e4-498b-a80a-bb2c9af0c04b/42215150401.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover via Cover Art Archive release-group f9caae3a; matches the 1960 Riverside RLP 337 artwork shown on Discogs and AllMusic."
+      }
+    ],
+    "notes": "Three sessions. October 4 and 6, 1960, Plaza Sound Studios, NYC (original LP, Riverside RLP 337): full nine-piece — Lateef, Williams, Terry, Fuller, Taylor, Houston, Zawinul, Tucker, Humphries. June 23, 1961, Bell Sound Studios, NYC: quintet-plus-percussion date (Lateef, Harris, Farrow, Humphries, Masseaux, Sanders, plus unidentified background voices) whose two tracks were originally released only as a 45-RPM single and appear on the album as CD-era bonus tracks. Track-to-session split for the two October dates is an inference from LP side order and standard discographic practice; JazzDisco gives one roster for both dates without per-track assignment — hence track_assignments_complete: false. CONFLICTS PRESERVED: (1) Personnel — AllMusic and Concord merge the 1961 bonus-session musicians (Barry Harris, Ernie Farrow, Garvin Masseaux, Roger Sanders) into the album's credits; the JazzDisco sessionography and the original LP rear cover restrict them to the two bonus tracks. Both claims recorded; bonus-session players scoped to tracks 8-9. (2) Producer — Wikipedia infobox and AllMusic give Orrin Keepnews; AllMusic also credits John Levy (most plausibly the 45 single producer); Keepnews recorded as primary, Levy noted. (3) Engineer — Discogs and AllMusic list Ray Fowler; AllMusic also lists Bill Stoddard; per-session coverage undetermined, both recorded. (4) Release year — AllMusic dates the release 1961; Discogs, Wikipedia, Concord and iTunes give 1960 (Riverside RLP 337); 1960 retained. (5) Durations — Wikipedia/AllMusic CD timings used; Discogs LP timings run ~9-11 seconds shorter per track (e.g. Revelation 5:53, Apathy 5:20). (6) Clark Terry doubling — JazzDisco lists trumpet, Wikipedia flugelhorn and trumpet; treated as doubling, not resolved. Taxonomy gaps: oboe, argol (arghul), bassoon are not in the instrument taxonomy. Name pseudonym: 'Roger Sanders' = Montego Joe (JazzDisco). Kenny Barron appears as composer ('Revelation') and arranger ('Ev'ry Day') but not as a player. Ken Deardoff cover design, Lawrence Shustak photography, Chris Albertson liner notes (CD), Gary Hobish remastering (AllMusic). Second Yusef Lateef candidate — Eastern Sounds (1961) is already in the canon and this is a distinct album, not a duplicate."
+  },
+  "ballot": {
+    "album": "Yusef Lateef — The Centaur and the Phoenix (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "The session gravity is the strongest signal: a nine-piece Riverside date with Clark Terry, Curtis Fuller, Richard Williams, and Tate Houston — and, crucially, a then-unknown Joe Zawinul on piano alongside the first recorded writing and arranging by a teenaged Kenny Barron ('Revelation,' 'Ev'ry Day'). DownBeat's 4.5-star contemporary review (DeMicheal: 'a mature statement by a mature artist') and AllMusic's 4 stars (Proefrock: 'bursts with new ideas and textures, while remaining accessible, and above all, beautiful') mark it as a recognized statement of Lateef's large-ensemble/world-music-inflected hard-bop vision, distinct from the intimate Eastern Sounds and prior to it in the discography.",
+    "case_against": "The consensus claim is thinner than it first appears — the Penguin Guide is cited but no star rating or core-collection designation is quoted, and no NPR, JazzTimes, or DownBeat canon-list presence is surfaced, so the for-case rests on a single contemporary review plus standard AllMusic metadata. The discovery test cuts against it too: the Charles Mills classical-leaning pieces and the heterogeneous instrumentation (oboe, bassoon, arghul) make the album feel more like a fascinating transitional experiment than a unified, load-bearing canonical statement, and Eastern Sounds already occupies the Lateef slot a curious listener is sent to. The 1961 Bell Sound bonus session, with its own rhythm section (Harris, Farrow), is a packaging artifact rather than a coherent artistic whole — six unresolved conflicts in the dossier (personnel merge, producer, engineer, release year) confirm the record's boundaries are messier than the 'large-ensemble peak' framing admits.",
+    "disagreement": "Both references agree on the tier (contested) and priority (consider); the split is a genuine emphasis difference — Reference 1 leans harder on the thinness of the editorial consensus (Penguin Guide uncharacterized, no canon-list presence) as the leading against-case, while Reference 2 leads with the discovery test and the album's transitional, third-stream-adjacent feel. Both are real; the ballot preserves both.",
+    "recommendation": "The council proposes John hold this at contested/consider: the Zawinul-and-Barron lineage case is strong enough to keep alive, but the canonical weight is not yet clear enough to promote — listen to it against Eastern Sounds and decide whether the large-ensemble/world-music experiment earns a second Lateef slot or whether the personnel history alone justifies it.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "id": "randy-weston-uhuru-afrika-1960",
+  "artist": "Randy Weston",
+  "album": "Uhuru Afrika",
+  "year": 1960,
+  "label": "Roulette",
+  "style_primary": "modal-jazz",
+  "rationale": "The first large-scale Afro-American jazz salute to African independence — a four-movement suite (Uhuru Kwanza / African Lady / Bantu / Kucheza Blues) with lyrics and liner notes by Langston Hughes, arranged by Melba Liston, and banned by the South African government in 1964 (copies seized in Johannesburg and Cape Town alongside Lena Horne's Here's Lena Now!, after Max Roach's We Insist! Freedom Now Suite). Consensus: AllMusic 5 stars ('one of the finest (and earliest) combinations of African rhythms with advanced jazz... a 24-piece big band'); DownBeat 3.5 stars (Ira Gitler, Aug 31, 1961). Session gravity is enormous: a 24-piece band pulling Freddie Hubbard, Clark Terry, Benny Bailey, Slide Hampton, Julius Watkins, Gigi Gryce, Yusef Lateef, Sahib Shihab, Budd Johnson, Jerome Richardson, Cecil Payne, Kenny Burrell, Ron Carter, George Duvivier, Max Roach, Charlie Persip, Candido, Babatunde Olatunji and Armando Peraza into one room under Weston's piano and Liston's charts. Lineage: this is the record that fixed Weston's African identity project and points directly at his 1992 The Spirits of Our Ancestors; it is also the modal/African bridge between the 1960 civil-rights jazz moment (We Insist!) and later spiritual-jazz. Style tagged modal-jazz (Weston's long-form modal suite-writing); the 24-piece orchestration and African-percussion focus sit at the edge of the canon's big-band and spiritual-jazz boundaries.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Uhuru Afrika",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Uhuru_Afrika"
+    },
+    "S2": {
+      "title": "AllMusic — Uhuru Afrika (mw0000859787); review text also on the combined Uhuru Africa/Highlife page (mw0000317308)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/uhuru-afrika-mw0000859787"
+    },
+    "S3": {
+      "title": "JazzDiscography.com — Randy Weston catalog (Uhuru Afrika session, Roulette R-65001)",
+      "type": "discography",
+      "url": "http://www.jazzdisco.org/randy-weston/catalog/"
+    },
+    "S4": {
+      "title": "Randy Weston official site — Uhuru Afrika discography page incl. full 1960 Langston Hughes liner notes (primary source)",
+      "type": "primary",
+      "url": "http://www.randyweston.info/randy-weston-discography-pages/1960uhuruafrika.html"
+    },
+    "S5": {
+      "title": "Discogs — Randy Weston, Uhuru Afrika (Roulette R 65001 LP, 1961, matrix 3-30-61)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/15050151-Randy-Weston-Uhuru-Afrika"
+    },
+    "S6": {
+      "title": "MusicBrainz release group — Uhuru Afrika",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/6f269111-f5b3-46c4-ae26-7b4e79c9bb02"
+    },
+    "S7": {
+      "title": "Cover Art Archive — Uhuru Afrika (release-group 6f269111)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/6f269111-f5b3-46c4-ae26-7b4e79c9bb02"
+    },
+    "S8": {
+      "title": "Wikipedia — Bell Sound Studios (place documentation: 237 West 54th Street from 1957)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Bell_Sound_Studios"
+    },
+    "S9": {
+      "title": "iTunes Search API — Randy Weston Uhuru Afrika",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Randy+Weston+Uhuru+Afrika&entity=album"
+    }
+  },
+  "include": null,
+  "personnel_record": {
+    "recording_dates": [
+      "1960-11"
+    ],
+    "multi_session": true,
+    "studio": "Bell Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": null,
+        "site_raw": "Bell Sound Studios, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Bell Sound Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "237 West 54th Street",
+          "lat": 40.76451,
+          "lon": -73.98301,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Bell_Sound_Studios (moved to 237 West 54th Street in 1957; studio at this address through the 1960s) | coords: OSM Nominatim: 237 West 54th Street, New York, NY — geocoded from documented address via scripts/geocode-place.py"
+        },
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Teddy Reig",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Randy Weston",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of the Uhuru Afrika suite; also plays percussion (jaw bone of an ass) on 'Bantu' per liner notes"
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flugelhorn"
+      },
+      {
+        "name": "Benny Bailey",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Muted trumpet featured on 'African Lady' and 'Kucheza Blues' per liner notes"
+      },
+      {
+        "name": "Richard Williams",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Fresh off his Blue Note debut (Open Sesame, 1960)"
+      },
+      {
+        "name": "Slide Hampton",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Cleveland",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Quentin Jackson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Julius Watkins",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Featured soloist on 'Bantu' per liner notes; taxonomy instrument 'French horn'"
+      },
+      {
+        "name": "Gigi Gryce",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flute; alto solo on 'Kucheza Blues' per liner notes"
+      },
+      {
+        "name": "Yusef Lateef",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flute and oboe on this album (oboe: taxonomy gap — no oboe in taxonomy)"
+      },
+      {
+        "name": "Sahib Shihab",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays baritone saxophone; bottle-and-opener percussion on 'Bantu' per liner notes"
+      },
+      {
+        "name": "Budd Johnson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays clarinet; solo in 3/4 on 'Kucheza Blues' per liner notes"
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays piccolo (piccolo: taxonomy gap — no piccolo in taxonomy)"
+      },
+      {
+        "name": "Cecil Payne",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "JazzDisco and Discogs list Payne on baritone and alto sax; Wikipedia lists baritone only; featured baritone solo on 'African Lady' per liner notes"
+      },
+      {
+        "name": "Les Spann",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Les Spann, Jr.",
+          "Leslie Spann"
+        ],
+        "notes": "Also plays flute on 'African Lady' per liner notes; jazzdisco lists guitar first"
+      },
+      {
+        "name": "Kenny Burrell",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Duvivier",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays percussion; Wikipedia credits drums+percussion, jazzdisco 'drums'"
+      },
+      {
+        "name": "Charlie Persip",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays percussion (snare drum, brass drum, cymbals on 'Bantu' per liner notes)"
+      },
+      {
+        "name": "G. T. Hogan",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Wilbert Hogan",
+          "Wilbert G. T. Hoggan"
+        ],
+        "notes": "Liner notes print 'Wilbert G. T. Hoggan'; canonical form G. T. Hogan per Wikipedia/jazzdisco/Discogs"
+      },
+      {
+        "name": "Candido Camero",
+        "instrument": "congas",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Candido"
+        ],
+        "notes": "Opens 'Uhuru Kwanza' with the drum call per liner notes"
+      },
+      {
+        "name": "Babatunde Olatunji",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Michael Babatunde Olatunji"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Armando Peraza",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Source credits bongos; normalized to the staging taxonomy’s percussion category."
+      },
+      {
+        "name": "Martha Flowers",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Soprano vocal, featured on 'African Lady'"
+      },
+      {
+        "name": "Brock Peters",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Baritone vocal, featured on 'African Lady'; had earlier sung on Weston's Live at the Five Spot (1959)"
+      },
+      {
+        "name": "Tuntemeke Sanga",
+        "instrument": "voice",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Introduction: Uhuru Kwanza"
+        ],
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Narrator of Kiswahili text; represented as voice because the staging taxonomy has no narrator role."
+      },
+      {
+        "name": "Melba Liston",
+        "instrument": "arranger",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Arranger of the entire suite (Wikipedia personnel section and Discogs credit; liner notes describe her role). 'arranger' is a taxonomy gap — role credit, not an instrument"
+      },
+      {
+        "name": "Langston Hughes",
+        "instrument": "voice",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Introduction: Uhuru Kwanza"
+        ],
+        "session_dates": [
+          "1960-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Lyrics and liner notes; spoken introduction “Uhuru Kwanza” credited to Hughes. Represented as voice because staging stores performers, not lyricist roles."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Introduction: Uhuru Kwanza",
+        "track_number": 1,
+        "side": "A",
+        "duration": "2:38",
+        "session_date": "1960-11",
+        "composers": [
+          "Langston Hughes"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "First Movement: Uhuru Kwanza",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:52",
+        "session_date": "1960-11",
+        "composers": [
+          "Randy Weston"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "Second Movement: African Lady",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:35",
+        "session_date": "1960-11",
+        "composers": [
+          "Randy Weston",
+          "Langston Hughes"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "Third Movement: Bantu",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:02",
+        "session_date": "1960-11",
+        "composers": [
+          "Randy Weston"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "Fourth Movement: Kucheza Blues",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:52",
+        "session_date": "1960-11",
+        "composers": [
+          "Randy Weston"
+        ],
+        "personnel": [],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4",
+          "S5"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "6f269111-f5b3-46c4-ae26-7b4e79c9bb02",
+    "apple_album_id": null,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/697dba9d-ae86-433e-ba01-2de9c48669c2/16960656464.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front cover via CAA release-group 6f269111 (Arnold Meyers photo/design per Discogs credits); exact CAA release pressing unverified, so is_original_cover is inf rather than obs"
+      }
+    ],
+    "notes": "Recorded November 1960 at Bell Sound Studios, NYC; sources give month only, no exact day (Wikipedia 'November 1960'; JazzDisco 'Bell Sound Studios, NYC, November, 1960'; recording_dates carried as 1960-11 for that reason). Langston Hughes's liner notes describe 'the two recording sessions', so multi_session is true, but no source dates the two sessions individually — hence a single recording_sites entry with session_date null. Released on Roulette R 65001 (mono) / SR 65001 (stereo), end of April 1961 per Billboard (Wikipedia infobox); Wikipedia classifies it as a 1961 album, AllMusic and the artist site date it 1960 (recording year — dossier year 1960 follows the recording-date convention). CONFLICTS PRESERVED: (1) release year 1960 vs 1961 as above; (2) track durations differ between the Discogs original LP (2:38/5:52/8:35/8:02/7:52, used here) and Wikipedia (2:35/5:49/8:27/8:07/8:03); (3) track titles differ — Wikipedia 'Introduction: Uhuru Kwanza (Hughes)' vs Discogs 'Introduction / Uhuru Kwanza' vs liner notes treating Uhuru Kwanza as the first movement of the suite; JazzDisco splits 'Uhuru Kwanza Part 1 / Part 2' and AllMusic relabels '1st Movement: Introduction / 1st Movement: Uhuru Kwanza'; titles here follow the Discogs original LP with Wikipedia's movement names; (4) Cecil Payne alto-vs-baritone doubling (JazzDisco/Discogs list both, Wikipedia baritone only); (5) AllMusic shows only a bare 'Randy Weston Primary Artist' credits table — its personnel data adds nothing beyond Wikipedia/JazzDisco/liners, and its 5-star review text is on the combined Uhuru Africa/Highlife page; (6) iTunes has no original-album entry, only the combined 1990 Uhuru Africa/Highlife CD (collectionId 691973196) — apple_album_id left null rather than recording a combined-reissue match; (7) engineer not documented in any consulted source — explicit null, epistemic_production obs rests on the producer credit (Teddy Reig, Wikipedia + Discogs + artist site). Liner notes describe featured soloists per movement (Kucheza Blues recorded without a score) but give no complete per-track roster, so track personnel arrays are empty and track_assignments_complete is false. Percussion-performer taxonomy gaps: Candido/Olatunji/Peraza recorded under congas/percussion/bongos. Taxonomy gaps flagged in individual notes: oboe, piccolo, narrator, arranger, lyricist."
+  },
+  "ballot": {
+    "album": "Randy Weston — Uhuru Afrika (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The session gravity is genuinely staggering: a 24-piece ensemble pulling Freddie Hubbard, Clark Terry, Yusef Lateef, Max Roach, Ron Carter, Kenny Burrell, Candido, Babatunde Olatunji, and Armando Peraza into one room under Melba Liston's charts and Langston Hughes's lyrics — a configuration that essentially never reassembles. It is the defining statement that fixed Weston's Pan-African artistic identity and points directly at his 1992 *The Spirits of Our Ancestors*, and it is a load-bearing bridge between the 1960 civil-rights jazz moment (alongside *We Insist!*) and the Afrocentric spiritual-jazz that flourished later in the decade, a weight evidenced by its actual banning by the South African apartheid government in 1964.",
+    "case_against": "The consensus signal is thinner than the dossier's tone implies: AllMusic's 5-star review is one source, the original 1961 DownBeat review landed at 3.5 stars (respectable, not rapturous), and no Penguin Guide core-collection citation is present. The discovery test cuts both ways — a four-movement suite with spoken Kiswahili narration, operatic vocals, and large-ensemble writing is a heavy conceptual listen that may not land for a cold listener the way a swinging hard-bop date would. The 1960–61 modal/civil-rights slot is dense, and if *We Insist!* already anchors that moment, *Uhuru Afrika*'s marginal load-bearing role inside the canon's existing spine is arguable.",
+    "disagreement": "The references split on tier: one reads the consensus signal as thin enough to land in contested (no Penguin Guide, 3.5-star DownBeat, one AllMusic review), while the other reads session gravity and historical weight as overwhelming enough for consensus_core. Both agree on strong priority.",
+    "recommendation": "Include it as a contested strong — the Africanist-bridge and session-gravity case is real and the album is the anchor for that lane, but go in understanding it is a specialist-cohesion case, not a broad-consensus one.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

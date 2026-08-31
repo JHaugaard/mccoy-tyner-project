@@ -1,0 +1,307 @@
+{
+  "id": "charles-lloyd-dream-weaver-1966",
+  "artist": "Charles Lloyd",
+  "album": "Dream Weaver",
+  "year": 1966,
+  "label": "Atlantic",
+  "catalog_number": "SD 1459",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "modal-jazz",
+    "post-bop"
+  ],
+  "rationale": "The first recordings by the Charles Lloyd Quartet for Atlantic — Lloyd's debut on the label, made a few months before the Monterey set issued as Forest Flower (already in the canon). Where Forest Flower documents the band at its live peak, Dream Weaver is the studio founding statement of the Lloyd/Jarrett/McBee/DeJohnette quartet: two side-long multipart suites ('Autumn Sequence,' the title meditation/Dervish Dance pairing) plus the free-flowing 'Bird Flight,' a record AllMusic's Thom Jurek rates 4½ stars — 'a fully realized project by a band — a real band — in which each member has a unique part of the whole to contribute... There were no records like this one by new groups in 1966.' Session gravity is high: it captures Keith Jarrett and Jack DeJohnette at the front edge of their rise, with Cecil McBee. AllMusic styles it Crossover Jazz/Hard Bop; the canon already includes Forest Flower, and this is a deliberate second, distinct contribution — the studio, first-Atlantic side of the same band, not a duplicate.",
+  "priority": "consider",
+  "epistemic": "obs",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Dream Weaver (album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Dream_Weaver_(album)"
+    },
+    "S2": {
+      "title": "AllMusic — Dream Weaver (album + credits), MW ID verified via Wikipedia reference and page content",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/dream-weaver-mw0000224251"
+    },
+    "S3": {
+      "title": "Discogs — The Charles Lloyd Quartet, Dream Weaver (master 168858; US mono release r17789194, Atlantic 1459)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/168858-The-Charles-Lloyd-Quartet-Dream-Weaver"
+    },
+    "S4": {
+      "title": "MusicBrainz release group — Dream Weaver (The Charles Lloyd Quartet)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/4bef948d-be92-460a-ba10-76aeeb61e743"
+    },
+    "S5": {
+      "title": "Cover Art Archive — Dream Weaver (release-group 4bef948d; images from release dc05a07f, 1966 mono LP)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/4bef948d-be92-460a-ba10-76aeeb61e743/"
+    },
+    "S6": {
+      "title": "charleslloyd.com — official discography page for Dream Weaver (personnel, tracklist, Apple Music link)",
+      "type": "web",
+      "url": "https://charleslloyd.com/discography/dream-weaver/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1966-03-20"
+    ],
+    "multi_session": false,
+    "studio": null,
+    "recording_sites": [
+      {
+        "session_date": "1966-03-20",
+        "site_raw": null,
+        "site_slug": null,
+        "site_new": null,
+        "epistemic": "unk",
+        "source": null
+      }
+    ],
+    "producer": "Arif Mardin; George Avakian",
+    "engineer": "Phil Iehle",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Lloyd",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-03-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Leader; also plays flute (doubling). Composer of all material except the 'Autumn Leaves' section of Autumn Sequence (Kosma/Mercer/Prévert)."
+      },
+      {
+        "name": "Keith Jarrett",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-03-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic also tags 'Guest Artist'; Wikipedia, Discogs, and the artist's own site credit him as the quartet's pianist."
+      },
+      {
+        "name": "Cecil McBee",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-03-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jack DeJohnette",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-03-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [
+          "Jack Dejohnette"
+        ],
+        "notes": "AllMusic also tags 'Guest Artist'; all other sources credit him as the quartet's drummer."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Autumn Sequence: Autumn Prelude/Autumn Leaves/Autumn Echo",
+        "track_number": 1,
+        "side": "A",
+        "duration": "12:01",
+        "session_date": "1966-03-20",
+        "composers": [
+          "Charles Lloyd",
+          "Joseph Kosma",
+          "Johnny Mercer",
+          "Jacques Prévert"
+        ],
+        "personnel": [
+          "Charles Lloyd",
+          "Keith Jarrett",
+          "Cecil McBee",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "notes": "Discogs breaks the sequence into A1a Autumn Prelude (1:23), A1b Autumn Leaves (8:01, Kosma/Mercer/Prévert), A1c Autumn Echo (2:34); sub-part durations sum to 11:58 against Wikipedia's 12:01 for the whole."
+      },
+      {
+        "title": "Dream Weaver: Meditation/Dervish Dance",
+        "track_number": 2,
+        "side": "A",
+        "duration": "11:35",
+        "session_date": "1966-03-20",
+        "composers": [
+          "Charles Lloyd"
+        ],
+        "personnel": [
+          "Charles Lloyd",
+          "Keith Jarrett",
+          "Cecil McBee",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "notes": "Discogs: A2a Meditation (3:08), A2b Dervish Dance (8:24), summing to 11:32 against Wikipedia's 11:35."
+      },
+      {
+        "title": "Bird Flight",
+        "track_number": 3,
+        "side": "B",
+        "duration": "9:07",
+        "session_date": "1966-03-20",
+        "composers": [
+          "Charles Lloyd"
+        ],
+        "personnel": [
+          "Charles Lloyd",
+          "Keith Jarrett",
+          "Cecil McBee",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "notes": "Wikipedia and Discogs give 9:07; the artist-site tracklist prints 3:14 (page error) and its Spotify embed shows 9:09."
+      },
+      {
+        "title": "Love Ship",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:54",
+        "session_date": "1966-03-20",
+        "composers": [
+          "Charles Lloyd"
+        ],
+        "personnel": [
+          "Charles Lloyd",
+          "Keith Jarrett",
+          "Cecil McBee",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "notes": ""
+      },
+      {
+        "title": "Sombrero Sam",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:12",
+        "session_date": "1966-03-20",
+        "composers": [
+          "Charles Lloyd"
+        ],
+        "personnel": [
+          "Charles Lloyd",
+          "Keith Jarrett",
+          "Cecil McBee",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "notes": "AllMusic notes the 2002 Collectables CD pairs this album; charleslloyd.com gives 5:14 (rounding variant)."
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "4bef948d-be92-460a-ba10-76aeeb61e743",
+    "apple_album_id": "68184920",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/dc05a07f-db3c-4c4d-b465-8e8ba8b33bf1/26255351513.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "1966 mono LP front cover via CAA (release dc05a07f, Atlantic 587025 GB); cover design Marvin Israel, cover photography Chuck (Charles) Stewart (per Wikipedia and Discogs)."
+      }
+    ],
+    "notes": "Single session, March 20, 1966 (Wikipedia 'Recorded on March 20, 1966'; AllMusic prints the same date as its release date — treated as the recording date, matching Wikipedia's citation of Jurek's review). No source names the recording venue: Wikipedia, AllMusic, Discogs, MusicBrainz, and the artist's own discography page are all silent on where it was cut, so recording_sites carries an honest unk. Discogs' 'Lacquer Cut At — Atlantic Studios' on the US mono release is a mastering/lacquer credit, not a recording location, and is deliberately NOT used as a site claim. Producer conflict preserved: Wikipedia and Discogs credit Arif Mardin & George Avakian jointly (Discogs as 'Producer [Supervision]'); AllMusic's credits tab lists only George Avakian as Producer/Supervisor with liner notes. Engineer name conflict: AllMusic prints 'Phil Lehle,' Wikipedia and Discogs print 'Phil Iehle' — Iehle (2 sources) is recorded, Lehle noted as a variant. AllMusic also tags Jarrett and DeJohnette 'Guest Artist,' which contradicts every other source and the album's identity as the quartet's debut; treated as an AllMusic labeling quirk. All four musicians are credited on all five tracks by all personnel-bearing sources; sources do not break personnel per track beyond the ensemble credit, so track personnel is the ensemble assignment (track_assignments_complete true on that basis). Original catalog: Atlantic SD 1459 (stereo) / 1459 (mono), UK 587025 mono, 588025 stereo. Cover: Marvin Israel design, Chuck Stewart photography; George Avakian wrote the liner notes."
+  },
+  "ballot": {
+    "album": "Charles Lloyd — Dream Weaver (1966)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The session gravity is overwhelming: this is the studio founding document of the Lloyd/Jarrett/McBee/DeJohnette quartet, capturing Jarrett and DeJohnette at the front edge of their rise before Miles and ECM. Two side-long multipart suites ('Autumn Sequence,' 'Dream Weaver: Meditation/Dervish Dance') plus the free-flowing 'Bird Flight' constitute a compositional ambition distinct from the live Forest Flower already in the canon — the deliberate studio blueprint rather than the Monterey happening. AllMusic's Jurek rates it 4½ stars and calls it 'a fully realized project by a band — a real band' with 'no records like this one by new groups in 1966,' signaling genuine discovery value.",
+    "case_against": "The consensus signal is thin: the dossier's sourcing is largely discographic infrastructure plus one critical voice (AllMusic), with no Penguin Guide core-collection citation, no DownBeat poll placement, no NPR/JazzTimes retrospective essay. Forest Flower is universally cited as the defining statement of this exact quartet; Dream Weaver, while praised, appears far less frequently on independent canon lists. The real question is whether the studio prelude to the history-making live set earns its own pillar when the definitive, consensus-cited document of this personnel is already secured.",
+    "disagreement": "Both references agree on tier (contested) and on the core arguments, but split on priority: one leans strong on the strength of the lineage/session-gravity case, the other holds at consider, weighing the redundancy with Forest Flower more heavily against the thin independent consensus.",
+    "recommendation": "Propose as a contested strong-priority candidate: the lineage gravity is real enough to warrant inclusion, but John should rule on whether the studio blueprint earns a separate slot when the live defining statement of this exact band is already canon.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}
