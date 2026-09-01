@@ -1,0 +1,1195 @@
+{
+  "id": "miles-davis-porgy-and-bess-1958",
+  "artist": "Miles Davis",
+  "album": "Porgy and Bess",
+  "year": 1958,
+  "label": "Columbia",
+  "style_primary": "cool-jazz",
+  "rationale": "The third and widely-considered finest collaboration between Miles Davis and Gil Evans, recorded July 22 and 29 and August 4 and 18, 1958 at Columbia's 30th Street Studio and released March 1959 on Columbia (CL 1274/CS 8085). A full-orchestra reading of George Gershwin's opera Porgy and Bess with Evans's arrangements (plus one Evans original, 'Gone'), carrying Davis's modal approach into a large-ensemble setting — Davis told Nat Hentoff that for 'I Loves You, Porgy' Evans 'only wrote a scale for me. No chords.' Consensus is the strongest signal here: the Penguin Guide to Jazz (Cook 2002, p.376), AllMusic (Lindsay Planer review), Rolling Stone (2004, p.214-217), The Encyclopedia of Popular Music, and the New York Times (John S. Wilson, 1959) all rate it among Davis's and Evans's best work, and it sits in the same canon tier as Miles Ahead and Sketches of Spain, both already in the canon. It is also a defining statement of orchestral/cool jazz and third-stream, and a load-bearing link in the modal lineage that leads to Kind of Blue (1959), recorded months later with much of the same rhythm section (Paul Chambers, Jimmy Cobb). Session gravity is exceptional: the orchestra includes Gunther Schuller, Julius Watkins, and Willie Ruff on French horn, plus Cannonball Adderley, Paul Chambers, Philly Joe Jones, and Jimmy Cobb.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Porgy and Bess (Miles Davis album) — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Porgy_and_Bess_(Miles_Davis_album)"
+    },
+    "S2": {
+      "title": "Miles Davis Discography — jazzdisco.org (session authority: dates, studio, personnel per session)",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/miles-davis/discography/"
+    },
+    "S3": {
+      "title": "Porgy and Bess — AllMusic album page (styles, credits, recording date/location)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/porgy-and-bess-mw0000191712"
+    },
+    "S4": {
+      "title": "Porgy and Bess — MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/70f3e516-4e76-3dc5-a261-e6c5cd6d71a1"
+    },
+    "S5": {
+      "title": "Cover Art Archive — MusicBrainz release group 70f3e516-4e76-3dc5-a261-e6c5cd6d71a1",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/70f3e516-4e76-3dc5-a261-e6c5cd6d71a1"
+    },
+    "S6": {
+      "title": "iTunes Search API — Miles Davis Porgy and Bess album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Porgy+and+Bess&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-07-22",
+      "1958-07-29",
+      "1958-08-04",
+      "1958-08-18"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1958-07-22",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1958-07-29",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1958-08-04",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1958-08-18",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Cal Lampley",
+    "engineer": "Frank Laico",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader. Also plays flugelhorn (S1, S2)."
+      },
+      {
+        "name": "Gil Evans",
+        "instrument": "conductor",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Arranger, conductor; co-leader credit with Davis. Arranged all tracks; composed 'Gone' (S1, S3). AllMusic credits him Arranger, Composer, Conductor, Orchestra (S3)."
+      },
+      {
+        "name": "Ernie Royal",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bernie Glow",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Johnny Coles",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "John Coles"
+        ],
+        "notes": "jazzdisco lists 'John Coles' (S2)."
+      },
+      {
+        "name": "Louis Mucci",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dick Hixson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Dick Hixon"
+        ],
+        "notes": "jazzdisco spells 'Dick Hixon' (S2); Wikipedia 'Dick Hixson' (S1); AllMusic 'Dick Hixon' (S3)."
+      },
+      {
+        "name": "Frank Rehak",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Cleveland",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Bennett",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Joseph Bennett"
+        ],
+        "notes": "jazzdisco lists 'Joseph Bennett' (S2)."
+      },
+      {
+        "name": "Willie Ruff",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Julius Watkins",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Julius B. Watkins"
+        ],
+        "notes": "jazzdisco lists 'Julius B. Watkins' (S2)."
+      },
+      {
+        "name": "Gunther Schuller",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bill Barber",
+        "instrument": "tuba",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Billy Barber",
+          "John Barber"
+        ],
+        "notes": "jazzdisco and Wikipedia list 'Bill Barber'; AllMusic lists both 'Billy Barber' and 'John Barber' under tuba (S3)."
+      },
+      {
+        "name": "Phil Bodner",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bess, You Is My Woman Now",
+          "Gone",
+          "Gone, Gone, Gone",
+          "My Man's Gone Now",
+          "Fishermen, Strawberry and Devil Crab",
+          "It Ain't Necessarily So",
+          "Here Come de Honey Man"
+        ],
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Flute, alto flute, clarinet. Wikipedia assigns Bodner to tracks 1.2-5 and 2.2-7 (i.e. the July 22 and July 29 sessions); jazzdisco confirms Bodner on the July sessions and Jerome Richardson replacing him for the August sessions (S2). Track list used here follows the LP side/session mapping."
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Buzzard Song",
+          "Summertime",
+          "Oh Bess, Oh Where's My Bess",
+          "Prayer (Oh Doctor Jesus)",
+          "I Wants to Stay Here (I Loves You, Porgy)",
+          "There's a Boat That's Leaving Soon for New York"
+        ],
+        "session_dates": [
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Flute, alto flute, clarinet. Wikipedia assigns Richardson to tracks 1.1, 2.1, 2.7; jazzdisco notes 'Jerome Richardson, flute; replaces Bodner' for the August 4 session, with the August 18 session 'same personnel' (S2)."
+      },
+      {
+        "name": "Romeo Penque",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Flute, alto flute, clarinet (S1). Listed in jazzdisco personnel for the July 22 session and 'same personnel' for subsequent sessions (S2)."
+      },
+      {
+        "name": "Danny Bank",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Danny Banks"
+        ],
+        "notes": "Alto flute, bass flute, bass clarinet, baritone saxophone (S1, S3). jazzdisco lists 'Danny Banks, sax' (S2)."
+      },
+      {
+        "name": "Cannonball Adderley",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Julian Adderley"
+        ],
+        "notes": "jazzdisco lists 'Julian Adderly, sax' (S2); AllMusic credits 'Sax (Alto), Saxophone' (S3)."
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-22",
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Gone",
+          "Gone, Gone, Gone",
+          "My Man's Gone Now"
+        ],
+        "session_dates": [
+          "1958-07-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Drummer on the July 22 session only; Jimmy Cobb replaced him from the July 29 session (jazzdisco S2). Wikipedia's personnel note ('except tracks 1.2, 2.2, 2.10-11') is consistent in placing Jones on the first session; track-level split here follows the jazzdisco session date."
+      },
+      {
+        "name": "Jimmy Cobb",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bess, You Is My Woman Now",
+          "Summertime",
+          "Oh Bess, Oh Where's My Bess",
+          "Prayer (Oh Doctor Jesus)",
+          "Fishermen, Strawberry and Devil Crab",
+          "It Ain't Necessarily So",
+          "Here Come de Honey Man",
+          "I Wants to Stay Here (I Loves You, Porgy)",
+          "There's a Boat That's Leaving Soon for New York"
+        ],
+        "session_dates": [
+          "1958-07-29",
+          "1958-08-04",
+          "1958-08-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Replaced Philly Joe Jones from the July 29 session (jazzdisco S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Buzzard Song",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:07",
+        "session_date": "1958-08-04",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Jerome Richardson",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Bess, You Is My Woman Now",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:10",
+        "session_date": "1958-07-29",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Gone",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:37",
+        "session_date": "1958-07-22",
+        "composers": [
+          "Gil Evans"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Gone, Gone, Gone",
+        "track_number": 4,
+        "side": "A",
+        "duration": "2:03",
+        "session_date": "1958-07-22",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Summertime",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:17",
+        "session_date": "1958-08-18",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Jerome Richardson",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Oh Bess, Oh Where's My Bess",
+        "track_number": 6,
+        "side": "A",
+        "duration": "4:18",
+        "session_date": "1958-08-04",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Jerome Richardson",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Prayer (Oh Doctor Jesus)",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:39",
+        "session_date": "1958-08-04",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Jerome Richardson",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Fishermen, Strawberry and Devil Crab",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:06",
+        "session_date": "1958-07-29",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "My Man's Gone Now",
+        "track_number": 9,
+        "side": "B",
+        "duration": "6:14",
+        "session_date": "1958-07-22",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "It Ain't Necessarily So",
+        "track_number": 10,
+        "side": "B",
+        "duration": "4:23",
+        "session_date": "1958-07-29",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Here Come de Honey Man",
+        "track_number": 11,
+        "side": "B",
+        "duration": "1:18",
+        "session_date": "1958-07-29",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I Wants to Stay Here (I Loves You, Porgy)",
+        "track_number": 12,
+        "side": "B",
+        "duration": "3:39",
+        "session_date": "1958-08-18",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Jerome Richardson",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "There's a Boat That's Leaving Soon for New York",
+        "track_number": 13,
+        "side": "B",
+        "duration": "3:23",
+        "session_date": "1958-08-18",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Jerome Richardson",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I Loves You, Porgy (take 1, second version)",
+        "track_number": 14,
+        "side": null,
+        "duration": "4:14",
+        "session_date": "1958-08-18",
+        "composers": [
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Jerome Richardson",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Gone (take 4)",
+        "track_number": 15,
+        "side": null,
+        "duration": "3:40",
+        "session_date": "1958-07-22",
+        "composers": [
+          "Gil Evans"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Gil Evans",
+          "Ernie Royal",
+          "Bernie Glow",
+          "Johnny Coles",
+          "Louis Mucci",
+          "Dick Hixson",
+          "Frank Rehak",
+          "Jimmy Cleveland",
+          "Joe Bennett",
+          "Willie Ruff",
+          "Julius Watkins",
+          "Gunther Schuller",
+          "Bill Barber",
+          "Phil Bodner",
+          "Romeo Penque",
+          "Danny Bank",
+          "Cannonball Adderley",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "70f3e516-4e76-3dc5-a261-e6c5cd6d71a1",
+    "apple_album_id": "282213298",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/05081dcd-406c-4a24-a587-30ffbeb85e16/23204945110.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S5"
+        ],
+        "notes": "Front cover approved in Cover Art Archive for the Porgy and Bess release group (S5)."
+      }
+    ],
+    "notes": "Four sessions at Columbia 30th Street Studio, NYC: July 22 (Gone, Gone Gone Gone, My Man's Gone Now), July 29 (Bess You Is My Woman Now, Fishermen Strawberry and Devil Crab, It Ain't Necessarily So, Here Come de Honey Man), August 4 (Buzzard Song, Oh Bess Oh Where's My Bess, Prayer), August 18 (Summertime, I Wants to Stay Here, There's a Boat) (S2 session matrix numbers). Jimmy Cobb replaced Philly Joe Jones on drums from the July 29 session (S2). Jerome Richardson replaced Phil Bodner on flute from the August 4 session (S2). NOTE on session-date conflict: Wikipedia's per-track 'Recorded' column dates Summertime and There's a Boat to 8/4/58 (S1), while jazzdisco's CO-matrix evidence dates them 8/18/58 (S2); the dossier follows jazzdisco (session authority) and flags the conflict. Track durations follow the 1997 Legacy CD (CK 65141) reissue; original LP CL 1274 had 13 tracks, the CD adds the two bonus/alternate takes flagged above. Apple Music primary listing is the 15-track Legacy reissue (collectionId 282213298); a 13-track Mono Version (1225723234) also exists. AllMusic styles: Cool, Experimental Big Band, Third Stream, Trumpet Jazz (S3); Wikipedia genres: third stream, orchestral jazz, cool jazz (S1). style_primary 'cool-jazz'. Producer Cal Lampley (S1, S3); engineer Frank Laico (S1, S3). Cover design Teresa Alfieri; cover photography Roy DeCarava (S1)."
+  },
+  "ballot": {
+    "album": "Miles Davis — Porgy and Bess (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Recorded in 1958, this is fully within the canon's central post-bebop period and its cool-jazz, orchestral-jazz, and third-stream idiom raises no scope issue. It is a defining Davis–Gil Evans statement: Evans's full-orchestra reconception of Gershwin creates a distinctive large-ensemble jazz language, while Davis's account that Evans provided only a scale and no chords for \"I Loves You, Porgy\" makes its modal connection to Kind of Blue especially concrete. The dossier cites broad acclaim from Penguin, Rolling Stone, AllMusic, the Encyclopedia of Popular Music, and a contemporaneous New York Times review, and the personnel joins Davis, Evans, Cannonball Adderley, Chambers, Cobb, Philly Joe Jones, Schuller, Watkins, and Ruff in a session of unusual historical gravity.",
+    "case_against": "The dossier's strongest consensus claims are asserted rather than directly documented: its actual linked critical support is principally AllMusic, while the Penguin, Rolling Stone, Encyclopedia, and New York Times references lack source entries or URLs. Musically, this is a highly composed orchestral adaptation of Gershwin rather than a small-group improvising date, and—with the exception of Evans's \"Gone\"—not an original-composition program; a strict post-bebop canon could regard it as adjacent to the tradition's central working vocabulary. Since Miles Ahead and Sketches of Spain are already present, its marginal function also needs to be distinguished from their representation of the Davis–Evans partnership, though this is not an artist-concentration objection.",
+    "disagreement": "The references agree on scope, consensus_core tier, and must_have priority. Reference 1 treats incomplete documentation for the cited consensus authorities and overlap with the other Davis–Evans albums as the principal reservations; Reference 2 instead gives greatest weight to the album's orchestrated, Gershwin-adaptation format and relative distance from small-group post-bop practice.",
+    "recommendation": "The council proposes that John treat Porgy and Bess as a must-have consensus-core candidate, while asking that the Penguin, Rolling Stone, Encyclopedia, and New York Times consensus citations be directly sourced.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

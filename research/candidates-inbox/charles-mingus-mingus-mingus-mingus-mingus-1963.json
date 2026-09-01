@@ -1,0 +1,709 @@
+{
+  "id": "charles-mingus-mingus-mingus-mingus-mingus-1963",
+  "artist": "Charles Mingus",
+  "album": "Mingus Mingus Mingus Mingus Mingus",
+  "year": 1963,
+  "label": "Impulse!",
+  "style_primary": "post-bop",
+  "rationale": "Mingus's 1964 Impulse! album (recorded January 20 and September 20, 1963 at RCA Studios, NYC; released January 9, 1964, Impulse! A-54) — a large-ensemble statement in which Mingus and arranger Bob Hammer re-scored a retrospective of his own compositions in big-band form: 'II B.S.' from Haitian Fight Song, 'I X Love' from Duke's Choice, 'Celia' from East Coasting, 'Mood Indigo', 'Better Get Hit in Yo' Soul' and 'Theme for Lester Young' (Goodbye Pork Pie Hat) from Mingus Ah Um, 'Hora Decubitus' from E's Flat Ah's Flat Too, and 'Freedom'. Consensus is strong: AllMusic rates it five stars, the Penguin Guide to Jazz Recordings 3.5 stars, and the Rolling Stone Jazz Record Guide four stars. It is a defining statement of Mingus's orchestral/post-bop voice — the apex of his early-1960s Impulse! run beside The Black Saint and the Sinner Lady (already in the canon), and a load-bearing link in the lineage of extended-form, through-composed jazz. Session gravity is exceptional: the September 20 band includes Eric Dolphy, Booker Ervin, Jaki Byard, Richard Williams, Britt Woodman, and Walter Perkins; the January 20 band includes Rolf Ericson, Charlie Mariano, Jay Berliner, and Dannie Richmond. AllMusic styles it Post-Bop and Progressive Jazz.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Mingus Mingus Mingus Mingus Mingus — Wikipedia",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Mingus_Mingus_Mingus_Mingus_Mingus"
+    },
+    "S2": {
+      "title": "Charles Mingus Discography — jazzdisco.org (session authority: dates, studio, personnel per session)",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/charles-mingus/discography/"
+    },
+    "S3": {
+      "title": "Mingus Mingus Mingus Mingus Mingus — AllMusic album page (styles, credits, recording date/location)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/mingus-mingus-mingus-mingus-mingus-mw0000653088"
+    },
+    "S4": {
+      "title": "Mingus Mingus Mingus Mingus Mingus — MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/48848da6-67a2-3e36-bb11-3e9fa18c1d9b"
+    },
+    "S5": {
+      "title": "Cover Art Archive — MusicBrainz release group 48848da6-67a2-3e36-bb11-3e9fa18c1d9b",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/48848da6-67a2-3e36-bb11-3e9fa18c1d9b"
+    },
+    "S6": {
+      "title": "iTunes Search API — Charles Mingus Mingus Mingus Mingus Mingus album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Charles+Mingus+Mingus+Mingus+Mingus+Mingus&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-01-20",
+      "1963-09-20"
+    ],
+    "multi_session": true,
+    "studio": "RCA Studios, NYC",
+    "recording_sites": [
+      {
+        "session_date": "1963-01-20",
+        "site_raw": "RCA Studios, NYC",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1963-09-20",
+        "site_raw": "RCA Studios, NYC",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Bob Simpson",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20",
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader, composer. Also plays piano (both sessions, S1, S2) and narrates on 'Freedom' (S1, S2)."
+      },
+      {
+        "name": "Bob Hammer",
+        "instrument": "arranger",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20",
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Arranger and orchestrator for the large ensemble (S1, S3). Not a performing musician; retained as a production credit."
+      },
+      {
+        "name": "Richard Williams",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20",
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Richard Gene Williams"
+        ],
+        "notes": "Present on both sessions (S1, S2). AllMusic lists both 'Richard Gene Williams' and 'Richard Williams' under trumpet (S3)."
+      },
+      {
+        "name": "Rolf Ericson",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I X Love",
+          "Celia"
+        ],
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "January 20 session only (S1, S2)."
+      },
+      {
+        "name": "Eddie Preston",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "II B.S.",
+          "Mood Indigo",
+          "Better Get Hit in Yo' Soul",
+          "Theme for Lester Young",
+          "Hora Decubitus",
+          "Freedom"
+        ],
+        "session_dates": [
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "September 20 session only (S1, S2)."
+      },
+      {
+        "name": "Quentin Jackson",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I X Love",
+          "Celia"
+        ],
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "January 20 session only (S1, S2)."
+      },
+      {
+        "name": "Britt Woodman",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "II B.S.",
+          "Mood Indigo",
+          "Better Get Hit in Yo' Soul",
+          "Theme for Lester Young",
+          "Hora Decubitus",
+          "Freedom"
+        ],
+        "session_dates": [
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "September 20 session only (S1, S2)."
+      },
+      {
+        "name": "Don Butterfield",
+        "instrument": "tuba",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20",
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Present on both sessions (S1, S2). AllMusic also credits bass trombone and trombone (S3)."
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20",
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Soprano and baritone saxophone, flute (S1, S2). Also on Porgy and Bess for Miles Davis the same year."
+      },
+      {
+        "name": "Charlie Mariano",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I X Love",
+          "Celia"
+        ],
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Charles Mariano"
+        ],
+        "notes": "January 20 session only (S1, S2). AllMusic lists both 'Charles Mariano' and 'Charlie Mariano' (S3)."
+      },
+      {
+        "name": "Dick Hafer",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20",
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also clarinet, flute; oboe on the January session (S1, S3)."
+      },
+      {
+        "name": "Booker Ervin",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "II B.S.",
+          "Mood Indigo",
+          "Better Get Hit in Yo' Soul",
+          "Theme for Lester Young",
+          "Hora Decubitus",
+          "Freedom"
+        ],
+        "session_dates": [
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "September 20 session only (S1, S2)."
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "II B.S.",
+          "Mood Indigo",
+          "Better Get Hit in Yo' Soul",
+          "Theme for Lester Young",
+          "Hora Decubitus",
+          "Freedom"
+        ],
+        "session_dates": [
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "September 20 session only. Also flute and bass clarinet (S1, S2)."
+      },
+      {
+        "name": "Jaki Byard",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-20",
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Jackie Byard"
+        ],
+        "notes": "Present on both sessions (S1, S2). jazzdisco spells 'Jackie Byard' (S2)."
+      },
+      {
+        "name": "Jay Berliner",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I X Love",
+          "Celia"
+        ],
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "January 20 session only (S1, S2)."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I X Love",
+          "Celia"
+        ],
+        "session_dates": [
+          "1963-01-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "January 20 session only (S1, S2)."
+      },
+      {
+        "name": "Walter Perkins",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "II B.S.",
+          "Mood Indigo",
+          "Better Get Hit in Yo' Soul",
+          "Theme for Lester Young",
+          "Hora Decubitus",
+          "Freedom"
+        ],
+        "session_dates": [
+          "1963-09-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "September 20 session only (S1, S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "II B.S.",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:46",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Eddie Preston",
+          "Britt Woodman",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Dick Hafer",
+          "Booker Ervin",
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Walter Perkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I X Love",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:38",
+        "session_date": "1963-01-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Rolf Ericson",
+          "Quentin Jackson",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Charlie Mariano",
+          "Dick Hafer",
+          "Jaki Byard",
+          "Jay Berliner",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Celia",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:12",
+        "session_date": "1963-01-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Rolf Ericson",
+          "Quentin Jackson",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Charlie Mariano",
+          "Dick Hafer",
+          "Jaki Byard",
+          "Jay Berliner",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Mood Indigo",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:43",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Duke Ellington",
+          "Barney Bigard"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Eddie Preston",
+          "Britt Woodman",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Dick Hafer",
+          "Booker Ervin",
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Walter Perkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Better Get Hit in Yo' Soul",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:28",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Eddie Preston",
+          "Britt Woodman",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Dick Hafer",
+          "Booker Ervin",
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Walter Perkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Theme for Lester Young",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:50",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Eddie Preston",
+          "Britt Woodman",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Dick Hafer",
+          "Booker Ervin",
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Walter Perkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Hora Decubitus",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:41",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Eddie Preston",
+          "Britt Woodman",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Dick Hafer",
+          "Booker Ervin",
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Walter Perkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Freedom",
+        "track_number": 8,
+        "side": "B",
+        "duration": "5:10",
+        "session_date": "1963-09-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Richard Williams",
+          "Eddie Preston",
+          "Britt Woodman",
+          "Don Butterfield",
+          "Jerome Richardson",
+          "Dick Hafer",
+          "Booker Ervin",
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Walter Perkins"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "48848da6-67a2-3e36-bb11-3e9fa18c1d9b",
+    "apple_album_id": "1444104538",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S4",
+          "S5"
+        ],
+        "notes": "Front cover approved in Cover Art Archive for the Mingus Mingus Mingus Mingus Mingus release group (S5)."
+      }
+    ],
+    "notes": "Two sessions at RCA Studios, NYC: January 20, 1963 (I X Love, Celia) and September 20, 1963 (II B.S., Mood Indigo, Better Get Hit in Yo' Soul, Theme for Lester Young, Hora Decubitus, Freedom) per jazzdisco session matrix numbers (S2). AllMusic and Wikipedia confirm the two dates; jazzdisco is the session authority naming RCA Studios NYC (S2). Released January 9, 1964 on Impulse! A-54 (S1). The original LP carried 7 tracks; 'Freedom' (recorded in the same September session) is a bonus track added on the 1995 CD reissue (IMPD-170), flagged above (S1, S2). Track durations follow the 1995 CD reissue (S1); the Apple Music listing is the 8-track 1995 GRP/Impulse reissue (collectionId 1444104538). Producer Bob Thiele (S1, S3); engineer Bob Simpson (S1, S3); arranger/orchestrator Bob Hammer (S1, S3); reissue producer Michael Cuscuna (S3); remastering Erick Labson (S3). Liner notes by Nat Hentoff (S3). Most titles are re-arrangements of earlier Mingus compositions under different titles (S1). AllMusic styles: Post-Bop, Progressive Jazz (S3); Wikipedia genre: Jazz (S1). style_primary 'post-bop'. The January session also produced material later issued on The Black Saint and the Sinner Lady (S2 session 630120)."
+  },
+  "ballot": {
+    "album": "Charles Mingus — Mingus Mingus Mingus Mingus Mingus (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Recorded in 1963, this is squarely within the canon's post-bop center: a large-ensemble Mingus statement that recasts core compositions through Bob Hammer's orchestrations. Its critical support is substantial in the dossier—AllMusic awards five stars, while the Penguin Guide and Rolling Stone Jazz Record Guide rate it strongly—and the September session's Dolphy, Booker Ervin, Jaki Byard, Britt Woodman, and Walter Perkins lineup gives it exceptional session gravity (S1–S3). Alongside The Black Saint and the Sinner Lady, it documents Mingus's 1963 orchestral ambition in a more direct, swinging, highly accessible form.",
+    "case_against": "Its strongest limitation is that it is a retrospective reorchestration project rather than a wholly new compositional departure: much of its material revisits earlier Mingus works, whereas The Black Saint and the Sinner Lady is the more unified and formally radical 1963 statement. The LP also combines two sessions eight months apart with different ensembles, making it less cohesive as an album-length conception; moreover, \"Freedom\" belongs to the 1995 CD expansion rather than the original seven-track LP. The dossier's three substantive sources adequately establish dates, personnel, and overview, but its unexplained track_assignments_complete:false flag is a minor hygiene issue.",
+    "disagreement": "Both references judged it consensus_core and found no scope issue, but they split on priority: one treats the record as must_have because the canon would be lopsided with Black Saint but without its major orchestral counterpart, while the other rates it strong because its retrospective construction makes it less indispensable than Mingus Ah Um or Black Saint.",
+    "recommendation": "The council proposes that John treat it as a consensus-core Mingus orchestral record with strong priority, while considering whether its distinct big-band recasting role warrants elevating it to must-have.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}
