@@ -292,7 +292,7 @@ for (const p of places) {
 // holds at 100 albums or 1000, and none of it hard-codes a count.
 const peopleIds = new Set(Object.keys(graph.people));
 const seenPerson = new Set();
-let prevKey = null;
+let prevPerson = null;
 for (const pr of activity.people) {
   if (!pr.personId || !pr.name) fail(`activity person ${pr.personId || '?'} missing id/name`);
   if (seenPerson.has(pr.personId)) fail(`duplicate activity personId ${pr.personId}`);
@@ -321,9 +321,11 @@ for (const pr of activity.people) {
   if (pr.last !== sorted[sorted.length - 1]) fail(`activity ${pr.personId} last != max(dates)`);
   const years = new Set(dates.map(d => d.slice(0, 4)));
   if (pr.yearsActive !== years.size) fail(`activity ${pr.personId} yearsActive != distinct years`);
-  const key = pr.first + '|' + pr.personId;
-  if (prevKey !== null && key < prevKey) fail(`activity people not sorted at ${pr.personId}`);
-  prevKey = key;
+  if (prevPerson !== null &&
+      (pr.first < prevPerson.first ||
+       (pr.first === prevPerson.first && pr.personId < prevPerson.id)))
+    fail(`activity people not sorted at ${pr.personId}`);
+  prevPerson = { first: pr.first, id: pr.personId };
 }
 // D5: excluded people are exactly those the graph knows but the lanes omit —
 // so the page's own footnote is checkable against the other contract file
