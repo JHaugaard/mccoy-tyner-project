@@ -10,3 +10,6 @@ One line per culled candidate: album — reason. Specialists read this to calibr
   dispatch rounds of 15-per-specialist) accepted at the B3 gate. John chose accept-all
   (loose-on-membership per the runbook bias) — canon now stands at 105. Pruning, if any,
   happens on later review; nothing rejected here, so no calibration signal for the specialists yet.
+
+## 2026-09-04 — Steady drip
+- Charlie Haden — *Liberation Music Orchestra* (1969): "NO keep it available, but not in the queue. Maybe another day."
