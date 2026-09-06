@@ -1,0 +1,334 @@
+{
+  "id": "bud-powell-the-amazing-bud-powell-vol-2-1954",
+  "artist": "Bud Powell",
+  "album": "The Amazing Bud Powell, Vol. 2",
+  "year": 1954,
+  "label": "Blue Note",
+  "catalog_number": "BLP 5041",
+  "style_primary": "hard-bop",
+  "rationale": "The original 1954 ten-inch Blue Note LP documents Bud Powell with George Duvivier and Art Taylor at WOR Studios on August 14, 1953 [S1, S7]. The Penguin Guide named it to its core collection, the Rolling Stone Jazz Record Guide rated it five stars [S1], and NPR's Basic Jazz Record Library calls Volumes I and II essential music [S8]. Powell's bebop language is foundational to the post-bebop piano tradition, making this an explicit transition-era scope case rather than an unexamined hard-bop classification.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — The Amazing Bud Powell, Vol. 2",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Amazing_Bud_Powell,_Vol._2"
+    },
+    "S2": {
+      "title": "AllMusic — The Amazing Bud Powell, Vol. 2",
+      "type": "music_db",
+      "url": "https://www.allmusic.com/album/the-amazing-bud-powell-vol-2-mw0000009820"
+    },
+    "S3": {
+      "title": "Discogs Master — The Amazing Bud Powell Vol. 2",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/283505-Bud-Powell-The-Amazing-Bud-Powell-Volume-2"
+    },
+    "S4": {
+      "title": "MusicBrainz — The Amazing Bud Powell, Volume 2",
+      "type": "music_db",
+      "url": "https://musicbrainz.org/release-group/81ae2190-bac5-4b64-98ca-22647f9e7a5c"
+    },
+    "S5": {
+      "title": "Cover Art Archive — Bud Powell Vol. 2",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/81ae2190-bac5-4b64-98ca-22647f9e7a5c"
+    },
+    "S6": {
+      "title": "iTunes Search API",
+      "type": "streaming",
+      "url": "https://itunes.apple.com/search?term=The+Amazing+Bud+Powell+Vol.+2&entity=album"
+    },
+    "S7": {
+      "title": "JazzDisco — Bud Powell Catalog",
+      "type": "sessionography",
+      "url": "http://www.jazzdisco.org/bud-powell/catalog/"
+    },
+    "S8": {
+      "title": "NPR Basic Jazz Record Library — The Amazing Bud Powell, Vol. 1 & Vol. 2",
+      "type": "canonical_reference",
+      "url": "https://www.npr.org/templates/story/story.php?storyId=4184671"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1953-08-14"
+    ],
+    "multi_session": false,
+    "studio": "WOR Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1953-08-14",
+        "site_raw": "WOR Studios, New York City",
+        "site_slug": "wor-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Doug Hawkins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bud Powell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Earl Rudolph Powell"
+        ],
+        "notes": "All compositions by Bud Powell except where noted"
+      },
+      {
+        "name": "George Duvivier",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Arthur Taylor"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Autumn in New York",
+        "track_number": 1,
+        "side": "A",
+        "duration": "2:54",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Vernon Duke"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Reets and I",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:22",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Benny Harris"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sure Thing",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:39",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Collard Greens and Black-Eye Peas",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:04",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Oscar Pettiford"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Polka Dots and Moonbeams",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:04",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Jimmy Van Heusen",
+          "Johnny Burke"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Want to Be Happy",
+        "track_number": 6,
+        "side": "B",
+        "duration": "2:53",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Vincent Youmans",
+          "Irving Caesar"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Audrey",
+        "track_number": 7,
+        "side": "B",
+        "duration": "2:58",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Glass Enclosure",
+        "track_number": 8,
+        "side": "B",
+        "duration": "2:25",
+        "session_date": "1953-08-14",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "George Duvivier",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "81ae2190-bac5-4b64-98ca-22647f9e7a5c",
+    "apple_album_id": 1754457296,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/51781b81-7108-4d31-ab86-d945679c4de5/3542558835.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session August 14, 1953 at WOR Studios, New York City. Cover design: John Hermansader. Photography: Francis Wolff. Liner notes: Leonard Feather. The 10-inch original LP (Blue Note BLP 5041) contains 8 tracks. Later RVG CD editions add alternate takes and the 1951 session tracks."
+  },
+  "ballot": {
+    "album": "Bud Powell — The Amazing Bud Powell, Vol. 2 (1954)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Year passes cleanly (recorded 1953-08-14, released 1954). The operative boundary is the pure-bebop / post-bebop line: the rubric excludes dates 'whose organizing idiom is bebop itself' even inside the window, yet names 'the pianists bridging Powell to the 1950s' as transition material — with Powell himself as the bridge's origin. A 1953 bebop-piano trio (dossier-labeled hard-bop) sits exactly on that line; John rules."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Consensus is unusually broad for a trio date: Penguin Guide core collection, a five-star Rolling Stone Jazz Record Guide rating, and NPR's Basic Jazz Record Library naming Vols. I & II essential [S1, S8] — three independent listing traditions concurring. 'Glass Enclosure' is the load-bearing piece: through-composed and formally anomalous, both references treat it as a defining Powell original that presaged the structural ambitions of post-bop composers (Mingus, Cecil Taylor). Lineage runs through everything — Powell is the structural ancestor of the Evans/Hancock/Corea/Jarrett piano line the canon is built on, and the Duvivier–Art Taylor rhythm section points from 52nd Street velocity toward the swinging trio grammar of Blue Note hard bop. It still plays: fleet on 'Reets and I,' deeply voiced on 'Polka Dots and Moonbeams.'",
+    "case_against": "The binding constraint is the pure-bebop gate, not quality: a 1953 piano trio playing bebop heads, standards, and Powell originals is the textbook 'organizing idiom is bebop itself' case, and the dossier's transition framing is asserted rather than argued — by 1953 Powell was mature (leading dates since 1947), the source of the bridge rather than the crossing. The Vol. 1 vs. Vol. 2 selection is unresolved: Vol. 1 holds 'Un Poco Loco,' the more often-cited defining statement, and canonical listings tend to praise the composite CD editions rather than the eight-track BLP 5041 as an isolated entity. Session gravity is thin (a working trio, no horns, no cross-scene aggregation), and the critical sourcing is soft — the Penguin claim is carried only via Wikipedia [S1], with most of the eight sources being catalog aggregators rather than critical apparatus.",
+    "disagreement": "Both references converged on scope_call/strong, but they lean opposite ways on which side of the boundary the record falls: Reference 1 holds the 1953 date is mature bebop with a thin transition case, likely on the excluded side; Reference 2 reads the Duvivier/Taylor section and 'Glass Enclosure' as forward-edge evidence of bebop solidifying into post-bebop trio grammar. They also split on session gravity — Reference 1 calls it modest and not a rubric-gravity date; Reference 2 credits it as a formative rhythm-section configuration.",
+    "recommendation": "John should rule the pure-bebop boundary question for Powell's Blue Note trio dates before this ballot resolves — if he admits them as transition material, take Vol. 2 at strong priority, but only after the Vol. 1 vs. Vol. 2 selection is argued explicitly rather than defaulted.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}
