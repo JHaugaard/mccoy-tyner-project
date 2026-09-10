@@ -34,8 +34,11 @@ Differences from ingest.py (see team-lead brief for the full contract):
     what the album IS, as opposed to what the council ARGUED (migrate-4a,
     John's decision 2026-07-26). Before 4a the ballot path wrote case_for
     into inclusion_rationale, which made the column mean two different
-    things depending on which era a row came from. A ballot can arrive
-    two ways: a top-level "ballot": {tier,priority,case_for,case_against}
+    things depending on which era a row came from. A ballot carrying a
+    `_council` block must show at least MIN_COUNCIL_REFERENCES
+    references_answered or staging REFUSES before the DB is touched — a
+    one-voice council ballot is degraded output, not a verdict. A ballot
+    can arrive two ways: a top-level "ballot": {tier,priority,case_for,case_against}
     key embedded directly in the record, or a separate --ballot file
     (looked up by album id — see load_ballot_entry). The inline key
     always wins when both are present. --ballot-inline is a pure
@@ -369,6 +372,36 @@ def load_rubric_window():
 
 # ── Ballot resolution ─────────────────────────────────────────────────────────
 
+# A canon-council ballot carries `_council.references_answered`. The council
+# tolerates a single live reference — it prints COUNCIL DEGRADED and synthesizes
+# anyway — but a one-voice ballot is not the two-family disagreement the council
+# exists to produce, and the recovery lane retries exactly the nights when the
+# OpenRouter aggregator was already flaky. Refuse it here, deterministically,
+# rather than trusting the drip agent to notice. Ballots without a `_council`
+# block (jazz-canon-orchestrator output) are not council ballots and pass through.
+MIN_COUNCIL_REFERENCES = 2
+
+
+def council_reference_shortfall(ballot_entry):
+    """Return a refusal reason for a degraded council ballot, else None."""
+    if not isinstance(ballot_entry, dict):
+        return None
+    council = ballot_entry.get("_council")
+    if not isinstance(council, dict):
+        return None  # not a council ballot (orchestrator output) — not ours to judge
+    # From here the ballot claims to be a council ballot, so the count must be
+    # there and must be trustworthy. A missing or non-integer count is
+    # unverifiable, and unverifiable fails closed.
+    answered = council.get("references_answered")
+    if not isinstance(answered, int) or isinstance(answered, bool):
+        return (f"council ballot carries no usable references_answered "
+                f"({answered!r})")
+    if answered < MIN_COUNCIL_REFERENCES:
+        return (f"council ballot answered by {answered} reference(s); "
+                f"{MIN_COUNCIL_REFERENCES} required")
+    return None
+
+
 def load_ballot_entry(ballot_path, album_id):
     """A ballot (jazz-canon-orchestrator output) may be a flat {tier,
     priority, case_for} object, a dict keyed by album id, {"albums":
@@ -496,6 +529,12 @@ def main():
         ballot_entry = load_ballot_entry(args.ballot, aid)
         if ballot_entry is None:
             warnings.append(f"--ballot given but no entry found for {aid!r} — falling back to record's own fields")
+
+    shortfall = council_reference_shortfall(ballot_entry)
+    if shortfall:
+        print(f"✗ REFUSED — {shortfall}. Re-run the council; do not stage a "
+              f"degraded ballot.", file=sys.stderr)
+        sys.exit(1)
 
     load_env()
     db_url = os.environ.get("JAZZCANON_APP_DB_URL")
