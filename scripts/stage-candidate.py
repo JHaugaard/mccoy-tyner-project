@@ -184,6 +184,9 @@ STYLES = {
     "loft-jazz":          ("Loft Jazz",          "New York loft-era scene of the 1970s, free playing outside the club circuit"),
     "aacm":               ("AACM",               "Association for the Advancement of Creative Musicians and its lineage"),
     "ecm":                ("ECM",                "ECM Records label tag — never a primary style"),
+    # Canon window opened to 1945–1985 and bebop admitted as a primary style
+    # (John, group chat 2026-09-24; commits e7533ad, 479a2e7).
+    "bebop":              ("Bebop",              "The founding modern-jazz idiom — breakneck tempos, angular lines, small-group virtuosity"),
 }
 
 # Label tags that describe an imprint, not a musical style: valid in `style_tags`,
