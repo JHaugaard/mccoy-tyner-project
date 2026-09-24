@@ -9,10 +9,10 @@
 > of where an album was made; `"studio"` stays as a derived convenience. See
 > **Recording sites** below. This closes `docs/follow-ups.md` #7.
 
-This document defines the personnel/session/track data that the **style specialists**
-(`jazz-hard-bop-researcher`, `jazz-cool-jazz-researcher`, `jazz-modal-jazz-researcher`) gather in their
+This document defines the personnel/session/track data that `jazz-style-researcher`
+(dispatched per style: `bebop`, `cool-jazz`, `hard-bop`, `modal-jazz`, `free-jazz`, `fusion`, `ecm`) gathers in its
 one-pass run, and that the dormant `jazz-personnel-researcher` produces if the seam is ever reopened.
-The specialists read this file at dispatch (the same way they read `docs/genre-definitions.md` for scope).
+The agent reads this file at dispatch (the same way they read `docs/genre-definitions.md` for scope).
 
 The block is **cleanly separable by design** — it is the *seam*. To split personnel back into a separate
 agent later, lift `personnel_record` out of the specialist record and hand the `{id, artist, album, year,

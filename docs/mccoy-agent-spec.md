@@ -384,7 +384,7 @@ Fable at all.
 19. ✅ The drip cron lives in the **default profile** (its gateway is the confirmed always-on scheduler — zero new persistent process) with a **per-job model override** to Kimi K2.7-Code (`create_job(model=, provider=)`; the CLI doesn't expose it). Job `canon-drip`, `0 6 * * *`, `--script canon-drip-precheck.py`, workdir = project repo, deliver telegram. `[SILENT]` is a native gateway suppress marker — verified in source.
 20. ✅ The **drip gathers inline** (one agent, web tools, 2 candidates) — `delegate_task` fan-out is reserved for John's interactive bulk missions in the mccoy profile. Fewer moving parts on the unattended path.
 21. ✅ Hermes v0.18.2 **always backgrounds top-level delegations** (model can't opt out; results re-enter the conversation). Fine interactively; breaks only `-z` one-shot probes. Child spawn → web/file tools → output verified live.
-22. ✅ Status transitions: McCoy **executes** John's explicit per-album verdicts (include/reject/reviewed/approved/retired) through the edit contract — the decision is John's, the typing is McCoy's. `approved → live` belongs to the publish pipeline, not chat.
+22. ✅ Status transitions: McCoy **executes** John's explicit verdicts (include/reject/reviewed/approved/retired) through the edit contract. Verdicts may cover one album, a named group, or the whole pending queue; no per-album rationale is required, but every affected album receives its own `edit_log` row. The decision is John's, the typing is McCoy's. `approved → live` belongs to the publish pipeline, not chat.
 
 **Round 4 — drip incident repairs (Opus, 2026-07-17)**
 
@@ -403,6 +403,20 @@ Fable at all.
     Supersedes #12 (the 2026-07-15 panel: Kimi gather+lead, DeepSeek/Gemini
     refs, Terra aggregator). Every selected model live-probed through Nous
     before edit; drip not run.
+
+**Round 6 — inbox lifecycle repair (2026-09-05, Claude Code, John-directed via McCoy)**
+27. ✅ The precheck sweep archived on **DB presence**, not on a verdict — so a
+    dossier staged as `canon_status='candidate'` was moved to
+    `research/candidates-archive/` on the next drip, before John had ruled on it.
+    Three undecided candidates (Johnny Griffin *A Blowin' Session*, J.J. Johnson
+    *The Eminent Jay Jay Johnson Vol. 1*, Bud Powell *The Amazing Bud Powell
+    Vol. 1*) lost their dossiers off the review surface this way. Corrected: the
+    sweep now archives only **terminal** verdicts (`included` / `excluded`);
+    `candidate` stays in the inbox until John rules. This narrows #23 above — the
+    sweep's purpose (no re-selection of prior runs' work, per the 2026-07-17
+    incident) is unchanged, and decided albums still leave. **The inbox is John's
+    live review surface, not a scratch directory.** Pinned by
+    `~/.hermes/profiles/mccoy/scripts/tests/test_precheck_inbox_sweep.py`.
 
 **Still open (own loops, deferred by John)**
 - ✅ Hermes scheduler persistence — **confirmed always-on** (2026-07-15); drip rides existing infra, zero new footprint.
