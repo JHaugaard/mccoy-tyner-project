@@ -217,3 +217,18 @@ uses); worth doing only if track-level session data matters elsewhere.
   automatically with a stable id.
 
 Logged by Claude Code, 2026-08-14.
+
+## 13. Pending 14-album ship — basemap rebuild is a required pre-deploy step
+Staged 2026-09-24: export `ce4f4f8` (github/master, snapshot
+`canon-2026-09-24`, albums=248) carries 14 `included|approved` albums.
+The export adds **7 new places** not yet on the site: Advision Studios
+(London), Allegro Studio (NYC), Apex Studios (NYC), C.P. MacGregor
+Studios (LA), Mad Hatter Studios (LA), Power Station (NYC), Theater am
+Kornmarkt (Bregenz) — all verified complete (coords, kind, epistemic,
+source). `ship.sh` does NOT rebuild the basemap: after it copies the
+exports, the jazz-canon lane must run `node scripts/build-basemap.mjs`
+and pass its coverage/land/budget checks before build/deploy. Ship is
+held awaiting John's attended go; recently-added.json (14 IDs, jazz-canon
+lane) must land and be verified before ship.sh runs.
+
+Logged by McCoy (Hermes), 2026-09-24.
