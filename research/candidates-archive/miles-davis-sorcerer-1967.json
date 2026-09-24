@@ -1,0 +1,515 @@
+{
+  "id": "miles-davis-sorcerer-1967",
+  "artist": "Miles Davis",
+  "album": "Sorcerer",
+  "year": 1967,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "rationale": "The third of six albums by Miles Davis's second great quintet (1964\u201368), Sorcerer is an indispensable link in that legendary run \u2014 following Miles Smiles and preceding Nefertiti \u2014 and features all-original compositions by Shorter (5), Hancock (1), and Tony Williams (1). Penguin Guide awarded 3.5 stars (its crown threshold), DownBeat 5 stars, Rolling Stone Jazz Record Guide 5 stars. The album's dark, brooding mood and intricate compositions \u2014 especially 'Masqualero' and 'The Sorcerer' \u2014 define the quintet's mature post-bop language. It is a consensus core record of the 1960s jazz canon, completing the quintet's studio discography alongside E.S.P., Miles Smiles, and Nefertiti already in the collection.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Sorcerer (Miles Davis album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Sorcerer_(Miles_Davis_album)"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 Sorcerer credits",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/sorcerer-mw0000197402"
+    },
+    "S3": {
+      "title": "JazzDiscography.org (jazzdisco) \u2014 Miles Davis 1965-1969",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/miles-davis/discography/1965-1969/"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Sorcerer release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/3c17dc33-ff39-3ac0-a190-847f42e4d03c"
+    },
+    "S5": {
+      "title": "iTunes Search API \u2014 Sorcerer",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Sorcerer&entity=album&limit=3"
+    },
+    "S6": {
+      "title": "Cover Art Archive \u2014 Sorcerer",
+      "type": "art",
+      "url": "https://coverartarchive.org/release-group/3c17dc33-ff39-3ac0-a190-847f42e4d03c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1967-05-16",
+      "1967-05-17",
+      "1967-05-24",
+      "1962-08-21"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City (with one 1962 track)",
+    "recording_sites": [
+      {
+        "session_date": "1967-05-16",
+        "site_raw": "Columbia Studio B, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1967-05-17",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1967-05-24",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1962-08-21",
+        "site_raw": "Columbia Studio A, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": "Frank Laico; Stanley Tonkel",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Shorter was also present on the 1962 session (his first recording with Davis), playing tenor saxophone alongside Frank Rehak and the older rhythm section"
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Prince of Darkness",
+          "Pee Wee",
+          "Masqualero",
+          "The Sorcerer",
+          "Limbo",
+          "Vonetta"
+        ],
+        "session_dates": [
+          "1967-05-16",
+          "1967-05-17",
+          "1967-05-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Hancock composed 'The Sorcerer'; not on the 1962 track 'Nothing Like You'"
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Prince of Darkness",
+          "Pee Wee",
+          "Masqualero",
+          "The Sorcerer",
+          "Limbo",
+          "Vonetta"
+        ],
+        "session_dates": [
+          "1967-05-16",
+          "1967-05-17",
+          "1967-05-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Not on the 1962 track 'Nothing Like You'; Paul Chambers played bass on that session"
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Prince of Darkness",
+          "Pee Wee",
+          "Masqualero",
+          "The Sorcerer",
+          "Limbo",
+          "Vonetta"
+        ],
+        "session_dates": [
+          "1967-05-16",
+          "1967-05-17",
+          "1967-05-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Williams composed 'Pee Wee'; not on the 1962 track 'Nothing Like You' where Jimmy Cobb played drums"
+      },
+      {
+        "name": "Frank Rehak",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nothing Like You"
+        ],
+        "session_dates": [
+          "1962-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Only on the 1962 session track 'Nothing Like You'"
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nothing Like You"
+        ],
+        "session_dates": [
+          "1962-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Only on the 1962 session track 'Nothing Like You'"
+      },
+      {
+        "name": "Jimmy Cobb",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nothing Like You"
+        ],
+        "session_dates": [
+          "1962-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Only on the 1962 session track 'Nothing Like You'"
+      },
+      {
+        "name": "Willie Bobo",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nothing Like You"
+        ],
+        "session_dates": [
+          "1962-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "William Correa"
+        ],
+        "notes": "Listed as William Correa in jazzdisco; credited as Willie Bobo. Plays bongos on this track"
+      },
+      {
+        "name": "Bob Dorough",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nothing Like You"
+        ],
+        "session_dates": [
+          "1962-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Dorough co-wrote 'Nothing Like You' with Fran Landesman"
+      },
+      {
+        "name": "Gil Evans",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nothing Like You"
+        ],
+        "session_dates": [
+          "1962-08-21"
+        ],
+        "epistemic": "inf",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Gil Evans credited as arranger on 'Nothing Like You' per Wikipedia; not listed in jazzdisco personnel for this session. Epistemic: inf because only one source"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Prince of Darkness",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:37",
+        "session_date": "1967-05-24",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Pee Wee",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:49",
+        "session_date": "1967-05-24",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Masqualero",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:53",
+        "session_date": "1967-05-17",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Sorcerer",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:10",
+        "session_date": "1967-05-17",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Limbo",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:13",
+        "session_date": "1967-05-16",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Vonetta",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:36",
+        "session_date": "1967-05-16",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Nothing Like You",
+        "track_number": 7,
+        "side": "B",
+        "duration": "1:55",
+        "session_date": "1962-08-21",
+        "composers": [
+          "Bob Dorough",
+          "Fran Landesman"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Frank Rehak",
+          "Wayne Shorter",
+          "Gil Evans",
+          "Paul Chambers",
+          "Jimmy Cobb",
+          "Willie Bobo",
+          "Bob Dorough"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "3c17dc33-ff39-3ac0-a190-847f42e4d03c",
+    "apple_album_id": 1392269555,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/0605928a-f0a6-4816-8ee4-413b52319eab/22602673631.png",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original 1967 LP cover \u2014 profile photo of Cicely Tyson"
+      }
+    ],
+    "notes": "Four sessions: (1) 1962-08-21: Bob Dorough vocal session at Columbia Studio A \u2014 'Nothing Like You' is the only track from this session on the album, originally recorded for a Christmas compilation; (2) 1967-05-16: Columbia Studio B \u2014 Limbo and Vonetta; (3) 1967-05-17: Columbia 30th Street Studio \u2014 Masqualero and The Sorcerer; (4) 1967-05-24: Columbia 30th Street Studio \u2014 Prince of Darkness and Pee Wee. Davis does not play on 'Pee Wee' (per Wikipedia). An alternate 'Limbo' was recorded May 9 in Los Angeles with Buster Williams on bass (not on original album). Engineers: Frank Laico and Stanley Tonkel per AllMusic credits."
+  },
+  "ballot": {
+    "album": "Miles Davis \u2014 Sorcerer (1967)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a defining document of Miles Davis's Second Great Quintet: Davis, Wayne Shorter, Herbie Hancock, Ron Carter, and Tony Williams are captured in a mature, highly interactive post-bop setting (S1, S3). The original 1967 program contains major Shorter compositions including \"Prince of Darkness,\" \"Masqualero,\" \"Limbo,\" and \"Vonetta,\" alongside Hancock's \"The Sorcerer\" and Williams's \"Pee Wee,\" giving the album substantial compositional and lineage value (S1, S3). The dossier also reports convergent recognition from the Penguin Guide, DownBeat, and Rolling Stone Jazz Record Guide, while its position between already canonical quintet albums makes its omission a conspicuous gap, though those critical claims are not directly linked in the source list.",
+    "case_against": "The album is less cohesive than its strongest surrounding quintet statements because the 1962 Bob Dorough vocal track \"Nothing Like You\" was appended to the 1967 sessions and clashes in personnel, style, and mood (S1, S3). It can therefore seem more like a valuable quintet-run completer than the single indispensable Davis statement represented by Miles Smiles or Nefertiti, with Davis contributing no composition and sitting out \"Pee Wee\" (S1, S3). The dossier's substantive critical evidence is also thinner than its rationale suggests: the ratings are asserted, while most listed sources are identifiers, credits, or sessionography rather than directly documented criticism.",
+    "disagreement": "The references agree on consensus_core and strong, but they differ in how they treat the anomalous 1962 closer: Reference 1 regards it as a minor bonus and emphasizes the album's completeness value, while Reference 2 treats it as a serious cohesion flaw and ranks the album below Miles Smiles and Nefertiti. Reference 1 also incorrectly characterizes all seven tracks as quintet originals, whereas the dossier documents the distinct 1962 vocal track.",
+    "recommendation": "John should give Sorcerer strong consideration as a consensus-core record, while assessing whether the 1962 closer materially weakens its place beside the quintet's more unified statements.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

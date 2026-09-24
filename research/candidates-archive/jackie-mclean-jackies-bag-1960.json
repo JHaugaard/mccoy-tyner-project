@@ -1,0 +1,438 @@
+{
+  "id": "jackie-mclean-jackies-bag-1960",
+  "artist": "Jackie McLean",
+  "album": "Jackie's Bag",
+  "year": 1960,
+  "label": "Blue Note",
+  "catalog": "BLP 4051",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "hard-bop",
+    "post-bop"
+  ],
+  "personnel_record": {
+    "recording_dates": [
+      "1959-01-18",
+      "1960-09-01"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1959-01-18",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1960-09-01",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Jackie McLean",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-01-18",
+          "1960-09-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composed all tracks except Isle of Java (Tina Brooks)"
+      },
+      {
+        "name": "Donald Byrd",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Quadrangle",
+          "Blues Inn",
+          "Fidel"
+        ],
+        "session_dates": [
+          "1959-01-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "January 18, 1959 quintet session only"
+      },
+      {
+        "name": "Sonny Clark",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blues Inn",
+          "Fidel"
+        ],
+        "session_dates": [
+          "1959-01-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Piano on tracks 2-3 only; absent on Quadrangle (Wikipedia: 'piano (#2-3)'; jazzdisco: 'piano #2,3')"
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-01-18",
+          "1960-09-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Only musician besides McLean on both sessions"
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Quadrangle",
+          "Blues Inn",
+          "Fidel"
+        ],
+        "session_dates": [
+          "1959-01-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [
+          "\"Philly\" Joe Jones"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Blue Mitchell",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Appointment in Ghana",
+          "A Ballad for Doll",
+          "Isle of Java"
+        ],
+        "session_dates": [
+          "1960-09-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tina Brooks",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Appointment in Ghana",
+          "A Ballad for Doll",
+          "Isle of Java"
+        ],
+        "session_dates": [
+          "1960-09-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Co-leader in all but name per AllMusic review; composed Isle of Java. The Sep 1, 1960 date also produced material for Brooks's Back to the Tracks (Wikipedia See-also)."
+      },
+      {
+        "name": "Kenny Drew",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Appointment in Ghana",
+          "A Ballad for Doll",
+          "Isle of Java"
+        ],
+        "session_dates": [
+          "1960-09-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Appointment in Ghana",
+          "A Ballad for Doll",
+          "Isle of Java"
+        ],
+        "session_dates": [
+          "1960-09-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [
+          "Arthur Taylor"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Quadrangle",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:44",
+        "session_date": "1959-01-18",
+        "composers": [
+          "Jackie McLean"
+        ],
+        "personnel": [
+          "Jackie McLean",
+          "Donald Byrd",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "notes": "No piano on this track (Sonny Clark absent)"
+      },
+      {
+        "title": "Blues Inn",
+        "track_number": 2,
+        "side": "A",
+        "duration": "9:06",
+        "session_date": "1959-01-18",
+        "composers": [
+          "Jackie McLean"
+        ],
+        "personnel": [
+          "Jackie McLean",
+          "Donald Byrd",
+          "Sonny Clark",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "notes": ""
+      },
+      {
+        "title": "Fidel",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:11",
+        "session_date": "1959-01-18",
+        "composers": [
+          "Jackie McLean"
+        ],
+        "personnel": [
+          "Jackie McLean",
+          "Donald Byrd",
+          "Sonny Clark",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "notes": ""
+      },
+      {
+        "title": "Appointment in Ghana",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:59",
+        "session_date": "1960-09-01",
+        "composers": [
+          "Jackie McLean"
+        ],
+        "personnel": [
+          "Jackie McLean",
+          "Blue Mitchell",
+          "Tina Brooks",
+          "Kenny Drew",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "notes": ""
+      },
+      {
+        "title": "A Ballad for Doll",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:19",
+        "session_date": "1960-09-01",
+        "composers": [
+          "Jackie McLean"
+        ],
+        "personnel": [
+          "Jackie McLean",
+          "Blue Mitchell",
+          "Tina Brooks",
+          "Kenny Drew",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "notes": ""
+      },
+      {
+        "title": "Isle of Java",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:31",
+        "session_date": "1960-09-01",
+        "composers": [
+          "Tina Brooks"
+        ],
+        "personnel": [
+          "Jackie McLean",
+          "Blue Mitchell",
+          "Tina Brooks",
+          "Kenny Drew",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "notes": ""
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "9603645f-f037-3233-8f15-84f3227ea417",
+    "apple_album_id": "724783494",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/a08330f5-634d-454c-9e3b-7815af166249/44322063517.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "From Cover Art Archive release-group 9603645f-f037-3233-8f15-84f3227ea417"
+      }
+    ],
+    "notes": "TWO sessions. January 18, 1959 (Van Gelder Studio, Hackensack, NJ): McLean's first session as a Blue Note leader; quintet with Donald Byrd, Sonny Clark (piano on Blues Inn and Fidel only, absent on Quadrangle), Paul Chambers, Philly Joe Jones. September 1, 1960 (Van Gelder Studio, Englewood Cliffs, NJ): sextet with Blue Mitchell, Tina Brooks, Kenny Drew, Paul Chambers, Art Taylor. SESSION-DATE CONFLICT vs. task brief: the dispatch premise (Jan 19, 1959 with Blue Mitchell/Tina Brooks/Kenny Drew/Philly Joe Jones; Sep 18, 1959 with Hank Mobley/Louis Hayes) is contradicted by ALL four consulted sources \u2014 Wikipedia, jazzdisco.org, Discogs, and AllMusic \u2014 which unanimously give Jan 18, 1959 and Sep 1, 1960 with the rosters recorded here. Hank Mobley and Louis Hayes appear on NO source for this album and are not included; the brief's premise appears to conflate other McLean sessions. RELEASE-YEAR CONFLICT: AllMusic dates the album 1960; Wikipedia gives release June 1961; Discogs first pressing 1961 (BLP 4051). The 1960 in the canonical ID follows the AllMusic/project convention. CD reissue adds three bonus tracks (Street Singer, Melonae's Dance, Medina) from the same Sep 1, 1960 session \u2014 excluded from the original-LP track list here. Engineer Rudy Van Gelder is listed on the AllMusic credits page (obs). Producer Alfred Lion per Wikipedia infobox and Blue Note practice of the period. Per-musician track coverage is source-confirmed (jazzdisco per-take rosters plus Wikipedia personnel-by-track-group), so track_assignments_complete is true for the original six LP tracks."
+  },
+  "sources": {
+    "S2": {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jackie%27s_Bag",
+      "claim": "Personnel by track group; session dates Jan 18 1959 / Sep 1 1960; producer Alfred Lion; Van Gelder Hackensack + Englewood Cliffs; MusicBrainz release-group MBID"
+    },
+    "S3": {
+      "source": "jazzdisco.org Jackie McLean catalog",
+      "url": "http://www.jazzdisco.org/jackie-mclean/catalog/#blue-note-blp-4051",
+      "claim": "Per-session personnel, per-take track list, studio and date per session (Blue Note BLP 4051)"
+    },
+    "S4": {
+      "source": "Discogs master",
+      "url": "https://www.discogs.com/master/224470-Jackie-McLean-Jackies-Bag",
+      "claim": "Credits incl. RVG lacquer cut, Reid Miles cover design; per-side recording dates and studios; catalog BLP 4051; first US pressing 1961"
+    },
+    "S5": {
+      "source": "AllMusic",
+      "url": "https://www.allmusic.com/album/jackies-bag-mw0000192190/credits",
+      "claim": "Full credits table: Rudy Van Gelder engineer, all nine musicians, Leonard Feather liner notes, Reid Miles cover design"
+    },
+    "S6": {
+      "source": "iTunes Search API",
+      "url": "https://itunes.apple.com/search?term=Jackie+McLean+Jackie%27s+Bag&entity=album",
+      "claim": "collectionId 724783494 (Jackie's Bag, Blue Note, 9 tracks, release date 1961-06-01)"
+    },
+    "S7": {
+      "source": "Cover Art Archive",
+      "url": "https://coverartarchive.org/release-group/9603645f-f037-3233-8f15-84f3227ea417/",
+      "claim": "Front cover image URL"
+    }
+  },
+  "include": null,
+  "ballot": {
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "Session gravity is the album's strongest signal: two Blue Note dates staffed with A-list hard boppers \u2014 the January 1959 quintet (Donald Byrd, Sonny Clark, Paul Chambers, Philly Joe Jones) marking McLean's first session as a Blue Note leader, and the September 1960 sextet (Blue Mitchell, Tina Brooks, Kenny Drew, Chambers, Art Taylor) cut the same day as material for Brooks's Back to the Tracks. 'Appointment in Ghana' is McLean's most-covered composition and a post-bop repertoire staple, while the pianoless 'Quadrangle' audibly documents the stretch from Parker-rooted hard bop toward the freedoms of Let Freedom Ring (1962). Side B doubles as a rare window into the historically undervalued Tina Brooks as both writer and player. Sourcing is above the floor: six sources, four convergent on the contested points, per-track personnel complete.",
+    "case_against": "Neither reference rates this among McLean's defining statements \u2014 the titles consensus lists actually carry are Let Freedom Ring, One Step Beyond, and Destination... Out!, and Jackie's Bag rarely commands their core-collection status, lacking even the single-session unity of Bluesnik. It is an assembled patchwork: two sessions twenty months apart in two different studios, different front lines and rhythm sections with only Paul Chambers common to both, its cohesion editorial (Alfred Lion's compilation) rather than organic. It also enters the most densely canonicalized two-year stretch in post-bop as a solid contributor rather than an indispensable node, and its strongest evidence \u2014 the Brooks sextet \u2014 is partly evidence for Back to the Tracks rather than for this LP alone.",
+    "recommendation": "John should hear it as a contested depth-add \u2014 weighing whether McLean's canon presence is better founded on a unified single-session statement (Let Freedom Ring or One Step Beyond) if he is not yet represented \u2014 and if included, footnote the 1960 (AllMusic) vs. 1961 (Wikipedia/Discogs) release-year conflict in the canon row.",
+    "confidence": "medium"
+  }
+}

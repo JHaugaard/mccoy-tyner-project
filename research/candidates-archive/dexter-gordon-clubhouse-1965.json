@@ -1,0 +1,347 @@
+{
+  "id": "dexter-gordon-clubhouse-1965",
+  "artist": "Dexter Gordon",
+  "album": "Clubhouse",
+  "year": 1965,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "A hallmark Dexter Gordon Blue Note date from his peak 1960s period \u2014 recorded in 1965 between Go (1962) and Gettin' Around (1965), though not released until 1979 as part of Blue Note's LT Series. The session teams Gordon with Freddie Hubbard, Barry Harris, Bob Cranshaw, and Billy Higgins \u2014 a frontline of proven chemistry (Hubbard and Gordon had just recorded One Flight Up). The Penguin Guide gives it 2.5 stars (its 'good' threshold), DownBeat 4 stars, Rolling Stone Jazz Record Guide 4 stars, and Robert Christgau called it 'superb mature late bebop'. As one of Dexter Gordon's essential Blue Note sessions from his mid-60s prime \u2014 a period already represented in the canon by Go! and Our Man in Paris \u2014 Clubhouse fills a gap in Gordon's studio arc. AllMusic calls it Hard Bop.",
+  "priority": "consider",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Clubhouse (album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Clubhouse_(album)"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 Clubhouse overview",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/clubhouse-mw0000204481"
+    },
+    "S3": {
+      "title": "JazzDiscography.org (jazzdisco) \u2014 Dexter Gordon catalog",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/dexter-gordon/catalog/"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Clubhouse release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/82867e03-e131-3205-babf-982efab4c1e7"
+    },
+    "S5": {
+      "title": "iTunes Search API \u2014 Clubhouse",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Dexter+Gordon+Clubhouse&entity=album&limit=3"
+    },
+    "S6": {
+      "title": "Cover Art Archive \u2014 Clubhouse",
+      "type": "art",
+      "url": "https://coverartarchive.org/release-group/82867e03-e131-3205-babf-982efab4c1e7"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-05-27"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1965-05-27",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Dexter Gordon",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Hanky Panky",
+          "I'm a Fool to Want You",
+          "Devilette",
+          "Clubhouse",
+          "Lady Iris B"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Hubbard does not play on track 6 'Jodi'. S1 (Wikipedia) says tracks 1\u20135; S3 (jazzdisco) says tracks 1\u20133,5,6 in session order. Both agree Hubbard is absent from Jodi. Per Wikipedia's album order, Hubbard plays on tracks 1\u20135 only."
+      },
+      {
+        "name": "Barry Harris",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bob Cranshaw",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Hanky Panky",
+          "I'm a Fool to Want You",
+          "Clubhouse",
+          "Lady Iris B",
+          "Jodi"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Cranshaw plays on all tracks except 'Devilette' (track 3), where Ben Tucker plays bass. S1 says tracks 1,2,4\u20136; S3 says tracks 1,3\u20136 in session order. Per Wikipedia album order, Cranshaw is absent from track 3 (Devilette)."
+      },
+      {
+        "name": "Ben Tucker",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Devilette"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Tucker also composed 'Devilette'. He plays bass on this track only, substituting for Bob Cranshaw."
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Hanky Panky",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:32",
+        "session_date": "1965-05-27",
+        "composers": [
+          "Dexter Gordon"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Freddie Hubbard",
+          "Barry Harris",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'm a Fool to Want You",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:43",
+        "session_date": "1965-05-27",
+        "composers": [
+          "Joel Herron",
+          "Frank Sinatra",
+          "Jack Wolf"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Freddie Hubbard",
+          "Barry Harris",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Devilette",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:05",
+        "session_date": "1965-05-27",
+        "composers": [
+          "Ben Tucker"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Freddie Hubbard",
+          "Barry Harris",
+          "Ben Tucker",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Clubhouse",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:33",
+        "session_date": "1965-05-27",
+        "composers": [
+          "Dexter Gordon"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Freddie Hubbard",
+          "Barry Harris",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Lady Iris B",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:41",
+        "session_date": "1965-05-27",
+        "composers": [
+          "Rudy Stevenson"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Freddie Hubbard",
+          "Barry Harris",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Jodi",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:40",
+        "session_date": "1965-05-27",
+        "composers": [
+          "Dexter Gordon"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Barry Harris",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "82867e03-e131-3205-babf-982efab4c1e7",
+    "apple_album_id": 1479228721,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/0b0e0192-e849-418f-a053-692b9e2ed0ef/34248879759.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original 1979 Blue Note LT-989 cover"
+      }
+    ],
+    "notes": "Single session on May 27, 1965 at Van Gelder Studio, Englewood Cliffs. Not released until 1979 on Blue Note LT-989. Engineer Rudy Van Gelder inferred (inf) \u2014 all Blue Note sessions at Van Gelder Studio in this era were engineered by Rudy Van Gelder. Freddie Hubbard absent from 'Jodi' (track 6). Ben Tucker substitutes for Bob Cranshaw on bass on 'Devilette' (track 3), which Tucker also composed. Recorded the day before the Gettin' Around session (May 28-29). AllMusic lists Rudy Van Gelder under 'Remastering' for the RVG CD edition, confirming his association with the session."
+  },
+  "ballot": {
+    "album": "Dexter Gordon \u2014 Clubhouse (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "This is an exceptionally strong 1965 Blue Note session: Dexter Gordon and Freddie Hubbard are supported by Barry Harris, Bob Cranshaw or Ben Tucker, and Billy Higgins, with the dossier documenting the track-level personnel from S1 and S3. The Gordon-Hubbard frontline has established chemistry from One Flight Up, while the music offers immediate discovery value through Gordon's mature tenor, a ballad, blues, and swinging hard-bop originals. It also fills a genuine mid-1960s gap between Gordon's already canonical Our Man in Paris and Go! and the next-day Gettin' Around session, even if the same-artist recurrence is not itself a negative under the rubric.",
+    "case_against": "Clubhouse was shelved until 1979, so it had no influence on the crucial 1960s hard-bop lineage and functions primarily as an archival supplement to Gordon's better-known statements. It is a conventional blowing date rather than a defining Gordon album, and the dossier's strongest reception claims\u2014DownBeat and Rolling Stone four-star ratings and Christgau's praise\u2014are not actually supported by the six listed source tokens; the only stated Penguin rating is 2.5 stars, suggesting a good but nonessential record. Its personnel and playing are excellent, but the album adds little to the post-bebop story that Go!, Our Man in Paris, or Gettin' Around do not represent more decisively.",
+    "disagreement": "The references agree that the session is in scope and musically strong, but they split on the final tier: Reference 1 judged it contested and worth considering, emphasizing session gravity and discovery value, while Reference 2 recommended exclude_suggested because the delayed archival release, weak consensus, and lack of defining or historical impact outweigh the performance quality.",
+    "recommendation": "Keep Clubhouse as a consider-level borderline candidate for John's listening queue, but do not treat it as a canon priority unless its reception evidence or distinctive musical value proves stronger than the dossier currently shows.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

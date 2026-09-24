@@ -1,0 +1,342 @@
+{
+  "id": "dave-holland-conference-of-the-birds-1972",
+  "artist": "Dave Holland",
+  "album": "Conference of the Birds",
+  "year": 1972,
+  "label": "ECM",
+  "style_primary": "avant-garde-jazz",
+  "rationale": "Dave Holland's debut as a leader and the only recorded meeting of Sam Rivers and Anthony Braxton \u2014 two of the music's most original saxophonists \u2014 over six Holland originals. A definitive 'time, no changes' open-form statement that bridges 1960s free improvising discipline with a swinging, melodic accessibility AllMusic calls 'one of the most varied and accessible introductions to the style one could hope for.' Penguin Guide Core Collection, Down Beat five stars. Essential bridge from the composed canon into the avant-garde.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "scope_flag": "ECM-label release on the free-jazz/avant-garde seam; pianoless quartet of Circle alumni plus Sam Rivers",
+  "bridge_case": "For a listener coming from the composed canon: all six pieces are Holland compositions with stated themes that set key, tempo, and mood \u2014 improvisation stays tethered to melodic foundations with swinging bass-led time, so the freedom is audible as dialogue rather than noise. The flute-feature title track is a gentle entry point; 'Q & A' shows group improvisation as conversation.",
+  "accessibility": "intermediate",
+  "tags": [
+    "ecm",
+    "free-jazz",
+    "avant-garde-jazz",
+    "post-bop",
+    "1970s",
+    "open-form"
+  ],
+  "sources": {
+    "S1": {
+      "type": "wikipedia",
+      "title": "Conference of the Birds (Dave Holland album) \u2014 Wikipedia (raw wikitext)",
+      "url": "https://en.wikipedia.org/wiki/Conference_of_the_Birds_(Dave_Holland_album)"
+    },
+    "S2": {
+      "type": "allmusic",
+      "title": "Conference of the Birds \u2014 AllMusic album page and Credits (MW ID verified: mw0000196973)",
+      "url": "https://www.allmusic.com/album/conference-of-the-birds-mw0000196973"
+    },
+    "S3": {
+      "type": "label",
+      "title": "ECM Records official product page (Conference of the Birds, ECM 1027)",
+      "url": "https://ecmrecords.com/product/conference-of-the-birds-david-holland-quartet/"
+    },
+    "S4": {
+      "type": "discogs",
+      "title": "Discogs master 71747 / release 549332 (ECM 1027 / 1027 ST)",
+      "url": "https://www.discogs.com/master/71747-David-Holland-Quartet-David-Holland-Sam-Rivers-Anthony-Braxton-Barry-Altschul-Conference-Of-The-Bird"
+    },
+    "S5": {
+      "type": "itunes",
+      "title": "iTunes Search API \u2014 collectionId 1442845534",
+      "url": "https://itunes.apple.com/search?term=dave+holland+conference+of+the+birds&entity=album"
+    },
+    "S6": {
+      "type": "musicbrainz",
+      "title": "MusicBrainz release-group 054238b1-19f7-48c5-ae41-75cf163a7a43 / Cover Art Archive",
+      "url": "https://musicbrainz.org/release-group/054238b1-19f7-48c5-ae41-75cf163a7a43"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1972-11-30"
+    ],
+    "multi_session": false,
+    "studio": "Allegro Studio, New York",
+    "recording_sites": [
+      {
+        "session_date": "1972-11-30",
+        "site_raw": "Allegro Studio, New York City",
+        "site_slug": null,
+        "site_new": {
+          "name": "Allegro Studio",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": null,
+          "lat": 40.713,
+          "lon": -74.006,
+          "location_epistemic": "inf",
+          "location_source": "coords: city centroid (OSM Nominatim: New York, NY), 3-decimal precision \u2014 no street address documented; geocoded via scripts/geocode-place.py"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Manfred Eicher",
+    "engineer": "Tony May",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Dave Holland",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "David Holland"
+        ],
+        "notes": "Leader; composer of all six pieces (AllMusic, ECM). Also credited with cover design (AllMusic, Discogs: 'Design [Cover]')."
+      },
+      {
+        "name": "Anthony Braxton",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: alto saxophone, clarinet, flute; ECM: reeds, flute; AllMusic credits add clarinet, flute, soprano saxophone, reeds (multiple). Primary instrument alto saxophone; doubles clarinet, flute, soprano saxophone (per-track distribution not documented)."
+      },
+      {
+        "name": "Sam Rivers",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: tenor saxophone, clarinet, flute; ECM: reeds, flute; AllMusic credits add flute, soprano saxophone, tenor saxophone, reeds (multiple). Primary instrument tenor saxophone; doubles clarinet, flute, soprano saxophone (per-track distribution not documented)."
+      },
+      {
+        "name": "Barry Altschul",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia/ECM: percussion, marimba; AllMusic credits also list drums. The album's pianoless quartet leaves drum-kit and percussion duties to Altschul throughout; exact instrument per track not documented."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Four Winds",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:32",
+        "session_date": "1972-11-30",
+        "composers": [
+          "Dave Holland"
+        ],
+        "personnel": [
+          "Dave Holland",
+          "Anthony Braxton",
+          "Sam Rivers",
+          "Barry Altschul"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Q & A",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:34",
+        "session_date": "1972-11-30",
+        "composers": [
+          "Dave Holland"
+        ],
+        "personnel": [
+          "Dave Holland",
+          "Anthony Braxton",
+          "Sam Rivers",
+          "Barry Altschul"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Conference of the Birds",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:34",
+        "session_date": "1972-11-30",
+        "composers": [
+          "Dave Holland"
+        ],
+        "personnel": [
+          "Dave Holland",
+          "Anthony Braxton",
+          "Sam Rivers",
+          "Barry Altschul"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Interception",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:20",
+        "session_date": "1972-11-30",
+        "composers": [
+          "Dave Holland"
+        ],
+        "personnel": [
+          "Dave Holland",
+          "Anthony Braxton",
+          "Sam Rivers",
+          "Barry Altschul"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Now Here (Nowhere)",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:34",
+        "session_date": "1972-11-30",
+        "composers": [
+          "Dave Holland"
+        ],
+        "personnel": [
+          "Dave Holland",
+          "Anthony Braxton",
+          "Sam Rivers",
+          "Barry Altschul"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "See-Saw",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:40",
+        "session_date": "1972-11-30",
+        "composers": [
+          "Dave Holland"
+        ],
+        "personnel": [
+          "Dave Holland",
+          "Anthony Braxton",
+          "Sam Rivers",
+          "Barry Altschul"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "054238b1-19f7-48c5-ae41-75cf163a7a43",
+    "apple_album_id": "1442845534",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/cf1d5378-de2f-4832-b3f9-e7eced18f52e/16017452126.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "From CAA release cf1d5378-de2f-4832-b3f9-e7eced18f52e (release-group 054238b1-19f7-48c5-ae41-75cf163a7a43); front image of the 1973 ECM 1027 ST LP. Back-cover image (16017454034.jpg) also retrieved; stage-candidate.py inserts all cover_art rows as role 'front', so only the front entry is carried."
+      }
+    ],
+    "notes": "Single session, 1972-11-30, Allegro Studio, New York City (Wikipedia, AllMusic, ECM, Discogs all agree). Allegro Studio is not in the canonical studio list \u2014 recorded as a complete site_new; no street address documented, so city-centroid coordinates with location_epistemic 'inf'. Producer Manfred Eicher (Wikipedia, AllMusic, Discogs). Engineer (recording): Tony May (AllMusic, Discogs 'Engineer [Rec.]'). Additional production credits from AllMusic/Discogs: mixing Kurt Rapp and Martin Wieland; layout Barbara (B & B) Wojirsch; cover design Dave Holland. Duration conflicts (not resolved, recorded here): Wikipedia/ECM 6:32/8:34/4:34/8:20/4:34/6:40 vs Discogs 6:33/8:32/4:34/8:21/4:33/6:41 vs AllMusic 6:35/8:38/4:38/8:29; Wikipedia/ECM values used in tracks. Instrument-doubling conflicts: Wikipedia lists clarinet for both reed players while ECM lists only 'reeds, flute'; AllMusic adds soprano saxophone for both. All variants recorded in personnel notes; per-track instrument assignments are NOT documented in any source, hence track_assignments_complete false. Release chronology: recorded 30 Nov 1972; original release June 1973 (ECM gives 20.06.1973), ECM 1027 ST. Dossier year follows the project id convention (1972, recording year). iTunes collectionId 1442845534 (Dave Holland Quartet, 'Conference of the Birds', releaseDate 1972) lists 7 tracks vs the 6-track LP \u2014 likely a digital-edition bonus; the artist/title/year match is confident but the digital track list differs. AllMusic lists the album under 'Dave Holland Quartet / Dave Holland'; Discogs artist ANV 'David Holland'. Personnel names in this record use the canonical English forms."
+  },
+  "ballot": {
+    "album": "Dave Holland \u2014 Conference of the Birds (1972)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded in 1972 and released in 1973, it is within the 1940\u20131979 window, but it enters through the opened free-jazz/avant-garde gate and is also an ECM release; the substantive question is whether its structured, swinging open form bridges the canon's post-bebop center."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "The dossier reports Penguin Guide Core Collection status and a DownBeat five-star rating, while AllMusic calls it one of the most varied and accessible introductions to avant-garde jazz (S2). Holland's six compositions give the pianoless quartet thematic anchors and swinging, bass-led motion, making the album a credible bridge for listeners moving from composed post-bop into open-form improvisation. The singular meeting of Sam Rivers and Anthony Braxton, alongside Holland and Barry Altschul's Circle lineage, gives the session exceptional gravity and captures a major 1970s avant-garde network (S1-S4).",
+    "case_against": "The record remains a demanding free-jazz date: after its heads, the music often abandons conventional harmonic changes for jagged, polyphonic reed interplay, and the absence of a chordal instrument can make that freedom especially stark for a listener whose taste is still uncertain about the idiom. Within a limited free-jazz intake, Coleman and Dolphy records have stronger direct canon consensus and lineage, so Holland's album may be a gateway rather than an indispensable first-tier representative. The Penguin and DownBeat claims are asserted in the dossier but are not represented by discrete source entries, leaving the strongest consensus evidence less auditable than the otherwise solid recording and personnel documentation.",
+    "disagreement": "Both references agree that the album should be a scope_call because of the opened free-jazz gate, but they differ on urgency: one rates it strong because of competition from more canonical free-jazz landmarks and John's stated taste calibration, while the other rates it must_have as an unusually accessible and foundational bridge. They also differ on scope emphasis: one treats ECM as incidental and free jazz as the real boundary, while the other regards both gates as active.",
+    "recommendation": "John should give this a high-priority ruling as a free-jazz bridge, with inclusion favored if the album's accessibility and Holland-Circle lineage outweigh the gate and taste concerns.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

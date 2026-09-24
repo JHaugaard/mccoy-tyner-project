@@ -1,0 +1,379 @@
+{
+  "id": "clifford-brown-and-max-roach-at-basin-street-1956",
+  "artist": "Clifford Brown & Max Roach",
+  "album": "At Basin Street",
+  "year": 1956,
+  "label": "EmArcy",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "The final studio album by the Clifford Brown-Max Roach Quintet, and the first to feature Sonny Rollins on tenor sax (replacing Harold Land). A defining statement of the quintet's mature hard-bop language: Rollins brings a sharper, more angular edge to the front line, and the interplay between Brown's burnished trumpet and Rollins' thematic invention produces some of the finest ensemble jazz of the 1950s. Consensus across Penguin Guide, AllMusic, DownBeat, and The Rolling Stone Jazz Record Guide. Also notable as the last studio recordings by Brown and pianist Richie Powell before their deaths in June 1956 \u2014 the album carries an elegiac weight in the canon.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Clifford Brown and Max Roach at Basin Street",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/At_Basin_Street"
+    },
+    "S2": {
+      "title": "JazzDiscography \u2014 Clifford Brown discography",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/clifford-brown/discography/"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 At Basin Street",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=At+Basin+Street+Clifford+Brown&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Release Group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/60c3c8cf-9993-3a26-9473-49790fe430be"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/60c3c8cf-9993-3a26-9473-49790fe430be"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-01-04",
+      "1956-02-16",
+      "1956-02-17"
+    ],
+    "multi_session": true,
+    "studio": "New York City (venue unidentified)",
+    "recording_sites": [
+      {
+        "session_date": "1956-01-04",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S2"
+      },
+      {
+        "session_date": "1956-02-16",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S2"
+      },
+      {
+        "session_date": "1956-02-17",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S2"
+      }
+    ],
+    "producer": "Bob Shad",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Clifford Brown",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-01-04",
+          "1956-02-16",
+          "1956-02-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader, co-leader with Max Roach"
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-01-04",
+          "1956-02-16",
+          "1956-02-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader, co-leader with Clifford Brown"
+      },
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-01-04",
+          "1956-02-16",
+          "1956-02-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "First studio appearance with the Brown-Roach Quintet, replacing Harold Land"
+      },
+      {
+        "name": "Richie Powell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-01-04",
+          "1956-02-16",
+          "1956-02-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also plays celesta on some tracks per Wikipedia; arranger of most tracks on the album"
+      },
+      {
+        "name": "George Morrow",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-01-04",
+          "1956-02-16",
+          "1956-02-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "What Is This Thing Called Love?",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:33",
+        "session_date": "1956-02-16",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Sonny Rollins",
+          "Richie Powell",
+          "George Morrow",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:13",
+        "session_date": "1956-02-16",
+        "composers": [
+          "Sammy Fain",
+          "Paul Francis Webster"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Sonny Rollins",
+          "Richie Powell",
+          "George Morrow",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I'll Remember April",
+        "track_number": 3,
+        "side": "A",
+        "duration": "9:13",
+        "session_date": "1956-02-17",
+        "composers": [
+          "Gene de Paul",
+          "Patricia Johnston",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Sonny Rollins",
+          "Richie Powell",
+          "George Morrow",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Powell's Prances",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:28",
+        "session_date": "1956-01-04",
+        "composers": [
+          "Richie Powell"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Sonny Rollins",
+          "Richie Powell",
+          "George Morrow",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Time",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:03",
+        "session_date": "1956-02-17",
+        "composers": [
+          "Richie Powell"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Sonny Rollins",
+          "Richie Powell",
+          "George Morrow",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "The Scene Is Clean",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:04",
+        "session_date": "1956-02-17",
+        "composers": [
+          "Tadd Dameron"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Sonny Rollins",
+          "Richie Powell",
+          "George Morrow",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Gertrude's Bounce",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:09",
+        "session_date": "1956-01-04",
+        "composers": [
+          "Richie Powell"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Sonny Rollins",
+          "Richie Powell",
+          "George Morrow",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "60c3c8cf-9993-3a26-9473-49790fe430be",
+    "apple_album_id": 1434889136,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/819fb2ac-5327-4001-b0d7-2fa0e91e67b7/15658644470.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive image for release 819fb2ac; original pressing artwork assumed"
+      }
+    ],
+    "notes": "Three sessions, all in NYC (venue unspecified by jazzdisco). Jan 4: Gertrude's Bounce, Powell's Prances (also Junior's Arrival \u2014 bonus track not on original album). Feb 16: What Is This Thing Called Love?, Love Is a Many-Splendored Thing. Feb 17: I'll Remember April, Time, The Scene Is Clean (also Flossie Lou \u2014 bonus track). All personnel the same across all three sessions. Engineer not documented in available sources. This was Brown and Powell's final studio album \u2014 both died in a car accident June 1956."
+  },
+  "ballot": {
+    "album": "Clifford Brown & Max Roach \u2014 At Basin Street (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "This is a defining late statement of the Brown\u2013Roach Quintet, with Sonny Rollins replacing Harold Land and creating an extraordinary front line alongside Clifford Brown; the dossier documents the three 1956 sessions and full personnel through S1 and S2. The Brown, Roach, Rollins, Richie Powell, and George Morrow lineup has exceptional session gravity, while tracks such as \"I'll Remember April,\" \"What Is This Thing Called Love?,\" and Powell's originals meet the discovery test through immediate, technically dazzling hard-bop swing. The dossier reports consensus across Penguin Guide, AllMusic, DownBeat, and The Rolling Stone Jazz Record Guide, and the album's status as Brown and Powell's final studio document adds historical weight without being its sole justification.",
+    "case_against": "The dossier's strongest consensus claim is not directly sourced: S1\u2013S5 are primarily encyclopedia, discography, identifier, and artwork sources rather than the named critical guides, so the evidence package needs a critical-source follow-up. Within the quintet's discography, the 1954 debut and 1955's Study in Brown are often preferred as more fully settled Brown\u2013Roach statements, while At Basin Street captures the Rollins lineup only briefly and is misleadingly titled as though it were a live Basin Street performance. The unidentified venue and undocumented engineer are minor hygiene gaps, not substantive musical objections.",
+    "disagreement": null,
+    "recommendation": "John should treat this as a must-have consensus-core hard-bop record, while requesting at least one direct critical source to substantiate the reported consensus before final staging.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

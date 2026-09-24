@@ -1,0 +1,486 @@
+{
+ "id": "chick-corea-gary-burton-lyric-suite-for-sextet-1982",
+ "artist": "Chick Corea and Gary Burton",
+ "album": "Lyric Suite for Sextet",
+ "year": 1982,
+ "label": "ECM",
+ "catalog_number": "ECM 1260",
+ "style_primary": "post-bop",
+ "style_tags": [
+  "post-bop",
+  "ecm"
+ ],
+ "rationale": "obs[S4, S6]: ECM 1260, recorded September 1982 at Mad Hatter Studios, Los Angeles, and released September 1983 (S4 original release date 01.09.1983; S3 released September 1983; S6 original LP 1983). YEAR DIVERGENCE RECORDED, NOT RESOLVED: every source dates the recording to September 1982, so the year field carries the recording year 1982 while the id/filename keeps the 1983 release year given at dispatch, per the goal's instruction not to rename. obs[S3]: the third studio recording by the Corea–Burton duo, following Crystal Silence (1972) and Duet (1978), with the piano–vibraphone pair joined by a string quartet — Ik-Hwan Bae and Carol Shive (violins), Karen Dreyfus (viola), Fred Sherry (cello), each chair named by specific instrument in every source (S1, S2, S4, S6, S10, S11), never as generic 'strings'. obs[S1, S3, S4, S6]: a single seven-part suite, every movement composed by Chick Corea, including 'Part 3 – Sketch (For Thelonious Monk)', an explicitly named reach-back to the 1960s lineage. obs[S13]: the album's only Grammy nomination was in a classical category — Best Chamber Music Performance, 1984, Chick Corea & Gary Burton (per the artist's official awards page) — the industry read this record as chamber music, and that boundary judgment is the load-bearing fact of the candidacy. obs[S3]: standing is modest: Wikipedia's review-scores table gives AllMusic 2.5/5 (the rating renders as an image on AllMusic's own page) and the Penguin Guide to Jazz Recordings 3/4 stars, and Dave Connolly's AllMusic review calls the suite 'sophisticated but ultimately elusive', preferring 'a duet with some string support' to 'a sextet of equal partners' (S1). obs[S10, S12]: independent coverage is warmer — ecmreviews calls it 'a classic to be sure' of the concept-album register, and JazzTimes groups it with Burton's Seven Songs and Jarrett's In the Light as 'a lovely and intriguing Third Stream triptych', noting Corea's likely inspiration in Alban Berg's Lyric Suite and 'the Olympian improvisation on display here'. inf: no source in this pass documents placement on a major published canon list; the case rests on lineage — the canon already holds the duo's Crystal Silence (1972) and Corea's Now He Sings, Now He Sobs (1968) — rather than on documented standing. AllMusic styles the album Post-Bop (S1), the only style classification any source assigns it; Wikipedia's genre is simply Jazz (S3).",
+ "priority": "consider",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "Lyric Suite for Sextet — AllMusic album page (styles, recording date/location, duration, moods, Dave Connolly review, per-track performer credits)",
+   "type": "overview",
+   "url": "https://www.allmusic.com/album/lyric-suite-for-sextet-mw0000201315",
+   "notes": "AllMusic attributes the album to 'Gary Burton / Chick Corea' and prints release date 'September, 1982' — the recording month as release date, the same aggregation quirk the Offramp dossier recorded; both preserved here as content. Per-track credits name Burton, Corea, Bae and Shive on all seven movements."
+  },
+  "S2": {
+   "title": "Lyric Suite for Sextet — AllMusic credits page (full role credits: engineer, mixing, design, cover photo, producer, performers by instrument)",
+   "type": "credits",
+   "url": "https://www.allmusic.com/album/lyric-suite-for-sextet-mw0000201315/credits",
+   "notes": "Carries the same violinist under two artist IDs — 'Ik-Hwan Bae' (Violin) and 'Ikwhan Bae' (Primary Artist) — recorded as an AllMusic quirk."
+  },
+  "S3": {
+   "title": "Lyric Suite for Sextet — Wikipedia album article (dates, studio, personnel, label/producer, reception table, track listing, MusicBrainz link)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Lyric_Suite_for_Sextet",
+   "notes": "Infobox: released September 1983, recorded September 1982, studio 'Mad Hatter, Los Angeles, California', ECM 1260, producer Manfred Eicher. Prints 'Carol Shrive' where all other sources print 'Carol Shive' — conflict preserved. Review-scores table: AllMusic 2.5/5, Penguin Guide 3/4 (citing Cook & Morton, Penguin Guide to Jazz Recordings, 9th ed. 2008, p. 307)."
+  },
+  "S4": {
+   "title": "Lyric Suite For Sextet — ECM Records official catalogue page (ECM 1260: featured artists with instruments, recorded September 1982 Mad Hatter Studios Los Angeles, original release date 01.09.1983, tracks with durations)",
+   "type": "label-catalogue",
+   "url": "https://ecmrecords.com/product/lyric-suite-for-sextet-chick-corea-gary-burton/",
+   "notes": "House source — authoritative on credits and catalogue facts, never independent on merit (per config/style-research/ecm.md). Also prints the shop listing's 1992 CD reissue date alongside the authoritative original release date 01.09.1983."
+  },
+  "S5": {
+   "title": "Chick Corea / Gary Burton – Lyric Suite For Sextet — Discogs master page (15 versions, track listing, credits)",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/285018-Chick-Corea-Gary-Burton-Lyric-Suite-For-Sextet",
+   "notes": "Original pressings: Germany/Canada/US/Japan 1983 (ECM 1260 / 815 274-1); no 1983 LP in MusicBrainz, so Discogs carries the original-release record here."
+  },
+  "S6": {
+   "title": "Chick Corea / Gary Burton – Lyric Suite For Sextet — Discogs original 1983 German LP ECM 1260 / 815 274-1 (r1904417): sides, durations, sleeve credit line, full credits, matrix/barcode",
+   "type": "discography",
+   "url": "https://www.discogs.com/release/1904417-Chick-Corea-Gary-Burton-Lyric-Suite-For-Sextet",
+   "notes": "Sleeve prints 'Recorded September 1982'; companies: Recorded At – Mad Hatter Studios, Mixed At – Tonstudio Bauer; Violin [1st] – Ikwhan Bae, Violin [2nd] – Carol Shive; Vibraphone [Vibraharp] – Gary Burton; design Dieter Rehm, cover photo Hubertus Mall."
+  },
+  "S7": {
+   "title": "Lyric Suite for Sextet by Chick Corea & Gary Burton — MusicBrainz release group (ws/2 JSON: artist and title verified, first-release-date 2000-08-15, releases = 2000 German CD ECM 815 274-2 and digital barcode 042281527425)",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/ws/2/release-group/ec524b63-9f4b-3299-82a1-9733db26c9a2?inc=releases+media+artist-credits&fmt=json"
+  },
+  "S8": {
+   "title": "iTunes Search API — Chick Corea Gary Burton Lyric Suite for Sextet album results (collectionId 1443482171, artistName 'Chick Corea & Gary Burton', collectionName 'Lyric Suite for Sextet', trackCount 7, ℗ 1983 ECM Records GmbH, primaryGenre Jazz)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Chick+Corea+Gary+Burton+Lyric+Suite+for+Sextet&entity=album&limit=10",
+   "notes": "Artwork base https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/5a/78/b65a7830-5500-4ed8-74bc-f00cf4608c84/00042281527425.rgb.jpg — the 1000x1000bb form verified HTTP 200 image/jpeg."
+  },
+  "S9": {
+   "title": "Cover Art Archive — MusicBrainz release group ec524b63-9f4b-3299-82a1-9733db26c9a2 (queried at release-group and release level: no cover art, HTTP 404)",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/ec524b63-9f4b-3299-82a1-9733db26c9a2",
+   "notes": "Negative result documented — the negative is why the cover_art entry falls back to the verified iTunes front."
+  },
+  "S10": {
+   "title": "Chick Corea/Gary Burton: Lyric Suite For Sextet (ECM 1260) — ecmreviews.com review 'Between Sound and Space' (personnel with instruments, recorded September 1982 Mad Hatter Studios Los Angeles, engineer Bernie Kirsh, producer Manfred Eicher)",
+   "type": "review",
+   "url": "https://ecmreviews.com/2011/12/21/lyric-suite-for-sextet/",
+   "notes": "Independent review site, not the label."
+  },
+  "S11": {
+   "title": "Chick Corea Catalog — JazzDiscography.com sessionography (ECM 1260 entry: personnel with 1st/2nd violin chairs, Mad Hatter Studios Los Angeles CA September 1982)",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/chick-corea/catalog/",
+   "notes": "Prints 'Ikwhan Bae, 1st violin; Carol Shive, 2nd violin; Karen Dreyfus, viola; Fred Sherry, cello; Gary Burton, vibraharp; Chick Corea, piano. Mad Hatter Studios, Los Angeles, CA, September, 1982'."
+  },
+  "S12": {
+   "title": "Three from the Third Stream: Unheralded Classical Works of Jazz Masters Gary Burton, Chick Corea and Keith Jarrett — JazzTimes review-essay (Third Stream framing, September 1982 date, Fred Sherry's chamber-world identity, Alban Berg inspiration, 'Waltz'–'Mirror, Mirror' lineage note)",
+   "type": "review",
+   "url": "https://www.jazztimes.com/reviews/albums/three-from-the-third-stream-unheralded-classical-works-of-jazz-masters-gary-burton-chick-corea-and-keith-jarrett/",
+   "notes": "Independent magazine; frames the record as part of a 'Third Stream triptych' in the Gunther Schuller/John Lewis tradition named in the 1950s."
+  },
+  "S13": {
+   "title": "Awards — Chick Corea official site (1984 Grammy Nomination, Best Chamber Music Performance, Lyric Suite for Sextet, Chick Corea & Gary Burton)",
+   "type": "artist-site",
+   "url": "https://chickcorea.com/awards/",
+   "notes": "The artist's official awards page — used only for the institutional fact of the nomination, not for merit."
+  },
+  "S14": {
+   "title": "Mad Hatter Studios — Discogs label page (address 2635 Griffith Park Blvd, Los Angeles, CA 90039, listed via Golden Era Productions)",
+   "type": "location",
+   "url": "https://www.discogs.com/label/284814-Mad-Hatter-Studios",
+   "notes": "Address source for the site_new object; geocoded via scripts/geocode-place.py rung 2 (OSM Nominatim on the documented address)."
+  }
+ },
+ "continuity_case": "This is the chamber-jazz seam, and the continuity argument runs through personnel and formats the canon already holds rather than through the label. The Corea–Burton duo is canon ground: Crystal Silence (1972) is already in the collection, and this record is that same duo's third studio recording — the piano–vibraphone dialogue at its center is the direct continuation, now framed by a string quartet instead of a rhythm section. Corea's 1960s post-bop language (Now He Sings, Now He Sobs, 1968, already in the collection) stays audible, and Part 3 is titled 'Sketch (For Thelonious Monk)', an explicitly named reach-back to the canon's core lineage (S3, S4, S6). The format itself extends a canon tradition: vibraphone in a chamber setting is the Modern Jazz Quartet line (Django, 1955, already in the collection), and JazzTimes frames the record in exactly those terms — Third Stream, the Gunther Schuller/John Lewis merger tradition named in the 1950s (S12). The improvising core remains jazz on every source's account: Connolly's lukewarm review still locates the album's engine in the Burton–Corea relationship (S1), and JazzTimes hears 'the Olympian improvisation on display here' with Corea's soloing 'off the seismic charts' on the opening movement (S12). Would the case hold if the record had appeared on Impulse! or Columbia? Yes — it rests on the duo lineage, the MJQ chamber tradition, Corea's compositions, and the Monk tribute, none of which the label supplies.",
+ "overlap_risk": "post-bop — the Corea–Burton duo lineage sits equally on a post-bop run's ground (Crystal Silence is already canon under that seam), and a post-bop run claiming the duo directly would be arguing the same lineage; dispatch-level dedup for this candidate returned clean, so there is no live conflict. Not fusion: no electric instrument is credited anywhere in the sources (acoustic piano, vibraphone, two violins, viola, cello). Not late-modal ECM. The record's real seam — jazz-with-strings / Third Stream — is owned by no other style module; it is this module's boundary to argue, and the module's hard OUT (ECM New Series contemporary-classical releases with no jazz improvisation) stops short of this record only because Corea and Burton demonstrably improvise throughout (S1, S12).",
+ "scope_flag": "ECM gate, 1980s wing — recorded September 1982, released September 1983: inside the module's 1969–1985 window (extended with the canon window on 2026-09-24) and inside the 1945–1985 eligibility window the dispatch confirms this candidate already passed under artist 'Chick Corea and Gary Burton'. Per the module, 1980s arrivals lean scope_call/contested doubly, and this record sits on the gate's hardest boundary: the chamber-jazz seam. The boundary's sharpest document is institutional — the album's only Grammy nomination was in Best Chamber Music Performance (1984), a classical category; the industry itself read the record as closer to chamber music than to jazz (S13). Strongest case against: Connolly's reading — 'a duet with some string support' rather than a sextet of equal partners — plus modest critical standing (AllMusic 2.5/5, Penguin Guide 3/4 via S3) and a Third Stream format whose classical side can read as the label's handsomeness rather than as jazz substance (S1, S3, S12). Strongest case for: it extends a duo and a chamber-jazz tradition the canon already holds (Crystal Silence, MJQ Django), carries an explicit Monk-tribute movement, and has jazz improvisation as the documented engine of the record (S12).",
+ "include": null,
+ "personnel_record": {
+  "recording_dates": [
+   "1982-09"
+  ],
+  "multi_session": false,
+  "studio": "Mad Hatter Studios, Los Angeles",
+  "recording_sites": [
+   {
+    "session_date": "1982-09",
+    "site_raw": "Mad Hatter Studios, Los Angeles",
+    "site_slug": null,
+    "site_new": {
+     "name": "Mad Hatter Studios",
+     "city": "Los Angeles, CA",
+     "kind": "studio",
+     "address": "2635 Griffith Park Blvd",
+     "lat": 34.1053,
+     "lon": -118.27208,
+     "location_epistemic": "obs",
+     "location_source": "https://www.discogs.com/label/284814-Mad-Hatter-Studios | coords: OSM Nominatim: 2635 Griffith Park Blvd, Los Angeles, CA — geocoded from documented address"
+    },
+    "epistemic": "obs",
+    "source": "S4"
+   }
+  ],
+  "producer": "Manfred Eicher",
+  "engineer": "Bernie Kirsh",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Chick Corea",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S6",
+     "S10",
+     "S11"
+    ],
+    "name_variants": [],
+    "notes": "Co-leader. Composed all seven movements of the suite (S1, S3, S4, S6). AllMusic also carries a generic 'Keyboards' credit (S2) — no other source credits any keyboard instrument besides piano; taxonomy-primary instrument recorded as piano. AllMusic per-track credits name him on all seven movements (S1)."
+   },
+   {
+    "name": "Gary Burton",
+    "instrument": "vibraphone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S6",
+     "S10",
+     "S11"
+    ],
+    "name_variants": [],
+    "notes": "Co-leader. The original LP prints 'Vibraphone [Vibraharp]' (S6) and ecmreviews, jazzdisco and the AllMusic review print 'vibraharp' (S10, S11, S1) — the taxonomy-canonical instrument is recorded as vibraphone. AllMusic per-track credits name him on all seven movements (S1)."
+   },
+   {
+    "name": "Ik-Hwan Bae",
+    "instrument": "violin",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S6",
+     "S10",
+     "S11"
+    ],
+    "name_variants": [
+     "Ikhwan Bae",
+     "Ikwhan Bae"
+    ],
+    "notes": "1st violin (S6, S11). Canonical form follows Wikipedia's linked article and AllMusic's violin credit (S3, S2); ECM prints 'Ikhwan Bae' (S4) and Discogs, ecmreviews and jazzdisco print 'Ikwhan Bae' (S6, S10, S11) — AllMusic carries the same musician under two artist IDs ('Ik-Hwan Bae', Violin; 'Ikwhan Bae', Primary Artist; S2). AllMusic per-track credits name him on all seven movements (S1)."
+   },
+   {
+    "name": "Carol Shive",
+    "instrument": "violin",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S6",
+     "S10",
+     "S11"
+    ],
+    "name_variants": [
+     "Carol Shrive"
+    ],
+    "notes": "2nd violin (S6, S11). Spelling conflict preserved: Wikipedia prints 'Carol Shrive' (S3) while ECM, AllMusic, Discogs, ecmreviews and jazzdisco print 'Carol Shive' (S4, S1, S2, S6, S10, S11) — the majority form is canonical with the variant recorded. AllMusic per-track credits name her on all seven movements (S1)."
+   },
+   {
+    "name": "Karen Dreyfus",
+    "instrument": "viola",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S6",
+     "S10",
+     "S11"
+    ],
+    "name_variants": [],
+    "notes": "Album-level viola credit in every source (S1, S2, S3, S4, S6, S10, S11); no source assigns per-movement coverage — AllMusic's per-track credits omit her (S1)."
+   },
+   {
+    "name": "Fred Sherry",
+    "instrument": "cello",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S6",
+     "S10",
+     "S11"
+    ],
+    "name_variants": [],
+    "notes": "Album-level cello credit in every source (S1, S2, S3, S4, S6, S10, S11); no source assigns per-movement coverage — AllMusic's per-track credits omit him (S1). JazzTimes identifies him with the New York chamber/New Music world (S12)."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Part 1 - Overture",
+    "track_number": 1,
+    "side": "A",
+    "duration": "6:25",
+    "session_date": null,
+    "composers": [
+     "Chick Corea"
+    ],
+    "personnel": [
+     "Chick Corea",
+     "Gary Burton",
+     "Ik-Hwan Bae",
+     "Carol Shive",
+     "Karen Dreyfus",
+     "Fred Sherry"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "title": "Part 2 - Waltz",
+    "track_number": 2,
+    "side": "A",
+    "duration": "7:13",
+    "session_date": null,
+    "composers": [
+     "Chick Corea"
+    ],
+    "personnel": [
+     "Chick Corea",
+     "Gary Burton",
+     "Ik-Hwan Bae",
+     "Carol Shive",
+     "Karen Dreyfus",
+     "Fred Sherry"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "title": "Part 3 - Sketch (For Thelonious Monk)",
+    "track_number": 3,
+    "side": "A",
+    "duration": "2:12",
+    "session_date": null,
+    "composers": [
+     "Chick Corea"
+    ],
+    "personnel": [
+     "Chick Corea",
+     "Gary Burton",
+     "Ik-Hwan Bae",
+     "Carol Shive",
+     "Karen Dreyfus",
+     "Fred Sherry"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "title": "Part 4 - Roller Coaster",
+    "track_number": 4,
+    "side": "A",
+    "duration": "1:22",
+    "session_date": null,
+    "composers": [
+     "Chick Corea"
+    ],
+    "personnel": [
+     "Chick Corea",
+     "Gary Burton",
+     "Ik-Hwan Bae",
+     "Carol Shive",
+     "Karen Dreyfus",
+     "Fred Sherry"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "title": "Part 5 - Brasilia",
+    "track_number": 5,
+    "side": "B",
+    "duration": "7:59",
+    "session_date": null,
+    "composers": [
+     "Chick Corea"
+    ],
+    "personnel": [
+     "Chick Corea",
+     "Gary Burton",
+     "Ik-Hwan Bae",
+     "Carol Shive",
+     "Karen Dreyfus",
+     "Fred Sherry"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "title": "Part 6 - Dream",
+    "track_number": 6,
+    "side": "B",
+    "duration": "10:37",
+    "session_date": null,
+    "composers": [
+     "Chick Corea"
+    ],
+    "personnel": [
+     "Chick Corea",
+     "Gary Burton",
+     "Ik-Hwan Bae",
+     "Carol Shive",
+     "Karen Dreyfus",
+     "Fred Sherry"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "title": "Part 7 - Finale",
+    "track_number": 7,
+    "side": "B",
+    "duration": "3:54",
+    "session_date": null,
+    "composers": [
+     "Chick Corea"
+    ],
+    "personnel": [
+     "Chick Corea",
+     "Gary Burton",
+     "Ik-Hwan Bae",
+     "Carol Shive",
+     "Karen Dreyfus",
+     "Fred Sherry"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ]
+   }
+  ],
+  "track_assignments_complete": false,
+  "musicbrainz_release_group_mbid": "ec524b63-9f4b-3299-82a1-9733db26c9a2",
+  "apple_album_id": "1443482171",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "itunes",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/5a/78/b65a7830-5500-4ed8-74bc-f00cf4608c84/00042281527425.rgb.jpg/1000x1000bb.jpg",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "sources": [
+     "S8"
+    ],
+    "notes": "Cover Art Archive holds no art for this release group or either of its MusicBrainz releases (HTTP 404, S9), so the single entry falls back to the iTunes 1000x1000 front, verified HTTP 200 image/jpeg on fetch. The artwork is bound to Apple collectionId 1443482171 (barcode 042281527425, the ECM 815 274-2 CD lineage) and carries the original 1983 sleeve design — cover photo by Hubertus Mall per S2 and S6. No i.discogs.com URL used."
+   }
+  ],
+  "notes": "Single recording block documented only to the month: no day-level dates in any consulted source (S1, S3, S4, S6, S10, S11 all print September 1982), so recording_dates carries the ISO partial '1982-09', the one recording_sites entry is keyed to it, and multi_session is false. VENUE: every source names Mad Hatter Studios, Los Angeles (S1 'Mad Hatter Studios, Los Angeles, CA'; S4 'September 1982, Mad Hatter Studios, Los Angeles'; S11 'Mad Hatter Studios, Los Angeles, CA, September, 1982'; S6 company credit 'Recorded At – Mad Hatter Studios'; S3 infobox 'Mad Hatter, Los Angeles, California'). Mad Hatter Studios is absent from the live canonical places set — checked against jazz-canon app/public/data/places.json as a floor, today's known DB additions (power-station, apex-studios, cp-macgregor-studios, theater-am-kornmarkt-bregenz), and a repo-wide search — so one complete site_new is emitted: address 2635 Griffith Park Blvd as documented by the Discogs label page (S14), which lists the facility via Golden Era Productions, its later owner — the address is recorded as documented and the ownership-era caveat is preserved here rather than silently resolved; coordinates from scripts/geocode-place.py rung 2 (OSM Nominatim on the documented address), location_epistemic obs. MIXING IS NOT A RECORDING SESSION: the original LP carries 'Mixed At – Tonstudio Bauer' with Martin Wieland as Engineer [Mixing] (S6; S2 'Mixing, Mixing Engineer') — Tonstudio Bauer, Ludwigsburg (canonical as studio-bauer-ludwigsburg) is the mix room only and is recorded in this note, not in recording_sites. Engineers: Bernie Kirsh recorded (S2, S6, S10); Martin Wieland mixed (S2, S6). Production: Manfred Eicher producer (S2, S3, S6, S10); design Dieter Rehm, cover photo Hubertus Mall (S2, S6); publisher Litha Music (S6). Durations: ECM and the original LP agree exactly (6:25 / 7:13 / 2:12 / 1:22 / 7:59 / 10:37 / 3:54) and are used here; Wikipedia's listing differs on five movements (7:11 / 2:13 / 1:25 / 7:57 / 10:33) and totals 39:38 against AllMusic's 39:42 — reissue/transfer variations recorded as content, not alternate takes. AllMusic quirks preserved as content: the album page prints release date 'September, 1982' (the recording month, not the 1983 release) and carries the same violinist under two artist IDs. Per-movement string coverage: AllMusic's per-track credits name Burton, Corea, Bae and Shive on all seven movements but omit Dreyfus and Sherry, whose viola and cello credits are album-level — so all six musicians are carried on every movement on the strength of the album-level listings, and track_assignments_complete is false for exactly that reason. MusicBrainz holds no 1983 LP for this album: the release group's first-release-date is 2000-08-15 (the German 2000 CD ECM 815 274-2 plus a digital edition, barcode 042281527425) (S7). The album's only Grammy nomination was in a classical category — Best Chamber Music Performance, 1984, Chick Corea & Gary Burton (S13) — recorded here as the chamber-seam's sharpest institutional document. The suite is a single through-composed work; the LP splits it A1-A4 / B1-B3 (S6). No alternate takes or bonus tracks on the original release."
+ },
+ "ballot": {
+  "album": "Chick Corea and Gary Burton — Lyric Suite for Sextet (1982)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": "Recorded in 1982 and released in 1983, it falls within 1945–1985, but it is a doubly borderline 1980–1985 ECM arrival and sits on the Third Stream/chamber-jazz boundary; its 1984 Grammy nomination was in Best Chamber Music Performance (S13)."
+  },
+  "tier": "scope_call",
+  "priority": "consider",
+  "case_for": "The album extends the canon's existing Corea–Burton lineage from Crystal Silence, while retaining Corea's post-bop language and explicitly reaching back to Monk in “Sketch (For Thelonious Monk)” (S1, S3, S4, S6). Its acoustic piano–vibraphone improvisation framed by strings connects the Modern Jazz Quartet and Gunther Schuller's Third Stream tradition; JazzTimes hears “Olympian improvisation,” and the record remains distinct from non-improvisational contemporary classical music (S12). The personnel also carries substantial session gravity through two canon-level figures, and the case would survive removal of the ECM label's prestige because the lineage is musical rather than merely institutional.",
+  "case_against": "The album lacks documented placement on major canon lists, while the available critical evidence is mixed: AllMusic rates it 2.5/5 and calls it “sophisticated but ultimately elusive,” and Penguin gives it 3/4 stars (S1, S3). Connolly hears a duet with string support rather than an integrated sextet, and the through-composed chamber format plus classical Grammy classification can make it feel like an academic art-music object with improvised passages rather than a load-bearing post-bebop jazz statement. It is also a third Corea–Burton studio collaboration whose defining document remains Crystal Silence, weakening its discovery and necessity claims.",
+  "disagreement": null,
+  "recommendation": "John should treat this as a serious but nonessential boundary candidate and decide whether its chamber-jazz continuity outweighs its modest standing and diluted jazz-core risk.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

@@ -1,0 +1,271 @@
+{
+  "id": "lee-konitz-motion-1961",
+  "artist": "Lee Konitz",
+  "album": "Motion",
+  "year": 1961,
+  "label": "Verve",
+  "style_primary": "cool-jazz",
+  "rationale": "Penguin Guide Core Collection with a crown accolade \u2014 'one of the great modern jazz records.' A pianoless standards trio where the cool-school alto master meets Elvin Jones's polyrhythmic drive on the eve of the Coltrane quartet; the seam between cool-jazz lyricism and incoming post-bop rhythm. Bridge case: for a listener coming from the composed canon, Motion shows how a full-frontal rhythm section frees a linear improviser \u2014 the heads are fragments, the time is elastic, and Konitz's behind-the-beat phrasing is the cool aesthetic taken to its interactive extreme.",
+  "priority": "high",
+  "epistemic": "obs",
+  "scope_flag": "cool-jazz leader with post-bop drummer; stylistic boundary record on the cool-to-post-bop seam",
+  "scope_call": "contested",
+  "include": null,
+  "bridge_case": "Pianoless trio with Elvin Jones: the cool-jazz tradition encountering the new 1961 rhythmic language; teaches how interactive drumming transforms standards improvisation.",
+  "accessibility": "intermediate",
+  "sources": {
+    "S1": {
+      "name": "AllMusic \u2014 Motion album page",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/motion-mw0000188278",
+      "accessed": "2026-09-11",
+      "notes": "Recording Date August 29, 1961; Recording Location Olmsted Sound Studios, New York, NY; Styles: Cool, Post-Bop; 5 tracks, 37:42."
+    },
+    "S2": {
+      "name": "Wikipedia \u2014 Motion (Lee Konitz album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Motion_(Lee_Konitz_album)",
+      "accessed": "2026-09-11",
+      "notes": "Recorded August 29, 1961; studio Olmsted Sound, New York City; producer Creed Taylor; personnel: Konitz alto, Dallas bass, Jones drums; track listing with durations; released 1961 per Billboard Nov 6, 1961."
+    },
+    "S3": {
+      "name": "Discogs \u2014 Lee Konitz Motion master release",
+      "type": "web",
+      "url": "https://www.discogs.com/master/258193-Lee-Konitz-Motion",
+      "accessed": "2026-09-11",
+      "notes": "Credits: Konitz alto saxophone; Sonny Dallas bass; Elvin Ray Jones drums; Dick Olmstead engineer [recording]; liner notes Lee Konitz and Nat Hentoff. 'Recorded August 29, 1961 in New York City.' Track durations; Verve V-8399/V6-8399."
+    },
+    "S4": {
+      "name": "iTunes Search API",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Lee+Konitz+Motion&entity=album",
+      "accessed": "2026-09-11",
+      "notes": "collectionId 1443156218 \u2014 'Motion ((Remastered))', Lee Konitz, releaseDate 1961-01-01, 5 tracks."
+    },
+    "S5": {
+      "name": "MusicBrainz API",
+      "type": "api",
+      "url": "https://musicbrainz.org/ws/2/release-group/?query=releasegroup:Motion%20AND%20artist:Lee%20Konitz&fmt=json",
+      "accessed": "2026-09-11",
+      "notes": "Release-group MBID 6dda23e4-581e-329f-a2c3-a956cb8f9f6e (Motion, Album, first-release-date 1961). A second RG c0033e4f-db63-32e1-9602-2329247839d0 (1998) covers the expanded reissue."
+    },
+    "S6": {
+      "name": "Cover Art Archive",
+      "type": "api",
+      "url": "https://coverartarchive.org/release-group/6dda23e4-581e-329f-a2c3-a956cb8f9f6e/",
+      "accessed": "2026-09-11",
+      "notes": "Front cover image from MB release 9471cbf2-41a9-4259-8c48-1610b0a92e4e."
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-08-29"
+    ],
+    "multi_session": false,
+    "studio": "Olmsted Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1961-08-29",
+        "site_raw": "Olmsted Sound Studios, New York, NY",
+        "site_slug": "olmstead-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Creed Taylor",
+    "engineer": "Dick Olmstead",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Lee Konitz",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-08-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also credited for liner notes on Discogs (S3), alongside Nat Hentoff."
+      },
+      {
+        "name": "Sonny Dallas",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-08-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1961-08-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Elvin Ray Jones"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "I Remember You",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:30",
+        "session_date": "1961-08-29",
+        "composers": [
+          "Victor Schertzinger",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Lee Konitz",
+          "Sonny Dallas",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "All of Me",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:41",
+        "session_date": "1961-08-29",
+        "composers": [
+          "Gerald Marks",
+          "Seymour Simons"
+        ],
+        "personnel": [
+          "Lee Konitz",
+          "Sonny Dallas",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Foolin' Myself",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:01",
+        "session_date": "1961-08-29",
+        "composers": [
+          "Jack Lawrence",
+          "Peter Tinturin"
+        ],
+        "personnel": [
+          "Lee Konitz",
+          "Sonny Dallas",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "You'd Be So Nice to Come Home To",
+        "track_number": 4,
+        "side": "B",
+        "duration": "10:45",
+        "session_date": "1961-08-29",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Lee Konitz",
+          "Sonny Dallas",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'll Remember April",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:01",
+        "session_date": "1961-08-29",
+        "composers": [
+          "Gene DePaul",
+          "Patricia Johnston",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Lee Konitz",
+          "Sonny Dallas",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "6dda23e4-581e-329f-a2c3-a956cb8f9f6e",
+    "apple_album_id": "1443156218",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/9471cbf2-41a9-4259-8c48-1610b0a92e4e/20546070434.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front image from MB release 9471cbf2 (Verve LP issue); matched to the 1961 original by release-group first-release-date, pressing not individually verified."
+      }
+    ],
+    "notes": "Single session, August 29, 1961. Studio: AllMusic (S1) prints 'Olmsted Sound Studios, New York, NY'; Wikipedia (S2) infobox 'Olmsted Sound' New York City; Discogs (S3) 'Recorded August 29, 1961 in New York City'. Site slug taken as olmstead-sound-studios (canonical spelling) with epistemic obs from S1. Producer: Creed Taylor per Wikipedia infobox (S2, obs); Discogs lists no producer \u2014 no conflict, but S2 is the sole direct source. Engineer: Dick Olmstead per Discogs (S3, obs); Discogs artist page 'Dick Olmsted' vs credit 'Dick Olmstead*' \u2014 spelling conflict preserved, canonical form not asserted. All five tracks are from one session with the same trio, so per-track assignments are source-confirmed for all three musicians. Duration conflicts: Wikipedia 4:30/7:41/7:01/10:45/8:01 (total 37:58) vs Discogs 4:24/7:36/6:55/10:38/9:01; Wikipedia durations used in tracks, conflict recorded here. Reissues (1990 CD with 8 tracks, 1998 CD with 38) added material from different sessions with drummer Nick Stabulas; excluded here per Wikipedia (S2). Taxonomy: alto saxophone, double bass, drums are all canonical taxonomy strings. Photography credit Pete Turner (S2) is outside the personnel taxonomy and not included as personnel. Apple album id 1443156218 is the 'Motion ((Remastered))' reissue (5 tracks) \u2014 confident match on name/artist/year/track count."
+  },
+  "ballot": {
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity is the load-bearing signal: the cool school's supreme linear improviser, stripped of piano and arranging scaffolding, recorded on August 29, 1961 with Elvin Jones at the precise moment Jones was remaking jazz time inside the Coltrane quartet \u2014 a genuinely productive collision, with Sonny Dallas as the connective bassist (S1\u2013S3, all obs). The pianoless format forces Konitz into total linear exposure and turns well-worn standards ('I Remember You,' 'All of Me,' 'You'd Be So Nice to Come Home To') into elastic, interactive dialogues that anticipate the freer standards treatments of the mid-to-late 1960s. Per the dossier rationale and Ref 2, the record carries Penguin Guide Core Collection status with a rare Crown accolade \u2014 'one of the great modern jazz records' \u2014 and reads as Konitz's defining leader statement; it passes the discovery test, the friction between dry astringent alto and Jones's cross-rhythms still sounding daring rather than academic.",
+    "case_against": "The consensus pillar is asserted, not evidenced: the Penguin crown claim lives only in the dossier's prose while S1\u2013S6 are metadata databases (AllMusic, Wikipedia, Discogs, iTunes, MusicBrainz, Cover Art Archive) with no critical-press or musician-testimony source \u2014 the exact signal the for-case leans on is unverified. Motion is not obviously the right Konitz entry: the defining-record argument arguably belongs to Subconscious-Lee and the Tristano-era material, and nothing in the dossier argues why this title outperforms the more canonical alternatives. The program is five standards in strict head-and-solos form with no compositional or formal innovation, and the 'cool-to-post-bop seam' framing overstates the record \u2014 Konitz sounds like Konitz over Jones, a respected configuration rather than a genre pivot.",
+    "recommendation": "John should hold Motion as a contested, strong-priority candidate and have the Penguin Guide Core Collection/Crown claim verified against the guide itself (3rd/4th ed.) before deciding \u2014 if it verifies, the case tightens materially toward consensus_core, and he should weigh in the same pass whether Motion or Subconscious-Lee is the right first Konitz entry.",
+    "confidence": "medium"
+  }
+}

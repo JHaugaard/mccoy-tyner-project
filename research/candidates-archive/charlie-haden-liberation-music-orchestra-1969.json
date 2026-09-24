@@ -1,0 +1,480 @@
+{
+  "id": "charlie-haden-liberation-music-orchestra-1969",
+  "artist": "Charlie Haden",
+  "album": "Liberation Music Orchestra",
+  "year": 1969,
+  "label": "Impulse!",
+  "style_primary": "free-jazz",
+  "rationale": "Charlie Haden's debut as a bandleader, recorded April 27-29 1969 at Judson Hall, New York and released January 1970 on Impulse! (AS-9183). A political large-ensemble statement arranged by Carla Bley, weaving Spanish Civil War songs ('El Quinto Regimiento', 'Los Cuatro Generales', 'Viva la Quince Brigada'), Ornette Coleman's 'War Orphans', Haden originals ('Song for Ch\u00e9', 'Circus '68 '69' \u2014 the latter re-enacting the 1968 Democratic Convention floor), and 'We Shall Overcome'. Personnel gravity is extraordinary: Don Cherry, Dewey Redman, Gato Barbieri, Roswell Rudd, Howard Johnson, Paul Motian, Andrew Cyrille. Consensus across the reception box: AllMusic 4.5 stars, DownBeat 4 stars (Dan Morgenstern), Penguin Guide 3.5 stars, Rolling Stone Jazz Record Guide 5 stars; Lester Bangs in Rolling Stone called Bley's arrangements 'miracles of dynamics'. An opened-gate arrival (free jazz) \u2014 the council should weigh its continuity: the Ornette lineage (Haden had played 'War Orphans' with Coleman in 1967) and the JCOA-adjacent arranging tradition reach straight back into the post-bop canon, while the collective improvisation and political program mark the free-jazz boundary.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Liberation Music Orchestra (album) \u2014 Wikipedia article (personnel, track listing, reception, recording date/venue)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Liberation_Music_Orchestra_(album)"
+    },
+    "S2": {
+      "title": "Liberation Music Orchestra \u2014 AllMusic album page (recording dates/location Judson Hall, NY, review by Steven McDonald)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/liberation-music-orchestra-mw0000204501"
+    },
+    "S3": {
+      "title": "Charlie Haden \u2013 Liberation Music Orchestra \u2014 Discogs release page (corroboration)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/3848895-Charlie-Haden-Liberation-Music-Orchestra"
+    },
+    "S4": {
+      "title": "Liberation Music Orchestra \u2014 MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/3e342e47-e33e-38cc-8ccd-6d8e17265ddd"
+    },
+    "S5": {
+      "title": "iTunes Lookup API \u2014 Liberation Music Orchestra (collectionId 1443906774) track list",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/lookup?id=1443906774&entity=song"
+    },
+    "S6": {
+      "title": "Cover Art Archive \u2014 MusicBrainz release group 3e342e47-e33e-38cc-8ccd-6d8e17265ddd",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/3e342e47-e33e-38cc-8ccd-6d8e17265ddd"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1969-04-27/1969-04-29"
+    ],
+    "multi_session": true,
+    "studio": "Judson Hall, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1969-04-27/1969-04-29",
+        "site_raw": "Judson Hall, New York City",
+        "site_slug": null,
+        "site_new": {
+          "name": "Judson Hall",
+          "city": "New York, NY",
+          "kind": "hall",
+          "address": "165 West 57th Street",
+          "lat": 40.76516,
+          "lon": -73.97895,
+          "location_epistemic": "obs",
+          "location_source": "Wikipedia: https://en.wikipedia.org/wiki/165_West_57th_Street (Carl Fischer Concert Hall renamed Judson Hall, reopened October 1960); Northwestern finding aid: 'Judson Hall, 165 W. 57th Street, New York, New York' | coords: OSM Nominatim: 165 West 57th Street, New York, NY \u2014 geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Perry Robinson",
+        "instrument": "clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Gato Barbieri",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Leandro Barbieri"
+        ],
+        "notes": "Also clarinet (Wikipedia: 'tenor saxophone, clarinet')."
+      },
+      {
+        "name": "Dewey Redman",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also tenor saxophone (Wikipedia: 'alto saxophone, tenor saxophone')."
+      },
+      {
+        "name": "Don Cherry",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also flute, Indian wood & bamboo flutes on tracks 3 and 5 (Wikipedia: 'cornet, flute, Indian wood & bamboo flutes (3,5)')."
+      },
+      {
+        "name": "Michael Mantler",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roswell Rudd",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bob Northern",
+        "instrument": "French horn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also hand wood blocks, crow call, bells, military whistle (Wikipedia)."
+      },
+      {
+        "name": "Howard Johnson",
+        "instrument": "tuba",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sam Brown",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Sam T. Brown"
+        ],
+        "notes": "Also Tanganyikan guitar, thumb piano (Wikipedia)."
+      },
+      {
+        "name": "Carla Bley",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also tambourine (Wikipedia). Principal arranger; composed 'The Introduction', 'The Ending to the First Side', 'The Interlude (Drinking Music)'."
+      },
+      {
+        "name": "Charlie Haden",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Leader. Composed 'Song for Ch\u00e9' and 'Circus '68 '69'."
+      },
+      {
+        "name": "Paul Motian",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also percussion (Wikipedia)."
+      },
+      {
+        "name": "Andrew Cyrille",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Circus '68 '69"
+        ],
+        "session_dates": [
+          "1969-04-27/1969-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: 'drums, percussion (8)' \u2014 track 8 on the CD sequence is 'Circus '68 '69'."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Introduction",
+        "track_number": 1,
+        "side": "A",
+        "duration": "1:15",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Carla Bley"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "Song of the United Front",
+        "track_number": 2,
+        "side": "A",
+        "duration": "1:53",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Bertolt Brecht",
+          "Hanns Eisler"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "El Quinto Regimiento (The Fifth Regiment)",
+        "track_number": 3,
+        "side": "A",
+        "duration": "21:01",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Traditional"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "The Ending to the First Side",
+        "track_number": 4,
+        "side": "A",
+        "duration": "2:08",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Carla Bley"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "Song for Ch\u00e9",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:30",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Charlie Haden"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "War Orphans",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:43",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "The Interlude (Drinking Music)",
+        "track_number": 7,
+        "side": "B",
+        "duration": "1:25",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Carla Bley"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "Circus '68 '69",
+        "track_number": 8,
+        "side": "B",
+        "duration": "6:10",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Charlie Haden"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      },
+      {
+        "title": "We Shall Overcome",
+        "track_number": 9,
+        "side": "B",
+        "duration": "1:19",
+        "session_date": "1969-04-27/1969-04-29",
+        "composers": [
+          "Zilphia Horton",
+          "Frank Hamilton",
+          "Guy Carawan",
+          "Pete Seeger"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S5"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "3e342e47-e33e-38cc-8ccd-6d8e17265ddd",
+    "apple_album_id": "1443906774",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/292729eb-ed58-4e15-8a96-b4d944876689/15739662632.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front cover from MusicBrainz CAA; release pressing uncertain but artwork matches the original Impulse! AS-9183."
+      }
+    ],
+    "notes": "Three-day session (April 27-29 1969) at Judson Hall, 165 West 57th Street, New York \u2014 the former Carl Fischer Concert Hall, renamed Judson Hall and reopened October 1960; new place minted. Released January 1970 on Impulse! AS-9183. Producer Bob Thiele per Wikipedia infobox; engineer not documented in the consulted sources (null, explicit). LP side A carries tracks 1-4 (The Introduction + Song of the United Front are printed together on the LP as one 3:07 track; the CD/iTunes sequence splits them, followed here since apple_album_id 1443906774 is the streaming copy). Don Cherry doubles on flute tracks 3 and 5 per Wikipedia numbering; Andrew Cyrille appears only on track 8. 'Circus '68 '69' divides the musicians into two bands re-enacting the 1968 Democratic Convention floor. Track-level personnel not assigned per-track (null); large-ensemble credits are album-level in the sources."
+  },
+  "ballot": {
+    "album": "Charlie Haden \u2014 Liberation Music Orchestra (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Free-jazz gate (opened 2026-07-28) is in play; the album is a Bley-arranged large-ensemble political program that uses free-jazz vocabulary rather than pure energy music, so the bridge test is genuinely engaged rather than asserted"
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The bridge test is met head-on: Haden brings his Ornette Coleman lineage directly (Cherry and Redman on the date, 'War Orphans' in the book), Carla Bley's arranging reaches into the JCOA tradition, and the Spanish Civil War / 'We Shall Overcome' / 1968 DNC political program extends the Mingus line of politically engaged jazz \u2014 this is a load-bearing link between the post-bop center and the radical-political wing, not a free-jazz outlier. Session gravity is extraordinary: Cherry, Redman, Barbieri, Rudd, Howard Johnson, Mantler, Motian, Cyrille, Bley on one date. Cross-tradition consensus is real (AllMusic 4.5\u2605, DownBeat 4\u2605, Penguin 3.5\u2605, Rolling Stone Jazz Record Guide 5\u2605; Lester Bangs called Bley's arrangements 'miracles of dynamics'), and it is the founding document of a project Haden returned to across five decades.",
+    "case_against": "The free-jazz gate's standing taste note applies: John is still studying the idiom and the cull rate is high by design \u2014 'Circus '68 '69,' which divides the band into two competing ensembles to re-enact the 1968 Democratic Convention floor, leans into the abrasive collective improvisation that is the hardest case in the project. The consensus ceiling is 'important and well-regarded,' not defining: no source places this alongside *The Shape of Jazz to Come* or *Out to Lunch!* at the top of the free-jazz sub-canon, and Penguin's 3.5\u2605 is respectable but not a crown. Sourcing is effectively single-rooted in Wikipedia with AllMusic and Discogs as corroboration; track-level personnel is null, Cyrille's assignment is inferred from CD sequence, and the engineer is undocumented.",
+    "disagreement": "Both references converge on contested/strong \u2014 no genuine split on tier or priority. Ref 1 emphasizes sourcing thinness and the consensus ceiling as the binding constraint; Ref 2 emphasizes 'Circus '68 '69' as the specific aesthetic-wall risk. The difference is emphasis, not outcome.",
+    "recommendation": "The council proposes John hear the album end-to-end and rule on whether the folk-melody grounding carries the free-jazz vocabulary past his aesthetic wall \u2014 the bridge case is strong enough to warrant the listen, not strong enough to short-circuit it.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

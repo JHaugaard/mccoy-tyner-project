@@ -1,0 +1,327 @@
+{
+  "id": "ben-webster-soulville-1957",
+  "artist": "Ben Webster",
+  "album": "Soulville",
+  "year": 1957,
+  "label": "Verve",
+  "style_primary": "hard-bop",
+  "rationale": "Ben Webster's defining statement as a leader, backed by the Oscar Peterson Trio. Consensus across major reference works: AllMusic 5/5, Penguin Guide 4/4, Rolling Stone Jazz Record Guide 5/5, DownBeat 4.5/5. A landmark of the mainstream/swing tradition within the post-bebop era, pairing Webster's grizzled, vaporous tenor with Peterson's restrained, sympathetic piano trio. The album is also notable for containing Webster's only recorded piano performances (on bonus tracks).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic - Soulville",
+      "type": "reference",
+      "url": "https://www.allmusic.com/album/soulville-mw0000198773"
+    },
+    "S2": {
+      "title": "Wikipedia - Soulville",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Soulville"
+    },
+    "S3": {
+      "title": "Discogs - Soulville master",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/249088-The-Ben-Webster-Quintet-Soulville"
+    },
+    "S4": {
+      "title": "MusicBrainz - Soulville",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/e4dd651d-3c51-4e2a-a9b0-f0f6a4f135cf"
+    },
+    "S5": {
+      "title": "Apple Music - Soulville",
+      "type": "streaming",
+      "url": "https://music.apple.com/us/album/soulville/1448387601"
+    },
+    "S6": {
+      "title": "Cover Art Archive - Soulville",
+      "type": "coverart",
+      "url": "https://coverartarchive.org/release-group/e4dd651d-3c51-4e2a-a9b0-f0f6a4f135cf"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-10-15"
+    ],
+    "multi_session": false,
+    "studio": "Capitol Studios, Hollywood, CA",
+    "recording_sites": [
+      {
+        "session_date": "1957-10-15",
+        "site_raw": "Capitol Studios, Hollywood, CA",
+        "site_slug": "capitol-records-studio-capitol-tower",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ben Webster",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also plays piano on reissue bonus tracks, not on original LP"
+      },
+      {
+        "name": "Oscar Peterson",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Brown",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herb Ellis",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Stan Levey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Soulville",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:03",
+        "session_date": "1957-10-15",
+        "composers": [
+          "Ben Webster"
+        ],
+        "personnel": [
+          "Ben Webster",
+          "Oscar Peterson",
+          "Ray Brown",
+          "Herb Ellis",
+          "Stan Levey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Late Date",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:13",
+        "session_date": "1957-10-15",
+        "composers": [
+          "Ben Webster"
+        ],
+        "personnel": [
+          "Ben Webster",
+          "Oscar Peterson",
+          "Ray Brown",
+          "Herb Ellis",
+          "Stan Levey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Time on My Hands",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:16",
+        "session_date": "1957-10-15",
+        "composers": [
+          "Harold Adamson",
+          "Mack Gordon",
+          "Vincent Youmans"
+        ],
+        "personnel": [
+          "Ben Webster",
+          "Oscar Peterson",
+          "Ray Brown",
+          "Herb Ellis",
+          "Stan Levey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Lover, Come Back to Me",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:26",
+        "session_date": "1957-10-15",
+        "composers": [
+          "Oscar Hammerstein II",
+          "Sigmund Romberg"
+        ],
+        "personnel": [
+          "Ben Webster",
+          "Oscar Peterson",
+          "Ray Brown",
+          "Herb Ellis",
+          "Stan Levey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Where Are You?",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:41",
+        "session_date": "1957-10-15",
+        "composers": [
+          "Lew Pollack",
+          "Lou Davis"
+        ],
+        "personnel": [
+          "Ben Webster",
+          "Oscar Peterson",
+          "Ray Brown",
+          "Herb Ellis",
+          "Stan Levey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Makin' Whoopee",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:29",
+        "session_date": "1957-10-15",
+        "composers": [
+          "Walter Donaldson",
+          "Gus Kahn"
+        ],
+        "personnel": [
+          "Ben Webster",
+          "Oscar Peterson",
+          "Ray Brown",
+          "Herb Ellis",
+          "Stan Levey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Ill Wind",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:30",
+        "session_date": "1957-10-15",
+        "composers": [
+          "Harold Arlen",
+          "Ted Koehler"
+        ],
+        "personnel": [
+          "Ben Webster",
+          "Oscar Peterson",
+          "Ray Brown",
+          "Herb Ellis",
+          "Stan Levey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "e4dd651d-3c51-4e2a-a9b0-f0f6a4f135cf",
+    "apple_album_id": "1448387601",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/71dcbefe-ac0c-4eaa-b084-ecdf43180ff2/21366348007.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Verve MGV-8274 cover"
+      }
+    ],
+    "notes": "Single session October 15, 1957 at Capitol Studios, Hollywood. Per the canon's disambiguation rule (session date after April 1956), the recording site is Capitol Tower (capitol-records-studio-capitol-tower), not the Melrose Avenue studio. AllMusic lists location as 'Capitol Studios, Hollywood, CA'. The alias hint maps 'Capitol Studios, Hollywood' to the Melrose Avenue slug, but the disambiguation note dates the split at April 1956 \u2014 this 1957 session is the Tower. Bonus tracks on CD reissues include Webster on piano; those tracks are excluded from this original LP record."
+  },
+  "ballot": {
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Soulville is widely presented as Webster's definitive small-group statement, pairing his mature, vaporous tenor with the exceptionally consequential Peterson-Brown-Ellis rhythm section and Stan Levey; the personnel and 1957 session are documented in the dossier (S1, S2). The rationale reports top ratings from AllMusic, Penguin, Rolling Stone, and DownBeat, and the record has exceptional discovery value: its ballad lyricism, relaxed swing, and intimate Norman Granz production make Webster's sound immediately legible. It is a load-bearing document of the swing tradition entering the LP era, even if it is not an innovation in post-bebop composition.",
+    "case_against": "The album looks backward rather than forward: its standards, blues forms, and unhurried swing do not substantially engage the harmonic, modal, or compositional developments represented by contemporaneous post-bebop landmarks. Webster's historical importance and the session's pleasure therefore do not automatically make this particular date essential to a canon organized around post-bebop lineage.",
+    "disagreement": "The references agree that the album is highly acclaimed and worthy of strong consideration, but Reference 1 treats its swing/mainstream idiom as an ordinary fit within the rubric's permissive scope and assigns consensus_core, whereas Reference 2 treats that idiomatic distance from post-bebop as a genuine boundary question. The council preserves that disagreement as a scope call rather than flattening it into consensus_core.",
+    "recommendation": "John should decide whether the canon's post-bebop scope includes a defining, highly accessible swing-to-modern mainstream document, and if so prioritize Soulville strongly.",
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,1543 @@
+{
+ "id": "dizzy-gillespie-groovin-high-1945",
+ "artist": "Dizzy Gillespie",
+ "album": "Groovin' High",
+ "year": 1945,
+ "label": "Savoy Records",
+ "style_primary": "bebop",
+ "rationale": "Savoy MG 12020 (1955) is the canonical LP gathering of Dizzy Gillespie's revolutionary 1945-46 bebop masters: thirteen 78-rpm sides from seven New York sessions, spanning the Parker-Gillespie small groups ('Groovin' High', 'Dizzy Atmosphere', 'All The Things You Are', 'Hot House', 'Salt Peanuts'), the Dexter Gordon sextet's 'Blue 'n' Boogie' (1945-02-09), the 1946 Sonny Stitt-Milt Jackson combos ('Oop Bop Sh' Bam', 'That's Earl Brother') and the 1946 big band ('Things To Come', 'One Bass Hit #2', 'Rays Idea', 'Our Delight', 'Emanon'). The Rough Guide to Jazz calls the album 'some of the key bebop small-group and big band recordings' (S2); Thomas Owens calls the title track 'the first famous bebop recording' and its contrafact of 'Whispering' 'the most complex jazz melody superimposed on a pre-existing chordal scheme' of its time (S10). The Encyclopedia of Popular Music rates the set 3/5 (S2); Scott Yanow, while calling the music classic, faults the package as 'so-so' for brevity and outdated liner notes (S2, quoting AllMusic). AllMusic styles the album Bop, Jazz Instrument and Trumpet Jazz (S1). These sides are founding documents of recorded bebop - the idiom's co-leader in small-group dialogue with Charlie Parker and in his own big-band writing - and this LP, with its Savoy Jazz CD descendants, is the standard vehicle through which they circulate. Year given as 1945 (first session year) per the candidate; the LP itself was released in 1955 (S1, S2, S4).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "AllMusic - Groovin' High [Savoy] album page and credits tab (mw0002562773)",
+   "type": "reference",
+   "url": "https://www.allmusic.com/album/groovin-high-savoy--mw0002562773"
+  },
+  "S2": {
+   "title": "Wikipedia - Groovin' High (Dizzy Gillespie album)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Groovin%27_High_(Dizzy_Gillespie_album)"
+  },
+  "S3": {
+   "title": "jazzdisco.org - Dizzy Gillespie discography (session dates, personnel, matrices, issue chains)",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/dizzy-gillespie/discography/"
+  },
+  "S4": {
+   "title": "Discogs - Groovin' High master 420345 (track list, durations, 'seven sessions February 1945 - November 1946')",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/420345-Dizzy-Gillespie-Groovin-High"
+  },
+  "S5": {
+   "title": "Discogs - release 8467054 / r9339912, Dizzy Gillespie 'Groovin' High', Savoy MG 12020 US 1955 (sides A1-B7, per-track credits, RVG lacquer matrices, Ozzie Cadena liner notes)",
+   "type": "discography",
+   "url": "https://www.discogs.com/release/8467054-Dizzy-Gillespie-Groovin-High"
+  },
+  "S6": {
+   "title": "MusicBrainz release group d1f677a1-710c-30ee-8f8c-716c3632bed3 (ws/2: Groovin' High, Dizzy Gillespie, 1955, Album/Compilation)",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/d1f677a1-710c-30ee-8f8c-716c3632bed3"
+  },
+  "S7": {
+   "title": "iTunes Search API / Lookup - Dizzy Gillespie 'Groovin' High', collectionId 1434611397 (13 tracks, (c) 1955 Savoy)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Dizzy+Gillespie+Groovin%27+High&entity=album&limit=5"
+  },
+  "S8": {
+   "title": "Cover Art Archive - MusicBrainz release group d1f677a1-710c-30ee-8f8c-716c3632bed3 (approved front, back and additional images)",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/d1f677a1-710c-30ee-8f8c-716c3632bed3"
+  },
+  "S9": {
+   "title": "plosin.com Miles Ahead - Charlie Parker Chronology 1945 (corroborates 1945-02-28 NYC 'unidentified recording studio')",
+   "type": "sessionography",
+   "url": "https://www.plosin.com/milesahead/Bird/Charlie%20Parker%20Chronology%201945.html"
+  },
+  "S10": {
+   "title": "Wikipedia - 'Groovin' High' (composition article: contrafact of 'Whispering', Owens 'first famous bebop recording')",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Groovin%27_High"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1945-02-09",
+   "1945-02-28",
+   "1945-05-11",
+   "1946-05-15",
+   "1946-06-10",
+   "1946-07-09",
+   "1946-11-12"
+  ],
+  "multi_session": true,
+  "studio": "NYC",
+  "recording_sites": [
+   {
+    "session_date": "1945-02-09",
+    "site_raw": "NYC",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1945-02-28",
+    "site_raw": "NYC",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1945-05-11",
+    "site_raw": "NYC",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1946-05-15",
+    "site_raw": "NYC",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1946-06-10",
+    "site_raw": "NYC",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1946-07-09",
+    "site_raw": "NYC",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1946-11-12",
+    "site_raw": "NYC",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   }
+  ],
+  "producer": null,
+  "engineer": null,
+  "epistemic_production": "unk",
+  "personnel": [
+   {
+    "name": "Al Haig",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Hot House",
+     "Salt Peanuts",
+     "Oop Bop Sh' Bam",
+     "That's Earl Brother"
+    ],
+    "session_dates": [
+     "1945-05-11",
+     "1946-05-15"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Alton Moore",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Al Moore (S3)",
+     "Alton 'Slim' Moore (S3)"
+    ],
+    "notes": ""
+   },
+   {
+    "name": "Bill Frazier",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Billy Frazier (S4)"
+    ],
+    "notes": ""
+   },
+   {
+    "name": "Charles Greenlea",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-06-10"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Documented on the 1946-06-10 session by S3; omitted from S4's per-track credits and from the album-level lists in S1/S2 - conflict preserved."
+   },
+   {
+    "name": "Charlie Parker",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Groovin' High",
+     "Dizzy Atmosphere",
+     "All The Things You Are",
+     "Hot House",
+     "Salt Peanuts"
+    ],
+    "session_dates": [
+     "1945-02-28",
+     "1945-05-11"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "S4 per-track credits A2-A6 match the S3 session mapping."
+   },
+   {
+    "name": "Chuck Wayne",
+    "instrument": "guitar",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Blue 'n' Boogie"
+    ],
+    "session_dates": [
+     "1945-02-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Clyde Hart",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Groovin' High",
+     "Dizzy Atmosphere",
+     "All The Things You Are"
+    ],
+    "session_dates": [
+     "1945-02-28"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Cozy Cole",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Groovin' High",
+     "Dizzy Atmosphere",
+     "All The Things You Are"
+    ],
+    "session_dates": [
+     "1945-02-28"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Curly Russell",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Hot House",
+     "Salt Peanuts"
+    ],
+    "session_dates": [
+     "1945-05-11"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Curley Russell"
+    ],
+    "notes": ""
+   },
+   {
+    "name": "Dave Burns",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Dexter Gordon",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Blue 'n' Boogie"
+    ],
+    "session_dates": [
+     "1945-02-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "S2's reception notes the album includes 'a sextet with Dexter Gordon' (the 1945-02-09 group)."
+   },
+   {
+    "name": "Dizzy Gillespie",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "Leader on all seven sessions. S3 also credits him 'vocal' on the 1945-05-11 and 1946-05-15 sessions; S1 credits: Composer, Leader, Primary Artist, Trumpet."
+   },
+   {
+    "name": "Elmon Wright",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Elman Wright (S4)"
+    ],
+    "notes": "S4 credits him only on B7 - coverage conflict on B3-B5 preserved."
+   },
+   {
+    "name": "Frank Paparelli",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Blue 'n' Boogie"
+    ],
+    "session_dates": [
+     "1945-02-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "Co-composer of 'Blue 'n' Boogie' (S1, S2)."
+   },
+   {
+    "name": "Gordon Thomas",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "S4 credits him B3-B7, adding 'Our Delight' (B6) where S3 documents Charles Greenlea - conflict preserved."
+   },
+   {
+    "name": "Howard E. Johnson",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Howard Johnson (S3)"
+    ],
+    "notes": "S4 credits him B1-B6, adding the 1946-05-15 sextet tracks (B1-B2) where S3 documents no second alto - conflict preserved."
+   },
+   {
+    "name": "James Moody",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Documented on the 1946-11-12 session by S3; omitted from S4's per-track credits and from the S1/S2 album lists - conflict preserved."
+   },
+   {
+    "name": "Joe Harris",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "John Brown",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Our Delight",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "S4 credits him B3-B7, adding the 1946-07-09 tracks (B3-B5) where S3 documents Howard E. Johnson and Sonny Stitt - conflict preserved."
+   },
+   {
+    "name": "John Lewis",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "S4 credits him B3-B7, including 'Our Delight' (B6), where S3 credits Milt Jackson on piano - conflict preserved."
+   },
+   {
+    "name": "John Lynch",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Kenny Clarke",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Oop Bop Sh' Bam",
+     "That's Earl Brother",
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-05-15",
+     "1946-06-10",
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "Co-composer of 'Salt Peanuts' (S1, S2)."
+   },
+   {
+    "name": "Kenny Dorham",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea"
+    ],
+    "session_dates": [
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Omitted from S4's per-track credits (which credit Raymond Orr on B3-B6 instead); S3 documents him on the 1946-07-09 session - conflict preserved."
+   },
+   {
+    "name": "Leo Parker",
+    "instrument": "baritone saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea"
+    ],
+    "session_dates": [
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Omitted from S4's per-track credits (S4 credits 'Saul Moore' on B3-B7 instead); S3 documents Leo Parker as the 1946-07-09 baritone saxophonist - conflict preserved."
+   },
+   {
+    "name": "Leon Cormenge",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Leon Comegys (S3)"
+    ],
+    "notes": ""
+   },
+   {
+    "name": "Lucky Thompson",
+    "instrument": "tenor saxophone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "unk",
+    "sources": [
+     "S1",
+     "S2"
+    ],
+    "name_variants": [],
+    "notes": "Listed in the album credits of S1 (Sax (Tenor)) and S2, but not documented on any of the seven LP sessions in S3; S3 places Lucky Thompson with Gillespie only on February 1946 sessions whose titles are not on this LP. Probable credits-list artifact; conflict preserved, unresolved."
+   },
+   {
+    "name": "Matthew McKay",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Milt Jackson",
+    "instrument": "vibraphone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Oop Bop Sh' Bam",
+     "That's Earl Brother",
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-05-15",
+     "1946-06-10",
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "S3 credits Jackson on piano (not vibes) at the 1946-06-10 session behind 'Our Delight' (B6); S4 credits him on vibes only on B1-B2. Both coverage conflicts preserved."
+   },
+   {
+    "name": "Murray Shipinski",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Blue 'n' Boogie"
+    ],
+    "session_dates": [
+     "1945-02-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Murray Shipinsky (S4)"
+    ],
+    "notes": ""
+   },
+   {
+    "name": "Pee Wee Moore",
+    "instrument": "baritone saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Our Delight",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S3"
+    ],
+    "name_variants": [
+     "Saul Moore (S4)"
+    ],
+    "notes": "Omitted from the S1/S2 album lists. S4 credits 'Saul Moore' on B3-B7 - probably the same musician in the baritone chair, extended by S4 to the 1946-07-09 tracks where S3 documents Leo Parker; identity and coverage conflict preserved."
+   },
+   {
+    "name": "Ray Abrams",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Ray Brown",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Oop Bop Sh' Bam",
+     "That's Earl Brother",
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight",
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-05-15",
+     "1946-06-10",
+     "1946-07-09",
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "Also composer on 'Oop Bop Sh' Bam', 'That's Earl Brother', 'One Bass Hit #2', 'Rays Idea' (S1, S2)."
+   },
+   {
+    "name": "Raymond Orr",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-06-10"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Ray Orr (S3)"
+    ],
+    "notes": "S4 credits Orr on B3-B6, extending him to the 1946-07-09 tracks (B3-B5) where S3 documents Kenny Dorham and Elmon Wright - conflict preserved."
+   },
+   {
+    "name": "Remo Palmieri",
+    "instrument": "guitar",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Groovin' High",
+     "Dizzy Atmosphere",
+     "All The Things You Are"
+    ],
+    "session_dates": [
+     "1945-02-28"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Remo Palmier (S10)"
+    ],
+    "notes": "The 1945-02-28 arrangement was reworked to feature Palmieri's improvisation (S10)."
+   },
+   {
+    "name": "Scoops Carey",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Shelly Manne",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Blue 'n' Boogie"
+    ],
+    "session_dates": [
+     "1945-02-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Sid Catlett",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Hot House",
+     "Salt Peanuts"
+    ],
+    "session_dates": [
+     "1945-05-11"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Big Sid Catlett (S1, S2)",
+     "Sidney Catlett (S3)"
+    ],
+    "notes": ""
+   },
+   {
+    "name": "Slam Stewart",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Groovin' High",
+     "Dizzy Atmosphere",
+     "All The Things You Are"
+    ],
+    "session_dates": [
+     "1945-02-28"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Sonny Stitt",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Oop Bop Sh' Bam",
+     "That's Earl Brother",
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea"
+    ],
+    "session_dates": [
+     "1946-05-15",
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "S4 credits him only on B1-B2; S3 documents him on the 1946-07-09 big-band session behind B3-B5 - coverage conflict preserved."
+   },
+   {
+    "name": "Talib Dawud",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Talib Daawud (S3, S4)"
+    ],
+    "notes": ""
+   },
+   {
+    "name": "Taswell Baird",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Emanon"
+    ],
+    "session_dates": [
+     "1946-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Warren Lucky",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Things To Come",
+     "One Bass Hit #2",
+     "Rays Idea",
+     "Our Delight"
+    ],
+    "session_dates": [
+     "1946-06-10",
+     "1946-07-09"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Warren Luckey (S3)",
+     "Lucky Warren (S4)"
+    ],
+    "notes": "S4 credits him B3-B7, adding 'Emanon' (B7) where S3 documents Bill Frazier and James Moody - conflict preserved."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Blue 'n' Boogie",
+    "track_number": 1,
+    "side": "A",
+    "duration": "2:58",
+    "session_date": "1945-02-09",
+    "composers": [
+     "Dizzy Gillespie",
+     "Frank Paparelli"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Dexter Gordon",
+     "Frank Paparelli",
+     "Chuck Wayne",
+     "Murray Shipinski",
+     "Shelly Manne"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Groovin' High",
+    "track_number": 2,
+    "side": "A",
+    "duration": "2:43",
+    "session_date": "1945-02-28",
+    "composers": [
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Charlie Parker",
+     "Clyde Hart",
+     "Remo Palmieri",
+     "Slam Stewart",
+     "Cozy Cole"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Dizzy Atmosphere",
+    "track_number": 3,
+    "side": "A",
+    "duration": "2:49",
+    "session_date": "1945-02-28",
+    "composers": [
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Charlie Parker",
+     "Clyde Hart",
+     "Remo Palmieri",
+     "Slam Stewart",
+     "Cozy Cole"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "All The Things You Are",
+    "track_number": 4,
+    "side": "A",
+    "duration": "2:52",
+    "session_date": "1945-02-28",
+    "composers": [
+     "Oscar Hammerstein II",
+     "Jerome Kern"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Charlie Parker",
+     "Clyde Hart",
+     "Remo Palmieri",
+     "Slam Stewart",
+     "Cozy Cole"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Hot House",
+    "track_number": 5,
+    "side": "A",
+    "duration": "3:13",
+    "session_date": "1945-05-11",
+    "composers": [
+     "Tadd Dameron"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Charlie Parker",
+     "Al Haig",
+     "Curly Russell",
+     "Sid Catlett"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Salt Peanuts",
+    "track_number": 6,
+    "side": "A",
+    "duration": "3:16",
+    "session_date": "1945-05-11",
+    "composers": [
+     "Kenny Clarke",
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Charlie Parker",
+     "Al Haig",
+     "Curly Russell",
+     "Sid Catlett"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Oop Bop Sh' Bam",
+    "track_number": 7,
+    "side": "B",
+    "duration": "3:02",
+    "session_date": "1946-05-15",
+    "composers": [
+     "Ray Brown",
+     "Gil Fuller",
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Sonny Stitt",
+     "Milt Jackson",
+     "Al Haig",
+     "Ray Brown",
+     "Kenny Clarke"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "That's Earl Brother",
+    "track_number": 8,
+    "side": "B",
+    "duration": "2:45",
+    "session_date": "1946-05-15",
+    "composers": [
+     "Ray Brown",
+     "Gil Fuller",
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Sonny Stitt",
+     "Milt Jackson",
+     "Al Haig",
+     "Ray Brown",
+     "Kenny Clarke"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Things To Come",
+    "track_number": 9,
+    "side": "B",
+    "duration": "2:49",
+    "session_date": "1946-07-09",
+    "composers": [
+     "Gil Fuller",
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Dave Burns",
+     "Talib Dawud",
+     "Kenny Dorham",
+     "John Lynch",
+     "Elmon Wright",
+     "Leon Cormenge",
+     "Alton Moore",
+     "Gordon Thomas",
+     "Howard E. Johnson",
+     "Sonny Stitt",
+     "Ray Abrams",
+     "Warren Lucky",
+     "Leo Parker",
+     "Milt Jackson",
+     "John Lewis",
+     "Ray Brown",
+     "Kenny Clarke"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "One Bass Hit #2",
+    "track_number": 10,
+    "side": "B",
+    "duration": "2:56",
+    "session_date": "1946-07-09",
+    "composers": [
+     "Ray Brown",
+     "Gil Fuller",
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Dave Burns",
+     "Talib Dawud",
+     "Kenny Dorham",
+     "John Lynch",
+     "Elmon Wright",
+     "Leon Cormenge",
+     "Alton Moore",
+     "Gordon Thomas",
+     "Howard E. Johnson",
+     "Sonny Stitt",
+     "Ray Abrams",
+     "Warren Lucky",
+     "Leo Parker",
+     "Milt Jackson",
+     "John Lewis",
+     "Ray Brown",
+     "Kenny Clarke"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Rays Idea",
+    "track_number": 11,
+    "side": "B",
+    "duration": "2:24",
+    "session_date": "1946-07-09",
+    "composers": [
+     "Ray Brown",
+     "Gil Fuller",
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Dave Burns",
+     "Talib Dawud",
+     "Kenny Dorham",
+     "John Lynch",
+     "Elmon Wright",
+     "Leon Cormenge",
+     "Alton Moore",
+     "Gordon Thomas",
+     "Howard E. Johnson",
+     "Sonny Stitt",
+     "Ray Abrams",
+     "Warren Lucky",
+     "Leo Parker",
+     "Milt Jackson",
+     "John Lewis",
+     "Ray Brown",
+     "Kenny Clarke"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Our Delight",
+    "track_number": 12,
+    "side": "B",
+    "duration": "2:32",
+    "session_date": "1946-06-10",
+    "composers": [
+     "Tadd Dameron"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Dave Burns",
+     "Talib Dawud",
+     "John Lynch",
+     "Raymond Orr",
+     "Leon Cormenge",
+     "Charles Greenlea",
+     "Alton Moore",
+     "John Brown",
+     "Howard E. Johnson",
+     "Ray Abrams",
+     "Warren Lucky",
+     "Pee Wee Moore",
+     "Milt Jackson",
+     "Ray Brown",
+     "Kenny Clarke"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Emanon",
+    "track_number": 13,
+    "side": "B",
+    "duration": "3:09",
+    "session_date": "1946-11-12",
+    "composers": [
+     "Dizzy Gillespie",
+     "Milton Shaw"
+    ],
+    "personnel": [
+     "Dizzy Gillespie",
+     "Dave Burns",
+     "John Lynch",
+     "Matthew McKay",
+     "Elmon Wright",
+     "Taswell Baird",
+     "Alton Moore",
+     "Gordon Thomas",
+     "John Brown",
+     "Scoops Carey",
+     "Bill Frazier",
+     "James Moody",
+     "Pee Wee Moore",
+     "Milt Jackson",
+     "John Lewis",
+     "Ray Brown",
+     "Joe Harris"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ]
+   }
+  ],
+  "track_assignments_complete": false,
+  "musicbrainz_release_group_mbid": "d1f677a1-710c-30ee-8f8c-716c3632bed3",
+  "apple_album_id": "1434611397",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/d1f677a1-710c-30ee-8f8c-716c3632bed3/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "sources": [
+     "S6",
+     "S8"
+    ],
+    "notes": "CAA approved front for the release group; image inspection confirms it reads 'GROOVIN' HIGH' with Dizzy Gillespie and 'SAVOY MG-12020' - the original 1955 Savoy MG 12020 sleeve (the cover prints 'Groovin' High with Dizzy Gillespie'). CAA also holds approved back and additional images."
+   }
+  ],
+  "notes": "Seven New York sessions over 1945-46, compiled by Savoy on the 1955 LP MG 12020; per S3 the masters originate in the Guild (1945) and Musicraft (1946) 78-rpm issues. Session-to-LP mapping (S3, matrix-linked): 1945-02-09 -> 'Blue 'n' Boogie' (G555, first issued Guild 1001); 1945-02-28 -> 'Groovin' High' (G554A-1), 'All The Things You Are' (G556) and 'Dizzy Atmosphere' (G557, unissued on 78 - first issued on this LP per S3); 1945-05-11 -> 'Salt Peanuts' (G565A-1) and 'Hot House' (G568A-1), first issued Guild 1003; 1946-05-15 -> 'Oop Bop Sha Bam' (5498) and 'That's Earl, Brother' (5500), first issued Musicraft 383; 1946-06-10 -> 'Our Delight' (5550, Musicraft 399); 1946-07-09 -> 'One Bass Hit Part 2' (5609, Musicraft 404), 'Ray's Idea' (5610, Musicraft 487) and 'Things To Come' (5611, Musicraft 447); 1946-11-12 -> 'Emanon' (5789, Musicraft 447). The 1945-02-09 sextet also recorded a take of 'Groovin' High' (G554) not used on the LP - the LP carries the 1945-02-28 take, the reworking the song literature calls the famous version (S10) - and the 1946-05-15 session's 'One Bass Hit Part 1' and 'A Handfulla Gimme' are not on the LP. 'One Bass Hit #2' is part two of the two-part Musicraft 404 78 ('Part 1' is not on the LP) - a part designation, not an alternate take. Conflicts preserved: Wikipedia's infobox 'Recorded 1945 - December 11, 1947' (S2) conflicts with S3 (latest session 1946-11-12) and S4 ('seven different sessions between February 1945 and November 1946'); a Discogs release note on r9339912 (S5) describing 'live sessions' conflicts with S3's studio matrices. Recording venues: S3 documents only 'NYC' for each session, and S9 likewise calls the 1945-02-28 site an 'unidentified recording studio, New York, NY' - no venue is named in any source consulted, so each session is recorded city-level with epistemic unk; the canonical-places list was not provided in this dispatch, so no site_slug is asserted and no complete site_new is possible. Production: no producer or engineer is credited for the 1945-46 sessions in any source consulted; S1 carries only reissue-era credits (Yujiro Kasai and Rudy Van Gelder, remastering); S5 documents Rudy Van Gelder as lacquer cut for the 1955 LP (runout matrices 'MG 12020A X20 1 C RVG') and Ozzie Cadena as the LP's liner-notes author - session engineering remains unk. Session vocalists not on LP tracks: Sarah Vaughan ('Lover Man', 1945-05-11), Alice Roberts and Gil Fuller (1946-05-15, on titles not on the LP) per S3; Gillespie is also credited 'vocal' on the 1945-05-11 and 1946-05-15 sessions (S3). Personnel conflicts preserved: S4's per-track credits diverge from S3's session mapping on several side-B musicians (Stitt, Jackson, Lewis, Dorham, Wright, Orr, Greenlea, Thomas, John Brown, Lucky, Leo Parker, Pee Wee Moore, Howard E. Johnson - detailed per entry); S1/S2 additionally omit Charles Greenlea, Pee Wee Moore and James Moody (all S3-documented on LP sessions) while including Lucky Thompson, whom S3 does not document on any LP session. Durations differ between S2 and S4/S7 (e.g. 'Hot House' 2:27 in S2 vs 3:13 in S4/S7; 'Rays Idea' 3:09 in S2 vs 2:24 in S4/S7) - transfer variations, not alternate takes; S4 durations used here. Apple's digital reissue (S7) keeps the 13 titles but reorders tracks 5-6 and 9-12 relative to the LP. S2 prints track titles slightly differently ('One Bass Hit, Pt. 2', 'Ray's Idea', 'That's Earl, Brother', 'Things to Come'); S4/S5 LP spellings are used, with 'Emanon' credited to Gillespie and 'Milton Shaw' (S1; S2 prints 'Shaw'). This is a compilation in the 78-era sense - thirteen roughly three-minute masters gathered onto one 12-inch LP - and documents the sessions, not a modern anthology across them."
+ },
+ "ballot": {
+  "album": "Dizzy Gillespie — Groovin' High (1945)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "consensus_core",
+  "priority": "must_have",
+  "case_for": "These 1945–46 Guild and Musicraft masters are founding documents of recorded bebop, centered on the historic Gillespie-Parker small groups and extending into Gillespie's modern big-band writing. Thomas Owens calls \"Groovin' High\" the first famous bebop recording and highlights its unprecedented contrafact complexity (S10), while The Rough Guide to Jazz identifies the compilation as containing key bebop small-group and big-band recordings (S2). Its extraordinary personnel network—Parker, Dexter Gordon, Sonny Stitt, Milt Jackson, Kenny Clarke, Ray Brown, John Lewis, and others—gives it exceptional session gravity and enduring discovery value.",
+  "case_against": "The 1955 Savoy LP is an archival compilation of thirteen short 78-rpm sides from seven sessions, not a unified album statement; its abrupt movement from Parker-Gillespie combos to later sextets and big-band charts can feel historically assembled rather than artistically sequenced. The dossier's critical-consensus evidence is narrower than ideal, relying chiefly on the Rough Guide and Owens, while Yanow reports a so-so package and the Encyclopedia of Popular Music rates it 3/5 (S2). Extensive conflicts between jazzdisco.org and Discogs over several 1946 personnel assignments further complicate the documentation, even though they do not undermine the music's importance.",
+  "disagreement": null,
+  "recommendation": "John should place this at the front of the must-have queue for a final inclusion decision, treating the compilation format and documentation issues as minor compared with its foundational bebop significance.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

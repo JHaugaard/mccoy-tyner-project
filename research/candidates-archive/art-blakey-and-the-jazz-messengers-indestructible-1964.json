@@ -1,0 +1,333 @@
+{
+  "id": "art-blakey-and-the-jazz-messengers-indestructible-1964",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "Indestructible",
+  "year": 1964,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Blakey's final Blue Note album and the last recording of the classic Shorter/Morgan/Fuller/Walton/Workman Messenger quintet. A definitive hard bop statement with the front line of Lee Morgan, Curtis Fuller, and Wayne Shorter at full power. Penguin Guide 3-star, DownBeat 4-star. The title trackname is no boast: this band was about to scatter into the most important jazz of the late 1960s (Shorter to Miles, Morgan to his own Blue Note peak, Fuller and Walton into prolific session work). Indispensable capstone to Blakey's Blue Note discography already in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Indestructible (Art Blakey album) \u2014 Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Indestructible_(Art_Blakey_album)"
+    },
+    "S2": {
+      "title": "Indestructible \u2014 Art Blakey \u2014 AllMusic",
+      "type": "discography",
+      "url": "https://www.allmusic.com/album/indestructible-mw0000191514"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Art Blakey Indestructible",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+Indestructible&entity=album&limit=5"
+    },
+    "S4": {
+      "title": "Cover Art Archive \u2014 Art Blakey Indestructible",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/7f27f88f-a8d7-3954-9bd9-8d6673ef826b"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-04-24",
+      "1964-05-15"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1964-04-24",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1964-05-15",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Abdullah Ibn Buhaina"
+        ],
+        "notes": "Leader and drummer"
+      },
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also composer of 'The Egyptian' and 'Sortie'"
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'Mr. Jin' and 'It's a Long Way Down'"
+      },
+      {
+        "name": "Cedar Walton",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'When Love is New'"
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Egyptian",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:25",
+        "session_date": "1964-05-15",
+        "composers": [
+          "Curtis Fuller"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sortie",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:13",
+        "session_date": "1964-05-15",
+        "composers": [
+          "Curtis Fuller"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Calling Miss Khadija",
+        "track_number": 3,
+        "side": "B",
+        "duration": "7:21",
+        "session_date": "1964-05-15",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "When Love is New",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:02",
+        "session_date": "1964-05-15",
+        "composers": [
+          "Cedar Walton"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Mr. Jin",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:04",
+        "session_date": "1964-04-24",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "It's a Long Way Down",
+        "track_number": 6,
+        "side": null,
+        "duration": "5:26",
+        "session_date": "1964-04-15",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Lee Morgan",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "7f27f88f-a8d7-3954-9bd9-8d6673ef826b",
+    "apple_album_id": "715979088",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/bf057102-717b-435a-a740-f6bd709e0fd9/34463072618.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Two main sessions: April 24, 1964 (track 5 'Mr. Jin') and May 15, 1964 (tracks 1-4). Bonus track 'It's a Long Way Down' was recorded on April 15, 1964, originally issued on Pisces. Engineer Rudy Van Gelder is inferred: Blue Note session at Van Gelder Studio (Englewood Cliffs) in 1964 with Alfred Lion producing. Originally released 1966 on Blue Note (BST 84193). Blakey's final Blue Note album."
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers \u2014 Indestructible (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is the valedictory document of Blakey's major 1964 ensemble, bringing together Wayne Shorter, Lee Morgan, Curtis Fuller, Cedar Walton, Reggie Workman, and Blakey in a mature, forceful hard-bop statement (S1, S2). Its session gravity and lineage are exceptional: Shorter soon joined Miles Davis's Second Great Quintet, while Morgan, Fuller, Walton, and Workman continued to shape the post-bebop tradition. The varied writing\u2014from Fuller's modal-tinged \"The Egyptian\" to Shorter's angular \"Mr. Jin\"\u2014and the album's immediate swing make it an unusually strong discovery record, while its final-Blue-Note/capstone status gives it historical weight.",
+    "case_against": "Although highly respected, it does not command the same core-collection consensus as Blakey landmarks such as \"Moanin'\" or \"Free for All\"; the dossier's cited Penguin Guide three-star rating supports a strong rather than undisputed canonical standing. Recorded shortly after the more volcanic \"Free for All,\" it can sound like the more conventional and less historically consequential bookend, and its release was delayed until 1966. The dossier also relies mainly on Wikipedia and AllMusic for substantive support, while the Penguin Guide and DownBeat claims are not directly documented, and it contains a minor quintet/sextet and session-date hygiene issue.",
+    "disagreement": "The references agree that the album is a strong, in-window hard-bop candidate, but they split on tier: Reference 1 regards the capstone, personnel network, and critical reputation as sufficient for consensus_core, while Reference 2 sees its lower critical profile relative to Moanin' and Free for All as a genuine contested case.",
+    "recommendation": "John should give Indestructible serious consideration as a strong candidate, preferably after adding a directly sourced critical reference, without treating it as an undisputed core record.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

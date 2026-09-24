@@ -1,0 +1,294 @@
+{
+  "id": "milt-jackson-bags-and-trane-1959",
+  "artist": "Milt Jackson",
+  "album": "Bags & Trane",
+  "year": 1959,
+  "label": "Atlantic",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "modal-jazz"
+  ],
+  "rationale": "The only full-album meeting between Milt Jackson and John Coltrane, captured in one January 1959 session. Coltrane was between Prestige and his early Atlantic solo dates; Jackson was at his most lyrical outside the MJQ. The rhythm section of Hank Jones, Paul Chambers, and Connie Kay creates a relaxed, swinging foundation that lets both soloists stretch. Consensus canonical \u2014 Penguin Guide core, a staple in 'essential jazz collaborations' lists. Released 1961 on Atlantic SD-1368.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Bags & Trane",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Bags_%26_Trane"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 Bags & Trane",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/bags-trane-mw0000194025"
+    },
+    "S3": {
+      "title": "Discogs \u2014 Bags & Trane (Master 149370)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/149370"
+    },
+    "S4": {
+      "title": "JazzDisco (Milt Jackson sessionography)",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/milt-jackson/discography/"
+    },
+    "S5": {
+      "title": "MusicBrainz \u2014 Bags & Trane Release Group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/b2f17c9e-4038-37e2-a200-eeb5ac492e4f"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-01-15"
+    ],
+    "multi_session": false,
+    "studio": "Atlantic Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1959-01-15",
+        "site_raw": "Atlantic Studios, New York City",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Nesuhi Erteg\u00fcn",
+    "engineer": "Tom Dowd",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Milt Jackson",
+        "instrument": "vibraphone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Bags"
+        ],
+        "notes": "Leader"
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Co-lead billing"
+      },
+      {
+        "name": "Hank Jones",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Connie Kay",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-01-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Bags & Trane",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:38",
+        "session_date": "1959-01-15",
+        "composers": [
+          "Milt Jackson"
+        ],
+        "personnel": [
+          "Milt Jackson",
+          "John Coltrane",
+          "Hank Jones",
+          "Paul Chambers",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Three Little Words",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:32",
+        "session_date": "1959-01-15",
+        "composers": [
+          "Harry Ruby",
+          "Bert Kalmar"
+        ],
+        "personnel": [
+          "Milt Jackson",
+          "John Coltrane",
+          "Hank Jones",
+          "Paul Chambers",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Night We Called It a Day",
+        "track_number": 3,
+        "side": "B",
+        "duration": "4:57",
+        "session_date": "1959-01-15",
+        "composers": [
+          "Matt Dennis",
+          "Tom Adair"
+        ],
+        "personnel": [
+          "Milt Jackson",
+          "John Coltrane",
+          "Hank Jones",
+          "Paul Chambers",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Be-Bop",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:03",
+        "session_date": "1959-01-15",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Milt Jackson",
+          "John Coltrane",
+          "Hank Jones",
+          "Paul Chambers",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "notes": "Also known as 'Dizzy's Fingers' on some reissues; Coltrane composition per Wikipedia"
+      },
+      {
+        "title": "The Late Late Blues",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:36",
+        "session_date": "1959-01-15",
+        "composers": [
+          "Milt Jackson"
+        ],
+        "personnel": [
+          "Milt Jackson",
+          "John Coltrane",
+          "Hank Jones",
+          "Paul Chambers",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b2f17c9e-4038-37e2-a200-eeb5ac492e4f",
+    "apple_album_id": 962195013,
+    "cover_art": [],
+    "notes": "Single session, January 15, 1959 at Atlantic Studios, New York City. NOT two sessions as sometimes misstated \u2014 JazzDiscography confirms matrices 3300-3307 from this single date. Released July 1961 on Atlantic LP 1368 / SD 1368. Original LP has 5 tracks; 1988 CD reissue adds 'Stairway to the Stars', 'Blues Legacy', and 'Centerpiece' from the same session. Some European PD reissues include unrelated 1957 Prestige Coltrane trio cuts \u2014 not part of this session. Producer credit: Nesuhi Erteg\u00fcn (listed as 'Supervised By' on Discogs)."
+  },
+  "ballot": {
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "Session gravity is overwhelming: the only full-album meeting of Milt Jackson and John Coltrane, over an elite rhythm section uniting MJQ's Connie Kay with Hank Jones and Paul Chambers. The January 1959 date catches Coltrane in the gap between Prestige and Giant Steps opposite Jackson at his most lyrical outside the MJQ. Warm, relaxed blues and balladry where both soloists cohere without friction \u2014 a masterclass in post-bebop conversation that still plays.",
+    "case_against": "It is a defining statement for neither artist. The dossier's Penguin Guide core claim is unverified \u2014 all cited sources are databases. Its lineage contribution is modest and reissue hygiene issues need cleaning.",
+    "disagreement": "References split on whether consensus status is established \u2014 one reads it as genuinely consensus-canonical, the other challenges the PG core claim as unverified.",
+    "recommendation": "John should audition the original five-track Atlantic SD-1368 and rule on whether the only Jackson/Coltrane meeting earns its place on session gravity and listening pleasure alone.",
+    "confidence": "medium"
+  }
+}

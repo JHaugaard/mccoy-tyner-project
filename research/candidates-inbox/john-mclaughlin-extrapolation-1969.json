@@ -1,0 +1,466 @@
+{
+  "id": "john-mclaughlin-extrapolation-1969",
+  "artist": "John McLaughlin",
+  "album": "Extrapolation",
+  "year": 1969,
+  "label": "Marmalade (UK); Polydor (distribution and reissues)",
+  "style_primary": "post-bop",
+  "rationale": "Debut album as leader by guitarist John McLaughlin, recorded 18 January 1969 at Advision Studios, London with John Surman (baritone/soprano sax), Brian Odgers (double bass), and Tony Oxley (drums). Historically significant pre-Mahavishnu document: AllMusic rates it 4.5 stars, the Penguin Guide gave it a five-star Crown award, and it reached No. 152 on the Billboard 200 in its 1972 US issue. AllMusic styles it Fusion/Post-Bop/Guitar Jazz; the 1969 acoustic-electric quartet date is best classified as post-bop with proto-fusion elements. A Penguin Guide Crown record and the launching point of McLaughlin's leader career.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "wikipedia": {
+      "url": "https://en.wikipedia.org/wiki/Extrapolation_(album)",
+      "retrieved": "2026-09-23",
+      "supports": [
+        "recorded 18 January 1969",
+        "Advision Studios, London",
+        "Marmalade/Polydor labels",
+        "producer Giorgio Gomelsky",
+        "engineer Eddy Offord (listed as Eddie)",
+        "personnel: McLaughlin (electric/acoustic guitar), Surman (baritone/soprano sax), Brian Odgers (double bass, misspelled Odges on liner), Tony Oxley (drums)",
+        "track listing and durations",
+        "40:42 total length",
+        "Billboard 200 No. 152 (1972)"
+      ]
+    },
+    "allmusic": {
+      "url": "https://www.allmusic.com/album/extrapolation-mw0000263810",
+      "retrieved": "2026-09-23",
+      "supports": [
+        "release date January 18, 1969",
+        "duration 39:57",
+        "styles: Fusion, Post-Bop, Guitar Jazz, Jazz Instrument",
+        "credits: Brian Odgers (bass), Eddy Offord (engineer), Giorgio Gomelsky (producer), John McLaughlin (composer, guitar, acoustic guitar, electric guitar, primary artist), John Surman (baritone sax, soprano sax, saxophone), Tony Oxley (drums), Howard Mandel (liner notes)",
+        "4.5-star AllMusic rating"
+      ]
+    },
+    "allmusic_credits_tab": {
+      "url": "https://www.allmusic.com/album/extrapolation-mw0000263810#credits",
+      "retrieved": "2026-09-23",
+      "supports": [
+        "personnel list including both 'Brian Odgers' and duplicate artist entry 'Brian Odges' (double bass)",
+        "Eddy Offord engineer",
+        "Howard Mandel liner notes"
+      ]
+    },
+    "discogs": {
+      "url": "https://www.discogs.com/release/8716892-John-McLaughlin-Extrapolation",
+      "retrieved": "2026-09-23",
+      "supports": [
+        "track listing (Two For Two listed at 3:45)",
+        "credits: John Surman (baritone/soprano sax), Brian Odges [sic, = Brian Odgers] (bass), Tony Oxley (drums), John McLaughlin (electric guitar, acoustic guitar, liner notes, composed by), Eddie Offord [sic, = Eddy Offord] (engineer), Giorgio Gomelsky (producer, liner notes)",
+        "original Marmalade 608 007 UK 1969 LP; Polydor 2310 018 France 1970; Polydor 2343 012 UK 1970 reissues"
+      ]
+    },
+    "itunes_search_api": {
+      "url": "https://itunes.apple.com/search?term=John+McLaughlin+Extrapolation&entity=album&limit=10",
+      "retrieved": "2026-09-23",
+      "supports": [
+        "collectionId 1443236965",
+        "trackCount 10",
+        "copyright 1969 Polydor Ltd. (UK)",
+        "primaryGenreName Jazz"
+      ]
+    },
+    "musicbrainz": {
+      "url": "https://musicbrainz.org/ws/2/release-group/163b5e69-eb8c-3b7f-9fe3-19445396be52?inc=artist-credits+releases&fmt=json",
+      "retrieved": "2026-09-23",
+      "supports": [
+        "release group 163b5e69-eb8c-3b7f-9fe3-19445396be52",
+        "first-release-date 1969",
+        "official releases: GB 1969 (Marmalade-era, c4a26c51-0576-39b2-8d92-4dfd4c936ad8), FR 1970, GB 1970, CA 1972, XE/US 1991 CD (barcode 042284159821), JP 2005"
+      ]
+    },
+    "coverartarchive": {
+      "url": "https://coverartarchive.org/release-group/163b5e69-eb8c-3b7f-9fe3-19445396be52",
+      "retrieved": "2026-09-23",
+      "supports": [
+        "front cover image for release c4a26c51-0576-39b2-8d92-4dfd4c936ad8",
+        "back cover and label-side scans"
+      ]
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1969-01-18"
+    ],
+    "multi_session": false,
+    "studio": "Advision Studios, London",
+    "recording_sites": [
+      {
+        "session_date": "1969-01-18",
+        "site_raw": "Advision Studios, London",
+        "site_slug": null,
+        "site_new": {
+          "name": "Advision Studios",
+          "city": "London, UK",
+          "kind": "studio",
+          "address": "23 Gosfield Street, Fitzrovia, London W1W 6HG, UK",
+          "lat": 51.507,
+          "lon": -0.128,
+          "location_epistemic": "inf",
+          "location_source": "https://en.wikipedia.org/wiki/Advision_Studios | coords: city centroid (OSM Nominatim: London, UK), 3-decimal precision — street address documented but geocoder resolved only to city"
+        },
+        "epistemic": "obs",
+        "source": "wikipedia"
+      }
+    ],
+    "producer": "Giorgio Gomelsky",
+    "engineer": "Eddy Offord",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "John McLaughlin",
+        "instrument": "electric guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-01-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ],
+        "name_variants": [],
+        "notes": "Also plays acoustic guitar; credited as composer of all ten tracks and primary artist."
+      },
+      {
+        "name": "John Surman",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-01-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ],
+        "name_variants": [],
+        "notes": "Also plays soprano saxophone. AllMusic: Surman 'actually dominates this music' on the date."
+      },
+      {
+        "name": "Brian Odgers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-01-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ],
+        "name_variants": [
+          "Brian Odges"
+        ],
+        "notes": "Misspelled 'Brian Odges' on original liner notes."
+      },
+      {
+        "name": "Tony Oxley",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1969-01-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ],
+        "name_variants": [],
+        "notes": null
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Extrapolation",
+        "track_number": 1,
+        "side": "A",
+        "duration": "2:57",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      },
+      {
+        "title": "It's Funny",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:25",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      },
+      {
+        "title": "Arjen's Bag",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:25",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      },
+      {
+        "title": "Pete The Poet",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:00",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      },
+      {
+        "title": "This Is For Us To Share",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:30",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      },
+      {
+        "title": "Spectrum",
+        "track_number": 6,
+        "side": "B",
+        "duration": "2:45",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      },
+      {
+        "title": "Binky's Beam",
+        "track_number": 7,
+        "side": "B",
+        "duration": "7:05",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ],
+        "notes": "Sometimes mistakenly printed as 'Binky's Dream'; dedicated to bassist Binky McKenzie."
+      },
+      {
+        "title": "Really You Know",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:25",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      },
+      {
+        "title": "Two For Two",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:35",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ],
+        "notes": "Duration conflict: Wikipedia 3:35 (total 40:42) vs Discogs 3:45; AllMusic total 39:57. Recorded as unk pending a source that reconciles the timings."
+      },
+      {
+        "title": "Peace Piece",
+        "track_number": 10,
+        "side": "B",
+        "duration": "1:50",
+        "session_date": "1969-01-18",
+        "composers": [
+          "John McLaughlin"
+        ],
+        "personnel": [
+          "John McLaughlin",
+          "John Surman",
+          "Brian Odgers",
+          "Tony Oxley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "wikipedia",
+          "allmusic",
+          "discogs"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "163b5e69-eb8c-3b7f-9fe3-19445396be52",
+    "apple_album_id": 1443236965,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/c4a26c51-0576-39b2-8d92-4dfd4c936ad8/34957842298.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "From CAA release c4a26c51-0576-39b2-8d92-4dfd4c936ad8 (release-group 163b5e69-eb8c-3b7f-9fe3-19445396be52). Back-cover image (34957842715.jpg) also retrieved; stage-candidate.py inserts all cover_art rows as role 'front', so only the front entry is carried."
+      }
+    ],
+    "notes": "Single session, 18 January 1969, Advision Studios, London. No per-track personnel variation documented: all four musicians play on all tracks (quartet date), so track-level personnel are assigned by inference from the album-level credits and marked obs only where sources list the quartet as the album personnel; the per-track allocation itself is inf. Producer: Giorgio Gomelsky (founder of Marmalade Records, distributed by Polydor). Engineer: Eddy Offord (spelled 'Eddie Offord' in some credits). Liner notes by Howard Mandel (AllMusic credits; later CD issues) and by McLaughlin/Gomelsky per Discogs. Bassist name conflict (Odgers vs Odges) is a liner-note misspelling, not a genuine personnel conflict. Recording site Advision Studios, London — new place created as site_new. US release delayed to 1972 (Polydor), Billboard 200 No. 152. Reissues: Polydor 2310 018 (France 1970), Polydor 2343 012 (UK 1970), Verve/Polydor/Universal 8415982 CD (1991, barcode 042284159821), Universal UCCM-9195 (Japan 2005)."
+  },
+  "ballot": {
+    "album": "John McLaughlin — Extrapolation (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded and released in 1969, but its classification sits at the opened fusion gate: an acoustic-electric British post-bop date with proto-fusion elements rather than an electric-rock fusion record."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "The album is a genuine bridge document: McLaughlin's leader debut joins acoustic and electric guitar to John Surman's saxophones and Tony Oxley's highly interactive drumming at the moment British post-bop was moving toward the modal-electric vocabulary of Miles, Lifetime, and Mahavishnu. The Penguin Guide Crown and AllMusic's 4.5-star rating provide strong critical evidence, while the quartet's unusual personnel and Surman's reported dominance give it real session gravity and discovery value. Its later reissues and pre-Mahavishnu position reinforce its importance as a record of McLaughlin's formative trajectory, not merely a good early album.",
+    "case_against": "The dossier's consensus evidence is narrower than an unquestionable canon case: beyond the Penguin Crown and AllMusic rating, it offers no independent DownBeat, NPR, JazzTimes, or documented musician-citation evidence. The record may be more load-bearing for McLaughlin's career arc and the British jazz scene than for the post-bebop canon's central lineage, especially since Surman often dominates the music and the date remains stylistically transitional. The dossier is strong on discography and personnel but does not by itself establish broad cross-tradition influence; minor track-duration conflicts and inferred track-level assignments further counsel against treating the evidence as definitive.",
+    "disagreement": "Both references identify the post-bop/proto-fusion boundary and assign scope_call, but they differ on urgency: Reference 2 rates it strong because of its bridge and critical stature, while Reference 1 rates it consider because the consensus is thin and the album is peripheral to the canon's center of gravity.",
+    "recommendation": "John should make the scope ruling on whether this exceptional British post-bop/proto-fusion bridge earns a place at the canon's edge, with inclusion more defensible if the collection is building McLaughlin's lineage or the European scene.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

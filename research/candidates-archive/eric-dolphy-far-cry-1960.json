@@ -1,0 +1,327 @@
+{
+  "id": "eric-dolphy-far-cry-1960",
+  "artist": "Eric Dolphy",
+  "album": "Far Cry",
+  "year": 1960,
+  "label": "New Jazz",
+  "style_primary": "post-bop",
+  "rationale": "Dolphy's third album, co-led with trumpeter Booker Little, is a defining post-bop statement that bridges the hard bop tradition with the emerging avant-garde. The Penguin Guide to Jazz awards it a core 4-star rating, AllMusic 4.5 stars, and Rolling Stone's Jazz Record Guide 5 stars. Features the first recorded appearance of Dolphy's celebrated composition 'Miss Ann' and a landmark unaccompanied alto solo on 'Tenderly' that anticipates Anthony Braxton's solo work. The ensemble of Dolphy, Booker Little, Jaki Byard, Ron Carter, and Roy Haynes represents a peak gathering of the era's forward-looking musicians. Consensus across Penguin Guide, AllMusic, Rolling Stone, and DownBeat (3.5 stars).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia - Far Cry (album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Far_Cry_(album)"
+    },
+    "S2": {
+      "title": "AllMusic - Far Cry",
+      "type": "album_review",
+      "url": "https://www.allmusic.com/album/far-cry-mw0000661692"
+    },
+    "S3": {
+      "title": "Discogs - Eric Dolphy With Booker Little \u2013 Far Cry",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/242086-Eric-Dolphy-With-Booker-Little-Far-Cry"
+    },
+    "S4": {
+      "title": "iTunes Search API - Far Cry",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Eric+Dolphy+Far+Cry&entity=album"
+    },
+    "S5": {
+      "title": "Cover Art Archive - Far Cry",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/f6614274-8d66-399e-abea-cc3c540cbd08"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-12-21"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1960-12-21",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Esmond Edwards",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "also plays bass clarinet and flute on selected tracks"
+      },
+      {
+        "name": "Booker Little",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Miss Ann"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "only appears on 'Miss Ann' (track B1)"
+      },
+      {
+        "name": "Jaki Byard",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Mrs. Parker of K.C. (Bird's Mother)",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:00",
+        "session_date": "1960-12-21",
+        "composers": [
+          "Jaki Byard"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Ron Carter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Ode to Charlie Parker",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:45",
+        "session_date": "1960-12-21",
+        "composers": [
+          "Jaki Byard"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Ron Carter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Far Cry",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:50",
+        "session_date": "1960-12-21",
+        "composers": [
+          "Eric Dolphy"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Ron Carter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Miss Ann",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:15",
+        "session_date": "1960-12-21",
+        "composers": [
+          "Eric Dolphy"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Booker Little",
+          "Jaki Byard",
+          "Ron Carter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Left Alone",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:40",
+        "session_date": "1960-12-21",
+        "composers": [
+          "Mal Waldron",
+          "Billie Holiday"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Ron Carter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Tenderly",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:15",
+        "session_date": "1960-12-21",
+        "composers": [
+          "Walter Gross",
+          "Jack Lawrence"
+        ],
+        "personnel": [
+          "Eric Dolphy"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "It's Magic",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:35",
+        "session_date": "1960-12-21",
+        "composers": [
+          "Jule Styne",
+          "Sammy Cahn"
+        ],
+        "personnel": [
+          "Eric Dolphy",
+          "Jaki Byard",
+          "Ron Carter",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "f6614274-8d66-399e-abea-cc3c540cbd08",
+    "apple_album_id": "1442870162",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/88d688e6-9a6f-4370-8614-70384cc4a4a1/30127486884.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session December 21, 1960 at Van Gelder Studio, Englewood Cliffs. Booker Little (trumpet) only on 'Miss Ann'. 'Tenderly' is Dolphy unaccompanied on alto saxophone. Recorded the same day as Ornette Coleman's Free Jazz session. Original release 1962 on New Jazz NJ 8270. Reissue bonus track 'Serene' not included in original track listing."
+  },
+  "ballot": {
+    "album": "Eric Dolphy \u2014 Far Cry (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a load-bearing early post-bop bridge: Dolphy's radical alto, flute, and bass-clarinet language remains grounded in Parker tributes, standards, blues, and hard-bop ensemble practice (S1, S2). The session's personnel\u2014Jaki Byard, Ron Carter, and Roy Haynes, with Booker Little on \"Miss Ann\"\u2014has exceptional session gravity. Cross-reference support from Penguin, AllMusic, Rolling Stone, and DownBeat (S2).",
+    "case_against": "Far Cry is an important transitional date rather than Dolphy's most definitive album; Out to Lunch! is the more urgent single statement. Little's appearance on only one track makes the co-led framing somewhat overstated.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Far Cry as a strong, consensus-core inclusion.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "minimax/minimax-m3",
+        "google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

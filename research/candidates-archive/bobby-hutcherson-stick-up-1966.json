@@ -1,0 +1,316 @@
+{
+  "id": "bobby-hutcherson-stick-up-1966",
+  "artist": "Bobby Hutcherson",
+  "album": "Stick-Up!",
+  "year": 1966,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "A Blue Note classic featuring Hutcherson's most straightforward hard-bop session. First recording pairing Hutcherson with McCoy Tyner, plus Joe Henderson, Herbie Lewis, Billy Higgins. Five of six compositions are Hutcherson originals. AllMusic 4.5\u2605, Penguin Guide 4\u2605. Landmark vibraphone hard-bop date that shows Hutcherson's compositional range. Strong session gravity \u2014 the personnel network (Henderson, Tyner, Higgins, Lewis) is a defining mid-60s Blue Note rhythm section.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Bobby Hutcherson: Stick-Up! \u2014 AllMusic",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/stick-up%21-mw0000028035"
+    },
+    "S2": {
+      "title": "Stick-Up! \u2014 Wikipedia",
+      "type": "article",
+      "url": "https://en.wikipedia.org/wiki/Stick-Up!"
+    },
+    "S3": {
+      "title": "Apple Music \u2014 Stick-Up!",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/stick-up/724865448"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 Stick-Up",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Bobby+Hutcherson+Stick+Up&entity=album"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 Stick-Up! release group",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/e535108c-bda7-3689-9c88-079f7653a0a2"
+    },
+    "S6": {
+      "title": "Spinz Vinyl \u2014 Stick-Up! article",
+      "type": "article",
+      "url": "https://www.spinzvinyl.com/blog/bobby-hutchersons-stick-up"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1966-07-14"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1966-07-14",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bobby Hutcherson",
+        "instrument": "vibraphone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "all compositions except track 1 by Hutcherson"
+      },
+      {
+        "name": "Joe Henderson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Una Muy Bonita",
+          "8/4 Beat",
+          "Black Circle",
+          "Verse",
+          "Blues Mind Matter"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "does not play on Summer Nights (track 3)"
+      },
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "first recording with Hutcherson"
+      },
+      {
+        "name": "Herbie Lewis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Una Muy Bonita",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:27",
+        "session_date": "1966-07-14",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "Joe Henderson",
+          "McCoy Tyner",
+          "Herbie Lewis",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "8/4 Beat",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:59",
+        "session_date": "1966-07-14",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "Joe Henderson",
+          "McCoy Tyner",
+          "Herbie Lewis",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Summer Nights",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:59",
+        "session_date": "1966-07-14",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "McCoy Tyner",
+          "Herbie Lewis",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Black Circle",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:57",
+        "session_date": "1966-07-14",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "Joe Henderson",
+          "McCoy Tyner",
+          "Herbie Lewis",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Verse",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:32",
+        "session_date": "1966-07-14",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "Joe Henderson",
+          "McCoy Tyner",
+          "Herbie Lewis",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Blues Mind Matter",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:32",
+        "session_date": "1966-07-14",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "Joe Henderson",
+          "McCoy Tyner",
+          "Herbie Lewis",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "e535108c-bda7-3689-9c88-079f7653a0a2",
+    "apple_album_id": 724865448,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/25d3a8a4-e39c-421b-a927-56e714fbfa62/41987005508.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session, July 14, 1966 at Van Gelder Studio, Englewood Cliffs. First meeting of Hutcherson and McCoy Tyner. Joe Henderson absent from track 3 (Summer Nights). All compositions by Bobby Hutcherson except Una Muy Bonita (Ornette Coleman). Released March 1968."
+  },
+  "ballot": {
+    "album": "Bobby Hutcherson \u2014 Stick-Up! (1966)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a particularly vivid mid-1960s Blue Note session: Hutcherson's first recorded pairing with McCoy Tyner, joined by Joe Henderson, Herbie Lewis, and Billy Higgins at Van Gelder's studio (S2). Five of six pieces are Hutcherson originals, giving the album real weight as a composer-leader statement, while the Ornette Coleman opener, swinging hard-bop framework, and modal/post-bop interplay make it a useful bridge record (S1, S2). AllMusic's 4.5-star rating and the dossier's reported four-star Penguin Guide rating support strong critical standing, and the accessible but searching performances pass the discovery test (S1).",
+    "case_against": "The album is highly accomplished but does not have the strongest claim to being Hutcherson's defining or most paradigm-setting record; Dialogue, Happenings, or other dates may carry that burden more convincingly. Its consensus evidence is also thinner than the dossier's six-source count suggests: Apple Music, iTunes, Wikipedia, and Cover Art Archive primarily verify metadata, while the Penguin Guide claim is not independently cited in the source table. The session's personnel gravity is substantial, but the record may ultimately be a superb and somewhat conventional mid-1960s blowing date rather than an indispensable load-bearing canon document.",
+    "disagreement": "The references agree that the album is in scope and genuinely canon-worthy but differ on how strongly it should be prioritized: one treats it as strong chiefly if it becomes Hutcherson's canon entry, while the other gives it an unconditional strong priority. They also differ over which Hutcherson album best represents his defining statement, variously emphasizing Dialogue, Happenings, Components, or Stick-Up!'s bridge role.",
+    "recommendation": "John should give Stick-Up! strong consideration, especially if the canon needs a Hutcherson leader date, while comparing it directly with the more frequently cited alternatives before deciding.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

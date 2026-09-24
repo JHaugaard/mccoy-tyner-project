@@ -1,0 +1,259 @@
+{
+  "id": "bill-evans-alone-1970",
+  "artist": "Bill Evans",
+  "album": "Alone",
+  "year": 1970,
+  "label": "Verve",
+  "style_primary": "modal-jazz",
+  "rationale": "Bill Evans' first commercially released single-piano solo album — the true solo statement of his career, following the overdubbed multi-piano Conversations with Myself (1963) and Further Conversations with Myself (1967). Recorded fall 1968 at Webster Hall, released April 1970; won the 1971 Grammy for Best Jazz Performance, Small Group, presented by Duke Ellington and accepted on Evans' behalf by Quincy Jones. Ted Gioia in The History of Jazz calls it 'a glorious solo album ... with an incomparable exposition of Never Let Me Go,' the 14-minute centerpiece; biographers Pettinger and Shadwick treat it as a career peak. DownBeat gave it five stars (September 3, 1970). AllMusic styles it Modal Music / Post-Bop / Piano Jazz. The record is the introspective, standards-based Evans counterweight to the trio albums already in the canon — the 'it still plays' discovery test is passed emphatically by Never Let Me Go. Penguin Guide rates only 3 stars, the main counter-signal.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Alone (Bill Evans album)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Alone_(Bill_Evans_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Alone (Bill Evans) — album page and Credits tab",
+      "type": "credits_review",
+      "url": "https://www.allmusic.com/album/alone-mw0000198687"
+    },
+    "S3": {
+      "title": "iTunes Search API / Lookup: Alone (Bill Evans)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/lookup?id=1436772705&entity=song"
+    },
+    "S4": {
+      "title": "jazzdisco.org: Bill Evans Catalog — Alone (Verve V6-8792)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/bill-evans/catalog/"
+    },
+    "S5": {
+      "title": "MusicBrainz release group + Cover Art Archive",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/11bc3876-ee35-3dd3-9427-0a8f451180b9"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1968-09-23",
+      "1968-09-24",
+      "1968-09-30",
+      "1968-10-08",
+      "1968-10-14",
+      "1968-10-21"
+    ],
+    "multi_session": true,
+    "studio": "Webster Hall, New York City",
+    "producer": "Helen Keane",
+    "engineer": "Ray Hall",
+    "epistemic_production": "obs",
+    "recording_sites": [
+      {
+        "session_date": "1968-09-23",
+        "site_raw": "Webster Hall, NYC",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1968-09-24",
+        "site_raw": "Webster Hall, NYC",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1968-09-30",
+        "site_raw": "Webster Hall, NYC",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1968-10-08",
+        "site_raw": "Webster Hall, NYC",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1968-10-14",
+        "site_raw": "Webster Hall, NYC",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1968-10-21",
+        "site_raw": "Webster Hall, NYC",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "personnel": [
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Solo piano throughout. Steinway D-274 concert grand chosen by Evans per Wikipedia."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Here's That Rainy Day",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:21",
+        "session_date": null,
+        "composers": [
+          "Jimmy Van Heusen",
+          "Johnny Burke"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "A Time for Love",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:06",
+        "session_date": null,
+        "composers": [
+          "Johnny Mandel",
+          "Paul Francis Webster"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Midnight Mood",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:20",
+        "session_date": null,
+        "composers": [
+          "Joe Zawinul",
+          "Ben Raleigh"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "On a Clear Day (You Can See Forever)",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:48",
+        "session_date": null,
+        "composers": [
+          "Burton Lane",
+          "Alan Jay Lerner"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Never Let Me Go",
+        "track_number": 5,
+        "side": "B",
+        "duration": "14:32",
+        "session_date": null,
+        "composers": [
+          "Ray Evans",
+          "Jay Livingston"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "11bc3876-ee35-3dd3-9427-0a8f451180b9",
+    "apple_album_id": "1436772705",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/0d9b1fa1-2f28-4cb5-8dd2-ae3896b28cda/34204352328.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front image on the release-group's canonical release; matched by title+artist, original 1970 Verve V6-8792 pressing not individually confirmed."
+      }
+    ],
+    "notes": "Six solo-piano sessions at Webster Hall, NYC (jazzdisco S4: September 23, 24, 30 and October 8, 14, 21, 1968); Wikipedia agrees on venue and dates. Matrix numbers per jazzdisco: 106580 Never Let Me Go, 106581 Here's That Rainy Day, 106582 On A Clear Day, 106583 A Time For Love, 106584 Midnight Mood; jazzdisco does not map individual matrices to session dates, so per-track session_date left null rather than inferred. Released April 1970 on Verve V6-8792 (Billboard, April 11, 1970); AllMusic lists release year 1968, iTunes '1969' — the 1970 release date (S1) is used as the album year. Original LP carries five tracks; the 1988/2002 CD reissues append alternate takes (excluded here, flagged bonus_track=false and not listed). Grammy 1971 Best Jazz Performance, Small Group. Penguin Guide 3 stars; DownBeat 5 stars (Sep 3, 1970, vol. 37 no. 17)."
+  },
+  "ballot": {
+    "album": "Bill Evans — Alone (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "*Alone* is Evans' first true unaccompanied solo recital — the unmasked, single-piano statement his overdubbed *Conversations with Myself* (1963) only gestured at — and biographers Pettinger and Shadwick treat it as a career peak. The contemporary consensus is emphatic: DownBeat five stars (Sept 3, 1970), the 1971 Grammy for Best Jazz Performance, Small Group, and Ted Gioia's 'glorious solo album' verdict anchored to the 14-minute 'Never Let Me Go,' an incomparable exposition that passes the discovery test cold. As lineage, it set the template for the modern introspective solo-piano recital — the direct ancestor of Jarrett, Hersch, and Mehldau — making it load-bearing for the post-bop piano tradition the canon is built on.",
+    "case_against": "The Penguin Guide's 3 stars is a documented dissent — the one major guide that files the recital as minor next to the epochal Riverside trio dates — and the dossier's 'career peak' framing reaches the critical claims one remove from a Wikipedia synopsis rather than primary citations. The deeper problem is the trio-vs-solo identity question: Evans' defining structural innovation is the conversational counterpoint with LaFaro and Motian, and unaccompanied he risks impressionistic sentimentality and uniform tempo, leaving *Alone* arguably an important variant on an idiom the canon may already carry rather than a distinct, load-bearing chapter. Metadata drift on the release year (AllMusic 1968, iTunes 1969, Billboard April 1970) is cleanly resolved by the jazzdisco sessionography but reflects loose reissue handling.",
+    "disagreement": "The references split on tier: Reference 1 reads the Grammy/DownBeat/biographer consensus as outweighing the Penguin dissent (consensus_core, strong), while Reference 2 weights the Penguin 3-star rating and the trio-vs-solo identity problem as a genuine two-sided case (contested, strong). Reference 1 also flagged that the redundancy question turns on which Evans records are already in the canon — context the ballot lacks; both agree scope is clean and priority is strong.",
+    "recommendation": "The council proposes John rule on *Alone* as a strong contested candidate — the solo-piano counterweight to the trio dates — noting the case strengthens if no Evans solo recital is already in and weakens if *Conversations with Myself* or the Riverside trios already cover the idiom.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

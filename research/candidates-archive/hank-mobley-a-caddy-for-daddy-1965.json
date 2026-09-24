@@ -1,0 +1,321 @@
+{
+  "id": "hank-mobley-a-caddy-for-daddy-1965",
+  "artist": "Hank Mobley",
+  "album": "A Caddy for Daddy",
+  "year": 1965,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "One of Hank Mobley's finest Blue Note sessions from his peak mid-1960s period, with an all-star sextet that reads like a who's-who of the hard bop era: Lee Morgan, Curtis Fuller, McCoy Tyner, Bob Cranshaw, and Billy Higgins. The infectious title track and Mobley's four original compositions show his relaxed but harmonically sophisticated writing at full maturity. The session includes a rare Shorter composition ('Venus Di Mildew') played by a sextet that includes the composer's frequent collaborators. AllMusic (4.5 stars) calls it 'a typically remarkable Blue Note lineup' and singles out the title cut. Session gravity is undeniable — this is the same basic personnel network (Morgan, Mobley, Tyner, Higgins, Cranshaw) that made Lee Morgan's The Gigolo just months apart, and the album deepens the canon's representation of Mobley beyond his celebrated trio of Soul Station, Roll Call, and Workout.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — A Caddy for Daddy",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/A_Caddy_for_Daddy"
+    },
+    "S2": {
+      "title": "AllMusic Album Page — A Caddy for Daddy / Hank Mobley",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/a-caddy-for-daddy-mw0000690250"
+    },
+    "S3": {
+      "title": "Discogs Master Release — Hank Mobley – A Caddy for Daddy",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/239711-Hank-Mobley-A-Caddy-For-Daddy"
+    },
+    "S4": {
+      "title": "iTunes Search API — Hank Mobley A Caddy for Daddy",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Hank+Mobley+A+Caddy+for+Daddy&entity=album&limit=5"
+    },
+    "S5": {
+      "title": "Cover Art Archive — A Caddy for Daddy release group",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/98c45cc1-c96b-345d-98c3-4ee9442a8a3b"
+    },
+    "S6": {
+      "title": "Apple Music — A Caddy for Daddy song credits",
+      "type": "credits",
+      "url": "https://music.apple.com/gb/song/a-caddy-for-daddy/724472287"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-12-18"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "recording_sites": [
+      {
+        "session_date": "1965-12-18",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "personnel": [
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bob Cranshaw",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "A Caddy for Daddy",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:23",
+        "session_date": "1965-12-18",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Curtis Fuller",
+          "Lee Morgan",
+          "McCoy Tyner",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "The Morning After",
+        "track_number": 2,
+        "side": "A",
+        "duration": "9:45",
+        "session_date": "1965-12-18",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Curtis Fuller",
+          "Lee Morgan",
+          "McCoy Tyner",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Venus Di Mildew",
+        "track_number": 3,
+        "side": "B",
+        "duration": "7:13",
+        "session_date": "1965-12-18",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Curtis Fuller",
+          "Lee Morgan",
+          "McCoy Tyner",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ace Deuce Trey",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:15",
+        "session_date": "1965-12-18",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Curtis Fuller",
+          "Lee Morgan",
+          "McCoy Tyner",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "3rd Time Around",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:14",
+        "session_date": "1965-12-18",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Curtis Fuller",
+          "Lee Morgan",
+          "McCoy Tyner",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "98c45cc1-c96b-345d-98c3-4ee9442a8a3b",
+    "apple_album_id": "724472049",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/ac7e7ff4-04e1-4f87-9814-ae3d0a8cdb09/8040135195.jpg",
+        "is_original_cover": null,
+        "epistemic": "obs",
+        "notes": "Front cover via Cover Art Archive; original Blue Note BLP 4230 cover design and photo by Reid Miles."
+      }
+    ],
+    "notes": "Single-session date (December 18, 1965) with all six musicians on all five tracks. Producer Alfred Lion per Wikipedia and Discogs. Engineer Rudy Van Gelder confirmed by Apple Music song credits and multiple corroborating sources. Cover design and photography by Reid Miles; liner notes by Ira Gitler. Label catalog number BST 84230 (stereo) / BLP 4230 (mono). The track 'Venus Di Mildew' is a Wayne Shorter composition, written for Mobley's session."
+  },
+  "ballot": {
+    "album": "Hank Mobley — A Caddy for Daddy (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "Session gravity is the load-bearing signal: the sextet (Mobley, Lee Morgan, Curtis Fuller, McCoy Tyner, Bob Cranshaw, Billy Higgins) is the same personnel network that cut Lee Morgan's The Gigolo months apart, and it bridges the hard-bop mainstream to the Coltrane quartet (Tyner) and Ornette Coleman's circle (Higgins). The record extends Mobley's arc past the canon's 1960–61 cluster (Soul Station, Roll Call, Workout) into his mature compositional peak — four originals plus Wayne Shorter's 'Venus Di Mildew,' written for Mobley and never recorded by Shorter himself, a rare single-document of the Blue Note house-tenor handoff. Production is canonical Blue Note end to end (Van Gelder, Alfred Lion, Reid Miles, Ira Gitler), AllMusic (4.5 stars) singles out the title cut, and the discovery test is plausibly met by Mobley's darker mid-60s tenor voice and Tyner's percussive quartal comping.",
+    "case_against": "The consensus signal is thin for a canon claim: of the dossier's six sources only AllMusic (4.5 stars) and Wikipedia are substantive, the album rarely appears on independent master-canon lists (Penguin Guide core, NPR basic libraries, DownBeat/JazzTimes), and it ranks behind Soul Station, Workout, Roll Call, and No Room for Squares even within Mobley's own discography. The case therefore rests on session gravity — a real rubric signal, but weaker than consensus — inside one of the richest fields in the music's history (1964–65 Blue Note: The Gigolo, The Rumproller, Point of Departure, Dialogue, The All Seeing Eye, Contours, Maiden Voyage). The title track also partakes of the post-Sidewinder boogaloo formula Alfred Lion actively pushed that year — a brilliant performance of a familiar convention rather than a record that redirected the tradition. Mobley's existing representation is not an exclusion argument (artist concentration is off the table), but it means a fourth Mobley must justify itself against the crowded 1965 field, not merely against his own catalog.",
+    "disagreement": null,
+    "recommendation": "The council proposes John weigh A Caddy for Daddy as a contested 'consider' — a fourth Mobley argued on session gravity and the Shorter handoff rather than consensus — and let his own listening to the title cut decide whether it upgrades to 'strong' or gets culled.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

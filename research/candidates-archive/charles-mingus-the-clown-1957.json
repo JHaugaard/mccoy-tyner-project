@@ -1,0 +1,324 @@
+{
+  "id": "charles-mingus-the-clown-1957",
+  "artist": "Charles Mingus",
+  "album": "The Clown",
+  "year": 1957,
+  "label": "Atlantic",
+  "style_primary": "post-bop",
+  "rationale": "The missing middle of the early Atlantic Mingus trilogy: recorded between Pithecanthropus Erectus (1956, in the canon) and Mingus Ah Um (1959, in the canon), The Clown is the record where Mingus proved he could swing — 'I selected these four over two others that were more intricate because some of those guys had been saying that I didn't swing... This album also has the first blues I've made on record' (Mingus, in Nat Hentoff's liner notes). It holds the first recordings of three permanent Mingus compositions — 'Haitian Fight Song', 'Blue Cee', and 'Reincarnation of a Lovebird' (his tribute to Charlie Parker) — plus the title piece, a 12-minute story of a clown nobody liked until he was dead, with improvised narration by radio humorist Jean Shepherd (Mingus had the musicians overdub parts for its novel complexity). Session gravity: the durable core of the Jazz Workshop — Knepper and Richmond, the two musicians who became integral to Mingus's music for years, with Wade Legge and Shafi Hadi (Curtis Porter). Consensus: AllMusic 5 stars; Penguin Guide to Jazz Recordings; Rolling Stone Album Guide 4.5 stars; BBC Music review; cited in Mingus discographies as a canonical Atlantic title. Producer Nesuhi Ertegun; engineered by Tom Dowd. It strengthens the Mingus arc already present (Pithecanthropus → Ah Um) and is the era's great jazz-narration experiment.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "JazzDisco — Charles Mingus Catalog (sessionography)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/charles-mingus/catalog/"
+    },
+    "S2": {
+      "title": "Wikipedia — The Clown (album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Clown_(album)"
+    },
+    "S3": {
+      "title": "AllMusic — The Clown (album page, mw0000199104)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-clown-mw0000199104"
+    },
+    "S4": {
+      "title": "AlbumLinerNotes.com — The Clown (Nat Hentoff liner notes, original Atlantic 1260)",
+      "type": "web",
+      "url": "http://albumlinernotes.com/The_Clown.html"
+    },
+    "S5": {
+      "title": "Discogs — Charles Mingus / The Charles Mingus Jazz Workshop, The Clown (master 176935)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/176935-Charles-MingusCharles-Mingus-Jazz-Workshop-The-Clown"
+    },
+    "S6": {
+      "title": "iTunes Search API — Charles Mingus The Clown",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Charles+Mingus+The+Clown&entity=album"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group 21c5d11d-7228-3827-996e-abeb6d0e08d3",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/21c5d11d-7228-3827-996e-abeb6d0e08d3"
+    },
+    "S8": {
+      "title": "BBC Music — Review of Charles Mingus, The Clown",
+      "type": "web",
+      "url": "https://www.bbc.co.uk/music/reviews/2dqv/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-02-13",
+      "1957-03-12"
+    ],
+    "multi_session": true,
+    "studio": "Audio-Video Studios, New York, NY (title track); Atlantic Studios, New York, NY (tracks 1-3)",
+    "recording_sites": [
+      {
+        "session_date": "1957-02-13",
+        "site_raw": "Audio-Video Studios, New York, N.Y.",
+        "site_slug": "audio-video-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1957-03-12",
+        "site_raw": "Atlantic Studios, New York, N.Y.",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Nesuhi Ertegun",
+    "engineer": "Tom Dowd",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-02-13",
+          "1957-03-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "Leader, composer of all four selections (Jazz Workshop, Inc., BMI)."
+      },
+      {
+        "name": "Shafi Hadi",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-02-13",
+          "1957-03-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Curtis Porter"
+        ],
+        "notes": "Liner notes: plays tenor sax on 'The Clown' and alto sax on the other selections (S4). JazzDisco credits 'Curtis Porter, alto, tenor sax' (S1) — Curtis Porter is Shafi Hadi's birth name. Doubling preserved, primary instrument alto saxophone."
+      },
+      {
+        "name": "Jimmy Knepper",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-02-13",
+          "1957-03-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Mingus (S4): 'Jimmy is the leader in this piece [The Clown]. We play around what he does.'"
+      },
+      {
+        "name": "Wade Legge",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-02-13",
+          "1957-03-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Had been with Dizzy Gillespie before joining Mingus (S4)."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-02-13",
+          "1957-03-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jean Shepherd",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Clown"
+        ],
+        "session_dates": [
+          "1957-02-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Improvised narration on 'The Clown' (track 4), Feb 13 session. Taxonomy gap: narration is not literally vocals — flagged here rather than inventing an instrument."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Haitian Fight Song",
+        "track_number": 1,
+        "side": "A",
+        "duration": "12:01",
+        "session_date": "1957-03-12",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Shafi Hadi",
+          "Jimmy Knepper",
+          "Wade Legge",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Blue Cee",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:48",
+        "session_date": "1957-03-12",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Shafi Hadi",
+          "Jimmy Knepper",
+          "Wade Legge",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Reincarnation of a Lovebird",
+        "track_number": 3,
+        "side": "B",
+        "duration": "8:31",
+        "session_date": "1957-03-12",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Shafi Hadi",
+          "Jimmy Knepper",
+          "Wade Legge",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Clown",
+        "track_number": 4,
+        "side": "B",
+        "duration": "12:29",
+        "session_date": "1957-02-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Shafi Hadi",
+          "Jimmy Knepper",
+          "Wade Legge",
+          "Dannie Richmond",
+          "Jean Shepherd"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "21c5d11d-7228-3827-996e-abeb6d0e08d3",
+    "apple_album_id": "298682127",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/55a6c226-6f8b-426c-b40d-549afd7888d5/2352379120.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Atlantic LP 1260 cover (Curtice Taylor hand-coloring, photography Giuseppe Pino, art direction/design Bob Defrin per S4)."
+      }
+    ],
+    "notes": "Two sessions (S1, S4). Feb 13, 1957 at Audio-Video Studios, NYC: 'The Clown' (matrix 2452), with Jean Shepherd narration; engineers Larry Hiller & Tom Dowd. March 12, 1957 at Atlantic Studios, NYC: 'Blue Cee' (2455), 'Reincarnation of a Lovebird' (2457), 'Haitian Fight Song' (2458); engineer Tom Dowd. Producer Nesuhi Ertegun for both. All compositions by Mingus. Original LP Atlantic 1260, released September 1957 (Cash Box/Billboard per S2). The 2000 Rhino deluxe edition adds two March 12 session tracks originally issued on Tonight At Noon (1965): 'Passions of a Woman Loved' and 'Tonight at Noon' — not on the original LP, excluded here. Shafi Hadi = Curtis Porter (JazzDisco uses the birth name, S1); tenor on 'The Clown', alto elsewhere (S4)."
+  },
+  "ballot": {
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The Clown is the missing middle of the early Atlantic Mingus trilogy — recorded between Pithecanthropus Erectus (1956, in canon) and Mingus Ah Um (1959, in canon) — and it carries first recordings of three permanent Mingus compositions: 'Haitian Fight Song,' 'Blue Cee,' and 'Reincarnation of a Lovebird' (his Parker tribute). The session gravity is decisive: this is where the Knepper–Richmond axis crystallizes, the trombone-and-drums core that would anchor Mingus's workshop for years. Consensus is strong: AllMusic 5 stars, Penguin Guide, Rolling Stone Album Guide all cited; Nesuhi Ertegun producing, Tom Dowd engineering — top-shelf Atlantic. Mingus's own liner-note testimony that he made this record to prove he could swing and to cut his first blues on record gives it a defining-statement quality the canon's Mingus arc is visibly incomplete without.",
+    "case_against": "The title track — twelve and a half minutes of Jean Shepherd's improvised narration over ensemble vamps — is the album's most distinctive feature and also its discovery-test risk. A listener sent to this album cold may find a quarter of its runtime functions more as a period radio-theater curio than as repeatable musical pleasure, and the other three tracks, while excellent, are conventional small-group post-bop that would not individually lift this above 'fine Mingus session.' A secondary concern: the rationale cites the Penguin Guide, Rolling Stone Album Guide, and a BBC Music review as consensus signals, but none of those sources appear in the sources dict — the consensus argument rests, as currently sourced, on AllMusic and Wikipedia's relay of legacy guides rather than the primary review texts themselves.",
+    "disagreement": "The references converge on the same tier, priority, and core reasoning. The one substantive divergence: Reference 1 flags a sourcing transparency gap — the Penguin Guide, Rolling Stone Album Guide, and BBC Music citations in the rationale are not present in the sources dict and should either be attached or have their absence acknowledged. Reference 2 accepted the consensus claims at face value. The council adopts Reference 1's caution as a housekeeping note for the aggregator while affirming that the evidence as sourced is still sufficient to clear the consensus_core bar.",
+    "recommendation": "Admit as consensus_core at strong priority; the for-case is multi-signal and fills a visible gap in the Mingus arc, and the against-case — a curio title track and a sourcing gap — does not break the argument.",
+    "confidence": "high"
+  }
+}

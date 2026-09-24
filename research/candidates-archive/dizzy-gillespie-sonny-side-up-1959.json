@@ -1,0 +1,299 @@
+{
+  "id": "dizzy-gillespie-sonny-side-up-1959",
+  "artist": "Dizzy Gillespie",
+  "album": "Sonny Side Up",
+  "year": 1959,
+  "label": "Verve",
+  "style_primary": "hard-bop",
+  "rationale": "The summit meeting of three giants \u2014 Dizzy Gillespie, Sonny Rollins, and Sonny Stitt \u2014 captured in a single December 1957 jam session at Nola Studios. The album embodies the hard-bop cutting session at its most joyful and competitive: a 14-minute \u201cThe Eternal Triangle\u201d where Rollins and Stitt trade choruses over a blistering rhythm section, a blues-drenched \u201cAfter Hours\u201d, and the sunny title track. Penguin Guide 3-star, AllMusic 4-star. Cited as one of the great jam-session records in the jazz catalog. Dizzy Gillespie \u2014 the co-inventor of bebop and a defining voice in hard bop \u2014 is not yet represented in the canon, a clear gap this album fills.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Sonny Side Up",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Side_Up"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 Sonny Side Up",
+      "type": "music_db",
+      "url": "https://www.allmusic.com/album/sonny-side-up-1959--mw0000188698"
+    },
+    "S3": {
+      "title": "Discogs Master \u2014 Sonny Side Up",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/259350-Dizzy-Gillespie-Sonny-Stitt-Sonny-Rollins-Sonny-Side-Up"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Sonny Side Up",
+      "type": "music_db",
+      "url": "https://musicbrainz.org/release-group/19f3ecb4-eef6-418c-8c01-da2c90ecf7c7"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 Sonny Side Up",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/19f3ecb4-eef6-418c-8c01-da2c90ecf7c7"
+    },
+    "S6": {
+      "title": "iTunes Search API",
+      "type": "streaming",
+      "url": "https://itunes.apple.com/search?term=Sonny+Side+Up+Dizzy+Gillespie&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-12-19"
+    ],
+    "multi_session": false,
+    "studio": "Nola Recording Studio, NYC",
+    "recording_sites": [
+      {
+        "session_date": "1957-12-19",
+        "site_raw": "Nola Recording Studio, N.Y.C.",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Dizzy Gillespie",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "John Birks Gillespie"
+        ],
+        "notes": "Also sings on track 1 (On the Sunny Side of the Street)"
+      },
+      {
+        "name": "Sonny Stitt",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Edward Hammond Boatner Jr."
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Theodore Walter Rollins",
+          "Newk"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Ray Bryant",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tommy Bryant",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Persip",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "On the Sunny Side of the Street",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:41",
+        "session_date": "1957-12-19",
+        "composers": [
+          "Jimmy McHugh",
+          "Dorothy Fields"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Sonny Stitt",
+          "Sonny Rollins",
+          "Ray Bryant",
+          "Tommy Bryant",
+          "Charlie Persip"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Eternal Triangle",
+        "track_number": 2,
+        "side": "A",
+        "duration": "14:10",
+        "session_date": "1957-12-19",
+        "composers": [
+          "Sonny Stitt"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Sonny Stitt",
+          "Sonny Rollins",
+          "Ray Bryant",
+          "Tommy Bryant",
+          "Charlie Persip"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "After Hours",
+        "track_number": 3,
+        "side": "B",
+        "duration": "12:19",
+        "session_date": "1957-12-19",
+        "composers": [
+          "Avery Parrish"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Sonny Stitt",
+          "Sonny Rollins",
+          "Ray Bryant",
+          "Tommy Bryant",
+          "Charlie Persip"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Know That You Know",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:27",
+        "session_date": "1957-12-19",
+        "composers": [
+          "Vincent Youmans",
+          "Anne Caldwell"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Sonny Stitt",
+          "Sonny Rollins",
+          "Ray Bryant",
+          "Tommy Bryant",
+          "Charlie Persip"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "19f3ecb4-eef6-418c-8c01-da2c90ecf7c7",
+    "apple_album_id": 1843995623,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/9d4b4979-9b75-47cd-a40b-ba84b3712a57/1970621483.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session December 19, 1957 at Nola Penthouse Sound Studios (Nola Recording Studio), NYC. Cover photography: Burt Goldblatt. Liner notes: Nat Hentoff. Engineer not documented in available sources."
+  },
+  "ballot": {
+    "album": "Dizzy Gillespie \u2014 Sonny Side Up (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded 1957-12-19, released 1959 \u2014 comfortably inside 1940\u20131979, and no opened-gate (free/fusion/ECM) boundary is in play. The only flag: Dizzy's name brushes the pure-bebop exclusion ('Gillespie small groups'), but this date's organizing idiom is a 1957 hard-bop cutting session, not bebop itself \u2014 both references examined the flag and agree it does not bite. Noted so John sees it; not a scope_call."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity is the dominant signal: a single fully-documented December 1957 date at Nola (S1\u2013S3) putting Dizzy, a prime Sonny Rollins, and Sonny Stitt in one room is exactly the personnel network this canon exists to surface. 'The Eternal Triangle' \u2014 the 14:10 Rollins\u2013Stitt duel over rhythm changes \u2014 is a benchmark of tenor lineage, among the most-studied saxophone confrontations in the idiom (Reference 2 calls it legendary in jazz pedagogy; Reference 1 calls it a known touchstone). The record fills a real gap: the co-inventor of bebop is absent from a post-bebop canon, and this is the right shape of Dizzy \u2014 a post-bop hard-bop date, not the pure-bebop small-group record the rubric excludes. Discovery value is high: joyful, competitive, with Dizzy's vocal 'Sunny Side of the Street' opening into Rollins' entrance \u2014 it plays cold.",
+    "case_against": "The critical-consensus evidence sits a tier below the canon's core: Penguin 3-star (not core collection) and AllMusic 4-star, with the Penguin claim in the rationale unattached to any cited source and 4 of 6 dossier sources pure metadata \u2014 no DownBeat, canon-list, or canonical-reissue-program attestation (Reference 1's strongest point). It is not a defining statement for any of its three leads: Dizzy's canonical records lie elsewhere, Rollins has Saxophone Colossus and beyond, and Stitt's most-argued showcases are elsewhere. Structurally it is a Norman Granz blowing session \u2014 two long blues, a rhythm-changes contrafact, two standards \u2014 leaning on solo sparring over stock forms rather than album-level vision, and its historical draw belongs mostly to the Rollins\u2013Stitt confrontation rather than to Gillespie as leader (Reference 2's attribution point).",
+    "disagreement": "None on the verdict \u2014 both references independently reached contested / strong. The genuine split is over which against-case is load-bearing: Reference 1 weights the thin, metadata-heavy sourcing and the unattached Penguin claim as what blocks consensus_core, while Reference 2 weights the blowing-session architecture and the diluted Gillespie leadership (the record's identity is the Rollins\u2013Stitt duel). Reference 2 also credits 'The Eternal Triangle' with legendary pedagogical-lineage weight that Reference 1 treats as real but modest.",
+    "recommendation": "The council proposes John give Sonny Side Up a listen at strong priority and rule on whether unmatched session gravity and the Dizzy-shaped gap outweigh good-but-not-core critical consensus and jam-session architecture.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

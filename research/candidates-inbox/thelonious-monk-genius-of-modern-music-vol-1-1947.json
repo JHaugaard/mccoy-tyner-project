@@ -1,0 +1,755 @@
+{
+ "id": "thelonious-monk-genius-of-modern-music-vol-1-1947",
+ "artist": "Thelonious Monk",
+ "album": "Genius of Modern Music, Vol. 1",
+ "year": 1947,
+ "label": "Blue Note",
+ "style_primary": "bebop",
+ "rationale": "The first recordings Thelonious Monk made as a leader: four 78-era Blue Note sessions produced by Alfred Lion and engineered by Doug Hawkins — October 15 and 24 and November 21, 1947 at WOR Studios, New York, and July 2, 1948 at Apex Studios, New York — first issued on Blue Note 78-rpm singles (543, 547, 548, 549, 560 and 1564), then compiled as the 10-inch LP Genius of Modern Music (BLP 5002, November 1951) and recompiled with four additional titles, including the then-unreleased Introspection, as the 12-inch Genius of Modern Music, Vol. One (BLP 1510, 1956), whose 12-track program is documented here. These sessions hold the first or earliest-surviving recordings of core Monk standards — 'Round About Midnight, Well You Needn't, Off Minor, Ruby My Dear, In Walked Bud, Thelonious, Epistrophy, Misterioso, Introspection — with Art Blakey on drums across the 1947 dates, Sahib Shihab (then credited as Edmund Gregory) and George Taitt on the November 21 date, and Milt Jackson, John Simmons and Shadow Wilson on the July 1948 quartet date. AllMusic rates the album five stars and styles it Bop, Jazz Instrument and Piano Jazz; the Penguin Guide gives Volume One a Crown rating; the Encyclopedia of Popular Music gives five stars; AllMusic's review (Rick Anderson) calls these sessions impossible to overstate and 'belongs in every jazz collection.' style_primary is bebop per the pipeline's classification, corroborated by AllMusic (Bop), Discogs (Bop) and MusicBrainz tags (bop, bebop).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "Genius of Modern Music, Vols. One & Two — Wikipedia album article",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Genius_of_Modern_Music"
+  },
+  "S2": {
+   "title": "Thelonious Monk Catalog — jazzdisco.org sessionography, Blue Note BLP 1510 section",
+   "type": "sessionography",
+   "url": "https://jazzdisco.org/thelonious-monk/catalog/#blue-note-blp-1510"
+  },
+  "S3": {
+   "title": "Thelonious Monk: Genius of Modern Music, Vol. 1 — AllMusic album page",
+   "type": "overview",
+   "url": "https://www.allmusic.com/album/r811017"
+  },
+  "S4": {
+   "title": "Thelonious Monk: Genius of Modern Music, Vol. 1 — AllMusic credits page",
+   "type": "liner-notes/credits",
+   "url": "https://www.allmusic.com/album/r811017/credits"
+  },
+  "S5": {
+   "title": "Thelonious Monk – Genius Of Modern Music (Blue Note BLP 5002, 1951) — Discogs master",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/120707-Thelonious-Monk-Genius-Of-Modern-Music"
+  },
+  "S6": {
+   "title": "Thelonious Monk – Genius Of Modern Music, first-edition 10-inch BLP 5002 (Nov 1951) — Discogs release",
+   "type": "discography",
+   "url": "https://www.discogs.com/release/21740968-Thelonious-Monk-Genius-Of-Modern-Music"
+  },
+  "S7": {
+   "title": "Genius of Modern Music, Volume 1 — MusicBrainz release group 4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c (ws/2) and release 1dd96446 (BLP 5002, US 1951)",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c"
+  },
+  "S8": {
+   "title": "Cover Art Archive — MusicBrainz release group 4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c"
+  },
+  "S9": {
+   "title": "iTunes Search/Lookup API — Thelonious Monk, Genius of Modern Music, Vol. 1 (collectionId 1459444209, 12-track program and durations)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/lookup?id=1459444209"
+  },
+  "S10": {
+   "title": "WOR Studios — Discogs label page (documents 1440 Broadway, New York, NY address)",
+   "type": "venue-address",
+   "url": "https://www.discogs.com/label/282587-WOR-Studios"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1947-10-15",
+   "1947-10-24",
+   "1947-11-21",
+   "1948-07-02"
+  ],
+  "multi_session": true,
+  "studio": "WOR Studios, NYC",
+  "recording_sites": [
+   {
+    "session_date": "1947-10-15",
+    "site_raw": "WOR Studios, NYC",
+    "site_slug": "wor-studios",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S2"
+   },
+   {
+    "session_date": "1947-10-24",
+    "site_raw": "WOR Studios, NYC",
+    "site_slug": "wor-studios",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S2"
+   },
+   {
+    "session_date": "1947-11-21",
+    "site_raw": "WOR Studios, NYC",
+    "site_slug": "wor-studios",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S2"
+   },
+   {
+    "session_date": "1948-07-02",
+    "site_raw": "Apex Studios, NYC",
+    "site_slug": null,
+    "site_new": {
+     "name": "Apex Studios",
+     "city": "New York, NY",
+     "kind": "studio",
+     "address": null,
+     "lat": 40.713,
+     "lon": -74.006,
+     "location_epistemic": "inf",
+     "location_source": "https://jazzdisco.org/thelonious-monk/catalog/ | coords: city centroid (OSM Nominatim: New York, NY), 3-decimal precision — no street address documented"
+    },
+    "epistemic": "obs",
+    "source": "S2"
+   }
+  ],
+  "producer": "Alfred Lion",
+  "engineer": "Doug Hawkins",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Thelonious Monk",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1947-10-15",
+     "1947-10-24",
+     "1947-11-21",
+     "1948-07-02"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Leader; the only musician on all four sessions. Composed every track on the album except 'I Mean You' (with Coleman Hawkins), 'Epistrophy' (with Kenny Clarke) and 'April in Paris' (Vernon Duke)."
+   },
+   {
+    "name": "Art Blakey",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "'Round About Midnight",
+     "Off Minor",
+     "Ruby My Dear",
+     "April in Paris",
+     "In Walked Bud",
+     "Thelonious",
+     "Well You Needn't",
+     "Introspection",
+     "Humph"
+    ],
+    "session_dates": [
+     "1947-10-15",
+     "1947-10-24",
+     "1947-11-21"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Plays the three 1947 dates; not on the July 2, 1948 session (Shadow Wilson plays drums there). AllMusic also carries a 'Guest Artist' tag for him on this album (S4)."
+   },
+   {
+    "name": "Gene Ramey",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Off Minor",
+     "Ruby My Dear",
+     "April in Paris",
+     "Thelonious",
+     "Well You Needn't",
+     "Introspection",
+     "Humph"
+    ],
+    "session_dates": [
+     "1947-10-15",
+     "1947-10-24"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [
+     "Eugene Ramey"
+    ],
+    "notes": "'Eugene Ramey' in jazzdisco (S2); 'Gene Ramey' in Wikipedia, AllMusic and Discogs (S1, S4, S6)."
+   },
+   {
+    "name": "Idrees Sulieman",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Thelonious",
+     "Humph"
+    ],
+    "session_dates": [
+     "1947-10-15"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [
+     "Idrees Suliman"
+    ],
+    "notes": "'Idrees Suliman' (one l) in jazzdisco and on the Discogs first-edition credits (S2, S6); 'Idrees Sulieman' in Wikipedia and AllMusic (S1, S4)."
+   },
+   {
+    "name": "Danny Quebec West",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Thelonious",
+     "Humph"
+    ],
+    "session_dates": [
+     "1947-10-15"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Billy Smith",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Thelonious",
+     "Humph"
+    ],
+    "session_dates": [
+     "1947-10-15"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Documented on the October 15, 1947 session only (S1, S2, S6). AllMusic carries both 'Billy Smith' and a duplicate 'Bill Smith' tenor-saxophone entry (S4), a data artifact, not a second musician."
+   },
+   {
+    "name": "George Taitt",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "'Round About Midnight",
+     "In Walked Bud"
+    ],
+    "session_dates": [
+     "1947-11-21"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Sahib Shihab",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "'Round About Midnight",
+     "In Walked Bud"
+    ],
+    "session_dates": [
+     "1947-11-21"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [
+     "Edmund Gregory"
+    ],
+    "notes": "Credited as 'Edmund Gregory' (his birth name) in the 1947 sessionographies and on the first 10-inch edition (S2, S6); Wikipedia and AllMusic use Sahib Shihab (S1, S4). He returned to Monk's July 23, 1951 Blue Note date under the Shihab name (S2), outside this album's program."
+   },
+   {
+    "name": "Bob Paige",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "'Round About Midnight",
+     "In Walked Bud"
+    ],
+    "session_dates": [
+     "1947-11-21"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [
+     "Robert Paige"
+    ],
+    "notes": "'Robert Paige' in jazzdisco and as the ANV printed on the first 10-inch edition (S2, S6); 'Bob Paige' in Wikipedia, AllMusic and as the Discogs canonical name (S1, S4, S6)."
+   },
+   {
+    "name": "Milt Jackson",
+    "instrument": "vibraphone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "I Mean You",
+     "Epistrophy",
+     "Misterioso"
+    ],
+    "session_dates": [
+     "1948-07-02"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [
+     "Milton Jackson"
+    ],
+    "notes": "'Milton Jackson' in jazzdisco and as the ANV on the first 10-inch edition (S2, S6)."
+   },
+   {
+    "name": "John Simmons",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "I Mean You",
+     "Epistrophy",
+     "Misterioso"
+    ],
+    "session_dates": [
+     "1948-07-02"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Shadow Wilson",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "I Mean You",
+     "Epistrophy",
+     "Misterioso"
+    ],
+    "session_dates": [
+     "1948-07-02"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "'Round About Midnight",
+    "track_number": 1,
+    "side": "A",
+    "duration": "3:10",
+    "session_date": "1947-11-21",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "George Taitt",
+     "Sahib Shihab",
+     "Thelonious Monk",
+     "Bob Paige",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN321-1 (S2). AllMusic carries the full standard song credit Bernie Hanighen / Thelonious Monk / Cootie Williams (S4); the original LP's writer credit is Monk alone (S1, S6)."
+   },
+   {
+    "title": "Off Minor",
+    "track_number": 2,
+    "side": "A",
+    "duration": "3:00",
+    "session_date": "1947-10-24",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Thelonious Monk",
+     "Gene Ramey",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN317-1 (S2)."
+   },
+   {
+    "title": "Ruby My Dear",
+    "track_number": 3,
+    "side": "A",
+    "duration": "3:07",
+    "session_date": "1947-10-24",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Thelonious Monk",
+     "Gene Ramey",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN313-1 (S2). Discogs 10-inch printing lists 3:09 (S5, S6); a transfer-length variation, not a different take."
+   },
+   {
+    "title": "I Mean You",
+    "track_number": 4,
+    "side": "A",
+    "duration": "2:45",
+    "session_date": "1948-07-02",
+    "composers": [
+     "Thelonious Monk",
+     "Coleman Hawkins"
+    ],
+    "personnel": [
+     "Milt Jackson",
+     "Thelonious Monk",
+     "John Simmons",
+     "Shadow Wilson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN331-1 (S2). First issued on Blue Note 78 single 1564 backed with Tadd Dameron's Symphonette (S5)."
+   },
+   {
+    "title": "April in Paris",
+    "track_number": 5,
+    "side": "A",
+    "duration": "3:21",
+    "session_date": "1947-10-24",
+    "composers": [
+     "Vernon Duke"
+    ],
+    "personnel": [
+     "Thelonious Monk",
+     "Gene Ramey",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S9"
+    ],
+    "notes": "Matrix BN315-1 (S2). AllMusic's song credit adds lyricist E.Y. 'Yip' Harburg (S4). Not on the 1951 10-inch; added for the 1956 12-inch (S5)."
+   },
+   {
+    "title": "In Walked Bud",
+    "track_number": 6,
+    "side": "A",
+    "duration": "2:54",
+    "session_date": "1947-11-21",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "George Taitt",
+     "Sahib Shihab",
+     "Thelonious Monk",
+     "Bob Paige",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S9"
+    ],
+    "notes": "Matrix BN318-3 (S2). First issued on Blue Note 78 single 548 backed with Epistrophy (S5); not on the 1951 10-inch (S5, S6)."
+   },
+   {
+    "title": "Thelonious",
+    "track_number": 7,
+    "side": "B",
+    "duration": "2:59",
+    "session_date": "1947-10-15",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Idrees Sulieman",
+     "Danny Quebec West",
+     "Billy Smith",
+     "Thelonious Monk",
+     "Gene Ramey",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN311-0 (S2)."
+   },
+   {
+    "title": "Epistrophy",
+    "track_number": 8,
+    "side": "B",
+    "duration": "3:07",
+    "session_date": "1948-07-02",
+    "composers": [
+     "Thelonious Monk",
+     "Kenny Clarke"
+    ],
+    "personnel": [
+     "Milt Jackson",
+     "Thelonious Monk",
+     "John Simmons",
+     "Shadow Wilson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN330-0 (S2). Discogs 10-inch printing lists 3:06 (S5, S6); transfer-length variation."
+   },
+   {
+    "title": "Misterioso",
+    "track_number": 9,
+    "side": "B",
+    "duration": "3:21",
+    "session_date": "1948-07-02",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Milt Jackson",
+     "Thelonious Monk",
+     "John Simmons",
+     "Shadow Wilson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN329-0 (S2); titled 'Mysterioso' on the original issues (S2)."
+   },
+   {
+    "title": "Well You Needn't",
+    "track_number": 10,
+    "side": "B",
+    "duration": "2:57",
+    "session_date": "1947-10-24",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Thelonious Monk",
+     "Gene Ramey",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S6",
+     "S9"
+    ],
+    "notes": "Matrix BN314-0 (S2). Discogs 10-inch printing lists 2:59 (S5, S6); transfer-length variation."
+   },
+   {
+    "title": "Introspection",
+    "track_number": 11,
+    "side": "B",
+    "duration": "3:11",
+    "session_date": "1947-10-24",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Thelonious Monk",
+     "Gene Ramey",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S9"
+    ],
+    "notes": "Matrix BN316-3 (S2). Previously unreleased until the 1956 12-inch compilation (S5) — not a reissue bonus track from the LP-era program's perspective; recorded at the October 24, 1947 session."
+   },
+   {
+    "title": "Humph",
+    "track_number": 12,
+    "side": "B",
+    "duration": "2:51",
+    "session_date": "1947-10-15",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Idrees Sulieman",
+     "Danny Quebec West",
+     "Billy Smith",
+     "Thelonious Monk",
+     "Gene Ramey",
+     "Art Blakey"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S9"
+    ],
+    "notes": "Matrix BN308-2 (S2). First issued on Blue Note 78 single 560 backed with Misterioso (S5); not on the 1951 10-inch (S5, S6)."
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c",
+  "apple_album_id": "1459444209",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "sources": [
+     "S7",
+     "S8"
+    ],
+    "notes": "Approved front image (id 6434862313) attached to MusicBrainz release 1dd96446-9f54-428a-9939-e9c33208e754 — Blue Note BLP 5002, US 1951 10-inch LP, this album program's first issue (S7, S8). The 1956 12-inch BLP 1510 recompile carried a new cover design (S5, S6); the 2001 RVG CD restored the 1951 10-inch cover (S1, S5). A back-cover scan (id 6434901305) is also archived."
+   }
+  ],
+  "notes": "Four sessions across two studios. October 15, 1947, WOR Studios, NYC — sextet (Sulieman, West, Smith, Monk, Ramey, Blakey): Humph, Thelonious; the session also recorded Evonce and Suburban Eyes, issued on Volume Two/BLP 1511 and later outtake programs (S2). October 24, 1947, WOR Studios — Monk-Ramey-Blakey trio: Ruby My Dear, Well You Needn't, April in Paris, Off Minor, Introspection; the session also recorded Nice Work (If You Can Get It), issued on Volume Two (S2). November 21, 1947, WOR Studios — quintet (Taitt, Shihab as Edmund Gregory, Monk, Paige, Blakey): In Walked Bud, 'Round About Midnight; the session also recorded Monk's Mood and Who Knows, issued on Volume Two (S2). July 2, 1948, Apex Studios, NYC — quartet (Jackson, Monk, Simmons, Wilson): Misterioso, Epistrophy, I Mean You; the session also recorded Evidence and two titles with Kenny 'Pancho' Hagood vocal, issued on Milt Jackson's BLP 1509/Wizard of the Vibes (S1, S2). ORIGINAL-ISSUE STORY (78-era): the material was recorded for and first issued on Blue Note 78-rpm singles — 543 ('Round Midnight / Well, You Needn't), 547 (Evonce / Off Minor), 548 (In Walked Bud / Epistrophy), 549 (Ruby My Dear / Evidence), 560 (Humph / Misterioso), and 1564 (I Mean You / Tadd Dameron's Symphonette) (S5). The first LP was the 10-inch Genius of Modern Music, Blue Note BLP 5002, released November 1951 with eight of these titles (S5, S6, S7); after the format war Blue Note recompiled it in 1956 as the 12-inch Genius of Modern Music, Vol. One, BLP 1510, adding April in Paris, In Walked Bud, Humph and the previously unreleased Introspection with a new cover (S1, S5). CD reissues recompiled again: the 1989 CD added outtakes; the 2001 RVG edition resequenced and restored the 1951 cover; the July 2, 1948 session moved to the Milt Jackson Wizard of the Vibes reissue, leaving the CD-era Volume One as the three 1947 sessions only (21 tracks) — which is the program AllMusic's page documents (Recording Date October 15 - November 21, 1947; Duration 62:13; S3, S4). The tracks array here documents the original 12-track BLP 1510 LP program per the task's 1947 anchor. RELEASE-DATE CONFLICT: AllMusic dates the album 1952 (S3) while Wikipedia, Discogs and MusicBrainz date the first 10-inch to 1951 (November 1951 per Discogs release data) and the 12-inch BLP 1510 to 1956 (S1, S5, S6, S7); all positions recorded, none silently resolved. PRODUCTION: Alfred Lion producer, Doug Hawkins engineer — Wikipedia states all six Blue Note sessions were recorded by Hawkins at WOR Studios except July 2, 1948 at Apex Studios (S1); both credited in AllMusic's credits (S4). Ira Gitler liner notes (S1, S4); Paul Bacon cover design and Francis Wolff photography (uncredited) on the 10-inch first edition (S4, S6). Reissue credits per AllMusic: Michael Cuscuna reissue producer, Ron McMaster digital transfers, Rudy Van Gelder digital restoration/mastering (S4). NAME VARIANTS (no genuine personnel conflicts): Idrees Suliman = Idrees Sulieman; Eugene Ramey = Gene Ramey; Edmund Gregory = Sahib Shihab (birth name); Milton Jackson = Milt Jackson; Robert Paige = Bob Paige. ALLMUSIC ARTIFACT: its credit list also includes musicians from the Volume Two sessions (Al McKibbon, Kenny Dorham, Lou Donaldson, Lucky Thompson, Nelson Boyd, Max Roach) because the two volumes share one AllMusic credit pool; none of them play on the Volume One program (S4). DURATIONS: taken from the Apple/Blue Note 2013 remaster of the original 12-track program (S9); Discogs 10-inch printings and AllMusic CD listings differ by a few seconds on several titles — transfer variations, not alternate takes. APPLE CATALOG: collectionId 1459444209 carries the original 12-track program (A Blue Note Records Release; (p) 2013 Capitol Records, LLC; its collection metadata says trackCount 13 while serving 12 tracks); the 21-track CD-era program appears separately as Genius of Modern Music (Complete) [Remastered], collectionId 723533894, (p) 2001 Blue Note Records (S9). RECORDING SITES: WOR Studios address 1440 Broadway is documented by the Discogs label page (S10) and geocoded street-grade via the ratified chain (scripts/geocode-place.py, rung 2); note that page is community-maintained ('Needs Vote' data quality) and states the address for the WOR station's 1926-2005 tenancy — no liner-note-level street documentation for the 1947 sessions was found. Apex Studios has no documented street address in any consulted source; its entry is deliberately city-level (inf)."
+ },
+ "ballot": {
+  "album": "Thelonious Monk — Genius of Modern Music, Vol. 1 (1947)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "consensus_core",
+  "priority": "must_have",
+  "case_for": "This is Monk's first leader recording and the foundational document of his compositional language, preserving early versions of core standards including \"'Round About Midnight,\" \"Off Minor,\" \"Ruby My Dear,\" \"Well You Needn't,\" \"In Walked Bud,\" \"Epistrophy,\" and \"Misterioso\" (S1, S2). Its consensus is unusually strong: Penguin awards Volume One a Crown, AllMusic gives it five stars and calls the sessions essential to every jazz collection, and the Encyclopedia of Popular Music also gives it five stars (S3, dossier rationale). The Monk-Blakey dates, the early Monk-Milt Jackson quartet, and the surrounding 1947-48 bop personnel give it substantial lineage and session gravity, while the performances remain a direct, vivid introduction to Monk's sound.",
+  "case_against": "The album is a retrospective compilation rather than a unified LP statement: the material originated on 78-rpm singles, was assembled in different configurations for the 1951 and 1956 LPs, and was later rearranged again for CD editions (S1, S5, S6). The shifts among sextet, trio, quintet, and quartet can feel discontinuous, and the three-minute 78-era limits plus uneven supporting players make some performances less definitive than Monk's later groups. The dossier also records unresolved release-date and program differences, although these do not undermine the importance of the underlying sessions.",
+  "disagreement": null,
+  "recommendation": "The council proposes that John treat this as an indispensable core Monk and bebop document, while identifying the specific LP-era program used to represent it.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

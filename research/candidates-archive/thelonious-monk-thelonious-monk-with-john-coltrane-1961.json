@@ -1,0 +1,435 @@
+{
+  "id": "thelonious-monk-thelonious-monk-with-john-coltrane-1961",
+  "artist": "Thelonious Monk",
+  "album": "Thelonious Monk with John Coltrane",
+  "year": 1961,
+  "label": "Jazzland",
+  "style_primary": "post-bop",
+  "rationale": "The only studio collaboration between Thelonious Monk and John Coltrane, captured at the peak of their legendary 1957 Five Spot residency. A Grammy Hall of Fame inductee (2007). Penguin Guide core collection, AllMusic 5★, DownBeat 5★, Rolling Stone 5★. Essential document of a partnership that reshaped jazz — no Monk canon is complete without it.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Thelonious Monk with John Coltrane",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Thelonious_Monk_with_John_Coltrane"
+    },
+    "S2": {
+      "title": "AllMusic — Thelonious Monk With John Coltrane",
+      "type": "reference",
+      "url": "https://www.allmusic.com/album/thelonious-monk-with-john-coltrane-mw0000188439"
+    },
+    "S3": {
+      "title": "Discogs — Thelonious Monk With John Coltrane",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/75869-Thelonious-Monk-With-John-Coltrane"
+    },
+    "S4": {
+      "title": "iTunes Search API",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Thelonious+Monk+with+John+Coltrane&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz — Thelonious Monk with John Coltrane",
+      "type": "metadata",
+      "url": "https://musicbrainz.org/release-group/20052b09-e445-3bca-b8b5-110c0efd559f"
+    },
+    "S6": {
+      "title": "Cover Art Archive",
+      "type": "metadata",
+      "url": "https://coverartarchive.org/release-group/20052b09-e445-3bca-b8b5-110c0efd559f"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-04-12",
+      "1957-06-26",
+      "1957-07"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York",
+    "recording_sites": [
+      {
+        "session_date": "1957-04-12",
+        "site_raw": "Reeves Sound Studios, New York City",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1957-06-26",
+        "site_raw": "Reeves Sound Studios, New York City",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1957-07",
+        "site_raw": "Reeves Sound Studios, New York City",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ruby, My Dear",
+          "Trinkle, Tinkle",
+          "Off Minor (take 4)",
+          "Nutty",
+          "Epistrophy"
+        ],
+        "session_dates": [
+          "1957-06-26",
+          "1957-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "On all tracks except 'Functional' (solo piano track) and 'Monk's Mood' (bonus track, trio)"
+      },
+      {
+        "name": "Ray Copeland",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Off Minor (take 4)",
+          "Epistrophy"
+        ],
+        "session_dates": [
+          "1957-06-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Gigi Gryce",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Off Minor (take 4)",
+          "Epistrophy"
+        ],
+        "session_dates": [
+          "1957-06-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Coleman Hawkins",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Off Minor (take 4)",
+          "Epistrophy"
+        ],
+        "session_dates": [
+          "1957-06-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wilbur Ware",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ruby, My Dear",
+          "Trinkle, Tinkle",
+          "Off Minor (take 4)",
+          "Nutty",
+          "Epistrophy",
+          "Monk's Mood"
+        ],
+        "session_dates": [
+          "1957-04-12",
+          "1957-06-26",
+          "1957-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "On all tracks except 'Functional'"
+      },
+      {
+        "name": "Shadow Wilson",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ruby, My Dear",
+          "Trinkle, Tinkle",
+          "Nutty",
+          "Monk's Mood"
+        ],
+        "session_dates": [
+          "1957-04-12",
+          "1957-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "On tracks 1, 2, 4, and bonus track 7"
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Off Minor (take 4)",
+          "Epistrophy"
+        ],
+        "session_dates": [
+          "1957-06-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Ruby, My Dear",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:17",
+        "session_date": "1957-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "John Coltrane",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Trinkle, Tinkle",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:37",
+        "session_date": "1957-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "John Coltrane",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Off Minor (take 4)",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:10",
+        "session_date": "1957-06-26",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "John Coltrane",
+          "Ray Copeland",
+          "Gigi Gryce",
+          "Coleman Hawkins",
+          "Wilbur Ware",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Nutty",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:35",
+        "session_date": "1957-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "John Coltrane",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Epistrophy (alternate take)",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:07",
+        "session_date": "1957-06-26",
+        "composers": [
+          "Thelonious Monk",
+          "Kenny Clarke"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "John Coltrane",
+          "Ray Copeland",
+          "Gigi Gryce",
+          "Coleman Hawkins",
+          "Wilbur Ware",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Functional (take 1)",
+        "track_number": 6,
+        "side": "B",
+        "duration": "9:46",
+        "session_date": "1957-04-12",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ],
+        "notes": "Solo piano — Thelonious Himself session outtake"
+      },
+      {
+        "title": "Monk's Mood",
+        "track_number": 7,
+        "side": null,
+        "duration": "7:52",
+        "session_date": "1957-04-12",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ],
+        "notes": "CD reissue bonus track; from Thelonious Himself session"
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "20052b09-e445-3bca-b8b5-110c0efd559f",
+    "apple_album_id": "1440939836",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/4f1b80df-2f09-47ef-828a-e609332653ca/20056980642.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Three sessions. Track 1,2,4 (July 1957) — Monk-Coltrane quartet with Shadow Wilson and Wilbur Ware. Tracks 3,5 (June 26, 1957) — Monk's Music outtakes with septet including Copeland, Gryce, Hawkins, Blakey. Track 6 (April 12, 1957) — solo piano outtake from Thelonious Himself. Track 7 (April 12, 1957) — trio with Ware and Wilson, CD bonus. Engineer is not documented in available sources."
+  },
+  "ballot": {
+    "album": "Thelonious Monk — Thelonious Monk with John Coltrane (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album documents the historically decisive Monk–Coltrane relationship, with the core quartet tracks featuring Monk, Coltrane, Wilbur Ware, and Shadow Wilson, while the septet material adds the extraordinary generational meeting of Coltrane, Coleman Hawkins, and Art Blakey (S1, S2). Its critical standing is unusually broad in the dossier—Penguin Guide Core Collection, five-star notices from AllMusic, DownBeat, and Rolling Stone, and 2007 Grammy Hall of Fame recognition—though those claims need deeper source verification. The playing remains an exceptional discovery gateway: Monk’s compositions and Coltrane’s searching responses make the transmission from Monk’s harmonic language into post-bop audible.",
+    "case_against": "The record is an archival assemblage rather than a unified artistic statement: only three tracks are the Monk–Coltrane quartet, while the remainder consists of outtakes from the Monk’s Music septet session, a solo Monk outtake, and a bonus trio track (S1). That construction makes it partly redundant with stronger, more coherent Monk albums and potentially less definitive than the later-released live Five Spot and Carnegie Hall material. The dossier’s line-level evidence relies heavily on Wikipedia, while its claims about the major critical ratings are not independently documented in the supplied sources.",
+    "disagreement": "The references agree that the Monk–Coltrane partnership and the album’s musical importance are substantial, but they split on tier: Reference 1 calls it consensus_core and must_have, while Reference 2 judges the compilation structure serious enough for contested and strong. They also differ on whether the album’s broad reputation outweighs its outtake-anthology character and the possibility that live documents or more coherent Monk albums better serve the canon.",
+    "recommendation": "John should give this a strong, contested review, weighing the indispensable partnership document against its assembled and partially redundant album structure.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

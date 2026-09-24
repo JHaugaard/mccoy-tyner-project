@@ -1,0 +1,209 @@
+{
+  "id": "art-blakey-the-big-beat-1960",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "The Big Beat",
+  "year": 1960,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4029",
+  "style_primary": "hard-bop",
+  "rationale": "A defining hard-bop statement from Art Blakey's Jazz Messengers, The Big Beat introduced the classic quintet lineup of Lee Morgan (trumpet), Wayne Shorter (tenor sax), Bobby Timmons (piano), Jymie Merritt (bass), and Blakey on drums. Recorded at Van Gelder Studio on March 6, 1960, the album features three Wayne Shorter originals (\"The Chess Players,\" \"Sakeena's Vision,\" \"Lester Left Town\"), Bobby Timmons' standard \"Dat Dere,\" and Bill Hardman's \"Politely,\" plus a standard. Penguin Guide rates it 3 stars, Rolling Stone Jazz Record Guide 4 stars, and AllMusic 4 stars. The album is a consensus pick in hard-bop canon lists and marks the emergence of both Shorter and Morgan as major composing forces in the Messengers.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 The Big Beat (Art Blakey album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Big_Beat_(Art_Blakey_album)"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 The Big Beat",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/the-big-beat-mw0000191549"
+    },
+    "S3": {
+      "title": "Discogs \u2014 Art Blakey & The Jazz Messengers \u2013 The Big Beat (master 62448)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/62448-Art-Blakey-The-Jazz-Messengers-The-Big-Beat"
+    },
+    "S4": {
+      "title": "MusicBrainz Release Group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/65d350f3-04d0-3724-a896-34c0b3098f86"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "art",
+      "url": "https://coverartarchive.org/release-group/65d350f3-04d0-3724-a896-34c0b3098f86"
+    },
+    "S6": {
+      "title": "iTunes Search API",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+The+Big+Beat&entity=album&limit=5"
+    }
+  },
+  "apple_album_id": 715819762,
+  "musicbrainz_release_group_mbid": "65d350f3-04d0-3724-a896-34c0b3098f86",
+  "art_url": "https://coverartarchive.org/release/0d9a85f7-0e80-4378-bbce-e4261de3c51f/9798626891.jpg",
+  "personnel_record": {
+    "recording_date": "1960-03-06",
+    "studio": "Van Gelder Studio",
+    "recording_sites": [
+      {
+        "session_date": "1960-03-06",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "personnel": [
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "name": "Bobby Timmons",
+        "instrument": "piano",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "name": "Jymie Merritt",
+        "instrument": "bass",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Chess Players",
+        "side": "A",
+        "duration": "9:31",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 2,
+        "title": "Sakeena's Vision",
+        "side": "A",
+        "duration": "6:04",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 3,
+        "title": "Politely",
+        "side": "A",
+        "duration": "6:04",
+        "composers": [
+          "Bill Hardman"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 4,
+        "title": "Dat Dere",
+        "side": "B",
+        "duration": "8:47",
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 5,
+        "title": "Lester Left Town",
+        "side": "B",
+        "duration": "6:26",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 6,
+        "title": "It's Only a Paper Moon",
+        "side": "B",
+        "duration": "6:38",
+        "composers": [
+          "Harold Arlen",
+          "E.Y. Harburg",
+          "Billy Rose"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "notes": "The AllMusic page for mw0000191549 lists recording locations as Birdland, Plaza Sound Studios, and Reeves Sound Studios \u2014 these are incorrect for this album and appear to be aggregate metadata from a Blue Note Classic Vinyl compilation page. Wikipedia, Discogs, and sessionographic evidence all confirm Van Gelder Studio, Englewood Cliffs (consistent with the March 1960 date, well after Van Gelder's July 1959 move from Hackensack). The CD reissue includes an alternate take of 'It's Only a Paper Moon' (6:19) not present on the original LP track listing; only the 6 LP-original tracks are listed above."
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers \u2014 The Big Beat (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The first released document of the definitive Shorter\u2013Morgan\u2013Timmons\u2013Merritt\u2013Blakey quintet (S1, S3), pairing maximum session gravity with a real lineage moment: three Wayne Shorter originals ('The Chess Players,' 'Sakeena's Vision,' 'Lester Left Town') marking his emergence as the Messengers' compositional voice and pivoting the band's writing from gospel-blues changes toward the angular modal hard bop of the mid-1960s (S1). Timmons' 'Dat Dere' entered the standard repertoire, and the record still plays as textbook, accessible hard bop. Cross-tradition consensus holds \u2014 Penguin Guide 3 stars, Rolling Stone 4 stars, AllMusic 4 stars (rationale; S2) \u2014 and both references independently read it as an indispensable bridge between the 1958 Moanin' template and the later post-bop language.",
+    "case_against": "The consensus ceiling within Blakey's own catalog is real: Moanin', A Night in Tunisia, Mosaic and Free for All are the titles critics name first, and Penguin reserves its core-collection tier for them while rating The Big Beat 3 stars \u2014 evidence the album is competing for the defining-statement slot against stronger claims in the same discography, not against a weak field. Critics also read the date as transitional, with Timmons' church idiom and Shorter's emerging modernism achieving tighter integration on later live and sextet dates. The dossier's critical sourcing is moderate rather than deep: only Wikipedia and AllMusic are substantive (Discogs/MusicBrainz/CAA/iTunes are identifiers), the Penguin citation lives in prose rather than as a numbered source, and no Tom Lord, DownBeat archive, or Blue Note sessionography is cited \u2014 it clears min_sources: 3, but barely on substance.",
+    "disagreement": "No tier, priority, or scope split \u2014 both references independently returned consensus_core / strong with a clean scope check. They diverged only on the dossier's 'introduced the classic quintet' claim: Ref 1 flags it as imprecise (A Night in Tunisia was recorded in February 1960, a month before this March 6 session, though released later as BLP 4049; Africaine sat shelved until the late 1970s), while Ref 2 accepts the date as the lineup's public introduction. The defensible restatement is 'first released album by the Shorter\u2013Morgan\u2013Timmons\u2013Merritt\u2013Blakey quintet.'",
+    "recommendation": "The council proposes John admit The Big Beat at strong priority \u2014 a consensus-core hard-bop date and the first released document of the definitive Messengers quintet \u2014 after correcting the rationale's 'introduced the quintet' wording and adding one substantive critical source (the Penguin citation as a numbered source, or Tom Lord).",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

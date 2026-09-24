@@ -1,0 +1,338 @@
+{
+  "id": "lee-morgan-the-gigolo-1965",
+  "artist": "Lee Morgan",
+  "album": "The Gigolo",
+  "year": 1965,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "The best of Lee Morgan's mid-1960s Blue Note sessions from his peak period, combining a hit blues opener ('Yes I Can, No You Can't'), the classic 'Speedball,' and an 11-minute title track that showcases his ballad-to-intensity range. Session gravity is exceptional: the quintet pairs Morgan with Wayne Shorter at his most lyrical, alongside Harold Mabern, Bob Cranshaw, and Billy Higgins — the same rhythm section heard on Shorter's JuJu and Night Dreamer. Consistently rated 4+ stars across the major guides (AllMusic 4.5, Penguin 3.5, Rolling Stone 4), with Penguin calling it 'a classic hard bop session.' The title track and 'Speedball' have become live standards, and the album is a cornerstone of Morgan's discography, sitting between The Sidewinder (1963) and Search for the New Land (1966) in his arc.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — The Gigolo (album)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Gigolo_(album)"
+    },
+    "S2": {
+      "title": "AllMusic Album Page — The Gigolo / Lee Morgan",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/the-gigolo-mw0000203611"
+    },
+    "S3": {
+      "title": "Discogs Master Release — Lee Morgan – The Gigolo",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/192316-Lee-Morgan-The-Gigolo"
+    },
+    "S4": {
+      "title": "iTunes Search API — Lee Morgan The Gigolo",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Lee+Morgan+The+Gigolo&entity=album&limit=5"
+    },
+    "S5": {
+      "title": "Cover Art Archive — The Gigolo release group",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/74788abb-0d74-3a08-a4d6-0443ff51e235"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-06-25",
+      "1965-07-01"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "recording_sites": [
+      {
+        "session_date": "1965-06-25",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1965-07-01",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "personnel": [
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-06-25",
+          "1965-07-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-06-25",
+          "1965-07-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composer of track 2, 'Trapped.'"
+      },
+      {
+        "name": "Harold Mabern",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-06-25",
+          "1965-07-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bob Cranshaw",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-06-25",
+          "1965-07-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-06-25",
+          "1965-07-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Yes I Can, No You Can't",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:26",
+        "session_date": "1965-07-01",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Harold Mabern",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Trapped",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:59",
+        "session_date": "1965-06-25",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Harold Mabern",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Speedball",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:32",
+        "session_date": "1965-07-01",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Harold Mabern",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Gigolo",
+        "track_number": 4,
+        "side": "B",
+        "duration": "11:07",
+        "session_date": "1965-07-01",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Harold Mabern",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "You Go to My Head",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:22",
+        "session_date": "1965-07-01",
+        "composers": [
+          "J. Fred Coots",
+          "Haven Gillespie"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Harold Mabern",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Gigolo (Alternate Take)",
+        "track_number": 6,
+        "side": "B",
+        "duration": "10:04",
+        "session_date": "1965-07-01",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Wayne Shorter",
+          "Harold Mabern",
+          "Bob Cranshaw",
+          "Billy Higgins"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "74788abb-0d74-3a08-a4d6-0443ff51e235",
+    "apple_album_id": "724475614",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/bd7acd39-c7ca-459f-ac1d-94d0e85c879b/4156799077.jpg",
+        "is_original_cover": null,
+        "epistemic": "obs",
+        "notes": "Front cover via Cover Art Archive; original Blue Note BST 84212 cover art by Forlenza Venosa Associates, photo by Francis Wolff."
+      }
+    ],
+    "notes": "All personnel (Morgan, Shorter, Mabern, Cranshaw, Higgins) play on all tracks; the session split per Wikipedia records 'Trapped' (Shorter's composition) from June 25 and all other tracks from July 1. Producer Alfred Lion per Wikipedia and Discogs. Engineer Rudy Van Gelder per Discogs (lacquer cut credit) and multiple corroborating sources — all Blue Note sessions at Van Gelder Studio during this period were engineered by Van Gelder. Liner notes by Nat Hentoff. The original LP (BST 84212) had 5 tracks; the CD adds the alternate take of 'The Gigolo.' Apple Music holds two editions: the RVG Remastered edition (collectionId 724475614, 6 tracks) and a 5-track standard edition (collectionId 1442828541)."
+  },
+  "ballot": {
+    "album": "Lee Morgan — The Gigolo (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is the Morgan–Shorter front line at its mid-sixties peak, backed by the exact Mabern–Cranshaw–Higgins rhythm section that anchored Shorter's JuJu and Night Dreamer (dossier personnel record, S1/S3) — session gravity of the highest order, binding the date to the Shorter lineage already in the canon. The session yielded durable hard-bop literature: 'Speedball' became Morgan's signature set-closer and a jam-session standard, the 11-minute minor-key title track stretches Morgan well beyond the blues-and-boogaloo formula, and Shorter's 'Trapped' adds compositional weight from the saxophone chair. As a discovery record it is the template Blue Note quintet date — accessible pulse on 'Yes I Can, No You Can't,' harmonic bite in the middle, a masterly 'You Go to My Head' — exactly what the rubric's 'it still plays' test rewards.",
+    "case_against": "The consensus signal is tier-two, not core: Penguin's 3.5 sits below core-collection threshold, and the dossier's '4+ stars across the major guides' claim is quoted in the rationale without Penguin or Rolling Stone review URLs — S2–S5 are Wikipedia, Discogs, Apple, and Cover Art Archive, i.e., discographic hygiene rather than critical consensus. Within Morgan's own arc the record is shadowed: The Sidewinder is the defining statement, Search for the New Land the compositional ambition, and the opener is a deliberate structural sequel chasing the boogaloo hit formula Blue Note wanted repeated — making The Gigolo a consummate blowing date rather than a boundary-shifting milestone. Morgan's fertile 1964–66 Blue Note run (Cornbread, Tom Cat, The Rumproller, Delightfulee) forces a pick, so the case turns on whether John reads Morgan as a one-record or two-record artist.",
+    "disagreement": "None on tier or scope — both references independently landed on contested/strong with a clean scope pass. The one calibration split: Reference 1 leaned priority toward 'consider' pending John's one-vs-two-Morgan-records ruling, while Reference 2 held 'strong' outright; both flagged the identical sourcing gap (Penguin/Rolling Stone ratings asserted without review URLs).",
+    "recommendation": "The council proposes John weigh The Gigolo as Morgan's second Blue Note record — a strong-priority contested candidate argued on session gravity and repertoire rather than consensus — and, if he moves toward inclusion, have the drip first backfill the missing Penguin and Rolling Stone citations.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "id": "hank-mobley-no-room-for-squares-1963",
+  "artist": "Hank Mobley",
+  "album": "No Room for Squares",
+  "year": 1963,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Classic hard-bop date at the peak of Hank Mobley's Blue Note run (recorded 1963, released May 1964). The personnel network is the story: two front lines across two sessions \u2014 Lee Morgan, Andrew Hill and John Ore on the October date; Donald Byrd, Herbie Hancock and Butch Warren on the March date \u2014 all under Philly Joe Jones. AllMusic 4 stars (Jurek: 'a very gritty and realist approach to the roots of hard bop. Highly recommended'); Penguin Guide 3.5 stars. The title track and 'Three Way Split' are Mobley originals still in the hard-bop book. Session gravity + defining-statement value: this is the Mobley the canon's Soul Station/Roll Call/Workout arc was building toward, with the added historical wrinkle that the March session's material was partly reissued on The Turnaround! (1965). Consensus via AllMusic and Penguin; no artist-concentration penalty applies (Mobley already in canon).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 No Room for Squares",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/No_Room_for_Squares"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 No Room for Squares (album + credits)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/no-room-for-squares-mw0000097955"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Hank Mobley No Room for Squares",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Hank+Mobley+No+Room+for+Squares&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group \u2014 No Room for Squares",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/b401d71d-1219-309d-859f-b49fac22b0d9"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 No Room for Squares (release-group b401d71d)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/b401d71d-1219-309d-859f-b49fac22b0d9"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-03-07",
+      "1963-10-02"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1963-03-07",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1963-10-02",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-03-07",
+          "1963-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of tracks 1, 3, 4, 6"
+      },
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Three Way Split",
+          "Carolyn",
+          "No Room for Squares",
+          "Me 'N You",
+          "Carolyn (Alternate Take)",
+          "No Room for Squares (Alternate Take)"
+        ],
+        "session_dates": [
+          "1963-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'Carolyn' and 'Me 'N You'"
+      },
+      {
+        "name": "Donald Byrd",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Up a Step",
+          "Old World, New Imports"
+        ],
+        "session_dates": [
+          "1963-03-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Andrew Hill",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Three Way Split",
+          "Carolyn",
+          "No Room for Squares",
+          "Me 'N You",
+          "Carolyn (Alternate Take)",
+          "No Room for Squares (Alternate Take)"
+        ],
+        "session_dates": [
+          "1963-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic lists as Guest Artist + Piano"
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Up a Step",
+          "Old World, New Imports"
+        ],
+        "session_dates": [
+          "1963-03-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Ore",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Three Way Split",
+          "Carolyn",
+          "No Room for Squares",
+          "Me 'N You",
+          "Carolyn (Alternate Take)",
+          "No Room for Squares (Alternate Take)"
+        ],
+        "session_dates": [
+          "1963-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic lists as Bass + Guest Artist"
+      },
+      {
+        "name": "Butch Warren",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Up a Step",
+          "Old World, New Imports"
+        ],
+        "session_dates": [
+          "1963-03-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-03-07",
+          "1963-10-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic also credits 'Jo Jones' drums on the page \u2014 likely a listing error; all discographic sources give Philly Joe Jones on both sessions"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Three Way Split",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:49",
+        "session_date": "1963-10-02",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Lee Morgan",
+          "Andrew Hill",
+          "John Ore",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Carolyn",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:30",
+        "session_date": "1963-10-02",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Lee Morgan",
+          "Andrew Hill",
+          "John Ore",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Up a Step",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:31",
+        "session_date": "1963-03-07",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Donald Byrd",
+          "Herbie Hancock",
+          "Butch Warren",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "No Room for Squares",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:57",
+        "session_date": "1963-10-02",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Lee Morgan",
+          "Andrew Hill",
+          "John Ore",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Me 'N You",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:17",
+        "session_date": "1963-10-02",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Lee Morgan",
+          "Andrew Hill",
+          "John Ore",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Old World, New Imports",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:08",
+        "session_date": "1963-03-07",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Donald Byrd",
+          "Herbie Hancock",
+          "Butch Warren",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Carolyn (Alternate Take)",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:35",
+        "session_date": "1963-10-02",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Lee Morgan",
+          "Andrew Hill",
+          "John Ore",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "No Room for Squares (Alternate Take)",
+        "track_number": 8,
+        "side": null,
+        "duration": "6:45",
+        "session_date": "1963-10-02",
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Hank Mobley",
+          "Lee Morgan",
+          "Andrew Hill",
+          "John Ore",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b401d71d-1219-309d-859f-b49fac22b0d9",
+    "apple_album_id": "1445885228",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/0f1b819e-0ccf-4daa-9002-6cb682591d36/8039727813.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover via Cover Art Archive release-group b401d71d; Reid Miles cover design, Francis Wolff cover photo"
+      }
+    ],
+    "notes": "Two sessions at Van Gelder Studio, Englewood Cliffs. March 7, 1963 (tracks 3, 6): Mobley/Byrd/Hancock/Warren/Jones. October 2, 1963 (tracks 1-2, 4-5 + both alternate takes): Mobley/Morgan/Hill/Ore/Jones. Material from the March session also appears on The Turnaround! (1965). Bonus tracks 7-8 are CD-era alternate takes, flagged accordingly. AllMusic's 'Jo Jones' drum credit is treated as a page error \u2014 every discographic source gives Philly Joe Jones."
+  },
+  "ballot": {
+    "album": "Hank Mobley \u2014 No Room for Squares (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity is the engine: the October 2, 1963 date pulls Lee Morgan (fresh off The Sidewinder) and Andrew Hill (just before his avant-garde breakout on Point of Departure) into a hard-bop context with Philly Joe Jones, while the March 7 date brings Donald Byrd and Herbie Hancock \u2014 two elite Blue Note front lines under one leader. AllMusic gives 4 stars (Jurek: 'a very gritty and realist approach to the roots of hard bop. Highly recommended'), Penguin Guide 3.5 stars, and the title track and 'Three Way Split' are Mobley originals with staying power in the working hard-bop repertoire.",
+    "case_against": "The consensus is thinner than the dossier implies: Penguin 3.5 is below the core-collection threshold (4 stars + Crown), and the dossier's other three 'sources' (Wikipedia, iTunes, MusicBrainz, Cover Art Archive) are metadata, not critical consensus \u2014 leaving an effective critical-source count of two, at the bottom edge of min_sources: 3. No NPR, DownBeat critics'-poll, or JazzTimes canon-list citation appears. It is not Mobley's defining statement \u2014 Soul Station (1960) and Workout (1961) are the peaks \u2014 and the two-session split (entirely different front lines) means it is not a single coherent musical statement but two strong dates packaged together.",
+    "disagreement": "The references split on tier: one reads the consensus as thin and the album as secondary in Mobley's catalogue (contested), the other reads the session gravity as overwhelming and the two-session split as minor (consensus_core). The real divide is whether the Hill-Morgan session alone is enough to overcome the thin sourcing and the lack of a unified album concept.",
+    "recommendation": "Include if John wants the Mobley arc filled out past its Soul Station/Workout peak; the October Hill-Morgan date is the draw, but the consensus sourcing does not meet the consensus_core bar and the two-session package weakens the defining-statement case.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

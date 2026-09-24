@@ -1,0 +1,913 @@
+{
+ "id": "dexter-gordon-the-chase-1947",
+ "artist": "Dexter Gordon",
+ "album": "The Chase!",
+ "year": 1947,
+ "label": "Dial Records",
+ "style_primary": "bebop",
+ "rationale": "Dexter Gordon's complete 1947 Dial sessions: five sessions under Gordon's leadership plus a Teddy Edwards Quartet feature, recorded June 5, June 12 and December 4, 1947 at C.P. MacGregor Studios, Los Angeles, for Ross Russell's Hollywood-based Dial label (S5, S6, S11), first issued on 78-rpm singles between 1947 and 1950 and compiled complete - master takes and alternates, 18 titles - on the 1995 Stash CD 'The Chase! The Complete Dial Sessions, 1947' (STB-2513), the program documented here (S3, S7). The title piece is the tenor-saxophone battle 'The Chase' with Wardell Gray, issued as Dial 1017 in 1947: Russell 'managed to get them to simulate one of their battles' (S10), it became Gray's first nationally known recording, and it has been called 'one of the most exciting musical contests in the history of jazz' (S10). Its December twin 'The Duel' with Teddy Edwards (Dial 1028, 1948) and Gordon's originals 'Mischievous Lady', 'Chromatic Aberration' (alternate take issued as 'Iridescence'), 'Bikini' and 'The Duel' sit alongside the standards 'Lullaby In Rhythm', 'It's The Talk Of The Town', 'Ghost Of A Chance' and 'Sweet And Lovely' (S3, S5, S9). The personnel is a cross-section of Los Angeles bebop: Gray and Edwards on second tenor, Melba Liston on trombone, the pianists Charles Fox, Jimmy Bunn and Jimmy Rowles, Red Callender on bass throughout, and Chuck Thompson and Roy Porter on drums (S2, S3, S5, S6). AllMusic styles the set Bop, Hard Bop, Jazz Instrument and Saxophone Jazz, with the recording span June 5 - December 4, 1947 (S1); Wikipedia frames these titles within Gordon's return to Los Angeles and the Gordon-Gray saxophone duels that ran 1947-1952 (S9). NOT the 1970 Prestige live album of the same title - this dossier documents the 1947 Dial studio material only (S1 discography timeline; see block notes).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "scope_flag": "Era boundary: recorded June 5 - December 4, 1947 (in window); 78-era material first issued on Dial 78-rpm singles 1947-1950 (Dial 1017 'The Chase Parts 1 & 2' 1947; Dial 1028 'The Duel' 1948; Dial 1022, 1033, 759, 1038, 1018, 1042, 1054, 1048 through 1950) and the Dial 10-inch LP 204 'Dexter Gordon' (1950). The dossier artifact is the 1995 Stash CD 'The Chase! The Complete Dial Sessions, 1947' (STB-2513), the complete masters-plus-alternates edition of all six sessions. Dossier year follows the project recording-year convention (cf. Charlie Parker Story 1945/Savoy, Genius of Modern Music Vol. 1 1947/Blue Note). Disambiguation: not the 1970 Prestige live album also titled 'The Chase!'.",
+ "bridge_case": "For a listener arriving from the swing-era composed canon: 'The Chase' and 'The Duel' extend the jam-session tenor 'battle' aesthetic - two horns trading over a straight rhythm-section beat - into the bebop idiom, so the leap is hearing the familiar cutting-contest format at modern tempo; 'Mischievous Lady' and 'Lullaby In Rhythm' are the gentler entry points on the riff-tune and pop-song side.",
+ "accessibility": "intermediate",
+ "tags": [
+  "bebop",
+  "dial",
+  "1940s",
+  "78-era-sessions",
+  "tenor-saxophone-battle",
+  "complete-sessions-compilation",
+  "los-angeles"
+ ],
+ "sources": {
+  "S1": {
+   "type": "allmusic",
+   "title": "The Complete Dial Sessions - Dexter Gordon - AllMusic album page (styles Bop/Hard Bop/Jazz Instrument/Saxophone Jazz; release date May 25, 1995; duration 1:02:07; recording date June 5 - December 4, 1947; Additional Releases: 1995 CD, Stash 2513)",
+   "url": "https://www.allmusic.com/album/the-complete-dial-sessions-mw0000081806"
+  },
+  "S2": {
+   "type": "allmusic",
+   "title": "The Complete Dial Sessions - AllMusic credits tab (Gordon Primary Artist/Sax (Tenor); Gray and Edwards Guest Artist/Sax (Tenor); Liston Trombone; Fox, Bunn, Rowles Piano; Callender Bass; Thompson and Porter Drums; Tony Williams and Will Friedwald Producers; Bernard Brightman Executive Producer; Collin Kellogg Art Direction)",
+   "url": "https://www.allmusic.com/album/the-complete-dial-sessions-mw0000081806/credits"
+  },
+  "S3": {
+   "type": "discogs",
+   "title": "Dexter Gordon - The Chase! The Complete Dial Sessions, 1947 - Discogs release r7018265 (Budget Stash Records Inc. STB-2513, US 1995 CD, compilation; 18 tracks in two parts - master takes / alternate takes - with durations, per-track musician credits, Written-By composer credits, session-date notes, barcode 032501251322; original sessions produced by Ross Russell)",
+   "url": "https://www.discogs.com/release/7018265-Dexter-Gordon-The-Chase-The-Complete-Dial-Sessions-1947"
+  },
+  "S4": {
+   "type": "discogs",
+   "title": "Dexter - The Dial Sessions - Discogs master 526264 (edition family: Polydor 582 735 UK 1969 LP; Storyville SLP 814 Denmark 1969 LP; Stash STB-2513 US 1995 CD 'The Chase! The Complete Dial Sessions, 1947'; Spotlite/Dial TOCJ-6205 Japan 1998 CD; Dial TOCJ-50217 Japan 2011 CD; master credits include liner notes by Alun Morgan and Daniel Halperin)",
+   "url": "https://www.discogs.com/master/526264-Dexter-The-Dial-Sessions"
+  },
+  "S5": {
+   "type": "sessionography",
+   "title": "Dexter Gordon Discography - jazzdisco.org session index: #470605 Dexter Gordon Quintet, #470612 Dexter Gordon - Wardell Gray Quintet, #470612-2 Dexter Gordon Quartet (all C.P. MacGregor Studios, Los Angeles, CA, June 5 and June 12, 1947) and #471204 Dexter Gordon Quartet, #471204-2 Dexter Gordon - Teddy Edwards Quintet (C.P. MacGregor Studios, Los Angeles, CA, December 4, 1947); matrices D1081-D/E, D1082-C/F, D1083-C/D, D1084-D, D1085-A/B/C, D1086-A/B, D1087-A, D1141-C/E, D1142-A/D, D1143-C/DD, D1144-C/DF with Dial issue numbers",
+   "url": "https://www.jazzdisco.org/dexter-gordon/discography/"
+  },
+  "S6": {
+   "type": "sessionography",
+   "title": "Teddy Edwards Discography - jazzdisco.org session #471204: Teddy Edwards Quartet (Edwards tenor; Rowles piano; Callender bass; Porter drums), C.P. MacGregor Studios, Los Angeles, CA, December 4, 1947; Blues In Teddy's Flat, matrices D1145-A/AA, issued Dial 1033, 759, LP 211",
+   "url": "https://www.jazzdisco.org/teddy-edwards/discography/"
+  },
+  "S7": {
+   "type": "musicbrainz",
+   "title": "MusicBrainz release group 89cd0ee8-06bd-390e-ad6b-f47e1e00c88b 'The Complete Dial Sessions, 1947' (Album/Compilation, first-release-date 1995) and release 40d57114-327c-4339-a28b-297306ef476e (US 1995 CD, 18 tracks, barcode 032501251322 matching the Stash STB-2513 pressing; ws/2 JSON)",
+   "url": "https://musicbrainz.org/release-group/89cd0ee8-06bd-390e-ad6b-f47e1e00c88b"
+  },
+  "S8": {
+   "type": "itunes",
+   "title": "iTunes Search/Lookup API - Dexter Gordon, 'On Dial - The Complete Sessions', collectionId 276105159 (1995-03-15, (P) 1994 Spotlite Records, 18 tracks, take-labeled titles in session order: 'Mischievous Lady (Take D)/(Take E)', 'Lullaby In Rhythm (Take C)/(Take F)', 'The Chase (False Start)', 'The Chase', 'Chromatic Aberration (Take B)/(Take C)', 'It's the Talk of the Town (Take A)/(Take B)', 'Blues Bikini', 'Ghost of a Chance (Take C)/(Take D)', 'Sweet and Lovely (Take A)/(Take D)', 'Horning In (feat. Teddy Edwards)', 'The Duel (feat. Teddy Edwards)', 'Blues In Teddy's Flat')",
+   "url": "https://itunes.apple.com/search?term=Dexter+Gordon+Dial&entity=album&limit=5"
+  },
+  "S9": {
+   "type": "wikipedia",
+   "title": "Dexter Gordon - Wikipedia article (1947 Dial sessions for Ross Russell's Dial label: Mischievous Lady, Lullaby in Rhythm, The Chase, Iridescence, It's the Talk of the Town, Bikini, A Ghost of a Chance, Sweet and Lovely; saxophone duels with Wardell Gray documented 1947-1952)",
+   "url": "https://en.wikipedia.org/wiki/Dexter_Gordon"
+  },
+  "S10": {
+   "type": "wikipedia",
+   "title": "Wardell Gray - Wikipedia article ('The Chase': Ross Russell managed to get Gordon and Gray to simulate one of their battles; became Gray's first nationally known recording; 'one of the most exciting musical contests in the history of jazz')",
+   "url": "https://en.wikipedia.org/wiki/Wardell_Gray"
+  },
+  "S11": {
+   "type": "wikipedia",
+   "title": "Dial Records (1946) - Wikipedia article (American record label founded 1946 by Ross Russell; located Hollywood 1946-47, then New York City; defunct June 3, 1954)",
+   "url": "https://en.wikipedia.org/wiki/Dial_Records_(1946)"
+  },
+  "S12": {
+   "type": "identifier",
+   "title": "Wikidata Q56670213 - C.P. MacGregor Studios ('US recording studio in Hollywood, Los Angeles'); item carries no P625 coordinate and no street address",
+   "url": "https://www.wikidata.org/wiki/Q56670213"
+  },
+  "S13": {
+   "type": "cover-art",
+   "title": "Cover Art Archive - release group 89cd0ee8-06bd-390e-ad6b-f47e1e00c88b and release 40d57114-327c-4339-a28b-297306ef476e (no cover art held for either; checked 2026-09-24)",
+   "url": "https://coverartarchive.org/release-group/89cd0ee8-06bd-390e-ad6b-f47e1e00c88b"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1947-06-05",
+   "1947-06-12",
+   "1947-12-04"
+  ],
+  "multi_session": true,
+  "studio": "C.P. MacGregor Studios, Los Angeles, CA",
+  "recording_sites": [
+   {
+    "session_date": "1947-06-05",
+    "site_raw": "C.P. MacGregor Studios, Los Angeles, CA",
+    "site_slug": null,
+    "site_new": {
+     "name": "C.P. MacGregor Studios",
+     "city": "Los Angeles, CA",
+     "kind": "studio",
+     "address": null,
+     "lat": 34.054,
+     "lon": -118.243,
+     "location_epistemic": "inf",
+     "location_source": "https://www.jazzdisco.org/dexter-gordon/discography/ (all five Gordon Dial sessions June-December 1947 list 'C.P. MacGregor Studios, Los Angeles, CA') and https://www.jazzdisco.org/teddy-edwards/discography/ (session #471204, December 4, 1947) | studio identity corroborated by Wikidata Q56670213 ('C.P. MacGregor Studios', US recording studio in Hollywood, Los Angeles) — item carries no P625 coordinate | coords: city centroid (OSM Nominatim: Los Angeles, CA), 3-decimal precision — no street address documented | resolved by mccoy-tyner scripts/geocode-place.py (Wikidata rung empty, fell through to city centroid)"
+    },
+    "epistemic": "obs",
+    "source": "S5"
+   },
+   {
+    "session_date": "1947-06-12",
+    "site_raw": "C.P. MacGregor Studios, Los Angeles, CA",
+    "site_slug": null,
+    "site_new": {
+     "name": "C.P. MacGregor Studios",
+     "city": "Los Angeles, CA",
+     "kind": "studio",
+     "address": null,
+     "lat": 34.054,
+     "lon": -118.243,
+     "location_epistemic": "inf",
+     "location_source": "https://www.jazzdisco.org/dexter-gordon/discography/ (all five Gordon Dial sessions June-December 1947 list 'C.P. MacGregor Studios, Los Angeles, CA') and https://www.jazzdisco.org/teddy-edwards/discography/ (session #471204, December 4, 1947) | studio identity corroborated by Wikidata Q56670213 ('C.P. MacGregor Studios', US recording studio in Hollywood, Los Angeles) — item carries no P625 coordinate | coords: city centroid (OSM Nominatim: Los Angeles, CA), 3-decimal precision — no street address documented | resolved by mccoy-tyner scripts/geocode-place.py (Wikidata rung empty, fell through to city centroid)"
+    },
+    "epistemic": "obs",
+    "source": "S5"
+   },
+   {
+    "session_date": "1947-12-04",
+    "site_raw": "C.P. MacGregor Studios, Los Angeles, CA",
+    "site_slug": null,
+    "site_new": {
+     "name": "C.P. MacGregor Studios",
+     "city": "Los Angeles, CA",
+     "kind": "studio",
+     "address": null,
+     "lat": 34.054,
+     "lon": -118.243,
+     "location_epistemic": "inf",
+     "location_source": "https://www.jazzdisco.org/dexter-gordon/discography/ (all five Gordon Dial sessions June-December 1947 list 'C.P. MacGregor Studios, Los Angeles, CA') and https://www.jazzdisco.org/teddy-edwards/discography/ (session #471204, December 4, 1947) | studio identity corroborated by Wikidata Q56670213 ('C.P. MacGregor Studios', US recording studio in Hollywood, Los Angeles) — item carries no P625 coordinate | coords: city centroid (OSM Nominatim: Los Angeles, CA), 3-decimal precision — no street address documented | resolved by mccoy-tyner scripts/geocode-place.py (Wikidata rung empty, fell through to city centroid)"
+    },
+    "epistemic": "obs",
+    "source": "S5"
+   }
+  ],
+  "producer": "Ross Russell",
+  "engineer": null,
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Dexter Gordon",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Mischievous Lady",
+     "Lullaby In Rhythm",
+     "The Chase (Parts One & Two)",
+     "Chromatic Aberration",
+     "It's The Talk Of The Town",
+     "Bikini",
+     "Ghost Of A Chance",
+     "Sweet And Lovely",
+     "The Duel (Parts One & Two)",
+     "Mischievous Lady (Alternate Take)",
+     "Lullaby In Rhythm (Alternate Take)",
+     "The Chase, Part One (Breakdown)",
+     "Iridescence (Chromatic Aberration)",
+     "It's The Talk Of The Town (Alternate Take)",
+     "Ghost Of A Chance (Alternate Take)",
+     "Sweet And Lovely (Alternate Take)",
+     "Hornin' In (The Duel, Parts One & Two)"
+    ],
+    "session_dates": [
+     "1947-06-05",
+     "1947-06-12",
+     "1947-12-04"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5",
+     "S8",
+     "S9"
+    ],
+    "name_variants": [],
+    "notes": "Leader of five of the six sessions and AllMusic Primary Artist (S1, S2). On every track except 'Blues In Teddy's Flat', the Teddy Edwards Quartet feature (S3 per-track credits: Gordon on tracks 1-9 and 11-18; S6 roster without Gordon; S8 iTunes artist field). Composed Mischievous Lady, The Chase, Chromatic Aberration, Bikini and The Duel (S3 Written-By credits)."
+   },
+   {
+    "name": "Wardell Gray",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "The Chase (Parts One & Two)",
+     "The Chase, Part One (Breakdown)"
+    ],
+    "session_dates": [
+     "1947-06-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5",
+     "S8",
+     "S9",
+     "S10"
+    ],
+    "name_variants": [],
+    "notes": "AllMusic Guest Artist (S2). The June 12 Gordon-Gray quintet recorded 'The Chase': Ross Russell 'managed to get them to simulate one of their battles' (S10); it became Gray's first nationally known recording (S10). Present on the master coupling and its false-start breakdown only (S3 credits Gray on tracks 3 and 13; S8 lists both takes under Gray)."
+   },
+   {
+    "name": "Teddy Edwards",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "The Duel (Parts One & Two)",
+     "Blues In Teddy's Flat",
+     "Hornin' In (The Duel, Parts One & Two)"
+    ],
+    "session_dates": [
+     "1947-12-04"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5",
+     "S6",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": "AllMusic Guest Artist (S2). Second tenor on the December 4 Gordon-Edwards quintet session ('The Duel', plus the 'Hornin' In' alternates issued as Dial 1048) and leader of the same-day Teddy Edwards Quartet that recorded 'Blues In Teddy's Flat' without Gordon (S5, S6; S3 credits Edwards on tracks 9, 10, 18; S8 iTunes artist field)."
+   },
+   {
+    "name": "Melba Liston",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Mischievous Lady",
+     "Lullaby In Rhythm",
+     "Mischievous Lady (Alternate Take)",
+     "Lullaby In Rhythm (Alternate Take)"
+    ],
+    "session_dates": [
+     "1947-06-05"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Trombone on the June 5 quintet (S5 roster; S2 AllMusic Trombone; S3 tracks 1, 2, 11, 12)."
+   },
+   {
+    "name": "Charles Fox",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Mischievous Lady",
+     "Lullaby In Rhythm",
+     "Mischievous Lady (Alternate Take)",
+     "Lullaby In Rhythm (Alternate Take)"
+    ],
+    "session_dates": [
+     "1947-06-05"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [
+     "Charles Philip Fox (AllMusic credit, S2)"
+    ],
+    "notes": "Piano on the June 5 quintet (S5: 'Charles Fox, piano'; S3 tracks 1, 2, 11, 12)."
+   },
+   {
+    "name": "Jimmy Bunn",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "The Chase (Parts One & Two)",
+     "Chromatic Aberration",
+     "It's The Talk Of The Town",
+     "Bikini",
+     "The Chase, Part One (Breakdown)",
+     "Iridescence (Chromatic Aberration)",
+     "It's The Talk Of The Town (Alternate Take)"
+    ],
+    "session_dates": [
+     "1947-06-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Piano on both June 12 sessions - the Gray quintet and the Gordon quartet (S5 rosters; S3 tracks 3-6, 13-15)."
+   },
+   {
+    "name": "Jimmy Rowles",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Ghost Of A Chance",
+     "Sweet And Lovely",
+     "The Duel (Parts One & Two)",
+     "Blues In Teddy's Flat",
+     "Ghost Of A Chance (Alternate Take)",
+     "Sweet And Lovely (Alternate Take)",
+     "Hornin' In (The Duel, Parts One & Two)"
+    ],
+    "session_dates": [
+     "1947-12-04"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "AllMusic Guest Artist (S2). Piano on all three December 4 sessions - the Gordon quartet, the Gordon-Edwards quintet and the Edwards quartet (S5, S6 rosters; S3 tracks 7-10, 16-18)."
+   },
+   {
+    "name": "Red Callender",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1947-06-05",
+     "1947-06-12",
+     "1947-12-04"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "The constant: bass on every session and every track (S5 and S6 rosters for all six sessions; S3 credits bass on all 18 tracks; S2 AllMusic Bass)."
+   },
+   {
+    "name": "Chuck Thompson",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Mischievous Lady",
+     "Lullaby In Rhythm",
+     "The Chase (Parts One & Two)",
+     "Chromatic Aberration",
+     "It's The Talk Of The Town",
+     "Bikini",
+     "Mischievous Lady (Alternate Take)",
+     "Lullaby In Rhythm (Alternate Take)",
+     "The Chase, Part One (Breakdown)",
+     "Iridescence (Chromatic Aberration)",
+     "It's The Talk Of The Town (Alternate Take)"
+    ],
+    "session_dates": [
+     "1947-06-05",
+     "1947-06-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [
+     "Chuch Thompson (jazzdisco session-listing spelling, S5)"
+    ],
+    "notes": "Drums on both June dates - the June 5 quintet and both June 12 sessions (S5 rosters; S3 tracks 1-6, 11-15; S2 AllMusic 'Chuck Thompson', Drums)."
+   },
+   {
+    "name": "Roy Porter",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Ghost Of A Chance",
+     "Sweet And Lovely",
+     "The Duel (Parts One & Two)",
+     "Blues In Teddy's Flat",
+     "Ghost Of A Chance (Alternate Take)",
+     "Sweet And Lovely (Alternate Take)",
+     "Hornin' In (The Duel, Parts One & Two)"
+    ],
+    "session_dates": [
+     "1947-12-04"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Drums on all three December 4 sessions (S5, S6 rosters; S3 tracks 7-10, 16-18)."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Mischievous Lady",
+    "track_number": 1,
+    "side": null,
+    "duration": "2:44",
+    "session_date": "1947-06-05",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Melba Liston",
+     "Charles Fox",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Lullaby In Rhythm",
+    "track_number": 2,
+    "side": null,
+    "duration": "3:01",
+    "session_date": "1947-06-05",
+    "composers": [
+     "Benny Goodman",
+     "Edgar Sampson"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Melba Liston",
+     "Charles Fox",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "The Chase (Parts One & Two)",
+    "track_number": 3,
+    "side": null,
+    "duration": "6:44",
+    "session_date": "1947-06-12",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Wardell Gray",
+     "Jimmy Bunn",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7",
+     "S10"
+    ]
+   },
+   {
+    "title": "Chromatic Aberration",
+    "track_number": 4,
+    "side": null,
+    "duration": "3:03",
+    "session_date": "1947-06-12",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Bunn",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "It's The Talk Of The Town",
+    "track_number": 5,
+    "side": null,
+    "duration": "3:21",
+    "session_date": "1947-06-12",
+    "composers": [
+     "Al Neiburg",
+     "Jerry Livingston",
+     "Marty Symes"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Bunn",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Bikini",
+    "track_number": 6,
+    "side": null,
+    "duration": "3:35",
+    "session_date": "1947-06-12",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Bunn",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Ghost Of A Chance",
+    "track_number": 7,
+    "side": null,
+    "duration": "2:52",
+    "session_date": "1947-12-04",
+    "composers": [
+     "Bing Crosby",
+     "Victor Young"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Rowles",
+     "Red Callender",
+     "Roy Porter"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Sweet And Lovely",
+    "track_number": 8,
+    "side": null,
+    "duration": "2:48",
+    "session_date": "1947-12-04",
+    "composers": [
+     "Gus Arnheim",
+     "Harry Tobias"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Rowles",
+     "Red Callender",
+     "Roy Porter"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "The Duel (Parts One & Two)",
+    "track_number": 9,
+    "side": null,
+    "duration": "5:25",
+    "session_date": "1947-12-04",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Teddy Edwards",
+     "Jimmy Rowles",
+     "Red Callender",
+     "Roy Porter"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Blues In Teddy's Flat",
+    "track_number": 10,
+    "side": null,
+    "duration": "3:00",
+    "session_date": "1947-12-04",
+    "composers": [
+     "Teddy Edwards"
+    ],
+    "personnel": [
+     "Teddy Edwards",
+     "Jimmy Rowles",
+     "Red Callender",
+     "Roy Porter"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S6",
+     "S7"
+    ]
+   },
+   {
+    "title": "Mischievous Lady (Alternate Take)",
+    "track_number": 11,
+    "side": null,
+    "duration": "2:30",
+    "session_date": "1947-06-05",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Melba Liston",
+     "Charles Fox",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Lullaby In Rhythm (Alternate Take)",
+    "track_number": 12,
+    "side": null,
+    "duration": "2:51",
+    "session_date": "1947-06-05",
+    "composers": [
+     "Benny Goodman",
+     "Edgar Sampson"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Melba Liston",
+     "Charles Fox",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "The Chase, Part One (Breakdown)",
+    "track_number": 13,
+    "side": null,
+    "duration": "0:20",
+    "session_date": "1947-06-12",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Wardell Gray",
+     "Jimmy Bunn",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Iridescence (Chromatic Aberration)",
+    "track_number": 14,
+    "side": null,
+    "duration": "2:46",
+    "session_date": "1947-06-12",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Bunn",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "It's The Talk Of The Town (Alternate Take)",
+    "track_number": 15,
+    "side": null,
+    "duration": "3:23",
+    "session_date": "1947-06-12",
+    "composers": [
+     "Al Neiburg",
+     "Jerry Livingston",
+     "Marty Symes"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Bunn",
+     "Red Callender",
+     "Chuck Thompson"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Ghost Of A Chance (Alternate Take)",
+    "track_number": 16,
+    "side": null,
+    "duration": "3:01",
+    "session_date": "1947-12-04",
+    "composers": [
+     "Bing Crosby",
+     "Victor Young"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Rowles",
+     "Red Callender",
+     "Roy Porter"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Sweet And Lovely (Alternate Take)",
+    "track_number": 17,
+    "side": null,
+    "duration": "2:28",
+    "session_date": "1947-12-04",
+    "composers": [
+     "Gus Arnheim",
+     "Harry Tobias"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Jimmy Rowles",
+     "Red Callender",
+     "Roy Porter"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Hornin' In (The Duel, Parts One & Two)",
+    "track_number": 18,
+    "side": null,
+    "duration": "7:27",
+    "session_date": "1947-12-04",
+    "composers": [
+     "Dexter Gordon"
+    ],
+    "personnel": [
+     "Dexter Gordon",
+     "Teddy Edwards",
+     "Jimmy Rowles",
+     "Red Callender",
+     "Roy Porter"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "89cd0ee8-06bd-390e-ad6b-f47e1e00c88b",
+  "apple_album_id": "276105159",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "itunes",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/28/dc/a5/dj.ilvqoztn.jpg/1000x1000bb.jpg",
+    "is_original_cover": false,
+    "epistemic": "obs",
+    "sources": [
+     "S8"
+    ],
+    "notes": "Front artwork returned by the iTunes Lookup API for the digital edition 'On Dial - The Complete Sessions' (Spotlite, collectionId 276105159), which carries the same 18-track program in session order with take-labeled titles. The original 1947-50 issues were 78-rpm singles with no album cover, so is_original_cover is false for every edition.",
+    "is_primary": true
+   }
+  ],
+  "notes": "Six sessions across three dates, all at C.P. MacGregor Studios, Los Angeles, CA (S5, S6): June 5 - Dexter Gordon Quintet (Liston/Fox/Callender/Thompson; tracks 1, 2, 11, 12); June 12 - Dexter Gordon - Wardell Gray Quintet ('The Chase', tracks 3 and 13); June 12 - Dexter Gordon Quartet (Bunn rhythm section; tracks 4, 5, 6, 14, 15); December 4 - Dexter Gordon Quartet (Rowles/Callender/Porter; tracks 7, 8, 16, 17); December 4 - Dexter Gordon - Teddy Edwards Quintet ('The Duel', tracks 9 and 18); December 4 - Teddy Edwards Quartet ('Blues In Teddy's Flat', track 10, Gordon absent). recording_sites carries one entry per session as the contract requires; the venue is absent from the canonical places list, so every entry carries the same complete site_new (city-centroid coordinate, location_epistemic inf - no source documents a street address and Wikidata Q56670213 has no P625; resolved by scripts/geocode-place.py). PRODUCTION: the 1947 Dial sessions were produced by Ross Russell (S3 credit, 'Producer [Original Sessions Produced By]'); no source consulted names a 1947 engineer - engineer null is the honest answer. The 1995 Stash reissue adds Tony Williams and Will Friedwald as reissue producers, Bernard Brightman as executive producer and Collin Kellogg as art direction (S2, S3). ERA/ISSUE STORY (all S5, S6 unless noted): masters and alternates were first issued on Dial 78-rpm singles - Dial 1017 'Dexter Gordon, Wardell Gray - The Chase Parts 1 & 2' (1947), Dial 1022 'Charlie Parker - Stupendous / Dexter Gordon - Bikini' (1948), Dial 1028 'Dexter Gordon, Teddy Edwards - The Duel Parts 1 & 2' (1948), Dial 1033 'Fats Navarro - Move / Teddy Edwards - Blues In Teddy's Flat' and Dial 759 'Teddy Edwards - Blues In Teddy's Flat / Bikini' (1949), Dial 1038 'Dexter Gordon - Lullaby In Rhythm / Talk Of The Town' (1949), Dial 1018 'Mischievous Lady / Ghost Of A Chance', Dial 1042 'Ghost Of A Chance / Sweet And Lovely', Dial 1054 'Chromatic Aberration / Blues Bikini' and Dial 1048 'Horning In Parts 1 & 2' (1950) - then on the Dial 10-inch LP 204 'Dexter Gordon' (1950) and samplers on Dial LP 210/LP 211. LP-era compilations: Polydor 582 735 (UK) and Storyville SLP 814 (Denmark) 2-LP sets 'The Dial Sessions' (1969), Spotlite SPJ 130 'The Chase' (UK 1976), Spotlite 'On Dial - The Complete Sessions' CD (the Apple edition, S8), Dial/Spotlite TOCJ-6205 (Japan 1998) and Dial TOCJ-50217 (Japan 2011) (S4). The Stash CD STB-2513 (barcode 032501251322, ℗&© 1995 Stash Records; AllMusic release date May 25, 1995, S1) is the artifact documented here: tracks 1-10 the master takes, tracks 11-18 the alternates (S3, S7). TAKE/MATRIX STORY: jazzdisco matrices D1081-D/E (Mischievous Lady takes D and E), D1082-C/F (Lullaby), D1083-C (Chase false start), D1083-D/D1084-D (Chase Parts 1 & 2), D1085-A/B/C (Chromatic Aberration master, alternate and the take issued as 'Iridescence'), D1086-A/B (Talk Of The Town), D1087-A (Bikini, issued as 'Blues Bikini' on Dial 1054), D1141-C/E (Ghost Of A Chance), D1142-A/D (Sweet And Lovely), D1143-C/DD and D1144-C/DF (The Duel takes, the C takes issued as 'Horning In' on Dial 1048), D1145-A/AA (Blues In Teddy's Flat) (S5, S6). UNRESOLVED TAKE-LABEL CONFLICT, PRESERVED: the Spotlite/Apple edition labels its takes D/E, C/F, B/C, A/B, C/D, A/D (S8), which does not match the jazzdisco matrix suffixes for every tune (e.g. Chromatic Aberration takes B and C on Apple versus matrices A/B/C; Sweet And Lovely 'Take D' 2:53 on Apple versus the Stash alternate at 2:28), and per-track durations differ by seconds across Discogs, MusicBrainz and iTunes (Stash program total 61:19 per Discogs versus 62:07 per AllMusic) - these are edition-selection and transfer differences recorded, not resolved; no take was re-attributed by preference. Stash prints 'Iridescene' for the alternate of Chromatic Aberration (transcribed so by Discogs and MusicBrainz; the Spotlite and jazzdisco spelling is 'Iridescence'). DISAMBIGUATION (ID-rot defense): AllMusic's page the-chase!-mw0000077861 is the 1970 Prestige live album 'The Chase!' (Gene Ammons/Dexter Gordon; iTunes EP 1446592436) and MusicBrainz release group 53b440e8-2d36-4574-9f35-6bca1f4308f0 is an 8-track 2001 mixed studio/live CD - neither is this album and neither is cited; Apple's 'On Dial - The Complete Sessions' (276105159) is the only Apple album found carrying this program (queries: 'Dexter Gordon The Chase', 'Dexter Gordon Dial', 'Dexter Gordon 1947'), so it is recorded as apple_album_id with the title mismatch noted. PERSONNEL CROSS-CHECK: Discogs per-track credits (Gordon tracks 1-9, 11-18; Gray 3, 13; Edwards 9, 10, 18; Liston 1, 2, 11, 12; Fox 1, 2, 11, 12; Bunn 3-6, 13-15; Rowles 7-10, 16-18; Callender all; Thompson 1-6, 11-15; Porter 7-10, 16-18) agree exactly with the jazzdisco session rosters (S3 vs S5, S6), with the iTunes artist fields corroborating the Gray and Edwards features (S8) - no personnel conflicts found, hence track_assignments_complete true. 1947-06-12 held two Dial sessions and 1947-12-04 three, all at C.P. MacGregor Studios; the DB models one session per date, so the same-day sessions collapse into one recording_sites entry per date. Alternate front cover (AllMusic, non-primary, not staged — stager takes one art row): https://fastly-s3.allmusic.com/release/mr0000047866/front/400/Kjdo2N8M5CH6Ao3PtoNKVD6KsMttLlyBmmVTZ6_CLs0=.jpg"
+ },
+ "scope_note": "Recorded June 5, June 12 and December 4, 1947 - all within the 1945-1985 window - and first issued on Dial 78-rpm singles 1947-1950 and the Dial 10-inch LP 204 (1950); the complete-CD artifact documented here (Stash STB-2513, 1995) presents all six sessions with alternate takes. Eligibility keyed to the 1947 recording dates; the 1995 issue date is documented in the record.",
+ "ballot": {
+  "album": "Dexter Gordon — The Chase! (1947)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "These 1947 Dial sessions are a major document of Los Angeles bebop, combining Gordon with Wardell Gray, Teddy Edwards, Melba Liston, Jimmy Rowles, Red Callender, and other key musicians across six well-documented dates (S2, S3, S5, S6). \"The Chase\" became Gray's first nationally known recording and is described as an especially exciting tenor contest (S10), while \"The Duel\" supplies a second landmark saxophone exchange; together they offer an unusually vivid bridge from swing-era cutting contests to bebop. The complete masters also retain strong discovery value through Gordon's originals, standards, and the contrasting tenor voices.",
+  "case_against": "The documented artifact is a 1995 archival compilation of material originally issued on 78-rpm singles, not a coherently sequenced contemporary album; eight of its 18 tracks are alternates or a false-start breakdown, and one track is a Teddy Edwards feature without Gordon (S3, S5, S8). The dossier provides strong discographical and personnel verification but no Penguin, NPR, DownBeat, JazzTimes, or comparable canon-list evidence for this specific presentation, so consensus is weaker than the historical reputation of \"The Chase\" itself. It is also early Gordon rather than his clearest defining statement, and the unresolved take-label and duration discrepancies add a minor edition-hygiene concern.",
+  "disagreement": null,
+  "recommendation": "John should weigh this as a strong but contested LA-bebop anchor, preferably centered on the essential master takes rather than treating the complete archival package as an unquestioned album classic.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

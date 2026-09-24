@@ -1,0 +1,145 @@
+{
+  "id": "wynton-kelly-kelly-blue-1959",
+  "artist": "Wynton Kelly",
+  "album": "Kelly Blue",
+  "year": 1959,
+  "label": "Riverside",
+  "apple_album_id": 1440925847,
+  "musicbrainz_release_group_mbid": "298f7876-03be-3897-b4ac-86eb95607594",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2a/ba/14/2aba147c-3406-3677-6b61-39d7f0f62ef0/00888072305113.rgb.jpg/100x100bb.jpg",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "Definitive leader date from Miles Davis's rhythm-section pianist, recorded in the same month as Kind of Blue with the same rhythm section (Chambers/Cobb). Penguin Guide 3.5\u2605, AllMusic 4.5\u2605, Rolling Stone 4\u2605, Encyclopedia of Popular Music 5\u2605. A defining statement for Kelly as a leader, strong session gravity (the Miles Davis rhythm section plus Nat Adderley, Bobby Jaspar, Benny Golson), and it still plays \u2014 warm, blues-drenched hard bop from one of the era's most tasteful pianists.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Kelly Blue",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Kelly_Blue"
+    },
+    "S2": {
+      "title": "AllMusic: Kelly Blue",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/kelly-blue-mw0000528090"
+    },
+    "S3": {
+      "title": "Discogs: Wynton Kelly \u2014 Kelly Blue (1975 reissue)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/3007721-Wynton-Kelly-Kelly-Blue"
+    },
+    "S4": {
+      "title": "Apple Music: Kelly Blue (Keepnews Collection)",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/kelly-blue-keepnews-collection/1440925847"
+    },
+    "S5": {
+      "title": "MusicBrainz: Kelly Blue",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release/712ffd57-e124-41d8-8f6f-3343b41038f2"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-02-10",
+      "1959-03-10"
+    ],
+    "multi_session": true,
+    "recording_sites": [
+      {
+        "session_date": "1959-02-10",
+        "site_raw": "Reeves Sound Studios, New York, NY",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1959-03-10",
+        "site_raw": "Reeves Sound Studios, New York, NY",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "personnel": [
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "bass",
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Jimmy Cobb",
+        "instrument": "drums",
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Nat Adderley",
+        "instrument": "cornet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Kelly Blue",
+          "Keep It Moving"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Bobby Jaspar",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Kelly Blue",
+          "Keep It Moving"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Kelly Blue",
+          "Keep It Moving"
+        ],
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Wynton Kelly \u2014 Kelly Blue (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a defining leader date for a major but often under-documented sideman, giving Wynton Kelly's buoyant, blues-centered swing its own center of gravity. The session has exceptional gravity: Kelly, Paul Chambers, and Jimmy Cobb form the Miles Davis rhythm section during the same period as Kind of Blue, joined on the sextet tracks by Nat Adderley, Bobby Jaspar, and Benny Golson (S1; S3). The dossier reports durable critical regard across Penguin, AllMusic, Rolling Stone, and the Encyclopedia of Popular Music, while the warm trio performances and memorable title track make it an unusually accessible demonstration of late-1950s hard bop (S2).",
+    "case_against": "The album is respected rather than an unmistakable top-tier historical essential: its 3.5-star Penguin rating and absence from many short-form jazz canon lists suggest a ceiling below the era's central statements. Its split between sextet and trio material can feel like two studio dates assembled together, and it extends established hard-bop language without the formal or historical rupture of contemporaneous 1959 landmarks. Kelly's canonical importance may be better represented through his work on Kind of Blue or through the later live Smokin' at the Half Note, while the dossier's substantive sourcing is thinner than its five-source count implies because several sources are metadata or discography records.",
+    "disagreement": "The references agree on scope and strong priority but split on tier: Reference 2 calls it consensus_core as Kelly's undisputed leader benchmark, while Reference 1 finds the defining-statement claim contested against Smokin' at the Half Note and emphasizes period redundancy, limited short-list consensus, and thin substantive sourcing.",
+    "recommendation": "John should treat Kelly Blue as a strong, contested candidate and decide whether its session gravity and leader-date value justify adding it alongside, rather than instead of, Kelly's more widely canonical appearances.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

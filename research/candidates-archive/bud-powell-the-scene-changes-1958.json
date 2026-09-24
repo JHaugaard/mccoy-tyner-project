@@ -1,0 +1,357 @@
+{
+  "id": "bud-powell-the-scene-changes-1958",
+  "artist": "Bud Powell",
+  "album": "The Scene Changes",
+  "year": 1958,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Bud Powell's only Blue Note leader session \u2014 the fifth and final volume of his celebrated 'The Amazing Bud Powell' series. A defining trio statement recorded at the peak of his late-1950s resurgence, featuring Paul Chambers and Art Taylor. Penguin Guide crowns it a core collection title; Rolling Stone Jazz Record Guide and AllMusic rate it 4 stars; DownBeat gives it 4/5. Powell's compositional originality is on full display across nine originals including the well-known 'Cleopatra's Dream' and 'Crossin' the Channel'. Essential for completing Bud Powell's Blue Note arc in the canon (Vols. 1-2 are already included).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "The Scene Changes (Bud Powell album) \u2014 Wikipedia",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Scene_Changes_(Bud_Powell_album)"
+    },
+    "S2": {
+      "title": "The Scene Changes \u2014 Bud Powell \u2014 AllMusic",
+      "type": "discography",
+      "url": "https://www.allmusic.com/album/the-scene-changes-mw0000188663"
+    },
+    "S3": {
+      "title": "The Amazing Bud Powell \u2013 The Scene Changes \u2014 Discogs",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/909344-The-Amazing-Bud-Powell-The-Scene-Changes"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 Bud Powell The Scene Changes",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Bud+Powell+The+Scene+Changes&entity=album&limit=5"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 Bud Powell The Scene Changes",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/c6079d41-b3cb-46ea-8d8d-22174773064a"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-12-29"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1958-12-29",
+        "site_raw": "Van Gelder Studio, Hackensack, New Jersey",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bud Powell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Earl Bud Powell"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Cleopatra's Dream",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:22",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Duid Deed",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:06",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Down with It",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:58",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Danceland",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:41",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Borderick",
+        "track_number": 5,
+        "side": "A",
+        "duration": "1:58",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Crossin' the Channel",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:28",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Comin' Up",
+        "track_number": 7,
+        "side": "B",
+        "duration": "7:54",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Gettin' There",
+        "track_number": 8,
+        "side": "B",
+        "duration": "5:01",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Scene Changes",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:59",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Comin' Up (alternate take)",
+        "track_number": 10,
+        "side": null,
+        "duration": "5:26",
+        "session_date": "1958-12-29",
+        "composers": [
+          "Bud Powell"
+        ],
+        "personnel": [
+          "Bud Powell",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "c6079d41-b3cb-46ea-8d8d-22174773064a",
+    "apple_album_id": "715785209",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/494fd1cf-762c-4876-bfab-025013946fdf/3541351244.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session on December 29, 1958 at Van Gelder Studio, Hackensack (pre-move). Originally released 1959 as Blue Note BLP 4009. Also known as The Amazing Bud Powell, Vol. 5. CD reissue includes alternate take of 'Comin' Up' as bonus track. Rudy Van Gelder is confirmed as recording engineer per Discogs credits ('Recorded By \u2013 Rudy Van Gelder')."
+  },
+  "ballot": {
+    "album": "Bud Powell \u2014 The Scene Changes (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a major late-period Bud Powell statement, with nine Powell originals including the widely recognized \"Cleopatra's Dream,\" and it documents the foundational pianist's continuing role in hard-bop piano after his early-1950s breakthroughs. The Powell\u2013Paul Chambers\u2013Art Taylor trio has exceptional session gravity, while Alfred Lion's production and Rudy Van Gelder's recording place it firmly inside the classic Blue Note sound (S1-S3). The dossier reports Penguin Guide core status plus strong AllMusic, Rolling Stone Jazz Record Guide, and DownBeat evaluations, though some of those claims require direct verification.",
+    "case_against": "The album faces a genuine redundancy problem: Powell's earlier Blue Note and Norgran/Verve recordings, especially the first volumes of The Amazing Bud Powell, are more commonly treated as the indispensable documents of his revolutionary peak. Late-period performances can sound less technically explosive than the 1949\u20131951 sessions, even if the writing is mature and distinctive. The dossier also contains a factual contradiction\u2014calling this Powell's only Blue Note leader session while identifying it as the fifth volume\u2014and its strongest consensus claims are not directly represented in the listed source block.",
+    "disagreement": "The references agree on scope, strong priority, and consensus_core tier, but differ in how much weight to give the late-period technical limitations and sourcing defects. Reference 1 accepts the reported critical consensus as sufficient despite the missing direct citations, while Reference 2 treats the dossier's contradictory 'only Blue Note leader session' claim and unsupported guide ratings as more serious evidentiary weaknesses.",
+    "recommendation": "John should treat this as a strong, canon-worthy Powell addition, while verifying the Penguin, Rolling Stone, and DownBeat claims and correcting the Blue Note-session description before deciding.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

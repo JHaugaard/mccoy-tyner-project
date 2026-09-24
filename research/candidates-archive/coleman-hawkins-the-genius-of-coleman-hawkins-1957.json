@@ -1,0 +1,360 @@
+{
+  "id": "coleman-hawkins-the-genius-of-coleman-hawkins-1957",
+  "artist": "Coleman Hawkins",
+  "album": "The Genius of Coleman Hawkins",
+  "year": 1957,
+  "label": "Verve",
+  "style_primary": "hard-bop",
+  "rationale": "The defining Verve-era leader date from the father of the tenor saxophone. Coleman Hawkins is the foundational figure of the jazz tenor tradition, yet appears in the canon only via a single encounter album with Ben Webster. This 1957 session pairs Hawk with Oscar Peterson's crack quartet for an album of standards that showcases his harmonically advanced, tough-toned playing \u2014 a direct bridge from the swing era into the mainstream hard-bop tradition. Penguin Guide 3.5 stars, AllMusic 4 stars. Session gravity: Peterson, Ellis, Brown, Stoller = the premier small-group rhythm section of the late 1950s. Consensus classic across Penguin, AllMusic, and Verve's own catalogue canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic album page",
+      "type": "metadata",
+      "url": "https://www.allmusic.com/album/the-genius-of-coleman-hawkins-mw0000188149"
+    },
+    "S2": {
+      "title": "Wikipedia album article",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Genius_of_Coleman_Hawkins"
+    },
+    "S3": {
+      "title": "Cover Art Archive (MusicBrainz)",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/dfa518df-2c7b-38ed-871c-1bfa10b34a5c"
+    },
+    "S4": {
+      "title": "iTunes Search API",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Coleman+Hawkins+Genius&entity=album&limit=5"
+    },
+    "S5": {
+      "title": "Wikipedia personnel section",
+      "type": "discographic",
+      "url": "https://en.wikipedia.org/wiki/The_Genius_of_Coleman_Hawkins#Personnel"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-10-24"
+    ],
+    "multi_session": false,
+    "studio": "Capitol Studios, Hollywood, CA",
+    "recording_sites": [
+      {
+        "session_date": "1957-10-24",
+        "site_raw": "Capitol Studios, Hollywood, CA",
+        "site_slug": "capitol-records-studio-capitol-tower",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Coleman Hawkins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Oscar Peterson",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herb Ellis",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Brown",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Alvin Stoller",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "I'll Never Be The Same",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:29",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Gus Kahn",
+          "Matty Malneck",
+          "Frank Signorelli"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "You're Blas\u00e9",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:35",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Ord Hamilton",
+          "Bruce Sievier"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "I Wished on the Moon",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:38",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Dorothy Parker",
+          "Ralph Rainger"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "How Long Has This Been Going On?",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:54",
+        "session_date": "1957-10-24",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Like Someone in Love",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:55",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Johnny Burke",
+          "Jimmy Van Heusen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "My Melancholy Baby",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:08",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Ernie Burnett",
+          "George Norton"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Ill Wind",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:33",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Harold Arlen",
+          "Ted Koehler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "In a Mellow Tone",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:45",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Duke Ellington",
+          "Milt Gabler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "There's No You",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:25",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Tom Adair",
+          "Hal Hopper"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "The World Is Waiting for the Sunrise",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:49",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Eugene Lockhart",
+          "Ernest Seitz"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Somebody Loves Me",
+        "track_number": 11,
+        "side": "B",
+        "duration": "3:51",
+        "session_date": "1957-10-24",
+        "composers": [
+          "George Gershwin",
+          "Buddy DeSylva",
+          "Ballard MacDonald"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Blues for Rene",
+        "track_number": 12,
+        "side": "B",
+        "duration": "3:03",
+        "session_date": "1957-10-24",
+        "composers": [
+          "Coleman Hawkins"
+        ],
+        "bonus_track": false,
+        "alternative_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "dfa518df-2c7b-38ed-871c-1bfa10b34a5c",
+    "apple_album_id": "1444378965",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/911e83a8-cb8a-4512-9e34-5e9909a1695c/28802660766.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session October 24, 1957 at Capitol Studios (Capitol Tower, post-April-1956). Engineer not documented in available sources. Personnel was the Oscar Peterson quartet throughout (no substitutes). 1997 CD reissue added bonus tracks (tracks 13-21) not included here."
+  },
+  "ballot": {
+    "album": "Coleman Hawkins \u2014 The Genius of Coleman Hawkins (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1957 date is within the year window and admissible, but its classification as hard-bop is debatable: it may be better understood as late swing and mainstream standards artistry that bridges into post-bebop rather than as a quintessential hard-bop statement."
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "This is a major leader date by the foundational tenor saxophonist, giving Hawkins a substantial solo statement rather than only his co-billed appearance on Encounters Ben Webster. The session has strong discovery and session-gravity value: Hawkins is heard in mature form with Oscar Peterson, Herb Ellis, Ray Brown, and Alvin Stoller, while the standards provide a clear demonstration of the harmonic, tonal, and ballad vocabulary inherited by Rollins, Coltrane, and later tenorists (dossier S1, S5). AllMusic rates it four stars and the dossier reports a 3.5-star Penguin Guide assessment, though the Penguin claim is not directly sourced in the evidence supplied.",
+    "case_against": "The album may be an excellent conventional standards blowing date rather than Hawkins's indispensable postwar statement: its twelve brief treatments overlap heavily in style and personnel with the more historically distinctive Encounters Ben Webster, recorded only eight days earlier. The stronger claim that this is Hawkins's defining Verve-era date is also challenged by The Hawk Flies High, often treated as the more definitive late-career leader session. Actual dossier sourcing is thin for a canon decision\u2014largely one substantive AllMusic source plus Wikipedia and metadata sources\u2014and the incomplete track assignments further limit confidence in the documentation.",
+    "disagreement": "The references agree that the album is canon-worthy enough to remain contested, but split on urgency: Reference 1 calls it strong priority, while Reference 2 calls it consider because of its conventionality and shadowed status beside Encounters Ben Webster. They also differ on scope emphasis: Reference 1 sees an unambiguous hard-bop fit, while Reference 2 regards the late-swing/mainstream character as a meaningful style-boundary question.",
+    "recommendation": "Keep the album in consideration as a contested, moderate-priority Hawkins leader date, but ask John to compare it directly with The Hawk Flies High and Encounters Ben Webster before deciding.",
+    "confidence": "medium"
+  }
+}

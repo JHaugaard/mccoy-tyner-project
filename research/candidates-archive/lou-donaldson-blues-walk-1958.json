@@ -1,0 +1,335 @@
+{
+  "id": "lou-donaldson-blues-walk-1958",
+  "artist": "Lou Donaldson",
+  "album": "Blues Walk",
+  "year": 1958,
+  "label": "Blue Note (BLP 1593)",
+  "style_primary": "hard-bop",
+  "rationale": "Lou Donaldson's 'undisputed masterpiece' (Steve Huey, AllMusic) — recorded July 28, 1958 at Van Gelder Studio, Hackensack with Herman Foster (piano), Peck Morrison (bass), Dave Bailey (drums) and Ray Barretto (congas); released on Blue Note as BLP 1593. Huey: the album 'marks the point where the altoist began to decisively modify his heavy Charlie Parker influence and add a smoky, bluesy flavor of his own,' with the title cut 'a classic, arguably Donaldson's signature tune.' AllMusic 5 stars, Penguin Guide 2.5 (as reported by Wikipedia). The canon's Donaldson row currently starts at Alligator Bogaloo (1967); this is the earlier defining statement and a load-bearing link in the grooving hard-bop lineage — the Blues Walk / Move / Play Ray / Callin' All Cats repertoire that would go on to harden into soul jazz.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Blues Walk — AllMusic album page and Steve Huey review (5 stars, styles, recording date)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/blues-walk-mw0000188069"
+    },
+    "S2": {
+      "title": "Blues Walk — Wikipedia album article (track list, personnel, technical personnel, ratings)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Blues_Walk"
+    },
+    "S3": {
+      "title": "Lou Donaldson Discography — jazzdisco.org (session-level date, studio, personnel, matrix numbers)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/lou-donaldson/discography/"
+    },
+    "S4": {
+      "title": "Lou Donaldson — Blues Walk — Discogs master 64257 (album, 1958)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/64257-Lou-Donaldson-Blues-Walk"
+    },
+    "S5": {
+      "title": "Blues Walk — MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/75ac1dd5-e8fd-3e07-b2cc-8f8574b09e74"
+    },
+    "S6": {
+      "title": "Cover Art Archive — MusicBrainz release group 75ac1dd5-e8fd-3e07-b2cc-8f8574b09e74",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/75ac1dd5-e8fd-3e07-b2cc-8f8574b09e74"
+    },
+    "S7": {
+      "title": "iTunes Search API — Lou Donaldson Blues Walk album results",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Lou+Donaldson+Blues+Walk&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-07-28"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1958-07-28",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Lou Donaldson",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader. Composed 'Blues Walk', 'Play Ray', 'Callin' All Cats'."
+      },
+      {
+        "name": "Herman Foster",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Peck Morrison",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dave Bailey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Barretto",
+        "instrument": "congas",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-07-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Huey calls his addition 'a subtle masterstroke' (S1)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Blues Walk",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:44",
+        "session_date": "1958-07-28",
+        "composers": [
+          "Lou Donaldson"
+        ],
+        "personnel": [
+          "Lou Donaldson",
+          "Herman Foster",
+          "Peck Morrison",
+          "Dave Bailey",
+          "Ray Barretto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Move",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:54",
+        "session_date": "1958-07-28",
+        "composers": [
+          "Denzil Best"
+        ],
+        "personnel": [
+          "Lou Donaldson",
+          "Herman Foster",
+          "Peck Morrison",
+          "Dave Bailey",
+          "Ray Barretto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Masquerade Is Over",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:54",
+        "session_date": "1958-07-28",
+        "composers": [
+          "Allie Wrubel",
+          "Herb Magidson"
+        ],
+        "personnel": [
+          "Lou Donaldson",
+          "Herman Foster",
+          "Peck Morrison",
+          "Dave Bailey",
+          "Ray Barretto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Play Ray",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:32",
+        "session_date": "1958-07-28",
+        "composers": [
+          "Lou Donaldson"
+        ],
+        "personnel": [
+          "Lou Donaldson",
+          "Herman Foster",
+          "Peck Morrison",
+          "Dave Bailey",
+          "Ray Barretto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Autumn Nocturne",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:55",
+        "session_date": "1958-07-28",
+        "composers": [
+          "Josef Myrow",
+          "Kim Gannon"
+        ],
+        "personnel": [
+          "Lou Donaldson",
+          "Herman Foster",
+          "Peck Morrison",
+          "Dave Bailey",
+          "Ray Barretto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Callin' All Cats",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:15",
+        "session_date": "1958-07-28",
+        "composers": [
+          "Lou Donaldson"
+        ],
+        "personnel": [
+          "Lou Donaldson",
+          "Herman Foster",
+          "Peck Morrison",
+          "Dave Bailey",
+          "Ray Barretto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "75ac1dd5-e8fd-3e07-b2cc-8f8574b09e74",
+    "apple_album_id": "725829554",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/c0600ea4-822e-4b89-af49-d577fb099af9/1789635271.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image; exact pressing not identified from this URL."
+      }
+    ],
+    "notes": "Single session, full quintet on all six tracks. AllMusic's header lists the recording location as 'New York, NY' (S1); jazzdisco (#580728) and Wikipedia document Van Gelder Studio, Hackensack, NJ — the studio's Hackensack era runs through mid-1959, and the session matrix numbers BLP 1593 (also issued as 45-1720 Blues Walk/The Masquerade Is Over and 45-1721 Play Ray/Autumn Nocturne) corroborate the date. Alfred Lion producer, Rudy Van Gelder recording engineer and mastering, Francis Wolff cover photography, Ira Gitler liner notes (S2 technical personnel). Style: AllMusic styles it Hard Bop and Huey places it in Donaldson's 'early, pre-soul-jazz period'; the blues-and-conga gravity of the title cut is the lineage point toward the soul jazz of the 1960s. Apple's copy (725829554, 1987 CD) carries the six original tracks."
+  },
+  "ballot": {
+    "album": "Lou Donaldson — Blues Walk (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Blues Walk is Donaldson's undisputed masterpiece (Huey, AllMusic, 5 stars) — the album where he decisively moved beyond his Parker influence into the blues-drenched, groove-oriented identity that would define his career, with the title track standing as 'arguably Donaldson's signature tune' (S1). The lineage argument is the strongest signal here: the conga-enhanced groove and the Blues Walk / Play Ray / Callin' All Cats repertoire form the load-bearing bridge between 1950s hard-bop and the 1960s soul-jazz the canon already carries via Alligator Bogaloo (1967) — Barretto's addition is the audible hinge, called 'a subtle masterstroke' by Huey. A canon row that begins at the soul-jazz crossover without the originating hard-bop statement is lopsided, and a curious listener sent to the title track cold would immediately hear what makes the idiom inviting.",
+    "case_against": "The consensus is thin at the top tier: Penguin Guide 2.5 (as reported by S2) is 'well worth having' but not Crown, and the dossier carries no NPR, DownBeat, JazzTimes, or musician-citation evidence — the cross-tradition listing the rubric weights highest is simply absent, leaving AllMusic as the sole critical voice at 5 stars. Session gravity is modest: a cohesive working quintet at Van Gelder, not the all-star cross-pollination (Morgan, Blakey, Silver) that defines the era's absolute must-haves, and the 1958 Blue Note hard-bop shelf is already densely populated with peers whose canonical claims are deeper. Donaldson is a respected bandleader but not a first-tier architect of the idiom, and the soul-jazz bridge argument — while real — does not by itself overwhelm the thinness of the multi-source consensus.",
+    "disagreement": "The references split on tier: one reads the defining-statement and lineage evidence as consensus_core, judging the for-case overwhelming despite the Penguin 2.5; the other reads the thin top-tier consensus, modest session gravity, and period redundancy as a real case both ways — contested. Both converge on priority: strong.",
+    "recommendation": "The council proposes Blues Walk as a strong contested candidate — the soul-jazz bridge and Donaldson's defining statement earn it genuine consideration, but John should weigh whether the one-critic-deep 5-star consensus and modest session gravity warrant the slot against the denser 1958 hard-bop peers already in or approaching the canon.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

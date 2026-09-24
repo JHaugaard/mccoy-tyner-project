@@ -1,0 +1,369 @@
+{
+  "id": "thelonious-monk-underground-1968",
+  "artist": "Thelonious Monk",
+  "album": "Underground",
+  "year": 1968,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "rationale": "Monk's final studio album with his classic 1960s quartet (Rouse, Gales, Riley) and, per the Keepnews liner notes, the first Monk album since the mid-fifties to contain as many as four previously unrecorded originals \u2014 including 'Ugly Beauty,' the only waltz among Monk's recorded compositions, and 'Green Chimneys,' both written for his daughter. AllMusic gives it 4.5 stars; DownBeat 4 stars (Dan Morgenstern, August 8, 1968); the Rolling Stone Jazz Record Guide 4 stars; the Penguin Guide 4 stars. Its Grammy-winning cover art (1968 Best Album Package, depicting Monk as a French Resistance fighter) made it the visible Monk record, but the music carries the argument: the last small-group statement of the quartet that had carried his music through its widest-recognition decade. Jon Hendricks' vocal on 'In Walked Bud,' with lyrics written on the spot, adds a rare sung chapter to the Monk book. Blue Note and Riverside cover the composition peak; this is the classic quartet's farewell, on its own merits.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Underground (Thelonious Monk album)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Underground_(Thelonious_Monk_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Underground (Thelonious Monk) \u2014 album page and Credits tab",
+      "type": "credits_review",
+      "url": "https://www.allmusic.com/album/underground-mw0000649656"
+    },
+    "S3": {
+      "title": "jazzdisco.org: Thelonious Monk Catalog \u2014 Underground (Columbia CS 9632)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/thelonious-monk/catalog/"
+    },
+    "S4": {
+      "title": "iTunes Search API / Lookup: Underground (Thelonious Monk)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/lookup?id=199047432&entity=song"
+    },
+    "S5": {
+      "title": "Archive.org: Underground CD booklet (1990 Columbia reissue, CK 40785; liner notes by Peter Keepnews)",
+      "type": "liner_notes",
+      "url": "https://archive.org/download/cd_underground_thelonious-monk_0/cd_underground_thelonious-monk_0_djvu.txt"
+    },
+    "S6": {
+      "title": "MusicBrainz release group + Cover Art Archive",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/5b83a45b-3bcd-35e2-a462-fc98260df180"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1967-12-14",
+      "1967-12-21",
+      "1968-02-14"
+    ],
+    "multi_session": true,
+    "studio": "New York City (venue unidentified)",
+    "producer": "Teo Macero",
+    "engineer": "Arthur Kendy / Fred Plaut / Tim Geelan",
+    "epistemic_production": "obs",
+    "recording_sites": [
+      {
+        "session_date": "1967-12-14",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S3"
+      },
+      {
+        "session_date": "1967-12-21",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S3"
+      },
+      {
+        "session_date": "1968-02-14",
+        "site_raw": "NYC",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S3"
+      }
+    ],
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ugly Beauty",
+          "Boo Boo's Birthday",
+          "Green Chimneys"
+        ],
+        "session_dates": [
+          "1967-12-14",
+          "1967-12-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Keepnews liner notes: Rouse sat out on four of the seven tracks \u2014 the Feb 14, 1968 session (Easy Street, In Walked Bud, Raise Four, Thelonious). jazzdisco confirms: the Feb 14 session lists Monk, Gales, Riley, and Hendricks only, no Rouse."
+      },
+      {
+        "name": "Larry Gales",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ben Riley",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jon Hendricks",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "In Walked Bud"
+        ],
+        "session_dates": [
+          "1968-02-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Vocals and lyrics (written on the spot, per Keepnews) on 'In Walked Bud' only. AllMusic also credits him as composer for the lyric version."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Thelonious",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:14",
+        "session_date": "1968-02-14",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Larry Gales",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ugly Beauty",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:20",
+        "session_date": "1967-12-14",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Larry Gales",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Raise Four",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:36",
+        "session_date": "1968-02-14",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Larry Gales",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Boo Boo's Birthday",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:56",
+        "session_date": "1967-12-21",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Larry Gales",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Easy Street",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:52",
+        "session_date": "1968-02-14",
+        "composers": [
+          "Alan Rankin Jones"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Larry Gales",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Green Chimneys",
+        "track_number": 6,
+        "side": "B",
+        "duration": "9:00",
+        "session_date": "1967-12-14",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Larry Gales",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "In Walked Bud",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:17",
+        "session_date": "1968-02-14",
+        "composers": [
+          "Thelonious Monk",
+          "Jon Hendricks"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Larry Gales",
+          "Ben Riley",
+          "Jon Hendricks"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "5b83a45b-3bcd-35e2-a462-fc98260df180",
+    "apple_album_id": "199047432",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/cb9ffc3f-70ad-4094-b4e2-06509239ff77/19711580470.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front image on the release-group's canonical release; the cover art (Monk as French Resistance fighter) won the 1968 Grammy for Best Album Package, so the image is the original by strong inference."
+      }
+    ],
+    "notes": "Three sessions per jazzdisco (S3): Dec 14 1967 (Ugly Beauty CO98161, Green Chimneys CO98162), Dec 21 1967 (Boo Boo's Birthday CO98171), Feb 14 1968 (Easy Street CO92969 edited version, In Walked Bud CO92970, Raise Four CO92971, Thelonious CO92972); all in NYC, studio not named by any consulted source (jazzdisco gives only 'NYC'), so site_slug is the city-level unidentified row with inf. The 1990 CD booklet's '12/14/68' for Green Chimneys is a typo \u2014 jazzdisco places it on Dec 14 1967 and the album was released May 1968 (S5, S1). Rouse is on tracks 2, 4, 6 only (Keepnews: 'one of four tracks ... Rouse sat out'; confirmed by jazzdisco's Feb 14 personnel lacking Rouse). Track durations are the original-LP timings from Wikipedia; the 1990 CD reissue used different takes (e.g. Ugly Beauty 3:17, Raise Four 5:47) and the 2003 special edition adds bonus takes \u2014 excluded here. Released May 1968 on Columbia CS 9632. Engineers: AllMusic lists Arthur Kendy, Fred Plaut, and Tim Geelan; the CD booklet names Tim Geelan as digital remix engineer \u2014 engineer field left as the AllMusic list."
+  },
+  "ballot": {
+    "album": "Thelonious Monk \u2014 Underground (1968)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Four previously unrecorded Monk originals this late in his career \u2014 'Ugly Beauty' (the only waltz in his recorded catalog), 'Green Chimneys,' 'Boo Boo's Birthday,' 'Thelonious' \u2014 make this a genuine compositional event, sourced to the Keepnews liner notes (S5), the dossier's strongest single source. Four independent critical traditions converge at 4\u20134.5 stars: Penguin, DownBeat (Morgenstern, Aug 1968), the Rolling Stone Jazz Record Guide, and AllMusic. It is the final studio statement of the Rouse/Gales/Riley quartet that carried Monk through his decade of widest recognition, and Jon Hendricks' on-the-spot vocalese on 'In Walked Bud' is a moment no other Monk record contains. The discovery test holds: Monk playing Monk, urgent and joyful rather than institutional, a welcoming on-ramp to his late style.",
+    "case_against": "The album is internally fragmented: Rouse sits out four of seven tracks (confirmed by jazzdisco S3 and Keepnews S5), so the 'classic quartet farewell' is really a trio/quartet/vocal hybrid, and the Hendricks feature, while charming and unrepeatable, reads as an outlier rather than a strength. Recorded 1967\u201368, it codifies a decade-old idiom in the very year Miles' second quintet and the post-Coltrane avant-garde were redrawing the language \u2014 it did not move the lineage forward. Its strongest claim, the farewell, is chronological rather than musical: the music here, good as it is, sits a tier below Monk's defining statements (*Brilliant Corners*, *Monk's Dream*, *Straight, No Chaser*), and the dossier's critical evidence is star verdicts without quoted prose, resting heavily on a single 1990 liner-note source rather than contemporaneous reviews. The Grammy-winning cover explains the album's visibility but is not a musical argument.",
+    "disagreement": "Both references converged on contested/strong and a clean scope, but they built different against-cases. Reference 1 located the problem in comparative discographic standing \u2014 *Underground* as the third-or-fourth Monk record one would canonize, its farewell framing doing chronological work the music alone doesn't carry \u2014 a framing the rubric's no-concentration rule partially bars, leaving only the own-merits quality comparison standing. Reference 2's against-case is fully own-merits: the fragmented personnel (Rouse absent on a majority of tracks) and aesthetic insularity against the 1968 vanguard. They also split on the album's colorings: Reference 2 counted the Hendricks vocal and Grammy cover as discovery assets; Reference 1 called the vocal a curiosity and the cover a non-musical argument.",
+    "recommendation": "The council proposes John listen and rule on whether the four late originals and the classic quartet's final statement carry the album on its own merits \u2014 a strong-priority include if they do; if he culls, the cull-note should record whether the bar was comparative Monk quality or simple non-necessity.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

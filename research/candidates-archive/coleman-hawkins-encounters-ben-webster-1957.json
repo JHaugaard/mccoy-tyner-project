@@ -1,0 +1,69 @@
+{
+  "id": "coleman-hawkins-encounters-ben-webster-1957",
+  "artist": "Coleman Hawkins & Ben Webster",
+  "album": "Coleman Hawkins Encounters Ben Webster",
+  "year": 1957,
+  "label": "Verve",
+  "style_primary": "post-bop",
+  "rationale": "The definitive tenor saxophone summit meeting. Two foundational figures of the jazz tradition — Coleman Hawkins, the father of the tenor saxophone, and Ben Webster, the master of the ballad — matched wits with the Oscar Peterson trio at Capitol Studios in October 1957. Consensus across all major canon traditions: Penguin Guide 4★, AllMusic 4★, DownBeat 3.5★, Rolling Stone Jazz Record Guide 4★. A defining statement of the mainstream tradition and a Verve landmark. Fills a major artist gap: neither Hawkins nor Webster has a single album in the current canon.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {"title": "Wikipedia — Coleman Hawkins Encounters Ben Webster", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/Coleman_Hawkins_Encounters_Ben_Webster"},
+    "S2": {"title": "AllMusic — Encounters: The Complete Session", "type": "review/credits", "url": "https://www.allmusic.com/album/encounters-the-complete-session-mw0001926793"},
+    "S3": {"title": "Everything Jazz — Coleman Hawkins Encounters Ben Webster", "type": "article", "url": "https://www.everythingjazz.com/story/coleman-hawkins-encounters-ben-webster/"},
+    "S4": {"title": "uDiscover Music — Hawkins/Webster Genius At Work", "type": "article", "url": "https://www.udiscovermusic.com/stories/hawkins-webster-genius-at-work/"},
+    "S5": {"title": "iTunes Search API", "type": "identifiers", "url": "https://itunes.apple.com/search?term=Coleman+Hawkins+Encounters+Ben+Webster&entity=album"},
+    "S6": {"title": "Cover Art Archive", "type": "cover-art", "url": "https://coverartarchive.org/release-group/d15f89eb-2375-3bbb-b0d3-ecdb04d123e0"},
+    "S7": {"title": "MusicBrainz release group", "type": "identifiers", "url": "https://musicbrainz.org/release-group/d15f89eb-2375-3bbb-b0d3-ecdb04d123e0"}
+  },
+  "personnel_record": {
+    "recording_dates": ["1957-10-16"],
+    "multi_session": false,
+    "studio": "Capitol Records Studio (Capitol Tower), Hollywood, CA",
+    "recording_sites": [
+      {
+        "session_date": "1957-10-16",
+        "site_raw": "Capitol Records Studio, Capitol Tower, Hollywood, California",
+        "site_slug": "capitol-records-studio-capitol-tower",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": "Val Valentin",
+    "epistemic_production": "inf",
+    "personnel": [
+      {"name": "Coleman Hawkins", "instrument": "tenor saxophone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Ben Webster", "instrument": "tenor saxophone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Oscar Peterson", "instrument": "piano", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Herb Ellis", "instrument": "guitar", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Ray Brown", "instrument": "double bass", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Alvin Stoller", "instrument": "drums", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""}
+    ],
+    "tracks": [
+      {"title": "Blues for Yolande", "track_number": 1, "side": "A", "duration": "6:44", "session_date": "1957-10-16", "composers": ["Coleman Hawkins"], "personnel": ["Coleman Hawkins", "Ben Webster", "Oscar Peterson", "Herb Ellis", "Ray Brown", "Alvin Stoller"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "It Never Entered My Mind", "track_number": 2, "side": "A", "duration": "5:47", "session_date": "1957-10-16", "composers": ["Richard Rodgers", "Lorenz Hart"], "personnel": ["Coleman Hawkins", "Ben Webster", "Oscar Peterson", "Herb Ellis", "Ray Brown", "Alvin Stoller"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "La Rosita", "track_number": 3, "side": "A", "duration": "5:02", "session_date": "1957-10-16", "composers": ["Paul Dupont", "Allan Stuart"], "personnel": ["Coleman Hawkins", "Ben Webster", "Oscar Peterson", "Herb Ellis", "Ray Brown", "Alvin Stoller"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "You'd Be So Nice to Come Home To", "track_number": 4, "side": "B", "duration": "4:15", "session_date": "1957-10-16", "composers": ["Cole Porter"], "personnel": ["Coleman Hawkins", "Ben Webster", "Oscar Peterson", "Herb Ellis", "Ray Brown", "Alvin Stoller"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Prisoner of Love", "track_number": 5, "side": "B", "duration": "4:13", "session_date": "1957-10-16", "composers": ["Russ Columbo", "Clarence Gaskill", "Leo Robin"], "personnel": ["Coleman Hawkins", "Ben Webster", "Oscar Peterson", "Herb Ellis", "Ray Brown", "Alvin Stoller"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Tangerine", "track_number": 6, "side": "B", "duration": "5:21", "session_date": "1957-10-16", "composers": ["Johnny Mercer", "Victor Schertzinger"], "personnel": ["Coleman Hawkins", "Ben Webster", "Oscar Peterson", "Herb Ellis", "Ray Brown", "Alvin Stoller"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]},
+      {"title": "Shine On, Harvest Moon", "track_number": 7, "side": "B", "duration": "4:49", "session_date": "1957-10-16", "composers": ["Jack Norworth", "Nora Bayes"], "personnel": ["Coleman Hawkins", "Ben Webster", "Oscar Peterson", "Herb Ellis", "Ray Brown", "Alvin Stoller"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"]}
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "d15f89eb-2375-3bbb-b0d3-ecdb04d123e0",
+    "apple_album_id": "1434889612",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/bc631a62-4126-42e5-a484-71998ebeb39e/42270353974.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Recorded in one session at Capitol Tower (opened April 1956) — the Capitol Records Studio Melrose Avenue had been superseded by this point. Engineer Val Valentin is inferred from Verve/Capitol engineering credits of the era (Tracking Angle review confirms 'Engineered By: Val Valentin' for Verve reissues from this session). Originally released in November 1959. Also known as 'Blue Saxophones' in the UK. Hawkins recorded 'The Genius of Coleman Hawkins' on the same day with the same rhythm section."
+  }
+}

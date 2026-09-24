@@ -1,0 +1,314 @@
+{
+  "id": "johnny-griffin-a-blowin-session-1957",
+  "artist": "Johnny Griffin",
+  "album": "A Blowin' Session",
+  "year": 1957,
+  "label": "Blue Note",
+  "catalog": "BLP 1559",
+  "style_primary": "hard-bop",
+  "rationale": "The only studio recording to feature three tenor saxophonists \u2014 Johnny Griffin, John Coltrane, and Hank Mobley \u2014 together, A Blowin' Session is a legendary hard bop summit session. The lineup has extraordinary session gravity: Griffin (the leader), Coltrane, Mobley, Lee Morgan on trumpet, Wynton Kelly on piano, Paul Chambers on bass, and Art Blakey on drums is an all-star Blue Note ensemble that would be extraordinary by any standard. AllMusic rates it 5\u2605, calling it 'legendary.' Griffin is a major hard bop tenor voice completely absent from the current canon; this is his defining Blue Note statement. Rolling Stone gives it 4\u2605. The album showcases the deep tenor tradition \u2014 Griffin's lightning speed, Coltrane's searching lines, and Mobley's melodic invention in direct dialogue \u2014 and demonstrates the personnel network that the canon is built to document.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Johnny Griffin, Vol. 2 / A Blowin' Session",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Griffin,_Vol._2"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 A Blowin' Session",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/a-blowin-session-mw0000243668"
+    },
+    "S3": {
+      "title": "Discogs \u2014 Johnny Griffin, Vol. 2 / A Blowin' Session",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/248009"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 A Blowin' Session",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/f3993795-e56a-3cf8-9c54-f2dae1a13c06"
+    },
+    "S5": {
+      "title": "iTunes Search API",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=A+Blowin+Session+Johnny+Griffin&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-04-08"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1957-04-08",
+        "site_raw": "Van Gelder Studio, Hackensack, New Jersey",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Johnny Griffin",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader, composer (Ball Bearing, Smoke Stack)"
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Guest artist. This is the only studio recording with Coltrane and Mobley together. Coltrane was not originally scheduled; Griffin saw him passing by Van Gelder's studio and invited him to join."
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Guest artist"
+      },
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Guest artist"
+      },
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-08"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Guest artist"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Way You Look Tonight",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:41",
+        "session_date": "1957-04-08",
+        "composers": [
+          "Jerome Kern",
+          "Dorothy Fields"
+        ],
+        "personnel": [
+          "Johnny Griffin",
+          "John Coltrane",
+          "Hank Mobley",
+          "Lee Morgan",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ball Bearing",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:11",
+        "session_date": "1957-04-08",
+        "composers": [
+          "Johnny Griffin"
+        ],
+        "personnel": [
+          "Johnny Griffin",
+          "John Coltrane",
+          "Hank Mobley",
+          "Lee Morgan",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "All the Things You Are",
+        "track_number": 3,
+        "side": "B",
+        "duration": "10:14",
+        "session_date": "1957-04-08",
+        "composers": [
+          "Jerome Kern",
+          "Oscar Hammerstein II"
+        ],
+        "personnel": [
+          "Johnny Griffin",
+          "John Coltrane",
+          "Hank Mobley",
+          "Lee Morgan",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Smoke Stack",
+        "track_number": 4,
+        "side": "B",
+        "duration": "10:13",
+        "session_date": "1957-04-08",
+        "composers": [
+          "Johnny Griffin"
+        ],
+        "personnel": [
+          "Johnny Griffin",
+          "John Coltrane",
+          "Hank Mobley",
+          "Lee Morgan",
+          "Wynton Kelly",
+          "Paul Chambers",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "f3993795-e56a-3cf8-9c54-f2dae1a13c06",
+    "apple_album_id": 724900032,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/105fca40-1874-4148-b8f4-207650477b58/1693871412.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Blue Note BLP 1559 front cover"
+      }
+    ],
+    "notes": "Single session. Also known as 'Johnny Griffin, Vol. 2.' The 1999 CD RVG edition adds an alternate take of Smoke Stack as a bonus track. Chick Caverley is sometimes listed as photographer (one source), but Wikipedia credits Francis Wolff and Harold Feinstein. The AllMusic page credits Alfred Lion (producer) and Rudy Van Gelder (engineer) only."
+  },
+  "ballot": {
+    "album": "Johnny Griffin \u2014 A Blowin' Session (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity is the load-bearing signal and it is exceptional: a single April 1957 Van Gelder date assembling Griffin, Coltrane, and Mobley on a three-tenor front line with Lee Morgan, Wynton Kelly, Paul Chambers, and Art Blakey is exactly the 'players who define the era' evidence the rubric names, and a configuration no other studio date replicates. It also fills a real gap \u2014 Griffin, a distinct hard-bop tenor voice ('the fastest tenor in the west'), is absent from the canon, and this is his most-cited Blue Note statement. The record functions as a comparative tenor masterclass \u2014 Griffin's velocity, Mobley's lyric roundness, Coltrane's searching 'sheets of sound' in direct dialogue on 'The Way You Look Tonight' \u2014 serving lineage and cold-listen discovery value at once. AllMusic's 5\u2605 'legendary' rating signals acclaim sustained across decades.",
+    "case_against": "The blowing-session format \u2014 head-solos-head with no arrangements \u2014 is an athletic exhibition rather than a composed aesthetic statement, and critical tradition has long held that the sheer speed here crowds out nuance. The dossier's consensus evidence is thin: its five sources are metadata databases, not the independent listing traditions the rubric weights most, and the Rolling Stone 4\u2605 is asserted in prose but carried as no discrete source token. The 'only studio recording with Coltrane and Mobley together' claim may need verification against Blue Train (1957) and Mobley-led sessions later that year.",
+    "disagreement": "Both references landed on contested/strong, but split on dossier reliability: one flags the 'only Coltrane-Mobley session' claim as potentially inaccurate; the other argues the blowing-session format vs. compositional architecture. The for-case was agreed; evidence trustworthiness behind it was not.",
+    "recommendation": "Propose John give it a focused listen and rule on a strong contested candidate \u2014 session gravity and Griffin gap argue inclusion.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

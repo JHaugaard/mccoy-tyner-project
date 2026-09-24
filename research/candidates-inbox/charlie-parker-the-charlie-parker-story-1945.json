@@ -1,0 +1,712 @@
+{
+ "id": "charlie-parker-the-charlie-parker-story-1945",
+ "artist": "Charlie Parker",
+ "album": "The Charlie Parker Story",
+ "year": 1945,
+ "label": "Savoy Records",
+ "style_primary": "bebop",
+ "rationale": "The complete documentary record of Charlie Parker's first recording session under his own name — November 26, 1945 at WOR Studios, Broadway, New York City — issued posthumously by Savoy as LP MG 12079 (1956), the first album to present the entire session including all takes of all pieces (S3, S4). The date produced first-issue versions of the Parker originals 'Billie's Bounce', 'Now's the Time', 'Warming Up a Riff', 'Thriving on a Riff' and 'Ko-Ko', with 19-year-old Miles Davis, Dizzy Gillespie, Curley Russell and Max Roach — the founding studio statement of bebop. Wikipedia styles the LP jazz/bebop; AllMusic styles it Bop (also Big Band, Jazz Instrument, Saxophone Jazz) with recording date November 26, 1945 (S1, S3). The Penguin Guide awarded the album a crown in its first five editions (S3), and the LP back cover bills it 'The Greatest Recording Session Made In Modern Jazz History In Its Entirety!' (S6). The album is equally a canonical case study in discographic controversy: the label's Bud Powell piano credit is contradicted by the sessionographies (Powell did not appear), and the trumpet/piano assignments on 'Ko-Ko', 'Meandering' and 'Warming Up a Riff' remain contested between the Savoy label, the Complete Savoy Studio Sessions booklet, Teddy Reig's recollections, Miles Davis's autobiography and aural analysts — every conflict preserved in this record.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "scope_flag": "Era boundary: recorded 1945-11-26 (in window) and first issued on 78 rpm singles 1945-46; the dossier artifact is the posthumous 1956 Savoy LP MG 12079, a single-session compilation presenting all 16 bands. Dossier year follows the project recording-year convention (cf. Bud Powell Vol. 1 1952, Dave Holland 1972).",
+ "bridge_case": "For a listener arriving from the swing-era composed canon: every piece here is a short blues or rhythm-changes form with a stated head, so the leap is hearing the same structures at bebop velocity — 'Billie's Bounce' and 'Now's the Time' are the gentlest entry points; 'Ko-Ko' (based on 'Cherokee') is the genre's arrival statement.",
+ "accessibility": "intermediate",
+ "tags": [
+  "bebop",
+  "savoy",
+  "1940s",
+  "78-era-sessions",
+  "first-leader-session",
+  "posthumous-lp-compilation"
+ ],
+ "sources": {
+  "S1": {
+   "type": "allmusic",
+   "title": "The Charlie Parker Story — AllMusic album page (styles, dates, duration, track list)",
+   "url": "https://www.allmusic.com/album/the-charlie-parker-story-mw0000617410"
+  },
+  "S2": {
+   "type": "allmusic",
+   "title": "The Charlie Parker Story — AllMusic credits tab",
+   "url": "https://www.allmusic.com/album/the-charlie-parker-story-mw0000617410/credits"
+  },
+  "S3": {
+   "type": "wikipedia",
+   "title": "The Charlie Parker Story — Wikipedia album article",
+   "url": "https://en.wikipedia.org/wiki/The_Charlie_Parker_Story"
+  },
+  "S4": {
+   "type": "sessionography",
+   "title": "Charlie Parker Discography — jazzdisco.org, session #451126, Charlie Parker Rebeboppers / The Be Bop Boys, WOR Studios, Nov. 26, 1945",
+   "url": "https://www.jazzdisco.org/charlie-parker/discography/#451126"
+  },
+  "S5": {
+   "type": "discogs",
+   "title": "Charlie Parker – The Charlie Parker Story — Discogs master 156632",
+   "url": "https://www.discogs.com/master/156632-Charlie-Parker-The-Charlie-Parker-Story"
+  },
+  "S6": {
+   "type": "discogs",
+   "title": "Charlie Parker – The Charlie Parker Story (Savoy MG-12079, US 1956 LP) — Discogs release r3584405",
+   "url": "https://www.discogs.com/release/3584405-Charlie-Parker-The-Charlie-Parker-Story"
+  },
+  "S7": {
+   "type": "musicbrainz",
+   "title": "MusicBrainz release group 9186abe8-6467-4ac3-88d5-fafad14df2d2; release dea6f844-2dfb-457e-a810-6e46ac435438 (Savoy Records MG 12079, US 1956, ws/2 JSON)",
+   "url": "https://musicbrainz.org/release-group/9186abe8-6467-4ac3-88d5-fafad14df2d2"
+  },
+  "S8": {
+   "type": "cover-art",
+   "title": "Cover Art Archive — release group 9186abe8-6467-4ac3-88d5-fafad14df2d2",
+   "url": "https://coverartarchive.org/release-group/9186abe8-6467-4ac3-88d5-fafad14df2d2"
+  },
+  "S9": {
+   "type": "itunes",
+   "title": "iTunes Search API — Charlie Parker, 'The Charlie Parker Story', collectionId 1421368482 (16 tracks, 1956, Savoy/Concord)",
+   "url": "https://itunes.apple.com/search?term=Charlie+Parker+The+Charlie+Parker+Story&entity=album&limit=5"
+  },
+  "S10": {
+   "type": "liner-notes/credits",
+   "title": "LondonJazzCollector — 'Charlie Parker: The Charlie Parker Story (1945) Savoy' (pressing, liner-note and session-attribution analysis)",
+   "url": "https://londonjazzcollector.wordpress.com/2013/11/16/charlie-parker-the-charlie-parker-story-1945-savoy/"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1945-11-26"
+  ],
+  "multi_session": false,
+  "studio": "WOR Studios, Broadway, NY",
+  "recording_sites": [
+   {
+    "session_date": "1945-11-26",
+    "site_raw": "WOR Studios, Broadway, NY",
+    "site_slug": "wor-studios",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S4"
+   }
+  ],
+  "producer": "Teddy Reig",
+  "engineer": null,
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Charlie Parker",
+    "instrument": "alto saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1945-11-26"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4",
+     "S5",
+     "S6",
+     "S10"
+    ],
+    "name_variants": [
+     "Charlie Parker's Reboppers (session billing)",
+     "Charlie Parker Reboppers",
+     "The Be Bop Boys (78 rpm billing, Savoy 903)"
+    ],
+    "notes": "Leader; his first recording session under his own name (S3). Composed all titles (S3; S2 credits Parker as Composer). Session booked as 'Charlie Parker Rebeboppers' (S4) / 'Charlie Parker's Reboppers' (S10); the earliest 78 coupling (Savoy 903) was billed to 'The Be Bop Boys' (S4)."
+   },
+   {
+    "name": "Miles Davis",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Billie's Bounce (New Take #1)",
+     "Billie's Bounce (Short Take #2)",
+     "Billie's Bounce (New Take #3)",
+     "Billie's Bounce (Orig. Take #4)",
+     "Billie's Bounce (Orig. Take #5)",
+     "Now's The Time (Short Take #1)",
+     "Now's The Time (Short Take #2)",
+     "Now's The Time (New Take #3)",
+     "Now's The Time (Orig. Take #4)",
+     "Thriving From A Riff (New Take #1)",
+     "Thriving From A Riff (Short Take #2)",
+     "Thriving From A Riff (Orig. Take #3)"
+    ],
+    "session_dates": [
+     "1945-11-26"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S5",
+     "S6",
+     "S10"
+    ],
+    "name_variants": [],
+    "notes": "19 years old at the date; booked on the union contract (S3). jazzdisco (S4) assigns Davis trumpet on session items 2-13 — every Billie's Bounce, Now's The Time and Thriving take — leaving Warming Up A Riff, Meandering and both Koko takes to Gillespie. CONFLICT PRESERVED on Koko: the LP label credits Davis on trumpet without qualification (S3, S6); the liner notes to Davis's own 'The Musings of Miles', the Complete Savoy Studio Sessions booklet and Koch's 'Yardbird Suite' name Gillespie on Koko (S3); Miles's autobiography states Dizzy, not he, played 'Ko-Ko', 'Warmin' up a Riff' and 'Meandering' (S3); Urbano's aural analysis argues the Koko trumpeter is Davis (S3, S10). LJC lists 'Miles Davis or Dizzy Gillespie (tpt, p)' (S10). Track list above follows the session authority (S4); the contested takes are flagged in block notes."
+   },
+   {
+    "name": "Dizzy Gillespie",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Billie's Bounce (New Take #1)",
+     "Billie's Bounce (Short Take #2)",
+     "Billie's Bounce (New Take #3)",
+     "Warming Up A Riff (Orig. Take #1)",
+     "Billie's Bounce (Orig. Take #4)",
+     "Billie's Bounce (Orig. Take #5)",
+     "Now's The Time (Short Take #1)",
+     "Now's The Time (Short Take #2)",
+     "Now's The Time (New Take #3)",
+     "Now's The Time (Orig. Take #4)",
+     "Meandering (Only Take)",
+     "Koko (Short Take #1)",
+     "Koko (Orig. Take #2)"
+    ],
+    "session_dates": [
+     "1945-11-26"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S10"
+    ],
+    "name_variants": [
+     "Hen Gates (pseudonym on the earliest 78 rpm issues)"
+    ],
+    "notes": "Primary instrument on this album is piano (S4: piano on session items 1-10 and 16 — everything except the three Thriving takes); also plays trumpet on both Koko takes (S4). The LP label credits him 'piano and trumpet' without track qualification, and its liner notes quote Dizzy remembering 'playing both piano and trumpet on the date, but just where and when is not clear' (S3). Complete Savoy Studio Sessions lists him as trumpet on 'Koko' only, plus piano (S3). Miles's autobiography extends the trumpet claim to 'Warming up a Riff' and 'Meandering' (S3), conflicting with jazzdisco's piano-only assignment there (S4). Reig: 'Dizzy plays trumpet on the opening and then goes to the piano and we put in the drum solo so Dizzy would have a chance to get back for the ending' (S10 quoting Reig). On the earliest 78s the pianist was credited as 'Hen Gates', a known Gillespie pseudonym, used because he was under contract to Musicraft (S3)."
+   },
+   {
+    "name": "Sadik Hakim",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Thriving From A Riff (New Take #1)",
+     "Thriving From A Riff (Short Take #2)",
+     "Thriving From A Riff (Orig. Take #3)"
+    ],
+    "session_dates": [
+     "1945-11-26"
+    ],
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S10"
+    ],
+    "name_variants": [
+     "Argonne Thornton",
+     "Argonne Thornton (a.k.a. Sadik Hakim)"
+    ],
+    "notes": "CONFLICT PRESERVED — track coverage contested. jazzdisco assigns Hakim piano on the three Thriving takes only (S4); the Complete Savoy Studio Sessions booklet credits him on 'Thriving on a Riff' and 'Koko' (S3); Hakim himself claimed all titles except 'Now's the Time' and 'Billie's Bounce' (S3); Reig says Hakim left before the final Koko take after a local union representative objected that he was not yet a member of the New York local (S3); Mehegan's liner notes report the claim but state Herman Lubinsky denied it (S3). The Savoy 945 78 label credits Gillespie, not Hakim, on piano for 'Thriving on a Riff' (S3). Tracks above follow the session authority (S4)."
+   },
+   {
+    "name": "Curley Russell",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1945-11-26"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6",
+     "S10"
+    ],
+    "name_variants": [
+     "Curly Russell",
+     "Dillon \"Curley\" Russell"
+    ],
+    "notes": "Omitted from the LP label but present in the liner notes (S3). Billed 'Curly Russell' by jazzdisco (S4) and AllMusic (S2); 'Curley Russell' on LP-era sources (S3, S5, S6); 'Dillon \"Curley\" Russell' by LJC (S10)."
+   },
+   {
+    "name": "Max Roach",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1945-11-26"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6",
+     "S10"
+    ],
+    "name_variants": [],
+    "notes": "Kicks the solo feature on Koko orig. take #2 that, per Reig, covered Gillespie's trumpet-to-piano switch (S10)."
+   },
+   {
+    "name": "Bud Powell",
+    "instrument": "piano",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "CREDITED BUT ALMOST CERTAINLY ABSENT — conflict preserved. The LP label credits Powell on piano (S3, S5, S6) and AllMusic repeats the credit (S2), but the Complete Savoy Studio Sessions booklet (from Savoy files and Reig's recollections) states Powell went to Philadelphia with his mother that day and never appeared — Gillespie was introduced as 'Here's your piano player' (S3); LJC: Powell was 'states away recovering from a breakdown' (S10). Powell had been booked for the date on the union contract (S3). Mehegan's liner notes still credit him, which Wikipedia calls almost certainly incorrect (S3). No source consulted asserts Powell actually played; the credit is recorded here as a documented label claim only."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Billie's Bounce (New Take #1)",
+    "track_number": 1,
+    "side": "A",
+    "duration": "2:20",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Billie's Bounce (Short Take #2)",
+    "track_number": 2,
+    "side": "A",
+    "duration": "1:20",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Billie's Bounce (New Take #3)",
+    "track_number": 3,
+    "side": "A",
+    "duration": "3:05",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Warming Up A Riff (Orig. Take #1)",
+    "track_number": 4,
+    "side": "A",
+    "duration": "2:30",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Billie's Bounce (Orig. Take #4)",
+    "track_number": 5,
+    "side": "A",
+    "duration": "2:00",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Billie's Bounce (Orig. Take #5)",
+    "track_number": 6,
+    "side": "A",
+    "duration": "3:05",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Now's The Time (Short Take #1)",
+    "track_number": 7,
+    "side": "A",
+    "duration": "0:20",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Now's The Time (Short Take #2)",
+    "track_number": 8,
+    "side": "A",
+    "duration": "0:37",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Now's The Time (New Take #3)",
+    "track_number": 9,
+    "side": "A",
+    "duration": "3:05",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Now's The Time (Orig. Take #4)",
+    "track_number": 10,
+    "side": "B",
+    "duration": "3:15",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Thriving From A Riff (New Take #1)",
+    "track_number": 11,
+    "side": "B",
+    "duration": "3:00",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Sadik Hakim",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "unk",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Thriving From A Riff (Short Take #2)",
+    "track_number": 12,
+    "side": "B",
+    "duration": "0:20",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Sadik Hakim",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Thriving From A Riff (Orig. Take #3)",
+    "track_number": 13,
+    "side": "B",
+    "duration": "3:00",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Sadik Hakim",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Meandering (Only Take)",
+    "track_number": 14,
+    "side": "B",
+    "duration": "3:15",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Koko (Short Take #1)",
+    "track_number": 15,
+    "side": "B",
+    "duration": "0:40",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": true,
+    "epistemic_track": "unk",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   },
+   {
+    "title": "Koko (Orig. Take #2)",
+    "track_number": 16,
+    "side": "B",
+    "duration": "2:50",
+    "session_date": "1945-11-26",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Dizzy Gillespie",
+     "Curley Russell",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S3",
+     "S4",
+     "S6"
+    ]
+   }
+  ],
+  "track_assignments_complete": false,
+  "musicbrainz_release_group_mbid": "9186abe8-6467-4ac3-88d5-fafad14df2d2",
+  "apple_album_id": "1421368482",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/9186abe8-6467-4ac3-88d5-fafad14df2d2/front",
+    "is_original_cover": null,
+    "epistemic": "obs",
+    "sources": [
+     "S7",
+     "S8"
+    ],
+    "notes": "Front image approved in Cover Art Archive, attached to MusicBrainz release dea6f844-2dfb-457e-a810-6e46ac435438 — verified via ws/2 as the 1956 Savoy Records MG 12079 US LP (title, label, catalog number and 1956 date all match). Visual check of the CAA image (front, id 22231786063): illustration of Parker seated in an ornate red-velvet high-backed chair with a gold saxophone, text 'The Charlie Parker Story / SAVOY MG-12079'. TWO-COVER HISTORY — is_original_cover null: Wikipedia captions this throne design 'Original Cover' (S3); LJC reports sellers describe it as a 'rejected cover' while arguing it may in fact be the original 1956 cover since it reached print, and documents a second MG 12079 cover design (S10). CAA also holds a medium image for the same release (id 22231787649)."
+   }
+  ],
+  "notes": "Single session: Charlie Parker's first under his own name, recorded November 26, 1945 (Discogs submission gives 2:00-5:00 pm) at WOR Studios, Broadway, New York City (S3, S4, S6, S10). Site matched to canonical slug 'wor-studios' — copied from the repo's canonical places export (exports/jazz-canon/places.json: WOR Studios, studio, New York, NY, 1440 Broadway), the same slug used by the archived Bud Powell Vol. 1/Vol. 2, Sonny Rollins Freedom Suite and J.J. Johnson dossiers for this venue. The union contract booked Parker, Miles Davis, Bud Powell, Curley Russell and Max Roach; Powell did not appear — per the Complete Savoy Studio Sessions booklet (Savoy files, Reig's recollections) he went to Philadelphia with his mother, and Gillespie was introduced as 'Here's your piano player'; Argonne Thornton (Sadik Hakim) was also called to the studio (S3). ERA/ISSUE STORY: the music was first issued on 78 rpm singles in 1945-46 — Savoy 573 (Billie's Bounce / Now's The Time), Savoy 597 (Ko-Ko), Savoy 903 (The Be Bop Boys: Opus De Bop / Thriving On A Riff), Savoy 945 (Warming Up A Riff / Thriving On A Riff), with 916/918 couplings — then on 7-inch EPs (XP 8000/8001/8006/8097) and 10-inch LPs (MG 9000/9001/9034) (S4). Savoy MG 12079 (1956), compiled posthumously, was the first album to present the entire session including all takes of all pieces (S3, S4); 'Meandering' had no prior issue (S4). RELEASE-DATE CONFLICT PRESERVED: Wikipedia, jazzdisco, Discogs and MusicBrainz date the LP 1956; AllMusic gives March 6, 1957 (S1). Dossier year = 1945, the recording year, per project convention. PERSONNEL CONTROVERSY (conflicts preserved, never resolved): (1) Bud Powell credited on piano on the LP label but established as absent (see personnel entry); Mehegan's liner notes still credit him. (2) Piano: earliest 78s credited 'Hen Gates' (Gillespie pseudonym, Musicraft-contract evasion, S3); Savoy 945 credits Gillespie on Thriving (S3); jazzdisco gives Gillespie everything except the three Thriving takes, which go to Hakim (S4); the Complete Savoy booklet gives Hakim only Thriving and Koko (S3); Hakim claimed all titles except Now's the Time and Billie's Bounce (S3); Reig says Hakim left before the final Koko take (S3); Urbano argues Gillespie plays the introduction on Thriving take 1 with Thornton on takes 2-3 (S10). (3) Trumpet on Koko: label credits Davis (S3, S6); Musings of Miles liner notes, Koch, the Complete Savoy booklet and Miles's autobiography say Gillespie — Miles: Dizzy played 'Ko-Ko', 'Warmin' up a Riff' and 'Meandering' because Miles declined the 'Cherokee'-based material (S3); Urbano's aural analysis argues Davis (S3, S10); Wikipedia observes the master has piano only during Parker's solo (so Gillespie doubling on the master is implausible) while on aborted take 1 the piano is audible behind the melody (so no doubling there either) (S3). (4) Mehegan's notes dismiss the young Davis ('several bad goofs by Miles on head… no ideas… totally unswinging', S10). Track-level personnel arrays follow the session authority jazzdisco (S4); contested items carry epistemic_track 'unk'. TITLES: the LP prints 'Thriving From A Riff' (elsewhere 'Thriving on a Riff', later known as 'Anthropology') and 'Koko' (78 'Ko-Ko'; 'Cocoa' on the Bird-Diz-Bud-Max issues) (S3, S4). Liner notes erroneously call band 5 'Orig. Take #4'; per Wikipedia/jazzdisco it is the previously unissued new take #4 (S3). Track numbering follows the LP's sequential band numbering, sides A (bands 1-9) and B (bands 10-16) (S6). PRODUCTION: session produced by Teddy Reig (S3 infobox and Complete Savoy booklet account; S10); the 1956 LP itself credits Ozzie Cadena as producer (S2, S5, S6) — both recorded, conflict preserved. Engineer: null — no recording engineer documented in any source consulted (S1-S10). The 1956 LP carries a 'Remastered By Rudy Van Gelder' credit with RVG etched in the runouts (MG 12079A/B), unusual for a 1956 issue and recorded here as a Discogs-submitted claim (S6); pressed by MGM Custom Pressing Division (S6). Liner notes by John Mehegan (S2, S3, S5, S6). ALLMUSIC CAVEAT: the AllMusic page merges this album with the 2003 Savoy Jazz CD 'The Charlie Parker Story' (mr0001876360/-17170), a 13-track budget collection spanning '40s-'50s Savoy material — Matt Collar's review describes the 2003 CD, and the credits tab consequently lists Duke Jordan, John Lewis and Tommy Potter (personnel of Parker's later Savoy sessions, not of the Nov 26, 1945 date) plus a Gillespie composer credit; recorded here as 2003-edition credits, not 1945-session personnel (S1, S2). Durations: LP timings used (S3, S5, S6 agree; total 34:42); AllMusic's digital durations differ by seconds (e.g. 2:42 for band 1) and its 35:21 total reflects the digital transfer (S1). STYLES/RECEPTION: Wikipedia genre jazz/bebop (S3); AllMusic styles Bop, Big Band, Jazz Instrument, Saxophone Jazz (S1). Awarded a crown in the first five editions of the Penguin Guide to Jazz Recordings, four stars (S3). Back cover: 'The Greatest Recording Session Made In Modern Jazz History In Its Entirety!' (S6); Mehegan's notes call the date 'The Greatest Recording Made in Modern Jazz History' (S3). APPLE: collectionId 1421368482, artistName Charlie Parker, collectionName 'The Charlie Parker Story', 16 tracks, releaseDate 1956-01-01, copyright 'This Compilation ℗ 1991 Savoy Records' — the digital issue of the 16-band Savoy program (matching Savoy Jazz SV-0105 CD lineage), not the 2003 13-track collection and not a box (S9). IDENTIFIERS: MusicBrainz release group 9186abe8-6467-4ac3-88d5-fafad14df2d2 (first-release-date 1956, type Album), verified against Wikipedia's authority control for this album article (S3, S7); Cover Art Archive holds approved front and medium images for release dea6f844-2dfb-457e-a810-6e46ac435438 (S8)."
+ },
+ "scope_note": "Recorded November 26, 1945 — the first in-eligible year of the 1945-1985 window — and issued on 78 rpm singles in 1945-46; the LP dossier artifact (Savoy MG 12079) is a posthumous 1956 compilation presenting the complete single session. Eligibility keyed to the 1945 recording date; the 1956 issue date is documented in the record.",
+ "ballot": {
+  "album": "Charlie Parker — The Charlie Parker Story (1945)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": "The session was recorded in 1945, the first eligible year, and bebop is explicitly admitted; the 1956 LP issue is eligible under the project's recording-year convention despite being a posthumous compilation."
+  },
+  "tier": "consensus_core",
+  "priority": "must_have",
+  "case_for": "This is a foundational recorded statement of bebop: Parker's first leader date produced 'Billie's Bounce', 'Now's the Time', 'Thriving on a Riff', and 'Ko-Ko', with Miles Davis, Dizzy Gillespie, Max Roach, Curley Russell, and others at the moment the idiom crystallized (S3, S4). Its lineage and session gravity are nearly unmatched, while the familiar blues and 'Cherokee' structures make the leap from swing to bebop audible and teachable. The Penguin Guide awarded the album a Crown in its first five editions (S3), and the complete-session LP gathers the historically decisive material, including alternate takes and previously unissued material (S3, S4).",
+  "case_against": "Savoy MG 12079 is an archival 1956 compilation rather than a purpose-built album, and its repeated takes, false starts, and very short fragments can make it a less immediately pleasurable discovery experience than a curated Parker masters collection. The session's personnel record is unusually unstable: the Bud Powell credit is almost certainly wrong, trumpet and piano assignments remain disputed, and AllMusic's credits are contaminated by later Parker sessions (S2, S3, S4, S10). Thus its historical importance and documentary completeness may outweigh its uneven album coherence and compromised discographic clarity.",
+  "disagreement": null,
+  "recommendation": "John should treat this as a must-have consensus core record, while documenting that the canonical artifact is a posthumous complete-session compilation and preserving its personnel uncertainties.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

@@ -1,0 +1,325 @@
+{
+  "id": "cannonball-adderley-know-what-i-mean-1962",
+  "artist": "Cannonball Adderley with Bill Evans",
+  "album": "Know What I Mean?",
+  "year": 1962,
+  "label": "Riverside",
+  "style_primary": "post-bop",
+  "tags": [
+    "hard-bop",
+    "modal-jazz"
+  ],
+  "rationale": "Cannonball Adderley's quartet meeting with Bill Evans, backed by the Modern Jazz Quartet rhythm section (Percy Heath and Connie Kay). A defining post-bop/soul-jazz session recorded three dates in early 1961, bridging Kind of Blue's legacy and Adderley's populist soul-jazz era. Features early recorded versions of Evans's 'Waltz for Debby' and the title track. Consensus recommendation across Penguin Guide, AllMusic, Rolling Stone Jazz Record Guide, and DownBeat.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic album entry",
+      "type": "discography",
+      "url": "https://www.allmusic.com/album/know-what-i-mean--mw0000658108/credits"
+    },
+    "S2": {
+      "title": "Wikipedia album article",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Know_What_I_Mean%3F"
+    },
+    "S3": {
+      "title": "Discogs master release",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/118123-Cannonball-Adderley-With-Bill-Evans-Know-What-I-Mean"
+    },
+    "S4": {
+      "title": "JazzDiscography Cannonball Adderley sessionography",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/cannonball-adderley/discography/"
+    },
+    "S5": {
+      "title": "iTunes Search API",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Cannonball+Adderley+Know+What+I+Mean&entity=album"
+    },
+    "S6": {
+      "title": "Cover Art Archive (MusicBrainz)",
+      "type": "identifier",
+      "url": "https://coverartarchive.org/release-group/4ff40ed9-d478-3037-914a-6f0f185d3ec3"
+    },
+    "S7": {
+      "title": "The Penguin Guide to Jazz (via Wikipedia)",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Know_What_I_Mean%3F#cite_note-Penguin_Guide-9"
+    },
+    "S8": {
+      "title": "AllMusic review (via Rick Anderson)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/know-what-i-mean--mw0000658108"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-01-27",
+      "1961-02-21",
+      "1961-03-13"
+    ],
+    "multi_session": true,
+    "studio": "Bell Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1961-01-27",
+        "site_raw": "Bell Sound Studios, New York, NY",
+        "site_slug": "bell-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1961-02-21",
+        "site_raw": "Bell Sound Studios, New York, NY",
+        "site_slug": "bell-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1961-03-13",
+        "site_raw": "Bell Sound Studios, New York, NY",
+        "site_slug": "bell-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Bill Stoddard",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Cannonball Adderley",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Julian 'Cannonball' Adderley"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also credited as arranger"
+      },
+      {
+        "name": "Percy Heath",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Connie Kay",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Waltz for Debby",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:15",
+        "session_date": "1961-03-13",
+        "composers": [
+          "Bill Evans",
+          "Gene Lees"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Goodbye",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:15",
+        "session_date": "1961-01-27",
+        "composers": [
+          "Gordon Jenkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Who Cares? (Take 5)",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:57",
+        "session_date": "1961-01-27",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Venice",
+        "track_number": 4,
+        "side": "B",
+        "duration": "2:55",
+        "session_date": "1961-03-13",
+        "composers": [
+          "John Lewis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Toy",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:09",
+        "session_date": "1961-02-21",
+        "composers": [
+          "Clifford Jordan"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Elsa",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:52",
+        "session_date": "1961-02-21",
+        "composers": [
+          "Earl Zindars"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Nancy (With the Laughing Face)",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:08",
+        "session_date": "1961-01-27",
+        "composers": [
+          "Phil Silvers",
+          "Jimmy Van Heusen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Know What I Mean? (Re-take 7)",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:54",
+        "session_date": "1961-03-13",
+        "composers": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "4ff40ed9-d478-3037-914a-6f0f185d3ec3",
+    "apple_album_id": 1440795412,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/65f70482-0511-44c6-bde2-d65c1e64ad23/15905043506.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original 1962 Riverside LP cover"
+      }
+    ],
+    "notes": "Three sessions at Bell Sound Studios, NYC. Jan 27: tracks 2, 3, 7 (plus bonus tracks 9-10). Feb 21: tracks 5, 6. Mar 13: tracks 1, 4, 8. The original 8-track LP was released Oct/Nov 1962 on Riverside RLP-433. CD reissues add bonus alternate takes."
+  },
+  "ballot": {
+    "album": "Cannonball Adderley with Bill Evans — Know What I Mean? (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is an unusually consequential personnel intersection: Cannonball Adderley and Bill Evans are joined by Percy Heath and Connie Kay, creating a rare meeting of major post-bop and Modern Jazz Quartet lineages (S2, S3, S4). The album preserves an early commercially released version of Evans's \"Waltz for Debby\" and the Evans-composed title track, while offering an exceptionally warm, accessible bridge between the *Kind of Blue* tradition and early-1960s post-bop (S2, S8). AllMusic and the Penguin Guide citation support a durable critical case, and the dossier also reports DownBeat and Rolling Stone recognition, though those latter claims are not independently sourced here.",
+    "case_against": "Neither leader is represented here by a defining statement: Adderley's *Somethin' Else* and Evans's Village Vanguard trio recordings carry more canonical weight for their respective arcs. As an ad hoc studio meeting rather than a sustained working unit, the album can sound polished and gently restrained, offering less of Adderley's fiery hard-bop force or Evans's revolutionary trio interplay. Its marginal value may therefore be modest if the canon already represents these musicians and adjacent traditions, and the consensus claim is overstated relative to the dossier's evidence, which relies substantially on Wikipedia and metadata sources.",
+    "disagreement": "The references agree that the album is in scope, high-quality, historically interesting, and worthy of strong consideration, but they split on tier: Reference 1 judges it contested because it is a respected sidebar rather than an essential statement, while Reference 2 calls it consensus_core. They also differ in how much weight to give the reported multi-publication consensus, since the dossier directly documents only part of that claim.",
+    "recommendation": "John should consider including it as a strong, contested choice if the canon values rare personnel intersections and Evans's sideman work alongside definitive leader statements.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

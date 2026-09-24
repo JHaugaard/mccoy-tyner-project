@@ -1,0 +1,294 @@
+{
+  "id": "kenny-dorham-quiet-kenny-1959",
+  "artist": "Kenny Dorham",
+  "album": "Quiet Kenny",
+  "year": 1959,
+  "label": "New Jazz",
+  "style_primary": "hard-bop",
+  "tags": [
+    "post-bop"
+  ],
+  "rationale": "Kenny Dorham's definitive ballad-and-blues session, his first album as a leader on Prestige's New Jazz imprint. Features a stellar quartet with Tommy Flanagan, Paul Chambers, and Art Taylor. Described by The Penguin Guide to Jazz Recordings as 'a minor masterpiece' and by AllMusic's Michael Nastos as establishing Dorham 'as a Top Five performer in jazz on his instrument.' The album documents Dorham's ultra-melodic, understated style — a landmark hard-bop trumpet album from one of the era's most tasteful but overshadowed players. Consensus 3.5-4.5 star ratings across Penguin Guide, AllMusic, and DownBeat.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic album entry",
+      "type": "discography",
+      "url": "https://www.allmusic.com/album/quiet-kenny-mw0000649483/credits"
+    },
+    "S2": {
+      "title": "Wikipedia album article",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Quiet_Kenny"
+    },
+    "S3": {
+      "title": "Discogs master release",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/155855-Kenny-Dorham-Quiet-Kenny"
+    },
+    "S4": {
+      "title": "JazzDiscography Kenny Dorham catalog",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/kenny-dorham/catalog/"
+    },
+    "S5": {
+      "title": "iTunes Search API",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Kenny+Dorham+Quiet+Kenny&entity=album"
+    },
+    "S6": {
+      "title": "Cover Art Archive (MusicBrainz)",
+      "type": "identifier",
+      "url": "https://coverartarchive.org/release-group/fc488b45-c39a-3021-94fb-386b7434bc17"
+    },
+    "S7": {
+      "title": "The Penguin Guide to Jazz Recordings (via Wikipedia)",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Quiet_Kenny#cite_note-Penguin-5"
+    },
+    "S8": {
+      "title": "AllMusic review (via Michael Nastos)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/quiet-kenny-mw0000649483"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-11-13"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1959-11-13",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Esmond Edwards",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Kenny Dorham",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "McKinley Howard Dorham"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Tommy Flanagan",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Arthur Taylor"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Lotus Blossom",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:39",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "My Ideal",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:06",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Newell Chase",
+          "Leo Robin",
+          "Richard A. Whiting"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Blue Friday",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:46",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Alone Together",
+        "track_number": 4,
+        "side": "B",
+        "duration": "3:11",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Howard Dietz",
+          "Arthur Schwartz"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Blue Spring Shuffle",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:38",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "I Had the Craziest Dream",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:40",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Mack Gordon",
+          "Harry Warren"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Old Folks",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:11",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Dedette Lee Hill",
+          "Willard Robison"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "fc488b45-c39a-3021-94fb-386b7434bc17",
+    "apple_album_id": 1440948435,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/f60cacaf-43dc-4929-8ecd-ef61c61dc183/33056500491.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original 1960 New Jazz LP cover"
+      }
+    ],
+    "notes": "Single session on November 13, 1959 at Van Gelder Studio, Englewood Cliffs, NJ. Released Feb 1960 on New Jazz NJLP-8225. Original 7-track LP; CD reissues add 'Mack the Knife' as a bonus track. Rudy Van Gelder recorded the session (his home studio was at Englewood Cliffs by this date — the Hackensack move had ended mid-1959)."
+  },
+  "ballot": {
+    "album": "Kenny Dorham — Quiet Kenny (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Quiet Kenny is a compelling defining statement for Dorham as a leader: a warm, lyrical, unhurried hard-bop voice presented with unusual clarity in a quartet featuring Tommy Flanagan, Paul Chambers, and Art Taylor (S2, S3). The Penguin Guide's \"minor masterpiece\" assessment and AllMusic's strong review support its critical standing (S7, S8), while the original compositions and durable readings of standards give it real repertoire and discovery value. It remains an accessible, beautifully recorded example of late-1950s hard bop that expands the canon beyond its most obvious trumpet names.",
+    "case_against": "The album's strongest claim is excellence rather than transformation: \"minor masterpiece\" praise does not establish the core-collection or tradition-shifting status of records such as Kind of Blue or Saxophone Colossus. Its influence is less clearly traceable than Dorham's own sideman work or more compositionally ambitious leader dates such as Whistle Stop and Una Mas, and 1959 is crowded with more load-bearing landmarks. In addition, the dossier's critical-consensus claims rely substantially on a Wikipedia-mediated Penguin citation and an AllMusic review, while the claimed DownBeat consensus is not independently documented.",
+    "disagreement": "The references agree that the album is in scope, high-quality, and worthy of strong consideration, but they split on tier: Reference 1 finds the moderate consensus, indirect lineage, crowded year, and sourcing limitations sufficient for contested, while Reference 2 treats Dorham's definitive leader statement and exceptional accessibility as enough for consensus_core.",
+    "recommendation": "John should give Quiet Kenny serious inclusion consideration as a strong, contested candidate, while verifying the primary critical sources before treating it as core canon.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

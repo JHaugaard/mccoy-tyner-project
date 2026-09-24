@@ -1,0 +1,261 @@
+{
+  "id": "booker-ervin-the-freedom-book-1963",
+  "artist": "Booker Ervin",
+  "album": "The Freedom Book",
+  "year": 1963,
+  "label": "Prestige",
+  "style_primary": "hard-bop",
+  "rationale": "The first and finest of Booker Ervin's celebrated 'Book' series for Prestige, The Freedom Book is his defining statement as a leader \u2014 a session that captures his tough Texas tenor at its most focused and lyrical. The quartet of Ervin, Jaki Byard, Richard Davis, and Alan Dawson operates as a genuine ensemble, not a blowing date; Byard's pianistic wit and Davis/Dawson's telepathic rhythm section push Ervin into some of his most adventurous yet grounded playing. AllMusic (4.5\u2605), Rolling Stone Jazz Record Guide (5\u2605), and Penguin Guide (4\u2605) all mark it as essential. Ervin is absent from the canon entirely; this is the record that belongs.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 The Freedom Book",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Freedom_Book"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 The Freedom Book",
+      "type": "review/credits",
+      "url": "https://www.allmusic.com/album/the-freedom-book-mw0000177151"
+    },
+    "S3": {
+      "title": "MusicBrainz \u2014 The Freedom Book release group",
+      "type": "discographic",
+      "url": "https://musicbrainz.org/release-group/4d4f1f22-0d8e-3247-8c8a-43345a4a7efc"
+    },
+    "S4": {
+      "title": "Cover Art Archive \u2014 The Freedom Book",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/4d4f1f22-0d8e-3247-8c8a-43345a4a7efc"
+    },
+    "S5": {
+      "title": "Apple Music \u2014 The Freedom Book (Remastered)",
+      "type": "streaming",
+      "url": "https://music.apple.com/us/album/the-freedom-book-remastered/1442840083"
+    },
+    "S6": {
+      "title": "Discogs \u2014 The Freedom Book master",
+      "type": "discographic",
+      "url": "https://www.discogs.com/master/347322-Booker-Ervin-The-Freedom-Book"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-12-03"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1963-12-03",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Don Schlitten",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "notes": "Engineer inferred \u2014 recorded at Van Gelder Studio in Englewood Cliffs (post-mid-1959 move), RVG is the studio's engineer. Released March 1964 on Prestige (PRLP 7295). Bonus track 'Stella by Starlight' on 2007 reissue not included. All personnel on all 5 original tracks.",
+    "personnel": [
+      {
+        "name": "Booker Ervin",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jaki Byard",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Alan Dawson",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "A Lunar Tune",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:50",
+        "session_date": "1963-12-03",
+        "composers": [
+          "Booker Ervin"
+        ],
+        "personnel": [
+          "Booker Ervin",
+          "Jaki Byard",
+          "Richard Davis",
+          "Alan Dawson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Cry Me Not",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:53",
+        "session_date": "1963-12-03",
+        "composers": [
+          "Randy Weston"
+        ],
+        "personnel": [
+          "Booker Ervin",
+          "Jaki Byard",
+          "Richard Davis",
+          "Alan Dawson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Grant's Stand",
+        "track_number": 3,
+        "side": "B",
+        "duration": "8:01",
+        "session_date": "1963-12-03",
+        "composers": [
+          "Booker Ervin"
+        ],
+        "personnel": [
+          "Booker Ervin",
+          "Jaki Byard",
+          "Richard Davis",
+          "Alan Dawson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "A Day to Mourn",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:33",
+        "session_date": "1963-12-03",
+        "composers": [
+          "Booker Ervin"
+        ],
+        "personnel": [
+          "Booker Ervin",
+          "Jaki Byard",
+          "Richard Davis",
+          "Alan Dawson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Al's In",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:48",
+        "session_date": "1963-12-03",
+        "composers": [
+          "Booker Ervin"
+        ],
+        "personnel": [
+          "Booker Ervin",
+          "Jaki Byard",
+          "Richard Davis",
+          "Alan Dawson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "4d4f1f22-0d8e-3247-8c8a-43345a4a7efc",
+    "apple_album_id": "1442840083",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/cf430d65-9cbe-4149-81bb-f5c5e659937c/22775116479.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Booker Ervin \u2014 The Freedom Book (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The defining statement of Booker Ervin as a leader \u2014 the first and most-cited of the Prestige \"Book\" series \u2014 with cross-tradition guide consensus (AllMusic 4.5\u2605 per S2; Penguin 4\u2605 and Rolling Stone 5\u2605 per the rationale). Session gravity is exceptional: the Byard\u2013Davis\u2013Dawson quartet is one of the era's most telepathic rhythm sections, cut at Van Gelder Studio in December 1963 as a genuine ensemble date, not a blowing session. Ervin is entirely absent from the canon; the tenor who powered Mingus Ah Um and The Blues and the Abstract Truth bridges hard-bop and the freer tenor playing that followed, and the record still plays.",
+    "case_against": "Critical sourcing thinner than rationale implies; Penguin/Rolling Stone consensus asserted in prose, not sourced. Ervin's canonical rank is respected-but-specialized rather than first-tier.",
+    "disagreement": "Tier split: one reference read consensus_core, one held contested. Priority strong unanimous.",
+    "recommendation": "Propose admitting The Freedom Book at priority strong as the canon's Booker Ervin record",
+    "confidence": "medium"
+  }
+}

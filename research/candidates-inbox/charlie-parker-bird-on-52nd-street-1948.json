@@ -1,0 +1,638 @@
+{
+ "id": "charlie-parker-bird-on-52nd-street-1948",
+ "artist": "Charlie Parker",
+ "album": "Bird on 52nd Street",
+ "year": 1948,
+ "label": "Jazz Workshop",
+ "style_primary": "bebop",
+ "rationale": "Charlie Parker's working quintet of 1948 — Miles Davis, Duke Jordan, Tommy Potter and Max Roach — captured live at the Onyx Club on West 52nd Street, New York, in July 1948 on a non-professional tape machine, and first issued in December 1957 as Jazz Workshop JWS 501 (S2, S3, S4, S5). The 15 grooves document the Parker–Davis bebop partnership in its natural club habitat — '52nd Street Theme', 'Shaw 'Nuff', 'Hot House', 'A Night in Tunisia', 'Chasin' the Bird', 'Dizzy Atmosphere' and 'How High the Moon' — though several tracks are incomplete because the taper concentrated on Parker's solos to conserve tape (S2, S3). Wikipedia describes the issuing Jazz Workshop label as Charles Mingus' (S2). AllMusic styles the album Bop, Jazz Instrument and Saxophone Jazz (S1), and Discogs styles it Bop (S4) — matching style_primary 'bebop'. Scott Yanow's AllMusic review finds that Parker 'plays quite brilliantly on this live set' while the recording quality 'sometimes borders on the unlistenable', making it 'for true Charlie Parker completists only' (1.5 stars); The Rolling Stone Album Guide gives 2.5 stars (S1, S2). The album's provenance is unusually layered and is recorded as content in the dossier: the tape is credited to trombonist Jimmy Knepper by the 1994 CD reissue liner notes (S2) but to Dean Benedetti's private tape by Discogs and the Losin sessionography (S5, S6), and the liner notes themselves allow that the recording might have been made at the nearby Three Deuces rather than the Onyx Club (S2) — while the sessionographies place it at the Onyx Club on July 6, 1948 (S3, S4, S6). Reissued on Fantasy 6011 (1964), America 30 AM 6061 (France, 1969), Debut/Fantasy VIJ-5014M/DEB-5014 (Japan, 1976) and Original Jazz Classics OJC-114/OJCCD-114-2 (S3, S4).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "Charlie Parker: Bird on 52nd St. — AllMusic album page with review, track list and Credits tab",
+   "type": "overview/credits",
+   "url": "https://www.allmusic.com/album/bird-on-52nd-st-mw0000080262/credits"
+  },
+  "S2": {
+   "title": "Bird on 52nd St. — Wikipedia album article",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Bird_on_52nd_St."
+  },
+  "S3": {
+   "title": "Charlie Parker Catalog — Jazz Discography Project (Jazz Workshop JWS 501 session entry)",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/charlie-parker/catalog/"
+  },
+  "S4": {
+   "title": "Charlie Parker – Bird On 52nd St. — Discogs master page",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/455198-Charlie-Parker-Bird-On-52nd-St"
+  },
+  "S5": {
+   "title": "Charlie Parker – Bird On 52nd St. (Jazz Workshop JWS-501/JW-501, US, Dec 1957) — Discogs release page",
+   "type": "discography",
+   "url": "https://www.discogs.com/release/4165067-Charlie-Parker-Bird-On-52nd-St"
+  },
+  "S6": {
+   "title": "Peter Losin, Miles Ahead — Charlie Parker session details: Onyx Club, July 6-11, 1948",
+   "type": "sessionography",
+   "url": "https://www.plosin.com/milesahead/BirdSessions.aspx?s=480706"
+  },
+  "S7": {
+   "title": "Peter Losin, Miles Ahead — Charlie Parker session details: Three Deuces, March 31, 1948",
+   "type": "sessionography",
+   "url": "https://www.plosin.com/milesahead/BirdSessions.aspx?s=480331"
+  },
+  "S8": {
+   "title": "Bird on 52nd Street by Charlie Parker — MusicBrainz release group (ws/2 JSON)",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/5bf07c67-53ed-3fb9-bbb1-61e8de73de18"
+  },
+  "S9": {
+   "title": "Cover Art Archive — MusicBrainz release group 5bf07c67-53ed-3fb9-bbb1-61e8de73de18",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/5bf07c67-53ed-3fb9-bbb1-61e8de73de18"
+  },
+  "S10": {
+   "title": "iTunes Search API — Charlie Parker Bird on 52nd Street album results",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Charlie+Parker+Bird+on+52nd+Street&entity=album&limit=5"
+  },
+  "S11": {
+   "title": "Onyx Club — Wikipedia venue article (57 West 52nd Street, 1942-1949; cites Arnold Shaw, 52nd Street: The Street of Jazz)",
+   "type": "venue/geocoding",
+   "url": "https://en.wikipedia.org/wiki/Onyx_Club"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1948-07-06"
+  ],
+  "multi_session": false,
+  "studio": "Onyx Club, NYC",
+  "recording_sites": [
+   {
+    "session_date": "1948-07-06",
+    "site_raw": "Onyx Club, NYC [S3] — or the nearby Three Deuces, per the album liner notes as reported by Wikipedia [S2]",
+    "site_slug": null,
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3",
+    "notes": "Venue conflict preserved, never resolved: jazzdisco and the Wikipedia infobox give the Onyx Club (S3); the album liner notes, as reported by Wikipedia, say the recording might have been made at the nearby Three Deuces (S2). Both 52nd Street clubs; session site left empty rather than asserted."
+   }
+  ],
+  "producer": null,
+  "engineer": null,
+  "epistemic_production": "unk",
+  "personnel": [
+   {
+    "name": "Charlie Parker",
+    "instrument": "alto saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1948-07-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Leader. AllMusic credits: Primary Artist, Sax (Alto), Composer (S1). Composed 'Chasin' the Bird' (S2)."
+   },
+   {
+    "name": "Miles Davis",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1948-07-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "AllMusic credits: Guest Artist, Trumpet (S1)."
+   },
+   {
+    "name": "Duke Jordan",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1948-07-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [
+     "Irving \"Duke\" Jordan"
+    ],
+    "notes": "Printed as 'Irving \"Duke\" Jordan' by Losin (S6). AllMusic credits: Guest Artist, Piano (S1)."
+   },
+   {
+    "name": "Tommy Potter",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1948-07-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Credited as 'Bass' (S1, S5); recorded under the taxonomy name double bass. AllMusic credits: Bass, Guest Artist (S1)."
+   },
+   {
+    "name": "Max Roach",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1948-07-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "AllMusic credits: Drums, Guest Artist (S1)."
+   },
+   {
+    "name": "Kenny Hagood",
+    "instrument": "vocals",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": [
+     "1948-07-06"
+    ],
+    "epistemic": "unk",
+    "sources": [
+     "S3"
+    ],
+    "name_variants": [
+     "Kenny Pancho Hagood"
+    ],
+    "notes": "Listed as 'Kenny Pancho Hagood, vocal' for the Jazz Workshop JWS 501 session by jazzdisco (S3). No vocal is credited on the 1957 LP itself and its 15 issued tracks are instrumentals (S1, S2, S5), so track coverage is unknown. Conflict preserved as content: Losin lists Earl Coleman (voc) rather than Hagood for the same Onyx Club engagement on the Dean Benedetti tape (S6), and places Kenny 'Pancho' Hagood (voc) with this same quintet at the Three Deuces on March 31, 1948 (S7)."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "52nd Street Theme",
+    "track_number": 1,
+    "side": "A",
+    "duration": "2:19",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "Shaw 'Nuff",
+    "track_number": 2,
+    "side": "A",
+    "duration": "1:33",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Ray Brown",
+     "Gil Fuller",
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "Out of Nowhere",
+    "track_number": 3,
+    "side": "A",
+    "duration": "3:05",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Johnny Green",
+     "Edward Heyman"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "Hot House",
+    "track_number": 4,
+    "side": "A",
+    "duration": "2:15",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Tadd Dameron"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "This Time the Dream's on Me",
+    "track_number": 5,
+    "side": "A",
+    "duration": "2:21",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Harold Arlen",
+     "Johnny Mercer"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "A Night in Tunisia",
+    "track_number": 6,
+    "side": "A",
+    "duration": "3:29",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "My Old Flame",
+    "track_number": 7,
+    "side": "A",
+    "duration": "3:24",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Sam Coslow",
+     "Arthur Johnston"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "52nd Street Theme",
+    "track_number": 8,
+    "side": "A",
+    "duration": "1:05",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "The Way You Look Tonight",
+    "track_number": 9,
+    "side": "B",
+    "duration": "4:42",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Jerome Kern",
+     "Dorothy Fields"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "Out of Nowhere",
+    "track_number": 10,
+    "side": "B",
+    "duration": "2:35",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Johnny Green",
+     "Edward Heyman"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "Chasin' the Bird",
+    "track_number": 11,
+    "side": "B",
+    "duration": "1:47",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Charlie Parker"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "This Time the Dream's on Me",
+    "track_number": 12,
+    "side": "B",
+    "duration": "3:29",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Harold Arlen",
+     "Johnny Mercer"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "Dizzy Atmosphere",
+    "track_number": 13,
+    "side": "B",
+    "duration": "2:59",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Dizzy Gillespie"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "How High the Moon",
+    "track_number": 14,
+    "side": "B",
+    "duration": "3:38",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Nancy Hamilton",
+     "Morgan Lewis"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "title": "52nd Street Theme",
+    "track_number": 15,
+    "side": "B",
+    "duration": "1:14",
+    "session_date": "1948-07-06",
+    "composers": [
+     "Thelonious Monk"
+    ],
+    "personnel": [
+     "Charlie Parker",
+     "Miles Davis",
+     "Duke Jordan",
+     "Tommy Potter",
+     "Max Roach"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S5"
+    ]
+   }
+  ],
+  "track_assignments_complete": false,
+  "musicbrainz_release_group_mbid": "5bf07c67-53ed-3fb9-bbb1-61e8de73de18",
+  "apple_album_id": "1444030731",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/5bf07c67-53ed-3fb9-bbb1-61e8de73de18/front",
+    "is_original_cover": false,
+    "epistemic": "obs",
+    "sources": [
+     "S8",
+     "S9"
+    ],
+    "notes": "CAA front for the release group, viewed by image inspection: Original Jazz Classics reissue design — red banner with 'BIRD ON 52ND ST.', 'JWS JAZZ WORKSHOP 501' top right, 'Original jazz Classics' logo bottom right, and a performance photograph of Parker in sunglasses and light suit — NOT the 1957 Jazz Workshop LP cover (compare the second cover_art entry). Primary because it serves (CAA 307->archive.org 200); it is the OJC reissue design, not the 1957 original.",
+    "is_primary": true
+   }
+  ],
+  "notes": "One session per the album's sessionographies: Onyx Club, NYC, July 6, 1948 (S3; S2 infobox 'Recorded July 6, 1948'). Losin documents the quintet booked at the Onyx Club for six nights, July 6-11 (Tuesday-Sunday), with the surviving amateur tape covering at least four of those nights plus an afternoon rehearsal (S6); jazzdisco and Wikipedia date the JWS 501 material specifically to July 6. VENUE CONFLICT PRESERVED: Wikipedia, quoting the 1994 CD reissue liner notes, reports that the liner notes suggest the recording 'might have been recorded at the nearby Three Deuces club' (S2); the sessionographic consensus is the Onyx Club (S2 infobox, S3 'Onyx Club, NYC, July 6, 1948', S4 'recorded in performance at the Onyx, New York City, July 1948', S6). Both site_raw claims are recorded as separate recording_sites entries for the same session, both with epistemic 'unk' per the contract's conflict rule; the complete site_new (Onyx Club, 57 West 52nd Street) is attached to the sessionographic-consensus claim only. AllMusic gives only city-level 'New York, NY' (S1); the 1957 LP labels say 'Recorded in New York City, 1948' (S5). The Onyx Club of 1942-1949 stood at 57 West 52nd Street — the iteration that featured Parker; earlier Onyx Club addresses (35, 62, 72 West 52nd Street) predate this recording (S11). Coordinates geocoded from the documented address via scripts/geocode-place.py (rung 2, OSM Nominatim). TAPE-ATTRIBUTION CONFLICT PRESERVED: the 1994 CD reissue liner notes credit trombonist Jimmy Knepper with making the non-professional recording, focused on Parker's solos to conserve tape (S2); Discogs credits 'Recorded By [Uncredited] — Dean Benedetti' and 'Edited By — Jimmy Knepper' (S5); Losin identifies the July 6-11 Onyx material as a Dean Benedetti private tape (S6), on which ten of the album's performances were also issued on Fantasy OJCCD-114, the CD reissue of this album. PRODUCTION: no producer or engineer is documented in any source searched (S1-S7); explicit nulls with epistemic_production 'unk'. Production-side credits that do exist: Edited By — Jimmy Knepper; Technician [Technical Help] — Bob Guy; Recorded By [Uncredited] — Dean Benedetti; Cover — Scott Hyde and Tom Hannan (S5); Kirk Felton — Audio Restoration, Remastering for the CD era (S1). VOCALIST CONFLICT: jazzdisco lists 'Kenny Pancho Hagood, vocal' for the session (S3); the LP itself credits no vocal and its 15 grooves are instrumentals (S1, S2, S5); Losin lists Earl Coleman (voc) for the same engagement's Benedetti tape (S6) and Kenny 'Pancho' Hagood (voc) with this same quintet at the Three Deuces on March 31, 1948 (S7) — Hagood is carried as personnel with scope 'unknown' and epistemic 'unk'. SEVERAL TRACKS ARE INCOMPLETE: the taper started and stopped to capture Parker's solos (S2); the repeated tunes ('Out of Nowhere', 'This Time the Dream's on Me', '52nd Street Theme') are separate performances from the engagement, printed by jazzdisco with I/II designations (S3), not alternate takes of studio material. Titles: the 1957 LP labels print 'Theme' on the opening and closing grooves (A1/B7 per S5); '52nd Street Theme' is used per S1/S2/S3. Wikipedia's listing prints 'Dizzy at Atmosphere', a typo for 'Dizzy Atmosphere' (S3, S4, S5). COMPOSER VARIANCES RECORDED: 'Shaw 'Nuff' is printed Brown-Fuller-Gillespie (S1, S2) but credited Gillespie-Parker by Losin (S6); 'A Night in Tunisia' is credited to Gillespie (S2) with AllMusic adding Frank Paparelli (S1); 'Dizzy Atmosphere' is credited to Gillespie (S2) but Gillespie-Parker by Losin (S6, S7). Durations are from the Wikipedia track listing of the original LP (S2); AllMusic's durations differ by a few seconds (e.g. 2:17, 1:31, 3:02, 3:37) — reissue-transfer variance, not alternate takes. Wikipedia total 40:01 vs AllMusic 39:30. RELEASE: first issued December 1957 on Jazz Workshop JWS-501/JW-501, US (S2 citing Billboard December 23, 1957; S4; S5 viewed: 'Released: Dec 1957'); AllMusic dates the release 1958 (S1). Wikipedia describes the label as Charles Mingus' Jazz Workshop label (S2). Reissues: Fantasy 6011 (1964), America 30 AM 6061 (France, 1969), Fantasy/Debut VIJ-5014M/DEB-5014 (Japan, 1976), Original Jazz Classics OJC-114/OJCCD-114-2 (S3, S4). APPLE ALBUM ID: iTunes collectionId 1444030731 = 'Bird On 52nd Street (Remastered) [1948]', 15 tracks, release date 1957 — matched on artist, title, track count and the 1948/1957 dates (S10); it is the single remastered album, not a compilation or box. The 1957 JWS-501 original cover is documented at Discogs (not staged: i.discogs.com 403s to plain fetches, and the stager takes one art row): https://i.discogs.com/lWv4ZDBUMreIVtGixka7G09PBSTD03WJ9bXJ_QoZ6Rs/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUw/NjctMTUzMzA3OTA5/Ny01NjM4LmpwZWc.jpeg"
+ },
+ "ballot": {
+  "album": "Charlie Parker — Bird on 52nd Street (1948)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "consider",
+  "case_for": "This is unusually strong session-gravity evidence: Parker's 1948 working quintet with Miles Davis, Duke Jordan, Tommy Potter, and Max Roach is documented live in the 52nd Street club world, with the personnel and July 6 session supported by AllMusic, Jazz Discography Project, Discogs, and Peter Losin (S1, S3-S6). Performances of \"Shaw 'Nuff,\" \"Hot House,\" and \"A Night in Tunisia\" preserve Parker's club intensity and illuminate a formative Parker-Davis-Roach lineage, while the Jazz Workshop release adds historical interest as a musician-linked act of bebop dissemination (S2, S5).",
+  "case_against": "The album fails the discovery test for many listeners: the amateur tape is sonically degraded, several performances are truncated or incomplete, and AllMusic's Scott Yanow calls the recording sometimes nearly unlistenable and recommends it mainly to Parker completists, while Rolling Stone gives it only 2.5 stars (S1, S2). Its value is primarily documentary rather than a defining Parker statement, and the dossier provides no Penguin Guide, NPR, DownBeat, or comparable canonical-list placement for this specific release. Venue and tape-attribution conflicts further weaken its status as a definitive artifact, even though the sessionographic consensus favors the Onyx Club and the Benedetti material (S2-S6).",
+  "disagreement": "The references agree that the album is in scope and historically important but split on the verdict: Reference 1 finds the competing cases genuinely balanced and assigns contested/consider, while Reference 2 treats the poor sound, fragmented performances, and lack of canon-list recognition as decisive and assigns exclude_suggested/consider.",
+  "recommendation": "John should consider it only as an archival, session-gravity document rather than as a primary Parker introduction, with inclusion depending on how much documentary bebop evidence the canon wants to preserve.",
+  "confidence": "medium",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "eric-dolphy-at-the-five-spot-1961",
+  "artist": "Eric Dolphy",
+  "album": "At the Five Spot, Vol. 1",
+  "year": 1961,
+  "label": "New Jazz (Prestige)",
+  "style_primary": "post-bop",
+  "rationale": "A landmark live recording documenting the legendary two-week residency of the Eric Dolphy–Booker Little quintet at the Five Spot Café in July 1961. This is the canonical document of Dolphy's short-lived but musically revolutionary partnership with trumpeter Booker Little, who died three months after this session. The album is the live counterpart to Dolphy's studio work already in the canon (Out There, Out to Lunch!) and captures the full intensity of the post-bop avant-garde in a club setting. Consensus across all major traditions: Penguin Guide 4★, AllMusic 4★, DownBeat 3.5★, Rolling Stone Jazz Record Guide 5★. The rhythm section of Mal Waldron, Richard Davis, and Ed Blackwell is a post-bop dream team. Fills a critical live-Dolphy / post-bop club-date gap.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {"title": "Wikipedia — At the Five Spot", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/At_the_Five_Spot"},
+    "S2": {"title": "AllMusic — At the Five Spot, Vol. 1", "type": "review/credits", "url": "https://www.allmusic.com/album/at-the-five-spot-vol-1-mw0000187931"},
+    "S3": {"title": "iTunes Search API", "type": "identifiers", "url": "https://itunes.apple.com/search?term=Eric+Dolphy+At+the+Five+Spot&entity=album"},
+    "S4": {"title": "Cover Art Archive", "type": "cover-art", "url": "https://coverartarchive.org/release-group/eec4b521-12b2-4a8e-8748-c906f16b8a50"},
+    "S5": {"title": "MusicBrainz release group", "type": "identifiers", "url": "https://musicbrainz.org/release-group/eec4b521-12b2-4a8e-8748-c906f16b8a50"},
+    "S6": {"title": "geocode-place.py — Five Spot Café", "type": "geocoding", "url": "https://en.wikipedia.org/wiki/Five_Spot_Caf%C3%A9"}
+  },
+  "personnel_record": {
+    "recording_dates": ["1961-07-16"],
+    "multi_session": false,
+    "studio": "Five Spot Café, New York City (live)",
+    "recording_sites": [
+      {
+        "session_date": "1961-07-16",
+        "site_raw": "Five Spot Café, 5 Cooper Square, New York City",
+        "site_slug": null,
+        "site_new": {
+          "name": "Five Spot Café",
+          "city": "New York, NY",
+          "kind": "club",
+          "address": "5 Cooper Square, New York, NY",
+          "lat": 40.72723,
+          "lon": -73.99138,
+          "location_epistemic": "obs",
+          "location_source": "Wikipedia: https://en.wikipedia.org/wiki/Five_Spot_Caf%C3%A9 -- 5 Cooper Square (1956-1962) | coords: OSM Nominatim: 5 Cooper Square, New York, NY, New York, NY — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Esmond Edwards",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {"name": "Eric Dolphy", "instrument": "alto saxophone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": "Also plays bass clarinet on selected tracks (inferred from AllMusic credit 'Clarinet (Bass)'; Dolphy's bass clarinet is a known feature of his Five Spot performances)"},
+      {"name": "Booker Little", "instrument": "trumpet", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Mal Waldron", "instrument": "piano", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Richard Davis", "instrument": "double bass", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""},
+      {"name": "Ed Blackwell", "instrument": "drums", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S2"], "name_variants": [], "notes": ""}
+    ],
+    "tracks": [
+      {"title": "Fire Waltz", "track_number": 1, "side": "A", "duration": "13:40", "session_date": "1961-07-16", "composers": ["Mal Waldron"], "personnel": ["Eric Dolphy", "Booker Little", "Mal Waldron", "Richard Davis", "Ed Blackwell"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S2"]},
+      {"title": "Bee Vamp", "track_number": 2, "side": "A", "duration": "12:20", "session_date": "1961-07-16", "composers": ["Booker Little"], "personnel": ["Eric Dolphy", "Booker Little", "Mal Waldron", "Richard Davis", "Ed Blackwell"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S2"]},
+      {"title": "The Prophet", "track_number": 3, "side": "B", "duration": "21:22", "session_date": "1961-07-16", "composers": ["Eric Dolphy"], "personnel": ["Eric Dolphy", "Booker Little", "Mal Waldron", "Richard Davis", "Ed Blackwell"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S2"]}
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "eec4b521-12b2-4a8e-8748-c906f16b8a50",
+    "apple_album_id": "1443149415",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/1bc33eef-c793-41d6-bb58-5971042e6554/14360049468.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Recorded live on July 16, 1961 at the Five Spot Café, 5 Cooper Square, New York City. This was the final night of Dolphy's two-week residency and the only night recorded. The original Volume 1 LP (New Jazz 8260) contains three long tracks: Fire Waltz, Bee Vamp, and The Prophet. An alternate take of Bee Vamp appears as a bonus track on CD reissues. Booker Little died in October 1961 (uremia, age 23). Dolphy died in 1964 (diabetic shock, age 36). This recording is a central document of the 1961 post-bop avant-garde and the legendary Dolphy-Little partnership. The original cover art by Don Schlitten features a striking black-and-white image of Dolphy."
+  }
+}

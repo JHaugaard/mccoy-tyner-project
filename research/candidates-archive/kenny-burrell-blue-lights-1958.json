@@ -1,0 +1,438 @@
+{
+  "id": "kenny-burrell-blue-lights-1958",
+  "artist": "Kenny Burrell",
+  "album": "Blue Lights",
+  "year": 1958,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "One of Kenny Burrell's most celebrated Blue Note sessions, Blue Lights is a powerhouse jam-session date with a murderer's row of sidemen: Louis Smith, Tina Brooks, Junior Cook, Duke Jordan, Bobby Timmons, Sam Jones, and Art Blakey. Originally issued as two volumes (BLP 1596/1597), it captures Burrell at the peak of his early hard-bop period \u2014 a catalog of guitar blues, soul-jazz grooves, and swinging standards. The all-star cast (particularly Art Blakey's incendiary drumming) and the legendary Alfred Lion / Rudy Van Gelder production make this a defining Blue Note date of the late 1950s. AllMusic gives it 4.5\u2605, DownBeat 4\u2605. While Burrell is already in the canon via Midnight Blue, Blue Lights is his second defining statement and belongs alongside it.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Blue Lights, Vols. 1 & 2",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_Lights,_Vols._1_%26_2"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 Blue Lights, Vols. 1-2",
+      "type": "review/credits",
+      "url": "https://www.allmusic.com/album/blue-lights-vols-1-2-mw0000024842"
+    },
+    "S3": {
+      "title": "Discogs \u2014 Blue Lights, Volume 1",
+      "type": "discographic",
+      "url": "https://www.discogs.com/release/3386990-Kenny-Burrell-Blue-Lights-Volume-1"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Blue Lights release group",
+      "type": "discographic",
+      "url": "https://musicbrainz.org/release-group/ba2b65ad-c9f6-4fe9-9696-d06c59c1ce22"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 Blue Lights",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/ba2b65ad-c9f6-4fe9-9696-d06c59c1ce22"
+    },
+    "S6": {
+      "title": "Apple Music \u2014 Blue Lights, Vol. 1 & 2",
+      "type": "streaming",
+      "url": "https://music.apple.com/us/album/blue-lights-vol-1-2/724548201"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-05-14"
+    ],
+    "multi_session": false,
+    "studio": "Manhattan Towers, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1958-05-14",
+        "site_raw": "Manhattan Towers, New York City",
+        "site_slug": "manhattan-towers-hotel-ballroom",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "notes": "Single session on May 14, 1958. Originally released as two LPs: Blue Lights, Volume 1 (BLP 1596) and Blue Lights, Volume 2 (BLP 1597). Alfred Lion produced; Rudy Van Gelder recorded. Volume 1 A1-A2: full sextet with Duke Jordan piano; B1: quartet (Kenny Burrell, Bobby Timmons, Sam Jones, Art Blakey); B2: full sextet with Bobby Timmons. Volume 2 all tracks: full sextet with Bobby Timmons. Bonus track 'I Never Knew' from 1997 CD reissue not included.",
+    "personnel": [
+      {
+        "name": "Kenny Burrell",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "All 8 original tracks"
+      },
+      {
+        "name": "Louis Smith",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Yes Baby",
+          "Scotch Blues",
+          "Caravan",
+          "Rock Salt",
+          "The Man I Love",
+          "Chuckin'",
+          "Phinupi"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Autumn in New York' (Vol 1 B1 quartet track)"
+      },
+      {
+        "name": "Tina Brooks",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Yes Baby",
+          "Scotch Blues",
+          "Caravan",
+          "Rock Salt",
+          "Chuckin'",
+          "Phinupi"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Autumn in New York' and 'The Man I Love'"
+      },
+      {
+        "name": "Junior Cook",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Yes Baby",
+          "Scotch Blues",
+          "Caravan",
+          "Rock Salt",
+          "Chuckin'",
+          "Phinupi"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Autumn in New York' and 'The Man I Love'"
+      },
+      {
+        "name": "Duke Jordan",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Yes Baby",
+          "Scotch Blues"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Piano on Vol 1 sides A1-A2 only"
+      },
+      {
+        "name": "Bobby Timmons",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Autumn in New York",
+          "Caravan",
+          "Rock Salt",
+          "The Man I Love",
+          "Chuckin'",
+          "Phinupi"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Piano on Vol 1 B1-B2 and all of Vol 2"
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "All 8 original tracks"
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "All 8 original tracks"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Yes Baby",
+        "track_number": 1,
+        "side": "A",
+        "duration": "11:15",
+        "session_date": "1958-05-14",
+        "composers": [
+          "Kenny Burrell"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Louis Smith",
+          "Tina Brooks",
+          "Junior Cook",
+          "Duke Jordan",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Scotch Blues",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:00",
+        "session_date": "1958-05-14",
+        "composers": [
+          "Duke Jordan"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Louis Smith",
+          "Tina Brooks",
+          "Junior Cook",
+          "Duke Jordan",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Autumn in New York",
+        "track_number": 3,
+        "side": "B",
+        "duration": "5:44",
+        "session_date": "1958-05-14",
+        "composers": [
+          "Vernon Duke"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Caravan",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:55",
+        "session_date": "1958-05-14",
+        "composers": [
+          "Duke Ellington",
+          "Irving Mills",
+          "Juan Tizol"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Louis Smith",
+          "Tina Brooks",
+          "Junior Cook",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Rock Salt",
+        "track_number": 5,
+        "side": "C",
+        "duration": "11:19",
+        "session_date": "1958-05-14",
+        "composers": [
+          "Kenny Burrell"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Louis Smith",
+          "Tina Brooks",
+          "Junior Cook",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "The Man I Love",
+        "track_number": 6,
+        "side": "C",
+        "duration": "6:47",
+        "session_date": "1958-05-14",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Louis Smith",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1"
+        ],
+        "notes": "Wikipedia shows only Louis Smith on trumpet, no saxophones on this track"
+      },
+      {
+        "title": "Chuckin'",
+        "track_number": 7,
+        "side": "D",
+        "duration": "12:10",
+        "session_date": "1958-05-14",
+        "composers": [
+          "Sam Jones"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Louis Smith",
+          "Tina Brooks",
+          "Junior Cook",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Phinupi",
+        "track_number": 8,
+        "side": "D",
+        "duration": "9:47",
+        "session_date": "1958-05-14",
+        "composers": [
+          "Kenny Burrell"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Louis Smith",
+          "Tina Brooks",
+          "Junior Cook",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "ba2b65ad-c9f6-4fe9-9696-d06c59c1ce22",
+    "apple_album_id": "724548201",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/a46d1c3c-7184-4b75-acf9-bfd0704c8f03/36910550805.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Blue Lights, Vol. 1 front cover (Andy Warhol illustration)"
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Kenny Burrell \u2014 Blue Lights (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "Session gravity is the load-bearing signal \u2014 Burrell with Art Blakey and Sam Jones on every track, alternating Duke Jordan and Bobby Timmons piano, early Blue Note appearances by Tina Brooks, Junior Cook, and Louis Smith. Extended blowing vehicles set Burrell's blues-rooted elegance against Blakey's press rolls. Alfred Lion production, early Andy Warhol cover. AllMusic 4.5\u2605 (S2).",
+    "case_against": "Documented consensus is thin \u2014 sources are mostly discographic metadata plus one AllMusic rating. A loose head-solo-head blowing date rather than a defining statement that fixed a sound. Burrell's load-bearing statement is already Midnight Blue in the canon. Album unifies two separately-issued LPs by CD-era repackaging.",
+    "disagreement": null,
+    "recommendation": "Listen as a consider-tier session-gravity date. Council recommends supplying missing independent consensus evidence before higher tier.",
+    "confidence": "high"
+  }
+}

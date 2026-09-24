@@ -1,0 +1,345 @@
+{
+  "id": "lee-morgan-cornbread-1965",
+  "artist": "Lee Morgan",
+  "album": "Cornbread",
+  "year": 1965,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "soul-jazz"
+  ],
+  "rationale": "A classic Blue Note hard-bop date from Lee Morgan's peak period, featuring a sextet of Hancock, Mobley, McLean, Ridley, and Higgins. Though somewhat overshadowed by The Sidewinder's commercial success, Cornbread demonstrates Morgan's maturation as a composer \u2014 the track 'Ceora' has entered the jazz standard repertoire. Consensus across AllMusic (5 stars), Penguin Guide (3 stars), Rolling Stone Jazz Record Guide (5 stars), and DownBeat (3.5 stars). One of Morgan's strongest post-Sidewinder sessions, showcasing his formidable trumpet work and increasingly sophisticated writing.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Cornbread (album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Cornbread_(album)"
+    },
+    "S2": {
+      "title": "JazzDiscography \u2014 Lee Morgan sessionography",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/lee-morgan/discography/"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Cornbread",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Lee+Morgan+Cornbread&entity=album&limit=3"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Release Group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/bf89022d-c58d-3caf-96d9-423be81c7be3"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/bf89022d-c58d-3caf-96d9-423be81c7be3"
+    },
+    "S6": {
+      "title": "AllMusic \u2014 Cornbread",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/cornbread-mw0000198805"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-09-17",
+      "1965-09-18"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1965-09-17",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1965-09-18",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-09-17",
+          "1965-09-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader, composer of all tracks except 'Ill Wind'"
+      },
+      {
+        "name": "Jackie McLean",
+        "instrument": "alto saxophone",
+        "scope": "specific-tracks",
+        "tracks": [
+          "Our Man Higgins",
+          "Most Like Lee",
+          "Ill Wind"
+        ],
+        "session_dates": [
+          "1965-09-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Plays on tracks 2-4 of the Sep 18 session (Our Man Higgins, Most Like Lee, Ill Wind) per S2; not on Ceora or Cornbread"
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-09-17",
+          "1965-09-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-09-17",
+          "1965-09-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Larry Ridley",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-09-17",
+          "1965-09-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-09-17",
+          "1965-09-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Cornbread",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:03",
+        "session_date": "1965-09-18",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Hank Mobley",
+          "Herbie Hancock",
+          "Larry Ridley",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Our Man Higgins",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:54",
+        "session_date": "1965-09-18",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Jackie McLean",
+          "Hank Mobley",
+          "Herbie Hancock",
+          "Larry Ridley",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ceora",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:23",
+        "session_date": "1965-09-18",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Hank Mobley",
+          "Herbie Hancock",
+          "Larry Ridley",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ill Wind",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:59",
+        "session_date": "1965-09-18",
+        "composers": [
+          "Harold Arlen",
+          "Ted Koehler"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Jackie McLean",
+          "Hank Mobley",
+          "Herbie Hancock",
+          "Larry Ridley",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Most Like Lee",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:49",
+        "session_date": "1965-09-18",
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Jackie McLean",
+          "Hank Mobley",
+          "Herbie Hancock",
+          "Larry Ridley",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "bf89022d-c58d-3caf-96d9-423be81c7be3",
+    "apple_album_id": 1440954105,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/f12c78de-91ec-4c4b-9e85-7ffddef7cdaa/15728141783.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive image for the original mono release (BLP 4222); original 1965 Blue Note front cover"
+      }
+    ],
+    "notes": "Recorded over two consecutive days at Van Gelder Studio, Englewood Cliffs. The Sep 17 session produced rejected takes of Most Like Lee, Ceora, and Our Man Higgins; the Sep 18 session produced the released masters. Jackie McLean is not on 'Ceora' or 'Cornbread' (plays alto sax on tracks 2, 3, 4 of the Sep 18 session per S2). AllMusic lists recording location as New York, NY but both jazzdisco and Wikipedia identify Van Gelder Studio, Englewood Cliffs, NJ. Album released Jan 1967 on Blue Note (BLP 4222 mono / BST 84222 stereo). 'Ceora' has become a widely recorded jazz standard."
+  },
+  "ballot": {
+    "album": "Lee Morgan \u2014 Cornbread (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Cornbread is a deeply playable mid-1960s hard-bop document with substantial session gravity: Morgan is joined by Herbie Hancock, Hank Mobley, Billy Higgins, Larry Ridley, and, on three tracks, Jackie McLean, in a Blue Note/Alfred Lion/Rudy Van Gelder setting (S1, S2). Its strongest lineage claim is \"Ceora,\" a Morgan composition that has become a widely recorded jazz standard, while the title track and other originals offer an accessible but sophisticated entry to the period's hard-bop language. The dossier reports strong critical support from AllMusic (5 stars), the Rolling Stone Jazz Record Guide (5 stars), DownBeat (3.5 stars), and Penguin (3 stars), though several of those ratings are not directly linked in the source block.",
+    "case_against": "The album is an excellent consolidation date rather than an unmistakable defining statement: its funky title track partly revisits the formula of The Sidewinder, while Search for the New Land or The Sidewinder has the stronger claim to represent Morgan's artistic peak or public breakthrough. Penguin's three-star assessment and DownBeat's 3.5 suggest recommendation rather than unambiguous core status, and the album's delayed 1967 release weakens its claim as an immediate 1965 landmark. Its apparent sextet prestige also needs qualification because McLean appears on only three of the five tracks, and the dossier's consensus evidence is thinner than its rationale implies since the guide citations lack direct verification.",
+    "disagreement": "The references agree that the album is in scope, highly playable, and a strong candidate, but they split on tier: Reference 1 judges the weaker defining-statement signal and modest Penguin rating sufficient for contested status, while Reference 2 treats \"Ceora,\" the elite personnel, and reported critical reception as overwhelming enough for consensus_core.",
+    "recommendation": "John should treat Cornbread as a strong but contested candidate, weighing its durable standard and exceptional session against its second-tier position within Morgan's catalog and the imperfectly documented consensus.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

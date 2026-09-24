@@ -1,0 +1,160 @@
+{
+  "id": "mccoy-tyner-trident-1975",
+  "artist": "McCoy Tyner",
+  "album": "Trident",
+  "year": 1975,
+  "label": "Milestone",
+  "catalog_number": "MSP 9063",
+  "style_primary": "modal-jazz",
+  "rationale": "McCoy Tyner's first full-length trio album since 1964, Trident reunites Tyner with his former Coltrane bandmate Elvin Jones (drums) and Ron Carter (bass) — one of the great rhythm sections in jazz. The album is notable for Tyner's unusual use of harpsichord (tracks 1, 4) and celeste (tracks 2, 4) alongside his piano, adding textural variety to an already powerful trio. The set includes three Tyner originals (\"Celestial Chant,\" \"Elvin (Sir) Jones,\" \"Land of the Lonely\"), plus Jobim's \"Once I Loved,\" Coltrane's \"Impressions,\" and Monk's \"Ruby, My Dear.\" AllMusic gives 4.5 stars (Scott Yanow: \"Tyner in peak form\"), Rolling Stone Jazz Record Guide 5 stars. Recorded February 18–19, 1975 at Fantasy Studios, Berkeley. This is a 1973+ arrival judged on continuity: the album is clearly continuous with Tyner's 1960s modal tradition — trio setting, acoustic focus, modal-harmonic vocabulary — and does not drift into fusion or jazz-rock. Leans contested/scope_call due to 1975 recording date, but the case-for is strong.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Trident (McCoy Tyner album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Trident_(McCoy_Tyner_album)"
+    },
+    "S2": {
+      "title": "AllMusic — Trident",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/trident-mw0000087793"
+    },
+    "S3": {
+      "title": "Discogs — McCoy Tyner – Trident (master 177606)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/177606-McCoy-Tyner-Trident"
+    },
+    "S4": {
+      "title": "MusicBrainz Release Group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/e7e52b61-1fcf-3456-9fef-d945c38d50e6"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "art",
+      "url": "https://coverartarchive.org/release-group/e7e52b61-1fcf-3456-9fef-d945c38d50e6"
+    },
+    "S6": {
+      "title": "iTunes Search API",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=McCoy+Tyner+Trident+1975&entity=album&limit=5"
+    },
+    "S7": {
+      "title": "SFGate — Fantasy Studios",
+      "type": "reference",
+      "url": "https://www.sfgate.com/bayarea/article/Berkeley-s-famed-Fantasy-Studios-set-to-close-13117196.php"
+    }
+  },
+  "apple_album_id": 1442917393,
+  "musicbrainz_release_group_mbid": "e7e52b61-1fcf-3456-9fef-d945c38d50e6",
+  "art_url": "https://coverartarchive.org/release/8970c45f-120e-48f3-9e23-6548cec15032/31110803366.jpg",
+  "personnel_record": {
+    "recording_date": "1975-02-18 to 1975-02-19",
+    "studio": "Fantasy Studios",
+    "recording_sites": [
+      {
+        "session_date": "1975-02-18",
+        "site_raw": "Fantasy Studios, Berkeley, California",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fantasy Studios",
+          "city": "Berkeley, CA",
+          "kind": "studio",
+          "address": "2600 Tenth Street, Berkeley, CA 94710",
+          "lat": 37.85897,
+          "lon": -122.29027,
+          "location_epistemic": "obs",
+          "location_source": "https://www.sfgate.com/bayarea/article/Berkeley-s-famed-Fantasy-Studios-set-to-close-13117196.php | coords: OSM Nominatim: 2600 Tenth Street, Berkeley, CA 94710, Berkeley, CA — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1975-02-19",
+        "site_raw": "Fantasy Studios, Berkeley, California",
+        "site_slug": "fantasy-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Jim Stern",
+    "personnel": [
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": ["S1", "S3"],
+        "notes": "Also plays harpsichord (tracks 1, 4) and celeste (tracks 2, 4)"
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "bass",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": ["S1", "S3"]
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "tracks": "all",
+        "epistemic": "obs",
+        "sources": ["S1", "S3"]
+      }
+    ],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Celestial Chant",
+        "duration": "7:00",
+        "composers": ["McCoy Tyner"],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 2,
+        "title": "Once I Loved (O Amor em Paz)",
+        "duration": "7:53",
+        "composers": ["Antonio Carlos Jobim", "Vinícius de Moraes", "Ray Gilbert"],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 3,
+        "title": "Elvin (Sir) Jones",
+        "duration": "5:27",
+        "composers": ["McCoy Tyner"],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 4,
+        "title": "Land of the Lonely",
+        "duration": "7:33",
+        "composers": ["McCoy Tyner"],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 5,
+        "title": "Impressions",
+        "duration": "5:03",
+        "composers": ["John Coltrane"],
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "position": 6,
+        "title": "Ruby, My Dear",
+        "duration": "7:51",
+        "composers": ["Thelonious Monk"],
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "notes": "This is Tyner's first trio-only album since his Impulse! trio records (1962-1964). The harpsichord and celeste parts are unusual instrumentation choices — Tyner plays harpsichord on 'Celestial Chant' and 'Land of the Lonely,' and celeste on 'Once I Loved' and 'Land of the Lonely.' The album was recorded over two days at Fantasy Studios in Berkeley, then the Milestone/Fantasy house studio. Orrin Keepnews produced. Jim Stern engineered (per Discogs S3). Discogs gives slightly different track lengths: 6:57, 7:52, 5:25, 7:31, 5:01, 7:50 — differences are trivial (rounding/edition). Wikipedia's track times used above as primary source. May not have original Japanese obi cover in Apple catalog; art URL from Cover Art Archive shows front image with obi — the original front cover without obi is also available."
+  }
+}

@@ -1,0 +1,330 @@
+{
+ "id": "keith-jarrett-standards-vol-1-1983",
+ "artist": "Keith Jarrett",
+ "album": "Standards, Vol. 1",
+ "year": 1983,
+ "label": "ECM",
+ "catalog_number": "ECM 1255",
+ "style_primary": "post-bop",
+ "style_tags": [
+  "post-bop",
+  "ecm"
+ ],
+ "rationale": "obs[S4]: ECM 1255, recorded January 1983 at Power Station, New York, original release 1 September 1983 (S4, S7). obs[S2]: the first release by the Jarrett-Peacock-DeJohnette 'Standards Trio', convened at producer Manfred Eicher's suggestion; the three had first recorded together on Gary Peacock's Tales of Another (ECM, 1977), declined to rehearse or pre-plan the playlist, and the trio ran for 25 years, during which Salon called it 'the preeminent jazz group interpreting standards'. obs[S1]: AllMusic styles the album Post-Bop, Standards, Jazz Instrument and Piano Jazz; Scott Yanow's review notes the January 1983 collaboration produced three albums and describes close listening among the three players. obs[S2]: reception splits along the fault line this module names — AllMusic 4/5 and Penguin Guide 3.5 stars (the Guide's standing ECM sympathy noted) against Steve Futterman's 2/5 Rolling Stone pan ('merely...competent'), a contemporary American coolness preserved here as content; the album reached No. 14 on Billboard's Jazz Albums chart, and Ian Carr credits the volumes with 'fresh ways of approaching the classic jazz repertoire'. inf: no source in this pass documents placement on a major published canon list; the case rests on the trio's subsequent primacy, the repertoire continuity, and later critical standing rather than on documented 1980s canon-list placement.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "Keith Jarrett Trio: Standards, Vol. 1 — AllMusic album page (styles, recording date/location, review, per-track performer credits)",
+   "type": "overview",
+   "url": "https://www.allmusic.com/album/standards-vol-1-mw0000188229"
+  },
+  "S2": {
+   "title": "Standards, Vol. 1 — Wikipedia album article (dates, studio, personnel, production, reception)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Standards,_Vol._1"
+  },
+  "S3": {
+   "title": "Keith Jarrett Catalog — JazzDiscography.com sessionography (ECM 1255 entry: personnel, The Power Station NYC, January 1983, tracks, same-session Changes)",
+   "type": "sessionography",
+   "url": "https://jazzdisco.org/keith-jarrett/catalog/"
+  },
+  "S4": {
+   "title": "Standards, Vol. 1 — ECM Records official catalogue page (ECM 1255: featured artists with instruments, recording date/venue, original release date 01.09.1983)",
+   "type": "label-catalogue",
+   "url": "https://ecmrecords.com/product/standards-vol-1-keith-jarrett-gary-peacock-jack-dejohnette/",
+   "notes": "House source — authoritative on credits and catalogue facts, never independent on merit (per config/style-research/ecm.md)."
+  },
+  "S5": {
+   "title": "Keith Jarrett, Gary Peacock, Jack DeJohnette – Standards, Vol. 1 — Discogs master + original 1983 LP release ECM 1255 / 811 966-1 (sides, durations, credits, sleeve credit line, publishers)",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/299956-Keith-Jarrett-Gary-Peacock-Jack-DeJohnette-Standards-Vol-1"
+  },
+  "S6": {
+   "title": "Standards, Vol. 1 by Keith Jarrett, Gary Peacock, Jack DeJohnette — MusicBrainz release group (ws/2 JSON)",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/794ec2de-07e4-3773-84c2-9d807678746f"
+  },
+  "S7": {
+   "title": "iTunes Search API — Keith Jarrett Standards Vol. 1 album results (collectionId 1440839750, ℗ 1983 ECM Records GmbH)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Keith+Jarrett+Standards+Vol.+1&entity=album&limit=5"
+  },
+  "S8": {
+   "title": "Cover Art Archive — MusicBrainz release group 794ec2de-07e4-3773-84c2-9d807678746f (approved front image for the 1983 ECM LP)",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/794ec2de-07e4-3773-84c2-9d807678746f"
+  }
+ },
+ "continuity_case": "This record extends the canon's 1960s lineage forward by the most direct route available to a 1983 album: it takes the Great American Songbook repertoire the canon's 1950s-60s core is built on and plays it through the interactive, open-form improvisation its personnel built in the post-Coltrane avant-garde — DeJohnette out of Miles Davis's second great quintet and the Directions/New Directions bands, Peacock out of Paul Bley and Albert Ayler's groups, Jarrett out of the last Coltrane quartet and Miles's electric bands. The format itself is the Bill Evans Trio format — acoustic piano, double bass, drums, song-form heads — with post-Coleman length and rubato freedom ('All the Things You Are' at 7:45, 'God Bless the Child' at 15:30). AllMusic's own style classification is Post-Bop. The case does not depend on the label: an acoustic piano-trio standards record with this personnel would argue identically on Impulse! or Columbia — arguably more so, since the standards book is the most traditional material in the entire ECM catalogue.",
+ "overlap_risk": "modal — late-modal ECM (weak seam here: this is a standards-repertoire post-bop record, not late-modal material like the solo concerts or the European Quartet; the dispatch-level ledger/dedup check for this candidate already returned clean)",
+ "scope_flag": "ECM gate — recorded January 1983 and released 1 September 1983, outside this module's original 1969-1979 ceiling (a deliberate small step set 2026-07-28) but inside the current 1945-1985 eligibility window, which the dispatch confirms this candidate already passed. Strongest case against: the record's innovation is curatorial rather than formal — a return to standards in an early-1980s scene that had moved on — executed in the house sound; contemporary American reception was genuinely divided (Rolling Stone 2/5, 'merely...competent'), and much of the case rests on the trio's subsequent 25-year primacy rather than on this record standing alone. The case for it is that this is the founding document of that primacy.",
+ "include": null,
+ "personnel_record": {
+  "recording_dates": [
+   "1983-01-11",
+   "1983-01-12"
+  ],
+  "multi_session": true,
+  "studio": "Power Station, New York City",
+  "recording_sites": [
+   {
+    "session_date": "1983-01-11",
+    "site_raw": "Power Station, New York City",
+    "site_slug": null,
+    "site_new": {
+     "name": "Power Station",
+     "city": "New York, NY",
+     "kind": "studio",
+     "address": "441 West 53rd Street",
+     "lat": 40.76639,
+     "lon": -73.98944,
+     "location_epistemic": "obs",
+     "location_source": "https://en.wikipedia.org/wiki/Power_Station_(recording_studio) | coords: https://en.wikipedia.org/wiki/Power_Station_%28recording_studio%29"
+    },
+    "epistemic": "obs",
+    "source": "S2"
+   },
+   {
+    "session_date": "1983-01-12",
+    "site_raw": "Power Station, New York City",
+    "site_slug": null,
+    "site_new": {
+     "name": "Power Station",
+     "city": "New York, NY",
+     "kind": "studio",
+     "address": "441 West 53rd Street",
+     "lat": 40.76639,
+     "lon": -73.98944,
+     "location_epistemic": "obs",
+     "location_source": "https://en.wikipedia.org/wiki/Power_Station_(recording_studio) | coords: https://en.wikipedia.org/wiki/Power_Station_%28recording_studio%29"
+    },
+    "epistemic": "obs",
+    "source": "S2"
+   }
+  ],
+  "producer": "Manfred Eicher",
+  "engineer": "Jan Erik Kongshaug",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Keith Jarrett",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Leader. The album is the first release of the long-running 'Standards Trio' (S2, S4). The group is billed variously as 'Keith Jarrett, Gary Peacock, Jack DeJohnette' (S4, S5, S6), 'Keith Jarrett Trio' (S1), and 'Keith Jarrett, Gary Peacock & Jack DeJohnette' (S7)."
+   },
+   {
+    "name": "Gary Peacock",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Double bass (ECM prints 'Double-Bass', S4; jazzdisco prints 'bass', S3). The trio had first recorded together on Peacock's leader date Tales of Another (ECM, 1977) (S2)."
+   },
+   {
+    "name": "Jack DeJohnette",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Meaning of the Blues",
+    "track_number": 1,
+    "side": "A",
+    "duration": "9:22",
+    "session_date": null,
+    "composers": [
+     "Bobby Troup",
+     "Leah Worth"
+    ],
+    "personnel": [
+     "Keith Jarrett",
+     "Gary Peacock",
+     "Jack DeJohnette"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "title": "All the Things You Are",
+    "track_number": 2,
+    "side": "A",
+    "duration": "7:45",
+    "session_date": null,
+    "composers": [
+     "Jerome Kern",
+     "Oscar Hammerstein II"
+    ],
+    "personnel": [
+     "Keith Jarrett",
+     "Gary Peacock",
+     "Jack DeJohnette"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "title": "It Never Entered My Mind",
+    "track_number": 3,
+    "side": "A",
+    "duration": "6:42",
+    "session_date": null,
+    "composers": [
+     "Richard Rodgers",
+     "Lorenz Hart"
+    ],
+    "personnel": [
+     "Keith Jarrett",
+     "Gary Peacock",
+     "Jack DeJohnette"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "title": "The Masquerade Is Over",
+    "track_number": 4,
+    "side": "B",
+    "duration": "5:57",
+    "session_date": null,
+    "composers": [
+     "Allie Wrubel",
+     "Herb Magidson"
+    ],
+    "personnel": [
+     "Keith Jarrett",
+     "Gary Peacock",
+     "Jack DeJohnette"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "title": "God Bless the Child",
+    "track_number": 5,
+    "side": "B",
+    "duration": "15:30",
+    "session_date": null,
+    "composers": [
+     "Arthur Herzog Jr.",
+     "Billie Holiday"
+    ],
+    "personnel": [
+     "Keith Jarrett",
+     "Gary Peacock",
+     "Jack DeJohnette"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4",
+     "S5"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "794ec2de-07e4-3773-84c2-9d807678746f",
+  "apple_album_id": "1440839750",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/794ec2de-07e4-3773-84c2-9d807678746f/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "sources": [
+     "S8"
+    ],
+    "notes": "Approved front image in the Cover Art Archive, attached to MusicBrainz release 692da41e-008a-4752-9b04-a82c0feec396 — the 1983 German ECM LP (ECM 1255 / 811 966-1) (S8, S6)."
+   }
+  ],
+  "notes": "Recorded over two days, January 11-12, 1983, at Power Station, New York City (S2 infobox; venue and month corroborated by the sessionography S3, the label page S4, and the original LP sleeve credit line 'Recorded January 1983 at Power Station, New York City' transcribed at S5). Conflict recorded: Wikipedia's Background section describes a '2½ day session' while its infobox gives the two dates January 11-12; the infobox dates are used here. No source assigns individual tracks to specific days, so every track entry carries session_date null and every musician's session_dates null — per-day personnel presence is genuinely undistinguished. The same sessions produced Changes (ECM 1276, 1984) and Standards, Vol. 2 (ECM 1289, 1985): 'same session' per S3, stated directly by S2; collected in 2008 as Setting Standards: New York Sessions, ECM 2030-2/32 (S3). Durations follow the original LP (S4, S5): 9:22/7:45/6:42/5:57/15:30, total 45:16. Wikipedia and AllMusic print slightly longer timings (9:26/7:47/6:48/6:01/15:32, total 45:33) — reissue/transfer variation, not alternate takes. Track titles follow the ECM/Discogs printed forms in title case; the original labels capitalize differently ('Meaning Of The Blues') and the sessionography adds a leading article ('The Meaning Of The Blues', S3). Personnel is exactly three musicians — an intimate piano-trio record, not a failed extraction. Production: Manfred Eicher producer; Jan Erik Kongshaug engineer (recording); Barbara Wojirsch cover design (S2, S5); Eicher's near-constant presence across the catalogue noted per the style module. Publishing on the original LP: A1 Northern Music; A2 T.B. Harms; A3 Chappell & Co.; B1 Allison/Magidson/Chappell; B2 E.B. Marks (BMI) (S5). Catalogue numbers: ECM 1255 / 811 966-1 (Germany), 23793-1 (US), 25MJ 3288 (Japan) (S5). The iTunes digital (collectionId 1440839750, releaseDate 1983-09-01) reports 6 tracks against the original 5 — unexplained by any source consulted, recorded as a discrepancy (S7). Power Station operated under that name 1977-1996 (later Avatar Studios, now Power Station at BerkleeNYC, same building) so the site_new pin is the historical room; the place is absent from the canonical places.json and is proposed complete, coordinates from scripts/geocode-place.py rung 1 (Wikidata/Wikipedia P625, obs). No digitized original liner notes were located in this pass; the transcribed sleeve credit line (S5) is the liner-level evidence for venue and date. AllMusic's 4/5 rating is observed via Wikipedia's reception table (S2) — the AllMusic page's rating widget did not render a numeric value in extraction."
+ },
+ "ballot": {
+  "album": "Keith Jarrett — Standards, Vol. 1 (1983)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": "Recorded and released in 1983, it falls within the 1945–1985 window but sits in the rubric's doubly cautious 1980–1985 tail and the 1980s ECM gate; its acoustic post-bop continuity must therefore be demonstrated rather than assumed."
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "This is the founding document of the Jarrett–Peacock–DeJohnette Standards Trio, whose 25-year run and later reputation as a preeminent standards-interpreting group give the session substantial defining-statement and session-gravity weight (S2, S4). Its acoustic piano-trio format, Great American Songbook repertoire, and open interaction connect the Bill Evans and Paul Bley traditions to musicians shaped by Miles Davis's late groups and the post-Coltrane avant-garde; AllMusic classifies it as post-bop, and the 15:30 treatment of 'God Bless the Child' demonstrates that continuity (S1, S2). The album also has meaningful, if not overwhelming, reception evidence: AllMusic 4/5, Penguin Guide 3.5 stars, Billboard Jazz Albums No. 14, and Ian Carr's praise for the trio's approach (S2).",
+  "case_against": "The dossier documents no placement on a major published canon list, while the Penguin rating is below core status and contemporary reception included Rolling Stone's 2/5 judgment that the record was merely 'competent' (S2). Its principal innovation is curatorial and interpretive rather than a demonstrable formal breakthrough, and the case leans heavily on the trio's subsequent 25-year primacy rather than proving that this particular debut is its definitive statement. Because the January 1983 sessions were divided among three releases and later live recordings may represent the trio more decisively, this studio volume can reasonably be viewed as foundational but transitional, with limited marginal necessity in an already Jarrett- and ECM-aware canon.",
+  "disagreement": null,
+  "recommendation": "The council proposes that John give this a strong consideration while preserving its contested status and judging it against the canon's existing Jarrett/ECM holdings.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

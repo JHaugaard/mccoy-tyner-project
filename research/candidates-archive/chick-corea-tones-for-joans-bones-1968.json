@@ -1,0 +1,266 @@
+{
+  "id": "chick-corea-tones-for-joans-bones-1968",
+  "artist": "Chick Corea",
+  "album": "Tones for Joan's Bones",
+  "year": 1968,
+  "label": "Vortex (Atlantic)",
+  "style_primary": "hard-bop",
+  "rationale": "Chick Corea's debut as a leader is a blazing advanced hard-bop set that announced one of the defining pianists of the post-bop era. The Penguin Guide to Jazz awards it 4 stars, AllMusic 4.5 stars, and DownBeat's Harvey Pekar gave it 4.5 stars calling it 'a splendid record.' The quintet of Corea, Woody Shaw, Joe Farrell, Steve Swallow, and Joe Chambers represents a generational crossroads \u2014 Corea's sidemen from the Willie Bobo and Mongo Santamaria bands stepping out together. The title track became a jazz classic and 'Litha' was later recorded by Stan Getz. Strong consensus: Penguin Guide core collection, AllMusic indispensable, DownBeat 4.5 stars. Inside the 1940-1979 scope window, clearly post-bop/hard-bop with no fusion elements yet audible.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia - Tones for Joan's Bones",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Tones_for_Joan%27s_Bones"
+    },
+    "S2": {
+      "title": "Discogs - Chick Corea \u2013 Tones For Joan's Bones",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/123542-Chick-Corea-Tones-For-Joans-Bones"
+    },
+    "S3": {
+      "title": "iTunes Search API - Tones for Joan's Bones",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Chick+Corea+Tones+for+Joans+Bones&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive - Tones for Joan's Bones",
+      "type": "cover_art",
+      "url": "https://coverartarchive.org/release-group/ccb4bf21-40ef-3e6e-a923-2c9267076bd5"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1966-11-30",
+      "1966-12-01"
+    ],
+    "multi_session": true,
+    "studio": "Atlantic Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1966-11-30",
+        "site_raw": "Atlantic Recording Studios, New York, NY",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1966-12-01",
+        "site_raw": "Atlantic Recording Studios, New York, NY",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Herbie Mann",
+    "engineer": "Phil Iehle",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Chick Corea",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "leader, composer of 3 of 4 tracks"
+      },
+      {
+        "name": "Woody Shaw",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Farrell",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Steve Swallow",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Chambers",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Litha",
+        "track_number": 1,
+        "side": "A",
+        "duration": "13:33",
+        "session_date": null,
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Woody Shaw",
+          "Joe Farrell",
+          "Steve Swallow",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "This Is New",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:37",
+        "session_date": null,
+        "composers": [
+          "Kurt Weill",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Woody Shaw",
+          "Joe Farrell",
+          "Steve Swallow",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Tones for Joan's Bones",
+        "track_number": 3,
+        "side": "B",
+        "duration": "6:07",
+        "session_date": null,
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Woody Shaw",
+          "Joe Farrell",
+          "Steve Swallow",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Straight Up and Down",
+        "track_number": 4,
+        "side": "B",
+        "duration": "12:22",
+        "session_date": null,
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Woody Shaw",
+          "Joe Farrell",
+          "Steve Swallow",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "ccb4bf21-40ef-3e6e-a923-2c9267076bd5",
+    "apple_album_id": "56217610",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/a0d206f5-6852-487f-a5c2-46462c74233f/26637095051.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Recorded November 30 & December 1, 1966 at Atlantic Studios, New York City. Released April 20, 1968 on Vortex Records (Atlantic subsidiary). Two sessions: specific track-to-date assignments not available from sources. Standard quintet throughout; no per-track personnel changes. Produced by Herbie Mann; engineered by Phil Iehle."
+  },
+  "ballot": {
+    "album": "Chick Corea \u2014 Tones for Joan's Bones (1968)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Major late-1960s acoustic post-bop session and striking leader debut, pairing Corea with Woody Shaw, Joe Farrell, Steve Swallow, and Joe Chambers\u2014a genuinely load-bearing personnel network. Strong critical support from Penguin Guide, AllMusic, and DownBeat.",
+    "case_against": "Eclipsed by Corea's near-contemporary Now He Sings, Now He Sobs, more widely treated as his definitive acoustic statement. Vortex release carried less label weight than Blue Note/Prestige dates. Crowded late-1960s post-bop field.",
+    "disagreement": "Both references reach the same contested/strong verdict but conflict over the Stan Getz \"Litha\" lineage (Captain Marvel vs. Sweet Rain).",
+    "recommendation": "Keep as a strong, contested candidate; weigh against Now He Sings, Now He Sobs.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "minimax/minimax-m3",
+        "google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "id": "count-basie-the-atomic-mr-basie-1958",
+  "artist": "Count Basie",
+  "album": "The Atomic Mr. Basie",
+  "year": 1958,
+  "label": "Roulette",
+  "style_primary": "post-bop",
+  "rationale": "The defining statement of the postwar Count Basie Orchestra \u2014 the 1957 Neal Hefti book that relaunched the band on Roulette and fixed its late-'50s sound. Consensus across independent traditions: 1001 Albums You Must Hear Before You Die; Colin Larkin's All Time Top 1000 Albums (#411); Grammy Best Jazz Performance Group AND Best Performance by a Dance Band at the 1st Annual Grammys; Penguin Guide 4 stars; AllMusic 5 stars (Eder: 'a bold, forward-looking statement within the context of a big-band recording'). Lineage: the same Basie/Hefti/Reig unit immediately cut Basie Plays Hefti, and 'Li'l Darlin'' became a big-band standard. Big-band era representative alongside the Ellington and Kenton records already in the canon. Style tagged post-bop following the Ellington big-band precedent (no swing/big-band code exists in the style table); the boundary is the late-50s big band at the edge of the post-bebop tradition.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 The Atomic Mr. Basie",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Atomic_Mr._Basie"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 The Atomic Mr. Basie (album + credits)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-atomic-mr-basie-mw0000872603"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Count Basie Atomic Mr Basie",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Count+Basie+Atomic+Mr+Basie&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz release group \u2014 The Atomic Mr. Basie",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/1b464368-017c-3aba-8a2d-437bcf43b5d0"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 The Atomic Mr. Basie (release-group 20e6552b)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/20e6552b-6988-40e6-b07d-84a8406c87c9"
+    },
+    "S6": {
+      "title": "Discogs \u2014 Basie = E=MC\u00b2 / The Atomic Mr. Basie (release 1207884)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/1207884"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-10-21",
+      "1957-10-22"
+    ],
+    "multi_session": true,
+    "studio": "Capitol Studios, 151 West 46th Street, New York",
+    "recording_sites": [
+      {
+        "session_date": "1957-10-21",
+        "site_raw": "Capitol Studios (Studio A, Eaves Building), 151 West 46th Street, New York",
+        "site_slug": "capitol-studios-151-west-46th-street",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1957-10-22",
+        "site_raw": "Capitol Studios (Studio A, Eaves Building), 151 West 46th Street, New York",
+        "site_slug": "capitol-studios-151-west-46th-street",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Teddy Reig",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Count Basie",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader"
+      },
+      {
+        "name": "Wendell Culley",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Snooky Young",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Thad Jones",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Newman",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Henry Coker",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Al Grey",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Benny Powell",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Marshal Royal",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Marshall Royal"
+        ],
+        "notes": "AllMusic lists Marshall Royal (clarinet, alto); Wikipedia lists Marshal Royal reeds"
+      },
+      {
+        "name": "Frank Wess",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also flute, alto (AllMusic credits)"
+      },
+      {
+        "name": "Frank Foster",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also arranger credit in AllMusic"
+      },
+      {
+        "name": "Eddie \"Lockjaw\" Davis",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Eddie Lockjaw Davis"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Fowlkes",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Charles Fowlkes"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Freddie Green",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eddie Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Ed Jones"
+        ],
+        "notes": "AllMusic credits both 'Ed Jones' and 'Eddie Jones' bass \u2014 same person"
+      },
+      {
+        "name": "Sonny Payne",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Kid from Red Bank",
+        "track_number": 1,
+        "side": null,
+        "duration": "2:38",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Duet",
+        "track_number": 2,
+        "side": null,
+        "duration": "4:10",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "After Supper",
+        "track_number": 3,
+        "side": null,
+        "duration": "3:22",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Flight of the Foo Birds",
+        "track_number": 4,
+        "side": null,
+        "duration": "3:21",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Double-O",
+        "track_number": 5,
+        "side": null,
+        "duration": "2:45",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Teddy the Toad",
+        "track_number": 6,
+        "side": null,
+        "duration": "3:40",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Whirlybird",
+        "track_number": 7,
+        "side": null,
+        "duration": "3:46",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Midnite Blue",
+        "track_number": 8,
+        "side": null,
+        "duration": "4:25",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Splanky",
+        "track_number": 9,
+        "side": null,
+        "duration": "3:35",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Fantail",
+        "track_number": 10,
+        "side": null,
+        "duration": "2:50",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Li'l Darlin'",
+        "track_number": 11,
+        "side": null,
+        "duration": "4:47",
+        "session_date": "1957-10-21/1957-10-22",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Snooky Young",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Eddie \"Lockjaw\" Davis",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "1b464368-017c-3aba-8a2d-437bcf43b5d0",
+    "apple_album_id": "691483986",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/72a63b67-f00d-44e4-b19e-b723aa59233b/42507979529.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover via Cover Art Archive release-group 20e6552b-6988-40e6-b07d-84a8406c87c9 (The Complete Atomic Basie release family)"
+      }
+    ],
+    "notes": "Two-day session (Oct 21-22, 1957) at Capitol Studios New York \u2014 Studio A, Eaves Building, 151 West 46th Street. All 11 tracks on the original 1958 release are Neal Hefti compositions/arrangements. Reissue (The Complete Atomic Basie, 1994) adds Jimmy Mundy arrangements (Silks and Satins, Sleepwalker's Serenade) and The Late Late Show incl. Joe Williams vocal \u2014 reissue-only, excluded here. Engineer not credited in the sources consulted (Capitol house engineer, undocumented) \u2014 null. AllMusic credits list 'Jo Jones' nowhere but list Billy Mitchell (tenor) \u2014 Mitchell not in Wikipedia's personnel; treated as unverified/unknown presence, excluded from personnel array (AllMusic may aggregate band personnel across the Roulette era). Track sides per 1958 LP; 'Whirlybird' written 'Whirly-Bird' in AllMusic. Arranger Neal Hefti (all 11 tracks) is a production credit, not a performing musician; kept out of the personnel array."
+  },
+  "ballot": {
+    "album": "Count Basie \u2014 The Atomic Mr. Basie (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Whether a 1950s big-band record whose organizing idiom is ensemble swing \u2014 not the harmonic/structural explorations of post-bop \u2014 belongs in a post-bebop canon, given that Ellington and Kenton big-band records are already in. The 'post-bop' style tag is a workaround for the absence of a big-band code, not a description of the idiom."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "The defining statement of the postwar Basie Orchestra \u2014 the 1957 Neal Hefti book that relaunched the band on Roulette and fixed its late-'50s sound \u2014 with consensus across independent traditions: 1001 Albums You Must Hear Before You Die, Larkin's All Time Top 1000 (#411), AllMusic 5 stars, and a rare double win at the 1st Annual Grammys. Session gravity is exceptional for a big-band date: Thad Jones (trumpet) bridges to the Thad Jones/Mel Lewis Orchestra, a load-bearing post-bop big-band lineage node, and the sections are stacked with post-bebop network voices \u2014 Frank Foster, Frank Wess, Eddie 'Lockjaw' Davis, Snooky Young, Joe Newman. 'Li'l Darlin'' became a permanent big-band standard, and the record still plays as perhaps the most accessible entry point to large-ensemble jazz. Alongside the Ellington and Kenton records already in the canon, a Basie anchor is the missing third leg of the postwar big-band stool.",
+    "case_against": "It is fundamentally a swing record \u2014 it literally won the Grammy for 'Best Performance by a Dance Band' \u2014 and its organizing principle is tight, riff-based ensemble swing, not the harmonic or structural explorations of hard bop, modal, or post-bop. If the canon's mandate is to trace the post-bebop language specifically, this is a glorious continuation of the swing era rather than a load-bearing pillar of that lineage; the 'post-bop' style tag is a workaround for the absence of a big-band code, not a description of the idiom. The dossier's heaviest consensus claims (Penguin 4 stars, Larkin #411, the Grammy wins) also appear in the rationale text without discrete source URLs \u2014 the source set verifies personnel and session data but not the Penguin or Larkin citations.",
+    "disagreement": "The references split on tier and scope: one reads the Basie/Hefti band as inside the post-bebop tradition (consensus_core, must_have) on the strength of modern arrangements, post-bebop soloists, and the Thad Jones lineage bridge; the other reads it as a swing-era continuation whose organizing idiom tests the post-bebop boundary (scope_call, strong), noting it won a Grammy for 'Best Performance by a Dance Band.'",
+    "recommendation": "The council proposes John rule on whether the Ellington/Kenton big-band precedent extends to the 1957 Basie/Hefti band: if yes, this is a consensus_core must-have anchor; if the canon's center of gravity excludes dance-band swing as an organizing principle, it falls out of scope.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

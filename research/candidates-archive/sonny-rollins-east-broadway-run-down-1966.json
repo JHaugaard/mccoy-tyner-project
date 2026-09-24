@@ -1,0 +1,219 @@
+{
+  "id": "sonny-rollins-east-broadway-run-down-1966",
+  "artist": "Sonny Rollins",
+  "album": "East Broadway Run Down",
+  "year": 1966,
+  "label": "Impulse!",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "modal-jazz"
+  ],
+  "rationale": "A defining late-Impulse! statement by Rollins, pairing him with Coltrane's rhythm section (Garrison-Jones) at their most telepathic. The title track is a 20-minute modal journey; Hubbard's trumpet cuts through on the opener only, adding textural contrast. Consensus core collection across Penguin Guide, DownBeat, and AllMusic. Recorded May 1966, released January 1967 on Impulse!",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 East Broadway Run Down",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/East_Broadway_Run_Down"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 East Broadway Run Down",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/east-broadway-run-down-mw0000194091"
+    },
+    "S3": {
+      "title": "Discogs \u2014 East Broadway Run Down (Master 174510)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/174510"
+    },
+    "S4": {
+      "title": "JazzDiscography (Rollins sessionography)",
+      "type": "sessionography",
+      "url": "https://jazzdisco.org/sonny-rollins/discography/"
+    },
+    "S5": {
+      "title": "MusicBrainz \u2014 Release Group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/33cedddc-0bf3-3ac9-9221-9ad1c7dfdbc0"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1966-05-09"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1966-05-09",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-05-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader, composer of tracks 1-2"
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "East Broadway Run Down"
+        ],
+        "session_dates": [
+          "1966-05-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "JazzDiscography matrix 90572 confirms Hubbard only on the title track"
+      },
+      {
+        "name": "Jimmy Garrison",
+        "instrument": "bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-05-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-05-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "East Broadway Run Down",
+        "track_number": 1,
+        "side": "A",
+        "duration": "20:27",
+        "session_date": "1966-05-09",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Freddie Hubbard",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Blessing in Disguise",
+        "track_number": 2,
+        "side": "B",
+        "duration": "12:27",
+        "session_date": "1966-05-09",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "We Kiss in a Shadow",
+        "track_number": 3,
+        "side": "B",
+        "duration": "5:40",
+        "session_date": "1966-05-09",
+        "composers": [
+          "Richard Rodgers",
+          "Oscar Hammerstein II"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "33cedddc-0bf3-3ac9-9221-9ad1c7dfdbc0",
+    "apple_album_id": 1458070067,
+    "cover_art": [],
+    "notes": "Single session, May 9, 1966 at Van Gelder Studio, Englewood Cliffs (post-July 1959 move). Hubbard is on the title track only per matrix 90572. Tracks 2-3 are trio with Rollins-Garrison-Jones. Original Impulse! catalog numbers: A-9121 (mono), AS-9121 (stereo). Wikipedia also credits Rollins as co-producer alongside Thiele; AllMusic and Discogs list only Thiele."
+  },
+  "ballot": {
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity is the strongest signal: Rollins paired with Jimmy Garrison and Elvin Jones \u2014 Coltrane's rhythm section at its telepathic peak \u2014 in May 1966, months after the quartet dissolved, with Freddie Hubbard's verified one-track appearance (JazzDiscography matrix 90572) bridging Blue Note hard-bop lineage into the Impulse!/Coltrane orbit. It is a defining statement: Rollins' final and boldest Impulse! date before his 1969 withdrawal from recording, his most ambitious sustained modal statement of the 1960s and the most explicit Rollins\u2013Coltrane crossover on record.",
+    "case_against": "The title track's twenty minutes lean into repetitive vamps, harsh overblowing, and abrasive free-rhythmic stretches that can play as endurance test rather than cohesive composition \u2014 under John's standing free-jazz calibration, listener resonance here sharply divides. The dossier's consensus claim is asserted, not evidenced \u2014 all listed sources are catalog metadata, none is Penguin or DownBeat.",
+    "disagreement": "Real split on tier \u2014 consensus_core/must_have vs contested/strong \u2014 driven by whether the modal/avant boundary is in play.",
+    "recommendation": "John should listen to the full 20-minute title track before ruling: this is a contested candidate with a live modal/avant boundary question.",
+    "confidence": "medium"
+  }
+}

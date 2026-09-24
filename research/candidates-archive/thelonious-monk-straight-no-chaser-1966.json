@@ -1,0 +1,118 @@
+{
+  "id": "thelonious-monk-straight-no-chaser-1966",
+  "artist": "Thelonious Monk",
+  "album": "Straight, No Chaser",
+  "year": 1966,
+  "label": "Columbia",
+  "apple_album_id": 268557390,
+  "musicbrainz_release_group_mbid": "2fa4f0a6-c919-3de6-8836-0de992957ecc",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/69/f0/8c/69f08c37-6f6a-970f-f53f-ef3f99642fca/dj.wvzxyszi.jpg/100x100bb.jpg",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "Major Columbia album from Monk's classic quartet (Rouse, Gales, Riley), his most stable working band. Penguin Guide 3\u2605, AllMusic 4\u2605, DownBeat 3.5\u2605, Rolling Stone Jazz Record Guide 3\u2605, Encyclopedia of Popular Music 4\u2605. Includes definitive versions of 'Locomotive' and the title track, plus the rare Monk standard 'I Didn't Know About You'. Ranks with Monk's Dream and Underground as the essential Columbia Monk records \u2014 lineage extends through the quartet's sound that Monk refined for five years. Session gravity: Rouse, Gales, and Riley were one of the great working rhythm sections of the 1960s.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Straight, No Chaser (Thelonious Monk album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Straight,_No_Chaser_(Thelonious_Monk_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Straight, No Chaser",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/straight-no-chaser-mw0000205937"
+    },
+    "S3": {
+      "title": "MusicBrainz: Straight, No Chaser",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/2fa4f0a6-c919-3de6-8836-0de992957ecc"
+    },
+    "S4": {
+      "title": "Apple Music: Straight, No Chaser",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/straight-no-chaser/268557390"
+    },
+    "S5": {
+      "title": "Discogs: Thelonious Monk \u2014 Straight, No Chaser",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/120742"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1966-11-14",
+      "1967-01-10"
+    ],
+    "multi_session": true,
+    "recording_sites": [
+      {
+        "session_date": "1966-11-14",
+        "site_raw": "Columbia 30th Street Studio, New York, NY",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1967-01-10",
+        "site_raw": "Columbia 30th Street Studio, New York, NY",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": null,
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Larry Gales",
+        "instrument": "bass",
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "name": "Ben Riley",
+        "instrument": "drums",
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ]
+  },
+  "ballot": {
+    "album": "Thelonious Monk \u2014 Straight, No Chaser (1966)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a mature statement from Monk's long-running quartet with Charlie Rouse, Larry Gales, and Ben Riley, whose cohesive, swinging interaction gives the album substantial session gravity and discovery value. The dossier reports favorable recognition from AllMusic, DownBeat, Penguin, Rolling Stone Jazz Record Guide, and the Encyclopedia of Popular Music, while highlighting compelling versions of \"Locomotive,\" \"Straight, No Chaser,\" and \"I Didn't Know About You\" (S1, S2). It documents Monk's late-Columbia sound at an especially clear and approachable point.",
+    "case_against": "The album is widely regarded as an excellent working-band date but not as indispensable as Monk's more defining records, including Brilliant Corners, Monk's Music, Thelonious Monk with John Coltrane, or possibly Monk's Dream and Underground. Its repertoire and approach can sound like a polished continuation rather than a new artistic breakthrough, and the case for consensus is weakened because the dossier links mainly metadata and encyclopedia sources while leaving several cited guide ratings unverified. If the canon already contains a stronger Monk statement, this may be valuable arc reinforcement rather than a necessary cornerstone.",
+    "disagreement": "Both references reject exclusion and agree that the album is contested rather than an obvious consensus core, but they split on priority: Reference 1 assigns strong, while Reference 2 assigns consider. They also differ in emphasis, with Reference 1 treating the undocumented critical-rating claims as a major evidentiary limitation and Reference 2 treating the album's modest critical standing and repertoire retread as the central objection.",
+    "recommendation": "John should treat this as a strong but nonessential Monk candidate, retaining it for inclusion if the canon needs the mature Rouse-Gales-Riley quartet and the claimed critical consensus can be independently verified.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

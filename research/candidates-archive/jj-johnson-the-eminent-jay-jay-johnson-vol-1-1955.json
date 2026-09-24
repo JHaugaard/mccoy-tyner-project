@@ -1,0 +1,534 @@
+{
+  "id": "jj-johnson-the-eminent-jay-jay-johnson-vol-1-1955",
+  "artist": "J.J. Johnson",
+  "album": "The Eminent Jay Jay Johnson, Volume 1",
+  "year": 1955,
+  "label": "Blue Note",
+  "catalog": "BLP 1505",
+  "style_primary": "hard-bop",
+  "rationale": "J.J. Johnson single-handedly modernized the jazz trombone, and The Eminent Jay Jay Johnson, Volume 1 is his defining Blue Note statement \u2014 the album that established the trombone as a credible bebop/hard-bop lead voice. The Penguin Guide to Jazz awards it a Crown (4\u2605) calling it 'one of the central documents of post-war jazz.' Compiling two 1953\u20131954 sessions across two NYC-area studios, it features a breathtaking lineup: Clifford Brown in his first studio date, Jimmy Heath on tenor/baritone, John Lewis on piano, the Heath/Clarke rhythm section, plus the 1954 session team of Wynton Kelly, Charles Mingus, and Kenny Clarke. AllMusic rates it 4.5\u2605. J.J. Johnson is completely absent from the current canon; this is the foundational entry point for the instrument and the musician.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic \u2014 The Eminent Jay Jay Johnson, Vol. 1",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/the-eminent-jay-jay-johnson-vol-1-mw0000463416"
+    },
+    "S2": {
+      "title": "Wikipedia \u2014 The Eminent Jay Jay Johnson, Vols. 1 & 2",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Eminent_Jay_Jay_Johnson,_Vols._1_%26_2"
+    },
+    "S3": {
+      "title": "Discogs \u2014 The Eminent Jay Jay Johnson Volume 1",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/174533-Jay-Jay-Johnson-The-Eminent-Jay-Jay-Johnson-Volume-1"
+    },
+    "S4": {
+      "title": "JazzDiscography Project \u2014 Blue Note 5000 series",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/blue-note-records/catalog-5000-series/"
+    },
+    "S5": {
+      "title": "MusicBrainz \u2014 The Eminent Jay Jay Johnson, Volume 1",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/84668b7b-46ab-4ea4-9ad7-3cc8d062e410"
+    },
+    "S6": {
+      "title": "Penguin Guide to Jazz",
+      "type": "reference",
+      "url": "Cited via Wikipedia \u2014 Crown rating"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1953-06-22",
+      "1954-09-24"
+    ],
+    "multi_session": true,
+    "studio": "WOR Studios, NYC; Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1953-06-22",
+        "site_raw": "WOR Studios, New York City",
+        "site_slug": "wor-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1954-09-24",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Doug Hawkins (1953 session); Rudy Van Gelder (1954 session)",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "J.J. Johnson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1953-06-22",
+          "1954-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [
+          "Jay Jay Johnson"
+        ],
+        "notes": "Leader, composer"
+      },
+      {
+        "name": "Clifford Brown",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Turnpike",
+          "Lover Man",
+          "Get Happy",
+          "Sketch 1",
+          "Capri"
+        ],
+        "session_dates": [
+          "1953-06-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "1953 session only. One of Clifford Brown's first Blue Note studio dates."
+      },
+      {
+        "name": "Jimmy Heath",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Turnpike",
+          "Lover Man",
+          "Get Happy",
+          "Sketch 1",
+          "Capri"
+        ],
+        "session_dates": [
+          "1953-06-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays baritone saxophone on selected tracks (Turnpike, Sketch 1)."
+      },
+      {
+        "name": "John Lewis",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Turnpike",
+          "Lover Man",
+          "Get Happy",
+          "Sketch 1",
+          "Capri"
+        ],
+        "session_dates": [
+          "1953-06-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "1953 session only. Composed 'Sketch 1'."
+      },
+      {
+        "name": "Percy Heath",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Turnpike",
+          "Lover Man",
+          "Get Happy",
+          "Sketch 1",
+          "Capri"
+        ],
+        "session_dates": [
+          "1953-06-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "1953 session only. Discogs also lists Charles Mingus on this album; Mingus appears on the 1954 session."
+      },
+      {
+        "name": "Kenny Clarke",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1953-06-22",
+          "1954-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "On both sessions."
+      },
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jay",
+          "Old Devil Moon",
+          "It's You or No One",
+          "Too Marvelous for Words",
+          "Coffee Pot"
+        ],
+        "session_dates": [
+          "1954-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "1954 session only."
+      },
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jay",
+          "Old Devil Moon",
+          "It's You or No One",
+          "Too Marvelous for Words",
+          "Coffee Pot"
+        ],
+        "session_dates": [
+          "1954-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "1954 session only."
+      },
+      {
+        "name": "Sabu Martinez",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Jay",
+          "Old Devil Moon"
+        ],
+        "session_dates": [
+          "1954-09-24"
+        ],
+        "epistemic": "inf",
+        "sources": [
+          "S4"
+        ],
+        "name_variants": [
+          "Sabu"
+        ],
+        "notes": "Per jazzdisco: conga on tracks #1-3,6 of the 10\" BLP 5057. Track numbering on Volume 1 differs; exact track coverage inferred."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Turnpike",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:15",
+        "session_date": "1953-06-22",
+        "composers": [
+          "J.J. Johnson"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Clifford Brown",
+          "Jimmy Heath",
+          "John Lewis",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Lover Man",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:50",
+        "session_date": "1953-06-22",
+        "composers": [
+          "Jimmy Davis",
+          "Roger Ramirez",
+          "Jimmy Sherman"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Clifford Brown",
+          "Jimmy Heath",
+          "John Lewis",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Get Happy",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:47",
+        "session_date": "1953-06-22",
+        "composers": [
+          "Harold Arlen",
+          "Ted Koehler"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Clifford Brown",
+          "Jimmy Heath",
+          "John Lewis",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Sketch 1",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:21",
+        "session_date": "1953-06-22",
+        "composers": [
+          "John Lewis"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Clifford Brown",
+          "Jimmy Heath",
+          "John Lewis",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Capri",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:37",
+        "session_date": "1953-06-22",
+        "composers": [
+          "Gigi Gryce"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Clifford Brown",
+          "Jimmy Heath",
+          "John Lewis",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Jay",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:42",
+        "session_date": "1954-09-24",
+        "composers": [
+          "J.J. Johnson"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Wynton Kelly",
+          "Charles Mingus",
+          "Kenny Clarke",
+          "Sabu Martinez"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Old Devil Moon",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:52",
+        "session_date": "1954-09-24",
+        "composers": [
+          "E.Y. Harburg",
+          "Burton Lane"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Wynton Kelly",
+          "Charles Mingus",
+          "Kenny Clarke",
+          "Sabu Martinez"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "It's You or No One",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:06",
+        "session_date": "1954-09-24",
+        "composers": [
+          "Sammy Cahn",
+          "Jule Styne"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Wynton Kelly",
+          "Charles Mingus",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Too Marvelous for Words",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:35",
+        "session_date": "1954-09-24",
+        "composers": [
+          "Johnny Mercer",
+          "Richard A. Whiting"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Wynton Kelly",
+          "Charles Mingus",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Coffee Pot",
+        "track_number": 10,
+        "side": "B",
+        "duration": "4:08",
+        "session_date": "1954-09-24",
+        "composers": [
+          "J.J. Johnson"
+        ],
+        "personnel": [
+          "J.J. Johnson",
+          "Wynton Kelly",
+          "Charles Mingus",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "84668b7b-46ab-4ea4-9ad7-3cc8d062e410",
+    "apple_album_id": null,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/f7ce74d8-dd04-4693-bb29-cc5db8dcff3b/1846902367.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Blue Note BLP 1505 front cover"
+      }
+    ],
+    "notes": "Compiles two sessions from three original 10\" LPs (Jay Jay Johnson with Clifford Brown [1953] + The Eminent Jay Jay Johnson Vol. 2 [1954]). Penguin Guide Crown, AllMusic 4.5\u2605. No standalone iTunes entry found for Volume 1; only the Vol. 2 RVG edition appears on Apple Music."
+  },
+  "ballot": {
+    "album": "J.J. Johnson \u2014 The Eminent Jay Jay Johnson, Volume 1 (1955)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "A Penguin Guide Crown \u2014 'one of the central documents of post-war jazz' \u2014 corroborated by AllMusic's 4.5 stars makes this the consensus-defining statement of the trombone's modernization: the post-1950 hard-bop trombone lineage (Curtis Fuller, Slide Hampton, Julian Priester) traces directly to these sessions, and the canon currently has no Johnson and no trombone chair at all. Session gravity is exceptional: the 1953 date is one of Clifford Brown's earliest studio appearances alongside John Lewis, Jimmy Heath, Percy Heath, and Kenny Clarke, while the 1954 date pairs Wynton Kelly with Charles Mingus and Clarke behind the leader. A cold listener gets two instructive things at once \u2014 the trombone as a fully articulate bop lead voice, and Brown still finding his language \u2014 making it both the instrument's anchor and a discovery-grade record.",
+    "case_against": "The record is a compilation, not a conceived long-player: BLP 1505 stitches the 1953 sextet 10-inch (BLP 5028, with Brown) and the 1954 quintet 10-inch (BLP 5057) into one package whose personnel barely overlap \u2014 Johnson and Clarke only \u2014 with different studios and rhythm sections, so the Crown judges an assemblage rather than a unified statement. Johnson's natively conceived 12-inch dates (Dial J.J. and Blue Trombone, both 1957) are arguably more organic career peaks, and a purist could prefer one of those as the entry point.",
+    "disagreement": null,
+    "recommendation": "The council proposes John include it as consensus_core / must_have \u2014 the trombone tradition's anchor and a Crown-certified foundational Blue Note date.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

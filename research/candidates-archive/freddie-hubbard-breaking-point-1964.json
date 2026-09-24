@@ -1,0 +1,345 @@
+{
+  "id": "freddie-hubbard-breaking-point-1964",
+  "artist": "Freddie Hubbard",
+  "album": "Breaking Point",
+  "year": 1964,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Freddie Hubbard's most adventurous Blue Note date of the mid-'60s, recorded May 7 1964 at Van Gelder Studio, Englewood Cliffs and released August 1964 (Blue Note BST 84172). Marks Joe Chambers' recording debut; Chambers also composed 'Mirrors'. Wikipedia's reception box cites AllMusic 4.5 stars, Penguin Guide 3.5 stars, and Rolling Stone Jazz Record Guide 5 stars; AllMusic's Nastos calls it 'essential for all listeners of incendiary progressive jazz' and 'far ahead of mid-'60s post-bop'. The quintet (Hubbard, James Spaulding doubling alto and flute, Ronnie Mathews, Eddie Khan, Chambers) is a defining post-bop statement sitting between hard bop and the new thing \u2014 the bridge between Hubbard's Blue Note hard bop dates (Open Sesame, Ready for Freddie, Hub-Tones already in the canon) and the freer language that followed. Reissued in the Blue Note Tone Poet and Rudy Van Gelder Edition series, a sign of its canonical status.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Breaking Point! \u2014 Wikipedia album article (reception, track listing, personnel, recording date/studio)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Breaking_Point!"
+    },
+    "S2": {
+      "title": "Breaking Point! \u2014 AllMusic album page and Credits tab (recording location, producer Alfred Lion, engineer Rudy Van Gelder, styles Post-Bop/Trumpet Jazz)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/breaking-point%21-mw0000263635"
+    },
+    "S3": {
+      "title": "Freddie Hubbard \u2013 Breaking Point \u2014 Discogs master page (corroboration)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/195759-Freddie-Hubbard-Breaking-Point"
+    },
+    "S4": {
+      "title": "Breaking Point! \u2014 MusicBrainz release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/34d93df5-90c9-3ea8-9a57-63dfeffc5cd6"
+    },
+    "S5": {
+      "title": "iTunes Lookup API \u2014 Breaking Point (collectionId 1443182578) track list",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/lookup?id=1443182578&entity=song"
+    },
+    "S6": {
+      "title": "Cover Art Archive \u2014 MusicBrainz release group 34d93df5-90c9-3ea8-9a57-63dfeffc5cd6",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/34d93df5-90c9-3ea8-9a57-63dfeffc5cd6"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-05-07"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1964-05-07",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-05-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader. Composed tracks 1-4."
+      },
+      {
+        "name": "James Spaulding",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-05-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Doubles flute (Wikipedia: 'alto saxophone, flute')."
+      },
+      {
+        "name": "Ronnie Mathews",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-05-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eddie Khan",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-05-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia lists 'bass'; mapped to taxonomy double bass."
+      },
+      {
+        "name": "Joe Chambers",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1964-05-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Recording debut (Wikipedia). Composed 'Mirrors'."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Breaking Point",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:19",
+        "session_date": "1964-05-07",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "James Spaulding",
+          "Ronnie Mathews",
+          "Eddie Khan",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Far Away",
+        "track_number": 2,
+        "side": "A",
+        "duration": "10:58",
+        "session_date": "1964-05-07",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "James Spaulding",
+          "Ronnie Mathews",
+          "Eddie Khan",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Blue Frenzy",
+        "track_number": 3,
+        "side": "B",
+        "duration": "6:23",
+        "session_date": "1964-05-07",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "James Spaulding",
+          "Ronnie Mathews",
+          "Eddie Khan",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "D Minor Mint",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:24",
+        "session_date": "1964-05-07",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "James Spaulding",
+          "Ronnie Mathews",
+          "Eddie Khan",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Mirrors",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:08",
+        "session_date": "1964-05-07",
+        "composers": [
+          "Joe Chambers"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "James Spaulding",
+          "Ronnie Mathews",
+          "Eddie Khan",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Blue Frenzy (Alternate take)",
+        "track_number": 6,
+        "side": null,
+        "duration": "3:18",
+        "session_date": "1964-05-07",
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "James Spaulding",
+          "Ronnie Mathews",
+          "Eddie Khan",
+          "Joe Chambers"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Mirrors (Alternate take)",
+        "track_number": 7,
+        "side": null,
+        "duration": "3:23",
+        "session_date": "1964-05-07",
+        "composers": [
+          "Joe Chambers"
+        ],
+        "personnel": [
+          "Freddie Hubbard",
+          "James Spaulding",
+          "Ronnie Mathews",
+          "Eddie Khan",
+          "Joe Chambers"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "34d93df5-90c9-3ea8-9a57-63dfeffc5cd6",
+    "apple_album_id": "1443182578",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/c5f07176-83e1-46ff-974d-9e401ce097b8/38032814478.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover from MusicBrainz CAA; matches original Blue Note BST 84172 artwork."
+      }
+    ],
+    "notes": "Single session, May 7 1964, Van Gelder Studio Englewood Cliffs (post-July-1959, so Englewood Cliffs not Hackensack). Joe Chambers' recording debut; he composed 'Mirrors'. James Spaulding doubles flute. Producer Alfred Lion and engineer Rudy Van Gelder per AllMusic credits tab. CD reissues add alternate takes of 'Blue Frenzy' and 'Mirrors' as bonus tracks; the iTunes track list (collectionId 1443182578) carries the 5 original tracks."
+  },
+  "ballot": {
+    "album": "Freddie Hubbard \u2014 Breaking Point (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Breaking Point is the definitive bridge in Hubbard's Blue Note arc \u2014 the exact moment he stretched beyond the hard bop of Open Sesame, Ready for Freddie, and Hub-Tones toward the freer mid-60s language, with the 10-minute side-openers and Spaulding's flute coloring marking genuine formal expansion. Joe Chambers' recording debut gives it exceptional lineage weight: Chambers became a foundational architect of Blue Note's progressive post-bop sound (with Wayne Shorter, Bobby Hutcherson, and others), and his composition 'Mirrors' anchors the date. Rolling Stone Jazz Record Guide 5/5 and AllMusic 4.5 stars (Nastos: 'essential for all listeners of incendiary progressive jazz') plus Tone Poet and RVG reissues confirm label-canonical status.",
+    "case_against": "Penguin Guide's 3.5-star rating sits below the 4-star core-collection threshold, and the critical sourcing is encyclopedic-thin \u2014 the reception profile rests on one AllMusic review and a Wikipedia box recycling the same guide ratings, with no JazzTimes, DownBeat, NPR, or Penguin Guide prose in hand. The session gravity, while solid, is a working Blue Note quintet rather than a summit; the other three sidemen (Mathews, Khan) are not figures whose presence alone marks a date canonical. As a transitional record, it risks being more historically fascinating than definitively cohesive \u2014 a cold listener may hear an artist caught between idioms rather than a fully realized statement.",
+    "disagreement": "The references split cleanly on tier: one argues contested, citing Penguin 3.5 below core, mid-tier session gravity, and encyclopedic-thin sourcing as keeping it short of consensus_core; the other argues consensus_core, calling the against-case too thin given the lineage value of Chambers' debut and the bridge function. The disagreement is whether 3.5-star Penguin plus thin independent sourcing outweighs the lineage and bridge argument.",
+    "recommendation": "The council proposes John hear Breaking Point alongside Hubbard's three already-canonized Blue Note dates and rule whether the forward-edge bridge and Chambers debut clear the bar his Penguin 3.5 and sourcing profile place beneath consensus_core.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.1-pro-preview"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:z-ai/glm-5.2",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "id": "red-garland-a-garland-of-red-1956",
+  "artist": "Red Garland",
+  "album": "A Garland of Red",
+  "year": 1956,
+  "label": "Prestige",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "cool-jazz"
+  ],
+  "rationale": "Red Garland's debut as a leader, recorded while he was the pianist in Miles Davis's first great quintet. This trio date with Paul Chambers and Art Taylor showcases Garland's distinctive block-chord style \u2014 a bridge between Count Basie's economy and Bud Powell's bop, filtered through Garland's own lush voicings. Penguin Guide, AllMusic, and The Rolling Stone Jazz Record Guide all rate it highly. Essential for understanding the pianist who shaped the harmonic vocabulary of the Miles Davis Quintet's classic 1956-58 recordings, and a defining trio statement in the hard-bop canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 A Garland of Red",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/A_Garland_of_Red"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 A Garland of Red",
+      "type": "credits",
+      "url": "https://www.allmusic.com/album/a-garland-of-red-mw0000671608"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 A Garland of Red",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=A+Garland+of+Red+Red+Garland&entity=album"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Release Group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/b7e49639-b3fa-309a-92f5-1db5c333f7b8"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/b7e49639-b3fa-309a-92f5-1db5c333f7b8"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-08-17"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1956-08-17",
+        "site_raw": "Van Gelder Studio, Hackensack, New Jersey",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Bob Weinstock",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Red Garland",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-08-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader"
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-08-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-08-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "A Foggy Day",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:51",
+        "session_date": "1956-08-17",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "My Romance",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:51",
+        "session_date": "1956-08-17",
+        "composers": [
+          "Lorenz Hart",
+          "Richard Rodgers"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "What Is This Thing Called Love?",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:53",
+        "session_date": "1956-08-17",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Makin' Whoopee",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:15",
+        "session_date": "1956-08-17",
+        "composers": [
+          "Walter Donaldson",
+          "Gus Kahn"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "September in the Rain",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:48",
+        "session_date": "1956-08-17",
+        "composers": [
+          "Al Dubin",
+          "Harry Warren"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Little Girl Blue",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:07",
+        "session_date": "1956-08-17",
+        "composers": [
+          "Lorenz Hart",
+          "Richard Rodgers"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Constellation",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:31",
+        "session_date": "1956-08-17",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Blue Red",
+        "track_number": 8,
+        "side": "B",
+        "duration": "7:38",
+        "session_date": "1956-08-17",
+        "composers": [
+          "Red Garland"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b7e49639-b3fa-309a-92f5-1db5c333f7b8",
+    "apple_album_id": 1587998175,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/6be29719-b310-4d1c-9c1d-dfd6c16fe9c2/35829948063.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive image; original Prestige cover assumed"
+      }
+    ],
+    "notes": "Single session, August 17, 1956 at Van Gelder Studio, Hackensack (pre-July 1959 location). Released early January 1957. Wikipedia lists production: Bob Weinstock (supervision), Rudy Van Gelder (recording engineer), Ira Gitler (liner notes)."
+  },
+  "ballot": {
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity is the anchor: this is the Miles Davis First Great Quintet rhythm engine on its own terms \u2014 Garland and Paul Chambers, two-thirds of the definitive 1950s rhythm team, joined by Art Taylor, hard bop's house drummer, at Van Gelder for Garland's leader debut. The lineage signal is real and narrow: Garland's locked-hands block chords are the bridge from Bud Powell to Bill Evans, the harmonic cushion beneath the 1956-58 quintet dates, and a template for post-bop trio treatments of the Songbook. It still plays \u2014 Gershwin, Rodgers & Hart, and Porter standards plus a burning Parker (Constellation) in clean Van Gelder sound give a cold listener an immediate answer to why mid-1950s trio jazz mattered.",
+    "case_against": "Garland's Prestige trio catalog (1956-62) is long and homogeneous \u2014 hurried Hackensack dates with overlapping personnel and setlists \u2014 and critical consensus appears to favor 1957's Groovy as the definitive Garland trio statement, making this arguably the first of many similar dates rather than the load-bearing one. His indispensability to the canon is already documented as sideman on the four Miles quintet Prestige dates the canon almost certainly holds, and nothing here fixed a sound others copied \u2014 it documents a style rather than establishing one. Worst, the dossier's consensus claim is unsourced: of five sources only Wikipedia and AllMusic are substantive, so the asserted Penguin Guide and Rolling Stone endorsements leave the load-bearing signal below the min_sources: 3 target.",
+    "disagreement": "The references agree on tier, priority, and clean scope but split on which Garland record this spot belongs to: Reference 1 treats A Garland of Red as the natural leader pick \u2014 the most-cited entry in a small, coherent discography \u2014 while Reference 2 argues Groovy (1957) is the consensus-favored Garland masterpiece and the likely Penguin Guide core-collection pick, putting this debut's load-bearing status in direct competition. Both independently flag the same weakness \u2014 the dossier's Penguin Guide and Rolling Stone claims are asserted, not cited \u2014 and both want that gap closed before final judgment.",
+    "recommendation": "The council proposes John hold this at contested while the acting agent closes the sourcing gap \u2014 fetching the Penguin Guide and Rolling Stone entries and settling the head-to-head with Groovy \u2014 then rule on it as a strong addition if A Garland of Red stands as the Garland trio pick.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:z-ai/glm-5.3-flash",
+      "preset": "canon-council"
+    }
+  }
+}

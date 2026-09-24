@@ -1,0 +1,592 @@
+{
+  "id": "duke-ellington-ellington-at-newport-1956",
+  "artist": "Duke Ellington",
+  "album": "Ellington at Newport",
+  "year": 1956,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "rationale": "The defining live big-band statement of the 1950s and the concert that revived Ellington's career: the July 7, 1956 Newport Jazz Festival appearance climaxed in Paul Gonsalves' 27-chorus 'Diminuendo and Crescendo in Blue' interval solo, backed only by Woode, Woodyard and Ellington's piano, which brought the crowd to its feet and the band to a Columbia recording contract, the cover of Time, and a decade and a half of the most critically acclaimed work of Ellington's late life. Consensus is overwhelming across independent traditions: 1001 Albums You Must Hear Before You Die; Penguin Guide to Jazz Recordings 4 stars; Rolling Stone Jazz Record Guide 5 stars; AllMusic 5 stars; and in 2022 the Library of Congress added the album to the National Recording Registry as culturally, historically, or aesthetically significant. Session gravity: the full 1956 Ellington orchestra (Anderson, Cook, Nance, Terry, plus Hodges, Carney, Hamilton, Procope, Gonsalves) at peak fire. It is the single most famous live jazz album of its era and the only major Ellington statement missing from a canon that already holds Such Sweet Thunder, Money Jungle, and The Far East Suite. Note for John: the original 1956 LP was partly re-recorded in the studio on July 9 (the Festival Suite and Hodges' 'I Got It Bad') and mixed with live portions with dubbed applause — Avakian and the band were unhappy with the under-rehearsed premiere. The 1999 'Complete' reissue reconstructs the true live concert. Either way the record belongs.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Ellington at Newport (album article)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Ellington_at_Newport"
+    },
+    "S2": {
+      "title": "AllMusic — Ellington at Newport [1956] (album page, mw0001268486)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/ellington-at-newport-1956--mw0001268486"
+    },
+    "S3": {
+      "title": "JazzTimes — Duke Ellington: Ellington at Newport 1956 (Complete), review by Jack Sohmer",
+      "type": "web",
+      "url": "https://jazztimes.com/reviews/albums/duke-ellington-ellington-at-newport-1956-complete/"
+    },
+    "S4": {
+      "title": "Mosaic Records — Duke Ellington: Newport Jazz Festival, by Terry Teachout",
+      "type": "web",
+      "url": "https://www.mosaicrecords.com/duke-ellington-newport-jazz-festival/"
+    },
+    "S5": {
+      "title": "The Guardian — 50 great moments in jazz: Duke Ellington plays Newport (Freebody Park)",
+      "type": "web",
+      "url": "https://www.theguardian.com/music/musicblog/2010/apr/06/duke-ellington-newport-concert"
+    },
+    "S6": {
+      "title": "iTunes Search API — Duke Ellington Ellington at Newport",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+Ellington+at+Newport&entity=album"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group c7af2ab6-81b0-3f92-8253-9417d00f1361",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/c7af2ab6-81b0-3f92-8253-9417d00f1361"
+    },
+    "S8": {
+      "title": "Wikipedia — Columbia Records (Studio C and Studio D at 207 East 30th Street documentation)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Columbia_Records"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-07-07",
+      "1956-07-09"
+    ],
+    "multi_session": true,
+    "studio": "Newport Jazz Festival, Freebody Park, Newport, RI (live); Columbia's Studio D, Manhattan (studio re-recordings)",
+    "recording_sites": [
+      {
+        "session_date": "1956-07-07",
+        "site_raw": "Newport Jazz Festival, Freebody Park, Newport, RI (live)",
+        "site_slug": null,
+        "site_new": {
+          "name": "Newport Jazz Festival (Freebody Park)",
+          "city": "Newport, RI",
+          "kind": "festival",
+          "address": "Freebody Park",
+          "lat": 41.48196,
+          "lon": -71.30504,
+          "location_epistemic": "obs",
+          "location_source": "https://www.theguardian.com/music/musicblog/2010/apr/06/duke-ellington-newport-concert (Freebody Park, Newport, RI); https://www.mosaicrecords.com/duke-ellington-newport-jazz-festival/ | coords: OSM Nominatim: Freebody Park, Newport, RI — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S5"
+      },
+      {
+        "session_date": "1956-07-09",
+        "site_raw": "Columbia's Studio D, 207 East 30th Street, Manhattan (studio re-recordings of the Festival Suite and 'I Got It Bad')",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S8"
+      }
+    ],
+    "producer": "George Avakian",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Edward Kennedy Ellington"
+        ],
+        "notes": "Leader, composer of 'Newport Up' and 'Diminuendo and Crescendo in Blue'."
+      },
+      {
+        "name": "Cat Anderson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "William Alonzo Anderson"
+        ],
+        "notes": "High-note trumpeter, featured in the 'Diminuendo and Crescendo in Blue' finale."
+      },
+      {
+        "name": "Willie Cook",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Nance",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles vocals ('Tulip or Turnip'); also violin (S1 notes trumpet, vocals)."
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Jones",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Fifth trumpeter summoned as 'flop insurance' for the main set; joined on stage for the real performance."
+      },
+      {
+        "name": "Quentin Jackson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Sanders",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Britt Woodman",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Johnny Hodges",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Jeep"
+        ],
+        "notes": "Featured on 'I Got It Bad' and 'Jeep's Blues'."
+      },
+      {
+        "name": "Russell Procope",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles clarinet (S1)."
+      },
+      {
+        "name": "Paul Gonsalves",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "The 27-chorus 'Diminuendo and Crescendo in Blue' interval solo — the album's centerpiece."
+      },
+      {
+        "name": "Harry Carney",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Featured on 'Sophisticated Lady'. Doubles clarinet and bass clarinet."
+      },
+      {
+        "name": "Jimmy Hamilton",
+        "instrument": "clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles tenor saxophone (S1 lists clarinet)."
+      },
+      {
+        "name": "Jimmy Woode",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Rhythm section on the Gonsalves solo."
+      },
+      {
+        "name": "Al Lucas",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Star-Spangled Banner",
+          "Black and Tan Fantasy",
+          "Tea for Two"
+        ],
+        "session_dates": [
+          "1956-07-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Substituted for Woode during the first, short set (Woode had not yet arrived). Only on first-set tracks — not on the original 1956 LP's five tracks."
+      },
+      {
+        "name": "Jimmy Grissom",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Day In, Day Out"
+        ],
+        "session_dates": [
+          "1956-07-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Vocal feature on 'Day In, Day Out' — on the 1999 Complete, not the original 1956 LP."
+      },
+      {
+        "name": "Sam Woodyard",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-07-07",
+          "1956-07-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Drum feature 'Skin Deep' in the finale."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Festival Junction",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:08",
+        "session_date": "1956-07-09",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Willie Cook",
+          "Ray Nance",
+          "Clark Terry",
+          "Herbie Jones",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Jimmy Hamilton",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Blues to Be There",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:04",
+        "session_date": "1956-07-09",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Willie Cook",
+          "Ray Nance",
+          "Clark Terry",
+          "Herbie Jones",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Jimmy Hamilton",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Newport Up",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:33",
+        "session_date": "1956-07-09",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Willie Cook",
+          "Ray Nance",
+          "Clark Terry",
+          "Herbie Jones",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Jimmy Hamilton",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Jeep's Blues",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:12",
+        "session_date": "1956-07-07",
+        "composers": [
+          "Johnny Hodges"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Willie Cook",
+          "Ray Nance",
+          "Clark Terry",
+          "Herbie Jones",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Jimmy Hamilton",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Diminuendo and Crescendo in Blue",
+        "track_number": 5,
+        "side": "B",
+        "duration": "14:56",
+        "session_date": "1956-07-07",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cat Anderson",
+          "Willie Cook",
+          "Ray Nance",
+          "Clark Terry",
+          "Herbie Jones",
+          "Quentin Jackson",
+          "John Sanders",
+          "Britt Woodman",
+          "Johnny Hodges",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Jimmy Hamilton",
+          "Jimmy Woode",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "c7af2ab6-81b0-3f92-8253-9417d00f1361",
+    "apple_album_id": "902277483",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/038df101-bd83-456f-bce6-5603d37df602/42358544260.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Two sessions. July 7, 1956: live at Newport Jazz Festival, Freebody Park, Newport, RI. July 9, 1956: studio re-recordings at Columbia's Studio D (part of the 207 E 30th Street complex, per S8) of the Newport Jazz Festival Suite (tracks 1-3) and Hodges' 'I Got It Bad'; Avakian mixed studio and live takes with dubbed applause for the original LP (S3, S4). Wikipedia's infobox says 'July 7-8' (S1) while JazzTimes/Mosaic date the studio session to July 9 (S3, S4) — conflict preserved; the live concert ran from evening July 7 into early July 8, the studio touch-up was July 9. Original 1956 LP: five tracks (Side A: Festival Junction, Blues to Be There, Newport Up; Side B: Jeep's Blues, Diminuendo and Crescendo in Blue). The 1999 'Complete' edition (apple_album_id 902277483) carries the full concert including first-set tracks and 'I Got It Bad'. Engineer undocumented in sources reviewed."
+  },
+  "ballot": {
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "Few albums in the canon's window match the convergence of independent consensus traditions here: Penguin Guide 4★, AllMusic 5★, Rolling Stone Jazz Record Guide 5★, 1001 Albums You Must Hear Before You Die, and a 2022 Library of Congress National Recording Registry induction as culturally and aesthetically significant. The July 7, 1956 Newport performance — climaxing in Paul Gonsalves' 27-chorus tenor solo on 'Diminuendo and Crescendo in Blue' backed only by Woode, Woodyard, and Ellington's piano — is the single most famous live jazz event of the 1950s: it revived Ellington's career, put him on the cover of Time, won a Columbia contract, and catalyzed the late-period run that produced Such Sweet Thunder, Anatomy of a Murder, and The Far East Suite. The full 1956 orchestra (Hodges, Carney, Gonsalves, Terry, Nance, Hamilton, Procope, Cat Anderson, Woodyard) is peak session gravity, and the Gonsalves solo alone passes the discovery test — a cold-listener moment that explains what live jazz can do.",
+    "case_against": "The original 1956 LP is not a pure live document: producer George Avakian had the band re-record the Festival Suite and 'I Got It Bad' at Columbia's Studio D on July 9, two days after the concert, and mixed those studio takes with live material and dubbed applause — Ellington and Avakian were both unhappy with the under-rehearsed premiere. The 1999 Complete reissue reconstructs the true concert and resolves this, but the album most listeners and reference works cite is the compromised original. Separately, this is big-band orchestral jazz operating parallel to — not squarely within — the post-bebop/hard-bop/modal center of gravity the rubric names; it extends the swing tradition into the modern era rather than advancing the post-bop language, which makes it a slightly different species from the small-group dates that populate the 1950s canon.",
+    "disagreement": null,
+    "recommendation": "Include it; the consensus is overwhelming, the defining-statement and discovery-value signals are as strong as any candidate in the window, the studio-doctoring issue is resolved by the 1999 Complete edition, and the canon is visibly incomplete without Ellington's most famous live recording.",
+    "confidence": "high"
+  }
+}

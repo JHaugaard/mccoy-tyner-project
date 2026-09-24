@@ -1,0 +1,351 @@
+{
+  "id": "kenny-burrell-introducing-kenny-burrell-1956",
+  "artist": "Kenny Burrell",
+  "album": "Introducing Kenny Burrell",
+  "year": 1956,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Kenny Burrell's landmark debut as a leader on Blue Note (BLP 1523), featuring an all-star hard bop lineup. A defining statement in jazz guitar history and a consensus Pick: Penguin Guide 3.5/4, AllMusic high rating. The session brings together the Detroit-based rhythm section of Tommy Flanagan and Paul Chambers with drummer Kenny Clarke and conguero Candido Camero \u2014 the same core team that would define Blue Note's hard bop guitar sound throughout the late 1950s.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic - Introducing Kenny Burrell",
+      "type": "reference",
+      "url": "https://www.allmusic.com/album/introducing-kenny-burrell-mw0000069562"
+    },
+    "S2": {
+      "title": "Wikipedia - Introducing Kenny Burrell: The First Blue Note Sessions",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Introducing_Kenny_Burrell:_The_First_Blue_Note_Sessions"
+    },
+    "S3": {
+      "title": "Discogs - Introducing Kenny Burrell master",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/407036-Kenny-Burrell-Introducing-Kenny-Burrell"
+    },
+    "S4": {
+      "title": "MusicBrainz - Introducing Kenny Burrell",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/e76d0238-e461-35a0-a42c-88f9b4311035"
+    },
+    "S5": {
+      "title": "Apple Music - Introducing Kenny Burrell",
+      "type": "streaming",
+      "url": "https://music.apple.com/us/album/introducing-kenny-burrell/1475990463"
+    },
+    "S6": {
+      "title": "Cover Art Archive - Introducing Kenny Burrell",
+      "type": "coverart",
+      "url": "https://coverartarchive.org/release-group/e76d0238-e461-35a0-a42c-88f9b4311035"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-05-29",
+      "1956-05-30"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1956-05-29",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1956-05-30",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Kenny Burrell",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "This Time the Dream's On Me",
+          "Fugue 'N Blues",
+          "Takeela",
+          "Weaver of Dreams",
+          "Delilah",
+          "Blues for Skeeter"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Does not play on 'Rhythmorama' (track 6), which is a Kenny Clarke drum feature"
+      },
+      {
+        "name": "Tommy Flanagan",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "This Time the Dream's On Me",
+          "Fugue 'N Blues",
+          "Takeela",
+          "Weaver of Dreams",
+          "Delilah",
+          "Blues for Skeeter"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Does not play on 'Rhythmorama'"
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "This Time the Dream's On Me",
+          "Fugue 'N Blues",
+          "Takeela",
+          "Weaver of Dreams",
+          "Delilah",
+          "Blues for Skeeter"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Does not play on 'Rhythmorama'"
+      },
+      {
+        "name": "Kenny Clarke",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'Rhythmorama' (track 6), a drum feature"
+      },
+      {
+        "name": "Candido Camero",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "This Time the Dream's On Me",
+          "Takeela",
+          "Delilah",
+          "Rhythmorama",
+          "Blues for Skeeter"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [
+          "Candido"
+        ],
+        "notes": "Credited as Candido. Not present on 'Fugue 'N Blues' or 'Weaver of Dreams'"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "This Time the Dream's On Me",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:00",
+        "session_date": "1956-05-29",
+        "composers": [
+          "Harold Arlen",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Tommy Flanagan",
+          "Paul Chambers",
+          "Kenny Clarke",
+          "Candido Camero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Fugue 'N Blues",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:48",
+        "session_date": "1956-05-29",
+        "composers": [
+          "Kenny Burrell"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Tommy Flanagan",
+          "Paul Chambers",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Takeela",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:19",
+        "session_date": "1956-05-29",
+        "composers": [
+          "Kenny Burrell"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Tommy Flanagan",
+          "Paul Chambers",
+          "Kenny Clarke",
+          "Candido Camero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Weaver of Dreams",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:43",
+        "session_date": "1956-05-30",
+        "composers": [
+          "Jack Elliott",
+          "Victor Young"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Tommy Flanagan",
+          "Paul Chambers",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Delilah",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:04",
+        "session_date": "1956-05-30",
+        "composers": [
+          "Victor Young"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Tommy Flanagan",
+          "Paul Chambers",
+          "Kenny Clarke",
+          "Candido Camero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Rhythmorama",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:28",
+        "session_date": "1956-05-30",
+        "composers": [
+          "Kenny Clarke"
+        ],
+        "personnel": [
+          "Kenny Clarke",
+          "Candido Camero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Blues for Skeeter",
+        "track_number": 7,
+        "side": "B",
+        "duration": "8:08",
+        "session_date": "1956-05-30",
+        "composers": [
+          "Kenny Burrell"
+        ],
+        "personnel": [
+          "Kenny Burrell",
+          "Tommy Flanagan",
+          "Paul Chambers",
+          "Kenny Clarke",
+          "Candido Camero"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "e76d0238-e461-35a0-a42c-88f9b4311035",
+    "apple_album_id": "1475990463",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/7797f5e8-6a33-44b0-a441-a697e6e74559/34281285190.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Blue Note BLP 1523 cover (Reid Miles design)"
+      }
+    ],
+    "notes": "Original LP (BLP 1523) contains 7 tracks from sessions on May 29-30, 1956 at Van Gelder Studio, Hackensack. Engineer credited as Rudy Van Gelder by inference (all Blue Note sessions at Van Gelder during this period). 'Rhythmorama' is a Kenny Clarke drum feature \u2014 Burrell, Flanagan, and Chambers sit out. The compilation 'Introducing Kenny Burrell: The First Blue Note Sessions' adds 13 bonus tracks from later 1956 sessions (March 12 with Frank Foster, Oscar Pettiford, Shadow Wilson; February 10 with Horace Silver, Hank Mobley, Doug Watkins, Louis Hayes) \u2014 those are excluded from this record."
+  },
+  "ballot": {
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a strong early statement of Kenny Burrell's blues-rooted modern guitar, presented in a transparent, deeply swinging Blue Note setting that remains an excellent entry point to mid-1950s hard bop. The session has exceptional gravity: Burrell is joined by Tommy Flanagan, Paul Chambers, Kenny Clarke, and Candido Camero, with the dossier documenting their track-level roles at the May 1956 Van Gelder sessions (S2). Its defining value is reinforced by the album's catalogue standing and favorable critical reception, including the dossier's reported Penguin Guide and AllMusic support (S1).",
+    "case_against": "The album faces a genuine redundancy and hierarchy problem within Burrell's discography: Midnight Blue is the more widely accepted definitive statement, making this debut less essential as the single Burrell record a canon must represent. Its coherence is also weakened by Rhythmorama, a six-minute Clarke-Candido feature on which Burrell does not play, leaving the seven-track LP less consistently focused as a guitar showcase (S2). The dossier documents strong catalogue evidence but does not establish broad, independent canon-list consensus beyond the reported ratings.",
+    "disagreement": null,
+    "recommendation": "Treat it as a strong but contested candidate, worth including if John wants an early Burrell statement and a particularly vivid Detroit-centered hard-bop session alongside the later peak records.",
+    "confidence": "medium"
+  }
+}

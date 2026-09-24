@@ -1,0 +1,429 @@
+{
+ "id": "pat-metheny-group-offramp-1982",
+ "artist": "Pat Metheny Group",
+ "album": "Offramp",
+ "year": 1982,
+ "label": "ECM",
+ "catalog_number": "ECM 1216",
+ "style_primary": "fusion",
+ "style_tags": [
+  "fusion",
+  "ecm"
+ ],
+ "rationale": "obs[S4, S5]: ECM 1216, the Pat Metheny Group's third studio album, recorded October 1981 at Power Station, New York and mixed at Talent Studio, Oslo; original release 3 May 1982 (S4; S6 first-release-date 1982-05-03; S2 May 1982; S5 ℗ 1982 ECM Records GmbH). obs[S2]: the first studio album on which Metheny used a guitar synthesizer — the Roland GR-300, which became one of his signature instruments — and the first Group album to include vocals (Naná Vasconcelos's wordless singing, carried over from As Falls Wichita, So Falls Wichita Falls); Steve Rodby's first Group album, replacing Mark Egan; the title track pays explicit tribute to Ornette Coleman, 'James' is inspired by James Taylor, and 'The Bat Part II' reworks 'The Bat' from 80/81 (1980). obs[S2, S9]: won the 1983 Grammy Award for Best Jazz Fusion Performance (25th Annual Grammy Awards) — the Group's first of ten Grammys — plus the Playboy Readers Poll for Best Jazz Album; the same Grammy category had the Group's American Garage as a 1981 nominee, making Offramp the record that converted the rubric's named border case from nominee to winner (S9). obs[S2]: commercial peak for the period — No. 1 on Billboard's Jazz LPs chart, No. 50 on the Billboard 200, No. 43 on the Top R&B/Hip-Hop Albums chart; voted No. 669 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). obs[S2]: reception splits along the module's named fault line — AllMusic 4.5/5 and Encyclopedia of Popular Music 5/5 against lower ratings from the Penguin Guide to Jazz Recordings and the Rolling Stone Jazz Record Guide (their star values render as images on the page; exact numbers not asserted here). obs[S1]: Alex Henderson's AllMusic review calls Offramp a 'less accessible but certainly rewarding successor' to As Falls Wichita on which Metheny 'leans more toward the abstract' but 'shuns empty musical acrobatics' in 'a powerful rapport' with Lyle Mays; AllMusic styles it Crossover Jazz, Contemporary Jazz, Guitar Jazz and Jazz Instrument, while Wikipedia's genre field is jazz fusion (S2) — the source styles and the Grammy category agree on the fusion side of the boundary. inf: no source in this pass documents placement on a major published canon list; the Larkin Top-1000 entry is the only canon-list-adjacent datum. Year note: recorded 1981-10, released 1982-05-03; the module prefers the recording year in the id, but this dossier keeps the dispatch's 1982 id and year (the eligibility-gate record), and both years sit inside the 1945-1985 window — the divergence is recorded rather than silently resolved.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "Offramp — AllMusic album page (styles, recording date/location, duration, moods, Alex Henderson review)",
+   "type": "overview",
+   "url": "https://www.allmusic.com/album/offramp-mw0000192234",
+   "notes": "AllMusic attributes the album to 'Pat Metheny / Pat Metheny Group' and prints release date 'October, 1981' — the recording month as release date; recorded in the dossier as content."
+  },
+  "S2": {
+   "title": "Offramp — Wikipedia album article (dates, studio, personnel, technical staff, reception, charts, awards, track listing)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Offramp_(album)"
+  },
+  "S3": {
+   "title": "Offramp — AllMusic credits page (full role credits: engineers, assistant engineer, mixing, producers, performers, artwork, liner notes)",
+   "type": "credits",
+   "url": "https://www.allmusic.com/album/offramp-mw0000192234/credits",
+   "notes": "Credits tab rendered via browser (JS-loaded). Contains AllMusic-specific quirks recorded as content in the dossier: a Pat Metheny 'Bass' credit, a Lyle Mays 'Harp' credit, Vasconcelos billed 'Guest Artist' with 'Drums (Snare)', and the 'Gregg Lunsford' spelling."
+  },
+  "S4": {
+   "title": "Offramp — ECM Records official catalogue page (ECM 1216: featured artists with instruments, recorded October 1981 Power Station New York, original release date 03.05.1982, tracks with writers and durations)",
+   "type": "label-catalogue",
+   "url": "https://ecmrecords.com/product/offramp-pat-metheny-group/",
+   "notes": "House source — authoritative on credits and catalogue facts, never independent on merit (per config/style-research/ecm.md)."
+  },
+  "S5": {
+   "title": "Pat Metheny Group – Offramp — Discogs master + original 1982 German LP ECM 1216 / 2301 216 (r446885): sides, durations, sleeve credit line 'Recorded October 1981 at Power Station, New York / Mixed at Talent Studio, Oslo', per-track engineers, publishers, pressings",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/54828-Pat-Metheny-Group-Offramp"
+  },
+  "S6": {
+   "title": "Offramp by Pat Metheny Group — MusicBrainz release group (ws/2 JSON: artist and title verified, first-release-date 1982-05-03, 1982 ECM LP releases incl. ECM-1-1216 US)",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/ddf0d7b0-3d82-3784-9b97-e550e82a1b59"
+  },
+  "S7": {
+   "title": "iTunes Search API — Pat Metheny Offramp album results (collectionId 1523943961, artistName 'Pat Metheny Group', collectionName 'Offramp', releaseDate 1982-05-03, 7-track listing, collection trackCount 8 quirk)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Pat+Metheny+Offramp&entity=album&limit=10"
+  },
+  "S8": {
+   "title": "Cover Art Archive — MusicBrainz release group ddf0d7b0-3d82-3784-9b97-e550e82a1b59 (approved front image attached to MusicBrainz release f4d992bd-93a8-4d4f-892a-d785263b0500, the 1982 US ECM LP)",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/ddf0d7b0-3d82-3784-9b97-e550e82a1b59"
+  },
+  "S9": {
+   "title": "Grammy Award for Best Jazz Fusion Performance — Wikipedia (recipients table: 1983 winner Pat Metheny Group – Offramp; 1981 nominee American Garage; PMG the category's most-awarded artist with five wins)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Grammy_Award_for_Best_Jazz_Fusion_Performance"
+  },
+  "S10": {
+   "title": "Pat Metheny Group: Offramp (ECM 1216) — ecmreviews.com review 'Between Sound and Space' (personnel, engineers, recorded October 1981 Power Station; independent review site)",
+   "type": "review",
+   "url": "https://ecmreviews.com/2011/11/07/offramp/"
+  },
+  "S11": {
+   "title": "Power Station (recording studio) — Wikipedia (address 441 West 53rd Street, coordinates 40.76639/-73.98944, history; notes the Pat Metheny Group 'recorded the first of many albums they would record at the studios')",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Power_Station_(recording_studio)"
+  },
+  "S12": {
+   "title": "Jan Erik Kongshaug — Wikipedia (worked at Arne Bendiksen Studio 1967-74 and Talent Studio 1974-79, Oslo; identity backing for the Talent Studio site_new)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Jan_Erik_Kongshaug"
+  }
+ },
+ "continuity_case": "The case for continuity is real but honestly bounded. Every piece is a through-composed Metheny–Mays song-form original played by a piano-led ensemble — Mays's piano and organ, Rodby doubling acoustic and electric bass, Gottlieb's drums, and Vasconcelos's percussion and wordless voice as colour rather than a rock backbeat — and the reach into the canon's own lineage is documented on the record: the title track is an explicit tribute to Ornette Coleman, the free-jazz founding figure, and 'The Bat Part II' reworks material from Metheny's 80/81 (1980) (S2); the Power Station lineage note (S11) and the song-form, improvisation-centred reading of Henderson's review (S1) carry the same direction. The electric vocabulary is equally documented — the Roland GR-300 guitar-synthesizer debut, electric bass, Synclavier, and a Grammy won in a fusion category (S2, S9) — so this is precisely the module's standing border case: acoustic/swinging/song-form makes it arguable, electric-rock vocabulary is where the fusion exclusion bites, and the ruling is a scope judgment the council and John must make, not a data question this dossier can settle.",
+ "overlap_risk": "fusion — ECM's fusion edge and the rubric's fusion exclusion; early Pat Metheny Group is the module's named standing border case, and Offramp is the direct continuation of American Garage's 1979 position on the same line (American Garage was a 1981 nominee in the same fusion Grammy category, S9). Dispatch-level dedup for this candidate returned clean; the archive already holds Bright Size Life (1976) as the prior Metheny candidate — a different album on the same artist seam — so any fusion-style run claiming early PMG should check against this dossier before surfacing. The modal/later-modal seam does not apply: no modal-centred case is on the table for this record.",
+ "scope_flag": "ECM gate, 1980s wing — recorded October 1981, released 3 May 1982: inside the module's 1969-1985 window and the 1945-1985 eligibility window the dispatch confirms this candidate already passed; 1980s ECM arrivals lean scope_call/contested doubly per the module, and this record sits squarely on that boundary. It is the rubric's named border case in person: early Pat Metheny Group under the American Garage framing — acoustic/swinging/song-form makes it arguable; electric-rock vocabulary makes the fusion exclusion bite. The Grammy evidence is the boundary's sharpest document and cuts both ways, and is recorded as content: Offramp won the 1983 Grammy for Best Jazz Fusion Performance, the Group's first of ten (S2, S9) — institutional recognition on one hand, an industry fusion classification on the other; American Garage had been nominated in the same category two years earlier (S9), so the border case is a lineage rather than a one-off. Strongest case against: the album's signature sonorities are electronic (Roland GR-300 guitar-synthesizer debut, electric bass, Synclavier), Wikipedia classifies it as jazz fusion, and the honour it won is a fusion award — territory the rubric's fusion exclusion reaches unless the council accepts the song-form/acoustic-core argument. Strongest case for: No. 1 on Billboard's Jazz LPs chart, a Larkin All Time Top 1000 entry, and a piano-and-song-form ensemble reaching the Ornette Coleman lineage forward by explicit tribute (S2).",
+ "include": null,
+ "personnel_record": {
+  "recording_dates": [
+   "1981-10"
+  ],
+  "multi_session": false,
+  "studio": "Power Station, New York",
+  "recording_sites": [
+   {
+    "session_date": "1981-10",
+    "site_raw": "Power Station, New York",
+    "site_slug": "power-station",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S5"
+   }
+  ],
+  "producer": "Manfred Eicher",
+  "engineer": "Jan Erik Kongshaug and Gragg Lunsford",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Pat Metheny",
+    "instrument": "electric guitar",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S10"
+    ],
+    "name_variants": [],
+    "notes": "Leader. Wikipedia prints 'electric and acoustic guitar, guitar synthesizer, Synclavier' (S2); ECM 'Guitar, Guitar Synthesizer, Synclavier Guitar' (S4); Discogs LP 'Guitar Synthesizer, Guitar, Guitar Synthesizer [Synclavier Guitar]' (S5); AllMusic 'Guitar, Guitar (Electric), Guitar (Synthesizer), Synclavier, Synthesizer, Performer' (S3). Also plays acoustic guitar on the record (S2, S5). The Roland GR-300 guitar synthesizer — first studio use on this album, later a signature instrument (S2) — and the Synclavier are electronic instruments with no taxonomy string; 'electric guitar' is the taxonomy primary and the mapping is flagged here per the contract's taxonomy rule. AllMusic's aggregation also lists a 'Bass' credit (S3) that no other source supports — probable AllMusic quirk, epistemic unk."
+   },
+   {
+    "name": "Lyle Mays",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S10"
+    ],
+    "name_variants": [],
+    "notes": "Also plays synthesizer, autoharp, organ (taxonomy 'organ'), and Synclavier (electronic; no taxonomy string) (S2, S3, S4, S5); ecmreviews summarizes as 'keyboards' (S10). AllMusic additionally credits harp (S3) — no other source lists it; epistemic unk, probable aggregation noise. Co-composer of all seven tracks (S4, S5)."
+   },
+   {
+    "name": "Steve Rodby",
+    "instrument": "electric bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S10"
+    ],
+    "name_variants": [],
+    "notes": "Joined the Group for this album, replacing Mark Egan (S2). Also plays double bass: Wikipedia prints 'electric and acoustic bass' (S2), ECM and the Discogs LP print 'Acoustic Bass, Electric Bass' (S4, S5), AllMusic 'Bass, Bass (Acoustic), Bass (Electric)' (S3), ecmreviews 'basses' (S10). No source marks which bass is primary, so the taxonomy primary 'electric bass' follows Wikipedia's printed order and the doubling is recorded here rather than silently resolved."
+   },
+   {
+    "name": "Danny Gottlieb",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S10"
+    ],
+    "name_variants": [
+     "Dan Gottlieb"
+    ],
+    "notes": "ECM prints 'Dan Gottlieb' (S4); Wikipedia, AllMusic, Discogs and ecmreviews print 'Danny' (S2, S3, S5, S10). AllMusic also credits 'Drums (Snare)' (S3)."
+   },
+   {
+    "name": "Naná Vasconcelos",
+    "instrument": "percussion",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S10"
+    ],
+    "name_variants": [
+     "Nana Vasconcelos"
+    ],
+    "notes": "Also voice (taxonomy 'vocals') and berimbau (single-string Brazilian percussion bow; outside the taxonomy) (S2, S3, S4, S5, S10). AllMusic bills him as 'Guest Artist' and adds 'Drums (Snare)' (S3); Wikipedia and the ECM catalogue list him as a Group member on this album (S2, S4) — membership framing differs, presence obs in every source; ecmreviews corroborates the snare ('rolling snare... courtesy of Vasconcelos' on 'Au Lait', S10). The Group's first studio album with vocals, carried over from As Falls Wichita (S2). Co-composer of 'Barcarole' and 'Eighteen' (S4, S5)."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Barcarole",
+    "track_number": 1,
+    "side": "A",
+    "duration": "3:17",
+    "session_date": null,
+    "composers": [
+     "Lyle Mays",
+     "Naná Vasconcelos",
+     "Pat Metheny"
+    ],
+    "personnel": [
+     "Pat Metheny",
+     "Lyle Mays",
+     "Steve Rodby",
+     "Danny Gottlieb",
+     "Naná Vasconcelos"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S4",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Are You Going With Me?",
+    "track_number": 2,
+    "side": "A",
+    "duration": "8:47",
+    "session_date": null,
+    "composers": [
+     "Lyle Mays",
+     "Pat Metheny"
+    ],
+    "personnel": [
+     "Pat Metheny",
+     "Lyle Mays",
+     "Steve Rodby",
+     "Danny Gottlieb",
+     "Naná Vasconcelos"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S4",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Au Lait",
+    "track_number": 3,
+    "side": "A",
+    "duration": "8:32",
+    "session_date": null,
+    "composers": [
+     "Lyle Mays",
+     "Pat Metheny"
+    ],
+    "personnel": [
+     "Pat Metheny",
+     "Lyle Mays",
+     "Steve Rodby",
+     "Danny Gottlieb",
+     "Naná Vasconcelos"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S4",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Eighteen",
+    "track_number": 4,
+    "side": "B",
+    "duration": "5:08",
+    "session_date": null,
+    "composers": [
+     "Lyle Mays",
+     "Naná Vasconcelos",
+     "Pat Metheny"
+    ],
+    "personnel": [
+     "Pat Metheny",
+     "Lyle Mays",
+     "Steve Rodby",
+     "Danny Gottlieb",
+     "Naná Vasconcelos"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S4",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "Offramp",
+    "track_number": 5,
+    "side": "B",
+    "duration": "5:59",
+    "session_date": null,
+    "composers": [
+     "Lyle Mays",
+     "Pat Metheny"
+    ],
+    "personnel": [
+     "Pat Metheny",
+     "Lyle Mays",
+     "Steve Rodby",
+     "Danny Gottlieb",
+     "Naná Vasconcelos"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S4",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "James",
+    "track_number": 6,
+    "side": "B",
+    "duration": "6:47",
+    "session_date": null,
+    "composers": [
+     "Lyle Mays",
+     "Pat Metheny"
+    ],
+    "personnel": [
+     "Pat Metheny",
+     "Lyle Mays",
+     "Steve Rodby",
+     "Danny Gottlieb",
+     "Naná Vasconcelos"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S4",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "title": "The Bat Part II",
+    "track_number": 7,
+    "side": "B",
+    "duration": "3:50",
+    "session_date": null,
+    "composers": [
+     "Lyle Mays",
+     "Pat Metheny"
+    ],
+    "personnel": [
+     "Pat Metheny",
+     "Lyle Mays",
+     "Steve Rodby",
+     "Danny Gottlieb",
+     "Naná Vasconcelos"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S4",
+     "S5",
+     "S7"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "ddf0d7b0-3d82-3784-9b97-e550e82a1b59",
+  "apple_album_id": "1523943961",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/ddf0d7b0-3d82-3784-9b97-e550e82a1b59/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "sources": [
+     "S8"
+    ],
+    "notes": "Approved front image in the Cover Art Archive, attached to MusicBrainz release f4d992bd-93a8-4d4f-892a-d785263b0500 — the 1982 US ECM LP (ECM-1-1216) (S8, S6)."
+   }
+  ],
+  "notes": "Recorded October 1981 at Power Station, New York, in a single recording block documented only to the month — no day-level dates in any consulted source (S2, S4, S5) — so recording_dates carries the ISO partial '1981-10', the recording_sites entries carry session_date null, and multi_session is false. Mixed at Talent Studio, Oslo (date undocumented): the original 1982 German LP sleeve transcribes as 'Recorded October 1981 at Power Station, New York / Mixed at Talent Studio, Oslo' (S5) — a two-venue compound the contract's split rule turns into two recording_sites entries, record and mix. The mix room explains Oslo mix engineer Jan Erik Kongshaug's presence: he worked at Talent Studio 1974-79 before founding Rainbow Studio (S12). Power Station and Talent Studio are both absent from the canonical places list (checked against jazz-canon places.json, 56 entries), so complete site_new objects are emitted for each: Power Station street-graded by scripts/geocode-place.py's Wikipedia rung (address 441 West 53rd Street documented at S11, which also notes the Pat Metheny Group 'recorded the first of many albums they would record at the studios'); Talent Studio at an honest 3-decimal Oslo city centroid with location_epistemic inf because no source documents a Talent Studio street address. Engineers: Jan Erik Kongshaug recorded all tracks except B2 'Offramp' (engineered by Gragg Lunsford) and also mixed the album; Barry Bongiovi assisted (S2, S3, S5, S10). Name-spelling conflicts preserved, not resolved: 'Gragg Lunsford' (S2, S5) vs 'Gregg Lunsford' (S3); 'Danny Gottlieb' (S2, S3, S5) vs 'Dan Gottlieb' (S4); 'Naná Vasconcelos' (S2, S3) vs 'Nana Vasconcelos' (S4, S5, S10). AllMusic quirks recorded as content: the album page attributes the record to 'Pat Metheny / Pat Metheny Group' and prints release date 'October, 1981' (the recording month); the credits list shows a Pat Metheny 'Bass' credit, a Lyle Mays 'Harp' credit, and Vasconcelos billed 'Guest Artist' — none supported by the other four personnel sources, marked unk in the personnel notes. Personnel Coverage: five musicians — a working group record, not a thin extraction. Track personnel reflects the album-level ensemble credit on a group record with no documented per-track variation or guest soloists; epistemic_track is obs for the album-level credit, and no per-track personnel list exists for this record in any source — the only per-track production fact documented anywhere is Lunsford engineering B2 (S5). Instrument mapping per the taxonomy: primaries electric guitar / piano / electric bass / drums / percussion; doubles recorded in notes — acoustic guitar, organ (taxonomy 'organ'), double bass, vocals, and the non-taxonomy instruments guitar synthesizer (Roland GR-300), Synclavier, autoharp, berimbau. Durations follow the original LP (S4, S5), totaling 42:20 (2,540 seconds); Wikipedia's infobox and AllMusic print 42:22, and the iTunes digital runs a few seconds longer per track (3:21/8:54/8:33/5:10/6:00/6:48/3:52) — transfer variation, not alternate takes; the iTunes collection also reports trackCount 8 against 7 actual tracks, unexplained by any source (the same quirk appears on the digital Standards, Vol. 1). Title forms follow the original LP against later digital normalization: 'Are You Going With Me?' (Wikipedia lowercases 'with'), 'Au Lait' (Wikipedia prints 'Au lait'), 'The Bat Part II' (iTunes prints 'The Bat Pt.2') (S2, S4, S5, S7). 'James' is inspired by James Taylor and the title track pays tribute to Ornette Coleman (S2). Catalogue numbers: ECM 1216 / 2301 216 (German LP, pressed by PRS Hannover), ECM-1-1216 (US), ECMS 1216 (Canada), PAP-25533 with Trio Records (Japan) (S5). Publishing: Pat-Meth Music Corp., Lyle Mays Inc., ECM Verlag (BMI) (S5). Design Dieter Rehm; cover graphics Gerd Winner; photography Deborah Feingold (S2, S5), who also carries AllMusic's 'Liner Notes' credit (S3). Producer Manfred Eicher (S2, S3, S4, S5, S10) — his near-constant presence across the catalogue noted per the style module. Awards: 1983 Grammy Award for Best Jazz Fusion Performance, 25th Annual Grammy Awards (S2, S9); Playboy Readers Poll Best Jazz Album (S2). Recording year 1981 vs release year 1982: the module prefers the recording year in the id; this dossier keeps the dispatch's 1982 id (the eligibility-gate record) and records the divergence here rather than renaming — both years are inside the window. Mixed at Talent Studio, Oslo (sleeve credit; mix date undocumented). Talent is a mixing credit, not a recording session, so it is not a recording_sites entry; no canonical Oslo place minted for it. Source genre descriptors recorded but outside the house style vocabulary: crossover-jazz, contemporary-jazz, guitar-jazz."
+ },
+ "ballot": {
+  "album": "Pat Metheny Group — Offramp (1982)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": "Recorded in October 1981 and released in 1982, so it is inside the 1945–1985 window; however, it sits at the doubly sensitive 1980–1985 ECM tail and fusion boundary, specifically the rubric's named American Garage border case."
+  },
+  "tier": "scope_call",
+  "priority": "consider",
+  "case_for": "Offramp is arguably the defining statement of the classic Pat Metheny Group sound: the first Group studio album to use Metheny's Roland GR-300 guitar synthesizer, the arrival of Steve Rodby, and the enduring composition \"Are You Going With Me?\" (S2). Its through-composed song forms, Mays's piano-centered harmony, acoustic/electric bass doubling, and improvisational ensemble playing provide a plausible post-bebop continuity case, while the title track's explicit Ornette Coleman tribute and \"The Bat Part II\"'s link to 80/81 offer documented lineage connections (S2). It also has substantial, if not traditional canon-level, recognition: a No. 1 Billboard Jazz LPs peak, the 1983 Grammy for Best Jazz Fusion Performance, and inclusion in Colin Larkin's All Time Top 1000 Albums (S2, S9).",
+  "case_against": "The album's strongest musical signatures are precisely the electronic and crossover elements that make the bridge test uncertain: guitar synthesizer, Synclavier, electric bass, polished production, and a Grammy classification as jazz fusion (S2, S9). The Ornette connection is an homage rather than clear evidence that the record extends free-jazz or post-bebop practice, and the dossier documents no major traditional jazz canon-list placement; its Larkin entry, charts, awards, and positive AllMusic and Popular Music reviews do not establish deep independent consensus. Penguin and Rolling Stone guide assessments were reportedly lower, though the dossier cannot verify their exact ratings, leaving the canonical case materially weaker than the album's artistic and commercial stature.",
+  "disagreement": "The references agree on the scope-call/consider verdict but differ in emphasis: Reference 1 treats the bridge case as probably insufficient and views Offramp as redundant with the cleaner Metheny precedent of Bright Size Life, while Reference 2 gives greater weight to the album's defining status, song-craft, and discovery value.",
+  "recommendation": "John should make an explicit boundary ruling on whether Offramp's song-form and post-bop lineage outweigh its decisive 1980s fusion vocabulary, rather than treating its acclaim as automatic canon consensus.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-5.6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

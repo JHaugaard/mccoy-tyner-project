@@ -1,0 +1,366 @@
+{
+  "id": "lester-young-the-president-plays-with-the-oscar-peterson-trio-1952",
+  "artist": "Lester Young",
+  "album": "The President Plays with the Oscar Peterson Trio",
+  "year": 1952,
+  "label": "Norgran",
+  "style_primary": "cool-jazz",
+  "rationale": "Lester Young ('Pres') is one of the most influential tenor saxophonists in jazz history \u2014 the father of the cool tenor sound \u2014 yet is entirely absent from the canon. This 1952 session pairs him with Oscar Peterson's working trio (Peterson, Kessel, Brown) plus drummer J.C. Heard for a relaxed, lyrical blowing date that captures Pres at his late-period best. AllMusic 5 stars, Penguin Guide 3.5 stars. Essential music from a jazz legend per Yanow. The album bridges the swing-era lyricism Pres pioneered with the small-group ethos of the 1950s \u2014 a foundational document for the cool school. Session gravity: Young, Peterson, Kessel, Brown, Heard \u2014 every name a titan. A must_have gap.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article (redirected from The President Plays)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Lester_Young_with_the_Oscar_Peterson_Trio"
+    },
+    "S2": {
+      "title": "Cover Art Archive (MusicBrainz)",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/4a5d1ac9-8a14-33b0-91fc-81895642dd20"
+    },
+    "S3": {
+      "title": "iTunes Search API",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Lester+Young+The+President+Plays+with+the+Oscar+Peterson+Trio&entity=album"
+    },
+    "S4": {
+      "title": "Wikipedia track listing and personnel",
+      "type": "discographic",
+      "url": "https://en.wikipedia.org/wiki/Lester_Young_with_the_Oscar_Peterson_Trio#Track_listing"
+    },
+    "S5": {
+      "title": "All About Jazz review (cited on Wikipedia)",
+      "type": "review",
+      "url": "https://www.allaboutjazz.com/lester-young-with-the-oscar-peterson-trio"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1952-11-28"
+    ],
+    "multi_session": false,
+    "studio": "New York City (venue not specifically documented)",
+    "recording_sites": [
+      {
+        "session_date": "1952-11-28",
+        "site_raw": "New York City",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S1"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Lester Young",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Oscar Peterson",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Barney Kessel",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Brown",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "J. C. Heard",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Ad Lib Blues",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:54",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Oscar Peterson",
+          "Lester Young"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Can't Get Started",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:41",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Vernon Duke",
+          "Ira Gershwin"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Just You, Just Me",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:40",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Jesse Greer",
+          "Raymond Klages"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Almost Like Being in Love",
+        "track_number": 4,
+        "side": "B",
+        "duration": "3:34",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Frederick Loewe",
+          "Alan Jay Lerner"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Tea for Two",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:45",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Vincent Youmans",
+          "Irving Caesar"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "There Will Never Be Another You",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:28",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Harry Warren",
+          "Mack Gordon"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "(Back Home Again In) Indiana",
+        "track_number": 7,
+        "side": "C",
+        "duration": "7:04",
+        "session_date": "1952-11-28",
+        "composers": [
+          "James F. Hanley",
+          "Ballard MacDonald"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "On the Sunny Side of the Street",
+        "track_number": 8,
+        "side": "C",
+        "duration": "3:27",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Jimmy McHugh",
+          "Dorothy Fields"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Stardust",
+        "track_number": 9,
+        "side": "C",
+        "duration": "3:35",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Hoagy Carmichael",
+          "Mitchell Parish"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "(I'm) Confessin' (That I Love You)",
+        "track_number": 10,
+        "side": "D",
+        "duration": "3:41",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Doc Daugherty",
+          "Ellis Reynolds",
+          "Al J. Neiburg"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Can't Give You Anything but Love",
+        "track_number": 11,
+        "side": "D",
+        "duration": "3:22",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Jimmy McHugh",
+          "Dorothy Fields"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "These Foolish Things",
+        "track_number": 12,
+        "side": "D",
+        "duration": "3:27",
+        "session_date": "1952-11-28",
+        "composers": [
+          "Jack Strachey",
+          "Holt Marvell",
+          "Harry Link"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "4a5d1ac9-8a14-33b0-91fc-81895642dd20",
+    "apple_album_id": "1741894408",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/95418a35-9e96-4933-8396-9a2ac73af815/32657979422.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session November 28, 1952 in New York City (specific studio not documented in sources). The music was originally released as three separate Norgran 10-inch LPs in 1954 (Lester Young with the Oscar Peterson Trio #1 MGN 5, #2 MGN 6, and The President MGN 1005), later assembled as the 1997 Verve compilation 'Lester Young with the Oscar Peterson Trio' and also issued as 'The President Plays with the Oscar Peterson Trio' on Verve. Engineer not documented. Peterson's trio at this time included Barney Kessel on guitar (before Herb Ellis replaced him) plus Ray Brown on bass; J.C. Heard augmented for this session."
+  },
+  "ballot": {
+    "album": "Lester Young \u2014 The President Plays with the Oscar Peterson Trio (1952)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The recording is within 1940-1979 and no style is formally excluded, but its status is genuinely borderline: it may be a crucial cool-jazz lineage document or primarily a swing/mainstream standards date outside the canon's post-bebop center."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "This is a compelling way to hear Lester Young's light, behind-the-beat phrasing and melodic freedom\u2014the direct lineage claimed for Stan Getz, Zoot Sims, Warne Marsh, and the cool-tenor tradition. The session also has exceptional gravity: Young is paired with Oscar Peterson, Barney Kessel, Ray Brown, and J. C. Heard, while the standards make its discovery value immediate; the dossier reports AllMusic's five-star rating, a 3.5-star Penguin Guide rating, and an All About Jazz review (S5). For a canon missing Young, this relaxed 1952 date supplies an unusually accessible bridge from swing-era lyricism to the small-group sound of the 1950s.",
+    "case_against": "Musically, the record is a standards-heavy, swing-rooted blowing session with a polished mainstream rhythm section, not a modern post-bebop group statement; admitting it could expand the canon into a general mid-century jazz survey. It is also not clearly Young's defining document: the material was originally issued as three Norgran 10-inch LPs and only later assembled, weakening the album-as-statement signal. The dossier's substantive evidence is thin\u2014largely Wikipedia and its cited All About Jazz review\u2014while the claimed AllMusic and Penguin assessments are not independently attached, so consensus should not be treated as fully verified.",
+    "disagreement": "The references agree that the record is valuable and that its sourcing is thinner than the rationale suggests, but they split on whether the swing/mainstream character is merely a quality consideration or a genuine scope boundary. Reference 1 therefore assigns contested, while Reference 2 assigns scope_call because the date may sit outside the post-bebop tradition the canon is designed to document.",
+    "recommendation": "John should make an explicit scope decision about whether a swing-rooted Young date that explains the cool lineage belongs in this post-bebop canon, while treating the dossier's critical-consensus claims as requiring verification.",
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "id": "stan-getz-jazz-samba-1962",
+  "artist": "Stan Getz & Charlie Byrd",
+  "album": "Jazz Samba",
+  "year": 1962,
+  "label": "Verve",
+  "style_primary": "cool-jazz",
+  "rationale": "The album that launched the bossa nova craze in America. Grammy-winning single 'Desafinado' (Best Jazz Performance, 1963). Nominated for Album of the Year. AllMusic 5\u2605, Penguin Guide 3.5\u2605, DownBeat 4.5\u2605, Rolling Stone 4\u2605. Included in 1001 Albums You Must Hear Before You Die. Billboard #1. A defining statement of the bossa nova movement \u2014 the post-bop encounter with Brazilian samba that opened an entire new direction and made Getz a household name.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Stan Getz, Charlie Byrd: Jazz Samba \u2014 AllMusic",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/jazz-samba-mw0000594010"
+    },
+    "S2": {
+      "title": "Jazz Samba \u2014 Wikipedia",
+      "type": "article",
+      "url": "https://en.wikipedia.org/wiki/Jazz_Samba"
+    },
+    "S3": {
+      "title": "Stan Getz / Charlie Byrd \u2014 Jazz Samba \u2014 Discogs",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/107195-Stan-Getz-Charlie-Byrd-Jazz-Samba"
+    },
+    "S4": {
+      "title": "iTunes Search API \u2014 Jazz Samba",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Stan+Getz+Jazz+Samba+1962&entity=album"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 Jazz Samba release group",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/ba062f3e-1d0c-37f2-b9f3-5a8e20c5ad45"
+    },
+    "S6": {
+      "title": "Everything Jazz \u2014 Jazz Samba feature",
+      "type": "article",
+      "url": "https://www.everythingjazz.com/story/jazz-samba-a-masterpiece-recorded-in-three-hours/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-02-13"
+    ],
+    "multi_session": false,
+    "studio": "Pierce Hall, All Souls Unitarian Church, Washington, D.C.",
+    "recording_sites": [
+      {
+        "session_date": "1962-02-13",
+        "site_raw": "Pierce Hall, All Souls Unitarian Church, Washington, D.C.",
+        "site_slug": null,
+        "site_new": {
+          "name": "Pierce Hall, All Souls Unitarian Church",
+          "city": "Washington, D.C.",
+          "kind": "other",
+          "address": "1500 Harvard Street NW",
+          "lat": 38.92601,
+          "lon": -77.036,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/All_Souls_Church,_Unitarian_(Washington,_D.C.) | coords: OSM Nominatim: 1500 Harvard Street NW, Washington, D.C. \u2014 geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Creed Taylor",
+    "engineer": "Ed Green",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Stan Getz",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Byrd",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "also arranged the tracks"
+      },
+      {
+        "name": "Gene Byrd",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Joe Byrd"
+        ],
+        "notes": "also plays double bass; Charlie Byrd's brother"
+      },
+      {
+        "name": "Keter Betts",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Buddy Deppenschmidt",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "also plays percussion"
+      },
+      {
+        "name": "Bill Reichenbach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Bill Reichenbach Sr.",
+          "William Frank Reichenbach Sr."
+        ],
+        "notes": "also plays percussion"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Desafinado",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:49",
+        "session_date": "1962-02-13",
+        "composers": [
+          "Antonio Carlos Jobim",
+          "Newton Mendonca"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Charlie Byrd",
+          "Gene Byrd",
+          "Keter Betts",
+          "Buddy Deppenschmidt",
+          "Bill Reichenbach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Samba Dees Days",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:32",
+        "session_date": "1962-02-13",
+        "composers": [
+          "Charlie Byrd"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Charlie Byrd",
+          "Gene Byrd",
+          "Keter Betts",
+          "Buddy Deppenschmidt",
+          "Bill Reichenbach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "O Pato",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:29",
+        "session_date": "1962-02-13",
+        "composers": [
+          "Jayme Silva",
+          "Neuza Teixeira"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Charlie Byrd",
+          "Gene Byrd",
+          "Keter Betts",
+          "Buddy Deppenschmidt",
+          "Bill Reichenbach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Samba Triste",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:43",
+        "session_date": "1962-02-13",
+        "composers": [
+          "Baden Powell",
+          "Billy Blanco"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Charlie Byrd",
+          "Gene Byrd",
+          "Keter Betts",
+          "Buddy Deppenschmidt",
+          "Bill Reichenbach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Samba De Uma Nota So",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:09",
+        "session_date": "1962-02-13",
+        "composers": [
+          "Antonio Carlos Jobim",
+          "Newton Mendonca"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Charlie Byrd",
+          "Gene Byrd",
+          "Keter Betts",
+          "Buddy Deppenschmidt",
+          "Bill Reichenbach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "E Luxo So",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:40",
+        "session_date": "1962-02-13",
+        "composers": [
+          "Ary Barroso"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Charlie Byrd",
+          "Gene Byrd",
+          "Keter Betts",
+          "Buddy Deppenschmidt",
+          "Bill Reichenbach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Bahia",
+        "track_number": 7,
+        "side": "B",
+        "duration": "6:38",
+        "session_date": "1962-02-13",
+        "composers": [
+          "Ary Barroso"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Charlie Byrd",
+          "Gene Byrd",
+          "Keter Betts",
+          "Buddy Deppenschmidt",
+          "Bill Reichenbach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "ba062f3e-1d0c-37f2-b9f3-5a8e20c5ad45",
+    "apple_album_id": 1469580375,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/436fd4ba-81ad-422d-a266-8cda13ad799e/27590109338.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Painting by Olga Albizu"
+      }
+    ],
+    "notes": "Single session recorded live in Pierce Hall, All Souls Unitarian Church, Washington, D.C. on February 13, 1962. The album was recorded in a single afternoon and reportedly took just three hours. Two drummers and two bassists provided the distinctive bossa nova percussion feel. Gene Byrd is Charlie Byrd's brother."
+  },
+  "ballot": {
+    "album": "Stan Getz & Charlie Byrd \u2014 Jazz Samba (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The year is clearly in scope; the only soft boundary is whether this bossa-nova/cool-jazz crossover belongs at the post-bebop canon's center or as an adjacent bridge."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a defining bridge record: the dossier documents a Billboard #1 album, a Grammy-winning performance of \"Desafinado,\" strong AllMusic and DownBeat ratings, and inclusion in 1001 Albums You Must Hear Before You Die (S1, S2, S6). Its versions of Jobim's \"Desafinado\" and \"Samba de Uma Nota So\" helped make Brazilian repertoire and bossa nova rhythm part of the American jazz vocabulary, while the Getz-Byrd pairing remains immediately accessible and musically distinctive. The single-afternoon session's airy guitar, breathy tenor, and layered percussion also give it substantial discovery value, even if its personnel network is less canonical than a major hard-bop date.",
+    "case_against": "The album's central importance is to jazz's encounter with Brazilian popular music rather than to the post-bebop, modal, or hard-bop core, so its inclusion risks broadening the canon toward historically important crossover records. Its artistic achievement is also shadowed by Getz/Gilberto, which more definitively joined Getz to Jo\u00e3o Gilberto and Jobim and may be the stronger single representative of this movement. The dossier's consensus evidence is promising but not fully independently documented: the asserted Penguin Guide 3.5-star rating is not a crown-level signal, and much of the supporting data rests on Wikipedia, Discogs, and standard web sources (S1-S6).",
+    "disagreement": "The references split materially on tier: Reference 1 judged the album contested because of its bossa-pop adjacency, the stronger competing case for Getz/Gilberto, and thin verification of the ratings, while Reference 2 judged it consensus_core and treated bossa nova as squarely within the post-bebop lineage. They also disagree on scope emphasis: one sees a genuine center-of-gravity boundary, while the other finds scope clean.",
+    "recommendation": "John should treat Jazz Samba as a strong, contested candidate and decide whether the canon wants this historically catalytic bridge in addition to, or instead of, Getz/Gilberto.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
