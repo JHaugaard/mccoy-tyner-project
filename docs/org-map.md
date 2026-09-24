@@ -141,8 +141,10 @@ follow-ups list was refreshed.
 - **canon-council** advises.
 - **drip** delivers.
 - **ship** publishes.
-- **Claude Code** is the engineering contractor for schema/pipeline/
-  site-code work too deep for chat (handoffs land as notes in the repo).
+- **Coder** (Hermes, @coder) is the default engineering agent for
+  schema/pipeline/site-code work too deep for chat (handoffs land as
+  notes in the repo). Claude Code is engaged only by John's explicit,
+  task-specific exception (ruled 2026-09-24).
 - Everyone else is adjacent staff.
 
 ## Git ritual (established 2026-07-26)
@@ -164,7 +166,7 @@ follow-ups list was refreshed.
 - A possible `canon_status='reference'` value: fully gathered albums
   held for research (e.g. a 10-album Shorter deep dive) without
   inflating the review queue or tripping the backlog cap. Schema work —
-  Claude Code's lane via handoff note, when bulk research-gathering
+  Coder's lane via handoff note, when bulk research-gathering
   becomes habitual.
 - The open follow-ups in `docs/follow-ups.md`. As of 2026-07-26 two are
   closed (#1 embeddings backfill — all 121 albums and 629 persons now
