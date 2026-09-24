@@ -96,7 +96,25 @@ SELECT json_object_agg(a.id, json_build_object(
        JOIN _jazzcanon.instrument i ON i.id = p.instrument_id
        WHERE p.album_id = a.id
        GROUP BY pe.id, pe.canonical_name
-     ) row)
+     ) row),
+  -- Production credits for the Album Card (The Board phase 1, 2026-09-24).
+  -- Coverage is incomplete BY DESIGN — producer on 232/238 published albums,
+  -- engineer on 182 — so an album with no credits exports `[]` and is never
+  -- an error. Ordering is role (the production_role enum's own order:
+  -- producer, engineer, arranger, mixing, mastering, supervisor, other), then
+  -- name, then id — total and stable run-to-run. One entry per
+  -- production_credit row: the table is unique on
+  -- (album_id, person_id, role, session_id), so a per-session credit could in
+  -- principle repeat a person+role pair. None do today; the id tiebreak keeps
+  -- the order deterministic if one ever does.
+  'production', (
+     SELECT coalesce(json_agg(json_build_object(
+              'personId', pc.person_id, 'name', pe.canonical_name,
+              'role', pc.role, 'e', pc.epistemic)
+            ORDER BY pc.role, pe.canonical_name, pc.id), '[]'::json)
+     FROM _jazzcanon.production_credit pc
+     JOIN _jazzcanon.person pe ON pe.id = pc.person_id
+     WHERE pc.album_id = a.id)
 ))
 FROM _jazzcanon.album a
 LEFT JOIN _jazzcanon.person lead ON lead.id = a.leader_person_id
@@ -254,6 +272,9 @@ const rd = f => JSON.parse(fs.readFileSync(path + '/' + f, 'utf8'));
 const albums = rd('albums.json'), details = rd('details.json'), graph = rd('graph.json');
 const places = rd('places.json'), activity = rd('people-activity.json');
 const fail = m => { console.error('✗ INVARIANT FAILED: ' + m); process.exit(1); };
+// _jazzcanon.production_role, in the enum's own declared order — which is the
+// order the export sorts by and the Album Card renders in.
+const PROD_ROLES = ['producer','engineer','arranger','mixing','mastering','supervisor','other'];
 if (albums.length !== Object.keys(details).length)
   fail(`albums ${albums.length} != details ${Object.keys(details).length}`);
 for (const a of albums) {
@@ -264,6 +285,22 @@ for (const a of albums) {
   if (!d) fail(`no details for album ${a.id}`);
   if (!d.tracks || d.tracks.length < 1) fail(`album ${a.id} has no tracks`);
   if (!d.personnel || d.personnel.length < 1) fail(`album ${a.id} has no personnel`);
+  // production: shape only, NEVER presence. Coverage is incomplete by design,
+  // so an empty array is a valid answer and must not abort the export.
+  if (!Array.isArray(d.production)) fail(`album ${a.id} production is not an array`);
+  const seenCredit = new Set();
+  for (const c of d.production) {
+    for (const k of ['personId','name','role','e'])
+      if (!c[k]) fail(`album ${a.id} production credit missing ${k}`);
+    if (!PROD_ROLES.includes(c.role)) fail(`album ${a.id} bad production role ${c.role}`);
+    const k = c.personId + '|' + c.role;
+    if (seenCredit.has(k)) fail(`album ${a.id} duplicate production credit ${c.name} / ${c.role}`);
+    seenCredit.add(k);
+  }
+  // role order is the contract the card renders in; it must be total
+  const roleOrd = d.production.map(c => PROD_ROLES.indexOf(c.role));
+  for (let i = 1; i < roleOrd.length; i++)
+    if (roleOrd[i] < roleOrd[i - 1]) fail(`album ${a.id} production not ordered by role`);
 }
 if (Object.keys(graph.people).length < 1) fail('graph.people empty');
 if (!graph.edges || graph.edges.length < 1) fail('graph.edges empty');
