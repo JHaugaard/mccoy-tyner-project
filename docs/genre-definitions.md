@@ -8,9 +8,15 @@ Working reference for the McCoy Tyner project. Rules evolve as the list develops
 
 ## On Eras (read first)
 
-The **Era** line under each genre is a *center of gravity, not a fence*. It tells you where the style clusters — it does **not** reject an album for landing a few years outside. The governing test is always the Test Question at the bottom (swings with structure, post-bebop, pre-fusion in spirit — **regardless of year**). Do not flag or down-rank a candidate for date alone; only the spirit test and the hard Out-of-Scope marker (pre-1949 bebop) exclude — free jazz and fusion moved from *excluded* to *gated* on 2026-07-28, see **The Opened Gates** below. When a record sits near an edge, keep it and note *why it belongs*, not *which year it missed*.
+The **Era** line under each genre is a *center of gravity, not a fence*. It tells you where the style clusters — it does **not** reject an album for landing a few years outside. The governing test is always the Test Question at the bottom (swings with structure, post-bebop, pre-fusion in spirit — **regardless of year**). Do not flag or down-rank a candidate for date alone; only the spirit test and the hard Out-of-Scope marker (the pre-1945 window floor) exclude — bebop moved from *excluded* to **In Scope** on 2026-09-24, and free jazz and fusion moved from *excluded* to *gated* on 2026-07-28, see **The Opened Gates** below. When a record sits near an edge, keep it and note *why it belongs*, not *which year it missed*.
 
 ## In Scope
+
+### Bebop
+**Era:** 1944–1949 (the founding records), continuing into the 1950s  
+**Character:** The founding idiom of modern jazz — breakneck harmonic rhythm, angular melodic lines, small-group virtuosity; the blues and standards repertoires rebuilt. Admitted 2026-09-24 when the window floor moved to 1945 (rubric commit e7533ad). The classic documents are 78-era sessions reaching us as label compilations (Savoy, Dial, Blue Note) — the dossier records both the sessions and the original-issue story.  
+**Anchor albums:** Charlie Parker — *The Charlie Parker Story* (recorded 1945); Dizzy Gillespie — *Groovin' High* (recorded 1945–46)  
+**Key figures:** Charlie Parker, Dizzy Gillespie, Thelonious Monk, Bud Powell, Fats Navarro, Dexter Gordon, Kenny Clarke, Max Roach
 
 ### Cool Jazz
 **Era:** Late 1940s–mid 1950s  
@@ -48,7 +54,7 @@ The **Era** line under each genre is a *center of gravity, not a fence*. It tell
 
 | Genre | Reason |
 |-------|--------|
-| Bebop (pre-1949) | Too early — the starting point, not part of the list. Transition records inside the 1940–1948 band are `scope_call`; see the rubric. |
+| Pre-1945 records | Outside the window floor. Bebop itself moved In Scope on 2026-09-24 — the floor was set at 1945 precisely to admit the founding records; see the rubric. |
 
 ---
 
@@ -61,9 +67,9 @@ gravity stays in the post-bebop, hard-bop, and modal tradition.
 
 | Gate | Owner | Window | Governing test |
 |------|-------|--------|----------------|
-| Fusion / jazz-rock / jazz-funk | `style=fusion` | 1968–1979 | The **bridge test**: what does this record connect, on both ends? Excellent fusion is not by itself an argument. |
-| Free jazz / avant-garde / free improvisation | `style=free-jazz` | 1959–1979 | Does it **teach the idiom** and connect audibly to what is already in the canon? Every record also carries an honest `gateway` / `intermediate` / `demanding` rating. |
-| ECM Records (the label, 1969–1979) | `style=ecm` | 1969–1979 | **Continuity** with the 1960s modal tradition — and *would I make the same case if the label were not ECM?* |
+| Fusion / jazz-rock / jazz-funk | `style=fusion` | 1968–1985 | The **bridge test**: what does this record connect, on both ends? Excellent fusion is not by itself an argument. |
+| Free jazz / avant-garde / free improvisation | `style=free-jazz` | 1959–1985 | Does it **teach the idiom** and connect audibly to what is already in the canon? Every record also carries an honest `gateway` / `intermediate` / `demanding` rating. |
+| ECM Records (the label) | `style=ecm` | 1969–1985 | **Continuity** with the 1960s modal tradition — and *would I make the same case if the label were not ECM?* |
 
 Three standing rules apply to all three:
 
