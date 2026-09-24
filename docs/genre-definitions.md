@@ -55,15 +55,15 @@ The **Era** line under each genre is a *center of gravity, not a fence*. It tell
 ## The Opened Gates (2026-07-28)
 
 **Free jazz and fusion are no longer out of scope.** `excluded_styles` in
-`config/canon-rubric.md` is now empty, and three specialists own the newly admissible
-territory. This is a *permeable boundary*, not an annexation — the canon's center of
+`config/canon-rubric.md` is now empty, and three style modules of `jazz-style-researcher`
+(`config/style-research/{fusion,free-jazz,ecm}.md`) own the newly admissible territory. This is a *permeable boundary*, not an annexation — the canon's center of
 gravity stays in the post-bebop, hard-bop, and modal tradition.
 
 | Gate | Owner | Window | Governing test |
 |------|-------|--------|----------------|
-| Fusion / jazz-rock / jazz-funk | `jazz-fusion-researcher` | 1968–1979 | The **bridge test**: what does this record connect, on both ends? Excellent fusion is not by itself an argument. |
-| Free jazz / avant-garde / free improvisation | `jazz-free-jazz-researcher` | 1959–1979 | Does it **teach the idiom** and connect audibly to what is already in the canon? Every record also carries an honest `gateway` / `intermediate` / `demanding` rating. |
-| ECM Records (the label, 1969–1979) | `jazz-ecm-researcher` | 1969–1979 | **Continuity** with the 1960s modal tradition — and *would I make the same case if the label were not ECM?* |
+| Fusion / jazz-rock / jazz-funk | `style=fusion` | 1968–1979 | The **bridge test**: what does this record connect, on both ends? Excellent fusion is not by itself an argument. |
+| Free jazz / avant-garde / free improvisation | `style=free-jazz` | 1959–1979 | Does it **teach the idiom** and connect audibly to what is already in the canon? Every record also carries an honest `gateway` / `intermediate` / `demanding` rating. |
+| ECM Records (the label, 1969–1979) | `style=ecm` | 1969–1979 | **Continuity** with the 1960s modal tradition — and *would I make the same case if the label were not ECM?* |
 
 Three standing rules apply to all three:
 
@@ -72,7 +72,7 @@ Three standing rules apply to all three:
 2. **Incremental, not floodgate.** These gates open a few records at a time. No genre
    advocacy, no proposing records to "cover" a newly opened style — style quotas remain
    forbidden.
-3. **The ECM agent owns the label, not the aesthetic.** The fusion and free-jazz agents hand
+3. **The ECM style owns the label, not the aesthetic.** The fusion and free-jazz styles hand
    every ECM release in the window to it and note the hand-off in their Gaps, so no record
    gets argued twice from two directions.
 

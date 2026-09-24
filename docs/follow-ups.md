@@ -79,13 +79,13 @@ prompt to emit `source_map`. Also: the drip prompt still cites
 `~/.hermes/scripts/canon-council.py` — real path is
 `/home/john/.hermes/profiles/mccoy/scripts/canon-council.py`.
 
-## 4. Review-process rethink (John's item)
+## 4. Review-process rethink — RESOLVED 2026-09-20
 The 2026-07-25 ship executed a 19-album blanket verdict ("I accept all 19"),
-which the edit contract's "one album per instruction, no bulk flips" rule
-was stretched to cover (each album got its own edit_log row with John's
-words). John wants to redesign the review/acceptance process — how verdicts
-are given, batched, and recorded. Revisit edit-contract.md status-transition
-section when he does.
+exposing needless friction in the former "one album per instruction" rule.
+John ruled that canon verdicts may cover one album, a named group, or the
+whole pending queue, without per-album rationales. Each affected album still
+receives its own `edit_log` row carrying John's words. The governing rule now
+lives in `config/edit-contract.md`.
 
 ---
 Logged by mccoy, 2026-07-25.
