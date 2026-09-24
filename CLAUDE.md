@@ -35,7 +35,7 @@ Override: John's `include` verdict and every status transition are human-only.
 - Writes use `_jazzcanon_app`, which has no DELETE grant. Rejection is `canon_status='excluded'`.
 - A fact edit updates its epistemic label in the same statement and adds one `edit_log` row.
 - The canon = rows where `canon_status='included'` and `site_status IN ('approved','live')`. Everything else stays in the DB, export-invisible.
-- Scope = 1940–1979 window (the only gate code enforces). Free jazz, fusion, and ECM opened 2026-07-28 — *gated*, not excluded: each has a specialist, arrivals lean `scope_call`/`contested`, no genre advocacy. Rules in `config/canon-rubric.md`.
+- Scope = 1945–1985 window (the only gate code enforces). Bebop admitted 2026-09-24 (`bebop` is a primary style). Free jazz, fusion, and ECM opened 2026-07-28 — *gated*, not excluded: each has a specialist, arrivals lean `scope_call`/`contested`, no genre advocacy. Rules in `config/canon-rubric.md`.
 - Epistemic labels: `obs` = sourced observation, `inf` = inference, `unk` = unknown or weakly supported.
 - Scope commits and pushes to one repo per turn.
 - `docs/org-map.md` answers "whose job is this" — read it before restructuring anything.
