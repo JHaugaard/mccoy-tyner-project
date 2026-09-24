@@ -498,6 +498,80 @@ def resolve_citation_sources(record, warnings):
     return []
 
 
+# album_art vocabularies, mirroring the art_role / art_source enums.
+ART_ROLES = ("front", "back", "liner", "disc", "alternate", "other")
+ART_SOURCES = ("cover-art-archive", "itunes", "discogs", "wikimedia", "manual", "other")
+
+
+def plan_album_art(cover):
+    """Resolve a dossier's cover_art list into album_art rows.
+
+    Returns (rows, error). A row is a dict of role / source / url / is_primary /
+    epistemic; error is None or a refusal message.
+
+    Both `role` and `is_primary` used to be hardcoded at the INSERT — every
+    entry went in as a primary front. `uq_album_art_primary` is a partial
+    unique index on album_id WHERE is_primary, so a second documented front
+    aborted the whole transaction on a constraint name. A 78-era original
+    cover and a working reissue front could not both be recorded, and
+    alternates were being kept in prose notes instead of rows.
+
+    The rule:
+      * an entry that DECLARES is_primary is honoured exactly as written, and
+        when any entry declares one, entries that declare nothing are false;
+      * when NO entry declares one, the first role='front' entry is the
+        primary and every other entry is not;
+      * exactly one primary must survive, or this refuses by name instead of
+        letting the index abort with `uq_album_art_primary`.
+
+    A dossier with no cover_art yields no rows and no error. Most carry none,
+    and absence is not a failure — the guard only speaks when there is art.
+    """
+    if not isinstance(cover, list):
+        return [], None
+
+    rows = []
+    for ca in cover:
+        if not isinstance(ca, dict):
+            continue
+        url = null(ca.get("url") or ca.get("source_url"))
+        if not url:
+            continue
+        role = ca.get("role") or "front"
+        if role not in ART_ROLES:
+            role = "other"
+        src = ca.get("source") or "cover-art-archive"
+        if src not in ART_SOURCES:
+            src = "other"
+        rows.append({
+            "role": role, "source": src, "url": url,
+            "epistemic": ca.get("epistemic"),
+            "is_primary": ca.get("is_primary"),   # None = undeclared
+        })
+
+    if not rows:
+        return [], None
+
+    if any(r["is_primary"] is not None for r in rows):
+        for r in rows:
+            r["is_primary"] = bool(r["is_primary"])
+    else:
+        first_front = next((r for r in rows if r["role"] == "front"), None)
+        for r in rows:
+            r["is_primary"] = r is first_front
+
+    primaries = [r for r in rows if r["is_primary"]]
+    if len(primaries) != 1:
+        if not primaries:
+            detail = ("no entry is primary — declare is_primary: true on one, "
+                      "or give one entry role: \"front\"")
+        else:
+            named = ", ".join(f"{r['role']}/{r['source']}" for r in primaries)
+            detail = f"{len(primaries)} entries are primary ({named}) — exactly one may be"
+        return rows, f"cover_art: {detail}"
+    return rows, None
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -1148,20 +1222,16 @@ def main():
             counts["prod_credits"] += 1
 
         # ── Cover art ─────────────────────────────────────────────────────────
-        cover = pr.get("cover_art")
-        if isinstance(cover, list):
-            for ca in cover:
-                url = null(ca.get("url") or ca.get("source_url"))
-                if not url:
-                    continue
-                src = ca.get("source", "cover-art-archive")
-                if src not in ("cover-art-archive", "itunes", "discogs", "wikimedia", "manual", "other"):
-                    src = "other"
-                cur.execute("""
-                    INSERT INTO album_art (id, album_id, role, source, source_url, is_primary, epistemic)
-                    VALUES (%s,%s,'front'::art_role,%s::art_source,%s,true,%s::epistemic_label)
-                """, (str(uuid.uuid4()), aid, src, url, ep(ca.get("epistemic"), "inf")))
-                counts["art_rows"] += 1
+        art_rows, art_error = plan_album_art(pr.get("cover_art"))
+        if art_error:
+            raise ValueError(art_error)
+        for r in art_rows:
+            cur.execute("""
+                INSERT INTO album_art (id, album_id, role, source, source_url, is_primary, epistemic)
+                VALUES (%s,%s,%s::art_role,%s::art_source,%s,%s,%s::epistemic_label)
+            """, (str(uuid.uuid4()), aid, r["role"], r["source"], r["url"],
+                  r["is_primary"], ep(r["epistemic"], "inf")))
+            counts["art_rows"] += 1
 
         # ── Citations (album-level, v1) ───────────────────────────────────────
         cur.execute("SELECT id, title, url FROM source")
