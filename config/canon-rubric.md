@@ -1,8 +1,8 @@
 ---
 # ── Hard gates — machine-read by canon-drip-precheck.py and canon-council.py.
 # Edit these lines to steer McCoy; no code or schema change is ever needed.
-year_min: 1940
-year_max: 1979
+year_min: 1945
+year_max: 1985
 excluded_styles: []     # opened 2026-07-28 — see "The opened genre gates" below
 drip_size: 2            # candidates per nightly drip
 backlog_cap: 10         # stop proposing when this many sit unreviewed
@@ -19,9 +19,9 @@ gates the machinery enforces, the prose below is the judgment it applies.
 ## What "canonical" means here
 
 This is a **personal discovery canon**, not an academic one. An album
-belongs when it is a load-bearing record of the post-bebop tradition —
-the album you would hand someone to explain what this music is. Signals,
-strongest first:
+belongs when it is a load-bearing record of the bebop / post-bebop
+tradition — the album you would hand someone to explain what this music
+is. Signals, strongest first:
 
 1. **Consensus** — it keeps appearing: Penguin Guide core collection,
    NPR/JazzTimes/DownBeat canon lists, label-anthology status, the
@@ -42,34 +42,35 @@ strongest first:
 
 ## Scope discipline
 
-- The window is **year_min–year_max** (frontmatter, currently 1940–1979),
+- The window is **year_min–year_max** (frontmatter, currently 1945–1985),
   by original recording/release year. Outside the window: refuse, no
   exceptions in conversation — the window moves only by editing this file.
-- **The 1940–1948 band (added 2026-07-26, window lowered from 1949):**
-  the early window exists to catch the **bebop-to-post-bebop transition** —
-  the records where the post-bebop language is audible forming (Monk,
-  the young Miles and the Birth of the Cool adjacency, Hawkins' forward
-  edges, the pianists bridging Powell to the 1950s). **Pure bebop is not
-  yet in scope:** dates whose organizing idiom is bebop itself (early
-  Parker, Gillespie small groups) are out even inside the window, pending
-  a future rubric revision — one line here when John decides the day has
-  come. Transition vs. pure-bebop borderline records are **scope_call**,
-  argued in the ballot; John rules.
-- **The 1973–1979 band (added 2026-07-25):** the window was raised from
-  1972 to admit the ECM first decade and its kin. Albums recorded 1973+
-  are judged on **continuity**: does the record extend the post-bebop /
-  modal / post-bop tradition the canon is built on (the 1960s lineage
-  reaching forward), rather than found something new? The canonical
-  example is Keith Jarrett's *The Köln Concert* (1975) — late modal,
-  continuous. Early Pat Metheny Group (*American Garage*, 1979) is the
-  border case: acoustic, swinging, song-form = arguable; electric-rock
-  vocabulary = the fusion exclusion bites. 1973+ arrivals should lean
-  **scope_call** or **contested** by default and name the boundary in
-  the ballot; John rules.
+- **The 1945–1949 band — bebop is in scope (2026-09-24, floor raised
+  1940→1945):** the old "pure bebop is not yet in scope" clause is
+  retired — John ruled the day has come. Bebop itself now belongs to the
+  canon: Parker, Gillespie, Monk, Powell, the founding records, not only
+  the transition out of them. 1945–49 bebop arrivals are argued on the
+  five signals like everything else, not as **scope_call** — the idiom is
+  no longer a boundary. `bebop` joins the style vocabulary as a primary
+  style. Pre-1945 transition records fall outside the window; the canon
+  held none at the move (verified against `_jazzcanon.album`).
+- **The 1973–1985 band (added 2026-07-25 as 1973–1979; extended to 1985
+  on 2026-09-24):** the window was raised from 1972 to admit the ECM
+  first decade and its kin, then pushed out to 1985. Albums recorded
+  1973+ are judged on **continuity**: does the record extend the
+  post-bebop / modal / post-bop tradition the canon is built on (the
+  1960s lineage reaching forward), rather than found something new? The
+  canonical example is Keith Jarrett's *The Köln Concert* (1975) — late
+  modal, continuous. Early Pat Metheny Group (*American Garage*, 1979) is
+  the border case: acoustic, swinging, song-form = arguable;
+  electric-rock vocabulary = the fusion exclusion bites. All 1973+
+  arrivals should lean **scope_call** or **contested** by default and
+  name the boundary in the ballot — the 1980–85 tail doubly so; John
+  rules.
 - **The opened genre gates (2026-07-28).** `excluded_styles` is now empty:
   free jazz, fusion, and the ECM catalogue are **admissible**, and each has
-  a dedicated specialist agent (`jazz-fusion-researcher`,
-  `jazz-free-jazz-researcher`, `jazz-ecm-researcher`). This is a *permeable
+  a dedicated style module of `jazz-style-researcher` (`style=fusion`,
+  `style=free-jazz`, `style=ecm` — see `config/style-research/`). This is a *permeable
   boundary*, not an annexation. The canon's center of gravity stays in the
   post-bebop / hard-bop / modal tradition; these three gates exist to test
   continuities the old blanket exclusions hid. Three standing rules:
@@ -84,6 +85,8 @@ strongest first:
     3. **Incremental, not floodgate.** These gates open a few records at a
        time. Do not propose a burst to "cover" a newly opened genre; the
        drip pace in this file governs all three (see *The drip's pace*).
+       (Directed bulk missions like the 2026-09-24 bebop/ECM ten are
+       John's word, not a floodgate.)
   Borderline modal / avant records (*Out to Lunch!*, *The Shape of Jazz to
   Come*) remain **scope_call**: argue them, tier them, let John rule.
 - **Free jazz — the standing taste note.** John has said plainly that free
@@ -96,12 +99,15 @@ strongest first:
 - **Fusion — the anti-drift note.** This is not becoming a fusion canon.
   Electric-rock instrumentation and backbeat as the organizing idea is
   still a case-*against*, no longer an auto-exclusion. *Bitches Brew* (1970)
-  is now a candidate, argued, not a wall.
-- **ECM — window-bound for now.** The ECM gate runs **1969–1979 only**;
-  `year_max` stays at 1979 (John, 2026-07-28, deliberately a small step —
-  he expects to push the end date out later). ECM albums are judged on
-  continuity with the 1960s modal tradition, never accepted or rejected by
-  label or decade alone. *The Köln Concert* (1975) is the anchor.
+  is now a candidate, argued, not a wall. The 1980–85 window tail is deep
+  fusion territory — the bridge test decides, never the decade.
+- **ECM — runs with the window (extended 2026-09-24).** The ECM gate runs
+  **1969–1985** (it was 1969–1979 until the 2026-09-24 window move — the
+  "small step" John always said he would extend later). ECM albums are
+  judged on continuity with the 1960s modal tradition, never accepted or
+  rejected by label or decade alone; 1980s ECM leans **scope_call** /
+  **contested** by default. *The Köln Concert* (1975) is the anchor. ECM
+  stays a label tag, never style_primary.
 - **`excluded_styles` is prose-enforced.** `check-candidate.py` and
   `stage-candidate.py` read `year_min`/`year_max` from this frontmatter and
   nothing else. Style scope lives in agent and council judgment — this
@@ -109,7 +115,7 @@ strongest first:
 - **No style quotas.** Sixty modal albums is fine if each earns its place.
   Never propose a weaker album to balance a genre.
 - **The drip's pace is deliberate (affirmed 2026-07-26).** The widened
-  window (1940–1979) makes a fast build to 1,000+ albums technically
+  window (1945–1985) makes a fast build to 1,000+ albums technically
   easy — and John has explicitly declined it. drip_size stays 2: each
   morning's two candidates get read, listened to, and thought about.
   Reaching 200 in a year or more is the intended tempo, not a backlog
