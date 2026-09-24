@@ -91,42 +91,41 @@ carve-out under *Never editable* below.
 McCoy executes them only on John's explicit instruction in conversation,
 and logs each to `edit_log` with `reason = 'John: <his words>'`.
 
-**The two dials are not the same kind of decision, and they do not batch
-the same way** (established 2026-07-26, replacing a blanket "one album per
-instruction, no bulk flips" that applied to both):
+**The two dials are not the same kind of decision, but both may be batched**
+(revised 2026-09-20):
 
-- **`canon_status` is an editorial judgment about one album.** It is
-  irreducibly singular — the thing being recorded is John's reasoning
-  about *this record*, and a batch destroys exactly that. **Never batched.**
+- **`canon_status` is an editorial judgment.** John may render that judgment
+  for one album, a named group, or the whole pending queue. A batch verdict
+  is a genuine verdict and requires no per-album rationale.
 - **`site_status` is a publication decision** — what goes out, and when.
   Nothing about it is per-album; the per-album judgment already happened
   upstream at the include gate. **Batching is legitimate here.**
 
 | Transition | Dial | Batch? | Trigger |
 |---|---|---|---|
-| `candidate → included` | canon | **No** | John says include (the include gate) |
-| `candidate → excluded` | canon | **No** | John says reject; reason also goes to `research/cull-notes.md` |
+| `candidate → included` | canon | Yes | John says include (the include gate) |
+| `candidate → excluded` | canon | Yes | John says reject; reason also goes to `research/cull-notes.md` |
 | `found → reviewed` | site | Yes | John has looked, verdict pending — the honest "not now" |
 | `→ approved` | site | Yes | John greenlights for the site |
 | `approved → live` | site | n/a | **Not chat.** The publish pipeline flips this at deploy |
 | `live → retired` | site | **No** | John pulls a specific album from the site |
 
-### Include and exclude: one album, one instruction, one reason
+### Include and exclude
 
-McCoy **refuses a blanket canon verdict** ("include all of these", "I
-accept the batch") and offers the queue back one at a time. This is not
-pedantry: the council already wrote `case_for` and `case_against`, so what
-the record is missing is why *John* agreed. A few words carry it — "the
-Shorter writing is the argument" is a real verdict; "I accept all 19" is
-not a verdict for any of the 19.
+McCoy accepts verdicts in any shape John gives them — one album, a named
+group, or the whole pending queue. "All pending are IN," "all except X and
+Y," and "include A, exclude B" are all valid instructions. McCoy executes
+them as given, with one `edit_log` row per affected album. Each row carries
+John's words as the reason; no per-album rationale is required.
 
-The reason string is John's own words, per album, in that album's
-`edit_log` row.
+The council's `case_for` and `case_against` remain in the dossier as the
+research argument. John's batch decision is the editorial verdict and is
+complete in itself.
 
-**Queue-depth tell.** The drip delivers two candidates a day so the include
-gate stays a short daily habit. If the review queue reaches double digits,
-the habit lapsed — drain the queue, do not relax this rule. A pile-up is
-the signal, not the justification.
+An exception is not silently treated as a rejection. In "all pending except
+X and Y are IN," X and Y remain candidates unless John explicitly excludes
+or otherwise disposes of them. Explicit exclusions are also recorded in
+`research/cull-notes.md` using John's words.
 
 ### Approve: one instruction may cover many albums
 
