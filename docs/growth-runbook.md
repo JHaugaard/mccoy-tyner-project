@@ -95,9 +95,11 @@ Same schema as `data/canon-draft.json` — an array of complete album objects. P
 
 | Agent | When to use | Subagent type |
 |-------|-------------|---------------|
-| `jazz-hard-bop-researcher` | Hard bop / soul jazz candidates (~1955–1965) | `jazz-hard-bop-researcher` |
-| `jazz-cool-jazz-researcher` | Cool jazz / West Coast candidates (~1949–1958) | `jazz-cool-jazz-researcher` |
-| `jazz-modal-jazz-researcher` | Modal jazz / post-bop candidates (1958–late 1970s) | `jazz-modal-jazz-researcher` |
+| `jazz-style-researcher` `style=hard-bop` | Hard bop / soul jazz candidates (~1955–1965) | `jazz-style-researcher` |
+| `jazz-style-researcher` `style=cool-jazz` | Cool jazz / West Coast candidates (~1949–1958) | `jazz-style-researcher` |
+| `jazz-style-researcher` `style=modal-jazz` | Modal jazz / post-bop candidates (1958–late 1970s) | `jazz-style-researcher` |
+| `jazz-style-researcher` `style=bebop` | Bebop candidates (founding 1945–49 records and after; admitted 2026-09-24) | `jazz-style-researcher` |
+| `jazz-style-researcher` `style=free-jazz` \| `fusion` \| `ecm` | The opened gates (2026-07-28); modules in `config/style-research/` | `jazz-style-researcher` |
 | `jazz-personnel-researcher` | Fill personnel + session records for known albums | `jazz-personnel-researcher` |
 | `jazz-canon-orchestrator` | Merge multi-researcher candidate lists → tiered ballot | `jazz-canon-orchestrator` |
 
@@ -105,15 +107,15 @@ Same schema as `data/canon-draft.json` — an array of complete album objects. P
 
 #### Batch add — 15 across genres
 ```
-Dispatch jazz-hard-bop-researcher, jazz-cool-jazz-researcher, and jazz-modal-jazz-researcher
-in parallel. Each should find 5 strong candidates not already in the canon.
+Dispatch jazz-style-researcher three times in parallel — style=hard-bop, style=cool-jazz,
+style=modal-jazz. Each should find 5 strong candidates not already in the canon.
 Current canon is in data/canon-draft.json. Output each list to data/batches/YYYY-MM-DD-batch-<genre>.json.
 After all three complete, dispatch jazz-canon-orchestrator to merge into a tiered ballot.
 ```
 
 #### Targeted add — artist-specific
 ```
-Dispatch jazz-modal-jazz-researcher with a focused query:
+Dispatch jazz-style-researcher style=modal-jazz with a focused query:
 "Find the next best 2 Charles Lloyd albums not already in the canon (see data/canon-draft.json).
 Include full personnel. Output to data/batches/YYYY-MM-DD-charles-lloyd.json."
 ```
@@ -199,7 +201,7 @@ Log every foray — what was dispatched, what came back, what was blessed, what 
       "date": "YYYY-MM-DD",
       "label": "next-15",
       "type": "batch",
-      "agents_dispatched": ["jazz-hard-bop-researcher", "jazz-modal-jazz-researcher"],
+      "agents_dispatched": ["jazz-style-researcher:hard-bop", "jazz-style-researcher:modal-jazz"],
       "batch_file": "data/batches/YYYY-MM-DD-next-15.json",
       "albums_researched": 15,
       "albums_blessed": 12,
@@ -261,9 +263,7 @@ Telegram channel (primary) or Hermes CUI.
 ### Claude Code Agents (exist in `~/.claude/agents/`)
 | Agent | Purpose |
 |-------|---------|
-| `jazz-hard-bop-researcher` | Hard bop / soul jazz candidates + personnel |
-| `jazz-cool-jazz-researcher` | Cool jazz / West Coast candidates + personnel |
-| `jazz-modal-jazz-researcher` | Modal jazz / post-bop candidates + personnel |
+| `jazz-style-researcher` | One agent, six styles (`style=` at dispatch); candidates + personnel. Style modules: `config/style-research/<style>.md` |
 | `jazz-personnel-researcher` | Personnel + session records for known albums |
 | `jazz-canon-orchestrator` | Merge candidate lists → tiered ballot |
 
