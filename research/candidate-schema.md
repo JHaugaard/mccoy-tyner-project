@@ -20,7 +20,7 @@ A candidate album is a single JSON file at
 | `album` | Album title |
 | `year` | Original recording year (hard gate: `config/canon-rubric.md` window) |
 | `label` | Label name; ECM-family records keep the imprint (`JAPO`, not folded into `ECM`) |
-| `catalog_number` | Optional; required for ECM-agent output (stable dedup key) |
+| `catalog_number` | Optional; required for `style=ecm` output (stable dedup key) |
 | `style_primary` | Must be a code in the `STYLES` dict of `scripts/stage-candidate.py`. Label-only codes (`ecm`) are refused here — tags only |
 | `style_tags` | List of style codes; `ecm` belongs here when applicable |
 | `rationale` | The case for inclusion (council/judgment text) |

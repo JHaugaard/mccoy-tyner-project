@@ -1,183 +1,107 @@
 # Runbook v2 — A Jazz Canon, End to End
 
-**Version:** 2.0 · 2026-06-12
-**Purpose:** The executable form of `plan-v2.md` (v2.0). Each segment dispatches with a single prompt;
-John's gates are **hard stops** — the run halts and resumes only on his decision.
+**Version:** 3.0 · 2026-09-06
+**Purpose:** The executable form of the canon-growth loop. Each dispatch is a single prompt; John's gates are **hard stops** — the run halts and resumes only on his decision.
 
-> **Supersedes runbook.md (v1.0)**, retained as history.
->
-> **✅ Live as of 2026-06-12.** The specialist agents are updated to the merged one-pass role (Step 2), the
-> Apple Music pivot is adopted, and the schema carries `apple_album_id` (Step 3). **Segment A runs now.**
-> Segments C–D apply the schema at Phase 4 and stay gated on John's go. The only setup left is the empty
-> ledger + cull-notes (step A0), created on first use. The Master Prompts below are a *convenience* —
-> slow, gate-by-gate iteration is the chosen mode, not one-shot automation.
+> **Supersedes** the 2.0 text of this file (2026-06-12) and `runbook.md` (v1.0), both retained in git history.
+> v3.0 replaces the six per-style researcher agents with one style-parameterized agent, drops the retired
+> combined-markdown output, and removes the June 2026 model policy. Segments C and D (schema, platform
+> build) were already executed; they are kept below for reference and not re-run.
 
-**Agents (in `~/.claude/agents/`):** `jazz-hard-bop-researcher`, `jazz-cool-jazz-researcher`,
-`jazz-modal-jazz-researcher` (the three specialists — **merged one-pass gatherers**: canon + personnel),
-`jazz-canon-orchestrator` (now a **recurring gardener**), `jazz-personnel-researcher`
-(**retained dormant — the seam**; dispatched only if the POC gate reopens the split).
+**Agents (in `~/.claude/agents/`):**
+
+| Agent | Role |
+|-------|------|
+| `jazz-style-researcher` | The one researcher. Dispatched with `style=<bebop\|cool-jazz\|hard-bop\|modal-jazz\|free-jazz\|fusion\|ecm>`; refuses to run without one. Reads `config/style-research/<style>.md` for scope, sources, gate posture, and style-specific fields. Merged one-pass gatherer: canon judgment **and** personnel in the same run. |
+| `jazz-canon-orchestrator` | Recurring gardener: merges multi-style candidate sets into a tiered ballot. Never sets `include`. |
+| `jazz-personnel-researcher` | Retained dormant — the seam. Dispatched only if a gate reopens the canon/personnel split. |
+
+**Style modules (in `config/style-research/`):** `bebop.md`, `cool-jazz.md`, `hard-bop.md`, `modal-jazz.md`, `free-jazz.md`, `fusion.md`, `ecm.md`. Edit these to steer a style; the agent body never needs to change for a scope, source, or posture adjustment. The rubric (`config/canon-rubric.md`) stays authoritative over every module for the year window and the opened-gate rules.
 
 ---
 
 ## Preconditions (verify before any dispatch)
 
-- [x] Working directory: `~/dev/active/mccoy-tyner/`
-- [x] Specialist agents updated to merged role (Step 2, 2026-06-12) — **done**
-- [ ] `docs/genre-definitions.md` present (scope authority, passed to specialists)
-- [ ] `data/dispatch-ledger.json` exists (initialize empty on first run) and `research/cull-notes.md` exists
-- [ ] Clean git state or a deliberate branch — research outputs are git-tracked
+- [ ] Working directory: `~/dev/active/mccoy-tyner/`
+- [ ] `config/canon-rubric.md` frontmatter is what you intend (`year_min`/`year_max`, `excluded_styles`)
+- [ ] `data/dispatch-ledger.json` and `research/cull-notes.md` exist (create empty on first run)
+- [ ] `docs/personnel-contract.md` present (record shape, read by the agent at dispatch)
+- [ ] Clean git state or a deliberate branch — dossiers in `research/candidates-inbox/` are git-tracked
 
 ---
 
-## Segment A — Phase 1–2: One-Pass Gathering (POC)
+## Segment A — One-pass gathering
 
-The first real run. Goal: **30 complete records** (canon + personnel in one pass), and a **debugged
-pipeline**. This is the kink-finder, not the full canon.
+### A1. Dispatch (one Agent call per style; parallel in a single message when several styles run)
 
-### A0. Initialize the ledger (first run only, mechanical)
-Create `data/dispatch-ledger.json` with empty `albums_in_collection` and `dispatches`. Create an empty
-`research/cull-notes.md` with a one-line header. Haiku-grade.
+The dispatch prompt names the style and the directive. Everything else (ledger exclude, cull-note calibration, rubric, personnel contract, output path) is built into the agent and its module.
 
-### A1. Dispatch the three specialists — 10 albums each (parallel, single message, three Agent calls)
+| Style | Module default count | Dispatch prompt |
+|-------|----------------------|-----------------|
+| `hard-bop` | 10 | `style=hard-bop — gather 10 next-best.` |
+| `cool-jazz` | 10 | `style=cool-jazz — gather 10 next-best.` |
+| `modal-jazz` | 10 | `style=modal-jazz — gather 10 next-best.` |
+| `free-jazz` | 5 | `style=free-jazz — gather 5 gateway records.` |
+| `fusion` | 6 | `style=fusion — gather 6, the Miles electric band 1969–72.` |
+| `ecm` | 8 | `style=ecm — gather 8, Jarrett solo and the European Quartet.` |
 
-Each prompt invokes the merged contract + ledger/cull-notes awareness (built into the agents).
+Any count or focus overrides the default. A dispatch with no `style=` is refused by the agent — that is the intended behavior, not a failure to debug.
 
-| Agent | Dispatch prompt |
-|-------|----------------|
-| `jazz-hard-bop-researcher` | "Gather **10** complete candidate records for A Jazz Canon — canon metadata **and** full personnel/tracks/sessions/dates/locations in one pass, per your output contract. Read `docs/genre-definitions.md` (scope), `data/dispatch-ledger.json` (exclude everything already listed), and `research/cull-notes.md` (calibrate to John's past verdicts) first. Output: `research/hard-bop-candidates.md`. Capture album-art + Apple/iTunes + MusicBrainz reference IDs where available." |
-| `jazz-cool-jazz-researcher` | same, 10 records → `research/cool-jazz-candidates.md` |
-| `jazz-modal-jazz-researcher` | same, 10 records → `research/modal-jazz-candidates.md` |
+**Model:** per the global model-selection rule. Sonnet is the floor; Opus when the run is judgment-heavy (the opened gates, a contested boundary). Name the tier in the Agent call.
 
-**Model:** run on **Opus 4.8** (the specialists' default floor). The originally-planned Opus-vs-Fable-5
-A/B is **void** — Fable 5 was suspended worldwide on 2026-06-12 under a US export-control directive, no
-restoration date. The model comparison moved **cross-harness**: the Kimi Code build lives in the twin repo
-`~/dev/active/mccoy-tyner-kc/` (clean-room, walled). Nothing model-comparative happens inside this runbook.
+**Output:** one JSON dossier per album at `research/candidates-inbox/<id>.json`, per `research/candidate-schema.md`. Synthesis notes come back in the agent's reply, not as a file.
 
-**Validate before proceeding:** each file has a source map (≥4 sources); JSON blocks parse; every record
-carries the **full merged contract** (canon fields **and** a personnel block with `obs/inf/unk` labels);
-`include: null`; no album already in the ledger; priority distribution honest (not all `must_have`).
+### A2. Validate before the gate
 
-### A2. (Optional) Gardener pass
-Only if useful at 30 albums — likely skip for the POC, run once the collection is larger. When run:
-`jazz-canon-orchestrator` reads the three files + ledger and emits tier observations + gap/overlap notes
-(it never sets `include`).
+For each dossier: `scripts/check-candidate.py` passes; the source map has ≥4 entries (ECM: ≥2 non-house); every record carries `include: null`, the base fields, the module's required fields (`bridge_case` / `accessibility` for free-jazz, `bridge_case` for fusion, `continuity_case` + `catalog_number` for ecm); no album already in the ledger; the priority spread is honest (not all `must_have`).
 
-### A3. 🛑 GATE — John reviews the POC
-John reviews the 30 records. For each: accept / cull. He:
-1. promotes accepted records in `data/canon-draft.json` (`include: true`);
-2. **updates `data/dispatch-ledger.json`** — adds accepted albums to `albums_in_collection`, logs the
-   dispatch row (agent, date, requested, accepted, model);
-3. **appends `research/cull-notes.md`** — one line + reason per culled pick.
+Malformed dossier → re-dispatch **that style only**, citing the validation failure. Ledger album re-surfaced → drop that dossier and note it; the ledger exclude is the contract.
 
-**This gate also decides the merge:** personnel clean from the merged pass → stay merged. Personnel sloppy
-→ reopen the seam (Segment B-split below). Decide with the evidence in front of you.
+### A3. (Optional) Gardener pass
+
+When several styles ran at once, or the inbox is large: `jazz-canon-orchestrator` reads the inbox + ledger and emits tier observations and gap/overlap notes. It never sets `include`.
+
+### A4. 🛑 GATE — John reviews
+
+For each dossier: accept / cull. On accept, `scripts/stage-candidate.py` ingests the dossier. John then:
+
+1. adds accepted albums to `data/dispatch-ledger.json` `albums_in_collection` and logs the dispatch row (agent, style, date, requested, accepted, model);
+2. appends `research/cull-notes.md` — one line + reason per culled pick. These lines are the agent's calibration on the next run; the module names the phrasings each style watches for.
 
 ---
 
-## Segment B — Scaled / Repeat Dispatch (after POC validated)
+## Segment B — Repeat dispatch
 
-The growth loop. Repeat as often as wanted; each run is one **dispatch spec**.
+The growth loop. Each run is one dispatch spec: **style · count · focus · model**. Exclude is automatic (the agent reads the current ledger). Optionally target a gap the gardener flagged. Run A1 → A4 again.
 
-### B0. Cross-harness diff on overlaps (read-only, at the gate)
-Before the B3 review: for any album in this batch also covered in the Kimi twin (`~/dev/active/mccoy-tyner-kc/research/`), diff the two records and surface only the divergences (composer credits, dates, personnel) for John's eye. **Read-only and product-only:** raw `research/*.md` artifacts in both repos stay pristine (they are the A/B); corrections land only in `data/canon-draft.json`. Overlap is derived on the fly — no tracking file. Manual/on-demand; never scheduled or hooked (preserves the clean-room wall and the slow-iterate mode).
-
-### B1. Spec the dispatch
-Choose: **style** (which specialist) · **count** · **model** · output path. `exclude` is **automatic** —
-the agent reads the current ledger. Optionally target a gap the gardener flagged.
-
-### B2. Dispatch (parallel where multiple styles run at once)
-Same merged prompt as A1, with the new count and the (now larger) ledger. Validate as in A1.
-
-### B3. 🛑 GATE — John reviews, then **ledger + cull-notes update** (as A3 steps 1–3)
-The agents get better each round because they read the growing ledger (what's done) and cull-notes (what
-John rejected and why). No retraining — feedback-driven calibration.
-
-### B-split (only if A3 reopened the seam) **[the dormant seam]**
-If merged personnel quality failed: specialists return to **canon-only** gathering; re-activate
-`jazz-personnel-researcher` in batches of ~10 over accepted albums (the v1 flow). The schema already
-supports this — no migration. Document the reason in `research/cull-notes.md` so the decision is traceable.
+**B-split (only if a gate reopens the seam).** If merged personnel quality fails at review: the researcher returns to canon-only gathering and `jazz-personnel-researcher` is re-activated in batches of ~10 over accepted albums. Document the reason in `research/cull-notes.md` so the decision is traceable.
 
 ---
 
-## Segment C — Phase 3: Schema (locked; two pending changes)
+## Segment C — Schema (executed; reference only)
 
-Design locked (schema v1.1): `docs/schema.md`, `data/schema.sql`, `data/seed.json`,
-`data/data-platform-handoff.json`. **Before ingest, apply John's step-3 changes:**
-1. add `apple_album_id` (album) + optional `apple_track_id` (track);
-2. confirm the personnel block is cleanly separable (merge-seam check);
-3. **pin the `year` field's meaning — recording year vs. release year.** Surfaced 2026-06-18 by
-   the Kimi-twin cross-check: our specialists recorded *recording* year, Kimi's recorded *release*
-   year, producing apparent gaps that are the same fact (*Speak No Evil* 1964 rec / 1966 rel;
-   *The Sidewinder* 1963 rec / 1964 rel). Decide one convention, document it in `schema.md`, and
-   consider carrying both (`recording_year` + `release_year`) since the personnel record already
-   captures session dates. A single ambiguous `year` will bite any future merge or comparison.
-Then verify `schema.sql` parses (load into a scratch schema and drop). If Phase 1–2 data surfaced any
-other contract gap, **STOP and surface to John** — do not patch silently.
+Design locked (schema v1.1): `docs/schema.md`, `data/schema.sql`. The `year` field means **recording year** (pinned after the 2026-06-18 Kimi-twin cross-check surfaced recording-vs-release drift). Any schema gap surfaced by real data → **STOP, surface to John**; no silent patches.
 
----
+## Segment D — Platform build (executed; reference only)
 
-## Segment D — Phase 4: Platform Build
-
-> App stack/UX choices remain John's. This segment is the **data-platform build**, fully specified.
-
-### D1. Apply the schema
-On vps8 (`127.0.0.1:5433`): `CREATE SCHEMA _jazzcanon;` + run `data/schema.sql`; create
-`_jazzcanon_role` / `_jazzcanon_ro` (passwords from vault, `jazzcanon_*` secrets, per
-`database-conventions.md`).
-
-### D2. Ingest pipeline (idempotent, in order)
-1. **Validate** `canon-draft.json` (`include:true`) against the contracts.
-2. **Identity-resolve persons** — cluster name variants → `person` + `person_name_variant`;
-   **borderline merges go to John** (mini-gate, batched).
-3. **Load** albums, sessions, tracks, performances, production credits, citations.
-4. **Seed collection** — `collection(slug='the-jazz-canon', name='The Jazz Canon')` + membership for every included album. (The live row keeps this name; the product was renamed to *A Jazz Canon* 2026-07-26 without touching the DB.) `added_at` timestamps membership — the provenance of when each album joined, without versioned slugs.
-5. **Album art** — resolve MBIDs (honor Phase 1–2 refs; else MusicBrainz, ≤1 req/s) → fetch Cover Art
-   Archive → iTunes/Apple → `data/album-art/` + `album_art` rows + `manifest.json`.
-6. **Apple Music IDs** — load captured `apple_album_id`s (preview / link / player targets for the serving phase).
-7. **Search documents** — populate `album.search_document` / `person.search_document` from the
-   `v_*_search_source` views.
-8. **Embed** — `nomic-embed-text` via Ollama (vps4) → vector columns → HNSW indexes.
-9. **Static export** — JSON bundle + precomputed album×album neighbors + art → `app/data/`.
-
-**Validate:** row counts reconcile with draft JSON; `fn_degrees_between` returns sane results on a known
-pair; `v_album_card` renders the full canon; every album has ≥1 citation.
-
-### D3. Serving layer (staged — only on demand)
-- **Default: nothing to do** — the static bundle is the app's data source.
-- **PostgREST (when a live consumer appears):** single binary on vps8, `db-schemas = "_jazzcanon"`,
-  `db-anon-role = "_jazzcanon_ro"` — read-only REST over the views, zero code.
-- **MCP server (banked):** wraps the same views + `fn_degrees_between` + vector search for agent-facing
-  access (this is the **research interface** for John's "dig in and write" goal). Build per `mcp-building`.
-
-### D4. 🛑 GATE — John reviews the loaded platform
-His queries run; epistemic labels render; canon browseable via `v_album_card`. Phase 5 (app) starts here
-with its own UX gate.
+Schema `_jazzcanon` on vps8 Postgres (port 5433), roles per `database-conventions.md`. Ingest is `scripts/ingest.py` (idempotent), enrichment via the `scripts/` helpers (MBID/Apple lookup, cover art, geocoding, embeddings), export via `scripts/export.sh`, publish via `scripts/publish.sh` / `scripts/ship.sh`. The live collection row keeps slug `the-jazz-canon`; the product name is *A Jazz Canon* (renamed 2026-07-26 without touching the DB). The operational detail lives in `docs/data-pipeline-sop.md` and `docs/growth-runbook.md`.
 
 ---
 
 ## Master prompts
 
-**Segment A (POC):**
-> Run Segment A of `docs/runbook-v2.md`: initialize the ledger + cull-notes if needed, dispatch the three
-> specialists (10 records each, merged contract) on Opus 4.8, validate all outputs, and stop at the
-> A3 gate with a per-style summary and anything needing my attention.
+**One style:**
+> Run a Segment A dispatch of `docs/runbook-v2.md`: `jazz-style-researcher` with `style=[style]`, [count] records, [focus if any], model [tier]. Validate per A2 and stop at the A4 gate with a summary and anything needing my attention.
 
-**Segment B (one dispatch):**
-> Run a Segment B dispatch of `docs/runbook-v2.md`: [style], [count] records, model [x]. Exclude is the
-> current ledger. Validate and stop at the B3 gate.
-
-**Segment D (platform build):**
-> Run Segment D of `docs/runbook-v2.md`: apply schema, ingest `canon-draft.json`, batch borderline person
-> merges to me, build art/search/embeddings/static export, stop at the D4 gate.
+**Several styles at once:**
+> Run Segment A of `docs/runbook-v2.md` for styles [list], counts [list], model [tier], in parallel. Validate each per A2, run the gardener (A3), and stop at the A4 gate with a per-style summary.
 
 ---
 
 ## Failure handling
 
-- Specialist returns malformed records → re-dispatch **that specialist only**, citing the validation
-  failure; leave the others.
-- Specialist re-surfaces a ledger album → drop that record, note it; the ledger exclude is the contract.
-- Merged personnel quality poor at A3 → **reopen the seam** (Segment B-split), don't force the merge.
-- Ingest validation failure → fix the draft JSON (human-editable source of truth), re-run; loader is
-  idempotent.
-- Any schema gap surfaced by real data → **STOP, surface to John** (step-3 territory), no silent patches.
+- No `style=` in the dispatch → the agent refuses and lists the valid values. Re-dispatch with one.
+- Dossier fails `check-candidate.py` → re-dispatch that style only, citing the failure.
+- Ledger album re-surfaced → drop it, note it.
+- Personnel quality poor at review → B-split; don't force the merge.
+- Any schema gap → **STOP, surface to John**.
