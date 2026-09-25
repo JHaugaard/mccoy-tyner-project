@@ -1,0 +1,67 @@
+{
+  "id": "grachan-moncur-iii-evolution-1963",
+  "artist": "Grachan Moncur III",
+  "album": "Evolution",
+  "year": 1963,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Grachan Moncur III's debut as a leader is a landmark of Blue Note's avant-garde wing and a defining statement of the 'inside/outside' post-bop that the label pioneered in the early 1960s. Consensus pick across independent listing traditions: Penguin Guide core collection (★★★★), Qobuz Ideal Discography, and regular inclusion in Blue Note connoisseur surveys. The session pulled together an all-star personnel network — McLean, Morgan, Hutcherson, the teenage Tony Williams — who together define the era's avant-garde continuum from hard bop toward freer terrain. It still plays as a dark, cohesive, intellectually satisfying set.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": { "title": "Wikipedia — Evolution (Grachan Moncur III album)", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/Evolution_(Grachan_Moncur_III_album)" },
+    "S2": { "title": "MusicBrainz — Release Group Evolution", "type": "database", "url": "https://musicbrainz.org/release-group/525073d3-c49f-35f4-a855-e4382152a1cd" },
+    "S3": { "title": "iTunes Search API — Evolution", "type": "store", "url": "https://itunes.apple.com/search?term=Grachan+Moncur+III+Evolution&entity=album" },
+    "S4": { "title": "All About Jazz — Evolution review by Clifford Allen", "type": "review", "url": "https://www.allaboutjazz.com/grachan-moncur-iii-evolution-by-clifford-allen" },
+    "S5": { "title": "Cover Art Archive — Evolution", "type": "archive", "url": "https://coverartarchive.org/release-group/525073d3-c49f-35f4-a855-e4382152a1cd" }
+  },
+  "personnel_record": {
+    "recording_dates": ["1963-11-21"],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs",
+    "recording_sites": [
+      { "session_date": "1963-11-21", "site_raw": "Van Gelder Studio, Englewood Cliffs", "site_slug": "van-gelder-studio-englewood-cliffs", "site_new": null, "epistemic": "obs", "source": "S1" }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      { "name": "Grachan Moncur III", "instrument": "trombone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S4"], "name_variants": [], "notes": "" },
+      { "name": "Lee Morgan", "instrument": "trumpet", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S4"], "name_variants": [], "notes": "Moncur's original choice for brass foil was Webster Young; Morgan substituted" },
+      { "name": "Jackie McLean", "instrument": "alto saxophone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S4"], "name_variants": [], "notes": "" },
+      { "name": "Bobby Hutcherson", "instrument": "vibraphone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S4"], "name_variants": [], "notes": "" },
+      { "name": "Bob Cranshaw", "instrument": "double bass", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S4"], "name_variants": [], "notes": "" },
+      { "name": "Tony Williams", "instrument": "drums", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S4"], "name_variants": ["Anthony Williams"], "notes": "Age 17 at time of recording" }
+    ],
+    "tracks": [
+      { "title": "Air Raid", "track_number": 1, "side": "A", "duration": "9:19", "session_date": "1963-11-21", "composers": ["Grachan Moncur III"], "personnel": ["Grachan Moncur III", "Lee Morgan", "Jackie McLean", "Bobby Hutcherson", "Bob Cranshaw", "Tony Williams"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "Evolution", "track_number": 2, "side": "A", "duration": "12:24", "session_date": "1963-11-21", "composers": ["Grachan Moncur III"], "personnel": ["Grachan Moncur III", "Lee Morgan", "Jackie McLean", "Bobby Hutcherson", "Bob Cranshaw", "Tony Williams"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "The Coaster", "track_number": 3, "side": "B", "duration": "11:39", "session_date": "1963-11-21", "composers": ["Grachan Moncur III"], "personnel": ["Grachan Moncur III", "Lee Morgan", "Jackie McLean", "Bobby Hutcherson", "Bob Cranshaw", "Tony Williams"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "Monk in Wonderland", "track_number": 4, "side": "B", "duration": "7:54", "session_date": "1963-11-21", "composers": ["Grachan Moncur III"], "personnel": ["Grachan Moncur III", "Lee Morgan", "Jackie McLean", "Bobby Hutcherson", "Bob Cranshaw", "Tony Williams"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "525073d3-c49f-35f4-a855-e4382152a1cd",
+    "apple_album_id": 1445883812,
+    "cover_art": [
+      { "role": "front", "source": "cover-art-archive", "url": "http://coverartarchive.org/release/3a9f7bbe-bb61-47ce-866c-ac28f26ca23c/15728160827.jpg", "is_original_cover": true, "epistemic": "obs", "notes": "" }
+    ],
+    "notes": "Engineer Rudy Van Gelder is inferred (standard for Blue Note recordings at Van Gelder Studio in this period). Lee Morgan substituted for Moncur's original choice Webster Young. Tony Williams is listed as 'Anthony Williams' in some library catalog entries. All compositions by Moncur."
+  },
+  "ballot": {
+    "album": "Grachan Moncur III — Evolution (1963)",
+    "scope_check": {"in_window": true, "boundary_note": null},
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a defining Moncur statement and a concentrated record of the 1963 Blue Note inside/outside continuum: all four tracks are his compositions, and the date joins Jackie McLean, Lee Morgan, Bobby Hutcherson, Bob Cranshaw, and a 17-year-old Tony Williams (S1, S4). Its session gravity and lineage are unusually strong, connecting McLean's avant-garde work, Hutcherson's emerging voice, and Williams's early development, while the dark, structured writing makes the album a compelling discovery record rather than merely a historical document (S4). The dossier's reported Penguin Guide four-star/core status and Qobuz listing support consensus, though those claims are not independently attached to source rows.",
+    "case_against": "The album may be a secondary node in an exceptionally rich period already represented by stronger or more influential statements such as McLean's One Step Beyond and Destination... Out!, Dolphy's Out to Lunch!, and Andrew Hill's Point of Departure. Much of its historical importance comes from the personnel network and Moncur's limited leader discography, so its own canonical necessity is less clear than its reputation among Blue Note specialists. The evaluative sourcing is also thinner than the dossier's confidence suggests: S2, S3, and S5 establish metadata, while the strongest consensus claims rely mainly on S1, S4, and unfootnoted rationale.",
+    "disagreement": "The references agree that the album is in scope, strong, and worth serious consideration, but they split on tier: one judges it contested because period redundancy, limited leader weight, and thinly documented consensus outweigh the case for core status, while the other calls it consensus_core as a singular Moncur masterwork and pivotal connective date. They also differ on the boundary: one sees no genuine style boundary, while the other treats its proximity to the modal/avant scope border as a reason to acknowledge a possible scope call.",
+    "recommendation": "John should give this a high-priority listen and decide whether its compositional identity and session gravity justify a place alongside the stronger 1963 Blue Note landmarks.",
+    "confidence": "medium",
+    "_council": {
+      "references": ["openrouter:minimax/minimax-m3", "openrouter:google/gemini-3.8-flash"],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

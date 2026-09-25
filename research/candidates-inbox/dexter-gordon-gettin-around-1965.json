@@ -1,0 +1,70 @@
+{
+  "id": "dexter-gordon-gettin-around-1965",
+  "artist": "Dexter Gordon",
+  "album": "Gettin' Around",
+  "year": 1965,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Dexter Gordon's final Blue Note album is a refined, unhurried statement from his mid-60s maturity — the tenor alone as the sole horn, supported by a superlative rhythm section (Hutcherson, Harris, Cranshaw, Higgins). Penguin Guide (★★★½), a consensus Blue Note catalog entry (BLP 4204), and regularly cited in Dexter Gordon surveys as the record that captures his cooling-out-in-Europe phase. Session gravity: the same Hutcherson/Cranshaw/Higgins axis that powered mid-60s Blue Note. A defining late-period Dexter date that closes out his Blue Note run with elegance and shows the bridge from his hard-bop peak into his European sojourn.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": { "title": "Wikipedia — Gettin' Around", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/Gettin%27_Around" },
+    "S2": { "title": "MusicBrainz — Release Group Gettin' Around", "type": "database", "url": "https://musicbrainz.org/release-group/89722a4a-301a-3574-b8cd-1e9f30ab5817" },
+    "S3": { "title": "iTunes Search API — Gettin' Around", "type": "store", "url": "https://itunes.apple.com/search?term=Dexter+Gordon+Gettin+Around&entity=album" },
+    "S4": { "title": "Blue Note Records — Gettin' Around", "type": "label", "url": "https://shop.bluenote.com/products/gettin-around-vinyl-lp" },
+    "S5": { "title": "Cover Art Archive — Gettin' Around", "type": "archive", "url": "https://coverartarchive.org/release-group/89722a4a-301a-3574-b8cd-1e9f30ab5817" },
+    "S6": { "title": "Jazz Discography Project — Dexter Gordon catalog", "type": "discography", "url": "https://www.jazzdisco.org/dexter-gordon/catalog/" }
+  },
+  "personnel_record": {
+    "recording_dates": ["1965-05-28", "1965-05-29"],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs",
+    "recording_sites": [
+      { "session_date": "1965-05-28", "site_raw": "Van Gelder Studio, Englewood Cliffs", "site_slug": "van-gelder-studio-englewood-cliffs", "site_new": null, "epistemic": "obs", "source": "S1" },
+      { "session_date": "1965-05-29", "site_raw": "Van Gelder Studio, Englewood Cliffs", "site_slug": "van-gelder-studio-englewood-cliffs", "site_new": null, "epistemic": "obs", "source": "S1" }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      { "name": "Dexter Gordon", "instrument": "tenor saxophone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S6"], "name_variants": [], "notes": "Sole horn on all tracks" },
+      { "name": "Bobby Hutcherson", "instrument": "vibraphone", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S6"], "name_variants": [], "notes": "" },
+      { "name": "Barry Harris", "instrument": "piano", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S6"], "name_variants": [], "notes": "" },
+      { "name": "Bob Cranshaw", "instrument": "double bass", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S6"], "name_variants": [], "notes": "" },
+      { "name": "Billy Higgins", "instrument": "drums", "scope": "all-tracks", "tracks": null, "session_dates": null, "epistemic": "obs", "sources": ["S1", "S6"], "name_variants": [], "notes": "" }
+    ],
+    "tracks": [
+      { "title": "Manhã de Carnaval", "track_number": 1, "side": "A", "duration": "8:26", "session_date": "1965-05-28", "composers": ["Luiz Bonfá", "Antonio Maria"], "personnel": ["Dexter Gordon", "Bobby Hutcherson", "Barry Harris", "Bob Cranshaw", "Billy Higgins"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "Who Can I Turn To (When Nobody Needs Me)", "track_number": 2, "side": "A", "duration": "5:15", "session_date": "1965-05-29", "composers": ["Leslie Bricusse", "Anthony Newley"], "personnel": ["Dexter Gordon", "Bobby Hutcherson", "Barry Harris", "Bob Cranshaw", "Billy Higgins"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "Heartaches", "track_number": 3, "side": "A", "duration": "7:46", "session_date": "1965-05-29", "composers": ["Al Hoffman", "John Klenner"], "personnel": ["Dexter Gordon", "Bobby Hutcherson", "Barry Harris", "Bob Cranshaw", "Billy Higgins"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "Shiny Stockings", "track_number": 4, "side": "B", "duration": "6:18", "session_date": "1965-05-29", "composers": ["Frank Foster"], "personnel": ["Dexter Gordon", "Bobby Hutcherson", "Barry Harris", "Bob Cranshaw", "Billy Higgins"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "Everybody's Somebody's Fool", "track_number": 5, "side": "B", "duration": "6:45", "session_date": "1965-05-28", "composers": ["Howard Greenfield", "Jack Keller"], "personnel": ["Dexter Gordon", "Bobby Hutcherson", "Barry Harris", "Bob Cranshaw", "Billy Higgins"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] },
+      { "title": "Le Coiffeur", "track_number": 6, "side": "B", "duration": "7:01", "session_date": "1965-05-28", "composers": ["Dexter Gordon"], "personnel": ["Dexter Gordon", "Bobby Hutcherson", "Barry Harris", "Bob Cranshaw", "Billy Higgins"], "bonus_track": false, "alternate_take": false, "epistemic_track": "obs", "sources": ["S1"] }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "89722a4a-301a-3574-b8cd-1e9f30ab5817",
+    "apple_album_id": 1443174428,
+    "cover_art": [
+      { "role": "front", "source": "cover-art-archive", "url": "http://coverartarchive.org/release/fedcd9c5-8c1a-4775-bbff-58d51f4047bc/23074475553.jpg", "is_original_cover": true, "epistemic": "obs", "notes": "" }
+    ],
+    "notes": "Two sessions: May 28 (tracks 1, 5-6, plus bonus tracks 7-8) and May 29 (tracks 2-4, plus bonus track 7). Original LP had 6 tracks; CD reissues add 'Very Saxily Yours' and 'Flick of a Trick' as bonus tracks. Engineer Rudy Van Gelder confirmed from Blue Note shop listing ('Recorded by Rudy Van Gelder'). Dexter Gordon's final Blue Note album — he moved to Europe shortly after these sessions."
+  },
+  "ballot": {
+    "album": "Dexter Gordon — Gettin' Around (1965)",
+    "scope_check": {"in_window": true, "boundary_note": null},
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a distinctive late Blue Note statement: Gordon is the sole horn, and Bobby Hutcherson's vibraphone gives his expansive tenor an unusually open, luminous setting over Barry Harris, Bob Cranshaw, and Billy Higgins (S1, S6). Its status as Gordon's final Blue Note session makes it a useful hinge between his American hard-bop comeback and European period, while the varied program demonstrates his durable discovery appeal across standards, popular material, and the Gordon original \"Le Coiffeur.\" The complete, well-documented Van Gelder session and Alfred Lion production also provide real session gravity (S1, S4, S6).",
+    "case_against": "The album is respected but not generally treated as Gordon's load-bearing defining statement: Go!, Our Man in Paris, and Doin' Allright make the stronger historical and critical claim. Its relaxed, largely standard-oriented repertoire and representative mid-1960s Blue Note personnel reduce its distinctiveness and lineage impact relative to those records, even if the Gordon-Hutcherson pairing is musically compelling. Most importantly, the dossier's six sources are metadata, retail, archive, or encyclopedia sources; the asserted Penguin Guide rating and broader survey consensus are not directly cited, so the consensus case remains under-demonstrated.",
+    "disagreement": "Both references judge the album contested, but they differ on priority: Reference 2 calls it strong because of its distinctive tenor-vibraphone texture and discovery value, while Reference 1 calls it consider because the consensus evidence is thin and the album is representative rather than indispensable.",
+    "recommendation": "Treat Gettin' Around as a strong but contested candidate for John's decision, with its inclusion case depending on whether the distinctive late-period sound outweighs its weaker evidence of canonical necessity.",
+    "confidence": "medium",
+    "_council": {
+      "references": ["openrouter:minimax/minimax-m3", "openrouter:google/gemini-3.8-flash"],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
