@@ -97,24 +97,28 @@ SELECT json_object_agg(a.id, json_build_object(
        WHERE p.album_id = a.id
        GROUP BY pe.id, pe.canonical_name
      ) row),
-  -- Production credits for the Album Card (The Board phase 1, 2026-09-24).
-  -- Coverage is incomplete BY DESIGN — producer on 232/238 published albums,
-  -- engineer on 182 — so an album with no credits exports `[]` and is never
-  -- an error. Ordering is role (the production_role enum's own order:
-  -- producer, engineer, arranger, mixing, mastering, supervisor, other), then
-  -- name, then id — total and stable run-to-run. One entry per
+  -- Production credits for the Album Card (The Board phase 1, 2026-09-24;
+  -- renamed production→productionCredits + sessionId + producer/engineer-only
+  -- guard per the 2026-09-25 site-expansion spec and the agreed mccoy↔coder
+  -- contract). Coverage is incomplete BY DESIGN — producer on 232/238
+  -- published albums, engineer on 182 — so an album with no credits exports
+  -- `[]` and is never an error. Ordering is role (the production_role enum's
+  -- own order: producer, engineer, arranger, mixing, mastering, supervisor,
+  -- other), then name, then id — total and stable run-to-run. One entry per
   -- production_credit row: the table is unique on
   -- (album_id, person_id, role, session_id), so a per-session credit could in
-  -- principle repeat a person+role pair. None do today; the id tiebreak keeps
-  -- the order deterministic if one ever does.
-  'production', (
+  -- principle repeat a person+role pair. None do today (all session_id are
+  -- NULL, exported as sessionId: null); the id tiebreak keeps the order
+  -- deterministic if one ever does.
+  'productionCredits', (
      SELECT coalesce(json_agg(json_build_object(
               'personId', pc.person_id, 'name', pe.canonical_name,
-              'role', pc.role, 'e', pc.epistemic)
+              'role', pc.role, 'e', pc.epistemic, 'sessionId', pc.session_id)
             ORDER BY pc.role, pe.canonical_name, pc.id), '[]'::json)
      FROM _jazzcanon.production_credit pc
      JOIN _jazzcanon.person pe ON pe.id = pc.person_id
-     WHERE pc.album_id = a.id)
+     WHERE pc.album_id = a.id
+       AND pc.role IN ('producer','engineer'))
 ))
 FROM _jazzcanon.album a
 LEFT JOIN _jazzcanon.person lead ON lead.id = a.leader_person_id
@@ -285,22 +289,28 @@ for (const a of albums) {
   if (!d) fail(`no details for album ${a.id}`);
   if (!d.tracks || d.tracks.length < 1) fail(`album ${a.id} has no tracks`);
   if (!d.personnel || d.personnel.length < 1) fail(`album ${a.id} has no personnel`);
-  // production: shape only, NEVER presence. Coverage is incomplete by design,
-  // so an empty array is a valid answer and must not abort the export.
-  if (!Array.isArray(d.production)) fail(`album ${a.id} production is not an array`);
+  // productionCredits: shape only, NEVER presence. Coverage is incomplete by
+  // design, so an empty array is a valid answer and must not abort the export.
+  // The SQL filters to producer/engineer initially (2026-09-25 contract); the
+  // validator keeps the full enum list so a future role widening needs no
+  // invariant change, only the SQL filter's.
+  if (!Array.isArray(d.productionCredits)) fail(`album ${a.id} productionCredits is not an array`);
   const seenCredit = new Set();
-  for (const c of d.production) {
+  for (const c of d.productionCredits) {
     for (const k of ['personId','name','role','e'])
       if (!c[k]) fail(`album ${a.id} production credit missing ${k}`);
+    if (!('sessionId' in c)) fail(`album ${a.id} production credit missing sessionId`);
     if (!PROD_ROLES.includes(c.role)) fail(`album ${a.id} bad production role ${c.role}`);
-    const k = c.personId + '|' + c.role;
+    if (c.sessionId !== null && typeof c.sessionId !== 'string')
+      fail(`album ${a.id} production credit sessionId must be null or uuid string`);
+    const k = c.personId + '|' + c.role + '|' + c.sessionId;
     if (seenCredit.has(k)) fail(`album ${a.id} duplicate production credit ${c.name} / ${c.role}`);
     seenCredit.add(k);
   }
   // role order is the contract the card renders in; it must be total
-  const roleOrd = d.production.map(c => PROD_ROLES.indexOf(c.role));
+  const roleOrd = d.productionCredits.map(c => PROD_ROLES.indexOf(c.role));
   for (let i = 1; i < roleOrd.length; i++)
-    if (roleOrd[i] < roleOrd[i - 1]) fail(`album ${a.id} production not ordered by role`);
+    if (roleOrd[i] < roleOrd[i - 1]) fail(`album ${a.id} productionCredits not ordered by role`);
 }
 if (Object.keys(graph.people).length < 1) fail('graph.people empty');
 if (!graph.edges || graph.edges.length < 1) fail('graph.edges empty');
