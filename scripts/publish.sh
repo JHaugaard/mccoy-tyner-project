@@ -28,13 +28,14 @@ counts="$(psql "$URL" -X -q -At -c "SELECT
 printf 'A Jazz Canon — data snapshot\ndate: %s\n%s\n' "$DATE" "$counts" > "$SNAP/MANIFEST"
 
 git add exports/jazz-canon "snapshots/canon-$DATE"
-if git diff --cached --quiet; then
+if git diff --cached --quiet -- exports/jazz-canon "snapshots/canon-$DATE"; then
   echo "✓ Published — no data change since last publish ($DATE snapshot refreshed)"
 else
-  git commit -q -m "data: publish canon contract + snapshot $DATE
+  git commit --only -q -m "data: publish canon contract + snapshot $DATE
 
 $counts
 
-Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>"
+Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>" -- \
+    exports/jazz-canon "snapshots/canon-$DATE"
   echo "✓ Published & committed contract + snapshot ($DATE) — $counts"
 fi
