@@ -1,0 +1,353 @@
+{
+  "id": "bill-evans-how-my-heart-sings-1962",
+  "artist": "Bill Evans Trio",
+  "album": "How My Heart Sings!",
+  "year": 1962,
+  "label": "Riverside",
+  "style_primary": "post-bop",
+  "rationale": "The second album from the Evans-Israels-Motian trio, companion to Moon Beams but uptempo; the title track (Earl Zindars) became a jazz standard. Essential post-Scott LaFaro Bill Evans \u2014 the trio found its footing and this album shows the bounce and stride Evans brought to the second trio. Consensus canon pick: AllMusic 4\u2605, Penguin Guide 4\u2605, covered in every Evans survey.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 How My Heart Sings!",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/How_My_Heart_Sings!"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 How My Heart Sings!",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/mw0000652677"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Bill Evans Trio \u2014 How My Heart Sings!",
+      "type": "catalog",
+      "url": "https://itunes.apple.com/search?term=Bill+Evans+How+My+Heart+Sings&entity=album&limit=5"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 How My Heart Sings! (release group 3523a09e)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/3523a09e-0c6c-30e3-b047-1fbeb0ce9660"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 release group 3523a09e",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/3523a09e-0c6c-30e3-b047-1fbeb0ce9660"
+    },
+    "S6": {
+      "title": "Apple Music \u2014 How My Heart Sings!",
+      "type": "streaming",
+      "url": "https://music.apple.com/us/album/how-my-heart-sings/1443546217"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-05-17",
+      "1962-05-29",
+      "1962-06-05"
+    ],
+    "multi_session": true,
+    "studio": "Sound Makers Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1962-05-17",
+        "site_raw": "Sound Makers Studio, New York City",
+        "site_slug": "sound-makers-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1962-05-29",
+        "site_raw": "Sound Makers Studio, New York City",
+        "site_slug": "sound-makers-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1962-06-05",
+        "site_raw": "Sound Makers Studio, New York City",
+        "site_slug": "sound-makers-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Bill Schwartau",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Chuck Israels",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Chick Israels"
+        ],
+        "notes": "Replaced Scott LaFaro after LaFaro's death in July 1961"
+      },
+      {
+        "name": "Paul Motian",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "How My Heart Sings",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:59",
+        "session_date": "1962-05-17",
+        "composers": [
+          "Earl Zindars"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Should Care",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:55",
+        "session_date": "1962-06-05",
+        "composers": [
+          "Sammy Cahn",
+          "Axel Stordahl",
+          "Paul Weston"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "In Your Own Sweet Way",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:59",
+        "session_date": "1962-06-05",
+        "composers": [
+          "Dave Brubeck"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "In Your Own Sweet Way (alternate take)",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:54",
+        "session_date": "1962-06-05",
+        "composers": [
+          "Dave Brubeck"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Walking Up",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:57",
+        "session_date": "1962-05-29",
+        "composers": [
+          "Bill Evans"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Summertime",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:00",
+        "session_date": "1962-05-17",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin",
+          "DuBose Heyward"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "34 Skidoo",
+        "track_number": 7,
+        "side": "C",
+        "duration": "6:22",
+        "session_date": "1962-05-29",
+        "composers": [
+          "Bill Evans"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ev'rything I Love",
+        "track_number": 8,
+        "side": "C",
+        "duration": "4:13",
+        "session_date": "1962-06-05",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Show-Type Tune",
+        "track_number": 9,
+        "side": "C",
+        "duration": "4:22",
+        "session_date": "1962-05-29",
+        "composers": [
+          "Bill Evans"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Chuck Israels",
+          "Paul Motian"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "3523a09e-0c6c-30e3-b047-1fbeb0ce9660",
+    "apple_album_id": "1443546217",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/26d0a0e8-20a2-4aac-a41f-35965e617b0b/15298849645.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Riverside LP cover"
+      }
+    ],
+    "notes": "Three sessions in May-June 1962 at Sound Makers Studio, NYC. Companion album to Moon Beams (the ballad selections). Wikipedia lists tracks 1,6 on 1962-05-17; 5,7,9 on 1962-05-29; 2-3,8 on 1962-06-05. Alternate take track 4 (In Your Own Sweet Way alt.) is from the same June 5 session. Apple Music OJC edition tracks 9-11 add alt. takes; only track 4 (the original bonus track) is included here."
+  },
+  "ballot": {
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a key document of Evans's second major trio: the post-LaFaro partnership with Chuck Israels and Paul Motian, recorded in three May-June 1962 sessions. Its buoyant, uptempo program gives the listener a complementary view of Evans beyond the better-known balladic and LaFaro-era records, while the Earl Zindars title tune became an enduring Evans staple.",
+    "case_against": "The album is a tempo-selected companion to Moon Beams rather than an entirely coherent new statement, and its studio material lacks the defining historical force of Sunday at the Village Vanguard, Waltz for Debby, Portrait in Jazz, or Explorations.",
+    "recommendation": "The council proposes that John give this a strong but non-core inclusion consideration.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

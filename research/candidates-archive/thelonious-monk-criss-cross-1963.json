@@ -1,0 +1,338 @@
+{
+  "id": "thelonious-monk-criss-cross-1963",
+  "artist": "Thelonious Monk",
+  "album": "Criss-Cross",
+  "year": 1963,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "rationale": "Monk's second Columbia album captures his working quartet at peak cohesion after four years together. Revisiting classic compositions (Criss-Cross, Rhythm-a-Ning, Hackensack) the quartet had thoroughly absorbed, the album documents the band that supported Monk's Time cover-story profile in 1964. Penguin Guide, DownBeat, and Rolling Stone all rate it highly; AllMusic calls it 'some of the finest work that Monk ever did in the studio.' A defining statement of Monk's mid-1960s quartet sound and a consensus core collection entry.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic Album Page",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/mw0000097666"
+    },
+    "S2": {
+      "title": "Wikipedia Article",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Criss-Cross_(album)"
+    },
+    "S3": {
+      "title": "MusicBrainz Release Group",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/7dfc2379-6873-34d8-9be7-04e1ac64c2cf"
+    },
+    "S4": {
+      "title": "iTunes Search API",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Thelonious+Monk+Criss-Cross&entity=album"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "archive",
+      "url": "https://coverartarchive.org/release-group/7dfc2379-6873-34d8-9be7-04e1ac64c2cf"
+    },
+    "S6": {
+      "title": "JazzDisco.org Monk Discography",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/thelonious-monk/discography/"
+    },
+    "S7": {
+      "title": "Mosaic Records: Criss-Cross / Straight No Chaser",
+      "type": "article",
+      "url": "https://www.mosaicrecords.com/thelonious-monk-criss-cross-straight-nochase/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-11-06",
+      "1963-02-??",
+      "1963-03-29"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": null,
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": null,
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Ore",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frankie Dunlop",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Hackensack",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:12",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Tea for Two",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:46",
+        "session_date": null,
+        "composers": [
+          "Vincent Youmans",
+          "Irving Caesar"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Criss Cross",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:52",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Eronel",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:29",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk",
+          "Idrees Sulieman",
+          "Sadik Hakim"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Rhythm-A-Ning",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:53",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Don't Blame Me (Retake 1)",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:04",
+        "session_date": null,
+        "composers": [
+          "Jimmy McHugh",
+          "Dorothy Fields"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Think of One",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:17",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Crepuscule with Nellie",
+        "track_number": 8,
+        "side": "B",
+        "duration": "2:45",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "John Ore",
+          "Frankie Dunlop"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "7dfc2379-6873-34d8-9be7-04e1ac64c2cf",
+    "apple_album_id": "186322231",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/4dd228fc-889f-41b4-8efa-8f68a950c67c/20465262649.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Columbia CL 2038 mono cover"
+      }
+    ],
+    "notes": "Album assembled from multiple sessions between November 1962 and March 1963 at Columbia 30th Street Studio. Original 8-track LP contains no bonus tracks; CD reissues add Pannonica, Coming on the Hudson, and alternate takes. Engineer not documented in available sources. Recording dates per Wikipedia: Nov 6, 1962 - March 29, 1963. Per jazzdisco.org, sessions also occurred on Oct 31, Nov 1, Nov 2, and Nov 6, 1962, and further Feb-Mar 1963 dates."
+  },
+  "ballot": {
+    "album": "Thelonious Monk — Criss-Cross (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Monk's second Columbia album captures his legendary working quartet (Rouse, Ore, Dunlop) at the height of their cohesion after four years together, revisiting classic Monk compositions with unmatched authority. Consensus across Penguin Guide, DownBeat, and Rolling Stone; AllMusic calls it 'some of the finest work Monk ever did in the studio.' This is the album behind Monk's 1964 Time Magazine cover — a defining statement of his mid-1960s quartet period.",
+    "case_against": "All eight tracks are re-recordings of compositions Monk had previously released on Blue Note and Prestige — no new material. The 1963 Monk Columbia period is already represented by Monk's Dream (in the canon), and the quartet lineup is the same, so Criss-Cross adds period density rather than new arc or personnel. But artist concentration is not a case-against factor per the rubric.",
+    "disagreement": null,
+    "recommendation": "Include — a consensus core album that documents Monk's finest working quartet on classic material.",
+    "confidence": "high"
+  }
+}

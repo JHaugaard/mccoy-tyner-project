@@ -1,0 +1,347 @@
+{
+  "id": "art-blakey-caravan-1962",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "Caravan",
+  "year": 1962,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "rationale": "Blakey's first Riverside album, with the peak 1961-1964 Jazz Messengers lineup: Hubbard, Shorter, Fuller, Walton, Workman. BBC calls it 'hard bop at its finest'; AllMusic Guide says it's Blakey's best work. The title track (Juan Tizol standard) and Shorter's 'This Is for Albert' are essential. Consensus across Penguin Guide (3\u2605), AllMusic (4.5\u2605), DownBeat (4\u2605), Rolling Stone Jazz Guide (4\u2605). Fills a key gap \u2014 Blakey's Riverside period is underrepresented in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia \u2014 Caravan (Art Blakey album)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Caravan_(Art_Blakey_album)"
+    },
+    "S2": {
+      "title": "AllMusic \u2014 Caravan (mw0000191511)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/mw0000191511"
+    },
+    "S3": {
+      "title": "iTunes Search API \u2014 Art Blakey \u2014 Caravan",
+      "type": "catalog",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+Caravan+1962&entity=album&limit=5"
+    },
+    "S4": {
+      "title": "MusicBrainz \u2014 Caravan (release group 1b1810f9)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/1b1810f9-3693-3b93-b4e0-6e3a1b811e8e"
+    },
+    "S5": {
+      "title": "Cover Art Archive \u2014 release group 1b1810f9",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/1b1810f9-3693-3b93-b4e0-6e3a1b811e8e"
+    },
+    "S6": {
+      "title": "JazzDiscography.org \u2014 Riverside 400 series catalog",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/riverside-records/catalog-400-series/"
+    },
+    "S7": {
+      "title": "All About Jazz \u2014 Caravan review",
+      "type": "review",
+      "url": "https://www.allaboutjazz.com/art-blakey-and-the-jazz-messengers-caravan-by-samuel-chell"
+    },
+    "S8": {
+      "title": "Apple Music \u2014 Caravan",
+      "type": "streaming",
+      "url": "https://music.apple.com/us/album/caravan/1440926752"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-10-23",
+      "1962-10-24"
+    ],
+    "multi_session": true,
+    "studio": "Plaza Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1962-10-23",
+        "site_raw": "Plaza Sound Studios, New York City",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1962-10-24",
+        "site_raw": "Plaza Sound Studios, New York City",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Ray Fowler",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Cedar Walton",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Caravan",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:47",
+        "session_date": null,
+        "composers": [
+          "Juan Tizol"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sweet 'n' Sour",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:31",
+        "session_date": null,
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "In the Wee Small Hours of the Morning",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:06",
+        "session_date": null,
+        "composers": [
+          "David Mann",
+          "Bob Hilliard"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "This Is for Albert",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:21",
+        "session_date": null,
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Skylark",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:51",
+        "session_date": null,
+        "composers": [
+          "Hoagy Carmichael",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Thermo",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:48",
+        "session_date": null,
+        "composers": [
+          "Freddie Hubbard"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Freddie Hubbard",
+          "Curtis Fuller",
+          "Wayne Shorter",
+          "Cedar Walton",
+          "Reggie Workman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "1b1810f9-3693-3b93-b4e0-6e3a1b811e8e",
+    "apple_album_id": "1440926752",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/d14b6c74-4d22-4d20-b742-05e9618c5d5b/34462987083.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Riverside LP cover"
+      }
+    ],
+    "notes": "Two sessions October 23-24, 1962 at Plaza Sound Studios, NYC. Track-to-session assignment not documented in Wikipedia \u2014 all personnel play across all tracks. Reissue CDs add alternate takes of Thermo (take 2) and Sweet 'n' Sour (take 4) as bonus tracks. Original 1963 Riverside RM 438. BBC: 'hard bop at its finest.' All Music Guide: Blakey's 'best work.' Engineered by Ray Fowler (not Rudy Van Gelder \u2014 recorded at Plaza Sound, not Van Gelder Studio)."
+  },
+  "ballot": {
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This captures an exceptional Jazz Messengers lineup - Blakey, Freddie Hubbard, Wayne Shorter, Curtis Fuller, Cedar Walton, and Reggie Workman - whose session gravity makes it a major document of peak hard bop. The performances combine Blakey's forceful treatment of \"Caravan\" with Shorter's \"Sweet n Sour\" and \"This Is for Albert\" and Hubbard's \"Thermo.\"",
+    "case_against": "The album is respected but may be less indispensable than Blakey landmarks such as Moanin, A Night at Birdland, Mosaic, or Free for All. Penguins reported three-star assessment places it below the most elevated Blakey entries.",
+    "recommendation": "The council proposes that John approve Caravan as a strong core-period addition.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "id": "bobby-hutcherson-components-1965",
+  "artist": "Bobby Hutcherson",
+  "album": "Components",
+  "year": 1965,
+  "label": "Blue Note",
+  "style_primary": "post-bop",
+  "rationale": "Bobby Hutcherson's second Blue Note leader date is an exemplary mid-1960s Blue Note session pairing a stellar sextet (Freddie Hubbard, James Spaulding, Herbie Hancock, Ron Carter, Joe Chambers) with a bold two-sided concept: Hutcherson's hard-bop compositions on side one, Chambers' avant-tinged pieces on side two. AllMusic 5 stars, Penguin Guide 3.5 stars. 'Little B's Poem' is a Hutcherson classic. The session gravity alone—five of the six musicians are already in this canon as leaders—makes it a load-bearing record of the post-bop era.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic Album Page",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/components-mw0000624439"
+    },
+    "S2": {
+      "title": "Wikipedia Article",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Components_(album)"
+    },
+    "S3": {
+      "title": "MusicBrainz Release Group",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/a84fe073-20e0-3f3e-b1d8-d641c1c6aac6"
+    },
+    "S4": {
+      "title": "iTunes Search API",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Bobby+Hutcherson+Components&entity=album"
+    },
+    "S5": {
+      "title": "Cover Art Archive",
+      "type": "archive",
+      "url": "https://coverartarchive.org/release-group/a84fe073-20e0-3f3e-b1d8-d641c1c6aac6"
+    },
+    "S6": {
+      "title": "JazzDisco.org Hutcherson Catalog",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/bobby-hutcherson/catalog/"
+    },
+    "S7": {
+      "title": "Discogs Release Page",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/1199964-Bobby-Hutcherson-Components"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-06-10"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1965-06-10",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S6"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bobby Hutcherson",
+        "instrument": "vibraphone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Also plays marimba"
+      },
+      {
+        "name": "James Spaulding",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flute"
+      },
+      {
+        "name": "Freddie Hubbard",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Also plays organ"
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Chambers",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Also composer of side B"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Components",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:25",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Tranquillity",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:03",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Little B's Poem",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:11",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "West 22nd Street Theme",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:43",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Bobby Hutcherson"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Movement",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:31",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Joe Chambers"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Juba Dance",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:23",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Joe Chambers"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Air",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:48",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Joe Chambers"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Pastoral",
+        "track_number": 8,
+        "side": "B",
+        "duration": "2:02",
+        "session_date": "1965-06-10",
+        "composers": [
+          "Joe Chambers"
+        ],
+        "personnel": [
+          "Bobby Hutcherson",
+          "James Spaulding",
+          "Freddie Hubbard",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "a84fe073-20e0-3f3e-b1d8-d641c1c6aac6",
+    "apple_album_id": "1445878623",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/3564398a-c7d2-3804-bf3c-cc1ac5459f54/9855158677.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Blue Note BST 84213 stereo cover; design by Reid Miles, photo by Francis Wolff"
+      }
+    ],
+    "notes": "Single session date June 10, 1965 at Van Gelder Studio, Englewood Cliffs. Sources conflict on exact session date (some give June 14); MusicBrainz annotation resolves to June 10 per the Ruppli/Cuscuna Blue Note discography. Herbie Hancock plays organ on some tracks in addition to piano. Bobby Hutcherson doubles on marimba. James Spaulding doubles on flute."
+  },
+  "ballot": {
+    "album": "Bobby Hutcherson — Components (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "A magnificent Blue Note sextet date pairing Hutcherson with an all-star lineup (Freddie Hubbard, James Spaulding, Herbie Hancock, Ron Carter, Joe Chambers) for a bold two-sided concept: hard bop originals on side A, avant-tinged Chambers compositions on side B. AllMusic 5 stars, Penguin Guide 3.5 stars. 'Little B's Poem' is a Hutcherson classic. Session gravity is exceptional — five of the six musicians are already canon leaders. Represents the adventurous mid-60s Blue Note spirit that the canon needs more of.",
+    "case_against": "Hutcherson is already represented in the canon by Dialogue (1965) and Stick-Up! (1966); Components falls between them chronologically and stylistically. While excellent, it is not the defining statement of any musician present — Hubbard, Hancock and Carter have stronger canon records. The contested tier reflects strong arguments both ways.",
+    "disagreement": "The two sides of the album (Hutcherson hard-bop vs Chambers avant) could be viewed as either a strength (range) or a weakness (split focus). The council sees value in both perspectives.",
+    "recommendation": "Include — the session gravity alone makes it a load-bearing record of the Blue Note post-bop era, and the Hutcherson arc benefits from having this bridging album.",
+    "confidence": "high"
+  }
+}
