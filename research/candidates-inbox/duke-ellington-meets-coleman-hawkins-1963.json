@@ -1,0 +1,489 @@
+{
+  "id": "duke-ellington-meets-coleman-hawkins-1963",
+  "artist": "Duke Ellington & Coleman Hawkins",
+  "album": "Duke Ellington Meets Coleman Hawkins",
+  "year": 1963,
+  "label": "Impulse!",
+  "catalog_number": "A-26",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "post-bop"
+  ],
+  "rationale": "The summit meeting: Ellington's small-group writing with the Duke's own men — Hodges, Carney, Lawrence Brown, Ray Nance, Aaron Bell, Sam Woodyard — plus Coleman Hawkins, the tenor saxophone's founding voice, in Rudy Van Gelder's Englewood Cliffs studio for Bob Thiele's Impulse!. One session, eight pieces, no filler. The New York Times called it 'one of the great Ellington albums, one of the great Hawkins albums and one of the great albums of the 1960s' (quoted on Wikipedia, S1), and the review table there records AllMusic 5 stars, Down Beat 4, Rolling Stone Jazz Record Guide 4 and Penguin Guide 4 — consensus across independent listing traditions. It is the record that keeps the pre-bop lineage audible inside the canon's core window: the canon already carries Ellington's Newport, Such Sweet Thunder and Money Jungle, and this is the chamber-scale companion that puts Hawkins directly beside him. Session gravity and lineage both point the same way.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Duke Ellington Meets Coleman Hawkins",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Duke_Ellington_Meets_Coleman_Hawkins"
+    },
+    "S2": {
+      "title": "jazzdisco.org — Impulse! Records Catalog, 9000 series (A-26)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/impulse-records/catalog-9000-series/"
+    },
+    "S3": {
+      "title": "jazzdisco.org — Van Gelder Studio Catalog, 1962",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/van-gelder-studio/catalog-1962/"
+    },
+    "S4": {
+      "title": "Discogs — Duke Ellington Meets Coleman Hawkins, Impulse! A-26 (release 23238227)",
+      "type": "web",
+      "url": "https://www.discogs.com/release/23238227-Duke-Ellington-Meets-Coleman-Hawkins-Duke-Ellington-Meets-Coleman-Hawkins"
+    },
+    "S5": {
+      "title": "iTunes Search API — Duke Ellington Meets Coleman Hawkins",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+Meets+Coleman+Hawkins&entity=album"
+    },
+    "S6": {
+      "title": "Cover Art Archive — release group 0bbc462f-554b-3cc3-b4c5-a78c6a313d5a",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/0bbc462f-554b-3cc3-b4c5-a78c6a313d5a"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-08-18"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1962-08-18",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Composer of all pieces except where noted on the track listing."
+      },
+      {
+        "name": "Coleman Hawkins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Bean"
+        ],
+        "notes": "'Self Portrait (Of The Bean)' is Ellington and Strayhorn's portrait of him."
+      },
+      {
+        "name": "Johnny Hodges",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Co-composer of 'Wanderlust' and 'The Jeep Is Jumpin''."
+      },
+      {
+        "name": "Harry Carney",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays bass clarinet (all sources list the double)."
+      },
+      {
+        "name": "Lawrence Brown",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Nance",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays violin (jazzdisco.org and Discogs list 'cornet, violin'; Wikipedia's personnel list gives cornet and violin). Which instrument appears on which track is not documented per track."
+      },
+      {
+        "name": "Aaron Bell",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sam Woodyard",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Limbo Jazz",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:14",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Mood Indigo",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:56",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington",
+          "Barney Bigard",
+          "Irving Mills"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Ray Charles' Place",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:04",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Wanderlust",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:00",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington",
+          "Johnny Hodges"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "You Dirty Dog",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:19",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Self Portrait (Of The Bean)",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:52",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington",
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Jeep Is Jumpin'",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:49",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington",
+          "Johnny Hodges"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Ricitic",
+        "track_number": 8,
+        "side": "B",
+        "duration": "5:51",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Solitude",
+        "track_number": 9,
+        "side": null,
+        "duration": "5:51",
+        "session_date": "1962-08-18",
+        "composers": [
+          "Duke Ellington",
+          "Eddie DeLange",
+          "Irving Mills"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Coleman Hawkins",
+          "Johnny Hodges",
+          "Harry Carney",
+          "Lawrence Brown",
+          "Ray Nance",
+          "Aaron Bell",
+          "Sam Woodyard"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "0bbc462f-554b-3cc3-b4c5-a78c6a313d5a",
+    "apple_album_id": "1444036475",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/0bbc462f-554b-3cc3-b4c5-a78c6a313d5a/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image, release 43c55c3a-c3e8-33c7-ae87-73387cbf3bdd."
+      }
+    ],
+    "notes": "Single session, one day: Van Gelder Studio, Englewood Cliffs, NJ, August 18, 1962 — jazzdisco.org matrix numbers 11044-11053 (11050 'Limbo Blues' unissued). Recorded before the release year: the Impulse! LP appeared in 1963 (Discogs gives the original as A-26, 1963, and the 2022 Acoustic Sounds reissue prints 'The recording took place August 18, 1962'). RELEASE MONTH CONFLICT preserved: Wikipedia's infobox gives January 1963 while the article body and the Billboard citation give February 1963; no month is asserted here. 'Solitude' was not on the original LP — it was issued on the compilation The Definitive Jazz Scene Volume 1 (Impulse! A-99) and added to the album as a bonus track on the 1995 CD reissue (Wikipedia, jazzdisco.org); flagged bonus_track. Stone outtake 'Limbo Blues' was unissued. Durations differ by a few seconds between Wikipedia and Discogs (e.g. Limbo Jazz 5:14 vs 5:20); Wikipedia's timings are recorded above. Stanley Dance wrote the original liner notes; Bob Thiele produced and Rudy Van Gelder engineered (Wikipedia personnel/production section and Discogs credits, both obs). Down Beat's later 4-star notice (Milkowski, June 2013) and the New Record Mirror review are cited on the Wikipedia page."
+  },
+  "ballot": {
+    "album": "Duke Ellington & Coleman Hawkins — Duke Ellington Meets Coleman Hawkins (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Within the year window and no style is excluded, but its mainstream swing/Ellingtonia idiom sits at the edge of the canon's post-bebop center; the post-bop tag is debatable."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album joins two foundational voices with Ellington's working band, making the session's gravity exceptional; the personnel and Van Gelder session are documented in S2–S3. The dossier reports strong ratings across AllMusic, Down Beat, Rolling Stone Jazz Record Guide, and Penguin Guide, plus a New York Times encomium, though these are relayed through S1. It also offers a distinctive lineage bridge: “Self Portrait (Of The Bean)” places Hawkins directly within Ellington's small-group world and gives the canon a vivid meeting of pre-bop and later-era traditions.",
+    "case_against": "This is a warmly played mainstream swing summit, not a defining post-bop statement or a record that pushes the idiom forward; its relaxed approach contrasts with the modernist friction of Ellington's Money Jungle. The acclaim is persuasive, but the dossier routes much of its critical evidence through Wikipedia rather than directly to the cited reviews and guides. The style boundary is substantive: if the canon is centered on records that embody the bebop/post-bebop tradition, this celebrated elder-statesmen date may be adjacent rather than load-bearing.",
+    "disagreement": "One reference judges the lineage bridge and reported cross-guide acclaim sufficient for consensus_core and must_have, treating scope as clean; the other sees a mainstream-swing boundary and a celebrated but non-transformative summit, favoring contested and strong. The council preserves that split rather than treating the disputed post-bop classification as settled.",
+    "recommendation": "John should consider it as a strong, contested bridge record, while deciding whether mainstream swing summits belong within the canon's post-bebop scope.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": "max-roach-percussion-bitter-sweet-1961",
+  "artist": "Max Roach",
+  "album": "Percussion Bitter Sweet",
+  "year": 1961,
+  "label": "Impulse!",
+  "catalog_number": "A-8",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "post-bop",
+    "hard-bop"
+  ],
+  "rationale": "Max Roach's 1961 Impulse! statement and the record that sits directly beside We Insist! in his great run — a hard-bop/post-bop suite (Garvey's Ghost, Mendacity, Man from South Africa) that folds Caribbean percussion and Abbey Lincoln's voice into the Roach ensemble. Session gravity is the case: Booker Little's penultimate session before his death in October 1961, Eric Dolphy on alto sax, flute and bass clarinet, Clifford Jordan, Julian Priester, Mal Waldron and Art Davis — a personnel web that touches nearly every branch of the canon's early-60s core. AllMusic rates it 5 stars, Down Beat 4.5; it is the Roach album after We Insist! that critics place with the era's best. Producer credit is Roach himself, on Rudy Van Gelder's Englewood Cliffs date — Impulse!'s house sound at its first peak.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Percussion Bitter Sweet",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Percussion_Bitter_Sweet"
+    },
+    "S2": {
+      "title": "jazzdisco.org — Max Roach Catalog (session index)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/max-roach/catalog/"
+    },
+    "S3": {
+      "title": "jazzdisco.org — Impulse! Records Catalog, 9000 series (A-8)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/impulse-records/catalog-9000-series/"
+    },
+    "S4": {
+      "title": "AllMusic — Percussion Bitter Sweet (album page + Credits tab)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/percussion-bitter-sweet-mw0000095699"
+    },
+    "S5": {
+      "title": "Discogs — Percussion Bitter Sweet, Impulse! A-8 (release 2125524)",
+      "type": "web",
+      "url": "https://www.discogs.com/release/2125524-Max-Roach-Percussion-Bitter-Sweet"
+    },
+    "S6": {
+      "title": "iTunes Search API — Max Roach / Percussion Bitter Sweet",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Max+Roach+Percussion+Bitter+Sweet&entity=album"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group 0a449ea9-dc5a-3c3a-89ca-830235bf3e87",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/0a449ea9-dc5a-3c3a-89ca-830235bf3e87"
+    },
+    "S8": {
+      "title": "LondonJazzCollector — Max Roach: Percussion Bitter Sweet (1961) Impulse",
+      "type": "web",
+      "url": "https://londonjazzcollector.wordpress.com/2014/08/31/max-roach-percussion-bitter-sweet-1961-impulse/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-08-01",
+      "1961-08-03",
+      "1961-08-08",
+      "1961-08-09"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1961-08-01",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S1"
+      },
+      {
+        "session_date": "1961-08-03",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S1"
+      },
+      {
+        "session_date": "1961-08-08",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S1"
+      },
+      {
+        "session_date": "1961-08-09",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S1"
+      }
+    ],
+    "producer": "Max Roach",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Booker Little",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Final studio sessions before his death in October 1961."
+      },
+      {
+        "name": "Julian Priester",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on flute and bass clarinet across the sessions (jazzdisco.org lists 'flute, alto sax, bass clarinet'; AllMusic and Discogs credit flute and bass clarinet alongside alto sax). Which horn appears on which track is not documented per track."
+      },
+      {
+        "name": "Clifford Jordan",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Mal Waldron",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Also credited with percussion (Wikipedia) and as composer and producer (AllMusic Credits tab)."
+      },
+      {
+        "name": "Carlos \"Patato\" Valdés",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Garvey's Ghost",
+          "Tender Warriors",
+          "Man from South Africa"
+        ],
+        "session_dates": [
+          "1961-08-01",
+          "1961-08-03",
+          "1961-08-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [
+          "Carlos Valdes",
+          "Carlos \"Patato\" Valeler"
+        ],
+        "notes": "Wikipedia lists congas on tracks 1, 3 and 6 of the album sequence (sessions of Aug 1, Aug 3, Aug 9); jazzdisco.org marks the conga drum on its Aug 1 '1.' and Aug 3 '2.' entries and on the Aug 9 session — the same three sessions. Absent from the Aug 8 session in both. Spelled 'Valeler' on jazzdisco.org and Discogs, 'Valdes' on AllMusic."
+      },
+      {
+        "name": "Eugenio \"Totico\" Arango",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Garvey's Ghost",
+          "Tender Warriors",
+          "Man from South Africa"
+        ],
+        "session_dates": [
+          "1961-08-01",
+          "1961-08-03",
+          "1961-08-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [
+          "Carlos Eugenio",
+          "Eugenio \"Totico\" Arango"
+        ],
+        "notes": "Plays cowbell — not in the project instrument taxonomy, recorded here as 'percussion'. Sources credit him as 'Carlos Eugenio' (Wikipedia, AllMusic, Discogs) or 'Carlos \"Totico\" Eugenio' (jazzdisco.org); Wikipedia's personnel list gives the fuller name Eugenio \"Totico\" Arango. Same three sessions as Valdés."
+      },
+      {
+        "name": "Abbey Lincoln",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Garvey's Ghost",
+          "Mendacity"
+        ],
+        "session_dates": [
+          "1961-08-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Discogs credits vocals on A1 and B2 — the same two tracks (Garvey's Ghost, Mendacity), both from the Aug 1 session. Roach's wife and the voice of We Insist!."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Garvey's Ghost",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:53",
+        "session_date": "1961-08-01",
+        "composers": [
+          "Max Roach"
+        ],
+        "personnel": [
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Clifford Jordan",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach",
+          "Carlos \"Patato\" Valdés",
+          "Eugenio \"Totico\" Arango",
+          "Abbey Lincoln"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Mama",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:50",
+        "session_date": "1961-08-03",
+        "composers": [
+          "Max Roach"
+        ],
+        "personnel": [
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Clifford Jordan",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Tender Warriors",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:52",
+        "session_date": "1961-08-03",
+        "composers": [
+          "Max Roach"
+        ],
+        "personnel": [
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Clifford Jordan",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach",
+          "Carlos \"Patato\" Valdés",
+          "Eugenio \"Totico\" Arango"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Praise for a Martyr",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:09",
+        "session_date": "1961-08-08",
+        "composers": [
+          "Max Roach"
+        ],
+        "personnel": [
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Clifford Jordan",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Mendacity",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:54",
+        "session_date": "1961-08-01",
+        "composers": [
+          "Chips Bayen",
+          "Max Roach"
+        ],
+        "personnel": [
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Clifford Jordan",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach",
+          "Abbey Lincoln"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Man from South Africa",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:12",
+        "session_date": "1961-08-09",
+        "composers": [
+          "Max Roach"
+        ],
+        "personnel": [
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Clifford Jordan",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach",
+          "Carlos \"Patato\" Valdés",
+          "Eugenio \"Totico\" Arango"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "0a449ea9-dc5a-3c3a-89ca-830235bf3e87",
+    "apple_album_id": "1445869052",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/0a449ea9-dc5a-3c3a-89ca-830235bf3e87/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image, release 947f821b-15c1-4869-8b5f-157168691b2c."
+      }
+    ],
+    "notes": "Four sessions: Aug 1 (Garvey's Ghost, Mendacity), Aug 3 (Mama, Tender Warriors), Aug 8 (Praise for a Martyr), Aug 9 (Man from South Africa) — jazzdisco.org matrix numbers 10460-10468. PLACE CONFLICT, preserved: Wikipedia's infobox and LondonJazzCollector both place the sessions at Rudy Van Gelder's studio in Englewood Cliffs, NJ (correct for Aug 1961 — Van Gelder moved from Hackensack in July 1959), and the Impulse! catalog of this period is otherwise Van Gelder-recorded; jazzdisco.org gives only 'NYC' for all four sessions and AllMusic's album page gives Recording Location 'New York, NY'. The specific venue claim is recorded above with epistemic 'unk' rather than resolved by preference. ENGINEER: no source names an engineer for these sessions; Rudy Van Gelder is inferred (epistemic_production 'inf') from the documented Van Gelder Studio location and the house pattern — the contract's standing Van Gelder inference. LondonJazzCollector notes the original pressing has no RVG stamp in the runout, which concerns mastering rather than the recording engineer and is recorded here as the reason the inference stays 'inf' rather than 'obs'. PRODUCER: Max Roach (Wikipedia infobox; AllMusic Credits tab lists Roach as Producer, alongside later reissue credits for Michael Cuscuna and Scott Johnson which belong to the CD reissue, not the 1961 sessions). Durations vary by a few seconds between sources (Wikipedia 7:53/6:52/7:09/8:54/5:12 vs Discogs and AllMusic 7:55/6:54/7:13/8:56/5:15); Wikipedia's timings are recorded above. Releases: Impulse! A-8 (mono) and AS-8 (stereo), 1961; the album carries no alternate takes or bonus tracks on the original issue."
+  },
+  "ballot": {
+    "album": "Max Roach — Percussion Bitter Sweet (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The session brings together Booker Little shortly before his death, Eric Dolphy, Clifford Jordan, Julian Priester, Mal Waldron, and Art Davis; the dossier’s cited discographies and reviews agree on the personnel, giving the album exceptional early-60s session gravity. Roach’s blend of post-bop with Caribbean percussion and Abbey Lincoln’s voice makes it a distinct statement alongside, rather than simply a repeat of, We Insist!; AllMusic’s five-star rating and Down Beat’s 4.5-star rating support its critical standing.",
+    "case_against": "The dossier does not document the strongest consensus signals, such as Penguin Guide or NPR canon-list recognition, and its reference base is stronger for discography and credits than for broad historical stature. We Insist! remains the more established Roach landmark, while the album’s distinctive percussion approach and stellar personnel do not by themselves establish that this particular record is a defining lineage node rather than a compelling companion session.",
+    "disagreement": "The references split between consensus_core and contested. The case for consensus relies partly on Penguin Guide status, which is asserted by one reference but not supported in the dossier; the other reference weighs the missing consensus evidence and the album’s second-tier standing behind We Insist! more heavily.",
+    "recommendation": "John should consider the album as a strong but contested companion to We Insist!, with its session gravity and distinct musical identity weighed against its less-established consensus status.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
