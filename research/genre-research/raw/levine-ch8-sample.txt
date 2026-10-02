@@ -1,0 +1,534 @@
+P LAYING “O UTSIDE”
+C HAPTER E IGHT
+**Playing “Outside”**
+=========
+
+# ◗ Sequences
+
+# ◗ Playing a Half Step Away
+
+# ◗ Playing a Tritone Away
+
+# ◗ Playing Scales to Get Outside
+
+# ◗ Some Piano Stuff
+
+# ◗ The Chromatic Scale
+
+# ◗ Be Brave, Go Ahead and Play Outside
+
+ne reason that musicians such as Joe
+Henderson, Woody Shaw, McCoy Tyner,
+Bobby Hutcherson, David Liebman, and
+OMulgrew Miller are greatly admired is that
+they not only have mastered the art of playing changes,
+but also know how to play “outside” the changes.
+
+Playing “outside” on chord changes can mean
+several different things, including playing notes that
+aren’t in the chord, stretching the length of one chord
+into another, or playing something recognizable but in
+a different key.  It can also mean playing “free,” or
+atonal, with no chord structure at all.  Musicians such as
+Anthony Braxton and Cecil Taylor fall into this category,
+and their music is “outside” the scope of this book.
+
+Bear in mind that what’s considered outside is
+subjective and changeable.  What you hear as “outside”
+someone else will hear as “inside,” and vice versa.  Bird
+was considered “out” by many musicians in the 1940s,
+as was Coltrane in the 1960s.  Quite a few musicians
+still hear Coltrane’s last few recordings as being “out.”
+Cecil Taylor has been recording for about 40 years,
+and is still considered “out” by many musicians.
+
+---
+
+**Figure 8-1**
+
+4 # œ
+œ œ œ œ
+&4 # œ # œ
+œ
+
+**Figure 8-2**
+
+G–7
+4 # œ
+œ œ œ œ
+& 4 # œ # œ
+œ
+w
+bww
+? 4 w
+4
+
+Many of the best examples of “outside” playing
+are really *bitonality,* or two tonalities at the same
+time.<sup>1</sup>  The pianist or guitarist may be ‘comping in
+one key, while the soloist goes outside and plays in
+another.  To make this sound good, and not like a
+bunch of wrong notes, you must outline the second
+tonality clearly and play *with authority.*  If you’re the
+least bit wimpy about it, it’s going to sound wrong.
+Someone once described playing outside as making
+the “wrong” notes sound “right.”  As for a definition
+of the difference between “right” and “wrong” notes,
+remember this:  *You can play any note on any chord.*
+*If it sounds “right” to you, then it is.  If it sounds
+“wrong” to you, then it is.*
+
+Play **figure 8-1.**  Sounds like A major, right?
+Now play **figure 8-2,** the same phrase but played
+over a piano voicing for G-7.  An A major phrase
+played over a G-7 chord is bitonality.  This is from
+Woody Shaw’s solo on his tune “Rosewood.”<sup>2</sup>
+As shown here, this example doesn’t do justice
+to the music at all; the dissonance is much too
+harsh.  You have to listen to Woody’s recording
+to really hear how it sounds.
+
+Let’s examine several ways to get “outside.”
+
+<sup>1</sup>“Tonality” and “tonal center” are alternative terms for
+“key,” although they are somewhat broader in meaning.
+<sup>2</sup>Woody Shaw, *Rosewood,* Columbia, 1977.
+
+---
+
+## Sequences
+
+s I mentioned in Chapter 6, sequences are a
+A good way to get outside the changes, because
+the ear picks up on their internal structure and has
+something to hang onto while the harmony becomes
+unclear.  **Figure 8-3** shows a fragment of one of
+Mulgrew Miller’s best solos, on “Wingspan,”<sup>3</sup> which
+is printed in its entirety at the end of Chapter 6.
+Mulgrew plays a four-note figure on an F∆ chord,
+transposes it to A b, and then sequences it, following
+the cycle of fifths, to Db and G b.  He then goes up a
+half step and descends a G triad—D, B, and G—the
+11th, 9th, and 7th of the written A-7 chord.  Mulgrew
+starts inside, goes outside, and then comes back
+inside—a common approach when playing outside.
+Playing a sequence to go outside, and then coming
+back inside gives structure to your solo and makes it
+sound as though you know what you’re doing.  Think
+*inside -outside -inside.*
+
+**Figure 8-3**
+
+F ∆ G–7
+bœ <sup>A–7</sup>œ
+bœ bœ œ bœ œ
+œ œ
+4 œ bœ bœ bœ
+&4 œ bœ bœ
+œ œ
+œ
+inside outside inside
+
+Why don’t notes that are outside the harmony
+sound “wrong”?  A familiar set of chord changes
+establishes a dynamic structure, and your ear expects
+certain things to happen.  Let’s call this *predictability.*
+After you’ve heard “Autumn Leaves” a few dozen
+times, you expect that C-7 will be followed by F7.
+Playing a sequence does the same thing.  It establishes
+structure, and sets up your ear to expect the sequence
+to continue, just as it expects C-7 to be followed by
+F7 in “Autumn Leaves.”  As long as the notes of the
+sequence remain part of the harmony, the music is
+“inside.”  When the sequence diverges from the
+chords, the result is “outside” harmony.  Let’s call this
+*surprise.*  The written harmony and the sequence
+sound “right” by themselves, even though the
+sequence may go outside the written harmony.  They
+don’t sound “wrong” played together, they sound
+bitonal.  *Inside -outside -inside.  Predictability -surpise.*
+
+<sup>3</sup>Mulgrew Miller, *Wingspan,* Landmark, 1987.
+
+---
+
+**Figure 8-4**
+
+Later in the same solo, Mulgrew plays a
+descending sequence to achieve the same effect,
+as shown in **figure 8-4.**  In the first bar, Mulgrew
+plays a four-note motíf, descending a G triad—D,
+B, G, D—the 11th, 9th, 7th and 11th again, of A-7.
+He then outlines a B-7 chord—A, F #, D, B—the 7th,
+5th, 3rd, and root of B-7— all the notes still from the
+key of G implied by the A-7 chord symbol.  Mulgrew
+has started a four-note sequence, and is still inside
+the changes.  In the second bar, Mulgrew continues
+the sequence down a 4th, outlining an F # -7 chord,
+with a C # that is outside the written D7 chord.  He
+then outlines an E major triad.  The G # is not really
+#
+outside of D7, but is the 11 of the chord.  In the
+
+<sub>A</sub>b<sub>–7</sub>
+D7
+<sup>A–7</sup>œ
+œ œ
+œ # œ
+4 œ œ œ # œ
+œ œ # œ œ # œ
+&4 bœ bœ
+œ
+œ bœ bœ bœ bœ
+œ
+<sub>F</sub>#<sub>–7</sub> <sub>C</sub>b <sub>G</sub>b
+G major B–7 E major major major
+
+Jazz Ensemble
+
+*Joe Henderson*
+
+©Lee Tanner/ The Jazz Image All Rights Reserved
+
+---
+
+**Figure 8-5**
+
+C ∆
+4
+& 4 bww
+b w
+w
+? 4 w
+4 ww
+
+**Figure 8-6**
+
+4
+& 4 #<sub>11</sub> # ww6th
+w9th
+w
+? 4 ww
+4 w
+
+third bar, Mulgrew outlines Cb and G b major triads, all
+the notes belonging to the written A b-7 chord.  The
+first note of each four-note motíf starts a 4th lower
+than the last one—D, A, E, B, G b, Db — clockwise
+around the cycle of fifths.  That C # in the second bar,
+the only outside note in the phrase, catches your ear.
+It sticks out, but not like a sore thumb.  Remember,
+*inside -outside -inside.*
+
+**Figure 8-7**
+
+## Playing a Half Step Away
+
+t’s very common to play a half step away from
+I a chord to get outside.  Playing up or down a
+half-step is popular because it creates the most
+dissonance, and dissonance is mostly what playing
+outside is all about.  This technique is relatively easy.
+Because the notes are only a half step away, the ear
+can easily relate the line to its actual harmonic base
+and can conceive the logic in the dissonance.  If you
+try playing a half step away, don’t be tentative!  Play
+it with authority or it will sound wrong.  Many of
+the best players weave outside material into tonal
+(“inside”) material by playing a half step or whole step
+away, achieving very graceful “side stepping,” another
+term used for outside playing.
+
+**Figure 8-5** shows a D b triad played over C ∆.
+Even though C and D b are right next to each other,
+this is about as outside as you can get.  All three notes
+of the Db triad sound extremely dissonant.  Try playing
+each one over the C∆ chord—first Db, then F, then
+A b — and you’ll hear some serious dissonance.  Now
+play **figure 8-6,** a D major triad over the C ∆ chord.
+D is a half step further away from C than Db, but
+sounds very inside.  All three notes in a D triad sound
+cool—D is the 9th of C, F # is the #11, and A is the 6th.
+
+b
+G7 9 C–
+b 4
+nœ # œ w # œ nœ # œ œ œ # œ nœ # œ
+& b b 4 œ œ œ ˙
+œ
+<sub>C</sub>#<sub>7</sub>
+
+b nœ # œ œ
+Ó nœ # œ
+& b b
+
+**Figure 8-7** shows a fragment of Joe Henderson’s
+solo on Horace Silver’s “Nutville.”<sup>4</sup>  Joe plays four notes
+on the G7b<sup>9</sup> chord, and then instead of playing Che moves the tonality up a half step, playing on C # 7.
+
+$$
+G7^{\flat9}
+$$
+
+<sup>4</sup>Horace Silver, *The Cape Verdean Blues,* Blue Note, 1965.
+
+---
+
+**Figure 8-8** is from Freddie Hubbard’s solo on
+“Hub Tones.”<sup>5</sup>  Instead of playing on the written four
+bars of Bb7, Freddie plays B b7 for only two bars, then
+dips a half step below to A7 for most of the next two
+bars before returning to B b7 just before the chord
+changes to E b7.  *Inside -outside -inside.*
+
+**Figure 8-8**
+
+<sub>B</sub>b<sub>7</sub>
+œ bœ œ
+œ œ œ œ bœ
+4 œ œ œ
+Ó ‰ œ
+&4 œ # œ œ œ
+œ œ
+#œ
+A7
+
+<sub>E</sub>b<sub>7</sub>
+œ # œ bœ bœ
+& œ œ œ
+œ
+#œ
+
+**Figure 8-9**
+
+## Playing a Tritone Away
+
+laying tritone substitution is another way to get
+P outside.<sup>6</sup>  Like the last example, **figure 8-9** is also
+from Freddie Hubbard’s solo on “Hub Tones.”  Freddie
+plays a phrase that looks and sounds like A7.<sup>7</sup>  A7 is
+the tritone substitution of E b7, the written
+chord.   Freddie also stretches A7 two beats
+into B b7, the next chord.
+
+<sub>E</sub>b<sub>7</sub> <sub>B</sub>b<sub>7</sub>
+4
+œ œ bœ
+&4 œ # œ œ œ
+œ # œ œ œ
+A7
+
+If you asked Freddie what he was
+thinking at the time, he’d probably say
+“I don’t remember.”  Your goal is to practice
+and internalize everything until you don’t
+have to think while improvising.  Instead,
+
+you just hear it and play it.  To get to this point
+requires hundreds, maybe thousands, of hours in
+the woodshed.  Remember Bird’s words: *“Learn
+the changes, then forget them.”*
+
+<sup>5</sup>Freddie Hubbard, *Hub Tones,* Blue Note, 1962.
+
+<sup>6</sup>Tritone substitution will be covered thoroughly in Chapter
+
+13.  Very briefly, it means replacing a V chord with another
+V chord a tritone away.
+
+7The Ab is the passing note in the A bebop dominant scale.
+
+---
+
+## Playing Scales to Get Outside
+
+laying a scale can clearly outline a tonality other
+P than the written one.  Woody Shaw was a master
+at playing scales that “don’t belong” to the written
+chord.  Look at **figure 8-10,** from Woody’s solo on his
+tune “In Case You Haven’t Heard.”<sup>8</sup>  His first five notes
+suggest the key of F.  Next Woody plays a B pentatonic
+scale,<sup>9</sup> suggesting the key of B, a tritone away from
+F.   He then clearly outlines F major again.  Woody
+creates a very clear harmonic structure (the keys of
+#
+F,  B, F) apart from the written chord symbol (A b ∆ <sup>4</sup>).
+
+**Figure 8-10**
+
+#<sub>4</sub>
+<sub>A</sub>b
+∆
+bœ œ
+œ œ # œ # œ # œ # œ nœ nœ
+4 œ œ œ
+œ œ
+&4 Œ‰J œ
+œ
+key of F B pentatonic key of F
+
+A few bars later in the same solo, Woody creates
+a similar effect, as shown in **figure 8-11.**  Over an
+#
+F∆<sub>4</sub> chord, he first suggests the key of F, then plays
+an E pentatonic scale, a half step away, and finally
+returns to F.  *Inside -outside -inside.*
+
+**Figure 8-11**
+
+#<sub>4</sub>
+F ∆
+bœ œ
+œ œ # œ # œ œ œ œ
+4 œ # œ œ œ
+œ œ
+&4
+key of F E pentatonic key of F
+
+**Figure 8-12** shows Woody playing notes from an
+F bebop dominant scale, followed by two four-note
+figures suggesting the keys of A b, and A, all over a
+C-7 chord on his tune “Rahsaan’s Run.”<sup>10</sup>
+
+**Figure 8-12**
+
+C–7
+œ œ œ œ
+4 œ bœ œ bœ bœ
+œ nœ œ
+&4 bœ bœ
+œ nœ
+<sub>A</sub>b
+F bebop dominant A
+
+<sup>8</sup>Woody Shaw, *Little Red’s Fantasy,* Muse, 1976.
+
+<sup>9</sup>Pentatonic scales will be covered in the next chapter.
+
+<sup>10</sup>Woody Shaw, *Rosewood,* Columbia, 1977.
+
+---
+
+## Some Piano Stuff
+
+ianists: When going outside, you have a built-in
+P advantage that other instrumentalists don’t have.
+You have two hands, one to play the written tonality,
+and the other to go outside.  **Figure 8-13** shows one
+of many ways you can do this.  The right-hand phrase
+outlines the written C-6 chord.  The left hand starts
+with diatonic 4ths in C minor, and then continues
+the 4ths chromatically, outside of C minor.  Your ear
+hears this as bitonality:
+
+• One hand is playing in
+
+the key of C minor.
+
+• The other hand is playing
+
+in the “key of 4ths.”
+
+**Figure 8-13**
+
+The “key of 4ths” may sound weird, but think
+about this:  Playing in a key sets up a certain dynamic,
+and certain expectations.  After you’ve played C, D,
+E, and F, your ear expects G, A, B, and C (the rest of the
+C major scale) to follow.  Playing in 4ths sets up a similar
+kind of expectation.  After you’ve played two or three
+4th chords in a row, your ear expects more 4th chords,
+whether they are from the written chord changes or not.
+
+C–6œ
+3œ œ œ œ œ
+4 œ œ
+‰ œ œ bœ œ œ bœ
+& 4 j bœ œ œ œ œ œ œ œ œ
+œ
+˙˙ ḃ
+˙ b ˙
+bb ˙˙ nn ˙˙ ḃ
+? 4 ˙ # ˙ ˙
+ḃ˙
+4
+˙
+˙
+
+œ œ
+bœ ˙
+&
+œ. ˙˙
+œ.. bbœœ
+œ bœ ˙
+?
+J
+
+---
+
+## The Chromatic Scale
+
+n terms of playing on chords, the chromatic scale
+I “belongs to every chord, belongs to no chord.”  If you
+play a chromatic run on any chord, it won’t sound
+“wrong.”  But if you do this a lot, you’ll end up
+sounding very boring, and will gain a reputation as not
+being able to play the changes.  Nevertheless,
+chromatic runs, because they are harmonically
+ambiguous, are a way to get outside the changes.
+
+**Figure 8-14**
+
+**Figure 8-14** contains a portion of Freddie Hubbard’s
+solo on “Hub Tones.”<sup>11</sup>  Freddie plays eight notes of the
+chromatic scale in the first and second bars, ending on
+A, a “wrong” note on a Bb7 chord.  Having fudged the
+tonality, he then sequences a three-note pattern,
+suggesting the keys of A, F, and Bb.  All this over the
+first five bars of a blues in Bb.
+
+<sub>B</sub>b<sub>7</sub>
+œ œ œ
+4 œ œ bœ œ œœ b
+‰ œ œ bœ Œ
+&4 œ
+# œ # œ œ œ
+œ
+chromatic A ∆
+<sub>E</sub>b<sub>7</sub>
+œ
+œ bœ œ
+bœ œ
+& œ œ
+œ œ
+#œ nœ œ
+<sub>B</sub>b
+F ∆ ∆
+
+<sup>11</sup>Freddie Hubbard, *Hub Tones,* Blue Note, 1962.
+
+---
+
+## Be Brave, Go Ahead and Play Outside
+
+n easy way to start playing outside is to do so
+A on modal tunes.  These types of tunes provide lots
+of space on a given chord to establish the tonality,
+take it outside, and then bring it back to the changes.
+Also since modal tunes have only one or two chords,
+the inherent boredom of static harmony creates a
+need for dissonance.  Tunes such as “Passion Dance,”<sup>12</sup>
+“So What,”<sup>13</sup> “Little Sunflower,”<sup>14</sup> and “Impressions”<sup>15</sup>
+are ideal for playing outside.
+
+**We’ve mentioned the pentatonic
+scale a few times, and it’s time to talk
+about this scale — in the next chapter.**
+
+<sup>12</sup>McCoy Tyner, *The Real McCoy,* Blue Note, 1968.
+
+<sup>13</sup>Miles Davis, *Kind Of Blue,* Columbia, 1959.
+
+<sup>14</sup>Freddie Hubbard, *Backlash,* Atlantic, 1966.
+
+<sup>15</sup>John Coltrane, *Impressions,* MCA / Impulse, 1962.

@@ -1,0 +1,26 @@
+{
+ "https://justinduhaime.com/wp-content/uploads/2021/02/Eric-Dolphy-Outness-Final-revised.pdf": {
+  "title": "",
+  "error": null,
+  "len": 18422,
+  "file": "/home/john/dev/active/mccoy-tyner/research/genre-research/raw/x_https_justinduhaime_com_wp_content_uploads_2021_02.txt"
+ },
+ "https://www.phrases.org.uk/bulletin_board/6/messages/1093.html": {
+  "title": "Playing inside/outside - phrase meaning and origin",
+  "error": null,
+  "len": 1126,
+  "file": "/home/john/dev/active/mccoy-tyner/research/genre-research/raw/x_https_www_phrases_org_uk_bulletin_board_6_messages.txt"
+ },
+ "https://www.reddit.com/r/Jazz/comments/n1q8mr/outside_playing_what_are_its_origins_and_what_are/": {
+  "title": "",
+  "error": "Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: https://fk4bvu0n5qp.typeform.com/to/Ej6oydlg - No additional error details provided.",
+  "len": 0,
+  "file": "/home/john/dev/active/mccoy-tyner/research/genre-research/raw/x_https_www_reddit_com_r_azz_comments_n1q8mr_outside.txt"
+ },
+ "https://archive.org/stream/allmusicguidetoj00erle/allmusicguidetoj00erle_djvu.txt": {
+  "title": "Full text of \"All music guide to jazz : the experts' guide to the best jazz recordings\"",
+  "error": null,
+  "len": 18435,
+  "file": "/home/john/dev/active/mccoy-tyner/research/genre-research/raw/x_https_archive_org_stream_allmusicguidetoj00erle_al.txt"
+ }
+}

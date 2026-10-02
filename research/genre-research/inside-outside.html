@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Inside/Outside — research reference for jazzcanon.com</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Lora:ital,wght@0,400;1,400&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --bg:#faf8f3; --surface:#ffffff; --ink:#1c1a17; --muted:#6b6358; --line:#e6e0d6;
+    --bn-blue:#2b5f7a; --bn-blue-light:#4a7c95; --impulse-amber:#c4862a;
+    --era-bebop:#5a5249; --era-cool:#2b5f7a; --era-hardbop:#946a10; --era-modal:#3d6b5a;
+    --era-freejazz:#7c3522; --era-postbop:#6a4579; --era-fusion:#5f6e2a;
+    --font-display:'Oswald','Helvetica Neue Condensed',sans-serif;
+    --font-body:'Libre Franklin','Franklin Gothic','Helvetica Neue',Helvetica,Arial,sans-serif;
+    --font-serif:'Lora',Georgia,'Times New Roman',serif;
+    --radius:3px; --radius-pill:999px;
+    --shadow-float:0 6px 24px rgba(28,26,23,.10);
+    --fs-10:10px; --fs-11:11px; --fs-12:12px; --fs-13:13px; --fs-15:15px;
+    --fs-17:17px; --fs-21:21px; --fs-28:28px; --fs-40:40px;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:var(--font-body); font-size:var(--fs-15); line-height:1.62;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:920px;margin:0 auto;padding:0 28px 120px}
+
+  /* ---------- header ---------- */
+  header{border-bottom:1px solid var(--line);background:var(--surface)}
+  .hd{max-width:920px;margin:0 auto;padding:44px 28px 34px}
+  .kicker{
+    font-size:var(--fs-11);text-transform:uppercase;letter-spacing:.16em;
+    color:var(--muted);margin:0 0 14px;font-weight:600;
+  }
+  h1{
+    font-family:var(--font-display);font-weight:600;font-size:var(--fs-40);
+    font-variant:small-caps;letter-spacing:.01em;line-height:1.05;margin:0 0 6px;
+  }
+  .sub{font-family:var(--font-serif);font-style:italic;font-size:var(--fs-17);
+       color:var(--muted);margin:0 0 20px}
+  .byline{font-size:var(--fs-12);color:var(--muted);border-top:1px solid var(--line);
+          padding-top:14px;margin:0}
+  .byline b{color:var(--ink);font-weight:600}
+
+  /* ---------- nav ---------- */
+  nav{position:sticky;top:0;z-index:20;background:rgba(250,248,243,.96);
+      backdrop-filter:saturate(140%) blur(6px);border-bottom:1px solid var(--line)}
+  .navin{max-width:920px;margin:0 auto;padding:0 28px;display:flex;gap:2px;
+         overflow-x:auto;scrollbar-width:none}
+  .navin::-webkit-scrollbar{display:none}
+  nav a{
+    flex:0 0 auto;font-size:var(--fs-12);text-transform:uppercase;letter-spacing:.09em;
+    color:var(--muted);text-decoration:none;padding:13px 11px;border-bottom:2px solid transparent;
+    font-weight:600;white-space:nowrap;
+  }
+  nav a:hover{color:var(--bn-blue)}
+  nav a.on{color:var(--bn-blue);border-bottom-color:var(--bn-blue)}
+
+  /* ---------- sections ---------- */
+  section{padding:46px 0 6px;border-bottom:1px solid var(--line)}
+  section:last-of-type{border-bottom:none}
+  h2{
+    font-family:var(--font-display);font-weight:600;font-size:var(--fs-28);
+    font-variant:small-caps;margin:0 0 6px;line-height:1.15;
+  }
+  h2 .num{color:var(--bn-blue);font-family:var(--font-body);font-size:var(--fs-13);
+          font-variant:normal;letter-spacing:.1em;display:block;margin-bottom:6px}
+  h3{font-family:var(--font-display);font-weight:600;font-size:var(--fs-17);
+     font-variant:small-caps;margin:30px 0 8px}
+  p{margin:0 0 14px}
+  .lede{font-size:var(--fs-17);line-height:1.6;margin-bottom:18px}
+  a{color:var(--bn-blue)}
+  .note{font-family:var(--font-serif);font-style:italic;color:var(--muted);
+        font-size:var(--fs-15);border-left:2px solid var(--impulse-amber);
+        padding:2px 0 2px 16px;margin:20px 0}
+  code{font-size:var(--fs-13);background:var(--bg);border:1px solid var(--line);
+       padding:1px 5px;border-radius:var(--radius)}
+
+  /* ---------- verdict card ---------- */
+  .verdict{background:var(--surface);border:1px solid var(--line);
+           border-left:3px solid var(--impulse-amber);
+           padding:24px 26px;border-radius:var(--radius);margin:0 0 8px;
+           box-shadow:var(--shadow-float)}
+  .verdict h3{margin-top:0}
+  .verdict p:last-child{margin-bottom:0}
+
+  /* ---------- axes ---------- */
+  .axes{display:grid;gap:14px;margin:24px 0}
+  .axis{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+        padding:20px 22px}
+  .axis h4{font-family:var(--font-display);font-weight:600;font-size:var(--fs-15);
+           font-variant:small-caps;margin:0 0 4px}
+  .axis .q{font-size:var(--fs-12);color:var(--muted);margin:0 0 14px;font-style:italic;
+           font-family:var(--font-serif)}
+  .pole{display:grid;grid-template-columns:1fr auto 1fr;gap:14px;align-items:center}
+  .pole .side{font-size:var(--fs-13);line-height:1.5}
+  .pole .side b{display:block;font-family:var(--font-display);font-weight:600;
+                font-size:var(--fs-15);font-variant:small-caps;margin-bottom:3px}
+  .pole .side.i b{color:var(--era-hardbop)}
+  .pole .side.o b{color:var(--era-freejazz)}
+  .arrow{color:var(--muted);font-size:var(--fs-15);text-align:center}
+  .star{grid-column:1/-1;font-size:var(--fs-13);color:var(--muted);padding-top:12px;
+        border-top:1px dashed var(--line);margin-top:2px}
+  .star b{color:var(--ink);font-weight:600}
+
+  /* ---------- canon ratio ---------- */
+  .ratio{display:flex;height:44px;border-radius:var(--radius);overflow:hidden;
+         margin:20px 0 10px;border:1px solid var(--line)}
+  .ratio div{display:flex;align-items:center;padding:0 14px;font-size:var(--fs-13);
+             font-weight:600;color:#fff}
+  .r-in{background:var(--era-hardbop);flex:0 0 94%}
+  .r-out{background:var(--era-freejazz);flex:1;min-width:96px;justify-content:center}
+  .rlab{display:flex;justify-content:space-between;font-size:var(--fs-12);
+        color:var(--muted);margin-bottom:26px}
+
+  /* ---------- genre cards ---------- */
+  .gwrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(268px,1fr));
+         gap:14px;margin:24px 0 6px}
+  .g{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+     border-top:3px solid var(--c);padding:18px 20px 16px}
+  .g h4{font-family:var(--font-display);font-weight:600;font-size:var(--fs-17);
+        font-variant:small-caps;margin:0 0 2px;color:var(--c)}
+  .g .yrs{font-size:var(--fs-11);letter-spacing:.1em;text-transform:uppercase;
+          color:var(--muted);margin:0 0 10px;font-weight:600}
+  .g p{font-size:var(--fs-13);line-height:1.55;margin:0 0 10px;color:var(--ink)}
+  .g .gw{font-size:var(--fs-12);border-top:1px solid var(--line);padding-top:9px;
+         color:var(--muted)}
+  .g .gw b{color:var(--ink);font-weight:600}
+  .g.side{grid-column:1/-1;background:#f4efe6}
+
+  /* ---------- tables ---------- */
+  .tw{overflow-x:auto;margin:20px 0 8px}
+  table{width:100%;border-collapse:collapse;font-size:var(--fs-13);background:var(--surface);
+        border:1px solid var(--line)}
+  th{font-family:var(--font-display);font-weight:600;font-size:var(--fs-11);
+     text-transform:uppercase;letter-spacing:.09em;text-align:left;padding:10px 13px;
+     background:var(--bg);border-bottom:1px solid var(--line);white-space:nowrap;color:var(--ink)}
+  td{padding:11px 13px;border-bottom:1px solid var(--line);vertical-align:top;line-height:1.5}
+  tr:last-child td{border-bottom:none}
+  td.al{white-space:nowrap;font-weight:600}
+  td.yr{font-variant-numeric:tabular-nums;color:var(--muted);white-space:nowrap}
+  em.i{font-family:var(--font-serif);font-style:italic}
+  .pill{display:inline-block;font-size:var(--fs-10);text-transform:uppercase;
+        letter-spacing:.08em;padding:2px 8px;border-radius:var(--radius-pill);
+        font-weight:600;background:var(--bg);border:1px solid var(--line);color:var(--muted)}
+  .pill.a{color:var(--era-freejazz);border-color:var(--era-freejazz)}
+  .pill.c{color:var(--era-cool);border-color:var(--era-cool)}
+
+  /* ---------- timeline ---------- */
+  .tl{margin:22px 0 6px;border-left:2px solid var(--line);padding-left:0}
+  .ev{position:relative;padding:0 0 22px 26px}
+  .ev:before{content:"";position:absolute;left:-6px;top:7px;width:10px;height:10px;
+             border-radius:50%;background:var(--c,var(--bn-blue));
+             border:2px solid var(--bg)}
+  .ev .y{font-family:var(--font-display);font-weight:600;font-size:var(--fs-15);
+         font-variant-numeric:tabular-nums;color:var(--c,var(--bn-blue));line-height:1.1}
+  .ev p{margin:4px 0 0;font-size:var(--fs-13);line-height:1.55;max-width:66ch}
+  .ev .why{color:var(--muted);font-style:italic}
+
+  /* ---------- questions ---------- */
+  .q{border:1px solid var(--line);background:var(--surface);border-radius:var(--radius);
+     padding:18px 20px;margin:12px 0}
+  .q .n{font-size:var(--fs-11);letter-spacing:.14em;text-transform:uppercase;
+        color:var(--impulse-amber);font-weight:700;margin:0 0 6px}
+  .q p{margin:0 0 6px;font-size:var(--fs-15)}
+  .q .rec{font-size:var(--fs-13);color:var(--muted);margin:0}
+  .q .rec b{color:var(--ink)}
+
+  /* ---------- files ---------- */
+  .files{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));
+         gap:10px;margin:20px 0 6px}
+  .f{display:block;text-decoration:none;background:var(--surface);
+     border:1px solid var(--line);border-radius:var(--radius);padding:13px 15px}
+  .f:hover{border-color:var(--bn-blue)}
+  .f b{display:block;font-size:var(--fs-13);color:var(--bn-blue);font-weight:600;
+       font-family:var(--font-display);font-variant:small-caps;letter-spacing:.02em}
+  .f span{font-size:var(--fs-12);color:var(--muted)}
+
+  footer{padding:40px 0 0;color:var(--muted);font-size:var(--fs-12);line-height:1.6}
+  .warn{border:1px solid var(--impulse-amber);background:#fdf8ef;border-radius:var(--radius);
+        padding:16px 18px;margin:20px 0;font-size:var(--fs-13)}
+  .warn b{color:var(--ink)}
+  @media (max-width:620px){
+    .pole{grid-template-columns:1fr;gap:8px}
+    .arrow{transform:rotate(90deg);text-align:left;padding-left:4px}
+    h1{font-size:var(--fs-28)}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hd">
+    <p class="kicker">Research reference &middot; not the page itself</p>
+    <h1>Inside / Outside</h1>
+    <p class="sub">Orientation for writing the jazzcanon.com genres page</p>
+    <p class="byline">
+      Prepared by <b>space-bunny</b> on 2026-09-28, at John's request. John writes all prose;
+      this is the research and the argument underneath it. Canon figures are derived
+      mechanically from the live export
+      <code>jazz-canon/app/public/data/albums.json</code> (254 albums, 1945&ndash;1983).
+      Advisory input from <b>mccoy</b> is marked throughout.
+    </p>
+  </div>
+</header>
+
+<nav>
+  <div class="navin">
+    <a href="#verdict">Verdict</a>
+    <a href="#why">The name is real</a>
+    <a href="#axes">Three axes</a>
+    <a href="#canon">The canon</a>
+    <a href="#map">Genre map</a>
+    <a href="#hinges">Hinges</a>
+    <a href="#traps">Mislabel traps</a>
+    <a href="#timeline">Timeline</a>
+    <a href="#shape">Page shape</a>
+    <a href="#open">Open questions</a>
+    <a href="#files">The corpus</a>
+  </div>
+</nav>
+
+<div class="wrap">
+
+<section id="verdict">
+  <h2><span class="num">01</span>The verdict, in short</h2>
+  <div class="verdict">
+    <h3>The name works &mdash; but it will mislead on fusion, and it collapses if pushed too hard</h3>
+    <p>&ldquo;Inside/outside&rdquo; is not a metaphor John invented. It is a genuine term of art in
+    the music with a documented lineage, which makes the page title a piece of working
+    musician&rsquo;s vocabulary rather than a slogan. That is a real gift: a reader who later
+    meets the phrase in a liner note will already understand it.</p>
+    <p>Two problems, both fixable, and the fixing is most of the value here. First, the word is
+    <em class="i">relatively defined</em> &mdash; what counts as outside is decided by whoever is
+    inside at the time, and Charlie Parker was once on the wrong side of it. Second, and more
+    seriously, <b>fusion is not outside at all</b>. It is electric and groove-driven but
+    harmonically it stays inside, and filing it in an &ldquo;outside&rdquo; bucket teaches the
+    wrong lesson.</p>
+    <p class="rec"><b>My recommendation:</b> keep Inside/Outside as the page&rsquo;s spine, define
+    it strictly as the <em class="i">harmonic and formal</em> fault line, and split fusion out
+    as its own section on its own axis &mdash; the electric turn.</p>
+  </div>
+</section>
+
+<section id="why">
+  <h2><span class="num">02</span>Why the name is not a metaphor</h2>
+  <p class="lede">Four documented anchors, each with a source I actually retrieved this session.</p>
+
+  <div class="tw">
+  <table>
+    <thead><tr><th>Anchor</th><th>Evidence</th><th>Source</th></tr></thead>
+    <tbody>
+      <tr><td class="al">&ldquo;Out music&rdquo; is a period term</td>
+          <td>Mark Gridley&rsquo;s <em class="i">Jazz Styles</em> uses it for the 1960s developments.</td>
+          <td>Duhaime, <em class="i">Eric Dolphy &amp; Outness</em> (2011), citing Gridley p. 307</td></tr>
+      <tr><td class="al">It had many rival names</td>
+          <td>&ldquo;The new thing,&rdquo; &ldquo;out music,&rdquo; &ldquo;anti-jazz&rdquo;
+              (John Tynan, <em class="i">DownBeat</em>, 4/12/1962), &ldquo;fire music,&rdquo;
+              and after Ornette Coleman&rsquo;s <em class="i">Free Jazz</em> (1960) the word
+              &ldquo;free&rdquo; became a catch-all for all of it.</td>
+          <td>Duhaime, as above</td></tr>
+      <tr><td class="al">Miles said it himself</td>
+          <td>Miles Davis called the new music &ldquo;the way-out thing.&rdquo;</td>
+          <td>Davis &amp; Troupe, <em class="i">Autobiography</em>, 2005 ed., p. 272, via Duhaime</td></tr>
+      <tr><td class="al">There is a textbook chapter</td>
+          <td>Mark Levine&rsquo;s <em class="i">The Jazz Theory Book</em> has a chapter titled
+              <em class="i">Playing &ldquo;Outside&rdquo;</em>, defining it as playing notes not in
+              the chord, stretching a chord into another, playing in a different key &mdash; or
+              playing free with no chord structure at all.</td>
+          <td>Levine p. 183, via Duhaime</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="note">The last item in that table is the gift and the trap in one. &ldquo;Free jazz&rdquo;
+  became a genre name because of an <em class="i">album title</em>. It is a branding accident.
+  The page is about to do something structurally similar with its own catch-all bucket &mdash;
+  which is an argument for saying so plainly, in public, rather than repeating the mistake.</div>
+
+  <h3>And here is the problem with the word</h3>
+  <blockquote style="border-left:2px solid var(--bn-blue);padding-left:18px;margin:18px 0;
+                  font-family:var(--font-serif);font-size:var(--fs-17);color:var(--ink)">
+    &ldquo;What&rsquo;s considered outside is subjective and changeable. What you hear as
+    &lsquo;outside&rsquo; someone else will hear as &lsquo;inside,&rsquo; and vice versa.
+    <b>Bird was considered &lsquo;out&rsquo; by many musicians in the 1940s</b>, as was
+    Coltrane in the 1960s.&rdquo;
+    <div style="font-size:var(--fs-12);font-style:normal;color:var(--muted);margin-top:8px;
+                font-family:var(--font-body)">
+      Mark Levine, <em class="i">The Jazz Theory Book</em>, p. 183, quoted in Duhaime</div>
+  </blockquote>
+
+  <p>Read that with the page in mind. <b>Charlie Parker was &ldquo;out&rdquo; in the 1940s.</b>
+  The inside tradition the page is about to describe &mdash; the one carrying the canon&rsquo;s
+  94% &mdash; was itself the radical, too-fast, unacceptable music that the establishment
+  complained about, two decades before free jazz existed.</p>
+
+  <p>That gives John a real choice, and both options are defensible:</p>
+  <ul style="margin:0 0 14px;padding-left:22px">
+    <li><b>Option A, my recommendation.</b> Make the moving boundary the page&rsquo;s argument.
+        The line has moved at least twice and every generation is embarrassed by its parents.
+        Nothing is permanently outside. This is true, sourced, quietly subversive, and it
+        inoculates the reader against thinking any of this is a settled taxonomy.</li>
+    <li><b>Option B.</b> State once, early, that the terms are relative, then use them anyway
+        for convenience. Lower risk, less reward.</li>
+  </ul>
+
+  <div class="warn">
+    <b>One thing the page must not imply:</b> that &ldquo;outside&rdquo; meant marginal or
+    obscure. It did not. Ornette Coleman&rsquo;s <em class="i">The Shape of Jazz to Come</em>
+    (1959) was famous on arrival, while plenty of inside records were forgotten. A reader who
+    takes &ldquo;outside&rdquo; to mean &ldquo;failed&rdquo; leaves with a false picture of the
+    music business. <span style="color:var(--muted)">&mdash; mccoy</span>
+  </div>
+</section>
+
+<section id="axes">
+  <h2><span class="num">03</span>Three axes, not one &mdash; and this is the important correction</h2>
+  <p class="lede">The instinct to group free jazz, fusion and avant-garde into one outside
+  bucket is tempting, because all three are the things that sound different. But they are
+  different along <b>different</b> axes, and fusing them teaches a false lesson.</p>
+
+  <p><b>Fusion is overwhelmingly harmonic <em class="i">insider</em>.</b> Modal vamps, riffs,
+  ostinatos, backbeats. <em class="i">Bitches Brew</em> sounds radical because of its texture,
+  timbres, studio construction and volume &mdash; not because the players abandon the chord
+  changes. That is mccoy&rsquo;s argument, and it is musically correct.</p>
+
+  <div class="axes">
+    <div class="axis">
+      <h4>Axis 1 &mdash; harmonic &amp; formal</h4>
+      <p class="q">Do you improvise over a song&rsquo;s chord changes?</p>
+      <div class="pole">
+        <div class="side i"><b>Inside</b>Bebop, cool, hard bop, post bop, modal, soul jazz</div>
+        <div class="arrow">&rarr;</div>
+        <div class="side o"><b>Outside</b>Free jazz, much of the avant-garde</div>
+        <div class="star"><b>This is the axis the title names</b> &mdash; and the only one where
+        the name is true. mccoy and space-bunny arrived here independently.</div>
+      </div>
+    </div>
+    <div class="axis">
+      <h4>Axis 2 &mdash; acoustic &amp; electric</h4>
+      <p class="q">Amplified, or not?</p>
+      <div class="pole">
+        <div class="side i"><b>Acoustic</b>The whole inside tradition, unplugged</div>
+        <div class="arrow">&rarr;</div>
+        <div class="side o"><b>Electric</b>Fusion, jazz-rock, jazz-funk, the &rsquo;70s sound</div>
+        <div class="star"><b>This is fusion&rsquo;s actual axis</b> &mdash; a completely
+        different argument, running alongside the first.</div>
+      </div>
+    </div>
+    <div class="axis">
+      <h4>Axis 3 &mdash; composed &amp; improvised</h4>
+      <p class="q">Is the form written down before the players arrive?</p>
+      <div class="pole">
+        <div class="side i"><b>Heads &amp; changes</b>The improvising mainstream, both inside and outside</div>
+        <div class="arrow">&rarr;</div>
+        <div class="side o"><b>Composed</b>The AACM and European wings; Coltrane&rsquo;s late work</div>
+        <div class="star"><b>Cuts clean across both</b> &mdash; which is why &ldquo;free jazz&rdquo;
+        and &ldquo;avant-garde jazz&rdquo; are not synonyms.</div>
+      </div>
+    </div>
+  </div>
+
+  <p>Keep Inside/Outside as the spine, but let it mean <b>Axis 1 only</b> &mdash; which is the
+  meaning the word actually has in the music. Let fusion stand as its own section on Axis 2.
+  mccoy&rsquo;s exact counsel: <em class="i">&ldquo;If John wants a seventh section, my counsel
+  is &lsquo;The Outside&rsquo; (free/avant, one section) and let fusion stand separately as
+  &lsquo;The Electric Turn&rsquo; &mdash; different axis, different story.&rdquo;</em></p>
+
+  <p>The payoff is that this is <b>more</b> interesting, not less. A reader told that the
+  electric turn and the avant-garde were two different revolutions happening at the same time
+  learns something true. A reader told there is one outside thing learns a category that never
+  existed.</p>
+
+  <div class="note">The canon&rsquo;s own database has already made this distinction. It does not
+  have a single outside style &mdash; it splits the territory into <code>Free Jazz</code>,
+  <code>Fusion</code>, <code>Jazz-Rock</code>, <code>Jazz-Funk</code>,
+  <code>Avant-Garde Jazz</code> and <code>European Jazz</code>, and treats ECM as a tag rather
+  than a style at all. The taxonomy would erase a distinction the data has already drawn.</div>
+</section>
+
+<section id="canon">
+  <h2><span class="num">04</span>One lens, not a frame</h2>
+  <p class="lede">An earlier draft of this document argued that the Inside/Outside title was
+  justified by the canon's own proportions. That argument has been withdrawn — and the
+  reason is worth stating, because it is a better argument than the one it replaced.</p>
+
+  <div class="ratio">
+    <div class="r-in">238 albums &mdash; 94%</div>
+    <div class="r-out">6%</div>
+  </div>
+  <div class="rlab">
+    <span><b>Inside</b> &mdash; bebop, cool, hard bop, post bop, modal, soul jazz</span>
+    <span><b>Outside</b> &mdash; 16 albums total</span>
+  </div>
+
+  <div class="warn">
+    <b>Do not build the page on this ratio.</b> It is a snapshot of 254 albums on 2026-09-28,
+    and it is about to stop being true. The canon is young and moving fast &mdash; the project
+    was only opened to bebop in the week before this was written. In a year the 94:6 split
+    could be 80:20, and any argument resting on it expires with it.
+    <br><br>
+    <b>More importantly, it is the wrong kind of evidence.</b> A page explaining jazz
+    genres to people who have never heard of them cannot be justified by what one collector
+    happens to own. That question &mdash; <i>what should I tell these people to listen to?</i>
+    &mdash; is answered by listening, not by inventory. Filtering the recommendations through
+    the canon would quietly narrow a universal question down to a private one.
+  </div>
+
+  <p>So the title's warrant is the one that survives: <b>inside/outside is documented
+  musician's vocabulary</b>, with a textbook chapter, a period label and Miles Davis's own
+  phrase behind it. That does not expire. The canon ratio remains useful in one narrow way
+  &mdash; as evidence that the site's own filing categories are porous, which the records in
+  &sect;06 demonstrate directly &mdash; and that is how it is used now.</p>
+
+  <h3>What the export still tells us, used carefully</h3>
+  <ul style="margin:0 0 14px;padding-left:22px">
+    <li><b>The site has no styles outside the seven-genre frame.</b> Twelve primary styles, all
+        mapping onto John&rsquo;s seven, three of them being splits of the catch-all. The
+        frame is comprehensive, not narrow.</li>
+    <li><b>Arrival order is not musical order.</b> Cool jazz entered in 1950, before hard bop
+        (1952) and modal (1958); avant-garde jazz arrived in 1972, after free jazz (1960) and
+        after jazz-rock (1969). A fact about the collection, not the history &mdash; useful
+        only as a caution against reading the collection as a narrative.</li>
+    <li><b>The modal/hard-bop boundary is porous by the site&rsquo;s own tagging.</b> Most
+        canon records carry two or three styles, and <code>ecm</code> is used as a tag but
+        never a primary style &mdash; the export already treats a label as a lane rather than a
+        genre, which is the correct call and supports &sect;03.</li>
+  </ul>
+
+  <p>The four ECM albums filed by genre rather than lane, and the mis-tagged solo memorial, are
+  catalogued in <a href="long-form/canon/canon-inventory.md">the canon inventory</a>. That is a
+  data-hygiene item for mccoy, not a question for the page.</p>
+</section>
+
+<section id="map">
+  <h2><span class="num">05</span>The genre map</h2>
+  <p class="lede">Eight sections instead of seven. Everything in the original brief is still
+  present; nothing has been dropped &mdash; one has been moved to the axis it actually belongs to.</p>
+
+  <div class="gwrap">
+    <div class="g" style="--c:var(--era-bebop)">
+      <h4>Bebop</h4><p class="yrs">1945&ndash;48 &middot; 5 albums</p>
+      <p>Fast, harmonically dense, and at the time a refusal to be background music. The
+      thinnest edge of the collection and its only genuine gateway rather than a survey.</p>
+      <p class="gw"><b>Enter:</b> Charlie Parker, <em class="i">The Charlie Parker Story</em>, 1945</p>
+    </div>
+    <div class="g" style="--c:var(--era-cool)">
+      <h4>Cool Jazz</h4><p class="yrs">1949&ndash;56 &middot; 34 albums</p>
+      <p>Long unhurried lines and room to breathe. The gentlest door in the canon &mdash; and the
+      one the collection itself opened with, in 1950.</p>
+      <p class="gw"><b>Enter:</b> Miles Davis, <em class="i">Birth of the Cool</em>, 1950</p>
+    </div>
+    <div class="g" style="--c:var(--era-hardbop)">
+      <h4>Hard Bop</h4><p class="yrs">1955&ndash;65 &middot; 98 albums</p>
+      <p>The spine of the canon. Blues-based, blues-inflected, and it swings hardest. The most
+      direct, most physical music on the page.</p>
+      <p class="gw"><b>Enter:</b> Art Blakey, <em class="i">Moanin&rsquo;</em>, 1958 &mdash;
+      &ldquo;if he converts no one, nothing will&rdquo; <span style="color:var(--muted)">&mdash; mccoy</span></p>
+    </div>
+    <div class="g" style="--c:var(--era-postbop)">
+      <h4>Post-Bop</h4><p class="yrs">1964&ndash;70 &middot; 61 albums</p>
+      <p>Where the music stops being a vehicle for solos and starts being composition. The
+      term itself is genuinely contested &mdash; see the disputes below.</p>
+      <p class="gw"><b>Enter:</b> Wayne Shorter, <em class="i">Speak No Evil</em>, 1964</p>
+    </div>
+    <div class="g" style="--c:var(--era-modal)">
+      <h4>Modal</h4><p class="yrs">1959&ndash; &middot; 30 albums</p>
+      <p>Harmony stops moving so the melody can. The most approachable important record in
+      jazz, and the most misfiled &mdash; <em class="i">Kind of Blue</em> is neither bebop nor cool.</p>
+      <p class="gw"><b>Enter:</b> Miles Davis, <em class="i">Kind of Blue</em>, 1959</p>
+    </div>
+    <div class="g" style="--c:var(--era-cool)">
+      <h4>Soul Jazz</h4><p class="yrs">1958&ndash;70 &middot; 10 albums</p>
+      <p>Groove leads; organ and electric piano; gospel and R&amp;B underneath. Not lesser hard
+      bop &mdash; a different job. mccoy notes John defends it against exactly that sneer.</p>
+      <p class="gw"><b>Enter:</b> Lee Morgan, <em class="i">The Sidewinder</em>, 1963</p>
+    </div>
+
+    <div class="g side" style="--c:var(--era-freejazz)">
+      <h4>The Outside &mdash; free jazz &amp; the avant-garde</h4>
+      <p class="yrs">1960&ndash; &middot; 9 albums</p>
+      <p><b>One axis, two arguments.</b> Free jazz abandons the chord changes. The avant-garde
+      wing &mdash; the AACM and European composed lineages &mdash; is broader and often
+      quasi-composed, and the two are constantly merged in popular writing. Gridley&rsquo;s
+      warning is the right one: the loose categories &ldquo;led some outsiders to assume &hellip;
+      that the different musicians of this period had more in common than they actually
+      did.&rdquo; Say plainly that they are not the same thing.</p>
+      <p class="gw"><b>Enter:</b> Ornette Coleman, <em class="i">The Shape of Jazz to Come</em>,
+      1959 &mdash; inside melodic heads, outside solos. The melodic door.
+      <b>Spiritual door:</b> Alice Coltrane, <em class="i">Journey in Satchidananda</em>, 1970.</p>
+    </div>
+
+    <div class="g side" style="--c:var(--era-fusion)">
+      <h4>The Electric Turn &mdash; fusion</h4>
+      <p class="yrs">1968&ndash;85 &middot; 6 albums, filed three ways</p>
+      <p><b>A different axis, and the section should open by saying so.</b> Electric, groove-led,
+      aimed at a rock-sized audience &mdash; but harmonically still inside, on vamps and riffs.
+      There was a real argument within the avant-garde camp that this was capitulation; the
+      counter-argument is that it reached an audience the clubs never could. Let the page state
+      the argument rather than settle it.</p>
+      <p class="gw"><b>Enter:</b> <em class="i">Bitches Brew</em>, 1970 as the landmark;
+      <em class="i">Head Hunters</em>, 1973 for the groove-first listener.</p>
+    </div>
+  </div>
+
+  <div class="note"><b>One oddity the data supplies for free:</b> the canon files
+  <em class="i">The Shape of Jazz to Come</em> as <b>post-bop</b>, not free jazz, while filing
+  <em class="i">Ascension</em> as free jazz. Both defensible; together they are a neat
+  demonstration that the labels do not settle the question. The page&rsquo;s own site is the
+  best available proof of its thesis.</div>
+</section>
+
+<section id="hinges">
+  <h2><span class="num">06</span>The hinge records</h2>
+  <p class="lede">The highest-value thing in this corpus. A hinge record is one a reader can
+  hold in each hand &mdash; it turns an abstraction into a listening experience.</p>
+  <p>All eight were nominated by mccoy. <b>They were selected from the canon, and that
+  selection method is now suspect</b> &mdash; see &sect;04. They belong here because of what
+  each record <i>does</i>, not because it is owned. The explainer path carries an open task to
+  re-derive the entry points from listening rather than inventory.</p>
+
+  <div class="tw">
+  <table>
+    <thead><tr><th>Record</th><th>Year</th><th>Filed as</th><th>What it demonstrates</th></tr></thead>
+    <tbody>
+      <tr><td class="al">Coltrane &mdash; <em class="i">A Love Supreme</em><br>&rarr; <em class="i">Ascension</em></td>
+          <td class="yr">1964<br>1965</td>
+          <td><span class="pill">Modal</span> <span class="pill">Free Jazz</span></td>
+          <td>Same leader, <b>six months apart</b>, from the most beloved inside-modal record in
+              the canon to a full outside statement. mccoy: &ldquo;the single best &lsquo;the
+              line is a door, not a wall&rsquo; exhibit.&rdquo; <b>Build the page&rsquo;s
+              central hinge out of this pair.</b></td></tr>
+      <tr><td class="al">Dolphy &mdash; <em class="i">Out to Lunch!</em></td>
+          <td class="yr">1964</td><td><span class="pill">Post-Bop</span></td>
+          <td>Sounds free, is tightly composed. Proves free-sounding is not free. The hinge in
+              one man.</td></tr>
+      <tr><td class="al">McLean &mdash; <em class="i">Destination Out</em></td>
+          <td class="yr">1963</td><td><span class="pill c">Hard Bop</span></td>
+          <td>A hard bopper stepping out &mdash; and the title is the concept.</td></tr>
+      <tr><td class="al">Hill &mdash; <em class="i">Point of Departure</em></td>
+          <td class="yr">1964</td><td><span class="pill c">Post-Bop</span></td>
+          <td>Dolphy inside Hill&rsquo;s structures. Again the title tells the story.</td></tr>
+      <tr><td class="al">Rollins &mdash; <em class="i">East Broadway Run Down</em></td>
+          <td class="yr">1966</td><td><span class="pill c">Post-Bop</span></td>
+          <td>The most inside tenor giant of his generation, playing with Cherry, Haden and
+              Blackwell.</td></tr>
+      <tr><td class="al">Coleman &mdash; <em class="i">The Shape of Jazz to Come</em></td>
+          <td class="yr">1959</td><td><span class="pill c">Post-Bop</span></td>
+          <td>Inside melodic heads, outside solos. The door opening &mdash; and the best first
+              free-jazz record precisely because it is so tuneful.</td></tr>
+      <tr><td class="al">Mingus &mdash; <em class="i">Pithecanthropus Erectus</em></td>
+          <td class="yr">1956</td><td><span class="pill c">Post-Bop</span></td>
+          <td>Inside tradition with avant-garde gestures, years before the labels existed.</td></tr>
+      <tr><td class="al">Davis &mdash; <em class="i">Bitches Brew</em></td>
+          <td class="yr">1970</td><td><span class="pill">Fusion</span></td>
+          <td>Outside texture over inside vamps. The fusion hinge precisely <b>because it
+              fools people.</b></td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="note">A ninth, from my own analysis of the export rather than mccoy&rsquo;s list:
+  <b>Old and New Dreams, <em class="i">Playing</em> (1980, ECM)</b> is filed
+  <code>Free Jazz</code>, but the group is Gil Evans, Alan Skidmore, Jimmy Heath and
+  Jack DeJohnette &mdash; a Miles Davis sidemen band, hard bop to its bones. Inside by personnel,
+  outside by label. It is the cleanest available demonstration that the site&rsquo;s own filing
+  categories are a convenience rather than a fact.</div>
+</section>
+
+<section id="traps">
+  <h2><span class="num">07</span>Mislabel traps</h2>
+  <p class="lede">Things a public explainer will otherwise get wrong, gathered from mccoy&rsquo;s
+  advisory. Each is a live risk for a page aimed at readers with no vocabulary.</p>
+  <div class="tw">
+  <table>
+    <thead><tr><th>The trap</th><th>The truth</th></tr></thead>
+    <tbody>
+      <tr><td class="al"><em class="i">Kind of Blue</em> is bebop / cool</td>
+          <td>It is the modal break from both.</td></tr>
+      <tr><td class="al"><em class="i">A Love Supreme</em> is free jazz</td>
+          <td>A composed, harmonically grounded suite. <em class="i">Ascension</em> is the free one.</td></tr>
+      <tr><td class="al"><em class="i">Bitches Brew</em> is free jazz</td>
+          <td>Studio-built fusion over grooves &mdash; and, per section 03, not properly
+              &ldquo;outside&rdquo; on any axis but the electric one.</td></tr>
+      <tr><td class="al"><em class="i">Birth of the Cool</em> is bebop</td>
+          <td>It is the reaction <b>away</b> from bebop.</td></tr>
+      <tr><td class="al"><em class="i">Out to Lunch</em> is free jazz</td>
+          <td>Composed post-bop with outside solos.</td></tr>
+      <tr><td class="al">Getz / <em class="i">Gilberto</em> is cool jazz</td>
+          <td>Bossa nova &mdash; adjacent to cool, but not cool jazz proper.</td></tr>
+      <tr><td class="al">&ldquo;Avant-garde&rdquo; = free jazz</td>
+          <td>Not a synonym. In the house taxonomy, avant-garde is the AACM compositional wing;
+              free jazz is the Coleman/Trane/Ayler line. A real historical error in popular
+              writing.</td></tr>
+      <tr><td class="al">There is an &ldquo;ECM sound&rdquo; genre</td>
+          <td>ECM is a label, and the &ldquo;sound&rdquo; is largely a marketing category.
+              mccoy: &ldquo;say so gently.&rdquo; Accurate, without picking a fight.</td></tr>
+      <tr><td class="al">Mid-&rsquo;60s Blue Note is all hard bop</td>
+          <td><em class="i">Speak No Evil</em> is post-bop, not hard bop.</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section id="timeline">
+  <h2><span class="num">08</span>Five dates that carry the most weight</h2>
+  <p class="lede">If the page needs only a handful of dates, these are the ones doing real
+  argumentative work. The full 1945&ndash;1985 timeline, with confidence marks on every anchor
+  and a canon-density histogram, is in the corpus.</p>
+
+  <div class="tl">
+    <div class="ev" style="--c:var(--era-bebop)">
+      <div class="y">1945</div>
+      <p>The canon begins, in bebop. <span class="why">Five albums, 1945&ndash;48 &mdash; its
+      thinnest and earliest edge.</span></p>
+    </div>
+    <div class="ev" style="--c:var(--era-cool)">
+      <div class="y">1950</div>
+      <p><em class="i">Birth of the Cool</em> and <em class="i">Subconscious-Lee</em> are the
+      collection&rsquo;s first two albums.
+      <span class="why">Its centre of gravity is already a reaction to something &mdash; the
+      canon opens in the answer to bebop, not in bebop itself.</span></p>
+    </div>
+    <div class="ev" style="--c:var(--era-modal)">
+      <div class="y">1959</div>
+      <p><em class="i">Kind of Blue</em> and <em class="i">The Shape of Jazz to Come</em> in the
+      same year.
+      <span class="why">Modal composition and the door to free jazz open together and diverge
+      immediately. Nothing else in the timeline shows the split this sharply. This is the hinge
+      year.</span></p>
+    </div>
+    <div class="ev" style="--c:var(--era-freejazz)">
+      <div class="y">1964 &rarr; 1965</div>
+      <p><em class="i">A Love Supreme</em> to <em class="i">Ascension</em>. Six months, same
+      musician.
+      <span class="why">The single clearest demonstration that the line is a door and not a
+      wall.</span></p>
+    </div>
+    <div class="ev" style="--c:var(--era-fusion)">
+      <div class="y">1970</div>
+      <p><em class="i">Bitches Brew</em>. Electric without abandoning the changes.
+      <span class="why">The event most often filed under the wrong axis &mdash; and the reason
+      the page needs two axes rather than one.</span></p>
+    </div>
+  </div>
+</section>
+
+<section id="shape">
+  <h2><span class="num">09</span>A shape for the page</h2>
+  <p class="lede">Structure only &mdash; design is John&rsquo;s and comes later. Ordered so that
+  it respects the one fact most likely to grate: these styles were all happening at once.</p>
+
+  <div class="tw">
+  <table>
+    <thead><tr><th>Part</th><th>Contains</th><th>Job it does</th></tr></thead>
+    <tbody>
+      <tr><td class="al">Opening</td><td>Two questions: what are these words, and who invented
+          them? Why does it matter which one a record is?</td>
+          <td>Teaches the vocabulary before using it.</td></tr>
+      <tr><td class="al">1 &middot; Inside</td><td>Bebop &rarr; Cool &rarr; Hard Bop &rarr;
+          Post-Bop &rarr; Modal &rarr; Soul Jazz</td>
+          <td>The harmonic centre, in the order it was made. Say explicitly that the boundaries
+          were drawn afterwards by critics.</td></tr>
+      <tr><td class="al">2 &middot; The Outside</td><td>Free jazz &amp; the avant-garde</td>
+          <td>One axis, two arguments, with the Gridley caveat up front.</td></tr>
+      <tr><td class="al">3 &middot; The Electric Turn</td><td>Fusion, jazz-rock, jazz-funk</td>
+          <td>Opens by saying: <em>this is a different argument, not a louder version of the
+          same one.</em></td></tr>
+      <tr><td class="al">4 &middot; The Seams</td><td>Hinge records, mislabel traps, the
+          moving boundary</td>
+          <td>Where the boxes visibly fail. The most interesting part of the page.</td></tr>
+      <tr><td class="al">5 &middot; Start Here</td><td>One gateway per genre</td>
+          <td>Turns an orientation into an evening&rsquo;s listening.</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="note"><b>A framing constraint that matters more than it sounds.</b> mccoy&rsquo;s
+  read is that John values co-existence over succession &mdash; eras overlap, and the site&rsquo;s
+  own Working page exists to show coming, going and overlap. <b>A page that reads as a tidy
+  march of styles would grate.</b> Sequence the inside line chronologically, yes, but state
+  early and plainly that these are simultaneous conversations and that the boxes were named
+  afterwards.</div>
+</section>
+
+<section id="open">
+  <h2><span class="num">10</span>Three questions for John</h2>
+  <p class="lede">I have taken a position on each, so these are confirmations rather than
+  blockers &mdash; but all three change the page&rsquo;s shape, so they are worth a decision.</p>
+
+  <div class="q">
+    <p class="n">Question 1</p>
+    <p>Make the &ldquo;outside is a relative term&rdquo; argument the spine of the page, or state
+    it once and move on?</p>
+    <p class="rec"><b>Recommendation:</b> make it the spine. It is the most interesting thing
+    available, it is sourced (Parker was &ldquo;out&rdquo; in the 1940s), and it inoculates the
+    reader against thinking any of this is settled.</p>
+  </div>
+  <div class="q">
+    <p class="n">Question 2</p>
+    <p>Split fusion out as &ldquo;the electric turn,&rdquo; on its own axis?</p>
+    <p class="rec"><b>Recommendation:</b> yes. Every other input agrees, and it is the single
+    change that most improves the page &mdash; it stops the page teaching that electric music
+    and free music are the same argument.</p>
+  </div>
+  <div class="q">
+    <p class="n">Question 3</p>
+    <p>Does the outside section get one entry (free + avant-garde) or two?</p>
+    <p class="rec"><b>Recommendation:</b> one section, two clearly separated subsections, with an
+    explicit note that they are not the same thing. mccoy argues for one; Gridley&rsquo;s loose-
+    categories warning supports keeping them visibly distinct even inside one section.</p>
+  </div>
+</section>
+
+<section id="files">
+  <h2><span class="num">11</span>The corpus</h2>
+  <p class="lede">Everything lives in
+  <code>~/dev/active/mccoy-tyner/research/genre-research/</code>. Markdown throughout; this
+  file is the orientation layer over the top.</p>
+  <div class="files">
+    <a class="f" href="long-form/thesis/thesis-and-page-architecture.md">
+      <b>Thesis &amp; page architecture</b><span>The verdict in full, with the sourced argument
+      and the fusion correction &mdash; read this one first</span></a>
+    <a class="f" href="long-form/thesis/inside-outside-terminology.md">
+      <b>Inside/outside terminology</b><span>The primary-source case that the phrase is real
+      musician&rsquo;s vocabulary</span></a>
+    <a class="f" href="long-form/thesis/three-outside-branches-compared.md">
+      <b>Three outside branches compared</b><span>Free jazz vs fusion vs avant-garde, and why
+      the single bucket fails</span></a>
+    <a class="f" href="long-form/genres/bebop.md"><b>Bebop</b><span>Definition, history, mechanics,
+      key figures, landmarks, disputes, sources</span></a>
+    <a class="f" href="long-form/genres/cool-jazz.md"><b>Cool jazz</b><span>The gentlest door, and
+      why it lost the public&rsquo;s ear</span></a>
+    <a class="f" href="long-form/genres/hard-bop.md"><b>Hard bop</b><span>The canon&rsquo;s spine</span></a>
+    <a class="f" href="long-form/genres/post-bop.md"><b>Post-bop</b><span>Including the live scholarly
+      dispute over the term itself</span></a>
+    <a class="f" href="long-form/genres/modal-jazz.md"><b>Modal jazz</b><span>Technique vs genre
+      identity; modalism before 1959</span></a>
+    <a class="f" href="long-form/genres/soul-jazz.md"><b>Soul jazz</b><span>A sound, or a marketing
+      category? Both, and the difference matters</span></a>
+    <a class="f" href="long-form/genres/free-jazz.md"><b>Free jazz</b><span>What it is, and an honest
+      account of why it is hard</span></a>
+    <a class="f" href="long-form/genres/fusion.md"><b>Fusion</b><span>The electric turn, and the
+      capitulation argument</span></a>
+    <a class="f" href="long-form/genres/avant-garde-jazz.md"><b>Avant-garde jazz</b><span>And why it
+      is not a synonym for free jazz</span></a>
+    <a class="f" href="long-form/genres/outside-glossary.md"><b>The outsider&rsquo;s glossary</b>
+      <span>Third stream, the New Thing, wides, no-time playing, the Gate, and the rest</span></a>
+    <a class="f" href="long-form/timeline/master-timeline.md"><b>Master timeline</b><span>1945&ndash;1985
+      with canon density by year and confidence marks on every anchor</span></a>
+    <a class="f" href="long-form/timeline/seams-bebop-to-hardbop.md"><b>Seams: bebop to hard bop</b>
+      <span>Where the styles actually divide, and the evidence</span></a>
+    <a class="f" href="long-form/timeline/seams-1955-to-modal.md"><b>Seams: 1955 to modal</b>
+      <span>The 1964&ndash;65 turn, and why ECM is a lane not a genre</span></a>
+    <a class="f" href="explainer/research/listener-paths.md"><b>Listener&rsquo;s guide</b>
+      <span>How to enter each genre, and what will put a newcomer off</span></a>
+    <a class="f" href="long-form/canon/canon-inventory.md"><b>Canon inventory</b><span>All 254 albums
+      by style, the 94:6 ratio, and the four mis-tagged ECM records</span></a>
+    <a class="f" href="long-form/sources/sources.md"><b>Sources</b><span>Everything retrieved, with
+      confidence marks &mdash; and a log of what I got wrong</span></a>
+  </div>
+
+  <div class="note"><b>How to read this corpus.</b> The genre files are research: dense,
+      cited, and written to be argued from rather than published. Each carries its own
+      <em class="i">Contested and uncertain</em> section, and each says which claims are
+      retrieved rather than recalled. Where the corpus disagrees with itself, the
+      <em class="i">Contested</em> section is telling the truth and the prose is provisional.</div>
+</section>
+
+<footer>
+  <p><b>Scope note.</b> This is research and argument prepared at John&rsquo;s request. It is
+  not page copy, and nothing here should be published as-is without checking the flagged
+  uncertainties. No page design work was done and no canon data was modified.</p>
+  <p><b>Provenance.</b> Canon figures derived mechanically from
+  <code>jazz-canon/app/public/data/albums.json</code> on 2026-09-28 (254 albums, 1945&ndash;1983).
+  mccoy&rsquo;s advisory preserved verbatim at
+  <code>raw/consultation-mccoy-2026-09-28.txt</code>. Terminology research anchored on Justin
+  Duhaime, &ldquo;Eric Dolphy &amp; Outness&rdquo; (2011), citing Gridley and Levine. The visual
+  system follows the site&rsquo;s locked identity in <code>jazz-canon/style-guide.md</code>.</p>
+</footer>
+
+</div>
+
+<script>
+  // nav highlight
+  const links=[...document.querySelectorAll('nav a')];
+  const secs=links.map(a=>document.querySelector(a.getAttribute('href'))).filter(Boolean);
+  const io=new IntersectionObserver(es=>{
+    es.forEach(e=>{
+      if(e.isIntersecting){
+        links.forEach(l=>l.classList.toggle('on', l.getAttribute('href')==='#'+e.target.id));
+      }
+    });
+  },{rootMargin:'-20% 0px -70% 0px'});
+  secs.forEach(s=>io.observe(s));
+</script>
+</body>
+</html>

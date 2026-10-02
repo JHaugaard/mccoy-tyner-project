@@ -1,0 +1,390 @@
+{
+  "id": "miles-davis-walkin-1954",
+  "artist": "Miles Davis",
+  "album": "Walkin'",
+  "year": 1954,
+  "label": "Prestige",
+  "catalog_number": "PRLP 7076",
+  "style_primary": "hard-bop",
+  "rationale": "'Walkin'' is the record that announced hard bop — Davis' own site calls it 'one of the earliest essential albums in the Miles Davis canon' and says the April 1954 sextet jams 'announced both the return of modern jazz musicians to a focus on the blues and the coming of the funky hard-bop era'. The title track became Davis' live anthem and, per Wikipedia, 'was key to the emerging hard bop approach developed in the mid-1950s'. Consensus signals: the Wikipedia review box records AllMusic 4.5 stars and The Penguin Guide to Jazz Recordings 4 stars; the album is a standing OJC reissue item (Fantasy/OJC 1980s on, Concord 2025 Original Jazz Classics vinyl). Session gravity is high — the rhythm section is Horace Silver, Percy Heath and Kenny Clarke (the core of the emerging hard bop language), with J.J. Johnson and Lucky Thompson on the sextet date and Dave Schildkraut on the quintet date; these are among the first Prestige sessions recorded by Rudy Van Gelder (Hackensack), the studio that would define the era's sound. It also documents the young Horace Silver and the last pre-New-Quintet studio Miles. Two of its pieces ('Walkin'', 'Solar') entered the standard repertoire.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Walkin' (Miles Davis album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Walkin%27"
+    },
+    "S2": {
+      "title": "AllMusic — Walkin' (review + credits tab: Bob Weinstock producer, Rudy Van Gelder engineer)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/walkin-mw0000232471"
+    },
+    "S3": {
+      "title": "jazzdisco.org — Van Gelder Studio catalog, 1954 (session-level dates and personnel)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/van-gelder-studio/catalog-1954/"
+    },
+    "S4": {
+      "title": "milesdavis.com — Walkin' album page (official artist site)",
+      "type": "web",
+      "url": "https://www.milesdavis.com/albums/walkin/"
+    },
+    "S5": {
+      "title": "MusicBrainz release group — Walkin' (Miles Davis All Stars)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/01ec3c28-cba3-3c7d-b4af-0cfc7ad8ddc4"
+    },
+    "S6": {
+      "title": "iTunes Search API — Miles Davis Walkin'",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Walkin&entity=album"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group 01ec3c28",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/01ec3c28-cba3-3c7d-b4af-0cfc7ad8ddc4"
+    },
+    "S8": {
+      "title": "jazzdisco.org — Prestige Records catalog, 7600 series (PRST 7608 Walkin')",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/prestige-records/catalog-7600-series/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1954-04-03",
+      "1954-04-29"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1954-04-03",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1954-04-29",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Weinstock",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-04-03",
+          "1954-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-04-03",
+          "1954-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Percy Heath",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-04-03",
+          "1954-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Kenny Clarke",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-04-03",
+          "1954-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "J.J. Johnson",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Walkin' (Gravy)",
+          "Blue 'n' Boogie"
+        ],
+        "session_dates": [
+          "1954-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Jay Jay Johnson",
+          "J. J. Johnson"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Lucky Thompson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Walkin' (Gravy)",
+          "Blue 'n' Boogie"
+        ],
+        "session_dates": [
+          "1954-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "David Schildkraut",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Solar (Sonny)",
+          "You Don't Know What Love Is",
+          "Love Me or Leave Me"
+        ],
+        "session_dates": [
+          "1954-04-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Dave Schildkraut",
+          "Davey Schildkraut"
+        ],
+        "notes": "The only musician not credited on the original LP cover."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Walkin' (Gravy)",
+        "track_number": 1,
+        "side": "A",
+        "duration": "13:26",
+        "session_date": "1954-04-29",
+        "composers": [
+          "Jimmy Mundy",
+          "Richard Carpenter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "J.J. Johnson",
+          "Lucky Thompson",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blue 'n' Boogie",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:16",
+        "session_date": "1954-04-29",
+        "composers": [
+          "Dizzy Gillespie",
+          "Frank Paparelli"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "J.J. Johnson",
+          "Lucky Thompson",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Solar (Sonny)",
+        "track_number": 3,
+        "side": "B",
+        "duration": "4:44",
+        "session_date": "1954-04-03",
+        "composers": [
+          "Chuck Wayne",
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "David Schildkraut",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "You Don't Know What Love Is",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:23",
+        "session_date": "1954-04-03",
+        "composers": [
+          "Don Raye",
+          "Gene de Paul"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "David Schildkraut",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Love Me or Leave Me",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:54",
+        "session_date": "1954-04-03",
+        "composers": [
+          "Gus Kahn",
+          "Walter Donaldson"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "David Schildkraut",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "01ec3c28-cba3-3c7d-b4af-0cfc7ad8ddc4",
+    "apple_album_id": "1805051240",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/767e9a7e-7d19-4be6-8d77-9ff097d92d18/20455813445.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original Prestige PRLP 7076 front cover."
+      }
+    ],
+    "notes": "Two sessions: April 3, 1954 (quintet — Schildkraut; tracks 3-5) and April 29, 1954 (sextet — Johnson and Thompson; tracks 1-2). AllMusic gives the LP release date as June 1957 (Wikipedia: March 1957, PRLP 7076), and the twelve-inch album compiles material first issued on two Prestige ten-inch LPs in 1954: 'Miles Davis All-Star Sextet' (PRLP 182) and 'Miles Davis Quintet' (PRLP 185). The dossier dates the record 1954 — the year of recording and of the material's first issue — consistent with how the canon treats other 1950s Prestige/Blue Note material; the 12-inch 'Walkin'' compilation itself is 1957. Track 3 appeared on the 1957 LP in place of 'I'll Remember April', which was recorded at the same April 3 session and issued on 'Blue Haze' (PRLP 7054). Both sessions at Rudy Van Gelder's Hackensack, NJ home studio (pre-mid-1959 move to Englewood Cliffs). Apple Music holds the album as the 2025 Craft/Concord remaster ('Walkin' (Remastered 2025)', collectionId 1805051240)."
+  },
+  "ballot": {
+    "album": "Miles Davis — Walkin' (1954)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The album is a landmark early hard-bop statement: Miles Davis’s official album page describes the sessions as announcing a return to blues focus and the coming hard-bop era (S4). Its blues-centered title track became a Davis performance staple, while “Solar” entered the standard repertoire; the Horace Silver–Percy Heath–Kenny Clarke rhythm section and the J.J. Johnson–Lucky Thompson sextet give the sessions substantial lineage and personnel gravity (S1, S3). The dossier also records strong critical marks from AllMusic and the Penguin Guide, alongside enduring OJC reissue status.",
+    "case_against": "The 12-inch LP was assembled in 1957 from two 1954 sessions rather than conceived as a unified album, and the two sides differ in force: the title track and “Blue ’n’ Boogie” carry the hard-bop breakthrough more clearly than the comparatively conventional quintet material on Side B. Its critical evidence is solid but not top-tier, and a listener choosing among Davis’s mid-1950s Prestige records might prefer the more cohesive 1956 quintet sessions. The dossier dates the candidate to 1954 by recording and first-issue material, though the 12-inch album itself appeared in 1957.",
+    "disagreement": "The references agree on consensus_core and in-window status, but differ on urgency: one rates it strong, while the other argues must_have.",
+    "recommendation": "Treat Walkin' as a core hard-bop landmark and give it strong priority, while keeping its assembled-album structure and 1954-recording/1957-LP dating in view.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

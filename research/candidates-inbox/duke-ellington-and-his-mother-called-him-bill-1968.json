@@ -1,0 +1,807 @@
+{
+  "id": "duke-ellington-and-his-mother-called-him-bill-1968",
+  "artist": "Duke Ellington",
+  "album": "...And His Mother Called Him Bill",
+  "year": 1968,
+  "label": "RCA Victor",
+  "catalog_number": "LSP-3906",
+  "style_primary": "post-bop",
+  "rationale": "Ellington's elegy for Billy Strayhorn — a consensus-core late-Ellington record. It won the Grammy Award for Best Large Jazz Ensemble Album in 1969 (S1); AllMusic rates it 5 stars (\"among his most profoundly felt and very finest recorded moments\") and The Penguin Guide to Jazz Recordings 4 stars (both tabulated at S1); Ellington biographer John Edward Hasse writes that \"rarely did the entire band play with such heartfelt passion, and the album is widely considered one of Ellington's best\" (S1); JazzTimes singles out the closing solo piano \"Lotus Blossom\" as its most celebrated moment (S1). The program is all Strayhorn — including \"Blood Count\", his last composition — played by the Ellington orchestra of Johnny Hodges, Cootie Williams, Paul Gonsalves, Harry Carney, Clark Terry and the rest of the 1967 band (S1, S2). A defining statement, not merely a memorial.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — ...And His Mother Called Him Bill",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/...And_His_Mother_Called_Him_Bill"
+    },
+    "S2": {
+      "title": "Discogs — ...And His Mother Called Him Bill (2016 CD reissue; full credits, session dates, track coverage)",
+      "type": "web",
+      "url": "https://www.discogs.com/release/9844551-Duke-Ellington-And-His-Orchestra-And-His-Mother-Called-Him-Bill"
+    },
+    "S3": {
+      "title": "iTunes Search API — Duke Ellington, ...And His Mother Called Him Bill",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+And+His+Mother+Called+Him+Bill&entity=album"
+    },
+    "S4": {
+      "title": "Cover Art Archive — release group",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/90c99d9c-c15d-3a3c-bd51-a00452ebce25"
+    },
+    "S5": {
+      "title": "MusicBrainz — ...and His Mother Called Him Bill release group",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/90c99d9c-c15d-3a3c-bd51-a00452ebce25"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1967-08-28",
+      "1967-08-30",
+      "1967-09-01",
+      "1967-11-15"
+    ],
+    "multi_session": true,
+    "studio": "RCA Victor's Studio A, New York City; Coast Recorders, San Francisco, CA",
+    "recording_sites": [
+      {
+        "session_date": "1967-08-28",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1967-08-30",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1967-09-01",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1967-11-15",
+        "site_raw": "Coast Recorders, San Francisco",
+        "site_slug": null,
+        "site_new": {
+          "name": "Coast Recorders",
+          "city": "San Francisco, CA",
+          "kind": "studio",
+          "address": null,
+          "lat": 37.788,
+          "lon": -122.408,
+          "location_epistemic": "inf",
+          "location_source": "coords: city centroid (OSM Nominatim: San Francisco, CA), 3-decimal precision — no street address documented; venue named in Wikipedia's album infobox (S1), Discogs dates a Nov 15, 1967 San Francisco session without naming the studio (S2)"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Brad McCuen",
+    "engineer": "Ed Begley",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Solo piano on 'Lotus Blossom' (track 12)."
+      },
+      {
+        "name": "Cat Anderson",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "William \"Cat\" Anderson"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Mercer Ellington",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Jones",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Cootie Williams",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "flugelhorn",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G."
+        ],
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Discogs credits (S2) list Terry on tracks 2-4, 15, 16 of the CD; a different Discogs rendering of the same credits extends him to tracks 1-7, 9, 11, 13, 15, 16. Conflict preserved as unk; original-LP coverage recorded as tracks 2-4."
+      },
+      {
+        "name": "Lawrence Brown",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Buster Cooper",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Chuck Connors",
+        "instrument": "bass trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Chick Connors"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "John Sanders",
+        "instrument": "valve trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Raincheck",
+          "Rock Skippin' at the Blue Note",
+          "Lotus Blossom"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Johnny Hodges",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Russell Procope",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also plays clarinet (S1, S2)."
+      },
+      {
+        "name": "Jimmy Hamilton",
+        "instrument": "clarinet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also plays tenor saxophone (S1, S2)."
+      },
+      {
+        "name": "Paul Gonsalves",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Harry Carney",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "Charpoy",
+          "After All",
+          "The Intimacy of the Blues",
+          "Raincheck",
+          "Day Dream",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Discogs (S2) extends Carney through the CD's track 12, but Wikipedia (S1) describes the original LP's closing 'Lotus Blossom' as an Ellington piano solo; Carney is recorded here as absent from track 12."
+      },
+      {
+        "name": "Aaron Bell",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "After All",
+          "Raincheck",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jeff Castleman",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Charpoy",
+          "The Intimacy of the Blues",
+          "Day Dream"
+        ],
+        "session_dates": [
+          "1967-11-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Jeff Castelman"
+        ],
+        "notes": "November 15, 1967 San Francisco session."
+      },
+      {
+        "name": "Sam Woodyard",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Snibor",
+          "Boo-Dah",
+          "Blood Count",
+          "U.M.M.G.",
+          "After All",
+          "Raincheck",
+          "Rock Skippin' at the Blue Note",
+          "All Day Long"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Steve Little",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Charpoy",
+          "The Intimacy of the Blues",
+          "Day Dream"
+        ],
+        "session_dates": [
+          "1967-11-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "November 15, 1967 San Francisco session."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Snibor",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:13",
+        "session_date": "1967-09-01",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Boo-Dah",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:26",
+        "session_date": "1967-08-28",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Blood Count",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:16",
+        "session_date": "1967-08-28",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "U.M.M.G.",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:13",
+        "session_date": "1967-08-28",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Charpoy",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:06",
+        "session_date": "1967-11-15",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "After All",
+        "track_number": 6,
+        "side": "A",
+        "duration": "3:51",
+        "session_date": "1967-09-01",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "The Intimacy of the Blues",
+        "track_number": 7,
+        "side": "B",
+        "duration": "2:57",
+        "session_date": "1967-11-15",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Raincheck",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:35",
+        "session_date": "1967-08-30",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Day Dream",
+        "track_number": 9,
+        "side": "B",
+        "duration": "4:23",
+        "session_date": "1967-11-15",
+        "composers": [
+          "Billy Strayhorn",
+          "Duke Ellington"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Rock Skippin' at the Blue Note",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:01",
+        "session_date": "1967-08-30",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "All Day Long",
+        "track_number": 11,
+        "side": "B",
+        "duration": "2:56",
+        "session_date": "1967-09-01",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Lotus Blossom",
+        "track_number": 12,
+        "side": "B",
+        "duration": "3:54",
+        "session_date": "1967-08-30",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "90c99d9c-c15d-3a3c-bd51-a00452ebce25",
+    "apple_album_id": "1435404112",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/a036efaf-c7a9-4a16-b942-24ac1b3af7e3/30254214167.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Four sessions, 1967: RCA Victor's Studio A, New York City on August 28 (Boo-Dah; Blood Count; U.M.M.G.), August 30 (Raincheck; Rock Skippin' at the Blue Note; Lotus Blossom) and September 1 (Snibor; After All; All Day Long); and San Francisco on November 15 (Charpoy; The Intimacy of the Blues; Day Dream) — the San Francisco date uses Jeff Castleman (bass) and Steve Little (drums) instead of Aaron Bell and Sam Woodyard (S2). Recorded 1967, released 1968 (RCA Victor LSP-3906). Producer Brad McCuen and engineer Ed Begley per Discogs (S2); Wikipedia's infobox also credits Steve Backer as producer (S1) — both preserved. All compositions by Billy Strayhorn except 'Day Dream' (Strayhorn-Ellington) and 'Acht O'Clock Rock' (Ellington, CD bonus track only). The 2016 CD reissue adds seven bonus tracks (Acht O'Clock Rock; Raincheck take 4; Smada takes 3 and 4; Midriff; My Little Brown Book; Lotus Blossom trio version), excluded here as reissue-only (S2). Durations and side layout from the original LP listing (S1); the reissue's timings differ slightly."
+  },
+  "ballot": {
+    "album": "Duke Ellington — ...And His Mother Called Him Bill (1968)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The album has unusually broad recognition: the dossier reports a 1969 Grammy, five stars from AllMusic, four from The Penguin Guide, and biographer John Edward Hasse’s description of it as one of Ellington’s best (S1). Its all-Strayhorn program, including the final composition “Blood Count” and Ellington’s solo “Lotus Blossom,” makes it a focused, emotionally powerful statement, while the presence of Johnny Hodges, Paul Gonsalves, Harry Carney, Cootie Williams, and others gives the session exceptional gravity (S1, S2).",
+    "case_against": "This is fundamentally a late Ellington big-band record, not a direct entry in the small-group post-bop, modal, and hard-bop lineage at the canon’s center; its importance to the orchestral tradition does not by itself establish that it explains that core lineage. The dossier’s critical case is also thinly sourced: its Grammy, review ratings, and Hasse quotation are mediated through Wikipedia, while the other listed sources are chiefly metadata, and the personnel record retains unresolved track-credit conflicts (S1, S2).",
+    "disagreement": null,
+    "recommendation": "John should treat this as a strong canonical candidate: its critical standing and defining Strayhorn tribute outweigh its orchestral-lineage caveat, though direct critical sources would strengthen the dossier.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,2432 @@
+Graduate Theses, Dissertations, and Problem Reports
+
+2019
+
+# The Hard Bop Trrombone: An exploration of the improvisational styles of the four trombonist who defined the genre (1955-1964)
+
+Emmett Curtis Goods 
+West Virginia University, ecgoods@mix.wvu.edu
+
+Follow this and additional works at: https://researchrepository.wvu.edu/etd 
+[Image: I2] Part of the Music Performance Commons
+
+###### Recommended Citation
+
+Goods, Emmett Curtis, "The Hard Bop Trombone: An exploration of the improvisational styles of the four 
+trombonist who defined the genre (1955-1964)" (2019). Graduate Theses, Dissertations, and Problem 
+Reports. 7464. 
+https://researchrepository.wvu.edu/etd/7464
+
+This Dissertation is protected by copyright and/or related rights. It has been brought to you by the The Research 
+Repository @ WVU with permission from the rights-holder(s). You are free to use this Dissertation in any way that is 
+permitted by the copyright and related rights legislation that applies to your use. For other uses you must obtain 
+permission from the rights-holder(s) directly, unless additional rights are indicated by a Creative Commons license 
+in the record and/ or on the work itself. This Dissertation has been accepted for inclusion in WVU Graduate Theses, 
+Dissertations, and Problem Reports collection by an authorized administrator of The Research Repository @ WVU. 
+For more information, please contact researchrepository@mail.wvu.edu.
+
+---
+
+# The Hard Bop Trombone: An exploration of the improvisational styles of the four trombonist who defined the genre (1955-1964)
+
+**Emmett C. Goods**
+**Dissertation submitted to the School of Music**
+**at West Virginia University**
+**in partial fulfillment of the requirements**
+**for the degree of**
+**Doctor of Musical Arts**
+**in**
+**Trombone Performance**
+
+**H. Keith Jackson, DMA, Committee Chair**
+**Constinia Charbonnette, EDD**
+**David Taddie, Ph.D.**
+**Michael Vercelli, DMA**
+**Mitchell Arnold, DMA**
+**Music**
+**Morgantown, West Virginia**
+**2019**
+
+**Keywords: Hard Bop, Trombone, Jazz, Jazz Improvisation**
+**Copyright 2019 Emmett C. Goods**
+
+---
+
+**The Hard Bop Trombone: An exploration of the improvisational styles of the four trombonist who defined the genre 
+(1955-1964).**
+
+###### Emmett C. Goods
+
+This dissertation examines the improvisational stylings of Curtis Fuller, Locksley “Slide” 
+Hampton, Julian Priester and Grachan Moncur III from 1955 through 1964. In part one of this study, 
+each musician is presented through their improvisational connections to J.J. Johnson, the leading 
+trombonist of the Bebop era. His improvisational signatures are then traced through to the musical 
+innovations of the Hard-Bop Trombone Era.  Source material for this part of the study includes 
+published books, dissertations, articles, online sources, discographies and personal interviews. Part two 
+of this paper analyzes selected solos from each of the four subjects to identify the defining 
+characteristics of the Hard-Bop Trombone Era. Evidence for these claims is bolstered by interviews 
+conducted with the four men and their protégés. In a third and final part, a discography has been 
+compiled for each artists during the defined era.
+
+Through historical analysis of these four artists’ music and recording of first-hand accounts from 
+the artists themselves, this document attempts to properly contextualize the Hard-Bop Trombone Era as 
+unique and important to the further development of the jazz trombone. It is my hope that creating and 
+preserving a historical record of these four musicians’ accomplishments serves as a valuable addition to 
+the current research on this topic as well as for future studies in the field of Jazz Trombone.
+
+---
+
+## Dedication
+
+This study is dedicated to J.J. Johnson, Curtis Fuller, Locksley “Slide” Hampton, Julian Priester and 
+Grachan Moncur III. Their ongoing contributions to the sound of the Jazz Trombone discussed in this 
+study are what inspired me to complete this current project. A special word of Thanks to Curtis Fuller 
+for not only being a source of inspiration, but also for providing guidance and support along the way, I 
+am eternally grateful.
+
+---
+
+#### Acknowledgements
+
+I thank God for seeing me through every step of this process. I thank my family starting with my 
+Grandparents Mac & Nettie Goods. Grandpa Goods, your love of music and constant encouragement got 
+me here. Nanny, your love saw me through. Granddad Moses and Mommy Gladys, your love of music 
+flowed directly down to me through Mommy. Granddad, you were already gone, but Mommy dragged 
+me to every concert and show in Pittsburgh almost as if she was going to see you there. Mommy Gladys, 
+you made sure I always looked and presented myself well. Thank You. Mommy and Daddy, you all 
+showed me that a life without music is no life at all. Your homes were always filled with music of all 
+varieties and you encouraged me to be the best I could be as an artist and musician. Mom & Dad 
+Hufford, you are not blood relatives, but you have loved me, and now, my family as though we were. 
+And if it were not for my friendship with you, I would have never discovered this glorious voice called 
+the trombone. To my wife and children, I’ve dragged you all around from state to state as I pursued this 
+dream. You have never barked or complained. This is as much your achievement as it is mine. Kent and 
+Giorgia thank you for your friendship and support through this process. Kent you’ve been there for 
+every step and I can’t imagine my life without you.
+
+To my teachers, mentors, and friends. Mr. Harry Stephens I do not even know where to begin. When I 
+was 10 years old you showed me how to put the horn together and you haven’t stopped supporting me 
+since. You have guided me through every step.
+
+Mr. Carl Iezzi, you showed me what it was to be passionate about music. You cared about music in a 
+way that I never saw before. I still strive to show that level of passion to my students.
+
+Mr. Paul Lenartz, you knew what it was to be a kid from the “hood” in Pittsburgh. And you also knew 
+that music was my ticket out. Thank you for making sure that I took full advantage of that opportunity.
+
+Chester “Chet” Freeman, thank you for filling my summers with drum corps. You showed me things I 
+could have never imagined seeing.
+
+---
+
+Mr. Joseph Odom and Charles Greene (“Coach”). You both shared everything you had with all of us 
+children. You worked with us to ensure that we have the best lives possible. I am now doing all that I 
+can to pay it forward in some small way every day. Just, like you showed me.
+
+Calvin “Carl” Jackson, thank you for showing me what is to be a professional trombonist. You are still 
+the most versatile musician I know.
+
+Jay Ashby, thank you for always allowing me to come to work with you at MCG. Thank you for all the 
+lessons and hangs. Thank you for assistance in getting me into the Hartt School. You have been a great 
+friend.
+
+Murray Crewe, thank you for teaching me all those years for free. You know I could not afford what a 
+teacher of your caliber was worth. But, you also could see music was in my future. I thank you for all 
+you did. I miss you so very much.
+
+Steve Davis, you are my teacher, my big brother and one of my closest friends. I was nervous coming to 
+Hartford but you flung the doors open and welcomed me. I can never repay you for all you have done.
+
+The McLean family. Yes, it was Mr. Jackie McLean who was kind enough to help me get to Hartford. 
+But, this whole family embraced me and supported me throughout this last almost 20 years.
+
+Nat Reeves, thanks for being the best musical big brothers anyone could ask for. You gave me time and 
+instruction purely out of love. As I wrote this I realized I was never officially registered for any of your 
+classes, but you invited me in and gave me all that you had.
+
+Ed Fast for all you help.
+
+“Mama” Cheryl Smith, you made Hartford feel like home.
+
+Dr. Emmett G. Price, III, thanks for going through every page of this document.
+
+WVU Trombone Studio circa 2012-2014: Joseph, G. Scott, Jeremy, Jonathan, Kenneth, Dr. Plitnik, 
+thanks for everything and allowing me to have a fantastic experience.
+
+Calvin Stemley, thanks for talking me through every step of this process. Ensuring me that this too shall 
+pass. Love you Doc!
+
+---
+
+House of Soul family! I love you guys, keep it funky!
+
+Ray Santiago, it is hard to put into words the place you hold in my heart. Thank you for believing in me 
+and thank you for being the most generous, loving and funny human anyone could ever hope to meet. I 
+miss you Papi.
+
+My Interviewees:
+
+Clifton Anderson, Nat Reeves, Steve Davis, Andre Heyward, Jay Ashby, and James Burton, III.  
+Gentlemen, thank you for your time and scholarship.
+
+---
+
+### Table of Contents
+
+**_Dedication.............................................................................................................................................iii_**
+**Acknowledgements........................................................................................................................................ iv**
+**_List of Figures......................................................................................................................................viii_**
+**_Introduction...........................................................................................................................................x_**
+**Review of Literature..................................................................................................................................... xiii**
+**Scope and Limitation..................................................................................................................................... xv**
+**Research Methodology............................................................................................................................... xvii**
+**_Chapter 1: Biographical Information......................................................................................................1_**
+**Section1. Curtis Fuller-“The Virtuoso”............................................................................................................. 1**
+**Section 2. Locksley “Slide” Hampton-“The Thinker”....................................................................................... 5**
+**Section 3. Julian Priester-“The Chameleon”.................................................................................................... 6**
+**Section 4. Grachan Moncur III-“The Poet”...................................................................................................... 8**
+**_Chapter 2: Improvisational Analysis....................................................................................................11_**
+**Introduction.................................................................................................................................................. 11**
+**_Chapter 3: Interviews...........................................................................................................................28_**
+**Grachan Moncur III....................................................................................................................................... 31**
+**Summary of Protégé Responses on Grachan Moncur III............................................................................... 34**
+**Julian Priester................................................................................................................................................ 37**
+**Summary of Protégé Responses on Julian Priester:....................................................................................... 37**
+**Locksley “Slide” Hampton............................................................................................................................. 40**
+**Summary of Protégé Responses on Locksley “Slide” Hampton:.................................................................... 43**
+**Curtis Fuller................................................................................................................................................... 46**
+**_Conclusion............................................................................................................................................51_**
+**_Terms...................................................................................................................................................55_**
+**_Bibliography.........................................................................................................................................58_**
+**Appendix:...................................................................................................................................................... 63**
+Selected Discography for Curtis Fuller 1954-1964...................................................................................................... 63
+Selected Discography for Slide Hampton 1954-1964.................................................................................................. 68
+Selected Discography for Julian Priester 1954-1964................................................................................................... 69
+Selected Discography for Grachan Moncur, III  1954-1964......................................................................................... 70
+
+---
+
+## List of Figures
+
+**Figure 1:** *J.J. Johnson’s Clean and Clear Tone.* Excerpt from “Yesterdays” page 36, *J.J. Johnson, 
+transcribed solos.* By Leisenring, John, and Hunt Butler. New Albany, IN.: JAMEY ABERSOLD 
+JAZZ, INC., 2000.................................................................................................................................12
+**Figure 2: Use of triplets:** from *J.J. Johnson Trombone.* Baker, David. *J. J. Johnson, Trombone Volume 
+77, Issue 432 of David Baker jazz monograph series.* Shattinger International Music Corporation, 1979.
+.............................................................................................................................................................13
+**Figure 3: High Society:** from *J.J. Johnson Trombone.* Baker, David. *J. J. Johnson, Trombone Volume 
+77, Issue 432 of David Baker jazz monograph series.* Shattinger International Music Corporation, 1979.
+.............................................................................................................................................................13
+**Figure 4: Use of lower register:** transcribed by Emmett C. Goods, 2018.............................................15
+**Figure 5: Inserting the blues:** from “Cherokee” Marmojelo, Armin. *Curtis Fuller's Greatest 
+Transcribed Solos.* Houston: Houston Publishing, 1993........................................................................17
+**Figure 6: Blues & Dominant Over Diminished:** from “Cherokee” Marmojelo, Armin. *Curtis Fuller's 
+Greatest Transcribed Solos.* Houston: Houston Publishing, 1993..........................................................18
+**Figure 7: Fuller and Hampton from** “Side Hampton Personal Collection”, photo by Francis Wolff, 
+1958.....................................................................................................................................................19
+**Figure 8: Slide using Johnson’s triplet** lick from *“Confirmation”.* Transcribed by Brian Scarborough, 
+www.brianscarboroughmusic.com/resources, accessed 6/25/2018.........................................................21
+**Figure 9: Slide's Herculean Achievement:** from *“Confirmation”.* Transcribed by Brian Scarborough, 
+www.brianscarboroughmusic.com/resources, accessed 6/25/2018.........................................................22
+**Figure 10: Mastery of lip flexibility:** from *“Confirmation”.* Transcribed by Brian Scarborough, 
+www.brianscarboroughmusic.com/resources,accessed 6/25/2018..........................................................22
+**Figure 11: Possible use of use “against the grain”:** From “Under the Surface”. Transcribed by Don 
+Sickler, 2009.........................................................................................................................................24
+**Figure 12: Trading Fours:** From “Juliano”. Transcribed by Don Sickler, 2009...................................25
+**Figure 13: Grachan or Fuller?** From “Sonny’s Back”. Transcribed by Edward Fast, 2018.................26
+**Figure 14: From bop to rhythmic figures** From “Destination Out”. Transcribed by Don Sickler, 2013.
+.............................................................................................................................................................27 ix
+
+---
+
+## Introduction
+
+The Hard Bop Era is the period in jazz that follows the Bop (1940-1955), and the Cool (1948-
+1959) periods. It is musically characterized by a return to the Afrocentric rhythmic roots of jazz music, 
+and a distancing from the more artisanal style that came about after the Bop period. During the Hard 
+Bop Era, emphasis was placed on Latin/jazz hybrid music and on jazz/r&b hybrid music. Perhaps the 
+best way to understand Hard Bop is to think of Be Bop, its predecessor, as Latin and Hard Bop could 
+then be considered as English. Today we all agree that Latin is the foundation and English is a derivative 
+of that foundation.  In considering things this way, one should also keep in mind that while we do not 
+always see the Latin origins in English they are still there. One could further go on to say that Bebop is 
+often characterized by improvisations filled with streams of notes played at fast tempos most often in a 
+swing (4/4) rhythm. The Hard Bop Era is not just streams of notes. The speed and tempo of songs come 
+way down during this era, they take one note and bend the note. They play things that people can pat 
+their foot to and enjoy.
+
+A few aspects of the Hard Bop era stand out.  First its importance and recognition in jazz history. 
+Second its connection to civil rights movements. And finally the personalities that dominate the era from 
+top down.
+
+First historically, the music of bands such as *Art Blakey and the Jazz Messengers, the Horace 
+Silver Quintet, the Jazztet led by Art Farmer and Benny Golson* as well as bands led by *Miles Davis and 
+John Coltrane* all came to the forefront during the Hard Bop Era. A large amount of study goes into the 
+work these groups produced and it is considered fundamental to the understanding of jazz today. What 
+more, many of the most important jazz musicians of all time were active during this era. The jazz 
+musicians of this era include people such as Freddie Hubbard, Wayne Shorter, Bill Evans, Wes
+
+---
+
+Montgomery and Cannonball Adderley amongst so many others who are now regularly analyzed for 
+their contributions to the growth and development of jazz on their respective instruments. Trombonists 
+are rather underrepresented among this group of artists, which begs the question, who were the defining 
+trombonists of this era? While there is a level of unavoidable subjectivity to this question, one can 
+however examine the trombonists who played with the defining musicians of the era in order to come to 
+a few preliminary, but key, insights.
+
+A second aspect of the uniqueness of the Hard Bop era is that it occurs a little less than decade 
+after World War II ends. This new generation of musicians, many of whom served in the military, would 
+come away from their service with a sense of urgency for Civil Rights in America as many got a taste of 
+how well they were treated in foreign countries as both black men and musicians. Major events in 
+America during this 1955-1964 time period such as the murder of Emmett Till, the Little Rock Nine and 
+The Selma Bus boycott, to name just a few acted as an accelerant to an already burning desire for Civil 
+Rights. This burning desire came out in the music that musicians of the Hard Bop era made. Consider 
+*We Insist: The Freedom Now Suite* by Max Roach. This record includes one of the subjects of this study, 
+Julian Priester. The suite takes the listener on a journey through the African-American experience from 
+slavery through more contemporary issues such as Apartheid. The cover features a reenactment of the 
+famous 1960 Greensboro, NC lunch counter sit-ins. We could also consider *The Freedom Rider* by Art 
+Blakey and the Jazz Messengers. The title track is an homage to sacrifice made by young people to help 
+African-Americans in the south exercise their right to vote. These are just two examples of recorded 
+protest music by jazz musicians of this era.
+
+The last aspect to consider is personality. Like most musical developments, the change from the 
+Bop to the Hard Bop Era was largely personality-driven. Estimates of the time frame for Hard Bop vary between 6-9 years. Most scholars would pin the start of the Hard Bop Era on Charlie Parker’s death, 
+which signified the end of Be Bop, in 1955. One could also set the beginning of the Hard Bop Era at 
+1956, the year Clifford Brown died. These deaths mark the end of people playing in that style. After 
+these deaths, musicians played based on those sensibilities, but differently. In the case of the four 
+subjects analyzed in this dissertation. I will attempt to argue the manner in which personality can be 
+used to help characterize the improvisational style of each trombonists.
+
+In chapter one I approach the question concerning the defining trombonists of this era. I will do 
+this by considering the players who appear to pick up the mantle from leading trombonist of the 
+previous era. This line of thinking can be referred to as “the discipleship” question of J.J. Johnson. In 
+other words, who were the musical followers of J.J. Johnson. By followers I mean people who 
+internalized and emulated in many ways the musical style of Johnson, but used the style to create 
+something new in this case Hard Bop. In David Baker’s 1979 jazz monograph of J.J. Johnson, Baker 
+specifically cites himself and Slide Hampton as disciples of J.J. Johnson.<sup>1</sup> Later, Baker constructs a 
+musical genealogy for J. J and lists Curtis Fuller, Locksley “Slide” Hampton and Julian Priester as part 
+of a next generation of Jazz trombonists.<sup>2</sup>
+
+In chapter two I have chosen J.J. Johnson as the analytical lens to conduct this research. I 
+explicate the defining characteristics of Johnson’s style that can be recognized in the styles of the 
+subjects. This enables me to analyze the major differences between the hard bop style, and the bebop 
+style of jazz trombone playing. For the purposes of this study anyone who was also recording during the
+
+<sup>1</sup>Baker, David. *J.J. Johnson, Trombone Volume 77* (Issue 432 of David Baker jazz monograph series). Shattinger International 
+Music Corporation, 1979.
+
+<sup>2</sup>Baker, David. *J.J. Johnson, Trombone Volume 77* (Issue 432 of David Baker jazz monograph series). Shattinger International 
+Music Corporation, 1979.
+
+---
+
+previous period (Bop), will not be consider new and as such a contemporary of Johnson. The focus of 
+the current research has been restricted specifically to Curtis Fuller, Slide Hampton, Julian Priester and 
+Grachan Moncur III. In chapters two and three I explore the linkages of the four trombonists to one 
+another that can be considered characteristic of trombone playing during this era. the next hard bop era 
+trombonist.
+
+#### Review of Literature
+
+As I began my initial research, I began to examine what types of citations were of value and needed to 
+be included in this document. I immediately disregarded entries that did not present specific information 
+pertaining to the use of the trombone in the Hard Bop era, or the specific ensembles the subjects played 
+in. In addition to the available articles I scrutinized dissertations that included the subjects found in 
+ProQuest Dissertations and Theses until I found those that I understood to be of importance. The use of 
+West Virginia Universities Library website helped me gather information from the following databases: 
+JSTOR, Pro Quest Dissertations & Theses and RILM Abstracts of Music Literature. Even with the 
+limited amount of published research on this topic, significant time was spent narrowing my results to 
+find the items that were most valid to my research.
+
+Dr. Isidore Rudnick’s, *A stylistic analysis of melody, harmony, rhythm and sound quality in 
+selected improvised solos of Slide Hampton<sup>3</sup>,* is an integral part of the analysis of style and the 
+relationship of the Hard Bop era players to the Bop era. Dr. Rundnick gives a clear, concise method of 
+looking at jazz trombone styles through transcription and analysis.
+
+<sup>3</sup>Rudnick, Isidore L. "A stylistic analysis of melody, harmony, rhythm and sound quality in selected improvised solos of 
+Slide Hampton." PhD diss., University of Miami, 1999.
+
+---
+
+Dr. Eddie Elsey, Jr’s *A comparison of two distinctive jazz trombone artists, David Steinmeyer 
+and Curtis Fuller<sup>4</sup>,* will be a crucial text as it provides a great deal of in-depth information into the era 
+and specifically Curtis Fuller’s playing during the era. Transcriptions from this dissertation are used for 
+analysis.
+
+Dr. James H. Moore’s, *A comparative study of the trumpet styles of Clifford Brown, Donald Byrd 
+and Freddie Hubbard: An examination of jazz trumpet style from 1953-19645* is extremely helpful, as it 
+takes a similar approach. Dr. Moore compares the styles of Byrd and Hubbard and links them to the 
+work of Clifford Brown.
+
+<sup>4</sup>Elsey, Eddie L. "A comparison of two distinctive jazz trombone artists, David Steinmeyer and Curtis Fuller." PhD diss., 
+University of Southern Mississippi, 2008. ProQuest.
+
+<sup>5</sup>Moore, James H. "A Comparative Study of the Jazz Trumpet Styles of Clifford Brown, Donald Byrd, and Freddie
+Hubbard: an Examination of Improvisational Style From 1953-1964." PhD diss., University of Pittsburgh, 2012.
+
+---
+
+#### Scope and Limitation
+
+The four main subjects of the study Curtis Fuller, Locksley “Slide” Hampton, Julian Priester and 
+Grachan Moncur, III were the most active players post J.J. recording in the style between 1955-1964.  
+All the subjects are aging and in declining health. Interviews are hard to acquire at this point; Therefore, 
+much of the weight lands on their protégés Steve Davis, Steve Turre, Jay Ashby, Nat Reeves, James 
+Burton, III, and Clifton Anderson to help gain insight as to what these men were doing during this timeperiod.
+
+**Steve Davis:** “young lion era trombonist”, jazz trombone professor at the University of Hartford, Hartt 
+School of Music for the last 20 years. Steve has been a protégé of Curtis Fuller, Grachan Moncur, III 
+and Slide Hampton since the 1980s.
+
+**Steve Turre:** jazz trombonist and Saturday Night Live band member for over twenty years. Turre was 
+the second trombonist to be a member of Art Blakey’s Jazz Messengers in the 1970s.
+
+**Jay Ashby:** professor of World Music and Jazz Studies at Oberlin College and protégé of Slide 
+Hampton since the 1980s.
+
+**Clifton Anderson:** jazz trombonist and member for the Sonny Rollins Quintet for over thirty years. 
+Anderson has been a protégé of Slide Hampton since the 1970s.
+
+**James Burton, III** is a jazz trombonist and former member of the jazz faculty at The Julliard School 
+and former member of the Dizzy Gillespie Alumni Orchestra under the direction of Slide Hampton.
+
+**Nat Reeves** is a bassist and educator. He has worked with Curtis Fuller and recorded with him in 
+numerous settings since the 1980s.
+
+These six interviewees were selected because they have been close in relationship to the primary 
+subjects for decades. Every effort was made to add additional representatives who a had close 
+relationship with Julian Priester.
+
+---
+
+xvi
+
+---
+
+Research Methodology
+
+Three primary research methods were used to facilitate this study. Information was obtained via 
+scholarly publications such as articles, dissertations, and recordings. Only scholarly resources were 
+consulted and used for this particular section of the research; An acute examination of these materials 
+was used to identify authentic, relevant, and pertinent information.
+
+Personal interviews were conducted to obtain a significant portion of information relative to this 
+topic. All subjects are still currently living and one would be remiss not to include their voice. The 
+students of these subjects were also interviewed. Many of the students have studied with more than one 
+of the subjects. The following questions will be asked of the subjects in congruence with the guidelines 
+of human research at West Virginia University, I have completed the IRB training as well as the Social 
+& Behavioral Research Investigator Module to appropriately complete the interview portion of this 
+document. This training provided pertinent information for human research as well as promoting respect 
+and rights for all individuals interviewed.
+
+The following questions were addressed to the subjects:
+
+1. What was your musical background?
+
+2. How did you decide to play trombone?
+
+3. Who were your primary teachers?
+
+4. What trombonist had an influence on you?
+
+5. Did you transcribe any of their material?
+
+6. What was it like working with…...?
+
+7. Is there one particular recording from this era of your career that you are proud of or fond of?
+
+---
+
+8. As you recall what was your improvisational concept during this time? Were you working on 
+anything in particular?
+
+9. Who were some of your favorite trombonist of this era?
+
+The following questions were addressed to their students and protégés:
+
+1. When did you first listen to the artist?
+
+2. How did you end up meeting the artist?
+
+3. Did you study formally with him?
+
+4. If yes what specifically did you work on? Technique, Improvisation or both.
+
+5. Where would you say the artist belongs in the lineage of jazz trombonist?
+
+6. What recording from 1955-1964 do you think demonstrates the talent, skill, virtuosity of the artist?
+
+7. In your opinion is there something that the artist did during that time which separates him from 
+other jazz trombonist of this era of jazz history.
+
+Finally, transcriptions of the subject’s solos will be used. Some of these transcriptions come from 
+published sources and others are from my private collection. These transcriptions will help to isolate and 
+identify specific characteristics of each artist playing and will be the main point for analysis.
+
+---
+
+## Chapter 1: Biographical Information
+
+Section1. Curtis Fuller-“The Virtuoso”
+
+**Curtis Fuller** was born December 15, 1934 in Detroit, Michigan to parents who had recently 
+immigrated from Jamaica. The transition to America was not smooth for the Fullers. Mr. Fuller’s father 
+died of pneumonia when he was still a baby and the family ended up on hard times. Mr. Fuller’s mother 
+passed shortly after that. This led to young Mr. Fuller being placed in an orphanage.
+
+In school, Fuller was given the opportunity to study music. His first instrument was the violin, he 
+knew quickly it was not for him.<sup>1</sup> He initially wanted a more exciting instrument like a saxophone, but 
+none were available. So, he ended up playing the last remaining instrument, a trombone.<sup>2</sup> After Fuller 
+began to play the trombone, one of the sisters of the orphanage took him to see jazz saxophonist Illinois 
+Jacquet to allow Fuller to see how professional trombonists played. J.J. Johnson was a part of Jacquet's 
+group at that time. When Fuller saw Johnson play for the first time, he was enamored at the way that 
+Johnson played.<sup>3</sup>
+
+There was something intellectual about the way he stood there; he was involved with the music. 
+Illinois was involved with crowd-pleasing things: bitin' the reed and screamin' and layin' on his 
+back. And J.J. just stood there and played the music. That to me showed such dignity. J.J. just 
+seemed like he was the man, and I thought gee, that's what I want to do.<sup>4</sup>
+Fuller took that inspiration and poured it into his horn.
+
+1
+Sussman, Andrew. "Curtis Fuller's great depression." *Downbeat,* March 1981.
+
+<sup>2</sup>Ibid
+
+<sup>3</sup>Ibid
+
+<sup>4</sup>Ibid
+
+---
+
+He had no private instruction as a child but, instead, gleaned information from wherever he 
+could. One of these resources was Donald Byrd from whom Fuller gained his deep knowledge and 
+appreciation for the Arban’s Method. Byrd was just one of the many young Detroit jazz musicians 
+around who Fuller was lucky enough to have grown up. He went to High School with Donald Byrd and 
+Paul Chambers; everyone from the Jones brothers (Thad, Elvin, and Hank), Doug Watkins, Kenny 
+Burrell, Louis Hayes, Charles McPherson et al. made up just some of the jazz musicians who were part 
+of the scene in which Fuller grew up.<sup>5</sup>
+
+Fuller joined the Army in 1953 and was initially in a tank battalion. Soon it was discovered that 
+he had musical talent and was made part of the band. This band was led by Julian “Cannonball” 
+Adderley and included his brother Nat Adderley and Mel Wanzo.<sup>6</sup> After leaving the Army in 1955, 
+Fuller enrolled at Wayne State University to major in sociology. While in college, he continued to play 
+with different groups in Detroit.<sup>7</sup> One of the specific groups that he worked with was that of his longtime 
+friend Yusef Lateef. The quintet went to New York in 1957 to record.<sup>8</sup>
+
+Once in New York word spread quickly of the new phenom in town, and his recording career 
+began in short order. Among the very first records Fuller recorded were two as a leader for Prestige.<sup>9</sup>
+Fuller was now firmly planted in New York and within his first year of being there he would record with 
+Bud Powell and John Coltrane. He would also land his first major gig with the one and only Miles Davis
+
+<sup>5</sup>Ibid
+
+<sup>6</sup>Tomkins, Les. "The Curtis Fuller story (interview)." *Crescendo International,* 1976.
+
+<sup>7</sup>Elsey, Eddie L. "A comparison of two distinctive jazz trombone artists, David Steinmeyer and Curtis Fuller." PhD diss., 
+University of Southern Mississippi, 2008. ProQuest.
+
+8
+Dietrich, Kurt. *Jazz 'bones The World of Jazz Trombone.* Rottenburg / N.: Advance Music, 2005.
+<sup>9</sup>Ibid sextet that included Sonny Rollins on the front line.<sup>10</sup> In 1957, at 23 years old and in a new musical 
+environment, he went on to have one of the most impactful first years ever in the New York City Jazz 
+scene. Fuller recorded 6 albums under his own name and 15 others as a sideman. Fuller’s star was 
+shining bright and by the end of the 1950s he had a found a home in the Jazztet, which was a collective 
+that was co-led by Art Farmer and Benny Golson. This group’s radio hit, “Killer Joe” helped to make 
+Fuller a house hold name.
+
+In 1961, Fuller left the Jazztet to begin working with the legendary Art Blakey and the Jazz 
+Messengers. He would spend the next four years with Blakey. The time Fuller spent with Blakey would 
+solidify the Hard Bop solo style on trombone.
+
+By the time Mr. Fuller joined the band, Blakey had gained a reputation as a finishing school for 
+talented young jazz musicians. Fuller would be the first trombonist to ever go through this finishing 
+school. His work showed his growth and the development of what should be considered the “harp-bop” 
+style of trombone improvisation. The material during his tenure with the group was made up of 
+Latin/jazz hybrid music and modal compositions which were precursors of what was soon to become 
+more standard in the avant-garde era. Fullers improvisations over these are unlike anything previously 
+recorded by any jazz trombonist. The language of jazz improvisation was changing at a faster rate than 
+any previous time period and Fuller’s band mates Wayne Shorter and Freddie Hubbard were at the 
+forefront of this change. They were introducing modal compositions and as such Fuller gave the 
+trombone a modal voice. Fuller’s own compositions, “The Egyptian” and “Ala Mode” were based off of 
+modes. “Ala Mode” is based off of the Dorian mode and “The Egyptian” is based off of Phrygian. Also, 
+pieces like Wayne Shorter’s “Children of the Night” and “Free for All” which use a mixture of modes
+
+<sup>10</sup>Ibid and traditional changes. These are just a few examples of compositions where Fuller went beyond the 
+established jazz trombone language.
+
+---
+
+Section 2. Locksley “Slide” Hampton-“The Thinker”
+
+**Locksley “Slide” Hampton** was born on April 21, 1932 in Jeanette, PA to a family of 
+musicians. He was raised in Indianapolis, IN and graduated from the famed Crispus Attucks High 
+School. This was the same High School that nurtured a young James Louis Johnson (“J.J.”) a decade 
+earlier. Among those who were part of the musicians in the jazz community when young Hampton was 
+coming up were the Montgomery brothers (Buddy, Monk and Wes) and Freddie Hubbard.
+
+Hampton was already working at a young age as a part of his family’s band. He was initially 
+self-taught with some help from his family members which may explain the reason that, though righthanded, Hampton plays the instrument left-handed.  When asked about the way he sets up his horn he 
+simply says that he plays the horn the way it was first handed to him, which is with the slide in the left 
+hand.  Hampton’s family was a very well-known outfit throughout the Mid-west, touring and making 
+records. Hampton continued with the family band until the early 1950s, when he launched out on his 
+own.
+
+Initially, after leaving his family band, Hampton worked with a blues outfit. Hampton’s big 
+break came when he received the call to work in the band of vibraphonist Lionel Hampton (no relation).  
+It was in this band that he started to gain some attention and it was not long before he was in the little 
+big band of the great Maynard Ferguson. It was as a member of Ferguson’s ensemble that people started 
+to notice not only this young trombone player with the gift of being able to play at fast tempos, but also 
+one of the most talented of the new generations of arrangers. This band featured two of these arrangers 
+in the trombone section, Slide Hampton and Don Sebesky.
+
+---
+
+Most importantly during this time, Hampton made a recording that really put him in the 
+conversation of Hard Bop Trombonist.  This was the two-trombone record that he made with fellow upand-comer Curtis Fuller.  This recording will be discussed in-detail in the next chapter.
+
+During the last part of the Hard Bop Era Hampton was focusing primarily on his own group, an 
+octet.  This group had no chordal instrument, though on some recordings Hampton plays piano. These 
+Octet recordings do not showcase his soloist abilities to their full potential.  Nevertheless, there are a 
+few exceptions such as his album, *Exodus,* where on the track “Confirmation” by Charlie Parker, an 
+arrangement by Hampton, we see Hampton displaying his expert ability to solo over Bebop changes 
+chorus after chorus.
+
+Section 3. Julian Priester-“The Chameleon”
+
+**Julian Priester,** was born on June 29, 1935 in Chicago, IL. Priester was the youngest of six 
+children. His father was an assistant pastor so his family was deeply involved with church. In his 
+interview with Paul Rauch he says that, “We had a piano at home. Several of my siblings played piano. 
+There was music all around. We would gather around the piano and sing hymns. My mother, and one of 
+my sisters played piano, and one of my brothers was a jazz fan.”<sup>11</sup> It was here that Priester first became 
+exposed to jazz. He goes onto say that he watched as his brother and his brother’s friends would listen 
+over and over again to parts of solos by people like Charlie Parker.<sup>12</sup>
+
+<sup>11</sup>All About Jazz. "Julian Priester: Reflections in Positivity." All About Jazz. Accessed August 24, 2018. 
+https://www.allaboutjazz.com/julian-priesterreflections-in-positivity-julian-priester-by-paul-rauch.php?page=1.
+
+<sup>12</sup>Ibid
+
+---
+
+By high school, Priester was playing piano in the school orchestra at the famed Du Sable High 
+School. Priester said that orchestra members were all incorporated into the band several times a year and 
+he was forced to play the glockenspiel, which he hated. He asked to switch initially to trumpet but was 
+given a baritone horn.  Later, he discovered that baritone and trombone shared the same mouthpiece and 
+he made a permanent switch.<sup>13</sup> Priester was just 17 years old when his classmate Richard Evans told him 
+to come to a rehearsal for Sun Ra’s Arkestra.<sup>14</sup> He goes on to say that the same friend recommended him 
+for Lionel Hampton’s Orchestra.<sup>15</sup> Priester says that it was in Sun Ra’s group that he really learned to 
+use his ear, as Sun Ra would rehearse for up to 8 hours with no charts. He emphasized that it is a skill 
+that has paid him great dividends through the years. Somewhere in between Sun Ra and Lionel 
+Hampton, Priester says that he briefly went to the Sherwood School of Music.<sup>16</sup>
+
+When Priester arrived in New York circa 1958 he was able to quickly find work at Riverside 
+records, where he worked with famed Miles Davis drummer Philly Joe Jones. He was fortunate enough 
+to be a part of Jones’s record, *Blues for Dracula.* This marks some of the first significant recorded solo 
+work we have from Priester. In fact, the recording with Jones is what brought him to the attention of 
+Max Roach, who was putting together a new band. This band and the recordings they made such as *We 
+Insist* & *Percussion Bitter Sweet* would help to thrust him into the National Jazz spotlight.
+
+<sup>13</sup>Ibid
+
+<sup>14</sup>Segal, Dave. "Jazz Legend Julian Priester Reflects on His Fusion Classic Love, Love, Sun Ra, Herbie Hancock, and a Lot 
+More." The Stranger. Last modified January 5, 2015. https://www.thestranger.com/slog/archives/2015/01/05/jazz-legendjulian-priester-reflects-on-his-fusion-classic-love-love-sun-ra-herbie-hancock-and-a-lot-more.
+
+<sup>15</sup>Ibid
+
+<sup>16</sup>All About Jazz. "Julian Priester: Reflections in Positivity." All About Jazz. Accessed August 24, 2018. 
+https://www.allaboutjazz.com/julian-priesterreflections-in-positivity-julian-priester-by-paul-rauch.php?page=1.
+
+---
+
+In 1960, Priester made his only two solo records from this era.  The most widely known being 
+*Keep Swinging* which featured saxophonist Jimmy Heath on a little over half of the record and the 
+powerhouse rhythm section of pianist Tommy Flanagan, bassist Sam Jones and drummer Elvin Jones 
+(no relation).  His other recording, made the same year was *Spritsville* which featured a sextet on 4 
+tracks.  This recording was also filled with some Hard Bop stalwarts, pianist McCoy Tyner, bassist Sam 
+Jones and drummer Arthur Taylor, all who were among some of the most recorded individuals of this 
+era.
+
+Section 4. Grachan Moncur III-“The Poet”
+
+**Grachan Moncur, III** was born on June 3, 1937 in New York, NY. Moncur, like Slide 
+Hampton, came from a family of musicians. His father Grachan was a bassist and his uncle Al Cooper 
+was a tenor saxophonist and the leader of the famed Savoy Sultans. In the 2003 www.allaboutjazz.com
+interview Moncur states,
+
+My father being a bassist back in the day when he was playing with the early bands, it was 
+normal for a good bassist to also play tuba and play valve trombone also. So, he always had a 
+tuba and valve trombone always around the house. As a kid, as a very youngster, I started 
+doodling around with the trombone, long before I was even big enough to actually stand up and 
+play the valve trombone, which was what was around the house.<sup>17</sup>
+
+Out of all the subjects, Moncur was afforded the most access to instruction leading up to his 
+professional career. In the same article he discusses getting private instruction on trombone beginning at 
+a very early age.<sup>18</sup> Moncur also has the unique distinction of being the second most notable alumni of the 
+Laurinburg Institute in North Carolina where “Dizzy” Gillespie was also once a student. In an interview
+
+<sup>17</sup>All About Jazz. "A Fireside Chat with Grachan Moncur III." All About Jazz. Accessed January 16, 2018. 
+https://www.allaboutjazz.com/a-fireside-chat-with-grachan-moncur-iii-grachan-moncur-iii-by-aaj-staff.php?page=1.
+
+<sup>18</sup>Ibid with Ed Berger for *Jazztimes* Moncur recalled, “the trumpeter’s spirit still permeated its halls almost two 
+decades later.”<sup>19</sup>
+
+After high school, Moncur spent some time at both Manhattan School of Music and Julliard 
+respectively. Unable to remain in music school, Moncur’s professional career began in 1958.  He began 
+working with Ray Charles with whom he stayed for approximately a year and a half. Moncur said that 
+he enjoyed being under the tutelage of musicians such as Hank Crawford and David “Fathead” 
+Newman.  But it was not long before Art Farmer and Benny Golson tapped him to replace Curtis Fuller 
+who was departing the Jazztet for the Jazz Messengers.<sup>20</sup> Moncur recalled that it was during his tenure 
+with the Jazztet that Moncur began to compose in earnest. “Art Farmer told me that he noticed from the 
+way I played that I might make a good composer.”<sup>21</sup> He also recalled, “That same night, I heard this 
+little song in my head. I called it ‘Sonny’s Back’ for Sonny Rollins, who was my favorite musician. The 
+next day I sang it for Benny Golson, who took his horn out and played it right there on the street.” The 
+group eventually recorded the piece, “Sonny’s Back” a hard swing number and adopted it as a theme.<sup>22</sup>
+
+Once the Jazztet had disbanded in 1962, Moncur began focusing on his solo career. Over the 
+next two-year period he would establish himself as a solo artist and in doing so record some of the most 
+important albums of what we now call Avant-Garde/Free Jazz.
+
+<sup>19</sup>Berger, Ed. "Grachan Moncur III: Some Other Stuff." JazzTimes. Last modified September 1, 2003. 
+https://jazztimes.com/departments/overdue-ovation/grachan-moncur-iii-some-other-stuff/.
+
+<sup>20</sup>Ibid
+
+<sup>21</sup>Ibid
+
+<sup>22</sup>Ibid
+
+---
+
+10
+
+---
+
+## Chapter 2: Improvisational Analysis
+
+#### Introduction
+
+Of all the great trombonists, the four trombonists considered in the current research unanimously 
+consider J.J. the most influential trombonist for them as musicians. Despite Johnson being less than a 
+decade older than a few, he was able to lay a foundation from which all four subjects would build upon 
+in a few short years. In what follows, three features of J.J. Johnson’s playing style will be explicated that 
+figure prominently in the musical styles of subsequent jazz trombonists.
+
+1. Clean and clear tone
+
+2. Improvisational style that avoids cliché
+
+3. Triplets and other cyclical material
+
+First, Johnson is known for his clean, clear tone in all registers. This may not seem like a 
+remarkable feature, but at this point in time most jazz musicians were striving for uniqueness in their 
+timbre for which they sacrificed clarity in some register of the instrument. Swing era trombonists 
+coming directly before Johnson, like Tommy Dorsey and Lawrence Brown, had made names for 
+themselves by having crystal clear altissimo registers. Johnson, however, possessed clarity in all ranges 
+of his instrument. This evenness was often likened to that of an orchestral player. It was a feature that 
+plays prominently, as he played non-scaler intervals as part of his improvisations. Consider this cadenza 
+segment of his solo on “Yesterdays” by Jerome Kern on his *Live at the Opera House* recording with 
+saxophonist Stan Getz.  J.J. shows the ability to both play in the extreme low register B-flat<sup>1</sup> to A<sup>1</sup>, then 
+ends by quickly playing a glissando up from E<sup>4</sup> to C-sharp<sup>5</sup>. He does all this with a clean, clear sound.
+
+---
+
+F7 Bb Δ Eb Δ E♭ Cadenza
+
+A7+9 Diminished Scale
+
+A7+9 D-Δ G7+4
+
+8 va Basso
+
+**Figure 1:** *J.J. Johnson’s Clean and Clear Tone.* Excerpt from “Yesterdays” page 36, 
+*J.J. Johnson, transcribed solos.* By Leisenring, John, and Hunt Butler. New Albany, 
+IN.: JAMEY ABERSOLD JAZZ, INC., 2000.
+
+Second, Johnson was also the first trombonist to step forward with an improvisational style that 
+was devoid of any trombone specific techniques (clichés), like growling, smears and glissandos, or as 
+trombonist Steve Davis put it, “he abandoned the cliché’ language of the trombone.”<sup>23</sup>. Instead, he 
+played lines in the style of Charlie Parker, Dizzy Gillespie and Bud Powell, all of whom were pioneers 
+of the genre.  No tempo seemed beyond his grasp. This should be considered as important as when 
+Arthur Pryor came along and began playing and writing concert solos for trombone in the style of Jean 
+Baptiste Arban and the other great cornet soloist of that day. Johnson showed the world that a 
+trombonist could play bebop, thus saving the instrument from being relegated to playing only older 
+forms of jazz and not allowing it to be an impactful modern jazz instrument.
+
+23
+Davis, Stephen K. Personal Interview. West Hartford, CT. January 1, 2018.
+
+---
+
+Finally, Johnson’s new improvisational style included a lot of cyclical material. His usage of this 
+material is evidence that he has, in some ways, unlocked a hidden mystery of the instrument. It shows 
+the instrument’s ability to quickly take, a lick and or short motif, and move it around the horn. He would 
+often use triplets as the rhythm for these movements. Figure 2 is from David Baker’s *Jazz Monograph*
+and illustrates an example of Johnson’s use of triplets.<sup>24</sup> Johnson used his ability to play motifs also as a 
+way to show the large scope of music he knew. In his solos, he played melodies from other pieces, 
+which jazz musicians commonly refer to as playing quotes.  Figure 3 from the same book shows one of 
+his favorite quotes, “High Society”.<sup>25</sup>
+
+II V7
+
+J.J. Basic Materials
+
+D-? 3 3 3 G-?
+
+dozens of variations
+
+**Figure 2: Use of triplets:** from *J.J. Johnson Trombone.* Baker, David. *J. J. Johnson, Trombone Volume 77, Issue 432 of David Baker jazz 
+monograph series.* Shattinger International Music Corporation, 1979.
+
+"High Society"
+usually in Bb
+
+**Figure 3: High Society:** from *J.J. Johnson Trombone.* Baker, David. *J. J. Johnson, Trombone Volume 77, Issue 432 of David Baker jazz 
+monograph series.* Shattinger International Music Corporation, 1979.
+
+24
+Baker, David. *J. J. Johnson, Trombone Volume 77, Issue 432 of David Baker jazz monograph series.* Shattinger 
+International Music Corporation, 1979.
+
+<sup>25</sup>Ibid
+
+---
+
+These three elements of his improvisational style act like a thread that join the 4 subjects to him. 
+Each of the subjects possess elements within their own improvisational styles, as each subject’s, 
+personal style is examined.  Examples from each will be cross-referenced with samples of Johnson’s 
+work to draw a firm connection between him and the subjects.
+
+The Hard Bop Era is a return to the more fundamental stylings of gospel & blues.  For trombone 
+improvisational style, this means a return to the fundamental stylings without reliance on the over usage 
+of glissandi and smears. The first subject, **Curtis Fuller,** can be viewed as the embodiment of this 
+sentiment.  Fuller’s sound concept is beautiful, but markedly different from Johnson.  His sound is 
+robust and deeply personal. It makes the listener draw near to double check that it is actually a trombone 
+and not a saxophone. This can be best demonstrated in his ballad playing. A prime example being his 
+very first solo recording, *New Trombone.<sup>26</sup>* Fuller presents the song in the heart of the horn, right in the 
+middle register and he makes great use of the handful of notes below B<sup>b3</sup> that he plays.  Note in the 
+figure below that the highest note is an E-flat<sup>4</sup>.  This is in contrast to what many trombonists of the day 
+were doing on ballads.  Most were still following the lead of Tommy Dorsey and Lawrence Brown and 
+playing melodies up in the altissimo register of the horn. Fuller rather chooses a presentation like that of
+
+$$
+\mathrm{B}^{\mathfrak{b}}{}_{3}
+$$
+
+$$
+E-l a t^4
+$$
+
+26
+Fuller, Curtis. New Trombone. Prestige PRLP 7107.
+
+---
+
+a tenor saxophonist Coleman Hawkins or Ben Webster and with the melodic sense of a great swing era 
+baritone singer like Frank Sinatra or Nat “King” Cole.
+
+GENE DEPAUL & JOHNNY MERGER
+1956
+
+Bb C-7 D-7 G7 C-7 F7 Bb mat7 Bb 6
+
+G-7 C-7 F7 Bb mat7
+
+Eb Q- C-7 F9 A#7 D7 b9 G-7
+
+C7 Fmat7 Q-7 C7 F7
+
+Bb7 C-7 D-7 G7 C-7 F7 Bb mat7 Bb 6
+
+G-7 C-7 F7 Bb mat7
+
+Eb Q-7 C-7 F9 A#7 D7 b9 G-7 Eb-7
+
+Bb F7 Bb Q-7 C-7 F7 Bb mat7
+
+-
+
+**Figure 4: Use of lower register:** transcribed by Emmett C. Goods, 2018.
+
+---
+
+Curtis Fuller, like Johnson, is known for his ability to construct bebop lines and play them at 
+break neck tempos. Consider one of his early recordings during the era, his recording of “Cherokee”
+with Jimmy Smith on his album the Sermon. The track was not a part of the original release, but was 
+included in reissues of the album as a bonus track. Here, on this perennial standard that is still used to 
+“cut” fellow musicians at jam sessions, Curtis produces a near endless stream of well-connected ideas 
+that goes on for exactly three minutes. Over the course of the three minutes he shows a great sense of 
+swing. The lines are really made memorable, as bassist Nat Reeves has said, because “Curtis had a very 
+deep sense of swing.”<sup>27</sup> Fuller seems to be going out of his way to dig deep and really swing despite the 
+bright tempo over which most musicians would just float.  He colors the solo with quotes and time 
+manipulations to further demonstrate his command of the tempo. And his execution of the bridge 
+features blistering bebop lines filled with 8<sup>th</sup> notes.
+
+Take note of measures 31-54 which includes a hearty two bar resolution in B-flat major before 
+he launches into the bridge where he plays almost every beat and does not recycle material<sup>28</sup>. This 
+includes a very advanced bebop lick in measures 36-40 where Mr. Fuller anticipates the resolution to Amajor by a whole two beats and gets there out lining the ii and the V<sup>7</sup> chords using nearly all upperstructure notes. Also, note that while his lines are clearly out of the bebop vernacular he makes the most
+
+27
+Reeves, Nat. Phone Interview. September 6, 2017.
+
+<sup>28</sup>Marmojelo, Armin. *Curtis Fuller's Greatest Transcribed Solos.* Houston: Houston Publishing, 1993.
+
+---
+
+of the middle range of the trombone not even reaching G<sup>4</sup> and not going below C-sharp<sup>3</sup>.
+
+$$
+\mathbf{G}^{4}
+$$
+
+31 Bbma? Cmi? F#7 CHEROKEE
+
+35 Bmi? E?
+
+39 Ama? Ami?
+
+42 D? Gma?
+
+45 Gmi? C7 Cmi?
+
+48 F7 Bbma?
+
+51 Fmi? Bb7 Ebma?
+
+**Figure 5: Inserting the blues:** from “Cherokee” Marmojelo, Armin. *Curtis Fuller's 
+Greatest Transcribed Solos.* Houston: Houston Publishing, 1993.
+
+---
+
+While this recording of “Cherokee” is at approximately 200 beats per minute, Fuller still finds it 
+as the perfect time to use the A-sections to insert some blues on measures 120-128. He uses just the first 
+five notes of the blues scale nearly verbatim over measures 120-123 and then branches off just a bit to 
+end the chorus on measures 124-128. His use of the blues and his frequent use of the diminished seven 
+over the dominant seventh chord with a flat-9, hints at his study of the Arbans method diminished 
+studies. Steve Davis, who spent a lot of time with Fuller over the years, said this of Curtis’s 
+improvisation in general, “Curtis said I love JJ’s dirty drawers”. While Fuller was playing with Miles 
+Davis, J & K came to see Curtis and JJ said to K, “He’s playing all my shit”.<sup>29</sup> Diminished over 
+dominant seventh chords had previously been a common tool of J.J.’s.
+
+120 B♭ma7 b♭h' b♭h' C♯ b♭
+
+124 Cm17 F7 B♭ma7 b♭h'
+
+**Figure 6: Blues & Dominant Over Diminished:** from “Cherokee” Marmojelo, 
+Armin. *Curtis Fuller's Greatest Transcribed Solos.* Houston: Houston Publishing, 
+1993.
+
+29
+Davis, Stephen K. Phone Interview. January 1, 2018.
+
+---
+
+The next subject, **Locksley “Slide” Hampton,** took an indirect route to the spotlight. Hampton 
+spent a good bit of the era in a supporting role even when he was a leader, writing and arranging for 
+artist like Maynard Ferguson, Randy Weston, Nat Adderley and J.J. Johnson. Hampton was really a 
+work in progress as a trombonist. All the interviewees for this work agreed that Slide, while clearly one 
+of the greatest trombonists ever, was still years away from some of his greatest recorded work. Though 
+one of the recordings he makes was one of the most important recordings of the era for jazz trombone as 
+it put him in a frontline with Curtis Fuller. Fuller and Slide were quickly gaining reputations in the late 
+1950’s as the heirs apparent to J.J. Johnson.
+
+Curtis Fulcher and Glenn Hampton at Faller 3 Two Dozes Session of January 22, 1990.
+
+**Figure 7: Fuller and Hampton from** “Side Hampton Personal Collection”, photo by 
+Francis Wolff, 1958.
+
+---
+
+The Bluenote LP *Two Trombones* was recorded in January of 1958, but was not actually released 
+until 1980 under a Japanese imprint. It remained unheard during the actual Hard Bop era. All of the 
+trombonists interviewed for the current research knew little about the recording of this record. Luckily it 
+wasn’t lost as evidence of a 24-year-old Fuller and a 26-year-old Hampton. On this recording, one is 
+treated for the first time to extended solos by both Hampton and Fuller, where similarities and 
+differences between the two can be clearly heard.
+
+The first major difference between the two is sound. Hampton’s sound is nothing like what it 
+would be later, even later during this era. Rather than the dark tone that he is known for producing, the 
+sound here is thin and airy. The best comparison would be to the sound of Kai Winding. The only 
+recording that Hampton to exhibit this unique sounds, one of two possibilities can be considered: it was 
+an anomaly and possibly the result of Hampton being somewhat off that day; or Hampton did it 
+intentionally, possibly as a “nod” to Johnson & Kai Winding who, at the time of this recording, had 
+become quite successful with their two-trombone frontline. I was unable to get an answer to this 
+question in my interview with Mr. Hampton. In my interview with Hampton he said, “Curtis was an idol 
+of mine and I was intimidated.  But I needed the money so I did the session.”<sup>30</sup> This could be the answer 
+but it is not definitive.
+
+The second major difference was in their fluidity. Fuller was already a seamless improviser who, 
+even at this young age, was able to perform solos that didn’t seem to have any gaps. He was never 
+caught by surprise and seemed to go from one idea directly to the next. Hampton seems to be thinking 
+about everything he plays on this record until just before he plays it. This is in stark contrast to four
+
+30
+Hampton, Slide. Phone Interview. May 22, 2018.
+
+---
+
+years later in 1962 when he would win the **New Star** award from *Down Beat.*  Look at the fluidity he 
+shows over this three-minute improvisation over Charlie Parker’s “Confirmation” recorded with his 
+octet on their *Exodus,* LP.  In figure 8 below, look at measure 19 where Slide uses Johnson’s triplet lick 
+nearly verbatim.
+
+13 Bb⁷ Am⁷ D⁷(b9) Gm⁷ C⁷ Fmaj7
+
+17 Cm⁷ F⁷ Bbmaj7 3 3 3 3
+
+**Figure 8: Slide using Johnson’s triplet** lick from *“Confirmation”.* Transcribed by 
+Brian Scarborough, www.brianscarboroughmusic.com/resources, accessed 6/25/2018.
+
+In measures 39 and 40, which takes place in the second chorus, he uses half-step sequencing ala 
+Johnson as well.  Take note of how he ends the second A section in measure 48, the F <sup>5</sup>which he closes 
+his phrase on. This is a herculean achievement as most trombonist would not be able to work as cleanly 
+in that register, particularly at 230 beats per minute.
+
+$$
+\mathbf{F}^{5}
+$$
+
+---
+
+Bb⁷ Am⁷ D⁷ G⁷ C⁷
+
+Fmaj7 Eø⁷ A⁷(b9) Dm⁷ G⁷ Cm⁷ F⁷
+
+Bb⁷ Am⁷ D⁷ Gm⁷ C⁷ Fmaj7
+
+**Figure 9: Slide's Herculean Achievement:** from *“Confirmation”.* Transcribed by 
+Brian Scarborough, www.brianscarboroughmusic.com/resources, accessed 6/25/2018.
+
+The feat done once is amazing. Doing it twice is really unbelievable, but he does it in middle of 
+chorus 5 measures 145-148 which are the first four bars of the B section. And this second time, he bends 
+the note between F<sup>5</sup> and D<sup>5</sup> to show his mastery of lip flexibility. See figure 10 below.
+
+$$
+\mathbf{F}^{5}
+$$
+
+Cm⁷ F⁷ Bbmaj7 45
+
+**Figure 10: Mastery of lip flexibility:** from *“Confirmation”.* Transcribed by Brian 
+Scarborough, www.brianscarboroughmusic.com/resources,accessed 6/25/2018.
+
+---
+
+The third subject, **Julian Priester,** is by far the least recognized of the four. Priester’s career 
+moved into many different arenas over the years. In fact, he was exploring the Avant-garde through his 
+association with Sun Ra in the mid-1950’s while still in DuSable, High School in Chicago, Il. By 1958 
+he was regularly making trips to New York and records the first important record of his career as an 
+improviser, *Blues for Dracula,* with drummer Philly Joe Jones. It was on this recording that one can 
+really hear Priester stretch out for the first time.
+
+On *Keep Swinging* his first date as a leader one can hear Julian showing his master of tone and 
+range much like Johnson making the upper register sound effortless.  Consider the turn-around of the 
+end of the first chorus and the second chorus of this G-Blues that Julian composed called, “Under the 
+Surface”. This solo goes up to a C-sharp<sup>5</sup> in measure 8 of the second chorus, this the altissimo register of 
+the trombone but Julian just sings in that register. Unfortunately, I was not able to formally interview
+
+---
+
+Mr. Priester to find out whether or not he uses “against the grain” in his playing, which is quite possible 
+considering the shape of the lines.
+
+Am7 D7 Am7 D7 #5 Bm7 E7 Am7
+
+G7
+laid back
+C7
+G7
+Db7
+maj7
+
+C7
+G7
+Eb7
+E7
+
+Am7
+D7
+Bm7
+E7
+Am7
+-
+
+**Figure 11: Possible use of use “against the grain”:** From “Under the Surface”. 
+Transcribed by Don Sickler, 2009.
+
+On “Juliano” from the same recording, Priester is in fine form once again and here he, much like 
+Johnson, displays an affinity for the triplet as a rhythmic figure in his improvisations. Julian uses triplets 
+as an entry figure quickly highlighting several of the chord tones to start his lines. See figure 12 below, 
+which highlights the first four bars of the B section of the third course where he is trading with fours 
+with Elvin Jones. Notice both measure 1 and 3 use identical entrances to the line. Both start with an 
+eighth note pickup into beat 2. Also notice he is using the material cyclically as it goes through two keys over the four bars.
+
+4s with Drums
+
+Elvin Jones
+
+$\textcircled{B}$ Fmaj7
+
+Fm7
+
+Bb7
+
+Ebmaj7
+
+Ebm7
+
+Ab7
+
+Dbmaj7
+
+#5
+
+**Figure 12: Trading Fours:** From “Juliano”. Transcribed by Don Sickler, 2009.
+
+The final subject, **Grachan Moncur, III,** is the youngest of the subjects. His solo work really 
+begins in the early 1960s. Amongst some of his earliest recorded improvised solos were those he took 
+while working with the Art Farmer and Benny Golson Jazztet. He replaced Tom McIntosh who had 
+replaced Curtis Fuller in the Jazztet and as such played the hard bop style and played it well. This really 
+is a stark contrast to the work he did as one of the leading trombonists of the next area, the Avant Garde 
+era.
+
+On his first recording with the band was his original blues, “Sonny’s Back.” Here even my 
+interviewees forgot that it was Grachan and not Curtis Fuller.  Grachan’s use of blues and bebop in 
+combination is strikingly similar to Fuller’s. Take note of his second chorus on this F-Blues.  This solo shows that Grachan’s tone and clean clear bebop lines is constructed very much in the same style as 
+Fuller and visa vis Johnson.
+
+24 Gm7 C7 F13 B Bb13 F13
+
+29 Bb13 F D7 b
+
+33 Gm7 C7 F7 Dm7 Gm7 C7
+
+**Figure 13: Grachan or Fuller?** From “Sonny’s Back”. Transcribed by Edward Fast, 
+2018.
+
+Moncur stands as the transitional figure between hard bop and Avant garde. As such, one can 
+find evidence of the changeover in style. Interviewee Andre Hayward said of Grachan and Julian 
+Priester that they were, “Conceptual players rather than technicians.” Some of this can be found in the 
+landmark recording he made with Jackie McLean, *Destination Out!* Consider the track “Riff Raff”. In 
+keeping with the Hard Bop era, the piece is a minor blues and has only 4 chords. Moncur builds a solo 
+that starts with bop lines and ends with rhythmic figures used just as J.J. Johnson would have.
+
+---
+
+1 Dm
+mf maj7
+
+Gm
+Dm
+
+Bb7 A7 Dm
+
+**Figure 14: From bop to rhythmic figures** From “Destination Out”. Transcribed by 
+Don Sickler, 2013.
+
+---
+
+## Chapter 3: Interviews
+
+This chapter includes extensive interviews with two of the artists, Grachan Moncur III and Slide 
+Hampton, in which they speak specifically about the Hard Bop era.<sup>31</sup> One of these interviews was 
+conducted via telephone, while the other was conducted in person. Unfortunately, the third and fourth 
+interviews could not take place as planned either due to the subject’s advanced age and health condition 
+or lack of follow-up, despite repeated attempts to reach out.
+
+The following list of questions were originally created to gather a general understanding of each 
+artists relation to music:
+
+1. What was your musical background?
+
+a. How did you decide to play the trombone?
+
+b. Who were your primary teachers?
+
+2. What trombonist had an influence on you?
+
+a. Did you transcribe any of their material?
+
+3. What was it like working with…...?
+
+4. Is there one particular recording from this era of your career that you are proud of or 
+found of?
+
+5. As you recall what was your improvisational concept during this time?  Were you 
+working on anything in particular?
+
+6. Who were some of your favorite trombonists of this era?
+
+The first question with two follow-ups (a & b) was intended to get a sense of their technical 
+background on the horn. The second question and follow-up was posed to learn who inspired them on 
+the instrument while they were still developing as players. The third question was asked to allow them to
+talk about the significant artists they had worked with during the Hard Bop era. The fourth question
+
+<sup>31</sup>At the writing of this document, all of the subjects are in their 80’s. Three have faced serious medical issues. Two have had
+challenges keeping housing and one is in an assisted living facility.
+
+---
+
+gives them the opportunity to single out a favorite recording from the Hard Bop era. Importantly, the 
+fifth question speaks directly to their improvisational concept during that period. While the final 
+question allows them to speak freely, and on general terms about any or all of their contemporaries.
+
+Due to limited ability to conduct personal interviews with two of the subject, a revised set of 
+questions was created to gain perspective from associates that knew the subjects personally. It is hoped 
+that a similar perspective can be gained from this set of questions:
+
+1. When did you first listen to the artist?
+
+2. How did you end up meeting the artist?
+
+3. Did you study formally with him?
+
+a. If yes what specifically did you work on?  Technique, Improvisation or both.
+4. Where would you say the artist belongs in the lineage of jazz trombonist?
+
+5. What recording from 1955-1964 do you think demonstrates the talent, skill, virtuosity of the 
+artist?
+
+6. In your opinion, is there something that the artist did during that time which separates him from 
+other jazz trombonist of this era of jazz history.
+
+The rationale for asking the first question was to get a sense of when they first became aware of the 
+subject’s music. The second question was posed to establish exactly when they met the artist and began 
+their personal relationship. The third question is the most important as it allows the protégés to speak 
+about what they learned from the subjects. While the question specifically says study, it was designed to 
+get a “yes and” or “no but” response that would direct the conversation to intimate details of what they 
+had learned from the subjects firsthand. The fourth question was designed to have the protégés consider 
+the lineage of the jazz trombone as set out in this document and then put the four subjects into historical 
+perspective. The fifth question asks the protégés to discuss specific recordings of the subjects from the 
+Hard Bop era and discuss the talent, skill and virtuosity of the subjects. The final question asks the 
+protégés to discuss what they feel separates the subjects from other jazz trombonists of the Hard Bop 
+era.
+
+---
+
+30
+
+---
+
+#### Grachan Moncur III
+
+Grachan Moncur III was the first subject I was able to contact. I reached him by phone and we 
+spoke for approximately an hour. Moncur was honored to be part of the project and was extremely open 
+about the time period in question. He was adamant that while he understood the subject matter of the 
+project, he wanted it known that it was just the beginning of his career. He talked about how it was just 
+at the beginning of the 1960s he was moving to New York from New Jersey and was beginning to 
+establish what would be the peer group that began to define his career.
+
+In response to question number one (what was your musical background?), Mr. Moncur said, 
+“Music was always around my house.  My father was a musician.  He’s the reason I started playing the 
+horn.  He had an old baritone horn which I started playing on when I was little.”  He went on to say that 
+“In middle school I started taking lessons at a local music store in town.” Mr. Moncur made clear that 
+these lessons were all classical technique and etudes etc.
+
+In response to question two (what trombonist had an influence on you and did you transcribe any 
+of their material?), Mr. Moncur did not respond directly to this question, but in our conversation of other 
+things, he did mention how much respect he had for J.J. Johnson.
+
+In response to question three (what was it like working with the Jazztet?), Mr. Moncur said, “I 
+was very excited to get the gig. Benny Golson was very encouraging of me as a writer. The band was 
+very tight and I got room to play unlike playing in the big band with Ray Charles.” When asked what it 
+was like to be Curtis Fuller’s replacement in the Jazztet. He admitted, “I couldn’t replace him. I just did 
+what I could do.”<sup>32</sup> Moncur’s candid words make clear the perceived gap between Curtis Fuller’s
+
+32
+Moncur, III, Grachan. Phone Interview. July 14, 2017.
+
+---
+
+playing and his own at the time. It also highlights the amount of respect Fuller had gained in just under a 
+decade on the scene within his peer group.
+
+The fourth question (is there one particular recording from this era of your career that you are 
+proud of/found of), he began discussing recordings from later in the decade which lead to a lengthy 
+digression. He would not directly answer the question. He instead asked me what my favorite was and 
+why? I told him that I loved *Some Other Stuff* with Wayne Shorter. Despite not being a part of the time 
+period of this project, I had to confess that I really loved *Echoes of Prayer.* His playing was just 
+incredible on that recording. He said, “well there you, go”.<sup>33</sup> As a researcher, I was not initially sure 
+how to take this type of response. Upon reflection, I infer that he is proud of all of the recordings he has 
+made and does not have a favorite. Each of his recordings holds its own place in his heart.
+
+When asked question number five (as you recall what was your improvisational concept during 
+this time?  And Were you working on anything in particular?), Mr. Moncur spoke of the importance of 
+people like Lee Morgan, who he practiced with often, as being influential in his development as an 
+artist. He said that Jackie McLean was also practicing and working with him quite a bit during this 
+period. He added that, “we were about freedom.” He then went back to his time with the Jazztet and 
+talked about how the great drummer Rasheed Ali had worked just one week with the Jazztet after Lex 
+Humphries left. He said, “Benny Golson and Art Farmer really didn’t dig his playing at all.  They were 
+used to this very conservative bebop playing that Lex played.  We were however trying to leave that 
+stuff behind.”<sup>34</sup>
+
+33
+Ibid
+
+34
+Ibid
+
+---
+
+Initially I looked at his saying, “we were about freedom” as a very literal discussion of freedom 
+to improvise in a manner which they chose. Seen in historical context, one can understand freedom for a 
+young black man in his 20’s during the early 1960’s would not solely be on musical terms, but also 
+socio-political ones as well. He closed his statement with, “we were however trying to leave that stuff 
+behind”. This is reflected in the material he was writing as a leader at the close of this period of his 
+career. It was not only musically free, but it was demanding the socio-political freedoms that African-
+Americans were searching for.
+
+Finally, I asked Mr. Moncur who some of his favorite trombonists of this era were. Again, he 
+would not directly respond to this question. He simply said, “I was doing my thing. I was totally focused 
+on my own projects.”<sup>35</sup> I was surprised by this response because there is a line of thinking that considers 
+the trombone community as a family that loves and supports one another. Upon further reflection, his 
+sentiment makes sense in the context of his career at that point in time. He was at the pinnacle of his 
+career as an artist and had no time to really stand by and admire others. He only had time to focus on 
+being the best he could be.
+
+The interview concluded with a promise to do a follow-up interview in-person. Unfortunately, 
+Mr. Moncur, who just six weeks earlier had turned 80 years old, was in the process of moving and we 
+lost touch. Life circumstances are increasingly difficult for a man in his 80s. One compounding factor is 
+that some of the African-American jazz musicians of this period spent so much time playing and 
+creating art, not to mention providing for their families, that they do not have the types of support 
+systems others have to sustain them at the age they are now.
+
+<sup>35</sup>Ibid
+
+---
+
+#### Summary of Protégé Responses on Grachan Moncur III
+
+In response to the first question (when did you first listen to the artist?), Steve Davis and Andre 
+Heyward seemed to have had the most contact and knowledge of Mr. Moncur’s work. Both recalled first 
+having heard him play with Jackie McLean on the Bluenote recordings with Moncur and McLean in the 
+1960’s. They both talked about the impact of Jackie McLean’s 1963 record, *Destination…Out!,* as 
+having been particularly important to them. Steve Davis said, “Moncur’s sound on that record was 
+revelatory. It was the first time we heard anyone play with that sound concept.”<sup>36</sup>
+
+Question number two was designed to establish when the protégé's met the subjects. What ended 
+up happening were digressions by all of the protégé's about the scene. The scene is a hang-out venue 
+where musicians interact with each other on and off the bandstand. The scene exists everywhere the 
+music does and includes all the places (bars, clubs and restaurants) where musicians play and 
+congregate. The scene allows the space for social networking by musicians. It is where they get the 
+opportunity to listen to and play with each other via jam sessions. It is also used as a recruitment service 
+hiring fresh musicians who have been active on the scene. Andre Heyward’s recollection is a prime 
+example of this as he recalled having met Moncur at a club once he had moved to New York in the 
+1990’s. Steve Davis did have a more conventional meeting at a master class while he was a student at 
+the University of Hartford. Steve also recalled how his professor Jackie McLean had placed he and 
+fellow student John Hasselback, Jr. in charge of driving Mr. Moncur around that day, giving he and 
+Hasselback the time to talk with him and ask questions freely.
+
+In response to question three (did you study formally with him? And if yes what specifically did 
+you work on? Technique, Improvisation or both.) only Heyward had taken a lesson with him and he said
+
+36
+Davis, Steve. Personal Interview. January 1, 2018.
+
+---
+
+that they had worked on the melodic information from etudes (Tyrell, Marcellus). He said that he had 
+also worked on articulation. Mr. Moncur stressed that it didn’t all have to be attacked; you can use 
+vowel<sup>37</sup>.  This remembrance by Mr. Heyward about articulation is important because it speaks to the 
+sound that Steve Davis spoke of earlier. It is one of the reasons that Moncur sounds the way he does.
+
+Question four (where would you say the artist belongs in the lineage of jazz trombonist?) 
+resulted in varied responses. All of the protégés felt that Moncur’s playing had been extremely important 
+as the bridge to the Avant garde style. Steve Davis said, “Grachan’s writing and playing on evolution is 
+unique and seminal as well as are his contributions to *One Step Beyond* and *Destination Out!”<sup>38</sup>* He 
+added that Jackie Mclean had said of Grachan, “that he admired his nerve and his writing”.<sup>39</sup>
+
+In response to question five (what recording from 1955-1964 do you think demonstrates the 
+talent, skill, virtuosity of the artist?), all of the protégés agreed that Moncur’s work on *Destination… 
+Out!* had been extremely important. They felt it showcased not only his playing, but also his 
+compositional prowess as he had written three of the four songs on the record.
+
+The responses to the last question (In your opinion, is there something that the artist did during 
+that time which separates him from other jazz trombonist of this era of jazz history?), Andre Heyward 
+felt strongly that Grachan’s concept had separated him from everyone else at this time. This 
+improvisational concept includes the use of intervals as a staple of his improvisations, and which breaks 
+completely away from the linear approach.  Moncur is able to do with a few intervals and minimal lines 
+what others would use line after line to do the same. In metaphoric terms, instead of an author who
+
+37
+Heyward, Andre. Phone Interview. September 26, 2017.
+
+38
+Davis, Steve. Personal Interview. January 1, 2018.
+
+<sup>39</sup>Ibid drafts an essay, much like a skillful poet, he pens a thoughtful haiku. This is why, for the purposes of 
+this study, he can be referred to as “The Tone Poet”.
+
+---
+
+Julian Priester
+
+**Julian Priester** can be considered the biggest mystery of the group of subjects. He moved to 
+Seattle in the late 1970s and has been a stalwart of that scene since he arrived. Even though he’s a major 
+part of the Seattle scene, not many people seemed to be able to get in touch with him directly. Finally, I 
+was able to connect with Master Trombonist Steve Turre and he was able to help me get connected with 
+Mr. Priester.
+
+After finally reaching him by phone, we only spoke for about 15 minutes. Regretfully, most of 
+this time was spent trying to establish trust and convey the reasons for my interest in a personal 
+interview. He promised a return call, but unfortunately, it never came and my repeated attempts to 
+contact him went unanswered. I came to find out that this was a very trying time for him as there had 
+been a Facebook campaign to raise money for him due to a housing issue. Due to the inability to 
+interview him personally, I proceeded with the protégé interviews. What follows is the summary of 
+those conversations about Mr. Priester.
+
+Summary of Protégé Responses on Julian Priester:
+
+In response to the first question (when did you first listen to the artist?),the protégés all said that 
+he was someone that they had started to listen to a bit later. Professor Steve Davis said, “Julian Priester 
+was the last one I heard. When I did it was initially his 1980s era Dave Holland records. Then I checked 
+out Freddie Hubbard’s, *Hubcap.*  And then The Max Roach recordings.”<sup>40</sup>
+
+This not only played out in this research, but seems to be even more the case when historians look at his 
+career. In the book *Jazz Bones* by Kurt Dietrich, he lists Priester’s periods of influence as Avant-garde
+
+40
+Davis, Steve. Phone Interview. January 1, 2018.
+
+---
+
+and Fusion.<sup>41</sup> This seems to completely ignore a whole decade of his career. He was such a great stylist, 
+able to fit into whatever situation he found himself, whether that was in the band of Philly Joe Jones, 
+Max Roach or Duke Ellington. Due to his resourcefulness as a musician, can be considered a musical 
+chameleon of sorts for the purposes of this study.
+
+When asked question number two (how did you end up meeting the artist?), the artists once 
+again related stories of being on the scene. In this case, instead of New York, it was Seattle. All of the 
+protégés met Priester after they had already started their own careers as jazz musicians.  Both Steve 
+Davis and Andre Heyward related stories of having met him while on the road.  Davis said his first 
+meeting had been as a member of Art Blakey’s Jazz Messengers. Heyward said that he had met him 
+while on the road with the Lincoln Center Jazz Orchestra.
+
+In response to question three (did you study formally with him? And If yes what specifically did 
+you work on?  Technique, Improvisation or both), Heyward had taken a lesson with him while on tour 
+with the Lincoln Center Jazz Orchestra. He talked about how highly organized Priester was.  He also 
+divulged about having been shown Priester’s practice notebook. This is significant because most jazz 
+musicians currently have or have had a notebook like this at some point. Such a notebook is important 
+because it represents a direct look into the mind of any improvisor. A notebook reveals exactly what the 
+author was working on while taking notes. I asked Mr. Heyward what he could remember seeing inside 
+of the notebook. He disclosed that, “it was just filled with page after page of lines over standard chord 
+change. But he also had some things that were not at all like that.  I can only describe them as shapes.”<sup>42</sup>
+
+41
+Dietrich, Kurt. *Jazz 'bones The World of Jazz Trombone.* Rottenburg.: Advance Music, 2005.
+
+42
+Heyward, Andre. Phone Interview. September 26, 2017.
+
+---
+
+As an aside, before the interviews it was assumed that many of the protégés would not have 
+taken formal lessons. A second assumption was that they would, however, have stories of influential 
+advice or stories given to them from the subjects that might speak to role in the Hard Bop era. One such 
+story come from Steve Turre.
+
+Mr. Turre, spoke of his relationship with Julian Priester more as that of a friend or colleague. 
+While he was not clear as to where he had first met Julian, biographical research indicates that it had 
+most likely happened in San Francisco before Turre moved to New York. In the interview he talked 
+about how much Priester loved Johnson and related a story that Julian had told him about the one time 
+he heard J.J. Johnson sound less than perfect. He depicted a scene in which, “Julian was at this spot in 
+Brooklyn in the early 60’s one night for the jam session. As the story goes, J.J. walked in to the session 
+and started playing. But Johnson was not playing like himself, his playing wasn’t polished you could tell 
+he was working things out in front of us.”<sup>43</sup> This rare account of Johnson in less than peak shape, 
+interesting as it may be, is not relevant to this project. Rather, it is more important to focus on the fact 
+that Julian Priester was taking in every note the master played. It speaks directly to Johnson’s influence 
+on him.
+
+Responses to question four (where would you say the artist belongs in the lineage of jazz 
+trombonist?) were complex. While all the protégés agreed that Priester was an important part of the 
+lineage of jazz trombonist, Andre Heyward’s response to this question sums up the relevance of both 
+Mr. Priester and Mr. Moncur.  He noted that, “Grachan & Julian pushed the music beyond the initial
+
+<sup>43</sup>Turre, Steve. Phone Interview.  September 19, 2017.
+
+---
+
+impact of J.J.”<sup>44</sup> This can be further evidenced in the case of Priester when one considers that he is held 
+in highest regard for his playing after this period.
+
+Question five (what recording from 1955-1964 do you think demonstrates the talent, skill, 
+virtuosity of the artist?) evoked the same response by all protégés. They agreed that *Keep Swinging, 
+1960* was the recording that best displays his virtuosity during this period. It was hoped that one of them 
+would have had an affinity for one of the 1950’s recordings with Philly Joe Jones or Max Roach, but 
+they all seemed most familiar with his work from the solo record, *Keep Swinging.* They commented that 
+they loved his tone and that his approach contrasted with the other subjects. Andre Heyward observed 
+that, “Julian’s playing on *Keep Swinging* makes you think of J.J. but with a stronger connection to J.J.”<sup>45</sup>
+Question six (In your opinion is there something that the artist did during that time which separates him 
+from other jazz trombonist of this era of jazz history), rendered the most surprising results. None of the 
+protégés could point to any one thing that Priester was doing at this point in his career that separated him
+from anyone else. While surprising as a response, it reinforces the view of historians that have regarded 
+his most impactful periods of work as part of another era.
+
+#### Locksley “Slide” Hampton
+
+Locksley “Slide” Hampton had been a mainstay on the New York jazz scene for many years. Of 
+any of the subjects, he would appear to be the easiest to contact. However, Slide had been battling some 
+health challenges during the research phase of this dissertation. Fortunately, he was able to recover 
+during the drafting process and as fate would have it, the author shared the same train to Pittsburgh, but
+
+<sup>44</sup>Heyward, Andre. Phone Interview. September 26, 2017.
+
+45
+Heyward, Andre. Phone Interview. September 26, 2017.
+
+---
+
+for different gigs. The connection made on this train ride proved to be important because he agreed to a 
+phone interview in the subsequent weeks.<sup>46</sup>
+
+Slide Hampton had recently turned 86 at the time of the interview. While he was still very clear minded; 
+his responses were brief at times.
+
+Question one (what was your musical background? And How did you decide to play trombone?) 
+was answered by Slides differently than the other musicians in that music was his family’s business. 
+They had been a very well-known territory band out of Indianapolis, Indiana. Slide revealed that he 
+didn’t chose the trombone, the circumstances had determined the instrument for him: “I came from a 
+family of musicians and we had a family band. The band needed a trombone player.  So, it was pressed 
+upon me.”<sup>47</sup>
+
+The follow-up question was, who were your primary teachers? Slide responded, “My father 
+taught me. And school.”<sup>48</sup> This is revealing because Slide Hampton went to the same High School that 
+J.J. Johnson had graduated from. J.J. was not just someone whom he had heard on record, but someone 
+that everyone around him at home was speaking of with pride and adoration; pointing to him in the 
+direction Slide should go if he was to have success.
+
+Slide’s response to question two (what trombonist had an influence on you? And did you 
+transcribe any of their material?) provides direct evidence that he was influenced by J.J. Slide confirms 
+that, “J.J. Johnson had a major influence on me.  We listened to a lot of J.J. and Bird.” He did not 
+directly respond to the question about transcribing. This may be because there were few resources for
+
+46
+Special thanks to Peter Lin for making this interview possible.
+
+47
+Hampton, Locksley. Phone Interview. May 22, 2018.
+
+48
+Hampton, Locksley. Phone Interview. May 22, 2018.
+
+---
+
+jazz education during this time. On a personal note, the author has had several masterclasses with Slide 
+Hampton over the years in which he always emphasized the development of one’s ear and talked about 
+transcribing. This suggests that ‘learning by ear’ was how he absorbed this material to gain a sense of 
+J.J.’s style.
+
+In asking Slide question number three (what was it like working with…...?) the specific goal was 
+to find out what is was like making the two-trombone record with Curtis Fuller. Slide started initially by 
+relishing that, “Even the bad work was good back then.  We traveled a lot.” After being directly asked 
+what was it like making the two-trombone record with Curtis Fuller in 1958, Slide admitted that, “Curtis 
+was an idol of mine and I was intimidated.  But I needed the money.” This response left more questions 
+than answers. Unable to get elaboration on these matters, the historical record of the time indicates that 
+Curtis had taken New York City by storm since arriving. In fact by the 21 records Curtis made in the 
+first year he clearly had made a name for himself. Slide was not as recognized then as he would be in the 
+next few years. This makes a certain level of intimidation plausible.
+
+The following question inquired why the company didn’t originally release the record.  Slide 
+answered that, “The company was having a hard time distributing things at that time.” This seems 
+strange as Bluenote was assumed to be a powerhouse jazz label during this time period. However, the 
+shelving of a record is a regular occurrence in the world of recorded music.
+
+Question four (is there one particular recording from this era of your career that you are proud of, 
+or found of?) was not answered directly. He gave the impression that he was trying to think of 
+recordings that fit the exact time frame. After reading through his discography for this time period (see 
+appendix) and listing his octet records he briefly opined that, “I like those”. After prodding, he added that he was not playing the way he wanted because he had been so focused on writing the project. As 
+detailed in chapter three, it is widely recognized as some of his finest playing.
+
+To question five (as you recall what was your improvisational concept during this time?  Were 
+you working on anything in particular?) Slide responded, “I didn’t have a lot of time to practice on the 
+instrument then as I was focused on writing.  We played a lot back then, but I wasn’t focused on the 
+horn then the way I am now.”<sup>49</sup> This reinforces the view of the strength of commitment and talent 
+exhibited by Slide Hampton. Slide has always had a reputation of having practiced veraciously. But he 
+feels that during this time he hadn’t really put in the time to develop any specific concept.
+
+Slide answered question six (who were some of your favorite trombonist of this era?) without 
+hesitation, naming Curtis Fuller and Dick Nash. His responding so quickly and confidently with Curtis 
+was not shocking, but Dick Nash was a bit of a surprise. He’s not a name that most would connect with 
+this era at all. However, considering the amount of arranging that Slide was doing, in addition to 
+working as a trombonist, it makes sense that he would think so highly of one of the preeminent lead 
+trombonists of all time.
+
+Summary of Protégé Responses on Locksley “Slide” Hampton:
+
+In the opinion of most, including those interviewed for this study, Slide occupied less of an 
+important role as a player during this period. The more important role was that of a writer. This seems 
+counterintuitive because in 1957 he recorded with Curtis Fuller the only two-trombone date that is 
+representative of this generation. Also, the French recordings of his legendary octet find him in fine
+
+49
+Hampton, Locksley. Phone Interview. May 22, 2018.
+
+---
+
+form on a handful of standards including Charlie Parker’s “Confirmation”. He does however exhibit the 
+smallest output as a soloist of any of the four subjects in this dissertation.
+
+When asked question one (when did you first listen to the artist?), all but two of the protégés 
+pointed to his 1979 recording, *World of Trombones.* The only one that didn’t was Clifton Anderson 
+because he was actually part of the group, though he did not make the recording for *World of Trombones* 
+(further details below). James Burton actually pointed to a rather unusual first hearing of Slide.  He said, 
+“The first time I heard Hampton was on the Cosby Show when he was the sound behind the trombone 
+playing of Cliff Huxtable’s father. “<sup>50</sup>
+
+The responses to question two (how did you end up meeting the artist?) were all rather 
+consistent. All the protégés had met him in New York. Clifton Anderson and Steve Turre have had the 
+longest standing relationship with Hampton. Clifton Anderson had met Slide initially through his Uncle 
+Sonny Rollins, but became better acquainted with him as he started to seek the scene out for himself 
+beginning in college. The only exception in this particular case was James Burton, who had initially met 
+Hampton as a student at the University of Hartford<sup>51.</sup> James continued that after the initial meeting they 
+became closer once he had moved to New York and begun seeing each other on a more regular basis.
+
+To question three (did you study formally with him? And If yes what specifically did you work 
+on? Technique, Improvisation or both) Jay Ashby said that he had taken lessons with Slide once a month 
+beginning in the mid-1980’s. He said they worked on playing Bebop heads in all 12 keys and 
+endurance.<sup>52</sup> He went on to say that they were rather informal get togethers. This is consistent with what
+
+<sup>50</sup>Burton, James. Phone Interview. September 27, 2017.
+
+<sup>51</sup>Ibid
+
+52
+Ashby, Jay. Phone Interview. September 21, 2017.
+
+---
+
+James Burton III described in his account. James Burton spoke of the informal hangs he had with Slide 
+when he moved to New York in the early 2000’s<sup>53</sup>. Mr. Burton said, “that there would be several young 
+trombonists there playing slides arrangements and taking whatever, they could by ear.” Slide was also 
+known to answer any question on playing right on the spot. Trombone players still come to his
+performances in droves and he answers questions one after the other until they are satisfied.
+
+When asked question four (where would you say the artist belongs in the lineage of jazz 
+trombonist?) all of the artists agreed that Slide belonged right after Curtis in the lineage. Asked to 
+elaborate further, they related with wonderment about his virtuosic ability to improvise. His impressive 
+altissimo register was also mentioned as a reason for this top placement.
+
+In response to question number five (what recording from 1955-1964 do you think demonstrates 
+the talent, skill, virtuosity of the artist?) the protégés were in consensus that there wasn’t enough 
+material from him during this period. Steve Davis lamented that, “Slide was woefully under-recorded in 
+his prime”<sup>54</sup>.  Initially this response was confusing as he had indeed recorded quite a bit as a leader. But 
+as Slide had said himself, he was so focused on writing that the volume of improvised solos is less than 
+from Curtis Fuller. Looking at Slide’s discography from this period, although he recorded at least nine 
+times as a leader, none of those were in a small group (quintet or less) format that would have given him 
+ample room to showcase himself as an improviser.
+
+The protégés responses to question six (in your opinion is there something that the artist did 
+during that time which separates him from other jazz trombonist of this era of jazz history) was met with
+
+<sup>53</sup>Burton, James. Phone Interview. September 27, 2017.
+
+54
+Davis, Stephen K. Personal Interview. January 1, 2018.
+
+---
+
+initial bewilderment. A consensus did eventually form that Slides arranging separated him from the 
+other three subjects.  He was really known more for his writing during this period.  The only major 
+recognition for his playing came in 1962 when he won the new star award from Down Beat. Although 
+Slide was not working a lot as a solo artist or much in small groups during this time, what he was able to 
+record was well-received.
+
+#### Curtis Fuller
+
+At the time of this writing, Curtis Fuller was in an assisted living facility and under the care of 
+his adult children. He still occasionally receives visitors, but is no longer playing and memory is an 
+issue. These circumstances made a personal interview impossible. Hence, for this section, the responses 
+of his protégés will substitute for direct answers.
+
+Summary of Protégé Responses on Curtis Fuller:
+
+---
+
+In response to question number one (when did you first listen to the artist?) all of the protégés 
+recalled Curtis being the second major jazz trombonist they had heard after J.J. Johnson. They also 
+recalled having had this experience in High School, with most pointing to Fuller’s work with John 
+Coltrane (*Blue Train)* and Art Blakey and the Jazz Messengers as their first recorded encounters with 
+Fuller.
+
+This consistency in their answers speaks to the importance of Fuller’s work in these ensembles. 
+A high school student studying music would not necessarily pick up these recordings. They would need 
+to be recommended to them by some elder who felt Mr. Fuller exemplary enough to stand as an example 
+to budding young musicians. *Blue Train* was cited as the first recording every interviewee had heard of 
+Curtis Fuller.
+
+Question number two (how did you end up meeting the artist?) did not bring the type of 
+responses that characterized those of the other subjects. In the case of Curtis Fuller, all the artists seemed 
+to have had pretty casual first meetings with Curtis at his performances. While this may seem 
+underwhelming, upon second thought, it demonstrates how active he had to be as a performer for all 
+these interviewees to have met him at a performance. The only interviewee who had not initially met 
+Mr. Fuller at a performance was James Burton, who had Curtis as a teacher at Skidmore while in 
+college.
+
+In response to question three (did you study formally with him? And, if yes what specifically did 
+you work on?  Technique, Improvisation or both.), James Burton is the only protégé to have officially 
+taken a lesson with Curtis. He relayed the following about Fuller’s influence: “I studied some with 
+Curtis both at Skidmore and Betty Carter Jazz Ahead. We worked on articulation and fluidity.  The 
+biggest conceptual thing he laid on us was that he listened to Brahms string quartets before bed and the breadth and beauty of the sound.”<sup>55</sup> This corroborates with the author’s personal memories of meetings 
+with Fuller. As a teenager he emphasized to me how much important information was inside the 
+Arban’s book. He quoted exact pages where exercises could be found, then demonstrated how to fluidly 
+play them all over the horn. Steve Davis recalled, “I never took lessons but I did get to go to his home on 
+a few occasions and spend the day. We played some and I mostly just absorbed what he had to say about 
+everything.
+
+In response to question number four (where would you say the artist belongs in the lineage of 
+jazz trombonist?) the subjects all agreed that in the lineage of jazz trombonists, Curtis Fuller is right 
+after J.J. Johnson in his importance. The crux of the responses had to do with volume of work and who 
+he played with during this time period. When the top jazz artists from this area needed a trombonist, 
+most often they called Curtis Fuller first. In fact, Curtis was on a record with nearly every major tenor 
+saxophonist of the Hard Bop era, people like John Coltrane, Benny Golson, Joe Henderson and Wayne 
+Shorter just to name a few. Bear in mind that the tenor saxophone is one of the principal instruments 
+during this era of jazz history.
+
+The responses to question number five (what recording from 1955-1964 do you think 
+demonstrates the talent, skill, virtuosity of the artist?) seemed to be the most fun for everybody to 
+answer. The protégés all spoke of the importance of hearing Fuller play alongside John Coltrane on *Blue 
+Train.* Coltrane was one of the artists to really define the era through his playing. Many artists were 
+struggling to keep up with Coltrane during this period of his career. Curtis did however stand strong and 
+play with a type of virtuosity and finesse that complimented Coltrane as it was modern and fresh.
+
+55
+Ashby, Jay. Phone Interview. September 21, 2017.
+
+---
+
+The record that was a close second was *Ugetsu* by Art Blakey and the Jazz Messengers. The improvised 
+section on the outro (which is not included in any of the published transcriptions of Curtis on that song) 
+was mentioned as especially impressive. It displayed Curtis’s ability to play “quotes”. Quotes are the 
+super-imposition of a familiar melody into a song where it does not belong. The protégés all remarked 
+that during this outro vamp, instead of playing lines as Wayne Shorter and Freddie Hubbard did, Curtis 
+Plays four bars of, “It Never Entered Mind”. This may seem anti-climactic, but it actually shows the 
+ability of the simplest melody to cut through on a trombone.
+
+In response to question six (in your opinion is there something that the artist did during that time 
+which separates him from other jazz trombonist of this era of jazz history), the protégés gave good 
+answers in which two stood out. Jay Ashby, who was selected because he has spent a lot of time under 
+the tutelage of Slide Hampton, praised Fuller: “Curtis because he stood with some of the greatest 
+innovators of the music ever. His ability to play quartal and pentatonic.  Curtis Fuller used the 
+improvisational language of John Coltrane and Wayne Shorter.”<sup>56</sup>
+
+The last sentence of that statement deserves particular attention. Simply paying attention to 
+Curtis does not consider who he was playing with. John Coltrane and Wayne Shorter were regularly 
+incorporating “sheets of sound” into their solos. A device where saxophonist play a seemingly endless 
+stream of notes for a few beats/measures. The simplistic nature of holding a large tube with a 
+mouthpiece on the end, as Curtis would often tell students in master-classes, would leave most feeling 
+out-gunned. Despite the more complicated nature of doing something like “sheets of sound” on 
+trombone, Curtis finds all types of devices to keep pace with more technologically advanced instruments 
+(i.e. saxophone).
+
+56
+Ashby, Jay. Phone Interview. September 21, 2017.
+
+---
+
+Steve Davis summed up Fuller’s importance to jazz of this era with a reference to Star Wars: 
+“Curtis expanded the phraseology with his use of lines and arpeggios. (think triplets and his use of 
+them). The most fluent of all the trombonist of this era. “He’s like Yoda”.<sup>57</sup> While Steve laughed after 
+saying that Curtis was like Yoda, there is something to be said about how all the Protégés looked to 
+Curtis as a master source of inspiration. Clifton Anderson said, “I was exposed to J.J. very early on, but 
+when I heard Curtis he just spoke to me. His tone was unique and he was swinging.”<sup>58</sup>
+
+57
+Davis, Steve. Personal Interview. January 1, 2018.
+
+58
+Anderson, Clifton. Personal Interview. October 7, 2017.
+
+---
+
+## Conclusion
+
+According, to Steve Davis- “there is a gap between major periods of output by trombone”<sup>59</sup>. 
+While J.J. Johnson has been recognized by jazz historians as the greatest jazz trombonist of all time, less 
+scholarly attention has focused on those who were in his periphery. Complementing Peter Lin’s master’s 
+thesis on Jimmy Cleveland, through historical comparison this dissertation analyzed the musical styles 
+of jazz trombonists that came after J.J. Johnson. My analysis shows the linkages to J.J. Johnson in the 
+Hard Bop improvisational style of Curtis Fuller, Slide Hampton, Julian Priester and Grachan Moncur III. 
+The current paper also documented, through personal interview, the stories of these four musicians in 
+their own words.
+
+At the beginning of the writing process, the youngest of the musicians analyzed, Grachan 
+Moncur III, was turning 80 years old. Fortunately, the questions posed to him during the interview were 
+met with clear answers that matched the researcher’s expectations. For example, he was able to 
+succinctly make the connection between his music and the Civil Rights movement on page forty-eight in 
+chapter three where he discusses freedom.
+
+This moment shared with Grachan was singular but, impactful. While I hoped for moments like 
+this with all my subjects it did show that largely the subjects were cognizant of what was taking place 
+with the Civil Rights movement, but were more focused on their career than politics. What emerged 
+from the interview was that no sustained, systematic or intentional effort was made to protest for Civil
+
+<sup>59</sup>Davis, Stephen K. Personal Interview. January 1, 2018.
+
+---
+
+Rights through their music. They mainly wanted to make the best music possible while providing for 
+their families. Their work during this time may have led to a political hue, but most often not.
+
+A second misconception that could be disentangled during the interviews was the idea that each 
+subject developed his style through some unique process. Here again, the answers provided during the 
+interviews suggest that the men used the same conventional methods that many trombonists have used. 
+Andre Heyward spoke of seeing Julian’s notebook.<sup>60</sup> But, this is not extraordinary. Anecdotal evidence 
+of Curtis Fuller’s use of the Arban’s book was provided, as were stories of Slide Hampton’s neverending pursuit of endurance on the instrument, and Grachan’s use of traditional etude books (Tyrell) to 
+glean melodic material.
+
+With these matters dealt with sufficiently, it was left to consider how each of these trombonist’s 
+individual styles worked to define the Hard-Bop Era in jazz history. The characteristics or monikers 
+used throughout this dissertation provide some insight:
+
+##### Grachan Moncur, III - Tone Poet
+
+One comment really stood out in an hour-long phone conversation with Trombonist Andre 
+Heyward talking about his time with all of the subjects. He said, “to me Grachan and Julian are like 
+poets on the horn.”<sup>61</sup>. This statement sums up the idea presented in the current project. The Avant Garde 
+were much like great poets. Telling a story without needing both chapter and verse. The era started out
+
+<sup>60</sup>Heyward, Andre. Phone Interview. September 26, 2017.
+
+<sup>61</sup>Ibid with one foot firmly in bebop. But by the time Mr. Moncur releases his first solo records, the traditional 
+constraints of language and harmony were fading and the most successful improvisors of the era were 
+yet to come.
+
+##### Julian Priester - the Chameleon
+
+Much like a chameleon, Julian Priester was able to change and adapt to any and every musical 
+situation he was in; all while putting his own special mark on it. In other words, his career is striking 
+with regard to the wide range of music he created and performed. He worked just about every angle 
+possible in jazz; from early jazz with his work with the Duke Ellington Orchestra in the 1960’s, to the 
+work he did with Sun Ra as a teenager that was at least a decade if not more a head of its time. He had 
+seemingly done it all. And unlike any of the others, he spent a good part of his career teaching.
+
+##### Slide Hampton - The Thinker
+
+Slide Hampton was the Thinker of the group. This is because, during most of the Hard Bop Era, 
+the careers of the other men as trombonists focused on one particular role, player. Conversely, Slide was 
+focused on orchestrating the sound of the era. He wrote arrangements for big band, small group and his 
+own octet. He was named a star of the trombone by down beat in 1962, rather impressive considering his 
+less frequent opportunities to be heard as a soloists.
+
+##### Curtis Fuller- Virtuoso
+
+---
+
+In the mid-1990s when asked who the fastest jazz trombonist was, J.J. Johnson said, “Why 
+Curtis Fuller haven’t you heard the records?”<sup>62</sup> Partly through hard work and partly through God-given 
+ability, Curtis Fuller developed a new sound, blazing technique and unique soulfulness that was unlike 
+any heard before on trombone. Due to this special style and technique, he became one of the most 
+recorded newcomers in jazz history when he hit the scene in 1957.  He can be called the virtuoso of the 
+group because the master trombonist of the previous era thought so highly of his ability.
+
+Having studied the trombonists of the Hard-Bop Era in-depth, the question remains why records 
+led by jazz trombonists on major labels decline significantly in its aftermath. During the late 1960s and 
+1970s it is difficult to find 10 records like any of the ones discussed in this dissertation.. The answer 
+seems to be two-fold. There was a move to jazz-rock fusion by many artists. The jazz-rock fusion era in 
+jazz history is not a place where we see many trombone players and those we do were not recording solo 
+records. The other is that the upcoming generations of would be jazz trombonists were playing pop 
+music. James Pankow was working with Chicago. Fred Wesley was working with James Brown and 
+Clifford Adams was working with Kool and the Gang. This leaves a gap between the subjects of this 
+study and the young lions era trombonists Steve Turre, Robin Eubanks, Wycliff Gordon and Steve 
+Davis. This will however have to fleshed out further in future research.
+
+Scholarly contributions to this and other important questions add to the collective understanding 
+of not only jazz history, but the history of American music.
+
+<sup>62</sup>Johnson, J.J.. Personal Interview. Manchester Craftsmen's Guild, Pittsburgh,Pa.November 1994.
+
+---
+
+Terms
+
+• Cycle progression is a series of dominant 7<sup>th</sup> chords that follow the circle of fourths.
+
+$$
+7^{th}
+$$
+
+• **_Line_** is a term used colloquially to describe a short segment of an improvised solo usually in eighth 
+notes.
+
+• **_Enclosure Figures_** is a commonly used term in jazz improvisation analysis and pedagogy that refers 
+to the practice of chromatically or diatonically surrounding important chord tones with upper and 
+lower neighbor tones.
+
+• **_Upper Register_** for purpose of this document I define upper register as the register of the trombone 
+from F<sup>4</sup> to B-flat 4(considering middle C = C<sup>4)</sup>. This is where most players start to feel a distinct 
+change in resistance. This change is normally felt to be an increase in resistance.
+
+$$
+\mathrm{F}^4
+$$
+
+$$
+C=C^{4}
+$$
+
+• **_Lower Register_** is the register of the trombone is thought to begin with B-flat<sup>2</sup> and below where most 
+players start to feel a distinct change in resistance (considering middle C = C<sup>4)</sup>. This change is 
+normally felt to be a decrease in resistance.
+
+$$
+C=C^{4}
+$$
+
+• **_Middle Register_** is the register of the trombone is between B-flat<sup>2</sup> and F <sup>4</sup>where the resistance is little 
+to none (considering middle C = C<sup>4)</sup>.
+
+$$
+\mathrm{F}^{4}
+$$
+
+$$
+C=C^{4}
+$$
+
+---
+
+• **_Altissimo Register_** on a trombone varies from player to player. But, for the purposes of this study it 
+will begin at B-flat<sup>4</sup> and above (considering middle C = C<sup>4)</sup>.
+
+$$
+C=C^{4}
+$$
+
+• **_Pattern_** a recurring improvised musical idea.
+
+• **_Chordal idea_** an improvised musical idea that is based primarily on major/minor thirds.
+
+• **_Linear idea_** an improvised musical idea that is based primarily on successive major/minor seconds.
+
+• **_Time-feel_** is the way each musician individually interprets swing eighth notes, triplets, dotted eighthsixteenth in relationship to the pulse.
+
+• **_Turn_** is an embellishment or ornament that produces four notes. One above and one below.
+
+• **_Cyclical material_** successive improvised ideas that are sequential in nature.
+
+• **_Delayed resolution_** when an improviser, “extends the line past the point of harmonic resolution.”
+
+• **_Anticipated resolution_** when an improviser, “intentionally resolves the line before the actual point of 
+harmonic resolution.”
+
+• **_Implied secondary dominants_** when an improviser uses melodic and harmonic material from a 
+corresponding secondary dominant to create extra tension in their solo.
+
+• **_Modern Jazz_** for the purposes of this study will refer to the improvisational practices commonly 
+associated with the Bebop, Cool Jazz, and Hard Bop.
+
+• **_Hard Bop_** is a term coined by David Rosenthal and delineates the period of 1955 to 1965 as the most 
+fertile for Hard Bop performance.
+
+• **_Against-the-grain_** is a term that refers to players using the natural ability to have notes come out 
+hastily by air-pressure and slide direction alone.
+
+• **_Sheets of sound_** is a device where saxophonist play a seemingly endless stream of notes for a few 
+beats/measures.
+
+---
+
+• **_“The Scene”_** is a hang-out venue where musicians interact with each other on and off the bandstand.
+
+• **_Quotes_** are the super-imposition of a familiar melody into a song where it does not belong.
+
+---
+
+## Bibliography
+
+Allen, Brain. "Slide Hampton's trombone solo on 'My blues'." *Downbeat,* October 2001.
+
+Anderson, Clifton. Personal Interview. October 7, 2017.
+
+Ashby, Jay. Phone Interview. September 21, 2017.
+
+Baker, David. *J. J. Johnson, Trombone Volume 77, Issue 432 of David Baker jazz monograph series*
+Shattinger International Music Corporation, 1979.
+
+Bartczak, Adam E. "The relationship of jazz trombone performance to composing and arranging: 
+Interviews with four notable trombonist/composers." PhD diss., University of Northern 
+Colorado, 2013. ProQuest.
+
+Bjorn, Lars, and Jim Gallert. *Before Motown: A History of Jazz in Detroit, 1920-60.* Ann Arbor: 
+University of Michigan Press, 2001.
+
+Bogle, Michael. ""Slide" Hampton." *ITA Journal* 18, no. 1 (Winter 1990), 12-16.
+
+Burton, James. Phone Interview. September 27, 2017.
+
+"CASS TECH GRADUATES IN THE JAZZ WORLD." *Michigan History Magazine* 95, no. 3 
+(May/June 2011), 18-19.
+
+.
+
+"Cerise Press › The Soul of Trombone — Grachan Moncur III." Cerise Press: A Journal of Literature, 
+Arts & Culture. Accessed June 7, 2018. http://www.cerisepress.com/04/10/the-soul-oftrombone-grachan-moncur-iii/view-all.
+
+Cook, Richard, and Brian Morton. *The Penguin Guide to Jazz Recordings.* London: Penguin Books, 
+2008.
+
+Corbett, John. "McLean, Jackie: Destination . . . out!" *Downbeat,* March 1996.
+
+Crane, Kenny. "Developing Jazz Trombone Technique." *Downbeat,* 2016.
+
+Davis, Barry. "Backstage with Curtis Fuller." *Downbeat,* 2006.
+
+Davis, Stephen K. Personal Interview. West Hartford, CT.January 1, 2018.
+
+Dietrich, Kurt. *Jazz 'bones The World of Jazz Trombone.* Rottenburg.: Advance Music, 2005.
+
+---
+
+"EBONY BLACK MUSIC POLL." *Ebony.* October 1975.
+
+Elsey, Eddie L. "A comparison of two distinctive jazz trombone artists, David Steinmeyer and Curtis 
+Fuller." PhD diss., University of Southern Mississippi, 2008. ProQuest.
+
+F.D. "An after-the-fact transitional figure shows the way with his horn." *Village Voice* (New York), 
+April 20, 2005, 80.
+
+Figi, J.B. "Art Blakey and the Jazz Messengers: Ugetsu." *Downbeat,* March 1985.
+
+Fitzgerald, Michael. "JazzDiscography.com." JazzDiscography.com. Accessed May 22, 2017. 
+http://www.jazzdiscography.com/Leaders/PriesterJulian-ldr.php.
+
+Fuller, Curtis. "New Trombone." Podcast audio. Fuller, Curtis. New Trombone. Prestige PRLP 7107. 
+November 1957.
+
+Gitler, Ira. "Hall of Fame & Trombone of the Year J.J. Johnson." *Downbeat,* December 1995.
+
+Goldsher, Alan. Hard Bop Academy: The Sidemen of Art Blakey and the Jazz Messengers. Milwaukee,       
+Wis: Hal Leonard, 2008.
+
+Gridley, Mark C. "Clarifying Labels: Cool Jazz, West Coast and Hard Bop." *Journal of Popular Music 
+Studies* 2, no. 2 (2006), 8-16. doi:10.1111/j.1533-1598.1990.tb00061.x.
+
+Hampton, Locksley "Slide". Phone Interview. May 22, 2018.
+
+Hentoff, Nat. "J.J., Kai Find Trombone Team Is OK With Fans." *Downbeat,* 2009.
+
+Holland, Bill, Bradley Bambarger, and Steve Graybow. "JJ Johnson, 77 Dies." *Billboard,* February 
+2001.
+
+Janowiak, John. "J.J. Johnson: Bigger than a bop box." *Downbeat,* 1999.
+
+Janowiak, John. "Steve Turre ON J.J. JOHNSON." *Downbeat,* 2004.
+
+"Jimmy Smith Discography." Jazz Discography Project. Accessed May 22, 2017. 
+http://www.jazzdisco.org/jimmy-smith/discography/.
+
+Johnson, Stephon. "'The Unforgettable Hampton Family' shows yet another triumph of Black strength." 
+*New York Amsterdam News* (New York), February 3, 2011, 20.
+
+Kostakis, Peter. "Roach, Max: Long as you're living." *Downbeat,* July 1985.
+
+---
+
+Lin, Peter. "Jimmy Cleveland: Biography and Musical Analysis." Master's thesis, Rutgers, 2016.
+
+Lin, Peter. Personal Interview. May 22, 2018.
+
+Marcellus, John R. "A survey of selected jazz trombonists, 1920-1970." *International Trombone 
+Association* 7 (1979), 7-8.
+
+Marmojelo, Armin. *Curtis Fuller's Greatest Transcribed Solos.* Houston: Houston Publishing, 1993.
+
+Martin, Terry. "BLUES-ETTE/CALIFORNIA MESSAGE/MOMENT TO MOMENT (Music)." 
+*Downbeat,* December 1984.
+
+Martin, Terry. "Golson, Benny/Fuller, Curtis: Moment to moment." *Downbeat,* 1984.
+
+Mathieson, Kenny. *Cookin': Hard Bop and Soul Jazz, 1954-65.* Canongate Books, 2012.
+
+May, Lissa F. "Early Musical Development of Selected African American Jazz Musicians in 
+Indianapolis in the 1930s and 1940s." *Journal of Historical Research in Music Education* 27, 
+no. 1 (2005), 21-32. doi:10.1177/153660060502700103.
+
+McBee, Jesse. "A Musical Analysis of the Improvisational Style of Tommy Turrentine." PhD diss., The 
+University of Nebraska - Lincoln, 2017. ProQuest.
+
+McClellan, Lawrence. "CURTIS FULLER'S SOLO ON "BLUES AFTER ALL." *Downbeat,* 1989.
+
+McNally, Owen. "HARTT SCHOOL TO HONOR JAZZ LEGEND CURTIS FULLER." *Hartford 
+Courant* (Hartford), 2008.
+
+Meadows, Eddie S. *Bebop to Cool Context, Ideology, and Musical Identity.* Westport, Conn: Praeger, 
+2003.
+
+Moncur, III, Grachan. Phone Interview. July 14, 2017.
+
+Moore, James H. "A COMPARATIVE STUDY OF THE JAZZ TRUMPET STYLES OF CLIFFORD 
+BROWN, DONALD BYRD, AND FREDDIE HUBBARD: AN EXAMINATION OF 
+IMPROVISATIONAL STYLE FROM 1953-1964." PhD diss., University of Pittsburgh, 2012.
+
+Morrison, Allen. "STEVE DAVIS." *Downbeat,* April 2014.
+
+Murph, John. "REMEMBERING J.J. Johnson." *Downbeat,* June 2001.
+
+Oullette, Dan. "Ron Carter ON J.J. JOHNSON." *Downbeat,* July 2004.
+
+---
+
+"Philly Joe Jones Discography." Jazz Discography Project. Accessed May 22, 2017. 
+http://www.jazzdisco.org/philly-joe-jones/discography/.
+
+Phy, David M. "The Musical Language of Steve Davis." PhD diss., University of Illinois, 2010.
+
+Pitchford, Tim. "THE STORY OF CATHY AND ME." *International Trombone Association* 41, no. 2 
+(Spring 2013).
+
+Priester, Julian. Phone. November 16, 2017.
+
+Reeves, Nat. Phone Interview. September 6, 2017.
+
+Rosenthal, David H. *Hard Bop: Jazz and Black Music 1955-1965.* New York, NY [u.a.]: Oxford Univ. 
+Press, 2010.
+
+Rosenthal, David H. "Hard Bop Heterodoxy: Monk, Mingus, Miles, and Trane." *Hard Bop,* 1994, 132-
+150. doi:10.1093/acprof:oso/9780195085563.003.0009.
+
+Rosenthal, David H. "Hard Bop and Its Critics." *The Black Perspective in Music* 16, no. 1 (1988), 21. 
+doi:10.2307/1215124.
+
+Rosenthal, David H. "Jazz in the ghetto: 1950–70." *Popular Music* 7, no. 01 (1988), 51. 
+doi:10.1017/s026114300000252x.
+
+Ross, Jon. "Priester Bids Farewell to Cornish." *Downbeat,* 2011.
+
+Rudnick, Isidore L. "A stylistic analysis of melody, harmony, rhythm and sound quality in selected 
+improvised solos of Slide Hampton." PhD diss., University of Miami, 1999.
+
+Schudel, Matt. "Horace Silver, Pioneer of Hard-Bop Jazz, Dies at 85." *The Washington Times*
+(Washington), June 19, 2014.
+
+Shatz, Adam. "The Perils of Living Too Long." *The New York Times* (New York), October 26, 2003.
+
+Shoemaker, Bill. "FOUR TROMBONES." *Downbeat,* 1989.
+
+Shoemaker, Bill. "Roach, Max: Percussion bitter sweet." *Downbeat,* May 1993.
+
+Stern, David. "Jazz Trombone (in four volumes)." *International Trombone Association* 38, no. 3 (Fall 
+2009).
+
+Sussman, Andrew. "Curtis Fuller's great depression." *Downbeat,* March 1981.
+
+---
+
+Terefenko, Dariusz. "Miles Davis, Miles Smiles, and the Invention of Post Bop." *ARSC* 40, no. 1 
+(Spring 2009).
+
+Thompson, Andrew B. "Slide Hampton's Trombone Solo On 'My Blues." *Downbeat,* July 2010.
+
+Toiviainen, Petri. "Modeling the Target-Note Technique of Bebop-Style Jazz Improvisation: An 
+Artificial Neural Network Approach." *Music Perception: An Interdisciplinary Journal* 12, no. 4 
+(1995), 399-413. doi:10.2307/40285674.
+
+Tomkins, Les. "The Curtis Fuller story (interview)." *Crescendo International,* 1976.
+
+Turner, Douglas. "The Young Lions: Jazz's Saviors or Pretenders?" *American Visions,* 1993.
+
+Turre, Steve. Phone Interview. September 19, 2017.
+
+Turre, Steve. "BONE BOP." *Downbeat,* November 1989.
+
+Turre, Steve. "J.J. Johnson's Trombone Solo on 'Teapot,' Part 2." *Downbeat,* 2005.
+
+Welburn, Ron. "Lateef, Yusef: Jazz for thinkers." *Downbeat,* August 1985.
+
+White, Alisa. "“No room for squares”: The hip and modern image of Blue Note Records, 1954-1967." 
+PhD diss., Indiana University, 2011. ProQuest (3479659).
+
+Wiest, Steve. "Remembering the King : A Tribute to James Louis "JJ" Johnson 1929 - 2001." *ITA 
+Journal* 29, no. 4 (Fall 2001), 38-50.
+
+---
+
+Appendix:
+
+Selected Discography for Curtis Fuller 1954-1964
+
+Abdul-Malik, Ahmed. "East Meets West." LP. RCA Victor. 1959.
+
+Bailey, Dave. "Bash!" LP. Jazzline JAZ 33-01. October 4, 1961.
+
+Bailey, Dave. "Gettin' Into Somethin'." LP. Epic LA 16011. October 26, 1960.
+
+Bailey, Dave. "One Foot in the Gutter." LP. Epic LA 16008. July 19, 1960.
+
+Blakey, Art, and The Jazz Messengers. "'S Make It." LP. Limelight 86001. November 15, 1964.
+
+Blakey, Art, and The Jazz Messengers. "Buhaina's Delight." LP. Blue Note Records BST 84104. 
+November 28, 1961.
+
+Blakey, Art, and The Jazz Messengers. "Caravan." LP. Riverside RLP 438. October 23, 1962.
+
+Blakey, Art, and The Jazz Messengers. "Free for All." LP. Blue Note BST 84170. February 10, 1964.
+
+Blakey, Art, and The Jazz Messengers. "Golden Boy." LP. Colpix CP 478. 1964.
+
+Blakey, Art, and The Jazz Messengers. "Indestructible." LP. Blue Note BST 84193. April 24, 1964.
+
+Blakey, Art, and The Jazz Messengers. "Jazz Messengers!!!!!" LP. Impulse! A-7. September 1, 1961.
+
+Blakey, Art, and The Jazz Messengers. "Kyoto." LP. Riverside RLP-493. February 20, 1964.
+
+Blakey, Art, and The Jazz Messengers. "Mosaic." LP. Blue Note BST 84090. October 2, 1961.
+
+Blakey, Art, and The Jazz Messengers. "Three Blind Mice, Vol. 1& 2." LP. United Artists Records. 
+1961.
+
+Blakey, Art, and The Jazz Messengers. "Ugetsu." LP. Riverside RLP-464. June 16, 1963.
+
+---
+
+Brookmeyer, Bob. "Jazz Is a Kick." LP. Mercury MG 20600/60600. May 9, 1960.
+
+Chambers, Paul. "1st Bassman." LP. Vee Jay Records. May 12, 1960.
+
+Clark, Sonny. "Dial "S" for Sonny." LP. Blue Note BLP 1570. July 21, 1957.
+
+Clark, Sonny. "Sonny's Crib." LP. Blue Note BLP 1576. September 1, 1957.
+
+Coltrane, John. "Blue Train." LP. Blue Note BLP 1577. September 15, 1957.
+
+DeFranco, Buddy. "Blues Bag." LP. Vee Jay. 1964.
+
+Donaldson, Lou. "Lou Takes Off." LP. Blue Note BLP 1591. December 15, 1957.
+
+Dorham, Kenny. "This Is the Moment! Kenny Dorham Sings and Plays." LP. Riverside RLP 12-275. 
+July 7, 1958.
+
+Evans, Gil, and Orchestra. "Great Jazz Standards." LP. World Pacific. n.d.
+
+Farmer, Art. "Brass Shout." LP. United Artists UAL 4047. May 14, 1959.
+
+Fuller, Curtis. "Bone & Bari." LP. Blue Note BLP 1572. August 4, 1957.
+
+Fuller, Curtis. "Curtis Fuller - Boss of The Soul-Stream Trombone." LP. Warwick W 2038. December 
+1960.
+
+Fuller, Curtis. "Curtis Fuller - Cabin in The Sky." LP. Impulse! A-22. April 24, 1962.
+
+Fuller, Curtis. "Curtis Fuller - Imagination." LP. Savoy MG 12144. December 17, 1959.
+
+Fuller, Curtis. "Curtis Fuller with Red Garland." LP. New Jazz, NJLP 8277. May 14, 1957.
+
+Fuller, Curtis. "Curtis Fuller! - Soul Trombone and The Jazz Clan." LP. Impulse! A-13. November 15, 
+1961.
+
+Fuller, Curtis. "Curtis Fuller's Quintet - Blues-Ette." LP. Savoy MG 12141, SST 13006. May 21, 1959.
+
+Fuller, Curtis. "Images of Curtis Fuller." LP. Savoy MG 12164. June 7, 1960.
+
+Fuller, Curtis. "Monday Night at Birdland with Hank Mobley." LP. Roulette. 1959.
+
+Fuller, Curtis. "New Trombone." LP. Prestige, PRLP 7107. May 11, 1957.
+
+---
+
+Fuller, Curtis. "South American Cookin'." LP. Epic LA 16020. August 23, 1961.
+
+Fuller, Curtis. "The Curtis Fuller Jazztet With Benny Golson." LP. Savoy MG 12143. August 25, 1959.
+
+Fuller, Curtis. "The Curtis Fuller Sextet - Sliding Easy." LP. United Artists UAL 4041, UAS 5041. 
+March 12, 1959.
+
+Fuller, Curtis. "The Magnificent Trombone of Curtis Fuller." LP. Epic LA 16013. n.d.
+
+Fuller, Curtis. "The Opener." LP. Blue Note BLP 1567. June 16, 1957.
+
+Fuller, Curtis. "Two Bones." CD. Blue Note (J) GXF-3064, (J) GXK-8166. January 22, 1958.
+
+Fuller, Curtis, and Art Farmer. "Curtis Fuller, Vol. 3." LP. Blue Note BLP 1583, (J) BRP-8044. n.d.
+
+Fuller, Curtis, and Tommy Flanagan. "Curtis Fuller, Tommy Flanagan - Jazz...It's Magic!" LP. Savoy 
+MG 12209. September 5, 1957.
+
+Fuller, Curtis, and Hampton Hawes. "Curtis Fuller and Hampton Hawes with French Horns." LP. Status 
+ST 8305. May 18, 1957.
+
+Golson, Benny. "Gettin' with It." LP. New Jazz NJLP 8248. December 23, 1959.
+
+Golson, Benny. "Gone with Golson." LP. New Jazz NJLP 8235. June 20, 1959.
+
+Golson, Benny. "Groovin' with Golson." LP. New Jazz NJLP 8220. August 28, 1959.
+
+Golson, Benny. "Pop + Jazz = Swing." LP. Audio Fidelity AFLP 1978. April 1962.
+
+Golson, Benny. "Take a Number from 1 to 10." LP. Argo LP 684. December 13, 1960.
+
+Golson, Benny. "The Other Side of Benny Golson." LP. Riverside RLP 12-290. November 12, 1958.
+
+Golson, Benny, Art Farmer, and The Jazztet. "Meet the Jazztet." LP. Argo LP 664. February 6, 1960.
+
+Harden, Wilbur, and John Coltrane. "Jazz Way Out." LP. Savoy MG 12131. June 24, 1958.
+
+Heath, Jimmy. "The Thumper." LP. Riverside RLP 314. September 1959.
+
+Hubbard, Freddie. "The Artistry of Freddie Hubbard." LP. Impulse! A-27. July 2, 1962.
+
+Hubbard, Freddie. "The Body & the Soul." LP. Impulse! A-38. March 11, 1963.
+
+---
+
+Jenkins, John, and Donald Byrd. "Jazz Eyes." LP. Regent MG 6056. September 10, 1957.
+
+Jones, Philly Joe. "Drums Around the World." LP. Riverside RLP 12-302. May 4, 1959.
+
+Jones, Philly Joe, and Elvin Jones. "Together!" LP. Atlantic 1428. February 2, 1961.
+
+Jones, Quincy. "I Dig Dancers." LP. Mercury MG 20612. February 27, 1960.
+
+Jones, Quincy. "Newport '61." LP. Mercury. July 3, 1961.
+
+Jones, Quincy. "The Great Wide World of Quincy Jones - Live!" LP. Mercury (J) 195J-32. March 10, 
+1961.
+
+Jordan, Clifford. "Cliff Jordan." LP. Blue Note BN 1565. June 2, 1957.
+
+Lateef, Yusef. "Before Dawn: The Music of Yusef Lateef." LP. Verve MGV-8217. April 16, 1957.
+
+Lateef, Yusef. "Centaur and the Phoenix." LP. Roulette. 1960.
+
+Lateef, Yusef. "Jazz Mood." LP. Savoy MG 12103. April 9, 1957.
+
+Lateef, Yusef. "Jazz for the Thinker." LP. Savoy MG 12109. April 5, 1957.
+
+Lateef, Yusef. "Stable Mates." LP. Savoy MG 12115. April 5, 1957.
+
+Lincoln, Abbey. "It's Magic." LP. Riverside RLP 12-277. August 15, 1958.
+
+Machito. "With Flute to Boot." LP. Roulette. 1959.
+
+McLean, Jackie. "A Long Drink of the Blues." LP. New Jazz NJ 8253. August 30, 1957.
+
+McLean, Jackie. "Makin' the Changes." LP. New Jazz NJ 8231. February 15, 1957.
+
+Mitchell, Blue. "Big 6." LP. Riverside. July 2, 1958.
+
+Mitchell, Blue. "Blue Soul." LP. Riverside. September 24, 1959.
+
+Morgan, Lee. "City Lights." LP. Blue Note. August 25, 1957.
+
+Morgan, Lee. "Tom Cat." LP. Blue Note LT 1058. August 11, 1964.
+
+Powell, Bud. "Bud! The Amazing Bud Powell (Vol. 3)." LP. Blue Note. August 3, 1957.
+
+---
+
+Quinichette, Paul. "On the Sunny Side." LP. Prestige PR 7103. May 10, 1957.
+
+Smith, Jimmy. "House Party." LP. Blue Note. August 25, 1957.
+
+Smith, Jimmy. "The Sermon!" LP. Blue Note BST 84011. August 25, 1957.
+
+Turrentine, Stanley. "In Memory Of." LP. Blue Note. June 3, 1964.
+
+Turrentine, Stanley. "Mr. Natural." LP. Blue Note LT 1075. September 4, 1964.
+
+Woods, Phil. "Rights of Swing." LP. Candid CJS 9016. January 26, 1961.
+
+---
+
+Selected Discography for Slide Hampton 1954-1964
+
+Adderley, Nat. "Much Brass." LP. Riverside. March 23, 1959.
+
+Betters, Harold. "Harold Betters Meets Slide Hampton." LP. Gateway. 1964.
+
+Evans, Stick. "Stick Around with Sticks Evans." LP. Unknown. 1961.
+
+Ferguson, Maynard, and Orchestra. "The Complete Roulette Recordings of the Maynard
+
+Ferguson Orchestra." LP. Mosaic Records (2) – MD10-156. n.d.
+
+Fuller, Curtis. "Two Bones." LP. Blue Note GXF-3064. January 22, 1958.
+
+Greene, Dodo. "Ain't What You Do." LP. Time Records (3) – 70001. 1959.
+
+Hampton, Lionel. "Unknown." LP. Unknown. 1958.
+
+Hampton, Slide. "Drum Suite." LP. Epic LA 16030. April 5, 1962.
+
+Hampton, Slide. "Explosion! The Sound of Slide Hampton." LP. Atlantic LP 1396. July 26, 
+1962.
+
+Hampton, Slide. "Jazz with A Twist." LP. Atlantic LP 1379. November 11, 1961.
+
+Hampton, Slide. "Sister Salvation." LP. Atlantic LP 1339. February 11, 1960.
+
+Hampton, Slide. "Slide Hampton and His Horn of Plenty." LP. Strand SL/SLS-1006. 1959.
+
+Hampton, Slide. "Somethin' Sanctified." LP. Atlantic LP 1362. October 17, 1960.
+
+Hampton, Slide. "Two Sides of Slide." Podcast audio. Charlie Parker Records – PLP 803. 1961.
+
+Hampton, Slide. "Exodus." LP. Philips B 77 915L. November 14, 1962.
+
+Liston, Melba. "Melba Liston and Her 'Bones." LP. MetroJazz E 1013. December 22, 1958.
+
+Mingus, Charles. "Mingus Revisited." LP. Mercury Limelight Records. 1960.
+
+Peterson, Oscar. "Bursting Out with the All-Star Big Band!" LP. Verve. June 13, 1962.
+
+Richards, Johnny. "Experiments in Sound." LP. Capitol Records – T981,. 1958.
+
+Weston, Randy. "Destry Rides Again." LP. United Artists UAL 4045. n.d.
+
+Weston, Randy. "Uhuru Afrika." LP. Roulette R 65001. n.d.
+
+---
+
+Selected Discography for Julian Priester 1954-1964
+
+Chamblee, Eddie. "Chamblee Music." LP. Emarcy. 1957.
+
+Chamblee, Eddie, and Orchestra. "Doodlin'." LP. Emarcy Jazz. 1958.
+
+Coltrane, John. "Africa/Brass." LP. Impulse! A-6. May 23, 1961.
+
+Griffin, Johnny. "The Little Giant." LP. Riverside RLP 12-304. August 4, 1959.
+
+Griffin, Johnny, and Orchestra. "The Big Soul-Band." LP. Riverside RLP 331. May 24, 1960.
+
+Hubbard, Freddie. "Hub Cap." Podcast LP. Blue Note BST 84073. April 9, 1961.
+
+Jazz Artists Guild. "Newport Rebels." LP. Candid CJM-8022/CJS-9022. November 1, 1960.
+
+Jenkins, John, Clifford Jordan, and Bobby Timmons. "Jenkins, Jordan and Timmons." LP. New 
+Jazz PRLP 8232. July 26, 1957.
+
+Jones, Philly Joe. "Blues for Dracula." LP. Riverside RLP 12-282. September 17, 1958.
+
+Jones, Philly Joe. "Showcase." LP. Riverside RLP 12-313. November 17, 1959.
+
+Lincoln, Abbey. "Abbey Is Blue." LP. Riverside RLP 12-308. 1959.
+
+Lincoln, Abbey. "Straight Ahead." LP. Candid. February 22, 1961.
+
+Little, Booker. "Booker Little and Friend." LP. Bethlehem. 1961.
+
+Little, Booker. "Out Front." LP. Candid. March 17, 1961.
+
+Mitchell, Blue. "Smooth as the Wind." LP. Riverside. December 27, 1960.
+
+Priester, Julian. "Keep Swingin'." LP. Riverside RLP 12-316. January 11, 1960.
+
+---
+
+Farmer, Art, Benny Golson, and The Jazztet. "Another Git Together." LP. Mercury SR 60737. 
+May 28, 1962.
+
+Farmer, Art, Benny Golson, and The Jazztet. "Here and Now." LP. Mercury SR 60698. 
+February 28, 1962.
+
+Golson, Benny. "Pop + Jazz = Swing." LP. Audio Fidelity AFLP 1978. April 1962.
+
+Hancock, Herbie. "My Point of View." LP. Blue Note Records BST 84126. September 1963.
+
+McLean, Jackie. "Destination... Out!" LP. Blue Note BST 84165. September 20, 1963.
+
+McLean, Jackie. "One Step Beyond." LP. Blue Note BST 84137. April 30, 1963.
+
+Moncur, III, Grachan. "Evolution." LP. Blue Note BST 84153. November 21, 1963.
+
+Moncur, III, Grachan. "Some Other Stuff." LP. Blue Note BST 84177. July 6, 1964

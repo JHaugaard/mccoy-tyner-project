@@ -1,0 +1,23 @@
+# Verifying you are human...
+
+![](https://d.lib.msu.edu/.well-known/.git.gammaspectra.live/git/go-away/cmd/go-away/assets/static/spartan.png?cacheBust=t5rDJBjfzOth1njzkHdJNg)
+
+Loading challenge _js-pow-sha256_...
+
+Why am I seeing this?
+
+Some poorly behaved bots trying to harvest data for AI training have been trying to scan our site much faster than we can handle. We normally don't mind bots crawling our sites, but these bots have been so aggressive that it has made the site slow and unresponsive for other users.
+
+We've added these automated challenges your browser will perform when first loading the site; these challenges combat the overload coming from the bots.
+
+Please note that some challenges requires the use of modern JavaScript features and some browser plugins might cause them to fail. Disable such plugins for this site if you encounter any issues.
+
+If problems persist, please reach out to us using any of the following methods:
+
+- The [Reference & Discovery Services](https://lib.msu.edu/rds/askus) form
+- By phone: (517) 353-8700
+- The [Ask a Librarian](https://lib.msu.edu/contact/askalib/) form
+
+And we will work with you to resolve the issue.
+
+If you have any issues, promptly reach out to us and provide the following Request Id: _f1c7260d5f8c25aa751335b748e9cad6_

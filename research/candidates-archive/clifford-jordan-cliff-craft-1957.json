@@ -1,0 +1,275 @@
+{
+  "id": "clifford-jordan-cliff-craft-1957",
+  "artist": "Clifford Jordan",
+  "album": "Cliff Craft",
+  "year": 1957,
+  "label": "Blue Note",
+  "catalog_number": "BLP 1582",
+  "style_primary": "hard-bop",
+  "rationale": "Clifford Jordan's third Blue Note album as a leader and a classic of the late-1950s hard bop quintet format. Consensus pick: AllMusic 4★ (Lee Bloom review calls it 'a wonderfully relaxed recording'), Penguin Guide to Jazz Recordings 3★. The session assembles an elite hard bop frontline (Jordan, Art Farmer) with the crack rhythm section of Sonny Clark, George Tucker, and Louis Hayes. Jordan's originals ('Laconia', 'Soul-Lo Blues', 'Cliff Craft') sit alongside bop standards by Parker, Gillespie, and Ellington. Part of Blue Note's celebrated 1500-series from one of the label's most fertile periods.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia article",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Cliff_Craft"
+    },
+    "S2": {
+      "title": "Tom Lord's Jazz Discography / jazzdisco.org (Blue Note 1500 series)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/blue-note-records/catalog-1500-series/#blp-1582"
+    },
+    "S3": {
+      "title": "Blue Note Records artist page",
+      "type": "web",
+      "url": "https://www.bluenote.com/artist/clifford-jordan/"
+    },
+    "S4": {
+      "title": "Cover Art Archive",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/a54e9109-a772-46b0-8ccc-c6efd0097a65"
+    },
+    "S5": {
+      "title": "iTunes Search API",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Clifford+Jordan+Cliff+Craft&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-11-10"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1957-11-10",
+        "site_raw": "Van Gelder Studio, Hackensack, New Jersey",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Clifford Jordan",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Cliff Jordan"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Art Farmer",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Laconia",
+          "Soul-Lo Blues",
+          "Cliff Craft",
+          "Confirmation",
+          "Anthropology"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Does not play on 'Sophisticated Lady'"
+      },
+      {
+        "name": "Sonny Clark",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Tucker",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Louis Hayes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Laconia",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:06",
+        "composers": [
+          "Clifford Jordan"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Soul-Lo Blues",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:29",
+        "composers": [
+          "Clifford Jordan"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Cliff Craft",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:30",
+        "composers": [
+          "Clifford Jordan"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Confirmation",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:34",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Sophisticated Lady",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:46",
+        "composers": [
+          "Duke Ellington",
+          "Irving Mills",
+          "Mitchell Parish"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Anthropology",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:03",
+        "composers": [
+          "Dizzy Gillespie",
+          "Charlie Parker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "a54e9109-a772-46b0-8ccc-c6efd0097a65",
+    "apple_album_id": "1455398125",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/25506894-8ddf-4412-9f68-1c6c77994823/8906203961.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single-session date at Van Gelder's Hackensack studio (pre-move to Englewood Cliffs). Rim: BLP 1582. Matrix numbers per jazzdisco.org: Confirmation (tk.1), Anthropology (tk.4), Soul-Lo Blues (tk.7), Laconia (tk.9), Cliff Craft (tk.11), Sophisticated Lady (tk.13)."
+  },
+  "ballot": {
+    "album": "Clifford Jordan — Cliff Craft (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "This is a highly playable, representative 1957 hard-bop session, with Jordan and Art Farmer supported by Sonny Clark, George Tucker, and Louis Hayes at Van Gelder Studio under Alfred Lion. The program balances three Jordan originals with Parker/Gillespie standards and an Ellington ballad, giving it discovery value and a credible snapshot of the period's post-bebop language. AllMusic 4-star and Penguin Guide 3-star ratings support respectable critical standing.",
+    "case_against": "The album is not generally treated as Clifford Jordan's defining statement, and the dossier offers no evidence of broad canon-list consensus beyond AllMusic and Penguin ratings. Its polished quintet format, familiar standards, and crowded 1956-58 Blue Note context make it less load-bearing than Jordan's more distinctive dates or stronger contemporaneous records by Mobley, Silver, Golson, and Clark.",
+    "disagreement": null,
+    "recommendation": "John should keep this as a consider-level candidate rather than prioritizing it over Jordan's more defining records or the strongest 1950s hard-bop landmarks.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

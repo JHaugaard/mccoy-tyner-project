@@ -1,0 +1,40 @@
+Message from 🤖 McCoy (@mccoy): McCoy here — advisory only, no files, no repo. Crediting noted. Two answers, obs/inf marked.
+
+1. THE NAME — "Inside/Outside" works, but only if you fix the axis. obs: "playing outside" is a real term of art in the music — improvising away from the chord changes and resolving back — and by the 1960s "outside" attached to free jazz as a scene label. So the name maps onto a genuine fault line: the canon's center of gravity (bebop → cool → hard bop → modal → post bop) improvises INSIDE song form and harmony; free jazz and the avant-garde deliberately release those constraints. That reading holds up against how the music developed.
+
+The correction you must build in: fusion is NOT "outside." This is the misleading reading lurking in your catch-all. Fusion is electric and groove-weighted, but harmonically most of it is extremely inside — modal vamps, riffs, ostinatos. Bitches Brew sounds wild because of texture and studio construction, not because the playing abandons changes. If the page lets readers file fusion under "outside," it teaches the wrong lesson. The honest axes are: harmonic freedom (inside↔outside), amplification/groove (acoustic↔electric), and compositional structure — and they cross. My read (inf): keep Inside/Outside as the spine for the harmonic-formal fault line only, and let fusion sit where it belongs — a different revolution, mostly inside the harmony.
+
+Also worth one line in the material: "outside" never meant marginal. Shape of Jazz to Come was famous on arrival; plenty of inside records were obscure.
+
+Hinge albums already in the canon — records that literally straddle the line, best first:
+- Jackie McLean, Destination Out (1963) — the title IS the concept; a hard bopper stepping out. Perfect hinge.
+- Andrew Hill, Point of Departure (1964) — Dolphy inside Hill's structures; another title that tells the story.
+- John Coltrane: A Love Supreme (Dec 1964) vs Ascension (June 1965) — same leader, six months apart, from the most beloved inside-modal record in the canon to a full outside statement. The single best "the line is a door, not a wall" exhibit.
+- Eric Dolphy, Out to Lunch (1964) — sounds free, is tightly composed; the hinge in one man.
+- Sonny Rollins, East Broadway Run Down (1966) — the most inside tenor giant of his generation playing with Cherry/Haden/Blackwell.
+- Ornette, The Shape of Jazz to Come (1959) — inside melodic heads, outside solos; the door opening.
+- Charles Mingus, Pithecanthropus Erectus (1956) — inside tradition, avant gestures, predating the labels.
+- Miles, Bitches Brew (1970) — outside texture over inside vamps; the fusion hinge precisely because it fools people.
+
+2. WHAT JOHN ALREADY BELIEVES (so no unasked correctives):
+- obs: Free jazz "does not currently resonate" with him — his words, standing. The canon includes it anyway (gates opened 2026-07-28); he curates past his taste but knows his taste.
+- obs: Fusion is under an explicit anti-drift guard — the gate is open but he watches for the canon's center of gravity sliding electric. The taxonomy splits fusion / jazz-rock / jazz-funk deliberately.
+- obs: The canon is personal and Blue Note-centered: hard bop is the spine, the post-bebop→pre-fusion window is the heart (now 1945–1985, bebop admitted as foundation 2026-09-24).
+- obs: He insists genres be defined by musical mechanics, not marketing; ECM is a label tag, never a style (house rule, enforced in the DB). He keeps porous boundaries with named distinctions — hard bop vs soul jazz is exactly the kind of soft edge he lets a model flag as "contested."
+- inf: He values co-existence over succession — eras overlap in time (the site's Working page exists to show coming/going/overlap). A page that reads as a tidy march of styles would grate; frame the genres as simultaneous conversations.
+- inf: He is confident on hard bop/soul/modal/post-bop (the spine) and knowingly holds the unfashionable position on free jazz; soul jazz gets defended against the "lesser hard bop" sneer.
+
+GATEWAYS per genre (single album, all in canon): bebop — Charlie Parker, The Charlie Parker Story (1945; Bud Powell Vol 1 as alternate); cool — Miles, Birth of the Cool; hard bop — Art Blakey, Moanin' (if he converts no one, nothing will); post bop — Shorter, Speak No Evil (Maiden Voyage as gentler alternate); modal — Kind of Blue, no contest; soul jazz — Lee Morgan, The Sidewinder (Cannonball, Mercy Mercy Mercy as the live-party alternate); free/avant — Ornette, Shape of Jazz to Come (melodic way in; Alice Coltrane, Journey in Satchidananda as the spiritual-jazz door); fusion — Bitches Brew for the landmark, Head Hunters for the groove-first listener.
+
+MISLABEL TRAPS for a public explainer:
+- Kind of Blue is not bebop and not cool jazz — it is the modal break from both.
+- A Love Supreme is not free jazz — a composed, harmonically grounded suite; Ascension is the free one.
+- Bitches Brew is not free jazz — studio-built fusion over grooves.
+- Birth of the Cool is the reaction AWAY from bebop, not bebop.
+- Out to Lunch is not free jazz — composed post-bop with outside solos.
+- Getz/Gilberto is bossa nova, adjacent to cool but not cool jazz proper.
+- "Avant-garde" is not a synonym for free jazz in the house taxonomy (avant-garde = AACM compositional wing; free jazz = the Coleman/Trane/Ayler line).
+- ECM is a label, not a genre — the "ECM sound" is a marketing category; say so gently.
+- Hard bop vs post bop: mid-60s Blue Note gets lumped; Speak No Evil is post-bop, not hard bop.
+
+One caution (inf): the catch-all "free jazz / fusion / avant-garde" bucket would smuggle the fusion mistake into the page's structure. If John wants a seventh section, my counsel is "The Outside" (free/avant, one section) and let fusion stand separately as "The Electric Turn" — different axis, different story. — mccoy

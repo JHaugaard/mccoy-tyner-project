@@ -1,0 +1,375 @@
+{
+  "id": "the-quintet-jazz-at-massey-hall-1953",
+  "artist": "The Quintet",
+  "album": "Jazz at Massey Hall",
+  "year": 1953,
+  "label": "Debut",
+  "catalog_number": "DEB-124",
+  "style_primary": "bebop",
+  "rationale": "The one time the five architects of bebop played a concert together: Charlie Parker, Dizzy Gillespie, Bud Powell, Charles Mingus, Max Roach, at Massey Hall, Toronto, 15 May 1953. Consensus across independent traditions is unusually strong — included in NPR's 'Basic Jazz Library' and in the Penguin Guide to Jazz Recordings' suggested core collection; Grammy Hall of Fame, inducted 1995; AllMusic's reviewer calls it 'A legendary set, no matter how or when or where it's issued' (5 stars in the Wikipedia review box), and The Rolling Stone Jazz Record Collection rates it 5 stars; Rolling Stone later placed it on its list of the 50 greatest live albums. Wikipedia notes it was 'the last recorded meeting of Parker and Gillespie'. It is the defining recorded statement of the bebop idiom as a small-group language and a session-gravity record of the first order, with five players already in the canon. Reissued continuously since 1956 (Fantasy/OJC/Craft), it remains in print and is immediately legible to a listener sent to it cold.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Jazz at Massey Hall",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Jazz_at_Massey_Hall"
+    },
+    "S2": {
+      "title": "AllMusic — Jazz at Massey Hall (review + credits)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/jazz-at-massey-hall-mw0000653534"
+    },
+    "S3": {
+      "title": "jazzdisco.org — Debut Records catalog LP/EP series (session-level personnel and dates)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/debut-records/catalog-lp-ep-series/"
+    },
+    "S4": {
+      "title": "MusicBrainz release group — Jazz at Massey Hall (The Quintet)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/f9afcb1d-6674-353e-8a8a-0dbff1054ed7"
+    },
+    "S5": {
+      "title": "iTunes Search API — Jazz at Massey Hall",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Jazz+at+Massey+Hall+Quintet&entity=album"
+    },
+    "S6": {
+      "title": "Cover Art Archive — release group f9afcb1d",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/f9afcb1d-6674-353e-8a8a-0dbff1054ed7"
+    },
+    "S7": {
+      "title": "All About Jazz — The Complete Jazz at Massey Hall (bass-overdub session detail)",
+      "type": "web",
+      "url": "https://www.allaboutjazz.com/the-complete-jazz-at-massey-hall-by-c-michael-bailey"
+    },
+    "S8": {
+      "title": "Concord — Hot House: The Complete Jazz at Massey Hall Recordings (label release note)",
+      "type": "web",
+      "url": "https://concord.com/news/hot-house-the-complete-jazz-at-massey-hall-recordings/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1953-05-15"
+    ],
+    "multi_session": false,
+    "studio": "Massey Hall, Toronto, Ontario, Canada",
+    "recording_sites": [
+      {
+        "session_date": "1953-05-15",
+        "site_raw": "Massey Hall, Toronto, Ontario, Canada",
+        "site_slug": null,
+        "site_new": {
+          "name": "Massey Hall",
+          "city": "Toronto, ON",
+          "kind": "hall",
+          "address": "178 Victoria Street",
+          "lat": 43.65397,
+          "lon": -79.37898,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Massey_Hall | coords: OSM Nominatim: 178 Victoria Street, Toronto, Toronto, ON — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Charles Mingus",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Dizzy Gillespie",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also sings on 'Salt Peanuts'."
+      },
+      {
+        "name": "Charlie Parker",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Charlie Chan",
+          "Bird"
+        ],
+        "notes": "Billed as 'Charlie Chan' on the original Debut issue for contractual reasons; played a plastic Grafton alto."
+      },
+      {
+        "name": "Bud Powell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "Also the album's producer/label owner: he captured the concert and issued it on Debut, and overdubbed his bass part afterward (see block notes)."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Co-founder of Debut Records; played the 'Drum Conversation' solo on the fuller reissues (not on the 12-inch DEB-124 program)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Perdido",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:43",
+        "session_date": "1953-05-15",
+        "composers": [
+          "Juan Tizol"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Charlie Parker",
+          "Bud Powell",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Salt Peanuts",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:39",
+        "session_date": "1953-05-15",
+        "composers": [
+          "Dizzy Gillespie",
+          "Kenny Clarke"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Charlie Parker",
+          "Bud Powell",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "All the Things You Are",
+        "track_number": 3,
+        "side": "A",
+        "duration": null,
+        "session_date": "1953-05-15",
+        "composers": [
+          "Jerome Kern",
+          "Oscar Hammerstein II"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Charlie Parker",
+          "Bud Powell",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "52nd Street Theme",
+        "track_number": 4,
+        "side": "A",
+        "duration": null,
+        "session_date": "1953-05-15",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Charlie Parker",
+          "Bud Powell",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Wee (Allen's Alley)",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:41",
+        "session_date": "1953-05-15",
+        "composers": [
+          "Denzil Best"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Charlie Parker",
+          "Bud Powell",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Hot House",
+        "track_number": 6,
+        "side": "B",
+        "duration": "9:11",
+        "session_date": "1953-05-15",
+        "composers": [
+          "Tadd Dameron"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Charlie Parker",
+          "Bud Powell",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Night in Tunisia",
+        "track_number": 7,
+        "side": "B",
+        "duration": "7:34",
+        "session_date": "1953-05-15",
+        "composers": [
+          "Dizzy Gillespie",
+          "Frank Paparelli"
+        ],
+        "personnel": [
+          "Dizzy Gillespie",
+          "Charlie Parker",
+          "Bud Powell",
+          "Charles Mingus",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "f9afcb1d-6674-353e-8a8a-0dbff1054ed7",
+    "apple_album_id": "1422672706",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/85852184-01f4-4770-bd03-87b42b8108fa/22358514248.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Debut DEB-124 12-inch LP front cover."
+      }
+    ],
+    "notes": "Single concert, 15 May 1953, Massey Hall, Toronto; the program staged here is the six-track quintet set as issued on the Debut 12-inch LP 'Jazz at Massey Hall' (DEB-124, 1956, with '52nd Street Theme' split out). The same concert also produced a Powell/Mingus/Roach trio set (issued as Jazz at Massey Hall Vol. 2) and Roach's 'Drum Conversation'; those are not part of this album. Fixed sequence: Mingus recorded the show and the source recorded from the hall's PA was substandard, so his bass is under-recorded; he and Roach later overdubbed the bass lines. Sources conflict on where: Wikipedia says 'Mingus took the recording to New York where he and Max Roach dubbed in the bass lines'; All About Jazz states the overdubs were made 'at Rudy Van Gelder's New Jersey studios'. Recorded as a post-production overdub, not a separate recording session; no second recording_sites entry is claimed — the conflict is recorded here with epistemic unk. Producer credit is Charles Mingus (AllMusic credits; Wikipedia infobox). No engineer is credited on the concert recording; engineer is null. Album also issued in some territories as 'The Greatest Jazz Concert Ever'."
+  },
+  "ballot": {
+    "album": "The Quintet — Jazz at Massey Hall (1953)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "must_have",
+    "case_for": "The dossier reports unusually broad recognition, including NPR's Basic Jazz Library, the Penguin Guide core collection, the Grammy Hall of Fame, and strong AllMusic and Rolling Stone endorsements. Its session gravity is exceptional: Parker, Gillespie, Powell, Mingus, and Roach—the defining bebop generation—perform together, making this both a rare summit and a vivid demonstration of bebop as an extended small-group language [S1, S2, S3]. The familiar repertoire and sustained live improvisation make the record historically important and readily illuminating to a new listener.",
+    "case_against": "The concert recording was technically deficient, and Mingus later overdubbed his bass; the dossier records disagreement over where that overdub took place [S1, S7]. That intervention complicates the album's status as an unmediated live document, while the one-off all-star setting offers less evidence of a cohesive working band's development than a planned group album. The dossier's Penguin Guide and Grammy claims also lack dedicated source entries, despite the strength of the broader consensus case.",
+    "disagreement": "Both references agree on consensus_core and must_have, but differ in emphasis: Reference 1 treats the objections as thin and non-decisive, while Reference 2 gives greater weight to the compromised live artifact and the ad-hoc jam-session character.",
+    "recommendation": "Advise John to treat this as a must-have bebop document, while noting the bass overdub and tightening the sourcing for the Penguin Guide and Grammy Hall of Fame claims.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

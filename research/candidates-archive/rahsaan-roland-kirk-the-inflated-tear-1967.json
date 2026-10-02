@@ -1,0 +1,339 @@
+{
+  "id": "rahsaan-roland-kirk-the-inflated-tear-1967",
+  "artist": "Rahsaan Roland Kirk",
+  "album": "The Inflated Tear",
+  "year": 1967,
+  "label": "Atlantic",
+  "catalog_number": "SD 1502",
+  "style_primary": "post-bop",
+  "rationale": "Rahsaan Roland Kirk's masterpiece — a defining statement of his multi-instrumental, post-bop approach. Consensus across independent listing traditions: AllMusic 5★, Penguin Guide to Jazz Recordings 3.5★, Pitchfork #170 on '200 Best Albums of the 1960s'. The album showcases Kirk's full instrumental arsenal (tenor sax, manzello, stritch, clarinet, flute, whistle, English horn, flexatone) and features the classic quartet with Rahn Burton, Steve Novosel, and Jimmy Hopps, plus Dick Griffin's trombone on 'Fly by Night'. It reached #19 on Billboard Jazz Albums chart and remains Kirk's most celebrated studio statement.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic album page",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-inflated-tear-mw0000765520"
+    },
+    "S2": {
+      "title": "Wikipedia article",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Inflated_Tear"
+    },
+    "S3": {
+      "title": "Tom Lord's Jazz Discography / jazzdisco.org",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/roland-kirk/catalog/"
+    },
+    "S4": {
+      "title": "Cover Art Archive",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/c71d13cd-f1c7-3317-8f2a-47c515ea6b2b"
+    },
+    "S5": {
+      "title": "iTunes Search API",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Roland+Kirk+The+Inflated+Tear&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1967-11-27",
+      "1967-11-30"
+    ],
+    "multi_session": true,
+    "studio": "Webster Hall, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1967-11-27",
+        "site_raw": "Webster Hall, New York City",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1967-11-30",
+        "site_raw": "Webster Hall, New York City",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Joel Dorn",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Rahsaan Roland Kirk",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Roland Kirk"
+        ],
+        "notes": "Also plays manzello, stritch, clarinet, flute, whistle, cor anglais (English horn), and flexatone on various tracks. Known as Roland Kirk at time of recording."
+      },
+      {
+        "name": "Rahn Burton",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Ron Burton"
+        ],
+        "notes": "Listed as Ron Burton on jazzdisco.org"
+      },
+      {
+        "name": "Steve Novosel",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Hopps",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dick Griffin",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Fly by Night"
+        ],
+        "session_dates": [
+          "1967-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Dick Griffith"
+        ],
+        "notes": "Incorrectly credited on original LP sleeve as Dick Griffith. Plays trombone only on 'Fly by Night', recorded at the November 30 session."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Black and Crazy Blues",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:07",
+        "session_date": "1967-11-27",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Laugh for Rory",
+        "track_number": 2,
+        "side": "A",
+        "duration": "2:54",
+        "session_date": "1967-11-27",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Many Blessings",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:45",
+        "session_date": "1967-11-27",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Fingers in the Wind",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:18",
+        "session_date": "1967-11-27",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "The Inflated Tear",
+        "track_number": 5,
+        "side": "A",
+        "duration": "4:58",
+        "session_date": "1967-11-27",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Creole Love Call",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:53",
+        "session_date": "1967-11-27",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Handful of Fives",
+        "track_number": 7,
+        "side": "B",
+        "duration": "2:42",
+        "session_date": "1967-11-30",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Fly by Night",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:19",
+        "session_date": "1967-11-30",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Lovellevelliloqui",
+        "track_number": 9,
+        "side": "B",
+        "duration": "4:17",
+        "session_date": "1967-11-30",
+        "composers": [
+          "Roland Kirk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "c71d13cd-f1c7-3317-8f2a-47c515ea6b2b",
+    "apple_album_id": "207145771",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/9cecf19a-6341-4fb0-a47c-66e9a52197c3/26283590488.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Two sessions at Webster Hall. November 27 session: tracks 1-6 (side A plus 'Creole Love Call'). November 30 session: tracks 7-10 (side B tracks 2-4, plus bonus track 'I'm Glad There Is You' on CD reissue). Session-to-track mappings are partially inferred from jazzdisco.org matrix numbers — tracks without explicit matrix numbers are assigned by position."
+  },
+  "ballot": {
+    "album": "Rahsaan Roland Kirk — The Inflated Tear (1967)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a compelling defining statement for Kirk: a cohesive, blues-rooted studio album in which his multi-instrumental reed vocabulary serves emotionally substantial compositions. The dossier supplies meaningful cross-tradition support: AllMusic 5-star, Penguin 3.5-star, and Pitchfork #170 on 200 Best Albums of the 1960s. It documents the distinctive quartet with Rahn Burton, Steve Novosel, and Jimmy Hopps, plus Dick Griffin on trombone. The Ellington connection, accessible songfulness, and vivid instrumental personality give it strong discovery value and preserve Kirk's singular place in post-bop history.",
+    "case_against": "The case is stronger as a canonical Kirk album than as an indispensable jazz-album landmark: the dossier lacks NPR, DownBeat, or JazzTimes canon evidence, and Penguin's 3.5-star rating falls short of its highest tier. Kirk's competing landmark Rip, Rig and Panic has greater session gravity through Jaki Byard, Richard Davis, and Elvin Jones. The sourcing is adequate but shallow for some claims, with track-to-session mappings incomplete.",
+    "disagreement": "The references split on tier: Reference 1 argues contested/strong while Reference 2 treats it as consensus_core/must_have. The boundary is whether Kirk's definitive personal statement alone makes the album core to the broader jazz canon.",
+    "recommendation": "John should seriously consider inclusion as a strong, contested Kirk selection.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-5.6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

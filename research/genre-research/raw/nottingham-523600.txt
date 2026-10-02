@@ -1,0 +1,9 @@
+Skip to main content
+
+# 404
+
+## Page not found
+
+We can't find the page you're looking for. The page may have been moved or deleted. You can use the button below to get back to the home page.
+
+[Take me to the home page](https://repository.nottingham.ac.uk/home)
