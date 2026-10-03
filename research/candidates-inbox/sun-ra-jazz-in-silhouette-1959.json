@@ -1,0 +1,438 @@
+{
+  "id": "sun-ra-jazz-in-silhouette-1959",
+  "artist": "Sun Ra and His Arkestra",
+  "album": "Jazz in Silhouette",
+  "year": 1959,
+  "label": "Saturn",
+  "catalog_number": "",
+  "style_primary": "hard-bop",
+  "rationale": "The one Sun Ra record with an unbroken critical canon standing: The Penguin Guide to Jazz selected it for its 'Core Collection' and awarded a crown, writing 'This marvellous record will one day be recognised as one of the most important jazz records since the war' [S1] (obs). Wikipedia's review box records AllMusic 4/5, DownBeat 3.5/5, The Encyclopedia of Popular Music 5/5, Penguin Guide 4/5 + crown and Rolling Stone 4/5 [S1] (obs). Recorded March 6, 1959 in Chicago and issued in May 1959 on El Saturn — one of only three Arkestra records released in the 1950s, and the coda to Ra's bebop/hard-bop period before the New York avant-garde turn [S1,S3] (obs). The date is settled: for years the record was believed to be 1958 until discographer Robert Campbell found the original tape box dated March 6, 1959 [S1] (obs). Session gravity is substantial — it documents the core early Arkestra (John Gilmore, Marshall Allen, Pat Patrick, Ronnie Boykins, Hobart Dotson) in a composed, arranged big-band setting, the same personnel Ra kept for decades [S1,S2,S3,S5] (obs). 'Enlightenment' became a permanent Arkestra concert staple [S1] (obs). It still plays: the most conventionally beautiful and immediately gratifying record Ra made, and the standard entry point to the Arkestra [S1,S3] (inf).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Jazz in Silhouette (recording date 1959-03-06, El Saturn, Chicago; musicians; review box: Penguin Guide Core Collection + crown, AllMusic 4/5, DownBeat 3.5/5, Rolling Stone 4/5, Encyclopedia of Popular Music 5/5)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Jazz_in_Silhouette"
+    },
+    "S2": {
+      "title": "Discogs — Sun Ra And His Arkestra, Jazz in Silhouette (release 8345356: credits and 'Recorded At El Saturn Studio')",
+      "type": "web",
+      "url": "https://www.discogs.com/release/8345356-Sun-Ra-And-His-Arkestra-Jazz-In-Silhouette"
+    },
+    "S3": {
+      "title": "Sun Ra official Bandcamp — Jazz in Silhouette (Expanded Edition): personnel, producer credit, session context",
+      "type": "web",
+      "url": "https://sunramusic.bandcamp.com/album/jazz-in-silhouette-expanded-edition"
+    },
+    "S4": {
+      "title": "LondonJazzCollector — Sun Ra: Jazz in Silhouette (1959) DOL reissue (personnel, March 6 1959 El Saturn Studio Chicago, El Saturn LP 205)",
+      "type": "web",
+      "url": "https://londonjazzcollector.wordpress.com/2014/12/10/sun-ra-jazz-in-silhouette-1959-dol-reissue/"
+    },
+    "S5": {
+      "title": "musicalphabet — Pat Patrick (personnel list and March 1959 El Saturn session note)",
+      "type": "web",
+      "url": "https://musicalphabet.com/tag/pat-patrick/"
+    },
+    "S6": {
+      "title": "iTunes Search API — Sun Ra 'Jazz In Silhouette (Expanded Edition)' (collectionId 1692814231)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=sun+ra+jazz+in+silhouette&entity=album&limit=10"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group 9e656f56-9d0d-34fa-82f0-b31062305588",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/9e656f56-9d0d-34fa-82f0-b31062305588"
+    },
+    "S8": {
+      "title": "MusicBrainz — release group 9e656f56-9d0d-34fa-82f0-b31062305588 (recorded at El Saturn Studio, Chicago, 1958 per some releases)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/9e656f56-9d0d-34fa-82f0-b31062305588"
+    },
+    "S9": {
+      "title": "Sun Ra Archive / Elusive Disc — 'El Saturn Studio' note (Astro Black jacket copy: 'There never was such an animal as the El Saturn Studio, in Chicago or in any other town')",
+      "type": "web",
+      "url": "https://sunraarchive.yourwebsitespace.com/sun_ra_news"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-03-06"
+    ],
+    "multi_session": false,
+    "studio": "El Saturn Studio, Chicago, IL (as printed on the release; venue disputed — see notes)",
+    "recording_sites": [
+      {
+        "session_date": "1959-03-06",
+        "site_raw": "El Saturn Studio, Chicago",
+        "site_slug": null,
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alton Abraham",
+    "engineer": null,
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Sun Ra",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Le Sony'r Ra",
+          "Herman Blount"
+        ],
+        "notes": "Also credited with celeste and gong (Wikipedia, Discogs, musicalphabet); the 2023 expanded edition adds organ to his credit."
+      },
+      {
+        "name": "Hobart Dotson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Co-composer of 'Enlightenment'."
+      },
+      {
+        "name": "Bo Bailey",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia, the 2023 expanded-edition personnel list and LondonJazzCollector's sleeve-derived list all credit Bo Bailey on trombone."
+      },
+      {
+        "name": "Julian Priester",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Conflict preserved: Discogs release 8345356 (a 2016 reissue) credits Julian Priester on trombone instead of Bo Bailey, while Wikipedia, the official 2023 expanded edition and LondonJazzCollector credit Bo Bailey. Priester did join the Arkestra, but on the later Chicago sessions; the Discogs credit is treated as uncertain rather than preferred. Both claims recorded, neither resolved here."
+      },
+      {
+        "name": "Marshall Allen",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also flute (Wikipedia, Discogs); percussion on the expanded-edition credit."
+      },
+      {
+        "name": "James Spaulding",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also flute and percussion."
+      },
+      {
+        "name": "John Gilmore",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Featured voice; also credited with percussion, and with clarinet on the expanded-edition personnel."
+      },
+      {
+        "name": "Pat Patrick",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [
+          "Patrick L. Patrick"
+        ],
+        "notes": "Also flute and percussion (Discogs lists baritone sax and flute)."
+      },
+      {
+        "name": "Charles Davis",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Also percussion."
+      },
+      {
+        "name": "Ronnie Boykins",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Credited simply as 'bass' in all sources."
+      },
+      {
+        "name": "William Cochran",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [
+          "William 'Bugs' Cochran"
+        ],
+        "notes": "Sources agree on Cochran for this session; the expanded edition also credits other drummers (Robert Barry, Alvin Fielder) on contemporaneous material from the same sessions, not on this album's eight tracks."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Enlightenment",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:02",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra",
+          "Hobart Dotson"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Saturn",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:37",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Velvet",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:19",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ancient Aiethopia",
+        "track_number": 4,
+        "side": "A",
+        "duration": "9:08",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Hours After",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:04",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra",
+          "Everett Turner"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Horoscope",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:45",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Images",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:50",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Blues at Midnight",
+        "track_number": 8,
+        "side": "B",
+        "duration": "11:37",
+        "session_date": "1959-03-06",
+        "composers": [
+          "Sun Ra"
+        ],
+        "personnel": null,
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "9e656f56-9d0d-34fa-82f0-b31062305588",
+    "apple_album_id": "1692814231",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/b69a3b9f-288f-3b8d-907b-b7a3ffeb9162/19797572347.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front cover via Cover Art Archive for release group 9e656f56. Wikipedia notes the original 1959 Saturn pressing carried a simple silk-screened sleeve credited to HP Corbissero, replaced in the early 1960s by the familiar sci-fi cover credited to 'Evans'; which of these the archive image represents is not stated by the source, hence inf rather than obs."
+      }
+    ],
+    "notes": "THE RECORDED PLACE IS UNRESOLVED AND IS RECORDED AS SUCH. Wikipedia, Discogs, MusicBrainz and the 2023 expanded edition all print 'El Saturn Studio, Chicago', and the session date (March 6, 1959) is not in dispute — discographer Robert Campbell located the original tape box carrying that date, correcting the long-standing 1958 attribution [S1]. But the Sun Ra Archive states plainly that 'there never was such an animal as the El Saturn Studio, in Chicago or in any other town', the name having been printed routinely on Saturn/Impulse! jackets for recordings made elsewhere [S9]. A place that may not exist is not minted: no site_slug is asserted, no site_new is supplied, and the session carries epistemic 'unk' with the printed string preserved in site_raw. If John wants a Chicago-scene place for early Ra, the honest options are a documented venue or a city-level 'Chicago (venue unidentified)' row — not this jacket string. PRODUCER: Wikipedia's infobox credits Alton Abraham, Ra's manager and Saturn co-founder [S1]; the official 2023 expanded edition says 'All tracks produced by Sun Ra' [S3]. Abraham is recorded as the primary credit with the conflict noted; no engineer is credited anywhere, so engineer is null with epistemic_production unk. SESSION CONTEXT: the March 6, 1959 session also yielded the whole of Sound Sun Pleasure!! and 'Interstellar Low Ways' from the album of the same name [S1]; only this album's eight tracks are recorded above. Track personnel is album-level (no source gives a per-track breakdown), so personnel is null on each track and track_assignments_complete is false. APPLE MUSIC: no original-edition streaming copy was found; the only Apple release is the 2023 'Jazz In Silhouette (Expanded Edition)' (collectionId 1692814231, Cosmic Myth Records, 22 tracks) [S6]. CATALOG: sources disagree on the original Saturn catalogue number (LondonJazzCollector gives El Saturn LP 205; Discogs lists K7OP-3590/3591), so catalog_number is left empty rather than guessed."
+  },
+  "ballot": {
+    "album": "Sun Ra and His Arkestra — Jazz in Silhouette (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The strongest case is unusually clear critical recognition: the dossier reports that The Penguin Guide selected the album for its Core Collection, awarded it a crown, and called it potentially one of the most important jazz records since the war; it also lists favorable ratings from AllMusic, DownBeat, Rolling Stone, and The Encyclopedia of Popular Music [S1]. The album captures Ra’s composed, arranged Chicago-era Arkestra, including John Gilmore, Marshall Allen, Pat Patrick, and Ronnie Boykins [S1–S3], while “Enlightenment” became a lasting concert staple [S1]. Its melodic, swinging presentation also makes it a compelling discovery entry point to the Arkestra.",
+    "case_against": "The main weakness is evidentiary: the dossier’s claims about the Penguin Guide and the review ratings are all presented through Wikipedia [S1], while the other cited sources primarily support metadata and personnel rather than independently establishing canon standing. The album’s conventional hard-bop-era presentation is also not fully representative of the radical, experimental work most associated with Ra’s broader historical significance. Its limited original circulation further makes retrospective critical acclaim a stronger signal than documented contemporary impact.",
+    "disagreement": null,
+    "recommendation": "The council advises John to include it as a strong, consensus-backed Ra selection, while treating the canonical consensus as less independently sourced than the dossier’s review list may suggest.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

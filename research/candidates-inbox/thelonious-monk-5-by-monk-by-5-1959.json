@@ -1,0 +1,342 @@
+{
+  "id": "thelonious-monk-5-by-monk-by-5-1959",
+  "artist": "Thelonious Monk",
+  "album": "5 by Monk by 5",
+  "year": 1959,
+  "label": "Riverside",
+  "catalog_number": "RLP 12-305",
+  "style_primary": "hard-bop",
+  "rationale": "Monk's only trumpet/tenor quintet album — the one use of the standard post-bop front-line format in his six Riverside years — and the date that sits near the start of Charlie Rouse's decade-long tenure as Monk's tenor voice, while guest Thad Jones supplies a brass voice of comparable angularity [S1,S3,S5] (obs). Recorded June 1-4, 1959 at Reeves Sound Studios, New York, produced by Orrin Keepnews, engineered by Jack Higgins [S1,S2,S3,S4,S9] (obs). All five pieces are Monk originals, and two of them are permanent: 'Straight, No Chaser' and 'Ask Me Now'; the set also premieres 'Played Twice' and 'Jackie-ing' [S1] (obs). Consensus/reception: Wikipedia's review box records AllMusic 4/5, The Penguin Guide to Jazz 3/5 and The Rolling Stone Jazz Record Guide 4/5; the Penguin entry calls it 'a relatively little-known Monk session, but a very good one' [S1] (obs). Session gravity is high — Monk's 1959 working quartet (Rouse, Sam Jones, Art Taylor) plus Thad Jones, the Basie star who was one of the few horn players who could negotiate Monk's music [S3,S5] (inf). It still plays: a live, five-sided quintet set that is the most approachable of Monk's late-Riverside studio dates [S1,S5] (inf).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — 5 by Monk by 5 (recording dates, personnel, review box: AllMusic 4/5, Penguin Guide 3/5, Rolling Stone Jazz Record Guide 4/5)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/5_by_Monk_by_5"
+    },
+    "S2": {
+      "title": "jazzdisco.org — Riverside Records Discography: 1959 (session-level dates, personnel, Reeves Sound Studios, RLP 12-305)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/riverside-records/discography-1959/"
+    },
+    "S3": {
+      "title": "Vinyl Standard — Thelonious Monk: Riverside Years (session date, Reeves Sound Studios, producer, RLP 12-305)",
+      "type": "web",
+      "url": "https://vinylstandard.com/thelonious-monk-riverside.html"
+    },
+    "S4": {
+      "title": "recordsale.de — 5 By Monk By 5 credits (engineer Jack Higgins)",
+      "type": "web",
+      "url": "https://recordsale.de/en/artists/thelonious-monk/albums/5-by-monk-by-5"
+    },
+    "S5": {
+      "title": "AllMusic — 5 by Monk by 5 (styles: Hard Bop / Piano Jazz; recording date June 1-2, 1959, New York, NY)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/5-by-monk-by-5-mw0000200093"
+    },
+    "S6": {
+      "title": "iTunes Search API — Thelonious Monk '5 By Monk By 5' (collectionId 1442858799)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=thelonious+monk+5+by+monk+by+5&entity=album&limit=10"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group 77ece7ef-3025-3aba-b667-8846e94fa194",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/77ece7ef-3025-3aba-b667-8846e94fa194"
+    },
+    "S8": {
+      "title": "MusicBrainz — release group 77ece7ef-3025-3aba-b667-8846e94fa194",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/77ece7ef-3025-3aba-b667-8846e94fa194"
+    },
+    "S9": {
+      "title": "Jazz Codex — Jack Higgins sessions (credits 5 By Monk By 5, The Thelonious Monk Quintet: Engineer)",
+      "type": "web",
+      "url": "https://www.jazzcodex.com/artists/jack-higgins/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-06-01",
+      "1959-06-02",
+      "1959-06-04"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1959-06-01",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1959-06-02",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1959-06-04",
+        "site_raw": "Reeves Sound Studios, New York",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Thad Jones",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Credited on cornet (not trumpet) in Wikipedia, jazzdisco and AllMusic. Guest with Monk's working quartet; Concord's label notes call him the one guest on an otherwise working-band date."
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Near the start of his decade-long association with Monk."
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [
+          "Samuel Jones"
+        ],
+        "notes": "Credited simply as 'bass' in sources."
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S5"
+        ],
+        "name_variants": [
+          "Arthur Taylor"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Jackie-ing",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:06",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Thad Jones",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Straight, No Chaser",
+        "track_number": 2,
+        "side": "A",
+        "duration": "9:21",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Thad Jones",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Played Twice",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:59",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Thad Jones",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I Mean You",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:47",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk",
+          "Coleman Hawkins"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Thad Jones",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ask Me Now",
+        "track_number": 5,
+        "side": "B",
+        "duration": "10:46",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Thad Jones",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "77ece7ef-3025-3aba-b667-8846e94fa194",
+    "apple_album_id": "1442858799",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/dd5f2002-a378-4a94-bcca-d5ef5bf8bf8c/43622701609.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover for the Riverside LP, via MusicBrainz release dd5f2002-a378-4a94-bcca-d5ef5bf8bf8c."
+      }
+    ],
+    "notes": "Session distribution: sources agree the album was cut over three dates in early June 1959, but not on the third. Wikipedia and Vinyl Standard give June 1, 2 & 4, 1959 [S1,S3]; jazzdisco.org (Lord-derived) lists June 1 and 2 only [S2]; AllMusic's recording-date field gives June 1-2, 1959 [S5]. The June 4 date is therefore carried as a third recording_sites entry with epistemic 'unk' — the venue (Reeves Sound Studios) is not in dispute. All five tracks are Monk originals performed by the same quintet, and no source distinguishes per-track personnel, so track assignments are recorded at album scope and track_assignments_complete is false. The Original Jazz Classics CD (OJCCD-362-2) adds two previously rejected takes of 'Played Twice'; these are reissue-only and excluded above. Producer Orrin Keepnews and engineer Jack Higgins are the Riverside house credits for these sessions; Jack Higgins is the Reeves Sound Studios house engineer of the period [S4,S9] and is corroborated as this album's engineer by two independent credit listings [S4,S9], though Wikipedia and AllMusic do not print an engineer (obs)."
+  },
+  "ballot": {
+    "album": "Thelonious Monk — 5 by Monk by 5 (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album documents a distinctive Monk quintet with Thad Jones alongside Charlie Rouse, Sam Jones, and Art Taylor, and its buoyant readings make Monk's writing accessible in a two-horn hard-bop setting (S1, S2, S5). It premieres “Jackie-ing” and “Played Twice,” while the unusual ensemble and early Rouse-era context give it real session and lineage value. The favorable AllMusic and Rolling Stone ratings support its quality, even if they do not establish canon-level consensus (S1).",
+    "case_against": "The consensus evidence is modest: the Penguin Guide gives it 3/5 and calls it a relatively little-known session, while the dossier supplies no major canon-list citation (S1). It remains secondary to more defining Monk records such as “Brilliant Corners” and “Monk’s Music,” and it does not introduce Rouse to Monk’s recording history—Rouse had appeared on earlier Monk sessions. Its unusual lineup and strong playing may make it a valuable catalog entry without making it indispensable.",
+    "disagreement": "Both references recommend contested/strong, but they differ on whether this album is the studio debut of the Monk–Rouse partnership: Gemini says it is, while Minimax notes earlier Monk–Rouse recordings. The earlier sessions make the debut claim untenable, narrowing the album’s lineage case to an early document of the partnership rather than its beginning.",
+    "recommendation": "John should consider it as a strong, non-definitive Monk entry, weighing its unusual quintet and premieres against its secondary critical standing.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
