@@ -1,0 +1,355 @@
+{
+ "id": "john-coltrane-and-johnny-hartman-john-coltrane-and-johnny-hartman-1963",
+ "artist": "John Coltrane and Johnny Hartman",
+ "album": "John Coltrane and Johnny Hartman",
+ "year": 1963,
+ "label": "Impulse!",
+ "catalog_number": "A-40",
+ "style_primary": "post-bop",
+ "rationale": "This is the ballad record of Coltrane's Classic Quartet - the only album he made with a singer as co-leader, and the one that fixed Johnny Hartman in the canon: 'Hartman is the only vocalist with whom the saxophonist recorded as a leader' [S1] (obs). It has become a classic ballad jazz album, and its readings of 'Lush Life', 'My One and Only Love' and 'They Say It's Wonderful' are called definitive [S1] (obs). Consensus across independent listing traditions: Wikipedia's review box records AllMusic 5/5, the Rolling Stone Jazz Record Guide 5/5, The Encyclopedia of Popular Music 4/5 and The Penguin Guide to Jazz 3.5/5 - US guides emphatic, Penguin notably cooler; Scott Yanow's AllMusic review calls it 'essential for all jazz collections', and it was inducted into the Grammy Hall of Fame in 2013 [S1] (obs). Session gravity is high: one date, March 7, 1963, with the working quartet at its peak - Coltrane, McCoy Tyner, Jimmy Garrison, Elvin Jones - all six tunes cut in single takes except 'You Are Too Beautiful', which needed two because Elvin Jones dropped a stick [S1,S3] (obs). Lineage: the canon holds the quartet's A Love Supreme (1964) and Duke Ellington & John Coltrane (1963); this is the same band on the other side of its register, and Kurt Elling's 2009 Dedicated to You is a full-album tribute to it [S1] (obs). It still plays: plainly a record a curious listener can be sent to cold - a singer and a saxophone, unhurried, thirty-one minutes [S2] (inf). Style note: AllMusic files it under Jazz/Vocal with styles Standards, Vocal Jazz, Torch Songs - no genre bucket - so the canon code is a judgment call; filed post-bop to match the canon's filing of the 1963 Coltrane Impulse! date Duke Ellington & John Coltrane, and the council may prefer hard-bop (the canon's code for its other vocal-with-jazz-group record, Sarah Vaughan with Clifford Brown, 1954) - John rules.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "Wikipedia - John Coltrane and Johnny Hartman (released July/August 1963, Impulse! A-40; recorded March 7, 1963, Van Gelder Studio, Englewood Cliffs NJ; producer Bob Thiele; personnel; track list with composers and durations; Michael Cuscuna overdub note; Grammy Hall of Fame 2013; review box: AllMusic 5/5, Rolling Stone Jazz Record Guide 5/5, Penguin 3.5/5, Encyclopedia of Popular Music 4/5; Scott Yanow 'essential for all jazz collections'; MusicBrainz RG 6324bb2f-8ff2-31f1-990d-cc6afc2d6614)",
+   "type": "web",
+   "url": "https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman"
+  },
+  "S2": {
+   "title": "AllMusic - John Coltrane and Johnny Hartman (mw0000263500; release 1963; duration 31:07; Genres Jazz, Vocal; Styles Standards, Vocal Jazz, Torch Songs, Jazz Instrument, Saxophone Jazz; Recording Date March 7, 1963; Recording Location Van Gelder Studios, Englewood Cliffs, NJ; six-track listing)",
+   "type": "web",
+   "url": "https://www.allmusic.com/album/john-coltrane-and-johnny-hartman-mw0000263500"
+  },
+  "S3": {
+   "title": "MusicBrainz - release e952efce-418d-39cf-90da-bf31792dea88 (John Coltrane and Johnny Hartman): per-track credits - Rudy van Gelder recording engineer, Bob Thiele producer, Jimmy Garrison double bass, Elvin Jones drums, McCoy Tyner piano, John Coltrane tenor saxophone, Johnny Hartman vocals; recorded at Van Gelder Studio (Englewood Cliffs), 1963-03-07",
+   "type": "web",
+   "url": "https://musicbrainz.org/release/e952efce-418d-39cf-90da-bf31792dea88"
+  },
+  "S4": {
+   "title": "Qobuz - John Coltrane and Johnny Hartman (Impulse!, released 01/07/1963): track credits - John Coltrane and Johnny Hartman main artists, Bob Thiele producer, Rudy Van Gelder recording engineer; six tracks with composers",
+   "type": "web",
+   "url": "https://www.qobuz.com/us-en/album/john-coltrane-and-johnny-hartman-john-coltrane-and-johnny-hartman/i1nw1rs1d0clc"
+  },
+  "S5": {
+   "title": "Austin Public Library (BiblioCommons) catalogue record - 'Recorded at the Van Gelder Studio, Englewood Cliffs, New Jersey, on March 7, 1963'; personnel John Coltrane saxophone, Johnny Hartman vocals, with McCoy Tyner piano, Jimmy Garrison bass, Elvin Jones drums; 'Original sessions produced by Bob Thiele'",
+   "type": "web",
+   "url": "https://austin.bibliocommons.com/v2/record/S67C1449420"
+  },
+  "S6": {
+   "title": "iTunes Search API - John Coltrane & Johnny Hartman, 'John Coltrane and Johnny Hartman', collectionId 1440640282 (Impulse!/UMG, 6 tracks, releaseDate 1963-01-01)",
+   "type": "web",
+   "url": "https://itunes.apple.com/search?term=john+coltrane+johnny+hartman&entity=album&limit=10"
+  },
+  "S7": {
+   "title": "Cover Art Archive - release group 6324bb2f-8ff2-31f1-990d-cc6afc2d6614 (front image for release 332fdc7e-7fba-30fe-b328-ac8c9c9b0690)",
+   "type": "web",
+   "url": "https://coverartarchive.org/release-group/6324bb2f-8ff2-31f1-990d-cc6afc2d6614"
+  },
+  "S8": {
+   "title": "German Wikipedia - John Coltrane and Johnny Hartman (Besetzung: Coltrane tenor saxophone, Hartman vocals, McCoy Tyner piano, Jimmy Garrison bass, Elvin Jones drums; Produktion Bob Thiele; Studio: Rudy Van Gelder Studios, Englewood Cliffs - independent corroboration of personnel and studio)",
+   "type": "web",
+   "url": "https://de.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1963-03-07"
+  ],
+  "multi_session": false,
+  "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+  "recording_sites": [
+   {
+    "session_date": "1963-03-07",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   }
+  ],
+  "producer": "Bob Thiele",
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "John Coltrane",
+    "instrument": "tenor saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": "Co-leader. Later overdubbed additional obbligato saxophone phrases behind the vocal on 'My One and Only Love', 'Lush Life' and 'You Are Too Beautiful'; a new master with added echo replaced the original master after first release [S1]."
+   },
+   {
+    "name": "Johnny Hartman",
+    "instrument": "vocals",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": "The only vocalist Coltrane recorded with as a leader [S1]. Per Hartman, every song was cut in one take except 'You Are Too Beautiful', which took two [S1]."
+   },
+   {
+    "name": "McCoy Tyner",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Jimmy Garrison",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Elvin Jones",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "They Say It's Wonderful",
+    "track_number": 1,
+    "side": "A",
+    "duration": "5:20",
+    "session_date": "1963-03-07",
+    "composers": [
+     "Irving Berlin"
+    ],
+    "personnel": [
+     "John Coltrane",
+     "Johnny Hartman",
+     "McCoy Tyner",
+     "Jimmy Garrison",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "Dedicated to You",
+    "track_number": 2,
+    "side": "A",
+    "duration": "5:32",
+    "session_date": "1963-03-07",
+    "composers": [
+     "Sammy Cahn",
+     "Saul Chaplin",
+     "Hy Zaret"
+    ],
+    "personnel": [
+     "John Coltrane",
+     "Johnny Hartman",
+     "McCoy Tyner",
+     "Jimmy Garrison",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "My One and Only Love",
+    "track_number": 3,
+    "side": "A",
+    "duration": "4:55",
+    "session_date": "1963-03-07",
+    "composers": [
+     "Guy Wood",
+     "Robert Mellin"
+    ],
+    "personnel": [
+     "John Coltrane",
+     "Johnny Hartman",
+     "McCoy Tyner",
+     "Jimmy Garrison",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "Lush Life",
+    "track_number": 4,
+    "side": "B",
+    "duration": "5:29",
+    "session_date": "1963-03-07",
+    "composers": [
+     "Billy Strayhorn"
+    ],
+    "personnel": [
+     "John Coltrane",
+     "Johnny Hartman",
+     "McCoy Tyner",
+     "Jimmy Garrison",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "You Are Too Beautiful",
+    "track_number": 5,
+    "side": "B",
+    "duration": "5:36",
+    "session_date": "1963-03-07",
+    "composers": [
+     "Richard Rodgers",
+     "Lorenz Hart"
+    ],
+    "personnel": [
+     "John Coltrane",
+     "Johnny Hartman",
+     "McCoy Tyner",
+     "Jimmy Garrison",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ],
+    "notes": "Took two takes at the session; the released take is the one recorded after Elvin Jones dropped a drumstick [S1]."
+   },
+   {
+    "title": "Autumn Serenade",
+    "track_number": 6,
+    "side": "B",
+    "duration": "4:19",
+    "session_date": "1963-03-07",
+    "composers": [
+     "Peter DeRose",
+     "Sammy Gallop"
+    ],
+    "personnel": [
+     "John Coltrane",
+     "Johnny Hartman",
+     "McCoy Tyner",
+     "Jimmy Garrison",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "6324bb2f-8ff2-31f1-990d-cc6afc2d6614",
+  "apple_album_id": "1440640282",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release/332fdc7e-7fba-30fe-b328-ac8c9c9b0690/20472472917.jpg",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": "Release-group front; the release group carries a single front image."
+   }
+  ],
+  "notes": "Single session, March 7, 1963, Van Gelder Studio, Englewood Cliffs, NJ - all six tracks from one date [S1,S3,S5]. Engineer/producer confirmed by three independent sources (MusicBrainz per-track credits, Qobuz, the library catalogue's 'original sessions produced by Bob Thiele') [S3,S4,S5]. Track order and side assignment follow the LP (side one: 1-3; side two: 4-6) [S1]. Barry Kernfeld's 2005 tape review documented complete alternate takes of all six songs, unreleased pending ownership between the Coltrane family and Universal Music; no reissue additions are listed here [S1]."
+ },
+ "ballot": {
+  "album": "John Coltrane and Johnny Hartman — John Coltrane and Johnny Hartman (1963)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "consensus_core",
+  "priority": "strong",
+  "case_for": "The album is Hartman’s defining recording and Coltrane’s only album with a vocalist as leader, pairing him with the Classic Quartet for celebrated readings of standards including “Lush Life” [S1, S3]. Its landmark standing is supported by high ratings from AllMusic and the Rolling Stone Jazz Record Guide, Grammy Hall of Fame induction, and Yanow’s “essential for all jazz collections” assessment [S1]. The focused, accessible 31-minute session also extends the picture of the quartet already represented in the canon, showing its lyrical ballad register [S1, S2, S3].",
+  "case_against": "This is a songbook ballad date rather than a major step in post-bop’s harmonic or rhythmic development: Coltrane mainly accompanies Hartman and offers concise ballad statements, making it less central to the tradition’s innovations than records such as A Love Supreme. Critical consensus is strong but not uniform: Penguin’s 3.5/5 is cooler than the top ratings cited from other guides [S1].",
+  "disagreement": "Both references judge the album consensus_core, but differ on priority: one rates it strong because the canon is not visibly incomplete without it, while the other calls it must_have as an indispensable cornerstone of vocal-tenor jazz.",
+  "recommendation": "The council proposes John treat this as a consensus-core, strong-priority candidate that adds an essential lyrical dimension to the Classic Quartet’s story.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

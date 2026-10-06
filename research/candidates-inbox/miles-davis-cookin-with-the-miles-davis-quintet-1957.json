@@ -1,0 +1,313 @@
+{
+ "id": "miles-davis-cookin-with-the-miles-davis-quintet-1957",
+ "artist": "Miles Davis",
+ "album": "Cookin' with the Miles Davis Quintet",
+ "year": 1957,
+ "label": "Prestige",
+ "catalog_number": "PRLP 7094",
+ "style_primary": "hard-bop",
+ "rationale": "Cookin' is the first-released of the four LPs cut from the Miles Davis Quintet's fabled Prestige sessions, and the one that documents the First Great Quintet's live book in the studio: 'the first of the four albums derived from... the concept being that the band would document its vast live-performance catalog in a studio environment' [S2] (obs). Ira Gitler's original liner notes call them 'the group - the best small combo active in modern jazz' and quote Prestige's Bob Weinstock calling them 'the Louis Armstrong Hot Five of the modern era' [S3,S8] (obs). Lineage: the canon already holds the set's Relaxin' (1958) and the Columbia records that follow it; Cookin' is the missing first panel of the Prestige quintet - Davis, Coltrane, Garland, Chambers, Philly Joe Jones - the band Coltrane left for Giant Steps [S1,S2] (obs). Consensus across independent listing traditions: Wikipedia's review box records AllMusic 4.5/5, the Penguin Guide to Jazz 4/5, the Rolling Stone Jazz Record Guide 5/5, The Encyclopedia of Popular Music 4/5, All About Jazz 4/5, Disc 5/5 and Music Box 5/5 [S1] (obs). Session gravity is high: two marathon 1956 dates produced twenty-six master takes and four albums, repertory called on the stand rather than rehearsed for the date [S3,S4] (obs). It still plays: 'Tune Up/When Lights Are Low' is plainly a highlight of the quintet's whole tenure - 'all the elements converge upon this fundamentally swinging medley' (Lindsay Planer, AllMusic) [S2] (obs). Style note: filed hard-bop, matching the canon's filing of its sibling Relaxin' (1958); AllMusic tags it Bop/Hard Bop/Cool/Post-Bop [S2] (obs).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "Wikipedia - Cookin' with the Miles Davis Quintet (released July 1957, Prestige; recorded Van Gelder Studio, Hackensack NJ; personnel with Coltrane 'except 1'; track list with writers and durations; cover by Reid Miles, illustration Phil Hays; review box: AllMusic 4.5/5, Penguin 4/5, Rolling Stone Jazz Record Guide 5/5, Encyclopedia of Popular Music 4/5, All About Jazz 4/5, Disc 5/5, Music Box 5/5; Planer and Chris May quotes; MusicBrainz RG 6482fdfd-5db6-3fd4-9db3-f0efbf169ced)",
+   "type": "web",
+   "url": "https://en.wikipedia.org/wiki/Cookin%27_with_the_Miles_Davis_Quintet"
+  },
+  "S2": {
+   "title": "AllMusic - Cookin' With the Miles Davis Quintet (mw0000649470; release July 1957; duration 34:02; Styles Bop, Hard Bop, Cool, Post-Bop, Jazz Instrument, Trumpet Jazz; Recording Date October 26, 1956; Recording Location Van Gelder Studios, Hackensack, NJ; four-track listing; Lindsay Planer review; Prestige release listings)",
+   "type": "web",
+   "url": "https://www.allmusic.com/album/cookin-with-the-miles-davis-quintet-mw0000649470"
+  },
+  "S3": {
+   "title": "AlbumLinerNotes.com - Cookin' (Prestige P-7094 / OJCCD-128-2): original liner notes by Ira Gitler. Track list with writing credits and durations; personnel; 'Supervision by Bob Weinstock / Recorded in Hackensack, NJ., October 26, 1956 / Recording engineer: Rudy Van Gelder'; 'In the two studio sessions that were made in that period... All in all, 24 extended performances were recorded'",
+   "type": "liner-notes",
+   "url": "https://albumlinernotes.com/Cookin_.html"
+  },
+  "S4": {
+   "title": "jazzdisco.org - Miles Davis Discography, session 561026: The Miles Davis Quintet, Van Gelder Studio, Hackensack, NJ, October 26, 1956 (Miles Davis trumpet; John Coltrane tenor sax #1-11; Red Garland piano; Paul Chambers bass; Philly Joe Jones drums). Masters 1002-1006 assigned to Prestige PRLP 7094 (Cookin', 1957). Session 560511 (May 11, 1956, same studio) yields masters 888-901, none of which are on PRLP 7094",
+   "type": "discography",
+   "url": "https://www.jazzdisco.org/miles-davis/discography/"
+  },
+  "S5": {
+   "title": "MusicBrainz - release 213f3c2e-0b62-434c-b864-1281cb802963 (Cookin' With the Miles Davis Quintet): per-track credits - Rudy van Gelder recording engineer, Bob Weinstock producer, Miles Davis trumpet, Red Garland piano, Paul Chambers double bass, Philly Joe Jones drums, John Coltrane tenor saxophone; recorded at Van Gelder Studio (Hackensack), 1956-10-26",
+   "type": "web",
+   "url": "https://musicbrainz.org/release/213f3c2e-0b62-434c-b864-1281cb802963"
+  },
+  "S6": {
+   "title": "iTunes Search API - Miles Davis Quintet, 'Cookin' With the Miles Davis Quintet', collectionId 1442376779 (Prestige/Fantasy, 4 tracks, releaseDate 1957-07-01)",
+   "type": "web",
+   "url": "https://itunes.apple.com/search?term=miles+davis+cookin+with+the+miles+davis+quintet&entity=album&limit=10"
+  },
+  "S7": {
+   "title": "Cover Art Archive - release group 6482fdfd-5db6-3fd4-9db3-f0efbf169ced (front image for release b4fe63e3-6358-40ce-8d67-96a7885a9c8b)",
+   "type": "web",
+   "url": "https://coverartarchive.org/release-group/6482fdfd-5db6-3fd4-9db3-f0efbf169ced"
+  },
+  "S8": {
+   "title": "milesdavis.com - Cookin' With The Miles Davis Quintet (official album page: track list, personnel - Davis trumpet, Coltrane tenor saxophone, Garland piano, Chambers bass, Philly Joe Jones drums; 'Prestige president Bob Weinstock lauded them \"the Louis Armstrong Hot Five of the modern era\"')",
+   "type": "web",
+   "url": "https://www.milesdavis.com/albums/cookin-with-the-miles-davis-quintet/"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1956-10-26"
+  ],
+  "multi_session": false,
+  "studio": "Van Gelder Studio, Hackensack, NJ",
+  "recording_sites": [
+   {
+    "session_date": "1956-10-26",
+    "site_raw": "Van Gelder Studio, Hackensack, NJ",
+    "site_slug": "van-gelder-studio-hackensack",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S4"
+   }
+  ],
+  "producer": "Bob Weinstock",
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Miles Davis",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": "Bandleader; composer of 'Tune Up' (credited on the LP as part of the 'Tune Up/When Lights Are Low' medley)."
+   },
+   {
+    "name": "John Coltrane",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Blues by Five",
+     "Airegin",
+     "Tune Up / When Lights Are Low"
+    ],
+    "session_dates": [
+     "1956-10-26"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": "Present on all four LP sides except 'My Funny Valentine': Wikipedia lists him '(except 1)' and the jazzdisco session line reads 'John Coltrane, tenor sax #1-11' of twelve masters cut that day, with master 1006 (My Funny Valentine) outside the range [S1,S4]."
+   },
+   {
+    "name": "Red Garland",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": "Credited as composer of 'Blues by Five' on the original LP [S3]; Wikipedia credits Miles Davis [S1] - conflict preserved in the track entry."
+   },
+   {
+    "name": "Paul Chambers",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Philly Joe Jones",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S8"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "My Funny Valentine",
+    "track_number": 1,
+    "side": "A",
+    "duration": "6:04",
+    "session_date": "1956-10-26",
+    "composers": [
+     "Richard Rodgers",
+     "Lorenz Hart"
+    ],
+    "personnel": [
+     "Miles Davis",
+     "Red Garland",
+     "Paul Chambers",
+     "Philly Joe Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Blues by Five",
+    "track_number": 2,
+    "side": "A",
+    "duration": "10:23",
+    "session_date": "1956-10-26",
+    "composers": [
+     "Red Garland"
+    ],
+    "personnel": [
+     "Miles Davis",
+     "John Coltrane",
+     "Red Garland",
+     "Paul Chambers",
+     "Philly Joe Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4"
+    ],
+    "notes": "Composer conflict: the original LP credits Red Garland (Prestige Music, BMI) [S3]; Wikipedia credits Miles Davis [S1]. Both recorded; no preference taken."
+   },
+   {
+    "title": "Airegin",
+    "track_number": 3,
+    "side": "B",
+    "duration": "4:26",
+    "session_date": "1956-10-26",
+    "composers": [
+     "Sonny Rollins"
+    ],
+    "personnel": [
+     "Miles Davis",
+     "John Coltrane",
+     "Red Garland",
+     "Paul Chambers",
+     "Philly Joe Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "title": "Tune Up / When Lights Are Low",
+    "track_number": 4,
+    "side": "B",
+    "duration": "13:09",
+    "session_date": "1956-10-26",
+    "composers": [
+     "Miles Davis",
+     "Benny Carter",
+     "Spencer Williams"
+    ],
+    "personnel": [
+     "Miles Davis",
+     "John Coltrane",
+     "Red Garland",
+     "Paul Chambers",
+     "Philly Joe Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4"
+    ],
+    "notes": "Printed on the LP as a single medley track; jazzdisco lists the two tunes as separate masters 1003 (Tune Up) and 1004 (When Lights Are Low), both assigned to PRLP 7094 [S4]."
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "6482fdfd-5db6-3fd4-9db3-f0efbf169ced",
+  "apple_album_id": "1442376779",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release/b4fe63e3-6358-40ce-8d67-96a7885a9c8b/21383377566.jpg",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": "Release-group front; image matches the front cover AllMusic serves for the album. LP cover design Reid Miles, illustration Phil Hays [S1,S3]."
+   }
+  ],
+  "notes": "Single session. One date, October 26, 1956, Van Gelder Studio, Hackensack, NJ - all four LP sides come from masters 1002-1006 of that date [S4]. Wikipedia's prose says 'two sessions on May 11 and October 26, 1956, resulted in four albums' [S1]; the second (May 11) session is real but supplied Relaxin', Workin' and Steamin' material only - jazzdisco assigns none of its masters 888-901 to PRLP 7094 [S4], and both AllMusic and the LP's own liner notes give October 26, 1956 as the recording date [S2,S3]. Session durations differ between the LP liner-note print (5:59 / 9:59 / 4:24 / 13:08) [S3] and Wikipedia's listing (6:04 / 10:23 / 4:26 / 13:09) [S1]; Wikipedia's figures are recorded here. Side assignment A/A/B/B follows the LP track order and the RateYourMusic credit line for PRLP 7094 (Miles Davis 'composer A2, B2'); Wikipedia and AllMusic print a single sequential listing without sides."
+ },
+ "ballot": {
+  "album": "Miles Davis — Cookin' with the Miles Davis Quintet (1957)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "consensus_core",
+  "priority": "strong",
+  "case_for": "The album has broad critical support, including 4/5 from the Penguin Guide, 5/5 from the Rolling Stone Jazz Record Guide, and 4.5/5 from AllMusic [S1]. It is the first-released document of the First Great Quintet’s working repertoire, with Davis, Coltrane, Garland, Chambers, and Philly Joe Jones captured at Van Gelder’s studio [S2, S3, S4]. The canon already holds its sibling Relaxin’, and Cookin’ adds distinctive performances including “My Funny Valentine” and the “Tune Up / When Lights Are Low” medley, which AllMusic’s Lindsay Planer calls a highlight of the quintet’s tenure [S2].",
+  "case_against": "Cookin’ belongs to a batch of four Prestige albums assembled from marathon sessions, and Relaxin’ already represents this lineup and much of the same musical setting; a selective canon could reasonably decide that one sibling is enough. The dossier establishes Cookin’s distinct tracks and first-release status, but offers limited comparative critical analysis showing why this album is indispensable beyond those distinctions.",
+  "disagreement": "Both references judge the album consensus_core, but differ on urgency and the weight of sibling-album redundancy: one calls it must_have and sees Relaxin’’s inclusion as making the omission conspicuous, while the other assigns strong priority and argues that Relaxin’ and ’Round About Midnight may already establish this lineup’s sound.",
+  "recommendation": "John should treat Cookin’ as a strong core addition, while deciding whether its distinct repertoire and first-release role justify including another Prestige-session sibling.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "openrouter:openai/gpt-6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

@@ -1,0 +1,407 @@
+{
+  "id": "miles-davis-filles-de-kilimanjaro-1968",
+  "artist": "Miles Davis",
+  "album": "Filles de Kilimanjaro",
+  "year": 1968,
+  "label": "Columbia",
+  "catalog_number": "CS 9750",
+  "style_primary": "post-bop",
+  "rationale": "Filles de Kilimanjaro is the Second Great Quintet's last studio album and the hinge between the acoustic quintet and the electric music that follows: Chick Corea and Dave Holland make their first appearances on a Davis record here (on 'Frelon Brun' and 'Mademoiselle Mabry'), and every piece was cut in 1968, months before In a Silent Way, which is already in the canon — so the lineage is audible in an album the canon holds [S1,S2,S6] (obs). Recorded at Columbia 30th Street Studio (Studio B for the June 21 date) across June 19-21 and September 24, 1968; produced by Teo Macero, engineered by Frank Laico and Arthur Kendy [S1,S2,S6] (obs). Lineage: AllMusic's Stephen Thomas Erlewine calls it 'the beginning of a new phase for Miles... the place that he begins to dive headfirst into jazz-rock fusion' and DownBeat's John Ephland calls it 'the stylistic precursor to the ever-popular In a Silent Way of 1969'; Gil Evans assisted uncredited with composition and arrangement [S1] (obs). Consensus across independent listing traditions: Wikipedia's review box records AllMusic 4 1/2 of 5, DownBeat 5/5, The Rolling Stone Jazz Record Guide 5/5, Pitchfork 9.2/10, and the Penguin Guide to Jazz 3/5 — wide agreement on significance with the Penguin notably cooler than the American guides [S1] (obs). Session gravity is high: the quintet version (Davis, Shorter, Hancock, Carter, Williams) plus the incoming pair (Corea, Holland) [S1,S2,S6] (obs). It still plays: a continuous five-part suite in F, grooving and unhurried, plainly a Davis record a newcomer can follow [S1,S2] (inf). Boundary note: AllMusic's primary style tag is Fusion alongside Post-Bop, and the June sessions use electric piano and electric bass; the dossier files it post-bop (matching the canon's treatment of In a Silent Way), and the council may prefer scope_call on the post-bop/fusion border — John rules.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Filles de Kilimanjaro (recording dates and studios, personnel with track numbers, technical personnel, Gil Evans uncredited; review box: AllMusic 4.5/5, DownBeat 5/5, Penguin Guide 3/5, Rolling Stone Jazz Record Guide 5/5, Pitchfork 9.2/10; Erlewine and Ephland quotes)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Filles_de_Kilimanjaro"
+    },
+    "S2": {
+      "title": "AllMusic — Filles de Kilimanjaro (styles Fusion/Post-Bop; recording date June 19, 1968 – September 24, 1968; recording locations Columbia 30th Street Studio and Columbia Studio B; full credits)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/filles-de-kilimanjaro-mw0000201628"
+    },
+    "S3": {
+      "title": "Cover Art Archive — release group 82fd3ab5-0fc9-3a36-8832-65afaf05c2fe",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/82fd3ab5-0fc9-3a36-8832-65afaf05c2fe"
+    },
+    "S4": {
+      "title": "MusicBrainz — release group 82fd3ab5-0fc9-3a36-8832-65afaf05c2fe",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/82fd3ab5-0fc9-3a36-8832-65afaf05c2fe"
+    },
+    "S5": {
+      "title": "iTunes Search API — Miles Davis 'Filles de Kilimanjaro' (collectionId 193522489, released 1969-02-05, Columbia)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=miles+davis+filles+de+kilimanjaro&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "jazzdisco.org — Miles Davis Discography (sessions 680619, 680620, 680621, 680924: dates, studios, personnel, matrix numbers, Columbia CS 9750)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/miles-davis/discography/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1968-06-19",
+      "1968-06-20",
+      "1968-06-21",
+      "1968-09-24"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1968-06-19",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S6"
+      },
+      {
+        "session_date": "1968-06-20",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S6"
+      },
+      {
+        "session_date": "1968-06-21",
+        "site_raw": "Columbia Studio B, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S6"
+      },
+      {
+        "session_date": "1968-09-24",
+        "site_raw": "Columbia 30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S6"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": "Frank Laico, Arthur Kendy",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Also credited as composer of all five pieces. 'Mademoiselle Mabry' reportedly reworks Jimi Hendrix's 'The Wind Cries Mary' via Gil Evans, and 'Petits Machins' was co-composed by Evans (uncredited) [S1]."
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "On all four 1968 sessions."
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "electric piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tout de Suite",
+          "Petits Machins",
+          "Filles de Kilimanjaro"
+        ],
+        "session_dates": [
+          "1968-06-19",
+          "1968-06-20",
+          "1968-06-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Fender Rhodes electric piano; the June-session keyboard player, replaced by Chick Corea for the September 24 session. The keyboard chair is the dividing line between the two quintets on this album."
+      },
+      {
+        "name": "Chick Corea",
+        "instrument": "electric piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Frelon Brun",
+          "Mademoiselle Mabry"
+        ],
+        "session_dates": [
+          "1968-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "First known recordings with Davis. AllMusic and jazzdisco credit electric piano; Wikipedia additionally credits acoustic piano on these two tracks, and Paul Tingen documents an RMI Electra-Piano."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "electric bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tout de Suite",
+          "Petits Machins",
+          "Filles de Kilimanjaro"
+        ],
+        "session_dates": [
+          "1968-06-19",
+          "1968-06-20",
+          "1968-06-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Credited as 'bass guitar' by Wikipedia and 'Bass (Electric)' by AllMusic; jazzdisco says electric bass. Carter's last appearances on a Davis studio album."
+      },
+      {
+        "name": "Dave Holland",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Frelon Brun",
+          "Mademoiselle Mabry"
+        ],
+        "session_dates": [
+          "1968-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "First known recordings with Davis, on acoustic double bass."
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Frelon Brun",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:39",
+        "session_date": "1968-09-24",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Chick Corea",
+          "Dave Holland",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ]
+      },
+      {
+        "title": "Tout de Suite",
+        "track_number": 2,
+        "side": "A",
+        "duration": "14:07",
+        "session_date": "1968-06-20",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ]
+      },
+      {
+        "title": "Petits Machins",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:07",
+        "session_date": "1968-06-19",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ]
+      },
+      {
+        "title": "Filles de Kilimanjaro",
+        "track_number": 4,
+        "side": "B",
+        "duration": "12:03",
+        "session_date": "1968-06-21",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ]
+      },
+      {
+        "title": "Mademoiselle Mabry",
+        "track_number": 5,
+        "side": "B",
+        "duration": "16:32",
+        "session_date": "1968-09-24",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Chick Corea",
+          "Dave Holland",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ]
+      },
+      {
+        "title": "Tout de suite (alternate take)",
+        "track_number": 6,
+        "side": null,
+        "duration": "14:36",
+        "session_date": "1968-06-20",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S6"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "82fd3ab5-0fc9-3a36-8832-65afaf05c2fe",
+    "apple_album_id": "193522489",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/82fd3ab5-0fc9-3a36-8832-65afaf05c2fe/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Hiro (photographer) credited with cover art on Wikipedia."
+      }
+    ],
+    "notes": "Four sessions, all 1968: June 19 (Petits Machins), June 20 (Tout de Suite and its alternate take), June 21 (Filles de Kilimanjaro, at Columbia Studio B), and September 24 (Frelon Brun, Mademoiselle Mabry). The June band is the Second Great Quintet (Hancock electric piano, Carter electric bass); the September band swaps in Corea and Holland. All four sites resolve to the canonical CBS 30th Street Studio row — the June 21 'Columbia Studio B' string is the 30th Street room's studio designation, per the canon's alias list. Label/catalog: Columbia CS 9750 (jazzdisco; AllMusic release list). Release date: UK December 1968, US February 5, 1969; the album is filed here by original recording year (1968) per the rubric's window rule. Duration variance: AllMusic gives Filles de Kilimanjaro 12:02 and Mademoiselle Mabry 16:35 against Wikipedia's 12:03 / 16:32; Wikipedia's figures are used. All songs are credited to Miles Davis on the original release; AllMusic additionally credits Gil Evans as a composer and Wikipedia records that Evans co-composed 'Petits Machins' and helped arrange and produce the album uncredited."
+  },
+  "ballot": {
+    "album": "Miles Davis — Filles de Kilimanjaro (1968)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The post-bop/fusion boundary is genuinely in play: the album is filed as post-bop but AllMusic also tags it Fusion, and its June sessions use electric piano and electric bass. Its role as a bridge to In a Silent Way supports judging it on continuity rather than label alone."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "The album makes the transition from Davis’s Second Great Quintet to his electric period audible on one record: the June sessions feature Hancock and Carter, while the September sessions introduce Corea and Holland, all documented by the dossier’s AllMusic and jazzdisco sources [S2, S6]. Its lineage case is unusually strong: AllMusic’s Erlewine calls it the beginning of a new phase, and DownBeat’s Ephland identifies it as a stylistic precursor to In a Silent Way, already in the canon [S1]. Strong ratings from DownBeat, Rolling Stone, AllMusic, and Pitchfork, together with the exceptional personnel network, reinforce its canonical value [S1].",
+    "case_against": "The album can be heard as an unsettled transition rather than a fully realized statement: its two session blocks have different rhythm sections, and it lacks the unified band identity of earlier quintet records or the distinctive architecture of In a Silent Way. The Penguin Guide’s 3/5 rating, reported in the dossier, is a meaningful counterweight to the stronger ratings elsewhere [S1]. If the canon already contains the destination and the preceding acoustic quintet, Filles may function more as historical context than as an indispensable listening experience.",
+    "disagreement": "The references agree that the album is a strong bridge candidate and that its fusion boundary matters, but differ on tier: Reference 1 chooses contested because the critical divergence and transitional quality are substantive, while Reference 2 chooses scope_call because the decisive question is whether this proto-fusion hinge belongs across the post-bop/fusion boundary.",
+    "recommendation": "John should rule on whether this post-bop/fusion hinge belongs in the canon, with its lineage and session-gravity case supporting strong consideration.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

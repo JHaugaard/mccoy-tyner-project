@@ -1,0 +1,343 @@
+{
+  "id": "andrew-hill-smoke-stack-1963",
+  "artist": "Andrew Hill",
+  "album": "Smoke Stack",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BST 84160",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "avant-garde-jazz"
+  ],
+  "rationale": "Hill's second Blue Note session as leader and his most radical small-group experiment: a hornless quartet built on two simultaneous double basses — Richard Davis and Eddie Khan — with Roy Haynes, recorded December 13, 1963 at Van Gelder Studio, Englewood Cliffs, and held three years before release in August 1966 (BST 84160) [S1,S2,S3] (obs). Wikipedia and All About Jazz both single out the piano/two-bass/drums format as an instrumentation 'likely too unorthodox, even for a label that wasn't particularly averse to the unconventional' — the record is a defining document of Hill's method of writing for overlapping voices rather than a soloist-plus-rhythm [S1,S4] (obs). Lineage/session gravity: it shares its rhythm team with Black Fire (Richard Davis, Roy Haynes, November 1963) and sits directly in the run of Hill dates that culminates in Point of Departure, making it a load-bearing link in the Andrew Hill arc the canon already holds [S1,S3,S4] (inf). Dedications give the date a personal documentary value — 'Ode to Von' to saxophonist Von Freeman, 'Verne' to Hill's first wife Laverne Gillette — and '30 Pier Avenue' names The Lighthouse in Hermosa Beach [S1] (obs). It still plays: brooding, harmonically dense and unhurried, the record is the most atmospheric of Hill's Blue Note sessions [S4] (inf). Consensus is honest but moderate: Wikipedia's review box records AllMusic 3/5, DownBeat 3/5 and The Penguin Guide to Jazz 3/5 [S1] (obs) — the case here is Hill's arc and the unorthodox writing, not a canon-list sweep.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Smoke Stack (album) (recorded December 13, 1963; released early August 1966; Van Gelder Studio, Englewood Cliffs; Blue Note BST 84160; producer Alfred Lion; personnel; track listing with durations; review box: AllMusic 3/5, DownBeat 3/5, Penguin 3/5)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Smoke_Stack_(album)"
+    },
+    "S2": {
+      "title": "AllMusic — Smoke Stack (styles: Post-Bop/Avant-Garde Jazz/Jazz Instrument/Piano Jazz; recording date December 13, 1963; recording location Van Gelder Studios, Englewood Cliffs, NJ)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/smoke-stack-mw0000644910"
+    },
+    "S3": {
+      "title": "Jazz Discography Project — Blue Note Records catalog, 4100 series (BLP 4160 Andrew Hill 'Smokestack': Andrew Hill piano; Richard Davis bass; Eddie Khan bass #1-4,6,7; Roy Haynes drums; Van Gelder Studio, Englewood Cliffs, NJ, December 13, 1963)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/blue-note-records/catalog-4100-series/"
+    },
+    "S4": {
+      "title": "All About Jazz — John Kelman review of Andrew Hill, Smoke Stack (second of six Blue Note sessions 1963-65; piano/two-bass/drums lineup; personnel and track listing)",
+      "type": "web",
+      "url": "https://www.allaboutjazz.com/smoke-stack-andrew-hill-blue-note-records-review-by-john-kelman"
+    },
+    "S5": {
+      "title": "iTunes Search API — Andrew Hill 'Smoke Stack (The Rudy Van Gelder Edition Remastered)' (collectionId 724456550)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=andrew+hill+smoke+stack&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "Cover Art Archive — release group 45d974c1-d467-322b-8dd7-ddf9f5fd4649 (front cover)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/45d974c1-d467-322b-8dd7-ddf9f5fd4649"
+    },
+    "S7": {
+      "title": "MusicBrainz — release group 45d974c1-d467-322b-8dd7-ddf9f5fd4649",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/45d974c1-d467-322b-8dd7-ddf9f5fd4649"
+    },
+    "S8": {
+      "title": "Apple Music — Andrew Hill, 'Smoke Stack' song page (production: Alfred Lion producer; Rudy Van Gelder recording engineer, mastering engineer; December 13, 1963)",
+      "type": "web",
+      "url": "https://music.apple.com/us/song/smoke-stack/724456767"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-12-13"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1963-12-13",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Andrew Hill",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composed all seven pieces."
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "One of two simultaneous bassists."
+      },
+      {
+        "name": "Eddie Khan",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The second of the two simultaneous bassists. Wikipedia and All About Jazz say the two basses 'play simultaneously throughout' [S1,S4]; jazzdisco.org instead lists Khan on six of the seven issued tracks (#1-4, 6, 7 of its session numbering), i.e. absent from one piece [S3]. The conflict is recorded, not resolved — scope is carried as all-tracks per the two prose sources."
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Returns from Hill's previous Blue Note sessions (Black Fire)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Smoke Stack",
+        "track_number": 1,
+        "side": null,
+        "duration": "5:00",
+        "session_date": "1963-12-13",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Richard Davis",
+          "Eddie Khan",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Day After",
+        "track_number": 2,
+        "side": null,
+        "duration": "5:07",
+        "session_date": "1963-12-13",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Richard Davis",
+          "Eddie Khan",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Wailing Wall",
+        "track_number": 3,
+        "side": null,
+        "duration": "5:46",
+        "session_date": "1963-12-13",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Richard Davis",
+          "Eddie Khan",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Ode to Von",
+        "track_number": 4,
+        "side": null,
+        "duration": "4:29",
+        "session_date": "1963-12-13",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Richard Davis",
+          "Eddie Khan",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Not So",
+        "track_number": 5,
+        "side": null,
+        "duration": "6:24",
+        "session_date": "1963-12-13",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Richard Davis",
+          "Eddie Khan",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Verne",
+        "track_number": 6,
+        "side": null,
+        "duration": "5:48",
+        "session_date": "1963-12-13",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Richard Davis",
+          "Eddie Khan",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "30 Pier Avenue",
+        "track_number": 7,
+        "side": null,
+        "duration": "7:06",
+        "session_date": "1963-12-13",
+        "composers": [
+          "Andrew Hill"
+        ],
+        "personnel": [
+          "Andrew Hill",
+          "Richard Davis",
+          "Eddie Khan",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "45d974c1-d467-322b-8dd7-ddf9f5fd4649",
+    "apple_album_id": "724456550",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/a0502705-db18-4fb9-bbcd-6eb47ad2b355/25207886110.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover for the Blue Note LP, via MusicBrainz release a0502705-db18-4fb9-bbcd-6eb47ad2b355."
+      }
+    ],
+    "notes": "Single session: December 13, 1963, Van Gelder Studio, Englewood Cliffs, NJ [S1,S2,S3]. Producer Alfred Lion and engineer Rudy Van Gelder are confirmed by the Apple Music credits [S8] and are the standard Blue Note house credits for a 1963 Van Gelder date [S1] (obs). Recorded 1963, released early August 1966 as Blue Note BST 84160; the year field is the 1963 recording year. Personnel is the quartet — Hill, two basses (Richard Davis and Eddie Khan), Roy Haynes — with no horns [S1,S2,S3,S4]. The one open conflict is Eddie Khan's coverage: prose sources say both basses play throughout, jazzdisco.org lists him on six of seven issued tracks; recorded, not resolved. The RVG and later CD editions add four alternate takes (of 'Smoke Stack', 'The Day After', 'Ode to Von' and 'Not So'); these are reissue-only and excluded above. Durations are the original LP timings. Sides are left null because no consulted source assigns the seven pieces to LP faces. track_assignments_complete is false — no source distinguishes per-track personnel beyond the quartet itself."
+  },
+  "ballot": {
+    "album": "Andrew Hill — Smoke Stack (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded in 1963 and squarely within the year window. Its post-bop foundation is in scope; the avant-garde edge raises a mild style-boundary question, but it is not a free-jazz gate case."
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "The hornless quartet of Hill, Richard Davis, Eddie Khan, and Roy Haynes makes this a striking experiment in writing for overlapping voices rather than a conventional soloist-plus-rhythm section (S1, S3, S4). Its place between Black Fire and Point of Departure gives it real lineage and session-gravity value within Hill’s 1963–65 Blue Note run, while All About Jazz describes an atmospheric, harmonically dense record with distinctive compositional character (S1, S4).",
+    "case_against": "The dossier’s consensus evidence is modest: AllMusic, DownBeat, and the Penguin Guide each rate it 3/5, and it cites no major canon-list or anthology recognition (S1). The unusual two-bass format and brooding, dense sound may make it a rewarding Hill-arc supplement rather than a strong discovery gateway; its marginal case is less compelling beside the better-established Black Fire and Point of Departure.",
+    "disagreement": "Both references judge the album contested, but differ on priority: Reference 1 says strong, emphasizing Hill’s arc and the defining format; Reference 2 says consider, emphasizing modest consensus and its satellite status. They also differ on scope: Reference 1 flags a mild avant-adjacent boundary, while Reference 2 sees no boundary in question.",
+    "recommendation": "John should consider it as a distinctive Hill-arc supplement, weighing its unusual compositional method against its moderate consensus and less accessible sound.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

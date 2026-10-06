@@ -1,0 +1,449 @@
+{
+  "id": "charles-mingus-oh-yeah-1962",
+  "artist": "Charles Mingus",
+  "album": "Oh Yeah",
+  "year": 1962,
+  "label": "Atlantic",
+  "catalog_number": "Atlantic 1377",
+  "style_primary": "post-bop",
+  "rationale": "Oh Yeah is the one Mingus album on which he leads from the piano instead of the bass, and it is a defining statement of his composing voice — blues, gospel, sardonic song and group shout all built around his own playing and singing [S1,S3] (obs). Recorded at Atlantic Studios, New York City, on November 6, 1961, produced by Nesuhi Ertegün and engineered by Tom Dowd and Phil Iehle [S1,S2] (obs). Session gravity is exceptional: five of Mingus's working band — Dannie Richmond, Doug Watkins, Jimmy Knepper, Booker Ervin — with Rahsaan Roland Kirk, still credited as 'Roland Kirk', doubling on tenor saxophone, flute, manzello, stritch and siren, one of Kirk's earliest appearances on a major-label jazz date [S1,S2,S3] (obs). Consensus: AllMusic rates it 5 of 5 and files it Post-Bop / Avant-Garde Jazz, with Steve Huey's review treating it as a Mingus essential; DownBeat's 1962 review gave 3 1/2 of 5 and the Penguin Guide to Jazz 3 of 5 [S1,S3] (obs). Lineage: the disc sits on the same 1959-63 Atlantic spine as Mingus Ah Um, Blues & Roots and The Black Saint and the Sinner Lady, all already in the canon, and carries the blues-and-gospel hard-bop language forward while opening the door to the avant-garde Mingus would embrace next [S1,S3] (inf). It still plays: 'Hog Callin' Blues', 'Eat That Chicken' and 'Oh Lord, Don't Let Them Drop That Atomic Bomb on Me' are among the most immediately enjoyable records in his catalogue [S1] (obs). Priority is strong rather than must_have: the canon already holds four Mingus albums, and this is the pianist chapter it does not yet have.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Oh Yeah (Charles Mingus album) (recorded November 6, 1961, Atlantic Studios, New York City; producer Nesuhi Ertegün; engineers Tom Dowd and Phil Iehle; personnel; track listing and durations; review box: AllMusic 5/5, DownBeat 3.5/5, Penguin Guide 3/5)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Oh_Yeah_(Charles_Mingus_album)"
+    },
+    "S2": {
+      "title": "jazzdisco.org — Charles Mingus Discography (session 611106, NYC, November 6, 1961: personnel, matrix numbers 5756-5768, Atlantic LP 1377)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/charles-mingus/discography/"
+    },
+    "S3": {
+      "title": "AllMusic — Oh Yeah (styles Post-Bop / Avant-Garde Jazz / Piano Jazz; credits: Booker Ervin, Mingus, Dannie Richmond, Doug Watkins, Jimmy Knepper, Rahsaan Roland Kirk, Phil Lehle, Tom Dowd, Nesuhi Ertegun)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/oh-yeah-mw0000198478"
+    },
+    "S4": {
+      "title": "Cover Art Archive — release group c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932"
+    },
+    "S5": {
+      "title": "MusicBrainz — release group c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932"
+    },
+    "S6": {
+      "title": "iTunes Search API — Charles Mingus 'Oh Yeah' (collectionId 212847506, released 1962-04-01, Atlantic)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=charles+mingus+oh+yeah&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-11-06"
+    ],
+    "multi_session": false,
+    "studio": "Atlantic Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1961-11-06",
+        "site_raw": "Atlantic Studios, New York City",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Nesuhi Ertegün",
+    "engineer": "Tom Dowd, Phil Iehle",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "Plays piano rather than his usual double bass throughout — the only Mingus album led from the keyboard — and sings on three tracks; sources do not enumerate which three. Also credited as composer and lyricist of all titles."
+      },
+      {
+        "name": "Rahsaan Roland Kirk",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Roland Kirk"
+        ],
+        "notes": "Credited as 'Roland Kirk' on the original release. Also plays flute, manzello, stritch and siren (jazzdisco; Wikipedia); manzello and stritch are Kirk's modified saxophone relatives and have no taxonomy entry, so the primary horn is recorded as tenor saxophone."
+      },
+      {
+        "name": "Booker Ervin",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Mingus's tenor of the period (The Freedom Book, already in the canon, is Ervin's own)."
+      },
+      {
+        "name": "Jimmy Knepper",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Doug Watkins",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Credited simply as 'bass' in sources; takes over the bass chair while Mingus plays piano."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Hog Callin' Blues",
+        "track_number": 1,
+        "side": null,
+        "duration": "7:27",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Devil Woman",
+        "track_number": 2,
+        "side": null,
+        "duration": "9:42",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Wham Bam Thank You Ma'am",
+        "track_number": 3,
+        "side": null,
+        "duration": "4:43",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ecclusiastics",
+        "track_number": 4,
+        "side": null,
+        "duration": "6:59",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Oh Lord Don't Let Them Drop That Atomic Bomb on Me",
+        "track_number": 5,
+        "side": null,
+        "duration": "5:43",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Eat That Chicken",
+        "track_number": 6,
+        "side": null,
+        "duration": "4:38",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Passions of a Man",
+        "track_number": 7,
+        "side": null,
+        "duration": "4:56",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "'Old' Blues for Walt's Torin",
+        "track_number": 8,
+        "side": null,
+        "duration": "7:58",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Peggy's Blue Skylight",
+        "track_number": 9,
+        "side": null,
+        "duration": "9:49",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Invisible Lady",
+        "track_number": 10,
+        "side": null,
+        "duration": "4:48",
+        "session_date": "1961-11-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Rahsaan Roland Kirk",
+          "Booker Ervin",
+          "Jimmy Knepper",
+          "Doug Watkins",
+          "Dannie Richmond"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932",
+    "apple_album_id": "212847506",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session: November 6, 1961, Atlantic Studios, New York City (jazzdisco matrix numbers 5756-5768; the album is Atlantic LP 1377 / SD 1377). Seven tracks made the original April 1962 LP (44:08 total); tracks 8-10 here are the three additional numbers cut at the same session and released later (on Tonight at Noon, 1964, and on the 1999 Rhino CD), flagged as bonus tracks. Per-track personnel coverage is not documented by the sources — they list the album's personnel for the one session — so the per-track arrays repeat the documented sextet with epistemic_track 'inf' and track_assignments_complete is false. Epistemic note on conflicts: AllMusic's credit list also carries four names tagged only 'Musician' — Chris Clarke, Faye Rosen, Ginger Spangler and Mark Pinkus — which do not appear in Wikipedia's or jazzdisco's personnel and correspond to no documented performer on this date (they appear to be reissue/compilation metadata); they are recorded here as a conflict and not entered as performers. AllMusic spells the engineer 'Phil Lehle'; Wikipedia gives 'Phil Iehle' — the latter is used, with the variant noted. Wikipedia's bonus-track durations (7:58 / 9:49 / 4:48) differ slightly from AllMusic's (8:59 / 9:48 / 4:55); Wikipedia's are used. Original LP side split is not documented by the sources consulted, so side is left null."
+  },
+  "ballot": {
+    "album": "Charles Mingus — Oh Yeah (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a singular chapter in Mingus’s work: he leads from piano and sings, bringing blues, gospel, humor, and political bite to a distinctive set of originals (S1, S3). The session pairs his working band—including Booker Ervin, Jimmy Knepper, and Dannie Richmond—with Rahsaan Roland Kirk in an early major-label appearance, giving the date substantial session gravity (S1, S2). Its immediate, earthy performances and place alongside Mingus’s Atlantic-era statements make it a strong discovery record; AllMusic rates it 5/5 and treats it as an essential Mingus album (S1, S3).",
+    "case_against": "The critical-consensus case is mixed: the dossier reports a 3/5 from the Penguin Guide and 3.5/5 from DownBeat, below the standing of Mingus’s most widely recognized landmark albums (S1). Its piano-led format is distinctive, but that distinctiveness may make it an illuminating variation rather than a defining compositional statement, and it lacks the bass-driven ensemble force central to Mingus’s signature sound. The dossier also notes incomplete per-track personnel assignments, though that limits track-level certainty more than it undermines the album’s overall case.",
+    "disagreement": null,
+    "recommendation": "John should consider adding it as a strong, contested entry that fills out Mingus’s musical range without treating it as an unquestioned pillar.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "id": "charles-mingus-tijuana-moods-1957",
+  "artist": "Charles Mingus",
+  "album": "Tijuana Moods",
+  "year": 1957,
+  "label": "RCA Victor",
+  "catalog_number": "LSP-2533",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "hard-bop"
+  ],
+  "rationale": "Mingus's own favourite among his records — he called it 'the best thing I've ever done' — and the fullest early statement of his long-form compositional method: a five-part Tijuana suite cut over two sessions, July 18 and August 6, 1957, at RCA Victor's Studio A in New York, with Clarence Shaw, Jimmy Knepper, Shafi Hadi, Bill Triglia and Dannie Richmond, plus percussionist Frankie Dunlop and castanet/vocal contributions from Ysabel Morel and Lonne Elder III [S1,S2,S3,S4] (obs). Held back five years by a legal dispute with RCA and finally issued in June 1962, it arrived alongside Oh Yeah as the record that re-established Mingus as a major composer [S1,S5] (obs). Consensus/reception: Wikipedia's review box records AllMusic 5/5, The Penguin Guide to Jazz 3.5/5 (2000 expanded edition), The Rolling Stone Jazz Record Guide 5/5 and Tom Hull 'A'; DownBeat called it 'the 1957 masterpiece on which Mingus asserts full control over his longform chops' [S1] (obs). Session gravity is high — the date pulls together the band Mingus was working with in the late 1950s, overlapping with the ensemble that would make Mingus Ah Um two years later [S1,S3] (inf). It still plays: 'Ysabel's Table Dance' and 'Los Mariachis' remain among the most vivid programmatic writing in jazz, and the album is the clearest single answer to the question of what Mingus's notation was for [S1,S4] (inf).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Tijuana Moods (recording dates July 18 & August 6, 1957; release June 1962; personnel; review box: AllMusic 5/5, Penguin Guide 3.5/5, Rolling Stone 5/5, Tom Hull A; DownBeat quotes)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Tijuana_Moods"
+    },
+    "S2": {
+      "title": "AllMusic — Tijuana Moods (styles: Post-Bop/Hard Bop/Jazz Instrument/Piano Jazz; release Aug 1962; recording dates July 18 & Aug 6 1957; recording location RCA Victor Studio A, New York, NY)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/tijuana-moods-mw0000088232"
+    },
+    "S3": {
+      "title": "Discogs — Charlie Mingus, Tijuana Moods (RCA Victor LSP-2533, 1962): full credits, engineer and producer, 'Recorded July 18 and August 6, 1957 in RCA Victor's Studio A, New York City', side/date key A1, A2, B2 / B1, B3",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/2309250-Charlie-Mingus-Tijuana-Moods"
+    },
+    "S4": {
+      "title": "Album Liner Notes — New Tijuana Moods ('Originally recorded on July 18 and August 6, 1957; Produced by Bob Rolontz and engineered by Bob Simpson in RCA Victor's Studio A in New York City')",
+      "type": "liner-notes",
+      "url": "http://albumlinernotes.com/New_Tijuana_Moods.html"
+    },
+    "S5": {
+      "title": "Microgroove — Revisiting 'Tijuana Moods' addendum (Vik-subsidiary provenance per NYT 1962 review; sessions July 18/August 6 1957; producer Bob Rolontz, engineer Bob Simpson)",
+      "type": "web",
+      "url": "https://microgroove.jp/2026/08/tijuana-moods-addendum-en/"
+    },
+    "S6": {
+      "title": "iTunes Search API — Charles Mingus 'Tijuana Moods' (collectionId 254040149; releaseDate 1962-08-01)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=charles+mingus+tijuana+moods&entity=album&limit=10"
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group fab2e359-265d-35cc-897e-64b11b59d18c (front cover)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/fab2e359-265d-35cc-897e-64b11b59d18c"
+    },
+    "S8": {
+      "title": "MusicBrainz — release group fab2e359-265d-35cc-897e-64b11b59d18c",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/fab2e359-265d-35cc-897e-64b11b59d18c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-07-18",
+      "1957-08-06"
+    ],
+    "multi_session": true,
+    "studio": "RCA Victor Studios (Studio A), New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1957-07-18",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1957-08-06",
+        "site_raw": "RCA Victor's Studio A, New York City",
+        "site_slug": "rca-victor-studios-new-york",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Rolontz",
+    "engineer": "Bob Simpson",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "Leader; billed 'Charlie Mingus' on the original cover, which he disliked. Plays bass throughout."
+      },
+      {
+        "name": "Clarence Shaw",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Knepper",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Shafi Hadi",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Curtis Porter"
+        ],
+        "notes": "Also plays tenor saxophone (Wikipedia and Discogs credit both alto and tenor; Discogs prints 'Curtis Porter (Shafi Hadi)'). Instrument field carries the alto credit; tenor doubling noted here."
+      },
+      {
+        "name": "Bill Triglia",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "His only Mingus recording credit."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Danny Richmond"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Frankie Dunlop",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Credited as percussion."
+      },
+      {
+        "name": "Ysabel Morel",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Castanets and wordless vocals/table-dance cries; castanets is not in the instrument taxonomy, so the entry carries 'percussion' with this note. Her only recording credit."
+      },
+      {
+        "name": "Lonne Elder III",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Lonnie Elder"
+        ],
+        "notes": "Blues vocal on 'Los Mariachis'; credited as playwright/actor Lonne Elder III (Wikipedia) and 'Lonnie Elder' (Discogs)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Dizzy Moods",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:45",
+        "session_date": "1957-07-18",
+        "composers": [
+          "Charles Mingus",
+          "Dizzy Gillespie"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Clarence Shaw",
+          "Jimmy Knepper",
+          "Shafi Hadi",
+          "Bill Triglia",
+          "Dannie Richmond",
+          "Frankie Dunlop",
+          "Ysabel Morel",
+          "Lonne Elder III"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ysabel's Table Dance",
+        "track_number": 2,
+        "side": "A",
+        "duration": "10:20",
+        "session_date": "1957-07-18",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Clarence Shaw",
+          "Jimmy Knepper",
+          "Shafi Hadi",
+          "Bill Triglia",
+          "Dannie Richmond",
+          "Frankie Dunlop",
+          "Ysabel Morel",
+          "Lonne Elder III"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Tijuana Gift Shop",
+        "track_number": 3,
+        "side": "B",
+        "duration": "3:43",
+        "session_date": "1957-08-06",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Clarence Shaw",
+          "Jimmy Knepper",
+          "Shafi Hadi",
+          "Bill Triglia",
+          "Dannie Richmond",
+          "Frankie Dunlop",
+          "Ysabel Morel",
+          "Lonne Elder III"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Los Mariachis (The Street Musicians)",
+        "track_number": 4,
+        "side": "B",
+        "duration": "10:14",
+        "session_date": "1957-07-18",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Clarence Shaw",
+          "Jimmy Knepper",
+          "Shafi Hadi",
+          "Bill Triglia",
+          "Dannie Richmond",
+          "Frankie Dunlop",
+          "Ysabel Morel",
+          "Lonne Elder III"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Flamingo",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:26",
+        "session_date": "1957-08-06",
+        "composers": [
+          "Ted Grouya",
+          "Edmund Anderson"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Clarence Shaw",
+          "Jimmy Knepper",
+          "Shafi Hadi",
+          "Bill Triglia",
+          "Dannie Richmond",
+          "Frankie Dunlop",
+          "Ysabel Morel",
+          "Lonne Elder III"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "fab2e359-265d-35cc-897e-64b11b59d18c",
+    "apple_album_id": "254040149",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/778ce357-3c88-4e5c-bb85-926e5e93b63b/10118799407.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover for the RCA Victor LP, via MusicBrainz release 778ce357-3c88-4e5c-bb85-926e5e93b63b."
+      }
+    ],
+    "notes": "Two sessions, both at RCA Victor's Studio A, New York City: July 18 and August 6, 1957. Producer Bob Rolontz and engineer Bob Simpson are named by the reissue liner notes [S4] and the Discogs credit list [S3]; AllMusic and Wikipedia print no engineer [S1,S2]. Per-track session split is taken from the Discogs back-cover key ('July 18 (A1, A2, B2) and August 6, 1957 (B1, B3)') against that pressing's side layout (A1 Dizzy Moods, A2 Ysabel's Table Dance; B1 Tijuana Gift Shop, B2 Los Mariachis, B3 Flamingo), giving July 18 = Dizzy Moods, Ysabel's Table Dance, Los Mariachis and August 6 = Tijuana Gift Shop, Flamingo; no independent source spells this mapping out per track, so it is recorded at side-level confidence [S3]. Recorded for RCA's subsidiary Vik label per the 1962 New York Times review quoted by Microgroove [S5] — label of record is RCA Victor. Year field is the 1957 recording year (the release date is June/August 1962, all sources) to match the album's placement in jazz discographies and its place in Mingus's 1957 output. The 1986 New Tijuana Moods and later CD expansions add alternate takes and 'A Colloquial Dream (Scenes in the City)'; these are reissue-only and excluded above. Durations are the original LP timings [S3]. All nine personnel are credited on all five issued tracks by the sources; no source distinguishes per-track personnel, so track_assignments_complete is false. Mingus wrote all five pieces except 'Flamingo' (Ted Grouya/Edmund Anderson) and 'Dizzy Moods', a reworking of Gillespie's 'Woody 'n You' credited to Mingus and Gillespie [S3]."
+  },
+  "ballot": {
+    "album": "Charles Mingus — Tijuana Moods (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album is a defining early statement of Mingus's long-form, programmatic writing, integrating castanets, vocals, and street-band color into pieces such as “Ysabel's Table Dance” and “Los Mariachis” (S1, S3, S4). Its critical standing is strong across AllMusic, the Rolling Stone Jazz Record Guide, Tom Hull, and DownBeat, while its late-1950s ensemble includes key Mingus collaborators Jimmy Knepper and Dannie Richmond (S1, S2, S3).",
+    "case_against": "The album was recorded in 1957 but withheld until 1962, so it could not shape the late-1950s scene in real time as its lineage might otherwise suggest (S1, S5). The Penguin Guide's 3.5/5 rating is positive but below its top tier, and if Mingus Ah Um is already represented, the council must judge whether Tijuana Moods' distinctive suite-like, programmatic dimension adds enough beyond that landmark to justify another Mingus album (S1).",
+    "disagreement": "One reference judged the album contested, emphasizing the genuine overlap question with Mingus Ah Um and the Penguin rating; the other judged it consensus_core, treating its compositional importance and broad critical praise as decisive. Both rated it strong rather than must_have and noted that the delayed release muted its contemporary influence.",
+    "recommendation": "John should give Tijuana Moods strong consideration as a distinct Mingus statement, weighing its programmatic suite writing against the possibility that Mingus Ah Um already covers the essential ground.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
