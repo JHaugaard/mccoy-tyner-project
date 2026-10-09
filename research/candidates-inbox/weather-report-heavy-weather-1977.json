@@ -1,0 +1,447 @@
+{
+  "id": "weather-report-heavy-weather-1977",
+  "artist": "Weather Report",
+  "album": "Heavy Weather",
+  "year": 1977,
+  "label": "Columbia",
+  "catalog_number": "Columbia PC 34418",
+  "style_primary": "fusion",
+  "style_tags": [],
+  "rationale": "Heavy Weather is Weather Report's seventh album and the commercial and critical peak of the jazz-fusion decade; AllMusic rates it five stars and Richard Ginell's review calls it 'this landmark album' that 'proved that there was plenty of creative life left in the idiom' [S1,S2] (obs). Consensus across independent listing traditions is unusually strong for a fusion record: DownBeat gave it a five-star review and its readers voted it jazz album of the year (844 votes to 196 for Herbie Hancock's V.S.O.P.) while voting Weather Report jazz group of the year [S1,S3] (obs); it was inducted into the Grammy Hall of Fame in 2011 [S1,S3] (obs); it is entry number 372 in 1001 Albums You Must Hear Before You Die [S1,S5] (obs); the Rolling Stone Jazz Record Guide gives it five stars and the Penguin Guide to Jazz Recordings three and a half [S1] (obs). Defining statement: 'Birdland' became a genuine hit for an instrumental and has entered the standard repertoire, and 'Teen Town' is the signature of Jaco Pastorius's career [S1,S2,S3] (obs). Lineage, which is the test this gate applies rather than the genre label: the band's two founders come straight out of records the canon already holds — Joe Zawinul and Wayne Shorter were Miles Davis's keyboardist and tenor saxophonist on In a Silent Way and Bitches Brew, and Shorter's writing here ('Harlequin', 'Palladium') continues the line from his Blue Note albums already in the canon [S2,S3] (inf). Session gravity: the definitive Zawinul-Shorter-Pastorius-Acuna-Badrena quintet, the lineup that carried the band through its most successful years [S1,S3] (obs). It still plays: 'Birdland', 'A Remark You Made' and 'Havana' are among the most immediately enjoyable records of the 1970s [S2,S3] (obs). Boundary: this is a fusion arrival under the gate opened 2026-07-28, argued on continuity and lineage rather than on being good fusion; John rules.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Heavy Weather (album) (released March 1977, Columbia; recorded December 1976 - January 1977 at Devonshire Sound Studios, North Hollywood, plus 'Rumba Mama' live July 8, 1976 in Montreux, Switzerland; personnel per track; review box: Penguin Guide 3.5/5, Rolling Stone Jazz Record Guide 5/5, AllMusic 5/5, Encyclopedia of Popular Music 5/5; DownBeat 5 stars and readers' jazz album of the year; Grammy Hall of Fame 2011; 1001 Albums entry; RIAA Platinum)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Heavy_Weather_(album)"
+    },
+    "S2": {
+      "title": "AllMusic — Heavy Weather (mw0000649781; styles Fusion; recording location Devonshire Sound Studios, North Hollywood, CA; rating 5/5; review by Richard S. Ginell)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/heavy-weather-mw0000649781"
+    },
+    "S3": {
+      "title": "The Weather Report Annotated Discography (Curt Bianchi) — Heavy Weather (credits: producer/orchestrator Zawinul, co-producer Pastorius, assistant producer Shorter, engineer Ron Malo, assistant engineers Jerry Hudgins and Brian Risner; personnel; 'Recorded 1977 by Ron Malo at Devonshire Sound, North Hollywood, California'; 'Rumba Mama' comes from Weather Report's July 8, 1976 performance at the Montreux Jazz Festival; DownBeat five stars and album-of-the-year poll margin)",
+      "type": "web",
+      "url": "https://www.weatherreportdiscography.org/heavy-weather/"
+    },
+    "S4": {
+      "title": "Discogs — master 21748, Weather Report 'Heavy Weather' (credits: Zawinul producer, Pastorius co-producer, Shorter assistant producer, Ron Malo engineer, Jerry Hudgins and Brian Risner assistant engineers, Lou Beach illustration, Nancy Donald design; LP timings; Columbia PC 34418)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/21748"
+    },
+    "S5": {
+      "title": "MusicBrainz — release group f1753c0a-50be-3591-8cbb-6848142e055f 'Heavy Weather' by Weather Report (release history; 'part of' 1001 Albums You Must Hear Before You Die number 372)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/f1753c0a-50be-3591-8cbb-6848142e055f"
+    },
+    "S6": {
+      "title": "iTunes Search API — Weather Report 'Heavy Weather' (collectionId 170409940, released 1977-03-01, Columbia, primaryGenreName Fusion)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=weather+report+heavy+weather&entity=album&limit=5"
+    },
+    "S7": {
+      "title": "setlist.fm — Weather Report setlist at Casino de Montreux, Montreux, Switzerland, July 8, 1976 (Montreux Jazz Festival 1976; includes 'Rumba Mama', noted as released on Heavy Weather as a live recording)",
+      "type": "web",
+      "url": "https://www.setlist.fm/setlist/weather-report/1976/casino-de-montreux-montreux-switzerland-53f7c3dd.html"
+    },
+    "S8": {
+      "title": "Wikipedia — Devonshire Sound Studios (10733 Magnolia Boulevard, North Hollywood, California; coordinates 34.16512 N, 118.3645 W; 'In 1976 Weather Report recorded Heavy Weather at the studios')",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Devonshire_Sound_Studios"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1976-12-01/1977-01-31",
+      "1976-07-08"
+    ],
+    "multi_session": true,
+    "studio": "Devonshire Sound Studios, North Hollywood, California",
+    "recording_sites": [
+      {
+        "session_date": "1976-12-01/1977-01-31",
+        "site_raw": "Devonshire Sound Studios, North Hollywood, California (December 1976 - January 1977 sessions)",
+        "site_slug": null,
+        "site_new": {
+          "name": "Devonshire Sound Studios",
+          "city": "North Hollywood, CA",
+          "kind": "studio",
+          "address": "10733 Magnolia Boulevard",
+          "lat": 34.16509,
+          "lon": -118.36445,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Devonshire_Sound_Studios | coords: OSM Nominatim: 10733 Magnolia Boulevard, North Hollywood, California, North Hollywood, CA — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1976-07-08",
+        "site_raw": "Casino de Montreux, Montreux, Switzerland (live at the Montreux Jazz Festival, 'Rumba Mama')",
+        "site_slug": null,
+        "site_new": {
+          "name": "Montreux Jazz Festival (Casino de Montreux)",
+          "city": "Montreux, Switzerland",
+          "kind": "festival",
+          "address": null,
+          "lat": 46.431,
+          "lon": 6.913,
+          "location_epistemic": "inf",
+          "location_source": "coords: city centroid (OSM Nominatim: Montreux, Switzerland), 3-decimal precision — no street address documented"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Joe Zawinul",
+    "engineer": "Ron Malo",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Joe Zawinul",
+        "instrument": "electric piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Birdland",
+          "A Remark You Made",
+          "Teen Town",
+          "Harlequin",
+          "Palladium",
+          "The Juggler",
+          "Havona"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Josef Zawinul"
+        ],
+        "notes": "Primary keyboard voice on every track except 'Rumba Mama'. Also plays ARP 2600 synthesizer (all except 'Rumba Mama'), Oberheim polyphonic synthesizer (all except 'Rumba Mama', 'Palladium', 'The Juggler'), Yamaha grand piano ('Birdland', 'Harlequin', 'The Juggler', 'Havona'), melodica ('Birdland', 'Teen Town'), guitar and tabla ('The Juggler') and sings on 'Birdland'. The instrument taxonomy has no synthesizer entry, so the Rhodes electric piano is recorded as the instrument and the synthesizers are noted here. Also credited as producer and orchestrator."
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "soprano saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Birdland",
+          "A Remark You Made",
+          "Teen Town",
+          "Harlequin",
+          "Palladium",
+          "The Juggler",
+          "Havona"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on tenor saxophone on 'Birdland', 'A Remark You Made' and 'Palladium' (Wikipedia, Annotated Discography). Absent from 'Rumba Mama'."
+      },
+      {
+        "name": "Jaco Pastorius",
+        "instrument": "electric bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Birdland",
+          "A Remark You Made",
+          "Teen Town",
+          "Harlequin",
+          "Palladium",
+          "The Juggler",
+          "Havona"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "John Francis Pastorius III"
+        ],
+        "notes": "Fretless bass throughout (the taxonomy has no separate fretless entry). Also mandocello on 'Birdland' and 'The Juggler', vocals on 'Birdland', drums on 'Teen Town' (which he also wrote) and steel drums on 'Palladium'. Credited as co-producer."
+      },
+      {
+        "name": "Alex Acuna",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Birdland",
+          "A Remark You Made",
+          "Harlequin",
+          "Rumba Mama",
+          "Palladium",
+          "The Juggler",
+          "Havona"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Alex Acuña"
+        ],
+        "notes": "Drum kit on every track except 'Teen Town' (Pastorius plays drums) and 'Rumba Mama'; on 'Rumba Mama' he plays congas and tom-toms, and he adds handclaps on 'The Juggler'."
+      },
+      {
+        "name": "Manolo Badrena",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Birdland",
+          "Teen Town",
+          "Harlequin",
+          "Rumba Mama",
+          "Palladium",
+          "The Juggler"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Tambourine on 'Birdland', congas on 'Teen Town', 'Rumba Mama' and 'Palladium', timbales on 'Rumba Mama', percussion on 'Palladium' and 'The Juggler', and vocals on 'Harlequin' and 'Rumba Mama'. Not present on 'A Remark You Made' or 'Havona'."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Birdland",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:59",
+        "session_date": "1976-12-01/1977-01-31",
+        "composers": [
+          "Joe Zawinul"
+        ],
+        "personnel": [
+          "Joe Zawinul",
+          "Wayne Shorter",
+          "Jaco Pastorius",
+          "Alex Acuna",
+          "Manolo Badrena"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Remark You Made",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:52",
+        "session_date": "1976-12-01/1977-01-31",
+        "composers": [
+          "Joe Zawinul"
+        ],
+        "personnel": [
+          "Joe Zawinul",
+          "Wayne Shorter",
+          "Jaco Pastorius",
+          "Alex Acuna"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Teen Town",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:53",
+        "session_date": "1976-12-01/1977-01-31",
+        "composers": [
+          "Jaco Pastorius"
+        ],
+        "personnel": [
+          "Joe Zawinul",
+          "Wayne Shorter",
+          "Jaco Pastorius",
+          "Alex Acuna",
+          "Manolo Badrena"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Harlequin",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:00",
+        "session_date": "1976-12-01/1977-01-31",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Joe Zawinul",
+          "Wayne Shorter",
+          "Jaco Pastorius",
+          "Alex Acuna",
+          "Manolo Badrena"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Rumba Mama",
+        "track_number": 5,
+        "side": "B",
+        "duration": "2:12",
+        "session_date": "1976-07-08",
+        "composers": [
+          "Manolo Badrena",
+          "Alex Acuna"
+        ],
+        "personnel": [
+          "Manolo Badrena",
+          "Alex Acuna"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "Palladium",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:45",
+        "session_date": "1976-12-01/1977-01-31",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Joe Zawinul",
+          "Wayne Shorter",
+          "Jaco Pastorius",
+          "Alex Acuna",
+          "Manolo Badrena"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Juggler",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:05",
+        "session_date": "1976-12-01/1977-01-31",
+        "composers": [
+          "Joe Zawinul"
+        ],
+        "personnel": [
+          "Joe Zawinul",
+          "Wayne Shorter",
+          "Jaco Pastorius",
+          "Alex Acuna",
+          "Manolo Badrena"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Havona",
+        "track_number": 8,
+        "side": "B",
+        "duration": "6:03",
+        "session_date": "1976-12-01/1977-01-31",
+        "composers": [
+          "Jaco Pastorius"
+        ],
+        "personnel": [
+          "Joe Zawinul",
+          "Wayne Shorter",
+          "Jaco Pastorius",
+          "Alex Acuna"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "f1753c0a-50be-3591-8cbb-6848142e055f",
+    "apple_album_id": "170409940",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/f1753c0a-50be-3591-8cbb-6848142e055f/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image for release group f1753c0a (Lou Beach illustration, Grammy-nominated)."
+      }
+    ],
+    "notes": "Two sessions. The six studio tracks (Birdland, A Remark You Made, Teen Town, Harlequin, Palladium, The Juggler, Havona) were cut at Devonshire Sound Studios, North Hollywood, in December 1976 - January 1977; 'Rumba Mama' was recorded live at Weather Report's July 8, 1976 performance at the Montreux Jazz Festival (Casino de Montreux), per the Annotated Discography and setlist.fm. `recording_dates` lists the studio range first so the six studio tracks bind to the Devonshire session; the July 8 date binds 'Rumba Mama' to Montreux. Sources disagree slightly on timings: Wikipedia gives 5:57/6:51/2:51/3:59/2:11/4:46/5:03/6:01 and 37:50 total, while the Annotated Discography and Discogs both give 5:59/6:52/2:53/4:00/2:12/4:45/5:05/6:03 and 37:39 — the two LP-based sources are used here. AllMusic's Recording Date is '1977' and Wikipedia's is December 1976 - January 1977; the month range is recorded. Production detail beyond producer/engineer (Pastorius co-producer, Shorter assistant producer, Hudgins and Risner assistant engineers) is documented by S1/S3/S4. The album title is spelled 'Palladium' on Wikipedia and 'Palladium'/'Palladíum' across sources; the plain ASCII form is used for the track title so it matches the personnel tracks arrays. 'Heavy Weather' was a candidate under the fusion gate opened 2026-07-28; it is argued on continuity and lineage, not genre."
+  },
+  "ballot": {
+    "album": "Weather Report — Heavy Weather (1977)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The album is within the 1945–1985 window, but it falls in both the 1973–1985 continuity band and the opened fusion gate; the question is whether its Miles-circle lineage outweighs its polished, crossover jazz-rock character."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The case is unusually strong for a fusion arrival: the dossier cites DownBeat’s five-star review and readers’ album-of-the-year vote, a Grammy Hall of Fame induction, AllMusic’s five-star rating, and inclusion in 1001 Albums You Must Hear Before You Die (S1–S3, S5). “Birdland” and “Teen Town” became defining repertoire, while Zawinul and Shorter connect the album directly to the canon’s Miles Davis and Blue Note lineages; the peak quintet and the album’s enduring accessibility further strengthen its claim (S1–S3).",
+    "case_against": "The record’s electric bass, synthesizers, polished production, pop hooks, and funk grooves put it at the edge of the canon’s post-bebop center, and its tightly arranged sound leaves less space for open-ended improvisation than Shorter’s earlier work. Its crossover stature may therefore document commercial jazz-rock more than a load-bearing continuation of modal post-bop; even if the fusion gate admits it, the more foundational bridge case may belong to Bitches Brew.",
+    "disagreement": "Reference 1 places it in contested, leaning scope_call, while Reference 2 calls it scope_call outright; both agree the decisive issue is the fusion and late-period boundary, not the album’s quality or stature.",
+    "recommendation": "John should make the boundary call: treat Heavy Weather as a strong but contested fusion bridge rather than an automatic inclusion.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

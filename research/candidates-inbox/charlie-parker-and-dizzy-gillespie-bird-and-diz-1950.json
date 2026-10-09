@@ -1,0 +1,564 @@
+{
+  "id": "charlie-parker-and-dizzy-gillespie-bird-and-diz-1950",
+  "artist": "Charlie Parker & Dizzy Gillespie",
+  "album": "Bird and Diz",
+  "year": 1950,
+  "label": "Clef",
+  "catalog_number": "MGC-512",
+  "style_primary": "bebop",
+  "style_tags": [],
+  "rationale": "Bird and Diz is the last studio meeting of bebop's two founders, cut on June 6, 1950 and issued in 1952 as a ten-inch LP with two Parker-only 1949 sides added [S1,S3] (obs). Session gravity is exceptional: the June 6 quintet is Parker and Gillespie with Thelonious Monk, Curley Russell and Buddy Rich [S1,S3,S4] (obs) — one of the very few occasions Parker recorded with Monk, and the final Parker-Gillespie studio date of their careers, the later reunion being the live Massey Hall concert [S1,S2] (obs). Consensus across independent listing traditions: AllMusic rates it four and a half stars and Rick Anderson's review calls it 'an outstanding album' with 'top-of-the-line production quality' [S1,S2] (obs); DownBeat's 1952 review gave four stars and the Penguide Guide to Jazz Recordings, The Encyclopedia of Popular Music and The Rolling Stone Jazz & Blues Album Guide all carry it with positive ratings [S1] (obs). Lineage: 'Bloomdido', 'Mohawk', 'Leap Frog' and 'Relaxin' with Lee' entered the bebop book and are played by every generation since, and the album stands with the founding bebop records the canon admitted on 2026-09-24, alongside The Charlie Parker Story and Bird on 52nd Street, both already held [S1,S2] (inf). It still plays: twenty-five minutes of the two men at full tilt, with 'Bloomdido' a career-best Parker blues head [S2] (obs). Against: it is a short ten-inch collection rather than a conceived LP statement; Monk is buried in the mix and gets almost no solo space [S2] (obs); and the version most listeners meet is a longer Verve reissue that mixes in takes and sessions beyond the original record [S1,S2] (obs). Priority strong rather than must_have for those reasons.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Bird and Diz (recorded June 6, 1950 in New York City, plus Parker-only 1949 sides 'Passport' and 'Visa'; released July/August 1952 on Clef, 10-inch LP; producer Norman Granz; personnel; track listing with matrix numbers; review box: AllMusic 4.5/5, DownBeat 4/5, Encyclopedia of Popular Music 4/5, Penguin Guide 3.5/5, Rolling Stone Jazz & Blues Album Guide 4/5; 'final collaborative studio recording by Parker and Gillespie')",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Bird_and_Diz"
+    },
+    "S2": {
+      "title": "AllMusic — Bird and Diz (mw0000188496; styles Bop / Jazz Instrument / Saxophone Jazz; recording location N.Y.C., NY; release date field says July 1, 1950; review by Rick Anderson)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/bird-and-diz-mw0000188496"
+    },
+    "S3": {
+      "title": "jazzdisco.org — Charlie Parker Discography, session index (session 490200 Charlie Parker Septet, NYC February-March 1949: Dorham, Turk, Parker, Haig, Potter, Roach, Carlos Vidal bongo; session 490505 Charlie Parker Quintet, NYC May 5, 1949: Dorham, Parker, Haig, Potter, Roach; session 500606 Charlie Parker - Dizzy Gillespie Quintet, NYC June 6, 1950: Gillespie, Parker, Monk, Curly Russell, Rich; matrix numbers; Mercury MGC-512 1952 = Clef MGC-512 1954)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/charlie-parker/discography/"
+    },
+    "S4": {
+      "title": "Discogs — master 176947, Charlie Parker and Dizzy Gillespie 'Bird And Diz' (credits: Parker alto saxophone, Curly Russell bass, Buddy Rich drums, Thelonious Monk piano, Norman Granz supervised by/liner notes, David Stone Martin cover; Notes: 'these tracks were recorded on June 6, 1950 in an unknown recording studio, New York City')",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/176947"
+    },
+    "S5": {
+      "title": "MusicBrainz — release group 069a4693-1752-36da-9707-d98b47a57146 'Bird and Diz' by Charlie Parker & Dizzy Gillespie (release history: 1952 US Mercury MG C-512 10-inch; 1954 Clef MG C-512; later Verve MG V-8006 12-inch with 11 tracks)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/069a4693-1752-36da-9707-d98b47a57146"
+    },
+    "S6": {
+      "title": "iTunes Search API — Dizzy Gillespie & Charlie Parker 'Bird and Diz (Expanded Edition)' (collectionId 1435957132, releaseDate 1952-07-01, Verve Label Group, primaryGenreName Jazz)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=charlie+parker+bird+and+diz&entity=album&limit=5"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1949-02-03",
+      "1949-05-05",
+      "1950-06-06"
+    ],
+    "multi_session": true,
+    "studio": "New York City (venue unidentified)",
+    "recording_sites": [
+      {
+        "session_date": "1949-02-03",
+        "site_raw": "New York City, NY (venue unidentified — jazzdisco: 'NYC, February-March, 1949')",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1949-05-05",
+        "site_raw": "New York City, NY (venue unidentified — jazzdisco: 'NYC, May 5, 1949')",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1950-06-06",
+        "site_raw": "unknown recording studio, New York City",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charlie Parker",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1949-02-03",
+          "1949-05-05",
+          "1950-06-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Bird"
+        ],
+        "notes": "Present on all eight tracks of the original ten-inch LP, across all three sessions; also composer of all but two titles."
+      },
+      {
+        "name": "Dizzy Gillespie",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bloomdido",
+          "My Melancholy Baby",
+          "Relaxin' with Lee",
+          "Leap Frog",
+          "An Oscar for Treadwell",
+          "Mohawk"
+        ],
+        "session_dates": [
+          "1950-06-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "John Birks Gillespie"
+        ],
+        "notes": "Plays on the six June 6, 1950 tracks only; absent from the two 1949 Parker sides on the original LP."
+      },
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bloomdido",
+          "My Melancholy Baby",
+          "Relaxin' with Lee",
+          "Leap Frog",
+          "An Oscar for Treadwell",
+          "Mohawk"
+        ],
+        "session_dates": [
+          "1950-06-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "One of Parker's rare studio sessions with Monk. AllMusic notes Monk is buried in the mix and gets very little solo space."
+      },
+      {
+        "name": "Curley Russell",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bloomdido",
+          "My Melancholy Baby",
+          "Relaxin' with Lee",
+          "Leap Frog",
+          "An Oscar for Treadwell",
+          "Mohawk"
+        ],
+        "session_dates": [
+          "1950-06-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Curly Russell",
+          "Dillon Russell"
+        ],
+        "notes": "Wikipedia and jazzdisco spell the name 'Curley Russell'; Discogs uses 'Curly Russell'. The more-cited form is used, with the variant recorded."
+      },
+      {
+        "name": "Buddy Rich",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bloomdido",
+          "My Melancholy Baby",
+          "Relaxin' with Lee",
+          "Leap Frog",
+          "An Oscar for Treadwell",
+          "Mohawk"
+        ],
+        "session_dates": [
+          "1950-06-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Bernard Rich"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Kenny Dorham",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Passport",
+          "Visa"
+        ],
+        "session_dates": [
+          "1949-02-03",
+          "1949-05-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "McKinley Howard Dorham"
+        ],
+        "notes": "Plays on the two 1949 Parker sides that filled out the original ten-inch LP; sources do not distinguish his presence between the two 1949 dates."
+      },
+      {
+        "name": "Al Haig",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Passport",
+          "Visa"
+        ],
+        "session_dates": [
+          "1949-02-03",
+          "1949-05-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Pianist on the two 1949 sides."
+      },
+      {
+        "name": "Tommy Potter",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Passport",
+          "Visa"
+        ],
+        "session_dates": [
+          "1949-02-03",
+          "1949-05-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Bassist on the two 1949 sides."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Passport",
+          "Visa"
+        ],
+        "session_dates": [
+          "1949-02-03",
+          "1949-05-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Drummer on the two 1949 sides."
+      },
+      {
+        "name": "Tommy Turk",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Visa"
+        ],
+        "session_dates": [
+          "1949-02-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Trombone only on 'Visa', per Wikipedia's personnel list (track B4) and jazzdisco's February-March 1949 septet."
+      },
+      {
+        "name": "Carlos Vidal",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Visa"
+        ],
+        "session_dates": [
+          "1949-02-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Carlos Vidal Bolado"
+        ],
+        "notes": "Plays bongos on 'Visa' only. The instrument taxonomy has no bongos entry, so percussion is recorded as the instrument."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Bloomdido",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:25",
+        "session_date": "1950-06-06",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Dizzy Gillespie",
+          "Thelonious Monk",
+          "Curley Russell",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "My Melancholy Baby",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:24",
+        "session_date": "1950-06-06",
+        "composers": [
+          "Ernie M. Burnett",
+          "George A. Norton"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Dizzy Gillespie",
+          "Thelonious Monk",
+          "Curley Russell",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Relaxin' with Lee",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:47",
+        "session_date": "1950-06-06",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Dizzy Gillespie",
+          "Thelonious Monk",
+          "Curley Russell",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Passport",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:00",
+        "session_date": "1949-05-05",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Kenny Dorham",
+          "Al Haig",
+          "Tommy Potter",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Leap Frog",
+        "track_number": 5,
+        "side": "B",
+        "duration": "2:29",
+        "session_date": "1950-06-06",
+        "composers": [
+          "Benny Harris",
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Dizzy Gillespie",
+          "Thelonious Monk",
+          "Curley Russell",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "An Oscar for Treadwell",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:23",
+        "session_date": "1950-06-06",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Dizzy Gillespie",
+          "Thelonious Monk",
+          "Curley Russell",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mohawk",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:35",
+        "session_date": "1950-06-06",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Dizzy Gillespie",
+          "Thelonious Monk",
+          "Curley Russell",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Visa",
+        "track_number": 8,
+        "side": "B",
+        "duration": "2:55",
+        "session_date": "1949-02-03",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Kenny Dorham",
+          "Tommy Turk",
+          "Al Haig",
+          "Tommy Potter",
+          "Max Roach",
+          "Carlos Vidal"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "069a4693-1752-36da-9707-d98b47a57146",
+    "apple_album_id": "1435957132",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/069a4693-1752-36da-9707-d98b47a57146/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image for release group 069a4693 (David Stone Martin cover)."
+      }
+    ],
+    "notes": "Three sessions across two years. June 6, 1950, New York City: Parker, Gillespie, Monk, Curley Russell, Buddy Rich — six tracks (Bloomdido, My Melancholy Baby, Relaxin' with Lee, Leap Frog, An Oscar for Treadwell, Mohawk). May 5, 1949, New York City: Parker, Dorham, Al Haig, Tommy Potter, Max Roach — 'Passport'. February-March 1949, New York City: Parker, Dorham, Tommy Turk, Al Haig, Tommy Potter, Max Roach and Carlos Vidal (bongos) — 'Visa'. The two 1949 sides were Parker-only dates on the original ten-inch LP; later Verve reissues omit them and substitute other Parker takes, so the LP's eight-track shape is recorded here, with the reissue takes excluded as alternate/bonus material.\n\nConflicts preserved: (1) Release year — Wikipedia gives July/August 1952 while AllMusic's release-date field says July 1, 1950 (its own review text says 1956); the album was recorded in 1950 and released in 1952, and 1950 is staged as the year, matching how the canon already dates archival bebop material (The Charlie Parker Story 1945, Groovin' High 1945, Birth of the Cool 1950). (2) 1949 date — Wikipedia's prose says the two extra tracks were cut 'in March and May 1949' but its own track table dates 'Visa' to 2/3/49 and 'Passport' to 5/5/49, while jazzdisco gives the septet session as 'February-March, 1949' and the quintet as 'May 5, 1949'. The table and jazzdisco are followed for 'Visa' (1949-02-03); the underlying ambiguity is noted. (3) Studio — Discogs states the June 6, 1950 session took place 'in an unknown recording studio, New York City'; jazzdisco gives only 'NYC'. No source consulted names a studio, so the NYC 'venue unidentified' place is used and no new place is minted. (4) Label — Wikipedia's infobox says Clef/Verve and its text says the 1952 issue came 'on the Verve subsidiary label Clef Records', while jazzdisco and Discogs show Mercury MGC-512 in 1952 and Clef MG C-512 in 1954; Clef is recorded as the label with the Mercury distribution noted. (5) Engineer — no source consulted credits an engineer for these sessions, so engineer is null. AllMusic also fills the style field with Big Band and Chamber Music alongside Bop; only Bop is staged as the primary style. Personnel for the two 1949 sessions is not separated per date by any source consulted, so both 1949 dates carry the same band except Turk and Vidal on 'Visa'."
+  },
+  "ballot": {
+    "album": "Charlie Parker & Dizzy Gillespie — Bird and Diz (1950)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The June 1950 session brings together Parker, Gillespie, Monk, Curley Russell, and Buddy Rich for the final Parker–Gillespie studio date, giving it exceptional session gravity (S1, S3, S4). Its repertoire includes “Bloomdido,” “Mohawk,” “Leap Frog,” and “Relaxin’ with Lee,” while positive ratings across AllMusic, DownBeat, Penguin, Rolling Stone, and the Encyclopedia of Popular Music support its standing as a recognized bebop classic (S1, S2).",
+    "case_against": "The original ten-inch LP is an awkwardly assembled object: six tracks come from the 1950 quintet session, while two Parker-only sides from 1949 were added, and later reissues often alter or expand that program (S1, S3, S5). Monk is reportedly buried in the mix and given little solo space (S2), and the session’s historical personnel distinction does not by itself make this a definitive Parker or Gillespie statement; the favorable guide ratings are solid but not uniformly top-tier.",
+    "disagreement": "Both references support strong priority and agree the album is in scope, but they differ on tier: Reference 1 judges the positive consensus and session significance sufficient for consensus_core, while Reference 2 considers the compilation-like album construction and compromised session balance grounds for contested.",
+    "recommendation": "The council proposes John retain Bird and Diz as a strong, contested bebop candidate, weighing its exceptional session and repertoire against the limitations of the album as originally packaged.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
