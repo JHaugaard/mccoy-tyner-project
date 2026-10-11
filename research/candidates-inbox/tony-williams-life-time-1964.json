@@ -1,0 +1,382 @@
+{
+  "id": "tony-williams-life-time-1964",
+  "artist": "Tony Williams",
+  "album": "Life Time",
+  "year": 1964,
+  "label": "Blue Note",
+  "catalog_number": "Blue Note BLP 4180 / BST 84180",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "Life Time is Tony Williams's debut album as a leader, cut for Blue Note across two August 1964 sessions when he was eighteen and still in Miles Davis's quintet, and it is the record that makes his case as a composer-bandleader rather than a prodigy sideman [S1,S3,S4] (obs). Consensus: the Penguin Guide to Jazz Recordings includes it in its suggested 'core collection' of essential recordings and rates it three and a half stars, and AllMusic rates it four and a half, Scott Yanow writing that 'the unpredictable music holds one's interest; a very strong debut for the masterful drummer' [S1,S3] (obs). Session gravity is the album's strongest claim in this canon, which is about the musicians: Williams leads Sam Rivers on tenor saxophone, Herbie Hancock on piano, Bobby Hutcherson on vibes and marimba, and three bassists across the two dates -- Gary Peacock, Richard Davis and Ron Carter -- with a different combination of players on each piece, including a Hancock-Carter duo on the closing track that has no drums at all [S1,S2,S3,S4] (obs). Lineage: every player on the date is already load-bearing in this canon -- Hancock and Williams on Maiden Voyage, Empyrean Isles and the Miles quintet records, Hutcherson on Dialogue and Components, Rivers on Fuchsia Swing Song, and Williams himself on Emergency! with the Lifetime [S1,S2,S3] (inf); Rivers was one of Williams's own preferences to replace George Coleman in Davis's band, per S4 (obs). It still plays: the two-part 'Two Pieces of One' and 'Tomorrow Afternoon' are the searching side, 'Memory' and 'Barb's Song to the Wizard' the lyrical one, and the album has never left the Blue Note catalogue [S1,S3,S6] (obs). Dating note: AllMusic, MusicBrainz, iTunes and the Blue Note catalogue series all give 1964, while Wikipedia's infobox gives a January 1965 release; the canon's recording-year convention puts this at 1964 [S1,S3,S5,S6] (obs). This is the first and stronger of Williams's two Blue Note leader dates, proposed on session gravity and lineage rather than as a consensus warhorse.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Life Time (Tony Williams album) (debut album as leader; recorded August 21 & 24, 1964 at Van Gelder Studio, Englewood Cliffs, NJ; released January 1965; Blue Note BST 84180; producer Alfred Lion; track listing with per-track personnel; ratings box: AllMusic 4.5/5, Penguin Guide to Jazz Recordings 3.5/5 and 'included in its suggested core collection of essential recordings'; AllMusic review quote by Scott Yanow; MusicBrainz release group 5e97f8f0-a60a-32ca-b8d8-3e76cbaedc03)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Life_Time_(Tony_Williams_album)"
+    },
+    "S2": {
+      "title": "Jazz Discography Project — Blue Note Records Catalog: 4100 series, BLP 4180 'Anthony Williams - Life Time' (1964) (session-level: August 21, 1964 — Sam Rivers tenor sax, Gary Peacock bass, Richard Davis bass #1,2, Anthony Williams drums, tracks Two Pieces Of One: Green / Two Pieces Of One: Red / Tomorrow Afternoon; August 24, 1964 — Bobby Hutcherson vibes, marimba #2, Herbie Hancock piano, Ron Carter bass #1, Anthony Williams drums, tympani, woodblock, maracas, triangle #2, tracks Barb's Song To The Wizard / Memory; also released on Blue Note BST 84180 in 1964, CDP 7 84180 2 in 1987)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/blue-note-records/catalog-4100-series/"
+    },
+    "S3": {
+      "title": "AllMusic — Life Time (mw0000655098; Release Date 1964; Duration 38:25; Styles Hard Bop; Recording Date August 21, 1964 - August 24, 1964; Recording Location Van Gelder Studio, Englewood Cliffs, NJ; review by Scott Yanow; credits: Alfred Lion Producer, Rudy Van Gelder Engineer and Remastering, Francis Wolff Cover Photo, Reid Miles Cover Design, Bobby Hutcherson Guest Artist/Marimba/Vibraphone, Gary Peacock Bass, Herbie Hancock Piano, Richard Davis Bass, Ron Carter Bass, Sam Rivers Sax (Tenor), Tony Williams Composer/Drums/Primary Artist)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/life-time-mw0000655098"
+    },
+    "S4": {
+      "title": "All About Jazz — 'Anthony Williams: Life Time & Spring Revisited' (reissue review; 'Life Time when he was only eighteen years old, Spring when he was nineteen'; both Blue Note albums 'engineered by Rudy Van Gelder'; Life Time personnel breakdown — Rivers on three tracks, two of them with twin bassists Richard Davis and Gary Peacock, Hancock on the other two, one with Hutcherson, and the closing track a Hancock-Ron Carter duo with no drums; Sam Rivers 'had been one of Williams' preferences to replace Coleman in the Davis quintet')",
+      "type": "web",
+      "url": "https://www.allaboutjazz.com/life-time-and-spring-revisited-anthony-williams-ezz-thetics"
+    },
+    "S5": {
+      "title": "iTunes Search API — Tony Williams, 'Life Time (Remastered)' (collectionId 738339326, releaseDate 1964-01-01, Blue Note Records, trackCount 5, primaryGenreName Jazz)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Tony+Williams+Life+Time&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "MusicBrainz — release group 5e97f8f0-a60a-32ca-b8d8-3e76cbaedc03 'Life Time' by Tony Williams (primary type Album; first-release-date 1964; original US LP release 7c91ca9d-2e68-49b3-823a-c268ac77214e, date 1964; later editions 1978 JP, 1987, 1995, 1999 RVG Edition, 2015, 2024)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/5e97f8f0-a60a-32ca-b8d8-3e76cbaedc03"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-08-21",
+      "1964-08-24"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1964-08-21",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1964-08-24",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Two Pieces of One: Red",
+          "Two Pieces of One: Green",
+          "Tomorrow Afternoon",
+          "Memory"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Anthony Williams"
+        ],
+        "notes": "Leader. Billed as Anthony Williams on the original Blue Note issue. Also plays timpani, woodblocks, maracas and triangle on 'Memory' (S1, S2); the instrument taxonomy has no entries for those, so they are noted here and 'drums' is recorded. Absent from 'Barb's Song to the Wizard', the closing Hancock-Carter duo (S3, S4)."
+      },
+      {
+        "name": "Sam Rivers",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Two Pieces of One: Red",
+          "Two Pieces of One: Green",
+          "Tomorrow Afternoon"
+        ],
+        "session_dates": [
+          "1964-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "August 21, 1964 session only; the three pieces cut that day (S1, S2)."
+      },
+      {
+        "name": "Gary Peacock",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Two Pieces of One: Red",
+          "Two Pieces of One: Green",
+          "Tomorrow Afternoon"
+        ],
+        "session_dates": [
+          "1964-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "August 21, 1964 session only (S1, S2)."
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Two Pieces of One: Red",
+          "Two Pieces of One: Green"
+        ],
+        "session_dates": [
+          "1964-08-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "August 21, 1964 session; two-bass frontline with Gary Peacock on the two 'Two Pieces of One' movements, not on 'Tomorrow Afternoon' (S1, S2, S4)."
+      },
+      {
+        "name": "Bobby Hutcherson",
+        "instrument": "vibraphone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Memory"
+        ],
+        "session_dates": [
+          "1964-08-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "August 24, 1964 session; 'Memory' only. Also plays marimba on 'Memory' (S1, S2); the taxonomy records the vibraphone and the marimba doubling is noted here."
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Memory",
+          "Barb's Song to the Wizard"
+        ],
+        "session_dates": [
+          "1964-08-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "August 24, 1964 session only — the two pieces cut that day (S1, S2)."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Barb's Song to the Wizard"
+        ],
+        "session_dates": [
+          "1964-08-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "August 24, 1964 session; 'Barb's Song to the Wizard' only, a Hancock-Carter duo without drums (S1, S2, S3, S4)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Two Pieces of One: Red",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:06",
+        "session_date": "1964-08-21",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Tony Williams",
+          "Sam Rivers",
+          "Gary Peacock",
+          "Richard Davis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Two Pieces of One: Green",
+        "track_number": 2,
+        "side": "A",
+        "duration": "10:40",
+        "session_date": "1964-08-21",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Tony Williams",
+          "Sam Rivers",
+          "Gary Peacock",
+          "Richard Davis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Tomorrow Afternoon",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:35",
+        "session_date": "1964-08-21",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Tony Williams",
+          "Sam Rivers",
+          "Gary Peacock"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Memory",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:06",
+        "session_date": "1964-08-24",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Tony Williams",
+          "Bobby Hutcherson",
+          "Herbie Hancock"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Barb's Song to the Wizard",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:58",
+        "session_date": "1964-08-24",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Ron Carter"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "5e97f8f0-a60a-32ca-b8d8-3e76cbaedc03",
+    "apple_album_id": "738339326",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "wikimedia",
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Life_Time_%28Tony_Williams_album%29.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Cover image used by the Wikipedia album article (Reid Miles design, Francis Wolff photograph, per the AllMusic credits at S3). The Cover Art Archive has no front image for release group 5e97f8f0-a60a-32ca-b8d8-3e76cbaedc03 (checked 2026-10-11), so the Wikipedia file is used; matched by title+artist, pressing not verified."
+      }
+    ],
+    "notes": "Two sessions at Van Gelder Studio, Englewood Cliffs, NJ (S1, S2, S3): August 21, 1964 (Two Pieces of One: Red; Two Pieces of One: Green; Tomorrow Afternoon — Sam Rivers, Gary Peacock, Richard Davis) and August 24, 1964 (Memory; Barb's Song to the Wizard — Bobby Hutcherson, Herbie Hancock, Ron Carter). All five compositions by Tony Williams (S1, S3). Producer Alfred Lion; engineer Rudy Van Gelder (S3 credits, corroborated by S4). Sessions are nine days after the last of the 1964 Miles Davis quintet studio dates and sit between Hancock's Empyrean Isles and Maiden Voyage. Discography detail: jazzdisco (S2) lists the August 21 session's tracks in the order Green / Red / Tomorrow Afternoon, while the issued LP and AllMusic order them Red / Green / Tomorrow Afternoon (S1, S3); the issued order is used here, with the personnel assignments unaffected. Timings agree across S1 and S3 except the closing track, where Wikipedia gives 5:58 and AllMusic 5:56; Wikipedia's is recorded. jazzdisco also notes a seventh piece from these sessions was not used on the LP; no alternate takes or bonus tracks are listed on the original issue. Year: AllMusic, MusicBrainz, iTunes and the Blue Note catalogue series all date the album 1964 (S2, S3, S5, S6); Wikipedia's infobox gives a January 1965 release (S1) — the recording-year convention (1964) is used. Catalog: Blue Note BLP 4180 (mono) / BST 84180 (stereo), CDP 7 84180 2 in 1987, RVG Edition 1999."
+  },
+  "ballot": {
+    "album": "Tony Williams — Life Time (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest case is session gravity: Williams assembled Sam Rivers, Herbie Hancock, Bobby Hutcherson, Gary Peacock, Richard Davis, and Ron Carter across two strikingly varied sessions, including a drumless Hancock–Carter closing duo (S1, S2, S4). Recorded when Williams was eighteen and still in Miles Davis’s quintet, this debut announces him as a composer-bandleader and links directly to the canon’s Hancock–Williams–Carter lineage and to Rivers’s Blue Note emergence (S1, S4). Penguin’s suggested core-collection recognition and AllMusic’s 4.5/5 rating offer meaningful, if not overwhelming, critical support (S1, S3).",
+    "case_against": "The five tracks use distinct ensemble combinations, giving the album a laboratory-like, episodic character rather than the cohesion of a definitive working-band statement (S1, S2). Its achievement is also overshadowed by nearby landmark records from the same musicians—including Hancock’s Empyrean Isles and Maiden Voyage, Rivers’s Fuchsia Swing Song, and Williams’s later Spring and Emergency!—while its abstract pacing may offer less immediate pleasure to a new listener. The consensus case is respectable but relatively narrow: the dossier supplies Penguin and AllMusic recognition, not broad corroboration from other major canon lists.",
+    "disagreement": null,
+    "recommendation": "John should consider Life Time as a strong, contested addition for its exceptional session gravity and lineage, while weighing its episodic form against the more definitive statements around it.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

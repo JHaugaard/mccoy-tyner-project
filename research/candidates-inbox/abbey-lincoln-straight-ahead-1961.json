@@ -1,0 +1,510 @@
+{
+  "id": "abbey-lincoln-straight-ahead-1961",
+  "artist": "Abbey Lincoln",
+  "album": "Straight Ahead",
+  "year": 1961,
+  "label": "Candid",
+  "catalog_number": "Candid CJM 8015 / CJS 9015",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "Straight Ahead is Abbey Lincoln's Candid debut and the record that turned her from a standards singer into a writer-performer of her own material -- the moment the Penguin Guide singles out, writing of 'Retribution' that 'for the first time, Lincoln seems willing to confront her music rather than stand up-stage of it' [S1] (obs). Consensus across independent listing traditions is strong for a vocal record: AllMusic rates it five stars and Scott Yanow calls it 'one of Abbey Lincoln's greatest recordings'; MusicHound Jazz gives five, the Virgin Encyclopedia of Jazz four, the Penguin Guide three and a half, and the Rolling Stone Jazz Record Guide three [S1] (obs). Session gravity: this is a Max Roach-circle date -- Lincoln's partner on drums, with Booker Little, Julian Priester, Eric Dolphy, Coleman Hawkins, Walter Benton, Mal Waldron and Art Davis, the same Candid/Nola Penthouse circle that made We Insist! Max Roach's Freedom Now Suite a few months earlier [S1,S2,S3] (obs). Lineage: it sits directly downstream of the canon's We Insist! (1960) -- same label, same room, same supervisor, the same Booker Little / Julian Priester / Walter Benton / Coleman Hawkins front line and the same singer -- and it is the record on which Lincoln begins setting her own texts, the line that runs to People in Me (1973) [S1,S2,S3] (inf). It still plays: 'Retribution', 'In the Red', 'When Malindy Sings' and the Langston Hughes / Randy Weston 'African Lady' are the discovery side of the album, and the reading of 'Left Alone' is one of the great Billie Holiday tributes [S1,S3] (obs). Gap: Lincoln is the canon's most conspicuous absence as a leader -- she appears in the database only as a singer on We Insist!, and no Lincoln-led album is present in any status (verified against _jazzcanon.album, 2026-10-11) (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Straight Ahead (Abbey Lincoln album) (released 1961, Candid; recorded February 22, 1961 at Nola Penthouse Studios, New York City; producer Nat Hentoff; track listing with composers and durations; personnel; ratings box: AllMusic 5/5, MusicHound Jazz 5/5, Penguin Guide to Jazz Recordings 3.5/5, Rolling Stone Jazz Record Guide 3/5, Virgin Encyclopedia of Jazz 4/5; AllMusic review by Scott Yanow: 'this is one of Abbey Lincoln's greatest recordings'; Penguin on 'Retribution': 'For the first time, Lincoln seems willing to confront her music rather than stand up-stage of it'; MusicBrainz release group c39391b8-a7eb-3000-853c-2ad00ebfd1dd)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Straight_Ahead_(Abbey_Lincoln_album)"
+    },
+    "S2": {
+      "title": "Jazz Discography Project — Candid Records Catalog: 8000/9000 series, CJM 8015 'Abbey Lincoln - Straight Ahead' (1961) (session-level: Booker Little trumpet; Julian Priester trombone; Walter Benton, Coleman Hawkins tenor sax; Eric Dolphy reeds; Mal Waldron piano; Art Davis bass; Max Roach drums; Montego Joe as Roger Sanders, Robert Whitley conga drums #6; Abbey Lincoln vocal; Nat Hentoff supervisor; Nola Penthouse Sound Studios, NYC, February 22, 1961; tracks 1-7 in LP order)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/candid-records/catalog-8000-9000-series/"
+    },
+    "S3": {
+      "title": "Jazz Discography — Abbey Lincoln discography and issue index (session February 22, 1961, Nola Penthouse Studios, New York City; personnel: Eric Dolphy pic/f/bcl/as, Walter Benton and Coleman Hawkins ts, Booker Little t, Julian Priester tb, Mal Waldron p, Art Davis b, Max Roach d, Roger 'Montego Joe' Sanders and Robert Whitley cga, Abbey Lincoln v; LP issue index gives side positions a-01 to b-03 with timings 5:18/4:00/8:23/6:32/6:42/3:42 and arrangement credits: Mal Waldron a-01, Booker Little a-03; b-01 titled 'Monkery's The Blues [lyric version of Blue Monk]')",
+      "type": "discography",
+      "url": "https://jazzdiscography.com/Artists/Lincoln/al-issue.php"
+    },
+    "S4": {
+      "title": "Jazz Codex — Straight Ahead, Abbey Lincoln (production credits gathered from all pressings: Bob d'Orleans Engineer; Nat Hentoff Liner Notes, Supervised By, Producer, Sleeve Notes; Raymond Ross Photography; Frank Gauna Design; Discogs master 319363; earliest pressing 1961 Candid stereo CJS 9015, mono CJM 8015; 2022 Candid 180g remaster 30151)",
+      "type": "web",
+      "url": "https://www.jazzcodex.com/albums/abbey-lincoln-straight-ahead/"
+    },
+    "S5": {
+      "title": "iTunes Search API — Abbey Lincoln, 'Straight Ahead (Remastered)' (collectionId 1880974411, releaseDate 1961-02-22, Candid Records LLC, trackCount 7, primaryGenreName Jazz)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Abbey+Lincoln+Straight+Ahead&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "MusicBrainz / Cover Art Archive — release group c39391b8-a7eb-3000-853c-2ad00ebfd1dd 'Straight Ahead' by Abbey Lincoln (Cover Art Archive holds front, back and two medium images for release b705a7fa-3ec7-4b84-9107-975968a892dc in this group)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/c39391b8-a7eb-3000-853c-2ad00ebfd1dd"
+    },
+    "S7": {
+      "title": "Original Candid CJM 8015 credit block as transcribed with the album (Arranged By: Booker Little (A2, A3, B1), Julian Priester (B2, B4), Mal Waldron (A1), Max Roach (B3); Bass Art Davis; Congas Robert Whitley (B3), Roger Sanders (B3); Drums Max Roach; Engineer Bob d'Orleans; Liner Notes/Supervised By Nat Hentoff; Piano Mal Waldron; Reeds Eric Dolphy; Tenor Saxophone Coleman Hawkins, Walter Benton; Trombone Julian Priester; Trumpet Booker Little; 'Recorded at Nola Penthouse Sound Studios, New York, February 22, 1961'; Max Roach records by courtesy of Mercury Record Corporation, Eric Dolphy by courtesy of Prestige Records)",
+      "type": "other",
+      "url": "http://www.youtube.com/watch?v=FLv-Ly8b4t0"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-02-22"
+    ],
+    "multi_session": false,
+    "studio": "Nola Penthouse Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1961-02-22",
+        "site_raw": "Nola Penthouse Sound Studios, New York City",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Nat Hentoff",
+    "engineer": "Bob d'Orleans",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Abbey Lincoln",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Anna Marie Wooldridge"
+        ],
+        "notes": "Leader; also co-wrote 'Straight Ahead', 'In the Red' and 'Retribution' (S1, S3)."
+      },
+      {
+        "name": "Booker Little",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Arranged 'When Malindy Sings', 'In the Red' and 'Blue Monk' per the original LP credit block (A2, A3, B1 at S7); jazzdiscography credits him with the arrangement of 'In the Red' (S3)."
+      },
+      {
+        "name": "Julian Priester",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'Retribution' (S1) and, per the original LP credit block, arranger of 'Left Alone' and 'Retribution' (B2, B4 at S7)."
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Credited as 'reeds' on the original sleeve and by jazzdisco (S2, S7) and specified by Wikipedia and jazzdiscography as alto saxophone, bass clarinet, flute and piccolo (S1, S3); the taxonomy has no piccolo entry, so the alto saxophone is recorded and the doublings are noted here. Records on this date by courtesy of Prestige Records (S7). Takes the solo feature on 'Left Alone'."
+      },
+      {
+        "name": "Walter Benton",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also played on We Insist! Max Roach's Freedom Now Suite (S2)."
+      },
+      {
+        "name": "Coleman Hawkins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Coleman Randolph Hawkins",
+          "Bean"
+        ],
+        "notes": "Takes the tenor solo on 'Blue Monk' (S1)."
+      },
+      {
+        "name": "Mal Waldron",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Co-wrote and arranged the title track (S1, S3, S7)."
+      },
+      {
+        "name": "Art Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also on Booker Little's Out Front, already in the canon (S3)."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Lincoln's partner; records on this date by courtesy of Mercury Record Corporation (S7). Credited with the arrangement of 'African Lady' (B3 at S7)."
+      },
+      {
+        "name": "Roger Sanders",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "African Lady"
+        ],
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [
+          "Montego Joe"
+        ],
+        "notes": "Track coverage conflicts between sources: the original LP credit block and the jazzdisco catalog page confine the congas to track 6 / side-B position B3 ('African Lady') (S2, S7), while jazzdiscography and the jazzdisco 1961 discography page give conga drums on tracks 6 and 7 (adding 'Retribution') (S3). Both claims are preserved; the narrower assignment is recorded in the tracks array and the conflict is flagged with epistemic unk. Records under the name Montego Joe (S2, S3)."
+      },
+      {
+        "name": "Robert Whitley",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "African Lady"
+        ],
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [
+          "Robert Whitley (spelled 'Robert whitley' on the sleeve credits)"
+        ],
+        "notes": "Same conga track-coverage conflict as Roger Sanders: 'African Lady' only per S2 and S7, tracks 6 and 7 per S3."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Straight Ahead",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:24",
+        "session_date": "1961-02-22",
+        "composers": [
+          "Abbey Lincoln",
+          "Earl Baker",
+          "Mal Waldron"
+        ],
+        "personnel": [
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "When Malindy Sings",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:05",
+        "session_date": "1961-02-22",
+        "composers": [
+          "Oscar Brown",
+          "Paul Lawrence Dunbar"
+        ],
+        "personnel": [
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "In the Red",
+        "track_number": 3,
+        "side": "A",
+        "duration": "8:32",
+        "session_date": "1961-02-22",
+        "composers": [
+          "Chips Bayen",
+          "Abbey Lincoln",
+          "Max Roach"
+        ],
+        "personnel": [
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "Blue Monk",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:39",
+        "session_date": "1961-02-22",
+        "composers": [
+          "Thelonious Monk",
+          "Abbey Lincoln"
+        ],
+        "personnel": [
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "Left Alone",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:48",
+        "session_date": "1961-02-22",
+        "composers": [
+          "Billie Holiday",
+          "Mal Waldron"
+        ],
+        "personnel": [
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "African Lady",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:46",
+        "session_date": "1961-02-22",
+        "composers": [
+          "Langston Hughes",
+          "Randy Weston"
+        ],
+        "personnel": [
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach",
+          "Roger Sanders",
+          "Robert Whitley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "Retribution",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:50",
+        "session_date": "1961-02-22",
+        "composers": [
+          "Abbey Lincoln",
+          "Julian Priester"
+        ],
+        "personnel": [
+          "Abbey Lincoln",
+          "Booker Little",
+          "Julian Priester",
+          "Eric Dolphy",
+          "Walter Benton",
+          "Coleman Hawkins",
+          "Mal Waldron",
+          "Art Davis",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "c39391b8-a7eb-3000-853c-2ad00ebfd1dd",
+    "apple_album_id": "1880974411",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/c39391b8-a7eb-3000-853c-2ad00ebfd1dd/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image held by the Cover Art Archive for release group c39391b8 (release b705a7fa-3ec7-4b84-9107-975968a892dc). The CAA response does not identify which pressing the image comes from, so the pressing is unverified and is_original_cover is left null."
+      }
+    ],
+    "notes": "One session: Nola Penthouse Sound Studios, New York City, February 22, 1961 (S2, S3, S7). Producer/supervisor Nat Hentoff; engineer Bob d'Orleans (S4, S7 — the engineer is not named in the Wikipedia or jazzdisco entries). Original issue Candid CJM 8015 (mono) / CJS 9015 (stereo), 45-602 issued 'Straight Ahead'/'Retribution'; Barnaby KZ 31037 in 1972, Candid CCD 79015 in 1988, 2022 Candid 180g remaster 30151 (S2, S3, S4). Side layout: the original LP credit block (S7) places arrangement credits at positions A1-A3 and B1-B4, and jazzdiscography's issue index lists a-01 to a-03 and b-01 to b-03 for the first six titles (S3), so side A is tracks 1-3 and side B is tracks 4-7; the recorded track order follows Wikipedia and jazzdisco (S1, S2). Two source conflicts are preserved rather than resolved: (1) conga coverage — 'African Lady' only per S2 and S7, tracks 6 and 7 per S3, recorded as epistemic unk on both conga players; (2) the fourth title is printed as 'Blue Monk' by Wikipedia and jazzdisco but appears on the original LP issue index as 'Monkery's The Blues', the lyric version of 'Blue Monk' (S3) — Wikipedia credits Abbey Lincoln alongside Thelonious Monk as composer, jazzdiscography credits Monk alone, and both are recorded. Timings differ slightly between sources: Wikipedia gives 5:24/4:05/8:32/6:39/6:48/3:46/3:50, jazzdiscography's LP index gives 5:18/4:00/8:23/6:32/6:42/3:42 (S1, S3); Wikipedia's are recorded. Per-track personnel is not documented for this single-session date beyond the conga restriction — the sources present one ensemble for the session — so each track's personnel array carries the full session ensemble and is marked epistemic inf rather than obs, and track_assignments_complete is false. Eric Dolphy's piccolo and the arrangement credits are recorded in the personnel notes because the taxonomy has no entry for them."
+  },
+  "ballot": {
+    "album": "Abbey Lincoln — Straight Ahead (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest case is that this is Lincoln’s defining transition into a writer-performer: the Penguin assessment quoted in S1 says that on “Retribution” she first seems willing to confront her music directly. Its Candid/Nola Penthouse session brings together Max Roach, Booker Little, Eric Dolphy, Coleman Hawkins, Julian Priester, and Mal Waldron, linking it closely to the canon’s We Insist! (S1–S3). Multiple guidebooks rate it highly, and tracks including “Retribution,” “African Lady,” and “Left Alone” make a compelling discovery case for Lincoln as a leader.",
+    "case_against": "The critical record is positive but not unqualified: Penguin gives it 3.5 stars and Rolling Stone 3, while the dossier’s review quotations are reported through Wikipedia rather than directly sourced (S1). The album’s tightly arranged vocal focus may offer less extended instrumental exploration than a listener seeking an instrumental post-bop showcase expects. Its personnel and lineage make it a powerful view of the Roach-Candid circle, but the case that it initiated a forward-moving post-bop lineage is less established than its value as a defining Lincoln statement.",
+    "disagreement": "Gemini rates the album consensus_core, emphasizing Lincoln’s definitive artistic transformation and the ensemble’s historical importance; MiniMax rates it contested, judging the critical ceiling, vocal-led format, and more summative than forward-looking character to be substantial counterweights. The shared assessment supports strong priority, but the tier disagreement should remain visible.",
+    "recommendation": "John should weigh this as a strong, contested candidate: its defining importance for Lincoln and exceptional session connections argue for it, while its qualified critical standing and vocal-centered format keep it short of consensus_core.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
