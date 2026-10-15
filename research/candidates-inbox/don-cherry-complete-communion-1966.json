@@ -1,0 +1,236 @@
+{
+  "id": "don-cherry-complete-communion-1966",
+  "artist": "Don Cherry",
+  "album": "Complete Communion",
+  "year": 1966,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4226 / BST 84226",
+  "style_primary": "free-jazz",
+  "style_tags": [
+    "avant-garde-jazz"
+  ],
+  "rationale": "Complete Communion is Don Cherry's first album as a leader: one session on December 24, 1965 at Van Gelder Studio, Englewood Cliffs, New Jersey, produced by Alfred Lion, engineered by Rudy Van Gelder, released on Blue Note (BLP 4226 / BST 84226) in May 1966 [S1,S2,S3,S4] (obs). It is two continuous side-long suites, each recorded in a single take, played by a quartet: Cherry on cornet, Gato Barbieri on tenor saxophone, Henry Grimes on bass, Ed Blackwell on drums [S1,S2,S4] (obs). Boundary, stated first because it governs the reading: this is an arrival from the opened free-jazz gate, so per the rubric it leans scope_call by default, and the case rests on the bridge test rather than on the idiom. The consensus profile is genuinely mixed rather than overwhelming -- AllMusic 4.5/5 and the Rolling Stone Jazz Record Guide 5/5 and MusicHound Jazz 5/5, against 4/5 from the Encyclopedia of Popular Music and 3/5 from both the Penguin Guide and DownBeat [S1] (obs) -- which is why this record is argued, not assumed. What it connects to: it is the pivot between the canon's Ornette Coleman records -- The Shape of Jazz to Come, Change of the Century and Free Jazz are all in the collection -- and everything Cherry and Blackwell did afterwards, including Old and New Dreams' Playing (1980), also already in the canon; the collection therefore holds the late end of this lineage without holding its head [S1,S2] (obs for the music's origins, inf for the canon-internal gap, which is a fact about this database rather than a source claim). Ekkehard Jost calls Complete Communion and its sequel Symphony for Improvisers 'among the most important LPs Don Cherry made, if not among the most important in free jazz of the Sixties', and describes its method as an alternative 'both to athematic improvising and to monothematic pieces' [S1] (obs). The Penguin Guide notes the aim is 'to give each member of the group an equal role in the improvising process' while conceding 'it is, as yet, an experimental aesthetic, which accounts for the raw immediacy of the set' [S1] (obs) -- the reference's own reservations are recorded here rather than trimmed. It still plays (signal 5): AllMusic's review hears the quartet as 'a conversation, as opposed to a solo with support', with Grimes 'extremely active' and sometimes carrying the main riffs, and concludes the project 'comes off remarkably well, establishing Cherry as an avant-garde force to be reckoned with in his own right' [S2] (obs). Lineage beyond the record: the DKV Trio played the entire 'Complete Communion' suite in concert, Tom Varner's Second Communion (2001) reworks its compositions, and Barbieri -- whom Cherry found in Rome -- begins his recording career here [S1,S2] (obs). One qualification for John: this album's case is the free-jazz gate at its most teachable -- Cherry and Blackwell are Ornette's rhythm-and-front line, the music is suite-form and theme-based rather than energy maximalism -- so it is the idiom's bridge record, not its furthest shore.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia -- Complete Communion (Don Cherry album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Complete_Communion",
+      "notes": "Infobox: released May 1966, recorded December 24, 1965, Van Gelder Studio, Englewood Cliffs, NJ, Blue Note BST 84226, producer Alfred Lion. Ratings box: AllMusic 4.5/5, DownBeat 3/5, Encyclopedia of Popular Music 4/5, MusicHound Jazz 5/5, Penguin Guide to Jazz 3/5, Rolling Stone Jazz Record Guide 5/5. Personnel: Don Cherry cornet; Leandro 'Gato' Barbieri tenor saxophone; Henry Grimes bass; Edward Blackwell drums; technical: Alfred Lion producer, Rudy Van Gelder recording. Track listing: the two suites with movement-level titles and times 20:38 / 19:36. Reception quotes from AllMusic's Steve Huey, the Penguin Guide and Ekkehard Jost; influence section covering the DKV Trio and Tom Varner's Second Communion (2001). Citations include the MusicHound Jazz: The Essential Album Guide (1998) and the Penguin Guide to Jazz Recordings (8th ed., 2006) and The Penguin Jazz Guide (2010)."
+    },
+    "S2": {
+      "title": "AllMusic -- Complete Communion (Don Cherry), album page and Credits tab",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/complete-communion-mw0000051472",
+      "notes": "Release date December 24, 1965; duration 40:14; styles Avant-Garde Jazz, Free Jazz, Global Jazz, Progressive Jazz, Modern Creative, Post-Bop, Modal Music, Jazz Instrument, Trumpet Jazz. Recording location field prints 'New York, NY' alongside 'Van Gelder Studio, Englewood Cl[iffs]'. Credits: Don Cherry (composer, cornet, primary artist, trumpet); Ed Blackwell (drums, guest artist); Gato Barbieri (guest artist, sax tenor); Henry Grimes (bass, guest artist); Rudy Van Gelder (engineer). Review by Steve Huey: the music's origins in Cherry's time with Ornette Coleman; 'each of which incorporated four different compositions and was recorded in a single take'; 'the music sounds more like a conversation, as opposed to a solo with support'; 'establishing Cherry as an avant-garde force to be reckoned with in his own right'. No producer credit is listed on this page."
+    },
+    "S3": {
+      "title": "Discogs -- Don Cherry, Complete Communion, release 461895 (1966 US stereo LP, BST 84226)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/461895",
+      "notes": "Track listing gives the suite movements: A.a Complete Communion, A.b And Now, A.c Golden Heart, A.d Remembrance; B.a Elephantasy, B.b Our Feelings, B.c Bishmallah, B.d Wind, Sand And Stars. Credits: Bass Henry Grimes; Cornet, Composed By Don Cherry; Cover Design Reid Miles; Drums Edward Blackwell; Liner Notes Nat Hentoff; Photography Francis Wolff; Producer Alfred Lion; Recorded By Rudy Van Gelder; Tenor Saxophone Leandro 'Gato' Barbieri. Label credits: Blue Note Records Inc.; 'Lacquer Cut At - Van Gelder Studio, Englewood Cliffs, New Jersey'; published by Blue Horizon Music, BMI. Notes: Plastylite 'ear' in the dead wax, 'the last title to be pressed by Plastylite'; catalogue number shown as BST 84226 on labels, ST-84226 on the rear cover, 84226 on front and spine; matrix runouts stamped VAN GELDER. Master release listings: BLP 4226 (mono, US 1966), BST 84226 (stereo, US 1966)."
+    },
+    "S4": {
+      "title": "MusicBrainz -- release 002c7411-60c3-4065-9d3a-c09d62bcdfd0 (Complete Communion) and release group c60ca1d0-366c-315b-a15d-62100981795b",
+      "type": "web",
+      "url": "https://musicbrainz.org/release/002c7411-60c3-4065-9d3a-c09d62bcdfd0",
+      "notes": "Annotation: 'Location: Van Gelder Studio, Englewood Cliffs, New Jersey, USA; Recording Date: 1965/12/24; Recording Producer: Alfred Lion; Reissue Producer: Michael Cuscuna; Liner Notes: Nat Hentoff'; the CD release is part of the Blue Note Connoisseur Series; 'Cherry, Barbieri, Grimes, Blackwell'. Credits: engineer Rudy van Gelder. Release group included in The Complete Blue Note Recordings of Don Cherry; Discogs master 39906; AllMusic mw0000051472."
+    },
+    "S5": {
+      "title": "iTunes Search API -- Don Cherry 'Complete Communion' (collectionId 1443797315) and track lookup",
+      "type": "web",
+      "url": "https://itunes.apple.com/lookup?id=1443797315&entity=song",
+      "notes": "Apple Music edition: 2 tracks, copyright '2015 Blue Note Records', release date 1966-01-01, price 10.99. Track titles as indexed: 'Complete Communion: Complete Communion / And Now / Golden Heart / Remembrance' (12:42) and 'Elephantasy: Elephantasy / Our Feelings / Bishmallah / Wind, Sand and Stars' (11:58) -- the two suites, with track time discrepancies against the LP's 20:38 / 19:36 noted rather than smoothed."
+    },
+    "S6": {
+      "title": "Cover Art Archive -- release group c60ca1d0-366c-315b-a15d-62100981795b",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/c60ca1d0-366c-315b-a15d-62100981795b",
+      "notes": "Returns a single front image, attached to release 92be7b8b-f428-4d9a-a245-eae761823b1f."
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-12-24"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1965-12-24",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Don Cherry",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of both suites (S1, S2, S3). Sources credit the cornet -- Wikipedia, Discogs and the MusicBrainz annotation (S1, S3, S4) -- while AllMusic additionally carries a 'Trumpet' credit for him (S2); the cornet is recorded here as the instrument and the trumpet credit is retained in this note."
+      },
+      {
+        "name": "Gato Barbieri",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Leandro 'Gato' Barbieri"
+        ],
+        "notes": "Credited as Leandro 'Gato' Barbieri on the LP credits and as Gato Barbieri by AllMusic and Wikipedia (S1, S2, S3). The album is among his earliest recordings; Cherry met him in Rome (S1, S2)."
+      },
+      {
+        "name": "Henry Grimes",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic carries him as a guest artist (S2); the Penguin Guide notes he was 'poorly audible on the original LP' but 'comes through strongly on the reissues' (S1)."
+      },
+      {
+        "name": "Ed Blackwell",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Edward Blackwell"
+        ],
+        "notes": "Credited as Edward Blackwell on the LP credits and Wikipedia's personnel list; AllMusic and Discogs' artist link use Ed Blackwell (S1, S2, S3)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Complete Communion: Complete Communion / And Now / Golden Heart / Remembrance",
+        "track_number": 1,
+        "side": "A",
+        "duration": "20:38",
+        "session_date": "1965-12-24",
+        "composers": [
+          "Don Cherry"
+        ],
+        "personnel": [
+          "Don Cherry",
+          "Gato Barbieri",
+          "Henry Grimes",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Elephantasy: Elephantasy / Our Feelings / Bishmallah / Wind, Sand And Stars",
+        "track_number": 2,
+        "side": "B",
+        "duration": "19:36",
+        "session_date": "1965-12-24",
+        "composers": [
+          "Don Cherry"
+        ],
+        "personnel": [
+          "Don Cherry",
+          "Gato Barbieri",
+          "Henry Grimes",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "c60ca1d0-366c-315b-a15d-62100981795b",
+    "apple_album_id": "1443797315",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/c60ca1d0-366c-315b-a15d-62100981795b/front",
+        "is_original_cover": null,
+        "is_primary": true,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image for the release group, returned attached to release 92be7b8b-f428-4d9a-a245-eae761823b1f. The original 1966 sleeve is a Reid Miles design (S3); whether this image reproduces it is not documented by the CAA entry, hence is_original_cover null."
+      }
+    ],
+    "notes": "One session, one place: December 24, 1965 at Van Gelder Studio, Englewood Cliffs, New Jersey -- Englewood Cliffs and not Hackensack, since Rudy Van Gelder had moved by July 1959 (S1, S3, S4). AllMusic's recording-location field prints a city line 'New York, NY' beside the studio name (S2); every other source -- Wikipedia, Discogs, MusicBrainz, the LP's own dead-wax stamp -- names Van Gelder Studio, Englewood Cliffs, New Jersey, so the venue is recorded as Van Gelder and AllMusic's city string is preserved here rather than resolved away (S1, S2, S3, S4). The album is two side-long suites, each cut in a single take, so the quartet's coverage is uniform across both titles and no musician needs a per-track qualification (S2). The quartet is Cherry, Barbieri, Grimes and Blackwell with no substitutions and no guests beyond the leader (S1, S2, S3, S4). Production: Alfred Lion produced, Rudy Van Gelder engineered (S1, S3, S4); Nat Hentoff wrote the liner notes, Reid Miles the cover design, Francis Wolff the photography, and Michael Cuscuna produced the CD reissue -- none of these are performing roles and none is entered as personnel (S3, S4). AllMusic lists no producer credit on its page at all (S2). Track representation: the LP's two indexed tracks are the two suites, with the movements inside them listed by Discogs (S3); the titles recorded here are the compound spellings used by Wikipedia and Apple Music (S1, S5). Durations: Wikipedia and AllMusic agree on 20:38 and 19:36, totalling 40:14 (S1, S2); the Apple Music edition shows the two tracks as 12:42 and 11:58 (S5) and is recorded as a discrepancy rather than used. Release dating: recorded December 24, 1965, released May 1966 (S1, S3, S5 label year 1966); Blue Note mono BLP 4226 and stereo BST 84226 both 1966, and this pressing was Plastylite's last (S3)."
+  },
+  "ballot": {
+    "album": "Don Cherry — Complete Communion (1966)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "1966 is within the 1945–1985 window; the opened free-jazz gate is in play, so the bridge test and John's free-jazz calibration apply."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest case is lineage: the canon already contains three Ornette Coleman records and Old and New Dreams’ Playing, and this debut as a leader connects that lineage through Cherry and Ed Blackwell (S1, S2). Ekkehard Jost calls it among the most important free-jazz LPs of the Sixties, while AllMusic describes the quartet as conversational and says the record establishes Cherry as an avant-garde force in his own right (S1, S2). Its themed, side-long suites make it a teachable bridge into free jazz rather than an energy-maximalist edge case.",
+    "case_against": "Critical consensus is divided: AllMusic rates it 4.5/5 and Rolling Stone and MusicHound 5/5, but Penguin and DownBeat rate it 3/5; Penguin also notes the rawness of its still-experimental aesthetic (S1). The canon already presents Ornette’s free-jazz world, so this is a valuable extension rather than an obvious gap, and the dossier does not establish why this should take precedence over Cherry’s near-contemporary Symphony for Improvisers. The critical assessments are reported through web sources, with the Penguin and Jost quotations mediated through Wikipedia (S1), which limits the depth of the evidence.",
+    "disagreement": "Reference 1 favors contested because the split critical reception and free-jazz calibration make the merits genuinely mixed; Reference 2 favors scope_call because the decisive issue is whether this bridge record earns a place across the free-jazz boundary.",
+    "recommendation": "John should weigh this strong, theme-based bridge into free jazz as a contested candidate and make the final gate decision.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

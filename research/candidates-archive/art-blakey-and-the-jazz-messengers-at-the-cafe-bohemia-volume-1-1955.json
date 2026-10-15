@@ -1,0 +1,370 @@
+{
+  "id": "art-blakey-and-the-jazz-messengers-at-the-cafe-bohemia-volume-1-1955",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "At the Café Bohemia, Volume 1",
+  "year": 1955,
+  "label": "Blue Note",
+  "catalog_number": "Blue Note BLP 1507",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "At the Café Bohemia, Volume 1 is the live document of the Jazz Messengers quintet that made hard bop a working band's music — Kenny Dorham, Hank Mobley, Horace Silver, Doug Watkins and Art Blakey, four sets in one night in a Greenwich Village basement, recorded for Blue Note and released as BLP 1507 [S1,S3,S6] (obs). Consensus: Wikipedia's review box records AllMusic at four stars and The Penguin Guide to Jazz at three and a half for both volumes, the Penguin judging the playing 'just as absorbing' as A Night at Birdland and singling out Dorham's 'elusive brilliance ... seldom so extensively captured' [S1] (obs); AllMusic files it under Hard Bop and Bop and rates it four stars [S2] (obs); Blue Note's own label history treats the date as the room's defining session [S6] (obs). Session gravity, the signal this canon weighs hardest: one night, four sets, and the quintet that carried the idiom — Blakey with Silver's arrangements, Mobley and Dorham in the front line, Watkins on bass [S1,S3,S6] (obs). Lineage: the record sits between Horace Silver and the Jazz Messengers (already in the canon, the 1954 Columbia/Blue Note date) and the Messengers' own Moanin'–Mosaic run, and it is the date that put the Café Bohemia — where the first Miles Davis Quintet also worked — on record [S1,S8] (obs). It still plays: 'Soft Winds', 'Minor's Holiday', 'Alone Together' and 'Prince Albert' are the band at full cry before a paying audience, with Blakey's spoken introductions kept in [S1,S6] (obs). Dedup: A Night at Birdland, Vol. 1 (1954) is in the canon; this is the later live Messengers date with a different and equally load-bearing front line (Dorham/Mobley/Silver/Watkins), and it is a genuine hole in the band's arc as the canon holds it [S1,S3,S5] (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — At the Cafe Bohemia (recorded November 23, 1955 at the Café Bohemia, Greenwich Village, New York City; released Blue Note BLP 1507 / BLP 1508, early April 1956; producer Alfred Lion; liner notes Leonard Feather; cover design John Hermansader; photography Francis Wolff; reissue credits Michael Cuscuna / Rudy Van Gelder digital remastering; personnel Kenny Dorham trumpet, Hank Mobley tenor saxophone, Horace Silver piano, Doug Watkins bass, Art Blakey drums; review box: AllMusic 4/5 and Penguin Guide to Jazz 3.5/4 for both volumes, with the Penguin's comparison to A Night at Birdland; 2001 CD reissues add three tracks to each volume)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/At_the_Cafe_Bohemia"
+    },
+    "S2": {
+      "title": "AllMusic — At the Cafe Bohemia, Vol. 1 (mw0000590277; styles Hard Bop, Bop; release date 1955; duration 01:01:44; review by Michael G. Nastos calling the music 'still timeless')",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/at-the-cafe-bohemia-vol-1-mw0000590277"
+    },
+    "S3": {
+      "title": "Jazz Discography (jazzdisco.org) — Blue Note Records Discography 1955-1956, The Jazz Messengers, Cafe Bohemia, Greenwich Village, NY, 1st-4th sets, November 23, 1955 (personnel per set; master and rejected takes; track-to-release mapping: BLP 1507 Volume 1, BLP 1508 Volume 2, Japanese DY-5805-01 / CDP 7 46521 2 / CDP 7 46522 2)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/blue-note-records/discography-1955-1956/"
+    },
+    "S4": {
+      "title": "MusicBrainz — release group 3fdd5fd3-384f-32ab-9da7-d8e8662d1d48 'The Jazz Messengers at the Cafe Bohemia, Volume 1' (release 0ed1e02d-1a43-477a-968b-c81d86693d53, 12\" vinyl, 6 tracks with positions and lengths; recording engineer credited as Rudy van Gelder on the tracks; recorded at Cafe Bohemia, New York, on 1955-11-23)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release/0ed1e02d-1a43-477a-968b-c81d86693d53"
+    },
+    "S5": {
+      "title": "Discogs — master 188288, The Jazz Messengers 'At The Cafe Bohemia Volume 1' (credits: Doug Watkins bass, Art Blakey drums, John Hermansader cover design, RVG lacquer cut by, Leonard Feather liner notes, Francis Wolff cover photo; Blue Note BLP 1507, US 1956; tracklist Soft Winds / The Theme / Minor's Holiday / Alone Together / Prince Albert)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/188288"
+    },
+    "S6": {
+      "title": "Blue Note Records — official spotlight 'Art Blakey At The Café Bohemia' (November 23, 1955 late-night 'cooking session' recorded for Blue Note; the third incarnation of the Jazz Messengers; Blakey, Horace Silver, Hank Mobley, Kenny Dorham, Doug Watkins; Vol. 1 opens with Blakey's spoken announcement)",
+      "type": "web",
+      "url": "https://www.bluenote.com/spotlight/art-blakey-at-the-caf-bohemia/"
+    },
+    "S7": {
+      "title": "iTunes Search API — Art Blakey & The Jazz Messengers 'At the Cafe Bohemia, Vol. 1 (Remastered)' (collectionId 724231474, released 1955-01-01, Blue Note Records, 9 tracks — the RVG Edition: 6 original tracks plus 3 reissue bonus tracks)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=art+blakey+at+the+cafe+bohemia&entity=album&limit=10"
+    },
+    "S8": {
+      "title": "Wikipedia — Café Bohemia (jazz club at 15 Barrow Street, Greenwich Village, New York City; original run 1955-1960, opened by Jimmy Garofolo; bands included the first Miles Davis Quintet, Art Blakey's original Jazz Messengers and Kenny Dorham's Jazz Prophets; live recordings list; coordinates 40.7326 N, 74.0026 W)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Bohemia"
+    },
+    "S9": {
+      "title": "Cover Art Archive — release group 3fdd5fd3-384f-32ab-9da7-d8e8662d1d48 front image (Francis Wolff cover photograph, John Hermansader design)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/3fdd5fd3-384f-32ab-9da7-d8e8662d1d48"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1955-11-23"
+    ],
+    "multi_session": false,
+    "studio": "Café Bohemia, Greenwich Village, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1955-11-23",
+        "site_raw": "Cafe Bohemia, Greenwich Village, NY (1st-4th sets, November 23, 1955)",
+        "site_slug": null,
+        "site_new": {
+          "name": "Café Bohemia",
+          "city": "New York, NY",
+          "kind": "club",
+          "address": "15 Barrow Street",
+          "lat": 40.7326,
+          "lon": -74.0026,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Bohemia (\"The Café Bohemia was a jazz club located at 15 Barrow Street in the Greenwich Village neighborhood of New York City\") | coords: https://en.wikipedia.org/wiki/Caf%C3%A9_Bohemia"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Kenny Dorham",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5",
+          "S6"
+        ],
+        "name_variants": [
+          "McKinley Howard Dorham"
+        ],
+        "notes": "Front-line partner to Mobley throughout; the 2001 CD reissue also carries Dorham's 'Lady Bird' credit list. Conflict preserved: jazzdisco's set-level listing for the 2nd set gives Dorham trumpet on items 1-3 and 6 only, which would exclude him from 'Alone Together' (item 5) and 'What's New' (item 4); MusicBrainz, AllMusic, Discogs and the Blue Note label page all give the quintet on the record. Recorded here as the quintet on all tracks per the majority of sources, with the disagreement left in this note."
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Front line with Dorham throughout. Mobley's own compositions appear on the reissue material rather than the original six tracks: 'Deciphering the Message' (2001 bonus track on this volume) and 'Hank's Symphony' (Vol. 2 CD), and 'Sportin' Crowd' on Vol. 2."
+      },
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "This is the last of the Messengers' co-led Silver/Blakey editions; Silver's own 'Horace Silver and the Jazz Messengers' (1954) is already in the canon."
+      },
+      {
+        "name": "Doug Watkins",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5",
+          "S6"
+        ],
+        "name_variants": [
+          "Douglas Watkins"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5",
+          "S6"
+        ],
+        "name_variants": [
+          "Abdullah Ibn Buhaina"
+        ],
+        "notes": "Also speaks the opening announcement preserved as track A1."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Announcement by Art Blakey",
+        "track_number": 1,
+        "side": "A",
+        "duration": "1:32",
+        "session_date": "1955-11-23",
+        "composers": [],
+        "personnel": [
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S4",
+          "S6"
+        ]
+      },
+      {
+        "title": "Soft Winds",
+        "track_number": 2,
+        "side": "A",
+        "duration": "12:34",
+        "session_date": "1955-11-23",
+        "composers": [
+          "Benny Goodman"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "The Theme",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:11",
+        "session_date": "1955-11-23",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "Minor's Holiday",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:11",
+        "session_date": "1955-11-23",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "Alone Together",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:15",
+        "session_date": "1955-11-23",
+        "composers": [
+          "Howard Dietz",
+          "Arthur Schwartz"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "title": "Prince Albert",
+        "track_number": 6,
+        "side": "B",
+        "duration": "8:51",
+        "session_date": "1955-11-23",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4",
+          "S5"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "3fdd5fd3-384f-32ab-9da7-d8e8662d1d48",
+    "apple_album_id": "724231474",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/3fdd5fd3-384f-32ab-9da7-d8e8662d1d48/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image for release group 3fdd5fd3 (Francis Wolff photograph, John Hermansader design)."
+      }
+    ],
+    "notes": "One night, four sets, November 23, 1955 at the Café Bohemia, Greenwich Village, New York City; all four sets are documented by jazzdisco and Volume 1 draws on all of them ('Minor's Holiday' from the 1st set, 'Soft Winds' and 'Alone Together' from the 2nd, 'Prince Albert' from the 3rd, 'The Theme' from the 4th). The original 12\" LP (Blue Note BLP 1507) carries six tracks and runs about 42 minutes; AllMusic lists the CD edition at 1:01:44 and Wikipedia's Vol. 1 CD table adds 'Lady Bird', 'What's New?' and 'Deciphering the Message' as 2001 reissue bonus tracks [S1,S2,S4]. The Apple Music edition found by the iTunes lookup (collectionId 724231474) is the 9-track RVG Edition, i.e. the original six plus three bonus tracks [S7]. Producer Alfred Lion and engineer Rudy Van Gelder: Wikipedia gives Lion as producer and lists Van Gelder only among the reissue credits, while MusicBrainz credits Van Gelder as recording engineer on the tracks and Discogs credits him as 'Lacquer Cut By' on the original LP [S1,S4,S5]; the Van Gelder recording credit is carried here at obs on the strength of the MusicBrainz track credits, with the Discogs narrower role noted. Track A1 is a spoken announcement, not music. Recorded 1955; released early April 1956 — the canon's year is the recording year, consistent with the other 1950s Blue Note live dates already held. Volume 2 (BLP 1508) is a separate release from the same night and is not part of this candidate."
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers — At the Café Bohemia, Volume 1 (1955)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The date documents a load-bearing hard-bop lineup—Blakey, Silver, Mobley, Dorham, and Watkins—in a vivid live setting, with Blue Note calling the Café Bohemia session defining and the Penguin Guide finding the playing as absorbing as A Night at Birdland [S1, S6]. Its Dorham features and transitional place between the 1954 Messengers and the later Moanin' lineup make it a meaningful band-history document, not simply another Blakey showcase [S1, S3].",
+    "case_against": "The canon already has A Night at Birdland, a more foundational live Messengers statement, so this album risks duplicating a similar function even though the lineup differs. Volume 1 is also only one half of a single evening split across two LPs; its strong reviews establish quality, but do not by themselves make this slice essential over the band's studio milestones.",
+    "disagreement": null,
+    "recommendation": "John should consider adding it as a strong but non-essential live counterpart to A Night at Birdland, weighing its transitional lineup and Dorham documentation against the redundancy and split-volume concerns.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

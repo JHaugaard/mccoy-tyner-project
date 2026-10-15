@@ -1,0 +1,421 @@
+{
+  "id": "erroll-garner-concert-by-the-sea-1955",
+  "artist": "Erroll Garner",
+  "album": "Concert by the Sea",
+  "year": 1955,
+  "label": "Columbia",
+  "catalog_number": "CL 883",
+  "style_primary": "cool-jazz",
+  "rationale": "Garner's defining record and one of the best-selling jazz albums of its era - over a million dollars of retail copies by 1958, gold-record status by the standard of the day (S1) - and the album that made him, in Scott Yanow's phrase, 'considered immortal from then on' (S1, quoted from Jazz on Record). Consensus across independent listing traditions, as tabulated in the Wikipedia article (S1): AllMusic 5 stars (Erlewine: 'arguably the finest record pianist Erroll Garner ever made'), The Penguin Guide to Jazz 3.5/4 plus a place in the book's suggested Core Collection, The Rolling Stone Jazz Record Guide 5 stars, The Encyclopedia of Popular Music 5 stars; the album also carries a Grammy Hall of Fame award (S1, page category). Defining-statement signal: a live night-club-length set that fixed Garner's sound for listeners - the teased introductions, the signature diminuendo-crescendo endings, the piano-as-big-band conception (S4, official label liner notes by Dan Morgenstern). Lineage and session gravity: recorded at the Sunset School auditorium in Carmel on promoter Jimmy Lyons' Sunset Series, the series that laid the groundwork for the Monterey Jazz Festival (S1) - Monterey is already a canonical place in this canon; the trio is Garner with bassist Eddie Calhoun (his first recording with Garner, and he stayed eleven years) and drummer Denzil Best (the bebop drummer of George Shearing's quintet and composer of 'Move'; this was his only recording with Garner, S4). Producer George Avakian, whose Columbia jazz division released it after Garner's manager Martha Glaser salvaged the Armed Forces Radio tape (S1, S4). Discovery value is the record's whole point: 41 minutes of standards a newcomer can follow end to end. Style tagged cool-jazz by the precedent already set for this canon's other mid-1950s mainstream piano and small-group dates (Lester Young's President Plays with the Oscar Peterson Trio, 1952; June Christy's Something Cool, 1955; Shelly Manne's My Fair Lady, 1956 - all cool-jazz); the style table has no swing or mainstream-jazz code, and AllMusic files the record under 'Mainstream Jazz, Swing, Jazz Instrument, Piano Jazz' (S2), so the tag is a table convention rather than a claim that this is West Coast cool jazz. Recorded live on September 19, 1955 (S1, S2, S3, S4).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia - Concert by the Sea",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Concert_by_the_Sea"
+    },
+    "S2": {
+      "title": "AllMusic - Erroll Garner, Concert by the Sea (album page, review and credits tab)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/concert-by-the-sea-mw0000188078"
+    },
+    "S3": {
+      "title": "Discogs - Erroll Garner, Concert By The Sea (master 179454, 172 releases; 1955 Columbia B-883 45 RPM EP and 1956 LP CL 883)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/179454"
+    },
+    "S4": {
+      "title": "errollgarner.com (official estate/label site) - The Complete Concert by the Sea, credits and liner notes",
+      "type": "web",
+      "url": "https://www.errollgarner.com/albums/complete-concert-by-the-sea"
+    },
+    "S5": {
+      "title": "iTunes Search API - Erroll Garner Concert by the Sea",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Erroll+Garner+Concert+by+the+Sea&entity=album"
+    },
+    "S6": {
+      "title": "MusicBrainz release group + Cover Art Archive - Concert by the Sea (72641bf6-4da9-3cbc-8a11-2e4f03b571ec)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/72641bf6-4da9-3cbc-8a11-2e4f03b571ec"
+    },
+    "S7": {
+      "title": "Wikipedia - Sunset Center (venue identification, address and coordinates)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Sunset_Center"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1955-09-19"
+    ],
+    "multi_session": false,
+    "studio": "Sunset School auditorium (now Sunset Center), Carmel-by-the-Sea, CA",
+    "recording_sites": [
+      {
+        "session_date": "1955-09-19",
+        "site_raw": "Sunset School, Carmel-by-the-Sea, California",
+        "site_slug": null,
+        "site_new": {
+          "name": "Sunset Center (Sunset School Auditorium)",
+          "city": "Carmel-by-the-Sea, CA",
+          "kind": "hall",
+          "address": "San Carlos Street at 9th Avenue",
+          "lat": 36.55129,
+          "lon": -121.92118,
+          "location_epistemic": "obs",
+          "location_source": "coords: https://en.wikipedia.org/wiki/Sunset_Center | address: https://en.wikipedia.org/wiki/Sunset_Center (Sunset School 'was built at 9th Avenue and San Carlos Street'; NRHP listing gives 'San Carlos St., Carmel-by-the-Sea'); geocoded with scripts/geocode-place.py"
+        },
+        "epistemic": "obs",
+        "source": "S7"
+      }
+    ],
+    "producer": "George Avakian",
+    "engineer": "Jim Meagher, Will Thornbury",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Erroll Garner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; also the composer of 'Mambo Carmel' and 'Erroll's Theme' (S1)."
+      },
+      {
+        "name": "Eddie Calhoun",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "His first recording with Garner; he remained the trio's bassist for eleven years (S4)."
+      },
+      {
+        "name": "Denzil Best",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Denzil DeCosta Best"
+        ],
+        "notes": "The official credits print 'Denzil DeCosta Best' (S4); this was his only recording with Garner (S4)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "I'll Remember April",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:14",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Gene de Paul",
+          "Patricia Johnston",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Teach Me Tonight",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:37",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Sammy Cahn",
+          "Gene de Paul"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mambo Carmel",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:43",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Erroll Garner"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Autumn Leaves",
+        "track_number": 4,
+        "side": "A",
+        "duration": "6:27",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Joseph Kosma",
+          "Jacques Prevert",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "It's All Right with Me",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:40",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Red Top",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:11",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Lionel Hampton",
+          "Ben Kynard"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "April in Paris",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:47",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Vernon Duke",
+          "E.Y. Harburg"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "They Can't Take That Away from Me",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:08",
+        "session_date": "1955-09-19",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "How Could You Do a Thing Like That to Me",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:59",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Tyree Glenn",
+          "Allan Roberts"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Where or When",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:06",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Erroll's Theme",
+        "track_number": 11,
+        "side": "B",
+        "duration": "0:46",
+        "session_date": "1955-09-19",
+        "composers": [
+          "Erroll Garner"
+        ],
+        "personnel": [
+          "Erroll Garner",
+          "Eddie Calhoun",
+          "Denzil Best"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "72641bf6-4da9-3cbc-8a11-2e4f03b571ec",
+    "apple_album_id": "192787263",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/ab23f9ba-865c-3324-916c-c3414b9faa6b/20898560815.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from Cover Art Archive for release-group 72641bf6-4da9-3cbc-8a11-2e4f03b571ec, matched by title/artist/year; the pressing is not verified, so is_original_cover is left null rather than asserted."
+      }
+    ],
+    "notes": "Single live session, 1955-09-19, in the assembly hall of the Sunset School (now the Sunset Center), Carmel-by-the-Sea, California; the LP runs 41:19 across sides A and B (S1, S2). The trio is Garner with Eddie Calhoun and Denzil Best; no guests. Track durations and the side split are taken from the Wikipedia original-LP listing (S1) and cross-checked against AllMusic's track list (S2). CONFLICT (minor, preserved) - title: the third tune is 'Mambo Carmel' on the Columbia LP (S1) and 'Mambo Carmel-by-the-sea' in the Discogs track listing (S3); the LP form is used. CONFLICT (preserved) - engineer: the 2015 official reissue credits name 'Original Recording Engineers - Jim Meagher, Will Thornbury' (S4), and Wikipedia's account identifies Will Thornbury as the Armed Forces Radio engineer whose tape the album was cut from (S1); AllMusic's credits table instead carries a single Engineer credit, Larry Keyes (S2), who was a Columbia reissue/mastering engineer rather than the 1955 recordist. The original 1955 LP carries no engineer credit in any source consulted, and the session was not planned as a commercial recording. The original-credit reading is recorded here as the engineer claim, with the AllMusic credit preserved as the conflicting one. CONFLICT (preserved) - release year: the album is dated 1955 by Wikipedia's infobox (released October 13, 1955), AllMusic's Release Date (October 13, 1955) and the Apple Music release year (1955, S1, S2, S5); Discogs lists a 1955 Columbia 3x7-inch 45 RPM EP (B-883) alongside 1956 LP pressings (CL 883), and Apple's copyright line reads 'Originally released 1956' (S3, S5). This dossier uses 1955 (recording and first release); both readings are in the sources. REISSUE MATERIAL EXCLUDED: the 2015 Sony Legacy 'Complete Concert by the Sea' adds eleven performances and a 14-minute post-concert interview (S1, S4); only the original eleven-track LP is represented. Personnel on every track are the album-level trio credits of S1/S2/S3/S4; the record is a single continuous trio performance, so no per-track distinction exists to record."
+  },
+  "ballot": {
+    "album": "Erroll Garner — Concert by the Sea (1955)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded and first released in 1955, within the year window; the genuine question is whether Garner’s swing-rooted mainstream piano style belongs in a canon centered on bebop and post-bebop."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "The dossier reports unusually broad recognition: a Penguin Guide Core Collection placement, top ratings in several other guides, and a Grammy Hall of Fame award (S1, S2); the album was also a major commercial success. Morgenstern’s liner notes describe Garner’s distinctive teased introductions, dynamic endings, and piano-as-big-band conception (S4), captured in an immediately inviting live set of standards. The Sunset Series setting and drummer Denzil Best’s bebop connections add historical links, while the album’s accessible, exuberant performance has exceptional discovery value.",
+    "case_against": "Garner’s singular, swing-rooted mainstream style runs parallel to rather than clearly extending the Parker–Powell–Monk post-bebop lineage, and the dossier offers little evidence that this album changed what followed. Its cool-jazz tag is a table convention, not a convincing description of the music, so admitting it may broaden the canon’s stylistic center. The consensus case is strong but partly reported through Wikipedia’s guide-rating summary rather than supported by first-hand excerpts from each guide.",
+    "disagreement": "One reference finds no genuine scope boundary and judges the reported consensus sufficient for consensus_core; the other sees a substantive mainstream/swing versus post-bebop boundary and assigns scope_call. The ballot preserves that disagreement as a scope_call because the style fit, not the album’s quality, is the decisive question.",
+    "recommendation": "John should decide whether this landmark, highly accessible mainstream performance belongs within the canon’s post-bebop scope.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "id": "miles-davis-workin-with-the-miles-davis-quintet-1960",
+  "artist": "Miles Davis",
+  "album": "Workin' with the Miles Davis Quintet",
+  "year": 1960,
+  "label": "Prestige",
+  "catalog_number": "PRLP 7166",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "hard-bop"
+  ],
+  "priority": "strong",
+  "epistemic": "obs",
+  "rationale": "The third of the four albums cut from the First Great Quintet's two 1956 marathon sessions (May 11 and October 26) and the missing sibling in this canon: Cookin' (1957) and Relaxin' (1958) are already in, Workin' is not. Consensus across independent listing traditions is documented in the source map - Wikipedia's review table records AllMusic 5/5, DownBeat 5/5, The Penguin Guide to Jazz 4.5/4, The Rolling Stone Album Guide 5/5 and The Encyclopedia of Popular Music 5/5 (S2). Session gravity is the whole point of this canon: Davis, Coltrane, Red Garland, Paul Chambers and Philly Joe Jones working the repertoire they were playing nightly, with 'Four', 'Trane's Blues' and 'Half Nelson' among the group's defining studio statements. It still plays cold - 'It Never Entered My Mind' is one of the great Davis ballads, and the rhythm-section-only 'Ahmad's Blues' shows what the band sounded like without its horns.",
+  "sources": {
+    "S1": {
+      "title": "AllMusic - Workin' with the Miles Davis Quintet (album page + Credits tab)",
+      "type": "credits/review",
+      "url": "https://www.allmusic.com/album/workin-with-the-miles-davis-quintet-mw0000649474"
+    },
+    "S2": {
+      "title": "Wikipedia - Workin' with the Miles Davis Quintet",
+      "type": "encyclopedia (carries the review-scores table citing AllMusic, DownBeat, Penguin Guide 9th ed. p.342, Rolling Stone Album Guide, Encyclopedia of Popular Music)",
+      "url": "https://en.wikipedia.org/wiki/Workin%27_with_the_Miles_Davis_Quintet"
+    },
+    "S3": {
+      "title": "JazzDisco.org - Miles Davis Discography, 1956 session index (May 11 and October 26, 1956 sessions, take-by-take, with per-album issue)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/miles-davis/discography/"
+    },
+    "S4": {
+      "title": "iTunes Search API - Workin' With The Miles Davis Quintet (collectionId 1685100450)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=miles+davis+workin+with+the&entity=album&limit=10"
+    },
+    "S5": {
+      "title": "MusicBrainz release group - Workin' with the Miles Davis Quintet",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/4279baa0-5203-384a-8702-b3838bf6ec78"
+    },
+    "S6": {
+      "title": "Cover Art Archive - front cover for release group 4279baa0-5203-384a-8702-b3838bf6ec78",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/4279baa0-5203-384a-8702-b3838bf6ec78/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-05-11",
+      "1956-10-26"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1956-05-11",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1956-10-26",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Weinstock",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "It Never Entered My Mind",
+          "Four",
+          "In Your Own Sweet Way",
+          "The Theme (Take 1)",
+          "Trane's Blues",
+          "Half Nelson",
+          "The Theme (Take 2)"
+        ],
+        "session_dates": [
+          "1956-05-11",
+          "1956-10-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Ahmad's Blues' (rhythm section only) - S2 and S3 agree."
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "It Never Entered My Mind",
+          "Four",
+          "In Your Own Sweet Way",
+          "The Theme (Take 1)",
+          "Trane's Blues",
+          "Half Nelson",
+          "The Theme (Take 2)"
+        ],
+        "session_dates": [
+          "1956-05-11",
+          "1956-10-26"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "CONFLICT. S2 (from The John Coltrane Reference, p.448) lists Coltrane on every track except 'Ahmad's Blues'. S3 gives 'tenor sax #1-3,5,6,8,11-14' for the May 11 session, i.e. also absent from take 896 / 'It Never Entered My Mind'. Both claims preserved; the 'It Never Entered My Mind' assignment is marked unk. Absence from 'Ahmad's Blues' is agreed by both."
+      },
+      {
+        "name": "Red Garland",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-05-11",
+          "1956-10-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-05-11",
+          "1956-10-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "S2 credits 'bass, cello' (Chambers plays bowed/arco bass on 'Ahmad's Blues'); S1 lists Bass only. Recorded here as double bass; the cello credit is unreconciled - not asserted."
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1956-05-11",
+          "1956-10-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "\"Philly Joe\" Jones"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "It Never Entered My Mind",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:26",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Four",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:15",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "In Your Own Sweet Way",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:45",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Dave Brubeck"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Theme (Take 1)",
+        "track_number": 4,
+        "side": "A",
+        "duration": "2:01",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Trane's Blues (a.k.a. Vierd Blues)",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:35",
+        "session_date": "1956-05-11",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ahmad's Blues",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:26",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Ahmad Jamal"
+        ],
+        "personnel": [
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Half Nelson",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:48",
+        "session_date": "1956-10-26",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Theme (Take 2)",
+        "track_number": 8,
+        "side": "B",
+        "duration": "1:03",
+        "session_date": "1956-05-11",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "John Coltrane",
+          "Red Garland",
+          "Paul Chambers",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "4279baa0-5203-384a-8702-b3838bf6ec78",
+    "apple_album_id": "1685100450",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/e4ca574c-ff93-4f69-ac82-b1f587d929b9/13529443685.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "CAA front image of release e4ca574c-ff93-4f69-ac82-b1f587d929b9; design matches the 1960 Prestige cover shown in S2's infobox. Pressing not confirmed as the first edition."
+      }
+    ],
+    "notes": "Two sessions, both at Van Gelder Studio, Hackensack NJ (the pre-July-1959 room). May 11, 1956: all tracks except 'Half Nelson'; that same session also produced the material later issued on Relaxin' and Steamin'. October 26, 1956: 'Half Nelson' (take 998), plus tracks issued on Relaxin'/Cookin'/Steamin'. Session detail and take numbers from S3; per-album issue path from S3's PRLP 7166 entries. 'Trane's Blues' is a Coltrane composition credited to Davis on the original LP (S2); 'The Theme' takes carry no other issue. Track durations from S2; S1 gives 4:47 for 'Half Nelson' and 7:27 for 'Ahmad's Blues' and 1:04 for 'The Theme (Take 2)' - minor variance preserved, S2's values used. Year: S2 and S3 both date the LP 1960 (Prestige PRLP 7166; Cash Box/Billboard release notices); S1 dates the release September 1959. Filed as 1960, consistent with the canon's treatment of the sibling LPs (Cookin' 1957, Relaxin' 1958). Recording dates precede release by three years by design - Prestige worked the 1956 tapes out over four albums through 1961."
+  },
+  "ballot": {
+    "album": "Miles Davis — Workin' with the Miles Davis Quintet (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The dossier reports exceptional critical consensus: AllMusic, DownBeat, Rolling Stone, and the Encyclopedia of Popular Music at 5/5, with the Penguin Guide at 4.5/4 (S2; scores are reported through a secondary source). Drawn from the First Great Quintet’s 1956 Van Gelder sessions, the album captures a defining ensemble in repertoire including “Four,” “Trane’s Blues,” and “Half Nelson,” alongside Davis’s celebrated ballad reading of “It Never Entered My Mind” (S1–S3). With *Cookin’* and *Relaxin’* already in the canon, leaving out this sibling also makes the group’s recorded document conspicuously incomplete.",
+    "case_against": "The album shares the same two sessions, personnel, and overlapping repertoire as *Cookin’*, *Relaxin’*, and *Steamin’*, so a discovery canon that already includes two siblings could reasonably prefer broader representation over a third installment. Its brief “The Theme” takes and the hornless “Ahmad’s Blues” can make the program feel more like an archival harvest than a unified album statement. The critical-consensus evidence is substantial but reaches the ballot through a review-score table in S2 rather than direct consultation of the cited reviews.",
+    "disagreement": "Both references judge the tier consensus_core, but they split on urgency: one calls it must_have, while the other calls it strong, reflecting different weights given to the visible sibling-album gap versus redundancy and programmatic coherence.",
+    "recommendation": "John should treat *Workin’* as a consensus-core, strong-priority addition, while weighing its canonical performances against the redundancy of another album from the same sessions.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

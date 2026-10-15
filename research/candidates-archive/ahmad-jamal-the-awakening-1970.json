@@ -1,0 +1,326 @@
+{
+  "id": "ahmad-jamal-the-awakening-1970",
+  "artist": "Ahmad Jamal",
+  "album": "The Awakening",
+  "year": 1970,
+  "label": "Impulse!",
+  "catalog_number": "AS-9194",
+  "style_primary": "post-bop",
+  "rationale": "Jamal's second landmark trio record and the one most often named beside 'At the Pershing' - All About Jazz: 'some people consider The Awakening to be Jamal's second great album' (S1). Consensus across independent listing traditions, as tabulated in the Wikipedia article (S1): AllMusic 4 stars (Scott Yanow), The Penguin Guide to Jazz Recordings 3.5/4, Pitchfork 8.0/10 (2017 reissue review), The Rolling Stone Jazz Record Guide 3 stars - with the AllMusic and Pitchfork notices both quoted there. Lineage is unusually direct and lands on albums already in this canon: the program covers Herbie Hancock's 'Dolphin Dance' (from Maiden Voyage, in the canon) and Oliver Nelson's 'Stolen Moments' (from The Blues and the Abstract Truth, in the canon), and the record's long second life runs through hip hop - Nas and Common both sampled it (S1) - which is exactly the 'still plays' discovery test. Session gravity: Jamal's working trio of the period, bassist Jamil Nasser (a Coltrane and Getz sideman) and drummer Frank Gant, both of whom stayed with him into the mid-1970s; the trio's earlier work on Cadet and its run of Impulse! albums (this the only studio one) is the bridge from the 1958 Pershing date to Jamal's 1970s Impulse!/Milestone sound. Style tagged post-bop per AllMusic's own style list ('Cool, Post-Bop, Jazz Instrument, Piano Jazz', S2) and the Wikipedia infobox ('Cool jazz, post-bop', S1); the record is eclectically post-1960 - two Jamal originals, a Hale Smith/Emil Boyd piece, and four modern-jazz and standards covers - so post-bop carries it better than cool jazz. Recorded in two sessions, February 2-3, 1970, at Plaza Sound Studios, New York City (S1, S2, S3, S4).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia - The Awakening (Ahmad Jamal album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Awakening_(Ahmad_Jamal_album)"
+    },
+    "S2": {
+      "title": "AllMusic - Ahmad Jamal Trio / Ahmad Jamal, The Awakening (album page, review and credits tab)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-awakening-mw0000649579"
+    },
+    "S3": {
+      "title": "Discogs - The Ahmad Jamal Trio, The Awakening (1997 Impulse!/GRP CD reissue, release 803031 - full credits and session note)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/803031-Ahmad-Jamal-Trio-The-Awakening"
+    },
+    "S4": {
+      "title": "jazzdisco.org - Impulse! Records Catalog: 9100 series (AS-9194)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/impulse-records/catalog-9100-series/"
+    },
+    "S5": {
+      "title": "iTunes Search API - Ahmad Jamal The Awakening",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Ahmad+Jamal+The+Awakening&entity=album"
+    },
+    "S6": {
+      "title": "MusicBrainz release group + Cover Art Archive - The Awakening (b3b34cd9-0c9b-37dd-80a1-0f74e80f18fe)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/b3b34cd9-0c9b-37dd-80a1-0f74e80f18fe"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-02-02",
+      "1970-02-03"
+    ],
+    "multi_session": true,
+    "studio": "Plaza Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1970-02-02",
+        "site_raw": "Plaza Sound Studios, NYC",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1970-02-03",
+        "site_raw": "Plaza Sound Studios, NYC",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Ed Michel",
+    "engineer": "George Sawtelle",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ahmad Jamal",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader. Liner notes by Leonard Feather; the 1997 reissue restores them (S3)."
+      },
+      {
+        "name": "Jamil Nasser",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frank Gant",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Awakening",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:19",
+        "session_date": "1970-02-02",
+        "composers": [
+          "Ahmad Jamal"
+        ],
+        "personnel": [
+          "Ahmad Jamal",
+          "Jamil Nasser",
+          "Frank Gant"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "I Love Music",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:19",
+        "session_date": "1970-02-02",
+        "composers": [
+          "Emil Boyd",
+          "Hale Smith"
+        ],
+        "personnel": [
+          "Ahmad Jamal",
+          "Jamil Nasser",
+          "Frank Gant"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Patterns",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:19",
+        "session_date": "1970-02-03",
+        "composers": [
+          "Ahmad Jamal"
+        ],
+        "personnel": [
+          "Ahmad Jamal",
+          "Jamil Nasser",
+          "Frank Gant"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Dolphin Dance",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:05",
+        "session_date": "1970-02-02",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Ahmad Jamal",
+          "Jamil Nasser",
+          "Frank Gant"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "You're My Everything",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:40",
+        "session_date": "1970-02-02",
+        "composers": [
+          "Harry Warren",
+          "Joe Young",
+          "Mort Dixon"
+        ],
+        "personnel": [
+          "Ahmad Jamal",
+          "Jamil Nasser",
+          "Frank Gant"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Stolen Moments",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:27",
+        "session_date": "1970-02-03",
+        "composers": [
+          "Oliver Nelson"
+        ],
+        "personnel": [
+          "Ahmad Jamal",
+          "Jamil Nasser",
+          "Frank Gant"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Wave",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:25",
+        "session_date": "1970-02-02",
+        "composers": [
+          "Antonio Carlos Jobim"
+        ],
+        "personnel": [
+          "Ahmad Jamal",
+          "Jamil Nasser",
+          "Frank Gant"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b3b34cd9-0c9b-37dd-80a1-0f74e80f18fe",
+    "apple_album_id": "1443878957",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/1ea31285-9201-4631-a293-ad85c9a41ab3/25961556875.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from Cover Art Archive for release-group b3b34cd9-0c9b-37dd-80a1-0f74e80f18fe, matched by title/artist/year; the exact pressing is not verified, so is_original_cover is left null rather than asserted."
+      }
+    ],
+    "notes": "Two sessions at Plaza Sound Studios, New York City. jazzdisco (S4) gives the track-to-date split by matrix number: 1970-02-02 = 91145-91149 'Dolphin Dance', 'The Awakening', 'You're My Everything', 'Wave', 'I Love Music'; 1970-02-03 = 91150-91151 'Patterns', 'Stolen Moments'. Side A is tracks 1-3, side B tracks 4-7 (original Impulse! AS-9194 LP). Wikipedia (S1) and AllMusic (S2) both date the sessions 'February 2 and 3, 1970' but neither splits them per track; S4 is the session authority used for the split. Personnel: album-level trio credits from AllMusic's credits tab (S2), Wikipedia (S1), the Discogs reissue credits (S3) and jazzdisco (S4) agree on exactly three musicians with no guests, so the same three are listed on every track; no source publishes per-track distinctions because there are none to make. CONFLICT (minor, preserved) - engineer name: AllMusic's credits table carries both 'George Sawtelle' (mn0000943613) and 'George Santelle' (mn0001297590) as Engineer, evidently duplicate artist entries for the same Plaza Sound engineer; Discogs (S3) credits 'George Sawtelle'. 'George Sawtelle' recorded here; the AllMusic duplicate is left as the conflicting claim. Producer Ed Michel (S1, S2, S3). Catalog AS-9194 (S3, S4); reissued as Impulse!/GRP IMPD-226 in 1997 with Michael Cuscuna as reissue producer (S3, S4). Release year 1970 per the LP (S3, S4) and the Wikipedia infobox (S1); Apple Music's releaseDate reads 1970-01-01 (S5), and MusicBrainz gives first-release-date 1970-07 (S6) - all 1970, no conflict on the year. 'I Love Music' is close to a Jamal solo performance but the bass and drums are credited on the album, so the trio is carried on the track. No alternate takes or bonus tracks exist on the original release; nothing reissue-only was added."
+  },
+  "ballot": {
+    "album": "Ahmad Jamal — The Awakening (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The dossier documents favorable notice across AllMusic, the Penguin Guide, Pitchfork, and the Rolling Stone Jazz Record Guide, while the album makes a compelling modern statement of Jamal’s trio approach. Its readings of “Dolphin Dance” and “Stolen Moments” connect it directly to two canon records, and its later sampling by hip-hop artists gives it a striking downstream life (S1).",
+    "case_against": "The strongest countercase is that Jamal’s defining, historically influential statement remains At the Pershing, while this is a strong second landmark rather than an equally load-bearing record. The Hancock and Nelson covers show dialogue with the canon, but do not by themselves demonstrate that The Awakening shaped what followed; its working trio also has less session gravity than an era-defining ensemble. The consensus evidence is favorable but qualified, and the dossier’s account of the critical judgments relies substantially on a Wikipedia summary rather than direct guide commentary.",
+    "disagreement": "The references split on tier: one judges the album a contested but strong follow-up to At the Pershing, while the other sees it as Jamal’s definitive modern studio statement and assigns consensus_core. They also differ on whether its canon connections are mainly inward-facing covers or evidence of a more consequential lineage and cultural bridge.",
+    "recommendation": "John should give this strong consideration as a contested, substantial Jamal entry, while weighing its modern reach against its secondary status in Jamal’s discography.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

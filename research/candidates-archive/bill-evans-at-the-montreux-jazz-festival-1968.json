@@ -1,0 +1,356 @@
+{
+  "id": "bill-evans-at-the-montreux-jazz-festival-1968",
+  "artist": "Bill Evans",
+  "album": "At the Montreux Jazz Festival",
+  "year": 1968,
+  "label": "Verve",
+  "catalog_number": "Verve V6-8762",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "At the Montreux Jazz Festival is the live record of Bill Evans's late-1960s trio — Eddie Gómez on bass, Jack DeJohnette on drums — and the one that won the 1969 Grammy Award for Best Jazz Instrumental Album, Individual or Group [S1] (obs). Consensus across independent traditions of listing: Wikipedia's review box records AllMusic at four stars and The Penguin Guide to Jazz Recordings at three and a half [S1] (obs), and AllMusic files it under Post-Bop, Modal Music and Piano Jazz while rating it four stars [S2] (obs). Defining statement: AllMusic's review calls it 'the beginning of stylistic changes for the legendary pianist', 'more lively, playful, and experimental' than At Town Hall and 'his most extroverted playing since his freshman release, New Jazz Conceptions' [S1,S2] (obs) — i.e. the record where the introspective 1961 trio gives way to the harder-swinging Gómez/DeJohnette band. Lineage: 'Nardis', the Miles Davis tune Evans never cut in a Verve studio, is here in its defining live reading, and the performance was later sampled by MF Doom on 'Raid' from Madvillainy — influence audible well outside jazz [S1] (obs); the album is the fourth Evans record the canon needs to hold the arc the three Village Vanguard records and Portrait in Jazz begin [S1,S2] (inf). It still plays: a festival audience, a long 'Nardis', 'A Sleepin' Bee', 'Embraceable You', 'Some Day My Prince Will Come' — the trio at its most outgoing [S1,S2] (obs). Boundary note: 1968, comfortably inside the window; post-bop/modal, no scope question — the council's tier is the only open question.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Bill Evans at the Montreux Jazz Festival (released 1968 on Verve; recorded June 15, 1968 at the Montreux Jazz Festival, Casino de Montreux, Switzerland; producer Helen Keane; personnel Bill Evans piano, Eddie Gómez double bass, Jack DeJohnette drums; 1969 Grammy Award for Best Jazz Instrumental Album, Individual or Group; review box AllMusic 4/5 and Penguin Guide to Jazz Recordings 3.5/4 with the Rovi Staff review quoted; track listing and durations; 'Nardis' sampled by MF Doom in 'Raid')",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Bill_Evans_at_the_Montreux_Jazz_Festival"
+    },
+    "S2": {
+      "title": "AllMusic — At the Montreux Jazz Festival (mw0000652751; styles Post-Bop, Jazz Instrument, Modal Music, Piano Jazz; release date June 15, 1968; duration 58:59; recording location Montreux Jazz Festival, Casino de Montreux, Switzerland)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/at-the-montreux-jazz-festival-mw0000652751"
+    },
+    "S3": {
+      "title": "Discogs — master 68359 / release 1032901, Bill Evans 'At The Montreux Jazz Festival' (LP, Verve V6/8762, US 1968; tracklist with side positions A1-A4, B1-B5 and timings; credits: producer Helen Keane, bass Eddie Gomez, drums Jack DeJohnette, edited by / remix Bob Schwarz, engineer Jean-Claude Martin and Pierre Grandjean, engineer [engineering director] Val Valentin; 'Recorded June 15, 1968 at the Casino de Montreux, Switzerland by the technical department of Radio Suisse Romande')",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/1032901-Bill-Evans-At-The-Montreux-Jazz-Festival"
+    },
+    "S4": {
+      "title": "MusicBrainz — release 862ecec5-45a6-4d57-af19-c672e9edc1a8 / release group 1d36d2e7-27ca-3d56-9ff2-2ebccbaff760 'At the Montreux Jazz Festival' (annotation: 'Produced by Helen Keane. Recorded June 15, 1968, at the Casino de Montreux, Switzerland. Recorded by the technical department of Radio Suisse Romande. Sound Engineers: Pierre Grandjean and Jean-Claude Martin/Editing Remix Engineer: Bob Schwarz/Director of Engineering: Val Valentin/Art Direction: Acy R. Lehman.'; per-track credits: double bass Eddie Gomez, drums Jack DeJohnette, piano Bill Evans, recorded at Montreux Casino on 1968-06-15)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release/862ecec5-45a6-4d57-af19-c672e9edc1a8"
+    },
+    "S5": {
+      "title": "iTunes Search API — 'Bill Evans - At The Montreux Jazz Festival' (collectionId 1425178671, released 1968-06-15, Verve Label Group / UMG, 10 tracks)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=bill+evans+at+the+montreux+jazz+festival&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "Cover Art Archive — release group 1d36d2e7-27ca-3d56-9ff2-2ebccbaff760 front image",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/1d36d2e7-27ca-3d56-9ff2-2ebccbaff760"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1968-06-15"
+    ],
+    "multi_session": false,
+    "studio": "Montreux Jazz Festival, Casino de Montreux, Switzerland",
+    "recording_sites": [
+      {
+        "session_date": "1968-06-15",
+        "site_raw": "Montreux Jazz Festival, Casino de Montreux, Switzerland",
+        "site_slug": "montreux-jazz-festival-casino-de-montreux",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Helen Keane",
+    "engineer": "Pierre Grandjean and Jean-Claude Martin",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'One for Helen' and 'Walkin' Up'. Plays throughout; no bass/drum solos are credited to him."
+      },
+      {
+        "name": "Eddie Gómez",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Eddie Gomez"
+        ],
+        "notes": "First of the eleven-year Evans/Gómez association's live documents in this canon; the trio's other live dates in the canon (Sunday at the Village Vanguard, Waltz for Debby) belong to the earlier LaFaro/Motian band."
+      },
+      {
+        "name": "Jack DeJohnette",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "One for Helen",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:03",
+        "session_date": "1968-06-15",
+        "composers": [
+          "Bill Evans"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Sleepin' Bee",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:43",
+        "session_date": "1968-06-15",
+        "composers": [
+          "Harold Arlen",
+          "Truman Capote"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mother of Earl",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:50",
+        "session_date": "1968-06-15",
+        "composers": [
+          "Earl Zindars"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Nardis",
+        "track_number": 4,
+        "side": "A",
+        "duration": "7:57",
+        "session_date": "1968-06-15",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Loves You, Porgy",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:40",
+        "session_date": "1968-06-15",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin",
+          "DuBose Heyward"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Touch of Your Lips",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:26",
+        "session_date": "1968-06-15",
+        "composers": [
+          "Ray Noble"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Embraceable You",
+        "track_number": 7,
+        "side": "B",
+        "duration": "6:18",
+        "session_date": "1968-06-15",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Some Day My Prince Will Come",
+        "track_number": 8,
+        "side": "B",
+        "duration": "5:23",
+        "session_date": "1968-06-15",
+        "composers": [
+          "Frank Churchill",
+          "Larry Morey"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Walkin' Up",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:17",
+        "session_date": "1968-06-15",
+        "composers": [
+          "Bill Evans"
+        ],
+        "personnel": [
+          "Bill Evans",
+          "Eddie Gómez",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "1d36d2e7-27ca-3d56-9ff2-2ebccbaff760",
+    "apple_album_id": "1425178671",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/1d36d2e7-27ca-3d56-9ff2-2ebccbaff760/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image for release group 1d36d2e7 (Verve V6-8762)."
+      }
+    ],
+    "notes": "Single session: the trio's June 15, 1968 set at the Montreux Jazz Festival, in the Casino de Montreux — the original 1881 building, three years before the 1971 fire that closed it. The original Verve LP (V6-8762) carries the nine tracks listed above; CD and later editions add a spoken introduction and 'Quiet Now' (Denny Zeitlin), which is why Wikipedia's track table runs to eleven items and AllMusic gives the album as 58:59 while the LP timings sum to roughly 47 minutes [S1,S2,S3]. Only the nine original LP tracks are recorded here. The Apple Music edition found by the iTunes lookup (collectionId 1425178671) is the 10-track digital release [S5]. Production detail is unusually well documented for a live date: producer Helen Keane; recorded by the technical department of Radio Suisse Romande, with sound engineers Pierre Grandjean and Jean-Claude Martin, editing/remix engineer Bob Schwarz, engineering director Val Valentin and art direction by Acy R. Lehman [S3,S4]. Track-title variants: the LP label prints 'A Sleeping Bee' and 'Someday My Prince Will Come'; the standard song forms are used here, with the personnel 'tracks' arrays matching on the standard forms. The album is titled 'Bill Evans at the Montreux Jazz Festival' on Wikipedia and MusicBrainz and 'At the Montreux Jazz Festival' on the AllMusic, Discogs and Apple releases; the release title is used as the album name."
+  },
+  "ballot": {
+    "album": "Bill Evans — At the Montreux Jazz Festival (1968)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The 1969 Grammy, AllMusic’s four-star rating, and Penguin Guide’s 3.5-star rating provide meaningful recognition, while AllMusic describes the set as the beginning of stylistic changes for Evans. The Gómez–DeJohnette trio offers a distinct, more extroverted chapter beyond the celebrated LaFaro–Motian Vanguard recordings; its live “Nardis” and the album’s festival energy make it both a valuable career document and an inviting listen (S1, S2).",
+    "case_against": "The critical-consensus case rests mainly on two ratings and a Grammy; the dossier’s other sources largely establish metadata rather than independent critical standing. Even as a distinctive second-trio document, it may strengthen an Evans arc already represented by the Vanguard records and Portrait in Jazz more than fill an unmistakable gap.",
+    "disagreement": null,
+    "recommendation": "John should treat this as a strong-priority consensus-core candidate, while reserving the inclusion decision for himself.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

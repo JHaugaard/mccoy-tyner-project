@@ -1,0 +1,471 @@
+{
+  "id": "kenny-dorham-afro-cuban-1955",
+  "artist": "Kenny Dorham",
+  "album": "Afro-Cuban",
+  "year": 1955,
+  "label": "Blue Note",
+  "catalog_number": "BLP 1535",
+  "style_primary": "hard-bop",
+  "rationale": "Kenny Dorham's defining Blue Note statement and the record that carried the Afro-Cuban rhythmic frame into the hard bop small group - the bridge between Machito/Mario Bauza's Cubop of the late 1940s and the Latin-jazz vocabulary that runs through this canon's Blakey and Silver lineage. Recorded in two sessions at Rudy Van Gelder's Hackensack studio on January 30 and March 29, 1955, with Alfred Lion producing: the March date is an eight-piece with J.J. Johnson and Carlos 'Patato' Valdes added to Dorham, Hank Mobley, Cecil Payne, Horace Silver, Oscar Pettiford and Art Blakey. Critical standing: AllMusic 5 stars (Michael G. Nastos: 'A first-rate recording for the under-appreciated Dorham, this one should be in every collection of all true music lovers'), Penguin Guide 3 stars (both tabulated in the Wikipedia article, S1, which cites the Nastos review). AllMusic's own style tags for the album lead with Afro-Cuban Jazz and Hard Bop (S3). Session gravity is exceptional: Blakey, Silver, Mobley, Pettiford, Percy Heath and J.J. Johnson all appear elsewhere in the canon, and the Dorham-Silver-Blakey axis here runs directly into the Jazz Messengers records already included. Lineage: 'Minor's Holiday' and 'Afrodisia' became modern-jazz standards and 'K.D.'s Motion'/'La Villa'/'Venita's Dance' from the January trio-plus-horns date show the other, hard-bop Dorham. Dorham's trumpet writing on the Latin four is quoted in Horace Silver's own Latin-inflected work ('Señor Blues' arrives two years later). Reissue note: the record was issued first as a four-track 10-inch (BLP 5065, 1955) and then as the seven-track 12-inch BLP 1535 (1957) that is the album here.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia - Afro-Cuban (album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Afro-Cuban_(album)"
+    },
+    "S2": {
+      "title": "jazzdisco.org - Blue Note Records Catalog: 1500 series (BLP 1535) + 1955-1956 discography",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/blue-note-records/catalog-1500-series/#blp-1535"
+    },
+    "S3": {
+      "title": "AllMusic - Kenny Dorham, Afro-Cuban (album page)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/afro-cuban-mw0000187932"
+    },
+    "S4": {
+      "title": "iTunes Search API - Kenny Dorham Afro-Cuban",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Kenny+Dorham+Afro-Cuban&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group + Cover Art Archive - Afro-Cuban (a6493143-fe53-31e7-b48a-ad9f4a7059e3)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/a6493143-fe53-31e7-b48a-ad9f4a7059e3"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1955-01-30",
+      "1955-03-29"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1955-01-30",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1955-03-29",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Kenny Dorham",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of all titles except 'Basheer's Dream'."
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "On both sessions."
+      },
+      {
+        "name": "Cecil Payne",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "On both sessions."
+      },
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "On both sessions."
+      },
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "On both sessions."
+      },
+      {
+        "name": "Percy Heath",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "K.D.'s Motion",
+          "La Villa",
+          "Venita's Dance"
+        ],
+        "session_dates": [
+          "1955-01-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "January 30, 1955 session only."
+      },
+      {
+        "name": "Oscar Pettiford",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Afrodisia",
+          "Lotus Flower",
+          "Minor's Holiday",
+          "Basheer's Dream"
+        ],
+        "session_dates": [
+          "1955-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "March 29, 1955 session only."
+      },
+      {
+        "name": "J.J. Johnson",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Afrodisia",
+          "Lotus Flower",
+          "Minor's Holiday",
+          "Basheer's Dream"
+        ],
+        "session_dates": [
+          "1955-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Jay Jay Johnson"
+        ],
+        "notes": "March 29, 1955 session only."
+      },
+      {
+        "name": "Carlos \"Patato\" Valdes",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Afrodisia",
+          "Lotus Flower",
+          "Minor's Holiday",
+          "Basheer's Dream"
+        ],
+        "session_dates": [
+          "1955-03-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Patato Valdes",
+          "Carlos Valdes"
+        ],
+        "notes": "March 29, 1955 session only. The Afro-Cuban percussion voice on the date."
+      },
+      {
+        "name": "Richie Goldberg",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Afrodisia",
+          "Minor's Holiday"
+        ],
+        "session_dates": [
+          "1955-03-29"
+        ],
+        "epistemic": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Cowbell - no taxonomy instrument for cowbell; recorded as percussion. S1 lists him on the March 29 session without track detail; S2 marks him 'cowbell #1,3' against its own March 29 track sequence (1. Minor's Holiday, 2. Basheer's Dream, 3. Afrodisia, 4. Lotus Flower), which is the basis for the two-track assignment - hence inf rather than obs."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Afrodisia",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:06",
+        "session_date": "1955-03-29",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J.J. Johnson",
+          "Hank Mobley",
+          "Cecil Payne",
+          "Horace Silver",
+          "Oscar Pettiford",
+          "Art Blakey",
+          "Carlos \"Patato\" Valdes",
+          "Richie Goldberg"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Lotus Flower",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:17",
+        "session_date": "1955-03-29",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J.J. Johnson",
+          "Hank Mobley",
+          "Cecil Payne",
+          "Horace Silver",
+          "Oscar Pettiford",
+          "Art Blakey",
+          "Carlos \"Patato\" Valdes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Minor's Holiday",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:27",
+        "session_date": "1955-03-29",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J.J. Johnson",
+          "Hank Mobley",
+          "Cecil Payne",
+          "Horace Silver",
+          "Oscar Pettiford",
+          "Art Blakey",
+          "Carlos \"Patato\" Valdes",
+          "Richie Goldberg"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Basheer's Dream",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:03",
+        "session_date": "1955-03-29",
+        "composers": [
+          "Gigi Gryce"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J.J. Johnson",
+          "Hank Mobley",
+          "Cecil Payne",
+          "Horace Silver",
+          "Oscar Pettiford",
+          "Art Blakey",
+          "Carlos \"Patato\" Valdes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "K.D.'s Motion",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:29",
+        "session_date": "1955-01-30",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Cecil Payne",
+          "Horace Silver",
+          "Percy Heath",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "La Villa",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:24",
+        "session_date": "1955-01-30",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Cecil Payne",
+          "Horace Silver",
+          "Percy Heath",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Venita's Dance",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:22",
+        "session_date": "1955-01-30",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "Hank Mobley",
+          "Cecil Payne",
+          "Horace Silver",
+          "Percy Heath",
+          "Art Blakey"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "a6493143-fe53-31e7-b48a-ad9f4a7059e3",
+    "apple_album_id": "1443186832",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/d4336584-72a1-417d-8b80-8a5df5099d85/2577518483.jpg",
+        "is_original_cover": null,
+        "epistemic": "obs",
+        "notes": "Front image from Cover Art Archive release-group a6493143-fe53-31e7-b48a-ad9f4a7059e3. Which pressing the image belongs to (1955 10-inch vs 1957 12-inch cover) is not documented, so is_original_cover is left null rather than asserted."
+      }
+    ],
+    "notes": "Two sessions at Van Gelder Studio, Hackensack, NJ (Rudy Van Gelder's pre-Englewood Cliffs room; he moved in July 1959). S1 gives the session dates and personnel split; S2 gives the matrix takes - January 30, 1955: tk.2 'Venetia's Dance', tk.6 'K.D.'s Motion', tk.12 'The Villa'; March 29, 1955: tk.3 'Minor's Holiday', tk.5 'Basheer's Dream', tk.7 'Afrodisia', tk.8 'Lotus Flower'. Title variants: S2 prints 'Venetia's Dance' and 'The Villa' where the issued LP and S1 print 'Venita's Dance' and 'La Villa'; the LP titles are used. Release history: first issued as a four-track 10-inch LP (Blue Note BLP 5065, late 1955) containing only the March 29 Afro-Cuban titles; the seven-track 12-inch BLP 1535 (1957) is the album recorded here, adding the January 30 date. Reissue-only material excluded from the track list: 'K.D.'s Cab Ride' (later retitled 'Echo of Spring', from the January 30 session, first issued on the 1987 CD) and an alternate take of 'Minor's Holiday'. CONFLICT - location: S3 (AllMusic) lists the recording location as 'New York, NY / Van Gelder Studios, Hackensack, NJ'; S1 and S2 both give Van Gelder Studio, Hackensack only, and the session detail in S2 is specific, so Hackensack is recorded once per session. Producer and engineer are named on S1 (Alfred Lion; Rudy Van Gelder) - Van Gelder's own room, so both are obs rather than inferred. Doubling: none stated in the sources. AllMusic also files the album under Afro-Cuban Jazz, Bop, Global Jazz and Hard Bop (S3); style_primary is hard-bop because the style table carries no Latin-jazz code and the record is a Blue Note hard bop date with Afro-Cuban percussion rather than a Latin dance record."
+  },
+  "ballot": {
+    "album": "Kenny Dorham — Afro-Cuban (1955)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a compelling bridge from late-1940s Cubop into hard bop: the March session brings Carlos “Patato” Valdes’s congas into a swinging Blue Note frontline, while the January tracks show Dorham in a more conventional hard-bop setting (S1, S2). The sessions’ Dorham–Mobley–Silver–Blakey core, expanded on the March date by J.J. Johnson and Oscar Pettiford, gives the album exceptional session gravity. AllMusic awards it five stars and praises its collection-worthy status (S1, S3); the music’s rhythmic contrast and Dorham’s memorable compositions make a strong discovery case.",
+    "case_against": "The album’s unity is debatable: the 1955 10-inch BLP 5065 contained the March Afro-Cuban session, while the seven-track 12-inch BLP 1535 added a January hard-bop session (S1, S2). That split weakens the claim that the expanded album is a coherent defining statement, and Dorham’s leadership standing is contested against alternatives such as Quiet Kenny and Whistle Stop. The critical-consensus case is also limited: the dossier cites AllMusic’s five stars and Penguin’s three, but does not establish a Penguin core designation or broad independent-list consensus.",
+    "disagreement": "Both references judge the album contested and strong, but weigh its strengths differently: one sees the Afro-Cuban-to-hard-bop bridge and distinct personnel context as potentially load-bearing, while the other gives greater weight to the stitched-together album sequence and competing Dorham statements.",
+    "recommendation": "John should consider including it as a strong, historically meaningful bridge, while deciding whether the expanded album’s uneven conception limits its claim to defining-statement status.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

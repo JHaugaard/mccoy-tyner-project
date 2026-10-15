@@ -1,0 +1,821 @@
+{
+  "id": "george-russell-new-york-ny-1959",
+  "artist": "George Russell",
+  "album": "New York, N.Y.",
+  "year": 1959,
+  "label": "Decca",
+  "catalog_number": "Decca DL 9216 / DL 79216",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "New York, N.Y. is George Russell's orchestral demonstration of the Lydian Chromatic Concept of Tonal Organization, the harmony theory he worked out during a 1945-46 hospital stay and self-published in 1953 -- the same body of ideas Wikipedia credits as 'a crucial influence on John Coltrane and Miles Davis on the classic recording Kind of Blue' and 'a beacon for other modernists such as Eric Dolphy and Art Farmer' [S8] (obs). Lineage is the strongest signal here: the record is the large-ensemble statement of the theory that sits under the modal records already in this canon, and Russell is already present through Ezz-thetics (1961) [S3,S8] (inf). Session gravity is its second claim. Three sessions across 1958-59 -- September 12 and November 24, 1958, and March 25, 1959 -- each convened a different orchestra, and between them they pulled Bill Evans, John Coltrane, Max Roach, Art Farmer, Bob Brookmeyer, Phil Woods, Benny Golson, Al Cohn, Doc Severinsen, Barry Galbraith and Milt Hinton onto one record, with Coltrane, Evans and Roach together on the opening 'Manhattan' [S1,S2,S4] (obs). Standing: AllMusic rates it 4.5/5 and files it under Post-Bop, Ken Dryden writing that 'George Russell was one of the most forward-thinking composers and arrangers on the jazz scene during the 1950s' and that the album 'represents one of many high points in his career'; the Rolling Stone Jazz Record Guide and Down Beat both give it 5/5 [S1,S3] (obs). The critical consensus is strong but not unanimous -- the Penguin Guide rates it 3/5 [S1] (obs). It still plays: 'Big City Blues' is an 11:40 Russell original, the East Side Medley folds 'Autumn in New York' and 'How About You' into a single eight-minute band, and Jon Hendricks's spoken narration links the performances [S1,S3,S4] (obs). Dating and release: recorded in New York City in 1958-59, issued July or August 1959 on Decca DL 9216, reissued on Impulse! in 1998 and by Decca/Verve in the 2021 Acoustic Sounds series [S1,S2,S4,S6] (obs). Place note: no source consulted names a studio -- AllMusic gives the recording location only as 'New York, NY' and the sessionography only as 'New York City' -- so each session carries the canon's city-level place rather than a named room [S2,S3,S4] (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia -- New York, N.Y. (album) (studio album by George Russell; released July or August 1959 on Decca; recorded 1958-1959; Decca DL 9216; track listing with durations; full personnel list sourced to the Penguin Guide to Jazz Recordings 9th ed., p.1249; ratings box: AllMusic 4.5/5, Penguin Guide 3/5, Rolling Stone Jazz Record Guide 5/5, Down Beat 5/5; AllMusic review quoted from Ken Dryden; MusicBrainz release group 63857b19-de71-3432-9ef1-de53c0e8d3b8)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/New_York,_N.Y._(album)"
+    },
+    "S2": {
+      "title": "The Art Farmer Discography, Part 2: 1958-1965, by Noal Cohen and Michael Fitzgerald -- session-level entries for the George Russell Orchestra, Decca, New York City: September 12, 1958 (matrix 105626, Manhattan), November 24, 1958 (105627 A Helluva Town, 105628 Manhatta-Rico), March 25, 1959 (105629 Big City Blues, 106127 Autumn in New York / How About You); per-session personnel; notes that Don Lamond plays drums on Manhatta-Rico, Max Roach on A Helluva Town, George Russell plays percussion on Manhatta-Rico, Al Epstein bongos on Manhatta-Rico; lists Decca DL 9216/79216 and the MCA two-fer reissue",
+      "type": "discography",
+      "url": "https://artfarmer.org/art-farmer-discography-1958-1965/"
+    },
+    "S3": {
+      "title": "AllMusic -- New York, NY, George Russell (mw0000309054; Release Date 1959; Duration 45:28; Genre Jazz; Styles Post-Bop; Recording Date September 12, 1958 - March 25, 1959; Recording Location New York, NY; review by Ken Dryden; 4.5/5 per the Wikipedia ratings box at S1)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/new-york-ny-mw0000309054"
+    },
+    "S4": {
+      "title": "Discogs -- George Russell And His Orchestra, New York, N.Y. (release 17166241; Decca/Verve B0032835-01, Acoustic Sounds Series, 2021; ECM-free credits table with per-track assignments; track list A1 Manhattan, A2 Big City Blues, B1 Manhatta-Rico, B2a Autumn In New York, B2b How About You, B3 A Helluva Town; 'Recorded in New York on Sept. 12, 1958 (A1), Nov. 24, 1958 (B1, B3), and March 25, 1959 (A2, B2)'; credits: Bass George Duvivier (B1,B3) / Milt Hinton (A1,A2,B2a,B2b); Bongos Al Epstein (B1); Drums Charlie Persip (A1,A2,B2a,B2b), Don Lamond (B1), Max Roach (B3); Drums [Chromatic Drums] George Russell (B1); Guitar Barry Galbraith; Narrator Jon Hendricks; Piano Bill Evans; Saxophone [Reeds] Al Cohn (B1,B3), Benny Golson (A2,B2a,B2b), Gene Allen (B1,B3), Hal McKusick, John Coltrane (A1), Phil Woods (A2 to B3), Sol Schlinger (A1,A2,B2a,B2b); Trombone Bob Brookmeyer, Frank Rehak (A1,A2,B2a,B2b), Jim Cleveland (B1,B3), Tom Mitchell; Trumpet Art Farmer, Doc Severinsen (A1), Ernie Royal (A1,B1,B3), Joe Ferrante (A2,B2a,B2b), Joe Wilder (A2 to B3); sleeve notes Burt Korall; original Decca LP DL 9216, 1959)",
+      "type": "web",
+      "url": "https://www.discogs.com/release/17166241-George-Russell-And-His-Orchestra-New-York-NY"
+    },
+    "S5": {
+      "title": "iTunes Search API -- George Russell, 'New York, N.Y.' (collectionId 1556088501, releaseDate 1959-08-01, trackCount 5, 'A Verve Label Group Release; (P) 1959 UMG Recordings, Inc.', primaryGenreName Jazz)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=George+Russell+New+York+NY&entity=album&limit=25"
+    },
+    "S6": {
+      "title": "MusicBrainz -- release group 63857b19-de71-3432-9ef1-de53c0e8d3b8 'New York, N.Y.' by George Russell (primary type Album; first-release-date 1959; releases include b09031d6-7348-4c76-a78f-549e16b206f0, the source of the Cover Art Archive front image at S7)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/63857b19-de71-3432-9ef1-de53c0e8d3b8"
+    },
+    "S7": {
+      "title": "Cover Art Archive -- release group 63857b19-de71-3432-9ef1-de53c0e8d3b8 (one approved front image, coverartarchive.org/release/b09031d6-7348-4c76-a78f-549e16b206f0/1497056673.jpg; no back or liner images returned)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/63857b19-de71-3432-9ef1-de53c0e8d3b8"
+    },
+    "S8": {
+      "title": "Wikipedia -- George Russell (composer) (Lydian Chromatic Concept of Tonal Organization worked out 1945-46, self-published 1953; 'his modal ideas were a crucial influence on John Coltrane and Miles Davis on the classic recording Kind of Blue, and served as a beacon for other modernists such as Eric Dolphy and Art Farmer'; Jazz Workshop was his first album as leader; 1957 Brandeis commission All About Rosie, with Bill Evans among the soloists, cited as one of the few convincing examples of composed polyphony in jazz; his 1958 extended work New York, N.Y. included Bill Evans, John Coltrane, Art Farmer, Milt Hinton, Bob Brookmeyer and Max Roach with 'wrap-around raps' by Jon Hendricks)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/George_Russell_(composer)"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-09-12",
+      "1958-11-24",
+      "1959-03-25"
+    ],
+    "multi_session": true,
+    "studio": "New York City",
+    "recording_sites": [
+      {
+        "session_date": "1958-09-12",
+        "site_raw": "New York City",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1958-11-24",
+        "site_raw": "New York City",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1959-03-25",
+        "site_raw": "New York City",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": null,
+    "engineer": null,
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "George Russell",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader, arranger and conductor on all three sessions; the only playing credit is chromatic drums on 'Manhatta-Rico' (S2, S4). The instrument taxonomy has no 'chromatic drums' entry, so 'drums' is recorded."
+      },
+      {
+        "name": "Art Farmer",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The only trumpeter on all three sessions (S2, S4)."
+      },
+      {
+        "name": "Bob Brookmeyer",
+        "instrument": "valve trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Valve trombone on all three sessions (S1, S2); the Discogs reissue credit reads simply 'Trombone' (S4)."
+      },
+      {
+        "name": "Hal McKusick",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Alto saxophone on all three sessions; the sessionography also credits clarinet and flute (S2), and the reissue groups him under 'Saxophone [Reeds]' with no track restriction (S4)."
+      },
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "Piano on all three sessions (S2, S4); a soloist on 'Manhattan' (S2) and the pianist Russell had already featured on the 1957 Brandeis commission All About Rosie (S8)."
+      },
+      {
+        "name": "Barry Galbraith",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Guitar on all three sessions; the reissue lists him with no track restriction (S4)."
+      },
+      {
+        "name": "Tom Mitchell",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Thomas Mitchell"
+        ],
+        "notes": "Trombone on all three sessions; Discogs links him as 'Thomas Mitchell' (S4), the sessionography as 'Tom Mitchell' (S2)."
+      },
+      {
+        "name": "Jon Hendricks",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "Spoken narration linking the orchestral performances -- 'wrap-around raps' (S8), credited as 'Narrator [Narration By]' with no track restriction (S4). The taxonomy has no narration entry, so 'voice' is recorded."
+      },
+      {
+        "name": "Ernie Royal",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhattan",
+          "Manhatta-Rico",
+          "A Helluva Town"
+        ],
+        "session_dates": [
+          "1958-09-12",
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The September 12 and November 24 sessions (S2, S4)."
+      },
+      {
+        "name": "Charlie Persip",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhattan",
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1958-09-12",
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Charli Persip"
+        ],
+        "notes": "The September 12, 1958 and March 25, 1959 sessions (S2, S4). The sessionography spells him 'Charli Persip' (S2); the canon's canonical form is 'Charlie Persip'."
+      },
+      {
+        "name": "Milt Hinton",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhattan",
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1958-09-12",
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "The September 12, 1958 and March 25, 1959 sessions (S2, S4); he also shot the inside-gatefold photographs reproduced on the 2021 reissue (S4)."
+      },
+      {
+        "name": "Sol Schlinger",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhattan",
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1958-09-12",
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The September 12, 1958 and March 25, 1959 sessions (S2, S4)."
+      },
+      {
+        "name": "Frank Rehak",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhattan",
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1958-09-12",
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The September 12, 1958 and March 25, 1959 sessions (S2, S4); trades bars with Brookmeyer on 'Manhattan' (S2)."
+      },
+      {
+        "name": "Doc Severinsen",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhattan"
+        ],
+        "session_dates": [
+          "1958-09-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "September 12, 1958 session only (S2, S4)."
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhattan"
+        ],
+        "session_dates": [
+          "1958-09-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "September 12, 1958 session only, on 'Manhattan' (S1, S2, S4); he takes three solo choruses plus the coda (S2)."
+      },
+      {
+        "name": "Joe Wilder",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico",
+          "A Helluva Town",
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1958-11-24",
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The November 24, 1958 and March 25, 1959 sessions (S2, S4)."
+      },
+      {
+        "name": "Phil Woods",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico",
+          "A Helluva Town",
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1958-11-24",
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "The November 24, 1958 and March 25, 1959 sessions; the sessionography also credits clarinet and flute (S2)."
+      },
+      {
+        "name": "Jimmy Cleveland",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico",
+          "A Helluva Town"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Jim Cleveland"
+        ],
+        "notes": "November 24, 1958 session only (S2, S4); Discogs links him as 'Jim Cleveland' (S4)."
+      },
+      {
+        "name": "Al Cohn",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico",
+          "A Helluva Town"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "November 24, 1958 session only (S2, S4)."
+      },
+      {
+        "name": "Gene Allen",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico",
+          "A Helluva Town"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "November 24, 1958 session only (S2, S4)."
+      },
+      {
+        "name": "George Duvivier",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico",
+          "A Helluva Town"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "November 24, 1958 session only (S2, S4)."
+      },
+      {
+        "name": "Don Lamond",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "November 24, 1958 session, 'Manhatta-Rico' only -- Max Roach takes 'A Helluva Town' from the same date (S2, S4)."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Helluva Town"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "November 24, 1958 session, 'A Helluva Town' only (S2, S4). Russell had given up drumming after hearing Roach play (S8)."
+      },
+      {
+        "name": "Al Epstein",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Manhatta-Rico"
+        ],
+        "session_dates": [
+          "1958-11-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bongos on 'Manhatta-Rico' (S2, S4); the instrument taxonomy has no 'bongos' entry, so 'percussion' is recorded."
+      },
+      {
+        "name": "Joe Ferrante",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "March 25, 1959 session only (S2, S4)."
+      },
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Big City Blues",
+          "East Side Medley: Autumn in New York / How About You"
+        ],
+        "session_dates": [
+          "1959-03-25"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "March 25, 1959 session only (S2, S4); he is absent from the Wikipedia personnel list, which was drawn from the Penguin Guide, but is named by both the sessionography and the reissue credits (S2, S4)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Manhattan",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:34",
+        "session_date": "1958-09-12",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "George Russell",
+          "Art Farmer",
+          "Ernie Royal",
+          "Doc Severinsen",
+          "Tom Mitchell",
+          "Frank Rehak",
+          "Bob Brookmeyer",
+          "Hal McKusick",
+          "John Coltrane",
+          "Sol Schlinger",
+          "Barry Galbraith",
+          "Bill Evans",
+          "Milt Hinton",
+          "Charlie Persip",
+          "Jon Hendricks"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Big City Blues",
+        "track_number": 2,
+        "side": "A",
+        "duration": "11:40",
+        "session_date": "1959-03-25",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Art Farmer",
+          "Joe Ferrante",
+          "Joe Wilder",
+          "Tom Mitchell",
+          "Frank Rehak",
+          "Bob Brookmeyer",
+          "Hal McKusick",
+          "Phil Woods",
+          "Benny Golson",
+          "Sol Schlinger",
+          "Barry Galbraith",
+          "Bill Evans",
+          "Milt Hinton",
+          "Charlie Persip",
+          "Jon Hendricks"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Manhatta-Rico",
+        "track_number": 3,
+        "side": "B",
+        "duration": "10:12",
+        "session_date": "1958-11-24",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Art Farmer",
+          "Ernie Royal",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Tom Mitchell",
+          "Bob Brookmeyer",
+          "Hal McKusick",
+          "Phil Woods",
+          "Al Cohn",
+          "Gene Allen",
+          "Barry Galbraith",
+          "Bill Evans",
+          "George Duvivier",
+          "Don Lamond",
+          "Al Epstein",
+          "Jon Hendricks"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "East Side Medley: Autumn in New York / How About You",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:01",
+        "session_date": "1959-03-25",
+        "composers": [
+          "Vernon Duke",
+          "Ralph Freed",
+          "Burton Lane"
+        ],
+        "personnel": [
+          "George Russell",
+          "Art Farmer",
+          "Joe Ferrante",
+          "Joe Wilder",
+          "Tom Mitchell",
+          "Frank Rehak",
+          "Bob Brookmeyer",
+          "Hal McKusick",
+          "Phil Woods",
+          "Benny Golson",
+          "Sol Schlinger",
+          "Barry Galbraith",
+          "Bill Evans",
+          "Milt Hinton",
+          "Charlie Persip",
+          "Jon Hendricks"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "A Helluva Town",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:01",
+        "session_date": "1958-11-24",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Art Farmer",
+          "Ernie Royal",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Tom Mitchell",
+          "Bob Brookmeyer",
+          "Hal McKusick",
+          "Phil Woods",
+          "Al Cohn",
+          "Gene Allen",
+          "Barry Galbraith",
+          "Bill Evans",
+          "George Duvivier",
+          "Max Roach",
+          "Jon Hendricks"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "63857b19-de71-3432-9ef1-de53c0e8d3b8",
+    "apple_album_id": "1556088501",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/b09031d6-7348-4c76-a78f-549e16b206f0/1497056673.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Only approved front image on Cover Art Archive release group 63857b19-de71-3432-9ef1-de53c0e8d3b8 (S7). It is attached to release b09031d6-7348-4c76-a78f-549e16b206f0 (S6), which the Archive response does not date or identify, so whether it is the 1959 Decca sleeve or a later edition is unverified -- matched by release group, pressing not confirmed."
+      }
+    ],
+    "notes": "Three Decca sessions, all in New York City with no studio named by any source consulted: September 12, 1958 (Manhattan), November 24, 1958 (Manhatta-Rico; A Helluva Town), March 25, 1959 (Big City Blues; East Side Medley). Session dates from the Art Farmer sessionography (S2) and the 2021 reissue's sleeve note 'Recorded in New York on Sept. 12, 1958 (A1), Nov. 24, 1958 (B1, B3), and March 25, 1959 (A2, B2)' (S4); both agree, and AllMusic gives the recording span as September 12, 1958 - March 25, 1959 (S3). Location: AllMusic gives only 'New York, NY' (S3), the sessionography only 'New York City' (S2), the reissue only 'Recorded in New York' (S4) -- hence the city-level canonical place for each session and no invented studio. Drummer split on the November 24 date: Max Roach plays 'A Helluva Town' and Don Lamond 'Manhatta-Rico' (S2), which the reissue credits match once its side assignment is read (Drums: Don Lamond B1, Max Roach B3, and Al Epstein's bongos on B1 fix B1 as Manhatta-Rico) (S4) -- recorded as corroboration, not a conflict. LP layout follows the 2021 reissue: A1 Manhattan, A2 Big City Blues, B1 Manhatta-Rico, B2a Autumn In New York / B2b How About You (a single band, 'East Side Medley'), B3 A Helluva Town (S4). Track-title variants: 'Manhatta-Rico' (S2, S4) is printed 'Manhattan: Rico' on the Wikipedia CD listing (S1); 'How About You' appears as 'How About You?' (S1). Matrix numbers: 105626, 105627, 105628, 105629, 106127 (S2); the Fresh Sound reissue documentation cites 105630 for the East Side Medley (not verified in full). Personnel conflicts: Benny Golson is named for the March 25, 1959 session by the sessionography and the reissue credits (S2, S4) but is absent from the Wikipedia personnel list, which is sourced to the Penguin Guide (S1) -- he is recorded with obs against S2/S4. Hal McKusick and Phil Woods are credited on alto saxophone with clarinet and flute doubling (S2); Brookmeyer's valve trombone (S1, S2) is listed simply as trombone on the reissue (S4); Al Epstein's bongos (S2, S4) and George Russell's chromatic drums (S2, S4) have no taxonomy entries and are recorded as percussion and drums. Production: no producer or engineer is named by any source consulted -- the reissue credits carry only sleeve notes (Burt Korall), the 2021 LP mastering (Ryan Smith, Sterling Sound) and the reissue supervisor (Chad Kassem) (S4) -- so producer/engineer are explicit nulls with epistemic_production unk. Composer attribution: Wikipedia prints the medley as (Vernon Duke, Ira Gershwin)/(Ralph Freed, Burton Lane) (S1), but Discogs credits 'Autumn In New York' to Vernon Duke alone and 'How About You' to Burton Lane and Ralph Freed (S4); Ira Gershwin is therefore not recorded as a composer. Release: Decca DL 9216 (mono) / DL 79216 (stereo), July or August 1959 (S1, S2, S4); MCA two-fer with Jazz in the Space Age 1973; Impulse! IMPD-278 1998; Decca/Verve Acoustic Sounds 2021 (S2, S4, S6)."
+  },
+  "ballot": {
+    "album": "George Russell — New York, N.Y. (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album is Russell’s large-ensemble statement of the Lydian Chromatic Concept, connecting directly to the modal lineage already represented by Coltrane and Davis; the dossier cites this influence through S8, though that source is Wikipedia. Its three sessions assemble an unusually deep cross-section of late-1950s modernists, including Coltrane, Evans, Roach, Farmer, Brookmeyer, and Woods, and the ratings cited in S1—5/5 from Down Beat and the Rolling Stone Jazz Record Guide, 4.5/5 from AllMusic—show substantial critical standing.",
+    "case_against": "The Penguin Guide’s 3/5 rating (S1) is meaningful dissent against the stronger American ratings, and raises a fair question about whether Russell’s large-ensemble concept is as compelling in execution as his more celebrated small-group work. Hendricks’s spoken narration may date the listening experience, and the dossier does not establish that the album functions as essential discovery listening rather than as an important historical document; Coltrane, meanwhile, appears on only one track.",
+    "disagreement": null,
+    "recommendation": "Treat it as a strong but contested candidate, giving its lineage and exceptional session roster serious weight while letting the listening experience decide whether it earns a place.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

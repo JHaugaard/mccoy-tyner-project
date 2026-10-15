@@ -1,0 +1,357 @@
+{
+  "id": "curtis-fuller-blues-ette-1959",
+  "artist": "Curtis Fuller",
+  "album": "Blues-ette",
+  "year": 1959,
+  "label": "Savoy",
+  "catalog_number": "MG 12141",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "bebop"
+  ],
+  "rationale": "Curtis Fuller's Blues-ette is one session -- May 21, 1959 at Van Gelder Studio, Hackensack, New Jersey -- released on Savoy as MG 12141, produced by Ozzie Cadena and engineered by Rudy Van Gelder [S1,S2,S3,S7] (obs). Consensus (signal 1): AllMusic rates it 4.5/5 and its review calls it 'a relaxed hard bop classic' whose 'exceptionally catchy heads' have 'since become standards', concluding 'Any serious jazz collection is incomplete without this record. Period' [S1,S2] (obs); DownBeat's review of May 12, 1960 rated it 4/5 [S1] (obs). Session gravity and lineage (signals 3 and 4): AllMusic calls it 'for all intents and purposes... the first recorded meeting of what would become the famous Benny Golson/Art Farmer Jazztet (albeit without Farmer)' [S2] (obs), and Meet the Jazztet (1960) is already in the canon -- so this is lineage audible inside the collection, not an outside claim. The rhythm section is Tommy Flanagan, Jimmy Garrison and Al Harewood [S1,S2,S3] (obs); Garrison goes on to Coltrane's classic quartet and Flanagan to the Jazztet and Ella Fitzgerald, which is exactly the personnel-network evidence the rubric weighs [S3] (obs, line of work documented in the same sessionography rather than in this album's own notes). It still plays (signal 5): six tunes in 36:45 with no filler; the AllMusic review treats picking highlights as 'a moot point' and says the LP is best experienced whole [S2] (obs). The hole it fills: the canon holds J.J. Johnson and Bob Brookmeyer but no Curtis Fuller leader date, and AllMusic's judgement that any serious jazz collection is incomplete without this record is the case that Fuller's defining session belongs [S2] (obs). Dating note, recorded against sources rather than smoothed: Savoy's own label discography, AllMusic, JazzDisco and MusicBrainz all give the LP as 1959 [S2,S3,S5,S7] (obs), while Wikipedia's infobox says 'Released February 1960', citing a Billboard notice of Feb 29, 1960 [S1] (obs); the recorded date of May 21, 1959 is unanimous [S1,S2,S3,S7] (obs). Personnel are stated identically by Wikipedia, AllMusic's credits tab, JazzDisco's session listing and the 1959 Savoy discography: Fuller, Golson, Flanagan, Garrison, Harewood, no substitutions and no guests [S1,S2,S3,S7] (obs). Track-level assignments should be read as session-level: JazzDisco prints one personnel block covering all six titles, and AllMusic credits the same five players album-wide, so every musician is credited on every title without any source documenting per-track exceptions [S2,S3] (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia -- Blues-ette (Curtis Fuller album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Blues-ette",
+      "notes": "Infobox: released February 1960 (citing Billboard, Feb 29, 1960), recorded May 21, 1959, Van Gelder Studio, Hackensack, Savoy MG 12141, producer Ozzie Cadena, length 36:45. Ratings box: AllMusic 4.5/5; DownBeat 4/5 (Don DeMichael, May 12, 1960, vol. 27 no. 10, pp. 31-32). Track listing with durations and composer credits; personnel section (Fuller, Golson, Flanagan, Garrison, Harewood). References point to the JazzDisco Savoy catalog, jazzdiscography.com's Curtis Fuller leader entry and Both Sides Now's Savoy discography."
+    },
+    "S2": {
+      "title": "AllMusic -- Blues-Ette (Curtis Fuller Quintet / Curtis Fuller), album page and Credits tab",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/blues-ette-mw0000603011",
+      "notes": "Release date 1959; duration 36:45; styles Hard Bop, Jazz Instrument, Trombone Jazz; recording date May 21, 1959. Review by Brandon Burke: 'this relaxed hard bop classic'; 'the first recorded meeting of what would become the famous Benny Golson/Art Farmer Jazztet'; 'These are some exceptionally catchy heads and many have since become standards'; 'Any serious jazz collection is incomplete without this record. Period.' Credits tab: Al Harewood (drums); Benny Golson (composer, guest artist, sax tenor); Charlie Shavers, Sydney Robin, Elsie Janis (composers); Curtis Fuller (composer, trombone); Jimmy Garrison (bass); Ozzie Cadena (supervisor); Rudy Van Gelder (engineer); H. Alan Stein (liner notes); Hank Schneider (photography); Yujiro Kasai (remastering)."
+    },
+    "S3": {
+      "title": "JazzDisco -- Savoy Records Catalog: 12100 series, MG-12141 'Curtis Fuller's Quintet - Blues ette' (1959)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/savoy-records/catalog-12100-series/#mg-12141",
+      "notes": "LP dated 1959. Session listing: 'Curtis Fuller, trombone; Benny Golson, tenor sax; Tommy Flanagan, piano; Jimmy Garrison, bass; Al Harewood, drums. Van Gelder Studio, Hackensack, NJ, May 21, 1959.' Six titles: Five Spot After Dark, Undecided, Blues-ette, Minor Vamp, Love Your Spell Is Everywhere, Twelve-Inch. Also lists later issues: Savoy SST-13006 (1960s), Savoy Jazz SJL 1135 (1984)."
+    },
+    "S4": {
+      "title": "iTunes Search API -- Curtis Fuller 'Blues-ette' (collectionId 1433694962) and track lookup",
+      "type": "web",
+      "url": "https://itunes.apple.com/lookup?id=1433694962&entity=song",
+      "notes": "Apple Music edition 'Blues-ette' by Curtis Fuller Quintet (feat. Benny Golson, Tommy Flanagan, Al Harewood & Jimmy Garrison), 6 tracks, 36 minutes, copyright '1959 Savoy Records, a division of Concord Music Group, Inc.'; producer/engineer credit shown on the song pages as Ozzie Cadena. Track names and times: Five Spot After Dark 5:20, Undecided 7:12, Blues-Ette 5:34, Minor Vamp 5:14, Love Your Spell Is Everywhere 7:10, Twelve-Inch 6:28. A second edition (collectionId 1433703796) carries 8 tracks and a third is Blues-ette, Pt. 2 (1993)."
+    },
+    "S5": {
+      "title": "MusicBrainz -- release group 'Blues-ette' by Curtis Fuller (2e298054-4642-3756-bc43-7ecac41da8e7)",
+      "type": "web",
+      "url": "https://musicbrainz.org/ws/2/release-group/?query=releasegroup:%22Blues-ette%22%20AND%20artist:%22Curtis%20Fuller%22&fmt=json",
+      "notes": "First-release-date 1959; primary type Album; 9 releases in the group; community tags jazz and hard bop; artist alias 'Curtis Fuller Quintet'."
+    },
+    "S6": {
+      "title": "Cover Art Archive -- release group 2e298054-4642-3756-bc43-7ecac41da8e7",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/2e298054-4642-3756-bc43-7ecac41da8e7",
+      "notes": "Returns a front image (plus back and two medium images) attached to release 587f5c62-621c-4189-9e1a-0bfb77752270."
+    },
+    "S7": {
+      "title": "Both Sides Now Publications -- Discography of the Savoy/Regent and Associated Labels, MG 12100 series (PDF)",
+      "type": "discography",
+      "url": "https://www.bsnpubs.com/new/savoy.pdf",
+      "notes": "Label discography entry: 'MG 12141 - Blues-Ette - Curtis Fuller [1959]', with the stereo release as Savoy 13006 Stereo and the side split 'Five Spot After Dark/Undecided/Blues-ette//Minor Vamp/Love, Your Spell Is Everywhere/Twelve Inch'. Consulted as the search-indexed excerpt of the PDF rather than a full fetch; cited here only for the 1959 date and the side boundary, both independently corroborated by S3 and S2."
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-05-21"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1959-05-21",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Ozzie Cadena",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-05-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [],
+        "notes": "Leader and composer of 'Blues-ette' and 'Twelve-Inch' (S1, S2). The sessionography files the date under 'Curtis Fuller's Quintet' and the modern reissues as 'Curtis Fuller Quintet' (S3, S4)."
+      },
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-05-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Bennie Golson"
+        ],
+        "notes": "Composer of 'Five Spot After Dark' and 'Minor Vamp' (S1, S2). AllMusic carries him as a guest artist on this leader date (S2). The 'Bennie Golson' spelling appears elsewhere in the Savoy catalog listings, not on this album's own credits (S3)."
+      },
+      {
+        "name": "Tommy Flanagan",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-05-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic carries him as a guest artist on this leader date (S2)."
+      },
+      {
+        "name": "Jimmy Garrison",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-05-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Al Harewood",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-05-21"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Five Spot After Dark",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:18",
+        "session_date": "1959-05-21",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Curtis Fuller",
+          "Benny Golson",
+          "Tommy Flanagan",
+          "Jimmy Garrison",
+          "Al Harewood"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Undecided",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:09",
+        "session_date": "1959-05-21",
+        "composers": [
+          "Sydney Robin",
+          "Charlie Shavers"
+        ],
+        "personnel": [
+          "Curtis Fuller",
+          "Benny Golson",
+          "Tommy Flanagan",
+          "Jimmy Garrison",
+          "Al Harewood"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Blues-ette",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:31",
+        "session_date": "1959-05-21",
+        "composers": [
+          "Curtis Fuller"
+        ],
+        "personnel": [
+          "Curtis Fuller",
+          "Benny Golson",
+          "Tommy Flanagan",
+          "Jimmy Garrison",
+          "Al Harewood"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Minor Vamp",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:12",
+        "session_date": "1959-05-21",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Curtis Fuller",
+          "Benny Golson",
+          "Tommy Flanagan",
+          "Jimmy Garrison",
+          "Al Harewood"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Love, Your Spell Is Everywhere",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:07",
+        "session_date": "1959-05-21",
+        "composers": [
+          "Edmund Goulding",
+          "Elsie Janis"
+        ],
+        "personnel": [
+          "Curtis Fuller",
+          "Benny Golson",
+          "Tommy Flanagan",
+          "Jimmy Garrison",
+          "Al Harewood"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S7"
+        ]
+      },
+      {
+        "title": "Twelve-Inch",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:28",
+        "session_date": "1959-05-21",
+        "composers": [
+          "Curtis Fuller"
+        ],
+        "personnel": [
+          "Curtis Fuller",
+          "Benny Golson",
+          "Tommy Flanagan",
+          "Jimmy Garrison",
+          "Al Harewood"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "2e298054-4642-3756-bc43-7ecac41da8e7",
+    "apple_album_id": "1433694962",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/2e298054-4642-3756-bc43-7ecac41da8e7/front",
+        "is_original_cover": null,
+        "is_primary": true,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image for the MusicBrainz release group; the CAA API returns it attached to release 587f5c62-621c-4189-9e1a-0bfb77752270 (one of nine releases in the group). Whether it reproduces the original Savoy MG 12141 sleeve is not documented by any source consulted, hence is_original_cover null."
+      }
+    ],
+    "notes": "One session: May 21, 1959, Van Gelder Studio, Hackensack, New Jersey -- Hackensack, not Englewood Cliffs, because Rudy Van Gelder did not move to Englewood Cliffs until July 1959 (S3 records the Hackensack address for this date). A single five-piece quintet plays throughout with no substitutions and no guests (S1, S2, S3, S7). Production: Ozzie Cadena produced (S1; Apple Music shows him as producer and recording engineer on the song credits, S4), while AllMusic files him under 'Supervisor' (S2) -- the role label differs, the person does not. Rudy Van Gelder engineered (S2, and inferred from the Hackensack studio and the Savoy house practice of the period, S3). Liner notes H. Alan Stein, photography Hank Schneider, remastering credit Yujiro Kasai -- none of these are performing roles and none is entered as personnel (S2). Release dating is the one live disagreement: 1959 per Savoy's discography, AllMusic, JazzDisco and MusicBrainz (S2, S3, S5, S7); February 1960 per Wikipedia's infobox, citing Billboard of Feb 29, 1960 (S1). The dossier carries 1959 with the conflict recorded here rather than resolved silently. Durations are Wikipedia's (S1) -- 5:18/7:09/5:31/5:12/7:07/6:28, total 36:45, matching AllMusic's stated 36:45 (S2); the Apple Music tracks run 5:20/7:12/5:34/5:14/7:10/6:28 (S4), a few seconds longer each, typical of digital re-mastering and recorded rather than reconciled. Side split from the Savoy label discography (S7), corroborated by JazzDisco's track order (S3). Title variants: Wikipedia prints 'Love Your Spell Is Everywhere' without the comma (S1) where the label discography and Apple Music carry 'Love, Your Spell Is Everywhere'; Apple Music also prints 'Blues-Ette' for the title track (S4). No alternate takes or bonus tracks are included: JazzDisco records takes 2 and 3 of 'Five Spot After Dark' and 'Twelve-Inch' on a 1992 Japanese issue of Blues ette Vol. 2 (S3), not on this LP. Composer credits for 'Undecided' (Sydney Robin, Charlie Shavers) and 'Love, Your Spell Is Everywhere' (Edmund Goulding, Elsie Janis) follow Wikipedia's track listing (S1); AllMusic credits Shavers, Janis and Robin as composers as well but does not list Goulding (S2) -- both readings are recorded here, and the divergence concerns a songwriter credit only."
+  },
+  "ballot": {
+    "album": "Curtis Fuller — Blues-ette (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "AllMusic calls it a relaxed hard-bop classic, praises its catchy heads, and argues that any serious jazz collection is incomplete without it; DownBeat’s contemporary 4/5 review offers independent period support (S1, S2). The Fuller–Golson date is a meaningful precursor to the already-canonical Meet the Jazztet, while the session’s Tommy Flanagan and Jimmy Garrison add personnel gravity (S2, S3). Its concise, accessible program makes a strong discovery case and fills a real gap in the canon’s Curtis Fuller leader dates.",
+    "case_against": "The documented consensus is narrower than the strongest claims suggest: the dossier cites an enthusiastic AllMusic review and a contemporary DownBeat rating, but no Penguin Guide or broader retrospective canon evidence. In the crowded hard-bop peak of 1959, this is a strong, traditional blowing date rather than a record shown to have transformed the music; its Golson-led compositions and partial Jazztet connection may also make its distinctiveness less decisive beside Meet the Jazztet.",
+    "disagreement": "The references agree on strong priority and in-scope status but split on tier: Reference 1 finds the limited consensus evidence and crowded field make it contested, while Reference 2 judges its defining status and lineage sufficient for consensus_core. The dossier supports the more cautious contested tier.",
+    "recommendation": "John should weigh this as a strong but genuinely contested hard-bop choice, with the Jazztet lineage and Fuller gap balanced against limited documented consensus and period redundancy.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,787 @@
+{
+  "id": "count-basie-april-in-paris-1956",
+  "artist": "Count Basie",
+  "album": "April in Paris",
+  "year": 1956,
+  "label": "Verve",
+  "catalog_number": "MGV-8012",
+  "style_primary": "post-bop",
+  "rationale": "The Basie band's biggest-selling LP of the 1950s and the record that carries three permanent big-band standards: Wild Bill Davis's arrangement of 'April in Paris' (with Basie's famous 'one more time' false ending), Frank Foster's 'Shiny Stockings', and Freddie Green's 'Corner Pocket'. Consensus across independent listing traditions: AllMusic 5 stars (Fielder: 'one of those rare albums that makes its mark as an almost instant classic in the jazz pantheon... proved Count Basie's ability to grow through modern jazz changes while keeping the traditional jazz orchestra vital and alive'), Penguin Guide 3 stars, The Rolling Stone Jazz Record Guide 4 stars, Encyclopedia of Popular Music 5 stars (all four ratings as tabulated in the Wikipedia article, S1). Lineage and session gravity: the New Testament band at its peak, and its personnel is already load-bearing elsewhere in this canon - Thad Jones (trumpet, and later co-leader of the Thad Jones/Mel Lewis Orchestra), Joe Newman, Frank Wess, Frank Foster, Freddie Green, Sonny Payne, Marshall Royal. 'Shiny Stockings' and 'Corner Pocket' became jam-session standards and the Thad Jones trumpet solo on the title track is one of the most quoted in the big-band literature. Style tagged post-bop following the precedent already set for this artist's The Atomic Mr. Basie (1958) and for the Ellington and Kenton big-band records in the canon: the style table has no swing or big-band code, so the late-50s Basie band sits at the post-bebop boundary rather than inside hard bop proper. Recorded in three sessions across July 1955 and January 1956; the LP is dated 1956 by the label discography (S2) and by the Apple Music release year (S6), and 1957 by the Wikipedia infobox, the Discogs LP releases (S3, S4) and AllMusic (S5) - both years are in the sources, see notes.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia - April in Paris (album)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/April_in_Paris_(album)"
+    },
+    "S2": {
+      "title": "jazzdisco.org - Verve Records Catalog: 8000 series (MGV-8012)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/verve-records/catalog-8000-series/#mgv-8012"
+    },
+    "S3": {
+      "title": "Discogs - Count Basie And His Orchestra, April In Paris (LP, Verve MGV-8012, 1957 Hollywood pressing, release 1951282)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/1951282-Count-Basie-And-His-Orchestra-April-In-Paris"
+    },
+    "S4": {
+      "title": "Discogs - April In Paris (Mobile Fidelity CD reissue, release 5068692) - full credits and session note",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/5068692-Count-Basie-And-His-Orchestra-April-In-Paris"
+    },
+    "S5": {
+      "title": "AllMusic - Count Basie, April in Paris (album page)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/april-in-paris-mw0000191459"
+    },
+    "S6": {
+      "title": "iTunes Search API - Count Basie April in Paris",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Count+Basie+April+in+Paris&entity=album"
+    },
+    "S7": {
+      "title": "MusicBrainz release group + Cover Art Archive - April in Paris (bae9e6bd-cb30-3207-84db-e908e9d9dc5c)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/bae9e6bd-cb30-3207-84db-e908e9d9dc5c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1955-07-26",
+      "1956-01-04",
+      "1956-01-05"
+    ],
+    "multi_session": true,
+    "studio": "Fine Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1955-07-26",
+        "site_raw": "Fine Sound, New York City",
+        "site_slug": "fine-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1956-01-04",
+        "site_raw": "Fine Sound, New York City",
+        "site_slug": "fine-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1956-01-05",
+        "site_raw": "Fine Sound, New York City",
+        "site_slug": "fine-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Count Basie",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "William 'Count' Basie"
+        ],
+        "notes": "Leader. jazzdisco lists Basie on organ as well for the January 4, 1956 date; no organ is evident on the issued LP tracks."
+      },
+      {
+        "name": "Wendell Culley",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reunald Jones",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Thad Jones",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Soloist on 'April in Paris' (S3)."
+      },
+      {
+        "name": "Joe Newman",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also the composer of 'Midgets' and a credited arranger on the date."
+      },
+      {
+        "name": "Henry Coker",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bill Hughes",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Bill Hughes (2)"
+        ],
+        "notes": "Listed as 'Bill Hughes (2)' on Discogs to disambiguate from another artist."
+      },
+      {
+        "name": "Benny Powell",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Soloist on 'April in Paris' (S3)."
+      },
+      {
+        "name": "Bill Graham",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Billy Graham"
+        ],
+        "notes": "Printed as 'Bill Graham' on Wikipedia/jazzdisco, 'Billy Graham' on the Discogs LP credits (S3)."
+      },
+      {
+        "name": "Marshall Royal",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Marshal Royal"
+        ],
+        "notes": "Also clarinet (lead alto)."
+      },
+      {
+        "name": "Frank Wess",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also flute and alto saxophone; composer of 'Magic' and a credited arranger. Soloist on 'Corner Pocket' (S3)."
+      },
+      {
+        "name": "Frank Foster",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also clarinet; composer of 'Shiny Stockings' and 'Didn't You?', arranger of 'What Am I Here For'."
+      },
+      {
+        "name": "Charlie Fowlkes",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also bass clarinet."
+      },
+      {
+        "name": "Freddie Green",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Freddie Greene"
+        ],
+        "notes": "Composer of 'Corner Pocket'; also a credited arranger on the date. 'Freddie Greene' spelling on the Discogs LP credits (S3)."
+      },
+      {
+        "name": "Eddie Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Ed Jones"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Sonny Payne",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Quincy Jones",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Mambo Inn",
+          "Dinner with Friends"
+        ],
+        "session_dates": [
+          "1956-01-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Added to the band for the January 5, 1956 date only (jazzdisco: 'add Quincy Jones, trumpet, arranger'). Also credited as an arranger."
+      },
+      {
+        "name": "Jose Mangual Sr.",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Mambo Inn"
+        ],
+        "session_dates": [
+          "1956-01-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Jose Mengual"
+        ],
+        "notes": "Wikipedia personnel list: percussion on 'Mambo Inn' only (track 9 of the original release)."
+      },
+      {
+        "name": "Ubaldo Nieto",
+        "instrument": "percussion",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Mambo Inn"
+        ],
+        "session_dates": [
+          "1956-01-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia personnel list: percussion on 'Mambo Inn' only (track 9 of the original release)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "April in Paris",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:47",
+        "session_date": "1955-07-26",
+        "composers": [
+          "Vernon Duke",
+          "E.Y. Harburg"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Corner Pocket",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:15",
+        "session_date": "1955-07-26",
+        "composers": [
+          "Freddie Green"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Didn't You?",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:43",
+        "session_date": "1955-07-26",
+        "composers": [
+          "Frank Foster"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sweetie Cakes",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:58",
+        "session_date": "1955-07-26",
+        "composers": [
+          "Ernie Wilkins"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Magic",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:06",
+        "session_date": "1956-01-04",
+        "composers": [
+          "Frank Wess"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Shiny Stockings",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:14",
+        "session_date": "1956-01-04",
+        "composers": [
+          "Frank Foster"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "What Am I Here For",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:19",
+        "session_date": "1956-01-04",
+        "composers": [
+          "Duke Ellington",
+          "Frankie Laine"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Midgets",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:13",
+        "session_date": "1956-01-04",
+        "composers": [
+          "Joe Newman"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mambo Inn",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:23",
+        "session_date": "1956-01-05",
+        "composers": [
+          "Mario Bauza",
+          "Edgar Melvin Sampson",
+          "Bobby Woodlen"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne",
+          "Quincy Jones",
+          "Jose Mangual Sr.",
+          "Ubaldo Nieto"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Dinner with Friends",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:05",
+        "session_date": "1956-01-05",
+        "composers": [
+          "Neal Hefti"
+        ],
+        "personnel": [
+          "Count Basie",
+          "Wendell Culley",
+          "Reunald Jones",
+          "Thad Jones",
+          "Joe Newman",
+          "Henry Coker",
+          "Bill Hughes",
+          "Benny Powell",
+          "Bill Graham",
+          "Marshall Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne",
+          "Quincy Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "bae9e6bd-cb30-3207-84db-e908e9d9dc5c",
+    "apple_album_id": "1485773659",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/401d32df-c8d8-4a46-b4a2-4555154bbb04/22519234594.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover from Cover Art Archive release-group bae9e6bd-cb30-3207-84db-e908e9d9dc5c (release 401d32df, matching title/artist/year); exact pressing not verified."
+      }
+    ],
+    "notes": "Three sessions, all at Fine Sound, New York City: 1955-07-26 (tracks 1-4), 1956-01-04 (tracks 5-8), 1956-01-05 (tracks 9-10). Sessions per S1 and S2; S2 gives the matrix numbers (2351-1 'April In Paris', 2352-5 'Corner Pocket', 2353-5 'Did'n You', 2359-4 'Sweetie Cakes' from July 1955; 2621-3 'Shiny Stockings', 2622-9 'What Am I Here For', 2623-3 'Magic', 2624-2 'Midgets' from 1956-01-04; 2628-4 'Mambo Inn', 2630-4 'Dinner With Friends' from 1956-01-05). CONFLICT - session date: S4 (Mobile Fidelity CD booklet data) prints 'Tracks 1 to 4 recorded July 26, 1956'; S1 and S2 both give July 26, 1955, and S2's matrix sequence (2351, between the July 1955 and January 1956 runs) supports 1955. 1955-07-26 recorded here; the 1956 reading is preserved as the conflicting claim. S5 (AllMusic) lists the recording date only as 'January 4, 1956 - January 5, 1956', omitting the July 1955 date. CONFLICT - release year: S2 files MGV-8012 in the 1956 Verve discography and the Apple Music release year is 1956 (S6); S1's infobox, S3/S4 and S5 give 1957. This dossier uses 1956 (label discography + Apple); both readings are in the sources. Producer: Norman Granz, credited as producer (S4) and 'under the personal supervision of' (S3); no engineer is credited in any source consulted - engineer null. Arrangers are production credits and are kept out of the personnel array per house convention: Wild Bill Davis ('April in Paris'), Ernie Wilkins ('Corner Pocket', 'Sweetie Cakes'), Frank Foster ('Didn't You?', 'Shiny Stockings', 'What Am I Here For'), Joe Newman ('Midgets'), Neal Hefti ('Dinner with Friends'), Freddie Green and Quincy Jones also carry arranging credits on the date (S1, S3). Joe Williams (vocal) appears in S2's personnel line for the July 26, 1955 date but sings on none of the album's ten tracks - his vocals from these sessions were issued as separate singles - so he is excluded from the personnel array. Reissue-only material is excluded from the track list: the 1997 CD adds seven alternate takes ('April in Paris' 2nd take, 'Corner Pocket' 2nd take, 'Didn't You?' 3rd take, 'Magic' 1st and 2nd takes, 'What Am I Here For?' 1st take, 'Midgets' 4th take) plus additional 1955-56 masters (S1). Track sides are from the original Verve MGV-8012 LP sequence (S3). The 10-inch/78-era single issue of 'April in Paris' predates the LP."
+  },
+  "ballot": {
+    "album": "Count Basie — April in Paris (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The dates are within the 1945–1985 window either way (the dossier records conflicting 1956/1957 release dates). The stylistic boundary is modern big-band swing: the dossier tags it post-bop by precedent, while the references differ on whether that stretches the canon’s post-bebop frame."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "The album documents the New Testament Basie band at a high point and brings together a formidable ensemble, including Thad Jones, Frank Wess, Frank Foster, Freddie Green, and Sonny Payne (S1–S3). Its title track, “Shiny Stockings,” and “Corner Pocket” became durable repertoire, while AllMusic’s five-star assessment and the ratings tabulated from Penguin, Rolling Stone, and the Encyclopedia of Popular Music give it broad critical recognition (S1, S5). The famous false ending and the band’s dynamic, deeply swinging ensemble sound make it an immediate and persuasive introduction to modern big-band craft.",
+    "case_against": "The music is modernized Kansas City swing rather than post-bop proper, so admitting it under that label risks stretching the canon’s stated center of gravity; the dossier’s post-bop tag partly reflects the absence of a big-band or swing style category. The ratings are not uniformly at the top tier—Penguin gives it three stars—and the dossier’s tabulation of several ratings is mediated through Wikipedia (S1). Finally, the LP assembles tracks from three sessions across six months, which weakens the claim that it is a unified album statement.",
+    "disagreement": "Both references favor inclusion, but they differ on whether precedent from other big-band records resolves the stylistic question: Reference 1 treats the tag as a convention already established by the canon, while Reference 2 says the record tests the post-bebop boundary even though it remains admissible. The tier reflects that unresolved scope judgment.",
+    "recommendation": "John should decide whether modern big-band swing belongs within the canon’s post-bebop scope, while treating the album as a strong candidate if that boundary is accepted.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "openrouter:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

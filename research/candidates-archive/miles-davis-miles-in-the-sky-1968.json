@@ -1,0 +1,385 @@
+{
+  "id": "miles-davis-miles-in-the-sky-1968",
+  "artist": "Miles Davis",
+  "album": "Miles in the Sky",
+  "year": 1968,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "fusion"
+  ],
+  "rationale": "The last full studio album by Miles Davis' Second Great Quintet — Shorter, Hancock, Carter and Williams together on a whole record for the final time — and the hinge between the acoustic quintet and the electric period that follows (In a Silent Way, Bitches Brew, both already in the canon). Hancock plays electric piano and Carter electric bass on 'Stuff'; George Benson adds electric guitar on 'Paraphernalia'. AllMusic files it under Fusion and Post-Bop, and C. Michael Bailey (All About Jazz, via the Wikipedia article) names it one of the six 1965-68 Davis quintet albums that defined post-bop. Rating consensus is broad but not unanimous: AllMusic 4.5/5, DownBeat 4.5/5, Penguin Guide and Rolling Stone 3-4.5, so the case rests on lineage and session gravity rather than on consensus_core. The record is the audible bridge the canon's fusion gate exists to test — argue it as a bridge, not as a genre arrival.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Miles in the Sky",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Miles_in_the_Sky"
+    },
+    "S2": {
+      "title": "AllMusic — Miles Davis, Miles in the Sky (credits)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/miles-in-the-sky-mw0000652711"
+    },
+    "S3": {
+      "title": "iTunes Search API — Miles Davis, Miles in the Sky",
+      "type": "discography",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Miles+in+the+Sky&entity=album&limit=10"
+    },
+    "S4": {
+      "title": "MusicBrainz — Miles in the Sky release group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/5be21119-1842-38bd-8f43-23333e7ee182"
+    },
+    "S5": {
+      "title": "Cover Art Archive — Miles in the Sky release group",
+      "type": "discography",
+      "url": "https://coverartarchive.org/release-group/5be21119-1842-38bd-8f43-23333e7ee182"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1968-01-16",
+      "1968-05-15",
+      "1968-05-16",
+      "1968-05-17"
+    ],
+    "multi_session": true,
+    "studio": "Columbia Studio B (CBS 30th Street Studio), New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1968-01-16",
+        "site_raw": "Columbia Studio B, New York, NY",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1968-05-15",
+        "site_raw": "Columbia Studio B, New York, NY",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1968-05-16",
+        "site_raw": "Columbia Studio B, New York, NY",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1968-05-17",
+        "site_raw": "Columbia Studio B, New York, NY",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": "Frank Laico",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1968-01-16",
+          "1968-05-15",
+          "1968-05-16",
+          "1968-05-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia also credits Davis on cornet for 'Stuff' and 'Country Son'; AllMusic's credit table lists Cornet and Trumpet together without a session split."
+      },
+      {
+        "name": "Wayne Shorter",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1968-01-16",
+          "1968-05-15",
+          "1968-05-16",
+          "1968-05-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'Paraphernalia'."
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1968-01-16",
+          "1968-05-15",
+          "1968-05-16",
+          "1968-05-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Electric piano on 'Stuff' (Wikipedia; AllMusic credits Piano and Piano (Electric) without a track split)."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1968-01-16",
+          "1968-05-15",
+          "1968-05-16",
+          "1968-05-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Electric bass on 'Stuff' (Wikipedia; AllMusic credits Bass and Bass (Electric) without a track split)."
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1968-01-16",
+          "1968-05-15",
+          "1968-05-16",
+          "1968-05-17"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'Black Comedy'."
+      },
+      {
+        "name": "George Benson",
+        "instrument": "electric guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Paraphernalia"
+        ],
+        "session_dates": [
+          "1968-01-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Guest artist, electric guitar on 'Paraphernalia' only — the January 16, 1968 session."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Stuff",
+        "track_number": 1,
+        "side": "A",
+        "duration": "17:00",
+        "session_date": "1968-05-17",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Paraphernalia",
+        "track_number": 2,
+        "side": "A",
+        "duration": "12:38",
+        "session_date": "1968-01-16",
+        "composers": [
+          "Wayne Shorter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams",
+          "George Benson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Black Comedy",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:26",
+        "session_date": "1968-05-16",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Country Son",
+        "track_number": 4,
+        "side": "B",
+        "duration": "13:52",
+        "session_date": "1968-05-15",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Black Comedy (Alternate Take)",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:23",
+        "session_date": "1968-05-16",
+        "composers": [
+          "Tony Williams"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Country Son (Alternate Take)",
+        "track_number": 6,
+        "side": "B",
+        "duration": "14:38",
+        "session_date": "1968-05-15",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Wayne Shorter",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "5be21119-1842-38bd-8f43-23333e7ee182",
+    "apple_album_id": "1449642260",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/3e79b5fa-8223-4177-b5b0-9917b4283836/32940293034.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Four sessions, all at Columbia Studio B, New York: 1968-01-16 ('Paraphernalia'), 1968-05-15 ('Country Son' + alternate), 1968-05-16 ('Black Comedy' + alternate), 1968-05-17 ('Stuff'). Studio conflict preserved: the Wikipedia infobox records the studio as 'Columbia 52nd Street (CBS Studio Building)', while AllMusic's Recording Location reads 'Columbia Studio B, New York, NY'; the canon's place vocabulary resolves 'Columbia Recording Studio B' to cbs-30th-street-studio, and the album is recorded as that slug (obs per AllMusic). Engineer conflict preserved: AllMusic's credits list both Frank Laico and Arthur Kendy as Engineer with no session or reissue split, and the Wikipedia article names no engineer; 'Frank Laico' is recorded here as the period's documented Columbia 30th Street engineer, hence epistemic_production 'inf'. Producer Teo Macero is directly stated by both Wikipedia and AllMusic. Original LP (Columbia CS 9628) carried four tracks; tracks 5-6 are the alternate takes added on the 1998 Columbia/Legacy CD (CK 65684) and are flagged as such. AllMusic styles this record Fusion / Post-Bop; the dossier files it as post-bop with 'fusion' as a secondary tag, since the quintet is acoustic on three of four pieces and the electric textures are confined to 'Stuff' and 'Paraphernalia'."
+  },
+  "ballot": {
+    "album": "Miles Davis — Miles in the Sky (1968)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The fusion gate is in play: this is primarily a post-bop quintet album with electric textures on two tracks, so the bridge test—not fusion status alone—should guide judgment."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album makes a compelling lineage case as an audible acoustic-to-electric hinge: the dossier documents electric piano and bass on “Stuff” and George Benson’s guitar on “Paraphernalia,” pointing toward the electric period represented by In a Silent Way and Bitches Brew. It also captures the Second Great Quintet—Davis, Shorter, Hancock, Carter, and Williams—together across a full studio album for the last time (S1, S2); “Black Comedy” and “Paraphernalia” stand as strong post-bop compositions in their own right.",
+    "case_against": "Its critical standing is less secure than the quintet’s more celebrated albums: the dossier reports favorable but variable ratings, and its historical case rests mainly on Wikipedia and AllMusic, with the All About Jazz reference relayed through Wikipedia (S1, S2). The album can also sound transitional rather than fully unified: “Stuff” previews the electric direction, while the acoustic tracks retain the quintet’s earlier vocabulary, making it less definitive on its own terms than the records that bookend it.",
+    "disagreement": "Both references favor a contested tier and strong priority. They differ slightly in framing: one treats the fusion boundary as relevant but says the central dispute is merit and redundancy, while the other emphasizes the opened fusion gate as an active scope consideration; neither judges this a scope_call.",
+    "recommendation": "John should weigh this as a strong but contested bridge-and-ensemble document, while deciding whether its transitional value adds enough beyond the quintet’s more definitive records.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

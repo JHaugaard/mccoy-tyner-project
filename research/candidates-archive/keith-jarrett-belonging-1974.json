@@ -1,0 +1,343 @@
+{
+  "id": "keith-jarrett-belonging-1974",
+  "artist": "Keith Jarrett",
+  "album": "Belonging",
+  "year": 1974,
+  "label": "ECM",
+  "catalog_number": "ECM 1050 ST",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "ecm",
+    "european-jazz"
+  ],
+  "rationale": "Belonging is the debut of Keith Jarrett's European Quartet -- Jan Garbarek on tenor and soprano saxophones, Palle Danielsson on bass, Jon Christensen on drums -- recorded over two days in April 1974 at Arne Bendiksen Studio in Oslo and issued as ECM 1050 ST, with Manfred Eicher producing and Jan Erik Kongshaug engineering [S1,S2,S4] (obs). Consensus is the strongest signal: five independent listing traditions rate it four stars or better -- the Penguin Guide to Jazz 4/5, AllMusic 4.5/5, the Rolling Stone Jazz Record Guide 4/5, the Virgin Encyclopedia of Jazz 4/5 and the Encyclopedia of Popular Music 4/5 -- and AllMusic files it under Post-Bop, Jazz Instrument and Piano Jazz [S1,S3] (obs). The Penguin Guide's notice is unusually warm: 'a superb album, characterized by some of the pianist's most open and joyous playing on record', with 'Blossom', 'Solstice' and the title piece 'remarkable by any standards' [S1] (obs). Scope: this is a 1974 ECM record, inside the current 1945-1985 window, and it should be read as a continuity case rather than an annexation. The quartet is wholly acoustic -- piano, two saxophones, bass, drums -- playing Jarrett's own song-form originals with no electric instrumentation and no rock backbeat, and it extends the modal/post-bop line rather than founding a new idiom [S1,S2,S3,S4] (inf). It is also the middle term of an arc the canon already holds at both ends: Jarrett's solo Facing You (1971) and The Köln Concert (1975) are both in, and Garbarek arrives here from Witchi-Tai-To (1973) with the Bobo Stenson Quartet [S2] (inf). The rubric's anchor case, The Köln Concert, is the same player five months later; Belonging is where the European Quartet that carries Jarrett's 1970s acoustic work begins. Lineage beyond the canon: the title track's 'Long as You Know You're Living Yours' was the subject of Jarrett's copyright suit against Steely Dan over the Gaucho title track, Donald Fagen admitting he had loved the track and was strongly influenced by it -- the record reaches well outside jazz [S1] (obs). It still plays: 'Spiral Dance' opens at a sprint, 'Blossom' and 'Solstice' run past twelve minutes each, and the title piece is a two-minute miniature [S1,S4] (obs). Dating note: recorded April 24 and 25, 1974 (Wikipedia and Discogs), released 1974 on ECM; the iTunes listing carries a release date of 1974-10-01 [S1,S4,S5] (obs). The same quartet's 'The Windup' was also cut for NDR in Hamburg on April 18, 1974 and broadcast on NDR Jazz Workshop '74 -- a different performance from the ECM 1050 track and not part of this album [S2] (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia -- Belonging (Keith Jarrett album) (recorded April 24-25, 1974 at Arne Bendiksen Studios, Oslo, Norway; released 1974; ECM 1050 ST; producer Manfred Eicher; debut of the 'European Quartet'; Manfred Eicher's account of the single-take title piece and Garbarek's recollection; the Steely Dan 'Gaucho' copyright dispute over ''Long as You Know You're Living Yours'; track listing with durations; European Quartet personnel: Keith Jarrett piano, Jan Garbarek tenor and soprano saxophones, Palle Danielsson bass, Jon Christensen drums; technical personnel Manfred Eicher production, Jan Erik Kongshaug recording engineer, Tadayuki Naitoh cover design; ratings box: AllMusic 4.5/5, Encyclopedia of Popular Music 4/5, Penguin Guide to Jazz 4/5, Rolling Stone Jazz Record Guide 4/5, Virgin Encyclopedia of Jazz 4/5; AllMusic review quoted from Richard S. Ginell; Penguin Guide quoted; MusicBrainz release group 205aaf21-be0c-312b-aa95-431ef9277c9c)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Belonging_(Keith_Jarrett_album)"
+    },
+    "S2": {
+      "title": "Jazz Discography Project -- European Quartet Discography (session entry: Jan Garbarek tenor and soprano sax, Keith Jarrett piano, Palle Danielsson bass, Jon Christensen drums; Arne Bendiksen Studio, Oslo, Norway, April 24 and 25, 1974; all six tracks listed as ECM (G) ECM 1050 -- Spiral Dance, Blossom, 'Long As You Know You're Living Yours, Belonging, The Windup, Solstice; separate earlier session NDR Studio 10, Hamburg, West Germany, April 18, 1974 for 'The Windup' on Various Artists - NDR Jazz Workshop '74)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/european-quartet/discography/"
+    },
+    "S3": {
+      "title": "AllMusic -- Belonging, Keith Jarrett / Keith Jarrett Quartet (mw0000192033; Release Date 1974; Duration 46:18; Genre Jazz; Styles Post-Bop, Jazz Instrument, Piano Jazz; review by Richard S. Ginell, 4.5/5 per the Wikipedia ratings box at S1)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/belonging-mw0000192033"
+    },
+    "S4": {
+      "title": "Discogs -- Jan Garbarek, Keith Jarrett, Palle Danielsson, Jon Christensen, Belonging (release 2871766; ECM Records ECM 1050 ST / ECM 1050 / 2301 050, Germany, reissue of the 1974 original release 547603; side and track listing with durations A1 Spiral Dance 4:08, A2 Blossom 12:18, A3 'Long As You Know You're Living Yours 6:11, B1 Belonging 2:12, B2 The Windup 8:26, B3 Solstice 13:15; 'Recorded April 24 and 25, 1974 at Arne Bendiksen Studio, Oslo'; credits: Bass Palle Danielsson; Drums Jon Christensen; Engineer Jan Erik Kongshaug; Piano, Composed By Keith Jarrett; Producer Manfred Eicher; Tenor Saxophone, Soprano Saxophone Jan Garbarek; Cover Design Tadayuki Naito; Layout B/B Wojirsch; published by Cavelight Music, BMI)",
+      "type": "web",
+      "url": "https://www.discogs.com/release/2871766-Jan-Garbarek-Keith-Jarrett-Palle-Danielsson-Jon-Christensen-Belonging"
+    },
+    "S5": {
+      "title": "iTunes Search API -- Keith Jarrett, Jan Garbarek, Palle Danielsson & Jon Christensen, 'Belonging' (collectionId 1444122271, releaseDate 1974-10-01, trackCount 7, '(P) 1974 ECM Records GmbH, under exclusive license to Deutsche Grammophon GmbH, Berlin', primaryGenreName Jazz)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Keith+Jarrett+Belonging&entity=album&limit=25"
+    },
+    "S6": {
+      "title": "MusicBrainz -- release group 205aaf21-be0c-312b-aa95-431ef9277c9c 'Belonging' by Jan Garbarek, Keith Jarrett, Palle Danielsson & Jon Christensen (primary type Album; first-release-date 1974; releases include df66128f-52f8-490b-83ac-5dc377b4bd3f, ECM, Germany, 1974 -- the source of the Cover Art Archive front image at S7 -- plus bbf913d4, 048edb61, d14be92e and 98f7de23)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/205aaf21-be0c-312b-aa95-431ef9277c9c"
+    },
+    "S7": {
+      "title": "Cover Art Archive -- release group 205aaf21-be0c-312b-aa95-431ef9277c9c (approved images: front, back, two medium images captioned Side I and Side II, and a detail/credits image; front is coverartarchive.org/release/df66128f-52f8-490b-83ac-5dc377b4bd3f/5896531342.jpg)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/205aaf21-be0c-312b-aa95-431ef9277c9c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1974-04-24",
+      "1974-04-25"
+    ],
+    "multi_session": true,
+    "studio": "Arne Bendiksen Studio, Oslo, Norway",
+    "recording_sites": [
+      {
+        "session_date": "1974-04-24",
+        "site_raw": "Arne Bendiksen Studios, Oslo, Norway",
+        "site_slug": "arne-bendiksen-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1974-04-25",
+        "site_raw": "Arne Bendiksen Studios, Oslo, Norway",
+        "site_slug": "arne-bendiksen-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Manfred Eicher",
+    "engineer": "Jan Erik Kongshaug",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Keith Jarrett",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; piano throughout, and composer of all six pieces (S1, S2, S4). Recorded as 'Keith Jarrett Quartet' on the AllMusic entry (S3)."
+      },
+      {
+        "name": "Jan Garbarek",
+        "instrument": "tenor saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Credited on tenor and soprano saxophones across the album (S1, S2, S4). No source consulted assigns a specific saxophone to a specific track, so this entry and the soprano entry below both carry scope 'unknown' rather than claiming either instrument on every piece."
+      },
+      {
+        "name": "Jan Garbarek",
+        "instrument": "soprano saxophone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Second of Garbarek's two credited saxophones on this album (S1, S2, S4); per-track assignment undocumented, hence scope 'unknown'."
+      },
+      {
+        "name": "Palle Danielsson",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bass throughout (S1, S2, S4); Discogs credits him simply as 'Bass' (S4)."
+      },
+      {
+        "name": "Jon Christensen",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Drums throughout (S1, S2, S4)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Spiral Dance",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:11",
+        "session_date": null,
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett",
+          "Jan Garbarek",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Blossom",
+        "track_number": 2,
+        "side": "A",
+        "duration": "12:15",
+        "session_date": null,
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett",
+          "Jan Garbarek",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "'Long as You Know You're Living Yours",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:14",
+        "session_date": null,
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett",
+          "Jan Garbarek",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Belonging",
+        "track_number": 4,
+        "side": "B",
+        "duration": "2:15",
+        "session_date": null,
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett",
+          "Jan Garbarek",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Windup",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:27",
+        "session_date": null,
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett",
+          "Jan Garbarek",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Solstice",
+        "track_number": 6,
+        "side": "B",
+        "duration": "13:13",
+        "session_date": null,
+        "composers": [
+          "Keith Jarrett"
+        ],
+        "personnel": [
+          "Keith Jarrett",
+          "Jan Garbarek",
+          "Palle Danielsson",
+          "Jon Christensen"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "205aaf21-be0c-312b-aa95-431ef9277c9c",
+    "apple_album_id": "1444122271",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/df66128f-52f8-490b-83ac-5dc377b4bd3f/5896531342.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Approved front image on Cover Art Archive release group 205aaf21-be0c-312b-aa95-431ef9277c9c (S7), attached to release df66128f-52f8-490b-83ac-5dc377b4bd3f -- ECM, Germany, 1974, cardboard/paper sleeve per MusicBrainz (S6). Matching territory and year suggest the original edition, but the Archive does not label it as such and a cardboard sleeve is atypical for the 1974 ECM gatefold, so the pressing is not confirmed."
+      }
+    ],
+    "notes": "One engagement over two documented days: April 24 and 25, 1974, at Arne Bendiksen Studio, Oslo, Norway (S1, S2, S4). No source consulted distinguishes which of the six pieces was cut on which day, so the tracks carry no per-session date and are attached to the first session; per-track instrumentation is likewise undocumented, which is why Garbarek's two saxophones both carry scope 'unknown'. A single four-piece ensemble plays throughout -- Jarrett, Garbarek, Danielsson, Christensen -- with no substitutions and no guests (S1, S2, S3, S4). All six compositions are Jarrett's, published by Cavelight Music, BMI (S1, S4). Producer Manfred Eicher, engineer Jan Erik Kongshaug (S1, S4); cover design Tadayuki Naitoh, layout B/B Wojirsch (S1, S4). Duration variance, recorded rather than reconciled: Wikipedia gives Spiral Dance 4:11, Blossom 12:15, 'Long as You Know You're Living Yours 6:14, Belonging 2:15, The Windup 8:27, Solstice 13:13, totalling 46:35 (S1); Discogs's German LP gives 4:08 / 12:18 / 6:11 / 2:12 / 8:26 / 13:15, totalling 46:30 (S4); AllMusic gives 46:18 (S3). Wikipedia's timings are recorded above. The iTunes listing shows seven tracks against the album's six (S5); ECM's own catalogue notes the 2015 digital edition, and Discogs lists a later pressing that splits 'Solstice' across two bands -- neither was verified against a source in full. Separate but adjacent: 'The Windup' was also performed by the same quartet for Norddeutscher Rundfunk at NDR Studio 10, Hamburg, on April 18, 1974, issued on Various Artists - NDR Jazz Workshop '74 (S2) -- an earlier version of the piece, not part of ECM 1050, and deliberately not recorded as a track here. Release history: ECM 1050 ST (Germany 1974, original release 547603; also ECM 6313 056 France, PAP-9011 Japan, ECM 2310 370 US), ECM 829 115-2 and 2748125 on CD/LP reissue (S4, S6). Label tag: ECM is recorded in style_tags only -- the primary style is post-bop, AllMusic's own tag for the record (S3)."
+  },
+  "ballot": {
+    "album": "Keith Jarrett — Belonging (1974)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "1974 falls within the 1945–1985 window, but it triggers both the 1973–1985 continuity boundary and the opened ECM gate; the question is whether this acoustic European Quartet record extends post-bop/modal lineage or marks a distinct European ECM aesthetic."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "The dossier reports strong agreement across five guide traditions, with ratings of 4/5 or higher; the Penguin Guide calls it superb and singles out several tracks (S1). As the debut of the European Quartet, it documents a major Jarrett ensemble sound and fills a meaningful link between the canon’s Jarrett albums *Facing You* and *The Köln Concert*, while connecting to Garbarek’s *Witchi-Tai-To* (S1, S2). Its wholly acoustic instrumentation and Jarrett originals support a continuity reading, and the dossier records a documented influence on Steely Dan’s “Gaucho” title track (S1, S3, S4).",
+    "case_against": "The boundary is substantive: the European Quartet’s lyrical, spacious sound may represent a distinct European ECM aesthetic rather than a direct extension of the canon’s post-bop center. And while this is the quartet’s foundational debut, the dossier does not establish that it is the formation’s most defining statement; *My Song* is a plausible competing choice. These concerns do not erase the album’s documented critical standing, but they make an automatic core designation premature.",
+    "disagreement": null,
+    "recommendation": "John should make the boundary call on whether this acoustic European Quartet statement belongs as a continuity of post-bop/modal lineage, with the council rating its case strong.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

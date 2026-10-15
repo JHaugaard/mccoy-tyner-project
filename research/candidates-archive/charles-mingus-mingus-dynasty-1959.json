@@ -1,0 +1,726 @@
+{
+  "id": "charles-mingus-mingus-dynasty-1959",
+  "artist": "Charles Mingus",
+  "album": "Mingus Dynasty",
+  "year": 1959,
+  "label": "Columbia",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "hard-bop"
+  ],
+  "rationale": "The companion album to Mingus Ah Um, cut at the same November 1959 sessions for Columbia and released in May 1960 — the second half of Mingus' decisive first year at CBS. Inducted into the Grammy Hall of Fame in 1999 (per the Wikipedia article), the record belongs to the small group of Mingus titles that carry broad institutional recognition, and it sits alongside Mingus Ah Um, Blues & Roots and the Black Saint in this canon already. Session gravity is the strongest argument: across two dates Mingus assembles a dozen players out of his working circles — Booker Ervin, Jimmy Knepper, John Handy, Dannie Richmond, Roland Hanna, Teddy Charles, Benny Golson, Jerome Richardson, Richard Williams, Don Ellis, plus the two cellos of Maurice Brown and Seymour Barab that give 'Slop' and 'Put Me in That Dungeon' their chamber sound. The two-session split (a tentet on November 1, an octet on November 13) makes it a personnel document as much as a statement record; it also reads as the last flourish of Mingus' late-1950s workshop band before the 1960s small-group turn.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Mingus Dynasty",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Mingus_Dynasty"
+    },
+    "S2": {
+      "title": "AllMusic — Charles Mingus, Mingus Dynasty",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/mingus-dynasty-mw0000107956"
+    },
+    "S3": {
+      "title": "Mosaic Records — The Complete 1959 CBS Charles Mingus Sessions (discography)",
+      "type": "discography",
+      "url": "https://www.mosaicrecords.com/charles-mingus-cbs-albums/"
+    },
+    "S4": {
+      "title": "AlbumLinerNotes.com — Mingus Dynasty (Columbia/Legacy CK 65513 liner notes, incl. Brian Priestley's 1998 essay)",
+      "type": "liner-notes",
+      "url": "http://albumlinernotes.com/Mingus_Dynasty.html"
+    },
+    "S5": {
+      "title": "iTunes Search API — Charles Mingus, Mingus Dynasty",
+      "type": "discography",
+      "url": "https://itunes.apple.com/search?term=Charles+Mingus+Mingus+Dynasty&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "MusicBrainz — Mingus Dynasty release group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/4b268ec1-e204-3c82-91ea-a4bc9eaf0a75"
+    },
+    "S7": {
+      "title": "Cover Art Archive — Mingus Dynasty release group",
+      "type": "discography",
+      "url": "https://coverartarchive.org/release-group/4b268ec1-e204-3c82-91ea-a4bc9eaf0a75"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-11-01",
+      "1959-11-13"
+    ],
+    "multi_session": true,
+    "studio": "CBS 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1959-11-01",
+        "site_raw": "30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1959-11-13",
+        "site_raw": "30th Street Studio, NYC",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": "Ray Moore",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-11-01",
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "Leader and bassist on every track; composer of all but 'Things Ain't What They Used to Be', 'Mood Indigo' and 'Strollin'."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-11-01",
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Knepper",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-11-01",
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Handy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-11-01",
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Alto saxophone throughout these two sessions; on the May 1959 CBS sessions (Mingus Ah Um) he also doubled on clarinet."
+      },
+      {
+        "name": "Booker Ervin",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-11-01",
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roland Hanna",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Slop",
+          "Diane",
+          "Song With Orange",
+          "Gunslinging Bird",
+          "Things Ain't What They Used to Be",
+          "Far Wells Mill Valley",
+          "Mood Indigo",
+          "Put Me in That Dungeon"
+        ],
+        "session_dates": [
+          "1959-11-01",
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Sir Roland Hanna"
+        ],
+        "notes": "Replaced by Nico Bunink on 'New Now Know How' and 'Strollin''."
+      },
+      {
+        "name": "Richard Williams",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Diane",
+          "Song With Orange",
+          "Gunslinging Bird",
+          "Far Wells Mill Valley",
+          "Strollin'"
+        ],
+        "session_dates": [
+          "1959-11-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "November 1 session only, and omitted from 'New Now Know How' on that same date (per the Mosaic sessionography)."
+      },
+      {
+        "name": "Don Ellis",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Slop",
+          "Things Ain't What They Used to Be",
+          "Mood Indigo",
+          "Put Me in That Dungeon"
+        ],
+        "session_dates": [
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "November 13 session only."
+      },
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Diane",
+          "Song With Orange",
+          "Gunslinging Bird",
+          "Far Wells Mill Valley",
+          "Strollin'"
+        ],
+        "session_dates": [
+          "1959-11-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "November 1 session only; omitted from 'New Now Know How'."
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Diane",
+          "Song With Orange",
+          "Gunslinging Bird",
+          "Far Wells Mill Valley",
+          "Strollin'"
+        ],
+        "session_dates": [
+          "1959-11-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flute on 'Diane' (Mosaic marks the flute on the November 1 session's second number)."
+      },
+      {
+        "name": "Teddy Charles",
+        "instrument": "vibraphone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Diane",
+          "Song With Orange",
+          "Gunslinging Bird",
+          "Far Wells Mill Valley"
+        ],
+        "session_dates": [
+          "1959-11-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Not on 'New Now Know How' or 'Strollin'' — the Mosaic sessionography marks Charles (vibes) omitted on the latter."
+      },
+      {
+        "name": "Nico Bunink",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "New Now Know How",
+          "Strollin'"
+        ],
+        "session_dates": [
+          "1959-11-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Nico Bunick",
+          "Nico Binink"
+        ],
+        "notes": "Replaces Roland Hanna at the piano on these two November 1 numbers. Sources spell the name three ways: 'Nico Bunink' (Wikipedia personnel list and the Legacy liner notes), 'Nico Binink' (liner notes, track 10), 'Nico Bunick' (Mosaic sessionography)."
+      },
+      {
+        "name": "Maurice Brown",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Slop",
+          "Put Me in That Dungeon"
+        ],
+        "session_dates": [
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "One of the two cellos; the Wikipedia personnel list places the cellos on 'Diane' (track 2) instead of 'Slop' — conflict preserved, see block notes."
+      },
+      {
+        "name": "Seymour Barab",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Slop",
+          "Put Me in That Dungeon"
+        ],
+        "session_dates": [
+          "1959-11-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Second cello; same source conflict as Maurice Brown."
+      },
+      {
+        "name": "Honi Gordon",
+        "instrument": "voice",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Strollin'"
+        ],
+        "session_dates": [
+          "1959-11-01"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Honey Gordon"
+        ],
+        "notes": "Vocal on 'Strollin'' (the Nat Gordon lyric), a track left off the original LP and issued later. The Legacy liner notes bill her as 'Honey Gordon'; the Mosaic sessionography and Wikipedia use 'Honi'."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Slop",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:16",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Don Ellis",
+          "Roland Hanna",
+          "Dannie Richmond",
+          "Maurice Brown",
+          "Seymour Barab"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Diane",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:32",
+        "session_date": "1959-11-01",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Benny Golson",
+          "Jerome Richardson",
+          "Teddy Charles",
+          "Roland Hanna",
+          "Dannie Richmond",
+          "Richard Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Song With Orange",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:50",
+        "session_date": "1959-11-01",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Benny Golson",
+          "Jerome Richardson",
+          "Teddy Charles",
+          "Roland Hanna",
+          "Dannie Richmond",
+          "Richard Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Gunslinging Bird",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:14",
+        "session_date": "1959-11-01",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Benny Golson",
+          "Jerome Richardson",
+          "Teddy Charles",
+          "Roland Hanna",
+          "Dannie Richmond",
+          "Richard Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Things Ain't What They Used to Be",
+        "track_number": 5,
+        "side": "A",
+        "duration": "7:36",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Mercer Ellington"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Don Ellis",
+          "Roland Hanna",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Far Wells Mill Valley",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:14",
+        "session_date": "1959-11-01",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Benny Golson",
+          "Jerome Richardson",
+          "Teddy Charles",
+          "Roland Hanna",
+          "Dannie Richmond",
+          "Richard Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "New Now Know How",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:13",
+        "session_date": "1959-11-01",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Nico Bunink",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Mood Indigo",
+        "track_number": 8,
+        "side": "B",
+        "duration": "8:13",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Duke Ellington",
+          "Barney Bigard"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Don Ellis",
+          "Roland Hanna",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Put Me in That Dungeon",
+        "track_number": 9,
+        "side": "B",
+        "duration": "2:53",
+        "session_date": "1959-11-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Don Ellis",
+          "Roland Hanna",
+          "Dannie Richmond",
+          "Maurice Brown",
+          "Seymour Barab"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Strollin'",
+        "track_number": 10,
+        "side": null,
+        "duration": "4:33",
+        "session_date": "1959-11-01",
+        "composers": [
+          "Charles Mingus",
+          "George Gordon"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Jimmy Knepper",
+          "John Handy",
+          "Booker Ervin",
+          "Benny Golson",
+          "Jerome Richardson",
+          "Richard Williams",
+          "Nico Bunink",
+          "Dannie Richmond",
+          "Honi Gordon"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "4b268ec1-e204-3c82-91ea-a4bc9eaf0a75",
+    "apple_album_id": "157428642",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/7c40b866-61fb-4c41-9b03-32f640553a43/28654748180.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Two sessions at Columbia's 30th Street Studio, New York City: 1959-11-01 (a tentet — Richard Williams, Jimmy Knepper, John Handy, Booker Ervin, Benny Golson, Jerome Richardson, Teddy Charles, Roland Hanna, Mingus, Dannie Richmond) and 1959-11-13 (an octet — Don Ellis, Knepper, Handy, Ervin, Hanna, Mingus, Richmond, plus Maurice Brown and Seymour Barab on cellos). Track-to-date mapping follows the Mosaic Records 1959 CBS sessionography, which agrees with Brian Priestley's liner-note essay: November 1 = Diane, Song With Orange, Gunslinging Bird, Far Wells Mill Valley, New Now Know How, Strollin'; November 13 = Slop, Put Me in That Dungeon, Mood Indigo, Things Ain't What They Used to Be. 'Strollin'' was left off the original LP (Columbia CS 8236) and first issued on the 1979 compilation Nostalgia in Times Square; it is flagged bonus_track. Alternate takes of 'Diane', 'Song With Orange' and 'New Now Know How' exist (co63884-5, co63882-4, co63886-2/-3) but are not given track entries here — the Legacy CD carries them, the original LP does not. PRESERVED CONFLICT (cello): the Wikipedia personnel list puts the two cellos on 'Diane' (track 2, the November 1 session), while the Legacy liner notes and the Mosaic sessionography put them on 'Slop' and 'Put Me in That Dungeon' (both November 13) — Mosaic marks the cello part -1 only on the November 13 numbers. The liner-notes/Mosaic reading is recorded in the personnel and track assignments (cello on the November 13 session); the Wikipedia reading is preserved here rather than discarded. PRESERVED CONFLICT (engineer): the Legacy liner notes credit recording engineers Ray Moore and Fred Plaut together with no session attribution; 'Ray Moore' is recorded as the engineer (also the credit carried by the album's discography listings), with Fred Plaut noted as co-credited. Producer Teo Macero is stated by both the liner notes and Wikipedia. Issued as 'Charles Mingus and His Jazz Groups' on the original Columbia sleeve; catalog CS 8236 (mono CL 1440)."
+  },
+  "ballot": {
+    "album": "Charles Mingus — Mingus Dynasty (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album documents Mingus’s expanded 1959 workshop across two sessions, joining core players such as Dannie Richmond, Jimmy Knepper, Booker Ervin, and John Handy with Benny Golson, Teddy Charles, Don Ellis, and others; Mosaic’s sessionography and the Legacy liner notes detail that unusually rich personnel network (S3, S4). Its chamber-colored arrangements, including the cello textures on “Slop” and “Put Me in That Dungeon,” broaden the picture of the period between Mingus Ah Um and The Black Saint. Its Grammy Hall of Fame induction is a further, though not independently documented here, signal of institutional recognition (S1).",
+    "case_against": "Mingus Ah Um is the more definitive and widely recognized statement of the 1959 Columbia period, while Mingus Dynasty is often treated as its companion rather than an equally essential landmark. Its contrasting sessions and varied material make it less cohesive, and the dossier does not document the kind of cross-source critical-list consensus that would establish it as a core canon selection. It enriches the Mingus arc, but the canon’s late-1950s workshop moment is already represented by a stronger primary text.",
+    "disagreement": "The references agree on a contested tier and strong priority; they differ mainly in emphasis, with one stressing the album’s session-document and bridge value, and the other its compositional expansion, while both judge it secondary to Mingus Ah Um.",
+    "recommendation": "John should consider Mingus Dynasty as a strong but non-essential companion to Mingus Ah Um, preserving its distinct ensemble and orchestral contribution without treating it as a consensus-core landmark.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

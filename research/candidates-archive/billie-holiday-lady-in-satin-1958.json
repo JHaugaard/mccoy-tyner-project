@@ -1,0 +1,877 @@
+{
+  "id": "billie-holiday-lady-in-satin-1958",
+  "artist": "Billie Holiday",
+  "album": "Lady in Satin",
+  "year": 1958,
+  "label": "Columbia",
+  "catalog_number": "CL 1157 (mono) / CS 8048 (stereo)",
+  "style_primary": "cool-jazz",
+  "style_tags": [
+    "cool-jazz"
+  ],
+  "priority": "strong",
+  "epistemic": "obs",
+  "rationale": "The canon's most conspicuous single omission is the singer: 285 albums, no Billie Holiday. Lady in Satin is the Holiday record inside the window - her penultimate studio album, cut over three February 1958 sessions at Columbia 30th Street with Ray Ellis's orchestra, a year before her death. It carries independent-tradition consensus: Grammy Hall of Fame (2000) and No. 317 on Rolling Stone's 2020 500 Greatest Albums, with AllMusic 4.5/5, all recorded in S2's review-scores table (the other ratings S2 cites are the divided ones: Penguin Guide 3/4, 'a voyeuristic look at a beaten woman'; Rolling Stone Jazz Record Guide 2.5/5). That split is the honest shape of the case - the voice is nearly gone, the phrasing is not, and the record is argued here as a boundary case rather than smoothed. Personnel gravity is real: Mal Waldron, Milt Hinton, Osie Johnson, Barry Galbraith, J.J. Johnson and Urbie Green inside a 40-piece Ellis orchestra, with J.J. and Urbie taking documented solos. Boundary named for the council: Holiday's defining work is 1930s-40s and its centre of gravity sits at the bebop floor of this window; what earns the place is that this late album is the record through which the tradition keeps re-teaching her. Style taxonomy has no vocal-jazz code; filed cool-jazz, consistent with the canon's other 1950s vocal records (Chet Baker Sings, June Christy's Something Cool, Mel Torme).",
+  "sources": {
+    "S1": {
+      "title": "AllMusic - Lady in Satin (Billie Holiday), album page + review",
+      "type": "credits/review",
+      "url": "https://www.allmusic.com/album/lady-in-satin-mw0000660667"
+    },
+    "S2": {
+      "title": "Wikipedia - Lady in Satin (infobox release/studio/producer/engineer; review-scores table; Grammy Hall of Fame 2000; Rolling Stone 500 No. 317; Personnel section drawn from the 1958 and 1997 Legacy liner notes)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Lady_in_Satin"
+    },
+    "S3": {
+      "title": "Discogs release r15233143 - Billie Holiday With Ray Ellis And His Orchestra, Lady In Satin (credits: Ray Ellis arranged-by/conductor; soloist track assignments for J.J. Johnson, Urbie Green, Mel Davis)",
+      "type": "release credits",
+      "url": "https://www.discogs.com/release/15233143-Billie-Holiday-With-Ray-Ellis-And-His-Orchestra-Lady-In-Satin"
+    },
+    "S4": {
+      "title": "iTunes Lookup API - Lady In Satin, Columbia/Sony (collectionId 978824792)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/lookup?id=978824792"
+    },
+    "S5": {
+      "title": "MusicBrainz release group - Lady in Satin",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/cf7bc239-a3ba-3d87-80e5-261f750cb560"
+    },
+    "S6": {
+      "title": "Cover Art Archive - front cover for release group cf7bc239-a3ba-3d87-80e5-261f750cb560",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/cf7bc239-a3ba-3d87-80e5-261f750cb560/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-02-19",
+      "1958-02-20",
+      "1958-02-21"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1958-02-19",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1958-02-20",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1958-02-21",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Irving Townsend",
+    "engineer": "Fred Plaut",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Billie Holiday",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Lead vocals on all 12 songs."
+      },
+      {
+        "name": "Ray Ellis",
+        "instrument": "conductor",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "TAXONOMY GAP: 'conductor' is not in the project instrument taxonomy. S3 credits him 'Arranged By, Conductor'; S2 lists him as conductor and credits Claus Ogerman as arranger. He is the album's arranger of record on both discographic sources."
+      },
+      {
+        "name": "Claus Ogerman",
+        "instrument": "arranger",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "TAXONOMY GAP: 'arranger' is not in the instrument taxonomy. CONFLICT: S2's Personnel section credits Ogerman as arranger, while S3 credits Ray Ellis as arranger and conductor and does not list Ogerman at all. Both claims preserved; Ogerman's role marked unk."
+      },
+      {
+        "name": "Elise Bretton",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Backing vocals (choir). She is also credited as co-composer of 'For Heaven's Sake' on this album."
+      },
+      {
+        "name": "Miriam Workman",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Backing vocals (choir). S2 says the arrangements use 'a three-piece choir' but names only two backing singers."
+      },
+      {
+        "name": "Mal Waldron",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Barry Galbraith",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milt Hinton",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Osie Johnson",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Mel Davis",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Don't Know What Love Is",
+          "But Beautiful"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Documented trumpet soloist (S3 lists him on A3, B3; S2 names the same two titles)."
+      },
+      {
+        "name": "Billy Butterfield",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Ochner",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bernie Glow",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "J.J. Johnson",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I Get Along Without You Very Well",
+          "Violets for Your Furs",
+          "You've Changed",
+          "Glad to Be Unhappy"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Documented trombone soloist. S3 lists A4, A6, B1, B4; S2 names 'Glad to Be Unhappy' and 'I Get Along Without You Very Well'."
+      },
+      {
+        "name": "Urbie Green",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I'm a Fool to Want You",
+          "It's Easy to Remember",
+          "The End of a Love Affair"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Documented trombone soloist. S3 lists A1, B2, B6; S2 names A1 and B2."
+      },
+      {
+        "name": "Jack Green",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tom Mitchell",
+        "instrument": "bass trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [
+          "Tommy Mitchell"
+        ],
+        "notes": "S2 prints 'Tommy Mitchell'; the canon's person record is 'Tom Mitchell' - adopted here."
+      },
+      {
+        "name": "Danny Bank",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Phil Bodner",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Romeo Penque",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tom Parshley",
+        "instrument": "flute",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Ockner",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Violin and concertmaster."
+      },
+      {
+        "name": "Emanuel Green",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [
+          "Emmanual Green"
+        ],
+        "notes": "S2 prints 'Emmanual Green'; the canon's person record is 'Emanuel Green' - adopted here."
+      },
+      {
+        "name": "Harry Hoffman",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Harry Katzmann",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Leo Kruczek",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milton Lomask",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Harry Meinikoff",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "David Newman",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Samuel Rand",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "David Sarcer",
+        "instrument": "violin",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sid Brecher",
+        "instrument": "viola",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richard Dichler",
+        "instrument": "viola",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "David Soyer",
+        "instrument": "cello",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Maurice Brown",
+        "instrument": "cello",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Janet Putnam",
+        "instrument": "harp",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2"
+        ],
+        "name_variants": [
+          "Janet Putman"
+        ],
+        "notes": "S2 prints 'Janet Putman'; the canon's person record is 'Janet Putnam' - adopted here."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "I'm a Fool to Want You",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:23",
+        "session_date": null,
+        "composers": [
+          "Frank Sinatra",
+          "Joel Herron",
+          "Jack Wolf"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "Urbie Green"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "For Heaven's Sake",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:26",
+        "session_date": null,
+        "composers": [
+          "Elise Bretton",
+          "Sherman Edwards",
+          "Donald Meyer"
+        ],
+        "personnel": [
+          "Billie Holiday"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "You Don't Know What Love Is",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:48",
+        "session_date": null,
+        "composers": [
+          "Gene de Paul",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "Mel Davis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Get Along Without You Very Well",
+        "track_number": 4,
+        "side": "A",
+        "duration": "2:59",
+        "session_date": null,
+        "composers": [
+          "Hoagy Carmichael"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "J.J. Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "For All We Know",
+        "track_number": 5,
+        "side": "A",
+        "duration": "2:53",
+        "session_date": null,
+        "composers": [
+          "J. Fred Coots",
+          "Sam M. Lewis"
+        ],
+        "personnel": [
+          "Billie Holiday"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Violets for Your Furs",
+        "track_number": 6,
+        "side": "A",
+        "duration": "3:24",
+        "session_date": null,
+        "composers": [
+          "Tom Adair",
+          "Matt Dennis"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "J.J. Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "You've Changed",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:17",
+        "session_date": null,
+        "composers": [
+          "Bill Carey",
+          "Carl T. Fischer"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "J.J. Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "It's Easy to Remember",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:01",
+        "session_date": null,
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "Urbie Green"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "But Beautiful",
+        "track_number": 9,
+        "side": "B",
+        "duration": "4:29",
+        "session_date": null,
+        "composers": [
+          "Jimmy Van Heusen",
+          "Johnny Burke"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "Mel Davis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Glad to Be Unhappy",
+        "track_number": 10,
+        "side": "B",
+        "duration": "4:07",
+        "session_date": null,
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "J.J. Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'll Be Around",
+        "track_number": 11,
+        "side": "B",
+        "duration": "3:23",
+        "session_date": null,
+        "composers": [
+          "Alec Wilder"
+        ],
+        "personnel": [
+          "Billie Holiday"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "The End of a Love Affair",
+        "track_number": 12,
+        "side": "B",
+        "duration": "4:46",
+        "session_date": null,
+        "composers": [
+          "Edward Redding"
+        ],
+        "personnel": [
+          "Billie Holiday",
+          "Urbie Green"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "cf7bc239-a3ba-3d87-80e5-261f750cb560",
+    "apple_album_id": "1778110033",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/1f1bc14a-ff5c-3826-a944-f4694252d3fc/4411744905.jpg",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "CAA front image for release group cf7bc239 (release 1f1bc14a); design matches the 1958 Columbia cover shown in S2's infobox. Pressing not confirmed as the first edition."
+      }
+    ],
+    "notes": "Three sessions, February 19-21, 1958, all at Columbia 30th Street Studio, New York City (S2; the orchestra was paid for 'the three sessions'). Which song was cut on which of the three dates is not documented in any source reached, so track-level session_date is null throughout - recording_dates and recording_sites carry the sessions. Producer Irving Townsend and engineer Fred Plaut per S2. Personnel roster comes from S2's Personnel section (drawn from the original 1958 and the 1997 Legacy liner notes); S3 independently corroborates the arranger/conductor credit and the three soloist assignments, which are the only per-track personnel any source distinguishes - per-track membership of the 40-piece orchestra is not documented, so tracks list only the leader and the documented soloists, and track_assignments_complete is false. CONFLICT preserved: arranger (Ogerman per S2 vs. Ellis per S3) - Ogerman marked unk. TAXONOMY GAPS: 'conductor' (Ray Ellis) and 'arranger' (Claus Ogerman) are not instrument-taxonomy values. Name reconciliation: S2's 'Emmanual Green', 'Janet Putman' and 'Tommy Mitchell' are recorded under the canon's existing person spellings Emanuel Green, Janet Putnam and Tom Mitchell, with the source spellings kept in name_variants. Release details: Columbia CL 1157 mono / CS 8048 stereo, released June 1958; 'The End of a Love Affair' appears on the mono release only (S2). Two unheard items noticed but not asserted here: the 1997 Legacy reissue adds four bonus tracks (S2), and the 2015 Centennial Edition expands the sessions to three CDs (S2) - neither is reflected in this record."
+  },
+  "ballot": {
+    "album": "Billie Holiday — Lady in Satin (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded and released within the 1945–1985 window. The boundary is representational: Holiday’s defining work predates the window, and the canon has no vocal-jazz style code, so this album is filed as cool-jazz despite its orchestral vocal-ballad character."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album has meaningful cross-tradition recognition: the dossier records its Grammy Hall of Fame induction, Rolling Stone 500 placement, and AllMusic 4.5/5 rating (S1, S2). It documents Holiday’s late-period artistry, with Mal Waldron, Milt Hinton, Osie Johnson, and Barry Galbraith anchoring the session and J.J. Johnson and Urbie Green among the documented soloists (S2, S3). As a prominent in-window Holiday record, it offers a compelling, emotionally direct encounter with a singer otherwise absent from the canon.",
+    "case_against": "Its reception among jazz critics is sharply divided: the dossier cites Penguin Guide’s 3/4 rating and ethical objection, alongside the Rolling Stone Jazz Record Guide’s 2.5/5 (S2). Holiday’s voice is severely diminished, while the lush orchestral and choral arrangements can overwhelm the small-group intimacy and rhythmic suppleness central to her earlier work; the rubric’s discovery test therefore remains a genuine question. This is also a selection problem, not merely a scope problem: other in-window Holiday albums, including Lady Sings the Blues, could make a stronger case as her representative entry.",
+    "disagreement": "Both references favor a contested, strong verdict, but differ in emphasis: one stresses that this album’s claim over other in-window Holiday records is not settled, while the other treats it more confidently as the defining document of her late-period emotional power. They also frame the vocal-jazz taxonomy gap differently: as a procedural filing problem versus a deeper mismatch with the cool-jazz label.",
+    "recommendation": "John should consider this as a strong but contested Holiday entry, weighing its late-career significance against the critical split and the case for an alternative in-window album.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
