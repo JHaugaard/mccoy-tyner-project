@@ -1,0 +1,1206 @@
+{
+  "id": "ray-charles-genius-soul-jazz-1961",
+  "artist": "Ray Charles",
+  "album": "Genius + Soul = Jazz",
+  "year": 1961,
+  "label": "Impulse!",
+  "catalog_number": "Impulse! A-2 (mono) / A-2-S (stereo)",
+  "style_primary": "soul-jazz",
+  "style_tags": [
+    "jazz-blues"
+  ],
+  "rationale": "Genius + Soul = Jazz is the record that launched Impulse! — ABC-Paramount's second release on the new Creed Taylor imprint — and the date that fixed the organ-plus-big-band soul-jazz formula. Ray Charles plays Hammond B3 on every track, fronting two overlapping big bands drawn from Count Basie's orchestra (Freddie Green, Eddie Jones, Sonny Payne, Frank Foster, Frank Wess, Charlie Fowlkes, Snooky Young, Thad Jones, Joe Newman, Henry Coker, Al Grey, Benny Powell) and from New York's first-call session players (Clark Terry, Urbie Green, Jimmy Cleveland, Joe Wilder, Jimmy Nottingham, Roy Haynes, Joe Benjamin, Budd Johnson, Seldon Powell, Sam Herman), with brass and reed charts by Quincy Jones and Ralph Burns [S2, S3, S8] (obs). Consensus signals: inducted into the Grammy Hall of Fame in 2011 and voted No. 360 in Colin Larkin's All Time Top 1000 Albums [S2] (obs); AllMusic's own page files it under Soul Jazz and Jazz Blues, and the review-score table records AllMusic at 4.5/5 [S1, S2] (obs); Jazz Journal's 2023 review closes by awarding it five ('It's straight-ahead stuff, nothing innovative, but just good, solid jazz and blues, played by masters') [S9] (obs). Chart evidence in the record itself: No. 4 on Billboard's Top LPs in the issue of 2 April 1961, in a forty-eight-week run [S2] (obs). Session gravity: the 26 December ensemble IS the Basie rhythm section with Charles at the organ; the 27 December ensemble is Basie's bookends plus New York's first-call brass, and both sessions are documented with per-track assignments and per-instrument splits [S2, S3] (obs). Discovery value: 'One Mint Julep' — Charles comping behind the band instead of singing over it — is the two-minute argument for the whole record, and the album is the load-bearing link between the Basie records already in this canon and the soul-jazz organ tradition that follows [S1, S2, S9] (inf). Scope note: recorded December 1960, released February 1961 — squarely inside the 1945–1985 window; style code soul-jazz follows AllMusic's own classification of the record (its primary genre listing is R&B/Blues, styles include Soul Jazz and Jazz Blues) [S1] (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic — Ray Charles: Genius + Soul = Jazz (mw0000837772), full Credits tab",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/genius-soul--jazz-mw0000837772"
+    },
+    "S2": {
+      "title": "Wikipedia — Genius + Soul = Jazz",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Genius_%2B_Soul_%3D_Jazz"
+    },
+    "S3": {
+      "title": "Discogs — Ray Charles: Genius + Soul = Jazz, Impulse! A-2 (release r12433966), full credit list with track ranges",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/12433966-Ray-Charles-Genius-Soul-Jazz"
+    },
+    "S4": {
+      "title": "MusicBrainz — release group 689780c3-34fa-31b6-9c0b-e9de074b2095",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/689780c3-34fa-31b6-9c0b-e9de074b2095"
+    },
+    "S5": {
+      "title": "Cover Art Archive — front cover, release group 689780c3-34fa-31b6-9c0b-e9de074b2095",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/689780c3-34fa-31b6-9c0b-e9de074b2095"
+    },
+    "S6": {
+      "title": "All About Jazz — C. Michael Bailey, 'Ray Charles: Genius + Soul = Jazz' (recording studio)",
+      "type": "review",
+      "url": "https://www.allaboutjazz.com/ray-charles-genius--soul--jazz-by-c-michael-bailey"
+    },
+    "S7": {
+      "title": "Rock & Roll Hall of Fame catalog record 200013961 — 'Recorded at Van Gelder Studios, Englewood Cliffs, N.J., Dec. 26, 1960'",
+      "type": "catalog",
+      "url": "https://catalog.rockhall.com/rrhof-ais/Details/fullCatalogue/200013961"
+    },
+    "S8": {
+      "title": "Ray Charles Video Museum — session notes and Creed Taylor quotes on the Van Gelder dates and the organ",
+      "type": "other",
+      "url": "http://raycharlesvideomuseum.blogspot.com/2010/01/genius-soul-jazz.html"
+    },
+    "S9": {
+      "title": "Jazz Journal — Derek Ansell, 'Ray Charles: Genius + Soul = Jazz' (15 March 2023), discography lists 'NYC, 26, 27 December 1960'",
+      "type": "review",
+      "url": "https://jazzjournal.co.uk/2023/03/15/ray-charles-genius-soul-jazz/"
+    },
+    "S10": {
+      "title": "iTunes Search API — queries for 'Genius Soul Jazz', 'Genius Plus Soul Equals Jazz' and 'One Mint Julep' returned no album match (no Apple Music copy of this album in the US store)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Genius+Plus+Soul+Equals+Jazz&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-12-26",
+      "1960-12-27"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1960-12-26",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1960-12-27",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Creed Taylor",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Ray Charles",
+        "instrument": "organ",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-26",
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; Hammond B3 organ throughout (S2, S3, S9). Sings on 'I've Got News for You' and 'I'm Gonna Move to the Outskirts of Town' only (S3, S9). Wikipedia and AllMusic also credit piano (S1, S2); Discogs' full credit list and Jazz Journal name organ only (S3, S9), so piano is not recorded here."
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-26",
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Both sessions; Discogs lists him without a track restriction (S3). Quincy Jones recruited him to contract the dates (S8)."
+      },
+      {
+        "name": "Phillip Guilbeau",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-26",
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Both sessions; no track restriction in the Discogs credit list (S3)."
+      },
+      {
+        "name": "Thad Jones",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Newman",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Snooky Young",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Eugene Young"
+        ],
+        "notes": "Discogs and AllMusic credit him as 'Eugene Young'; Wikipedia gives 'Snooky Young' — same player, trumpet (S1, S2, S3)."
+      },
+      {
+        "name": "Jimmy Nottingham",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Wilder",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Frosk",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Urbie Green",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-26",
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Both sessions; the only trombonist credited without a track restriction (S3)."
+      },
+      {
+        "name": "Henry Coker",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Al Grey",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Benny Powell",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Cleveland",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Keg Johnson",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Matthews",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Marshal Royal",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Marshall Royal"
+        ],
+        "notes": "Discogs and AllMusic spell him 'Marshall Royal' (S1, S3)."
+      },
+      {
+        "name": "Frank Wess",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Dorsey",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Earle Warren",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frank Foster",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Mitchell",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Budd Johnson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Seldon Powell",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Fowlkes",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Charles Fowlkes"
+        ],
+        "notes": "Wikipedia links him as Charles Fowlkes (S2)."
+      },
+      {
+        "name": "Haywood Henry",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Freddie Green",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Freddy Green"
+        ],
+        "notes": "Basie's guitarist; Discogs renders 'Freddy Green' (S3)."
+      },
+      {
+        "name": "Sam Herman",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eddie Jones",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Eddy Jones"
+        ],
+        "notes": "Basie's bassist; Discogs credits 'Eddy Jones' (S3)."
+      },
+      {
+        "name": "Joe Benjamin",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sonny Payne",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "From the Heart",
+          "I've Got News for You",
+          "Moanin'",
+          "Stompin' Room Only",
+          "Mister C",
+          "Strike Up the Band"
+        ],
+        "session_dates": [
+          "1960-12-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Let's Go",
+          "One Mint Julep",
+          "I'm Gonna Move to the Outskirts of Town",
+          "Birth of the Blues"
+        ],
+        "session_dates": [
+          "1960-12-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "From the Heart",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:30",
+        "session_date": "1960-12-26",
+        "composers": [
+          "Ray Charles"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Thad Jones",
+          "Joe Newman",
+          "Snooky Young",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Billy Mitchell",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I've Got News for You",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:28",
+        "session_date": "1960-12-26",
+        "composers": [
+          "Roy Alfred"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Thad Jones",
+          "Joe Newman",
+          "Snooky Young",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Billy Mitchell",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Moanin'",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:14",
+        "session_date": "1960-12-26",
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Thad Jones",
+          "Joe Newman",
+          "Snooky Young",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Billy Mitchell",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Let's Go",
+        "track_number": 4,
+        "side": "A",
+        "duration": "2:39",
+        "session_date": "1960-12-27",
+        "composers": [
+          "Ray Charles"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "John Frosk",
+          "Jimmy Cleveland",
+          "Keg Johnson",
+          "George Matthews",
+          "George Dorsey",
+          "Earle Warren",
+          "Budd Johnson",
+          "Seldon Powell",
+          "Haywood Henry",
+          "Sam Herman",
+          "Joe Benjamin",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "One Mint Julep",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:02",
+        "session_date": "1960-12-27",
+        "composers": [
+          "Rudolph Toombs"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "John Frosk",
+          "Jimmy Cleveland",
+          "Keg Johnson",
+          "George Matthews",
+          "George Dorsey",
+          "Earle Warren",
+          "Budd Johnson",
+          "Seldon Powell",
+          "Haywood Henry",
+          "Sam Herman",
+          "Joe Benjamin",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'm Gonna Move to the Outskirts of Town",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:38",
+        "session_date": "1960-12-27",
+        "composers": [
+          "Andy Razaf",
+          "Casey Bill Weldon"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "John Frosk",
+          "Jimmy Cleveland",
+          "Keg Johnson",
+          "George Matthews",
+          "George Dorsey",
+          "Earle Warren",
+          "Budd Johnson",
+          "Seldon Powell",
+          "Haywood Henry",
+          "Sam Herman",
+          "Joe Benjamin",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Stompin' Room Only",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:35",
+        "session_date": "1960-12-26",
+        "composers": [
+          "Howard Marks"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Thad Jones",
+          "Joe Newman",
+          "Snooky Young",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Billy Mitchell",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mister C",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:28",
+        "session_date": "1960-12-26",
+        "composers": [
+          "Ray Charles"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Thad Jones",
+          "Joe Newman",
+          "Snooky Young",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Billy Mitchell",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Strike Up the Band",
+        "track_number": 9,
+        "side": "B",
+        "duration": "2:35",
+        "session_date": "1960-12-26",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Thad Jones",
+          "Joe Newman",
+          "Snooky Young",
+          "Henry Coker",
+          "Al Grey",
+          "Benny Powell",
+          "Marshal Royal",
+          "Frank Wess",
+          "Frank Foster",
+          "Billy Mitchell",
+          "Charlie Fowlkes",
+          "Freddie Green",
+          "Eddie Jones",
+          "Sonny Payne"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Birth of the Blues",
+        "track_number": 10,
+        "side": "B",
+        "duration": "5:05",
+        "session_date": "1960-12-27",
+        "composers": [
+          "Buddy G. DeSylva",
+          "Lew Brown",
+          "Ray Henderson"
+        ],
+        "personnel": [
+          "Ray Charles",
+          "Clark Terry",
+          "Phillip Guilbeau",
+          "Urbie Green",
+          "Jimmy Nottingham",
+          "Joe Wilder",
+          "John Frosk",
+          "Jimmy Cleveland",
+          "Keg Johnson",
+          "George Matthews",
+          "George Dorsey",
+          "Earle Warren",
+          "Budd Johnson",
+          "Seldon Powell",
+          "Haywood Henry",
+          "Sam Herman",
+          "Joe Benjamin",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "689780c3-34fa-31b6-9c0b-e9de074b2095",
+    "apple_album_id": null,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/ed2c1875-5441-3538-bd46-dc6af4c38c36/13952705026.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover from the MusicBrainz release group; matches the 1961 Impulse! A-2 sleeve."
+      }
+    ],
+    "notes": "Two sessions, eight days before the decade turned: 26 December 1960 (tracks 1, 2, 3, 7, 8, 9 — LP sides A1-A3, B2-B4) and 27 December 1960 (tracks 4, 5, 6, 10 — A4, A5, B1, B5). The per-session split is consistent across Wikipedia (S2), Discogs' track-range credits (S3) and Jazz Journal (S9). PRODUCER/ENGINEER: Creed Taylor is credited as producer by every source (S1, S3, S7, S8) — that claim is obs. No source names an engineer; the engineer entry 'Rudy Van Gelder' is the contract's documented inference for a Van Gelder Studio date of this period, hence epistemic_production 'inf' rather than 'obs'. STUDIO CONFLICT, preserved: Wikipedia (S2), All About Jazz (S6), the Rock Hall catalog record (S7) and the session notes at the Ray Charles Video Museum (S8, with Creed Taylor describing Rudy Van Gelder doctoring the Hammond's keys for the date) all place the sessions at Van Gelder Studio, Englewood Cliffs; Jazz Journal's discography prints 'NYC, 26, 27 December 1960' (S9). Four sources to one, and the Creed Taylor account is first-hand, so the site is recorded as Van Gelder Studio with epistemic 'obs'; the Jazz Journal wording is the dissent, not a co-equal claim. Ray Charles plays organ on all ten tracks and sings on two ('I've Got News for You', 'I'm Gonna Move to the Outskirts of Town') — that singing split is Discogs' (S3) and Jazz Journal's (S9) shared account. Wikipedia and AllMusic also credit him with piano (S1, S2); Discogs' instrument-by-instrument credit list names only organ (S3), and no source assigns piano to a track, so piano is not carried as an instrument row. PERSONNEL UNION: 32 players across the two bands, matching the count on the album's credit summary (S3, S10). AllMusic (S1) carries two credits that do not match the other sources: 'Dick Katz — Piano' and 'Eugene Young — Trumpet'. The Discogs credit list has Dick Katz as the liner-note writer, and jazzcodex's credit summary agrees (Liner Notes, Sleeve Notes); 'Eugene Young' is Snooky Young, who is on the 26 December band. Dick Katz is therefore NOT recorded as a pianist here, and the AllMusic piano credit is flagged rather than copied. ARRANGERS, conflicting and unresolved: Wikipedia's track table (S2) and the session notes at the Ray Charles Video Museum (S8) credit Quincy Jones on tracks 1, 3, 5, 6, 9 and Ralph Burns on 2, 4, 7, 8, 10; Discogs' per-track arranger credits (S3) reverse the last three, giving Jones 1, 3, 5, 6, 7, 8 and Burns 2, 4, 9, 10. Arranger is not a personnel role in this record's taxonomy, so the disagreement is recorded here and not resolved. TAKES AND REISSUES: the original Impulse! LP is ten tracks (36:14 per Wikipedia, S2; AllMusic prints 37:06, S1 — variance noted, Wikipedia's timings recorded). Later editions add three 23 June 1959 vocal selections outside this record's two sessions (S9); they are not carried. TRACK ORDER: sides as on the original LP (A1-A5, B1-B5)."
+  },
+  "ballot": {
+    "album": "Ray Charles — Genius + Soul = Jazz (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The album is within the year window and soul-jazz is admissible; an idiomatic boundary is still in play because its R&B/pop crossover identity complicates how centrally it represents post-bebop jazz."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The case combines meaningful recognition—the Grammy Hall of Fame induction, Larkin ranking, strong AllMusic and Jazz Journal reviews, and a No. 4 Billboard peak—with exceptional session gravity: Charles leads Basie-associated players and New York first-call musicians in arrangements credited to Quincy Jones and Ralph Burns (S1–S3, S9). As Impulse! A-2, it is an early label anchor and a vivid, accessible showcase for Charles’s Hammond B3; “One Mint Julep” demonstrates the instrumental jazz-blues appeal even though Charles sings on only two tracks (S2, S3, S9).",
+    "case_against": "The evidence does not establish overwhelming standing in core jazz criticism: the dossier lacks a Penguin Guide signal, while chart success and Larkin’s broad album ranking may reflect Charles’s crossover fame as much as jazz-canon status. Jazz Journal’s praise is qualified as “nothing innovative,” and the claim that this record fixed or materially shaped the organ-plus-big-band formula is stronger than the documented lineage evidence; earlier organ-led ensemble traditions make consolidation a more defensible description. Its vocal R&B material and comparatively secondary improvisation leave a genuine question about whether it is a load-bearing post-bebop statement rather than an enjoyable crossover date.",
+    "disagreement": "Both references judge the album contested, but they differ on urgency: Reference 1 rates it strong on session gravity and Impulse! anchor status, while Reference 2 recommends consider, emphasizing its softer standing in core jazz criticism and uncertain post-bebop lineage. They also differ in how much weight to give the jazz/R&B crossover boundary, though neither treats it as a formal scope exclusion.",
+    "recommendation": "John should weigh this as a strong but genuinely contested candidate, with its jazz merits judged separately from Charles’s crossover stature.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

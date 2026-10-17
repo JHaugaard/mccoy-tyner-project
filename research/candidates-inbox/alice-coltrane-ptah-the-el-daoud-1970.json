@@ -1,0 +1,408 @@
+{
+  "id": "alice-coltrane-ptah-the-el-daoud-1970",
+  "artist": "Alice Coltrane",
+  "album": "Ptah, the El Daoud",
+  "year": 1970,
+  "label": "Impulse!",
+  "catalog_number": "Impulse! AS-9196",
+  "style_primary": "modal-jazz",
+  "style_tags": [
+    "spiritual-jazz",
+    "post-bop"
+  ],
+  "rationale": "Ptah, the El Daoud is Alice Coltrane's third Impulse! album and the record on which the post-Coltrane modal idiom arrives as a full ensemble: four long pieces, all hers, played by a quintet that puts Pharoah Sanders and Joe Henderson in the same room on tenors and paired alto flutes, over Ron Carter and Ben Riley, with Coltrane herself moving between piano and harp [S1, S2, S4] (obs). Consensus signals: the Penguin Guide gives it 3/4 stars and a warm notice — 'the title-piece is a rippling essay in transcendence, the paired horns coming from quite different directions... Their doubling on alto flute on Blue Nile is magnificent' [S2] (obs); DownBeat gave it 3/5 on release in January 1971 and the Rolling Stone Jazz & Blues Album Guide 3.5/5 [S2] (obs); AllMusic rates it 4.5/5 and calls it 'a truly great album' [S1] (obs); Pitchfork's retrospective credits 'some of [Coltrane's] greatest piano playing on record' [S7] (obs); JazzIz placed it among its five essential albums of 1970 [S8] (obs); and Grammy.com's fiftieth-anniversary feature gathers tributes from Steve Holtje and Melvin Gibbs, Holtje filing it in the lineage of DIY recording — 'a Black female artist taking control of her music' [S9] (obs). Session gravity: the date's value is the pairing — Sanders (right channel) and Henderson (left) as the two loudest post-Coltrane tenors, with Carter, the bassist of the canon's *Karma* and *Journey in Satchidananda*, underneath [S2, S4] (obs). Lineage: the album sits directly between two records already in this canon, Sanders's *Karma* (1969) and Coltrane's *Journey in Satchidananda* (1970), and shares its room — the studio in the basement of the Coltrane home in Dix Hills [S4] (inf). Discovery value: 'Turiya and Ramakrishna', an eight-minute piano-trio blues, is the door in for a listener who does not yet know the idiom, and 'Blue Nile' is the harp-and-flutes piece the guides single out [S1, S2] (obs). Scope note: recorded January 1970, deep inside the 1945–1985 window; style code modal-jazz follows AllMusic's own tag — 'Modal Music' — and the canon's existing tag for *Journey in Satchidananda* [S1] (obs). There is no genre boundary to argue here; the modal/avant-garde border is not in question for a record this grounded in blues and changes.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic — Alice Coltrane: Ptah, The El Daoud (mw0000612205), full Credits tab and Stacia Proefrock review",
+      "type": "overview/credits",
+      "url": "https://www.allmusic.com/album/ptah-the-el-daoud-mw0000612205"
+    },
+    "S2": {
+      "title": "Wikipedia — Ptah, the El Daoud (personnel per the Impulse! AS-9196 liner notes; review-score table)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Ptah,_the_El_Daoud"
+    },
+    "S3": {
+      "title": "MusicBrainz — release group fff2cc9b-1747-321d-8dff-6addb7c3ce96",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/fff2cc9b-1747-321d-8dff-6addb7c3ce96"
+    },
+    "S4": {
+      "title": "JazzDisco.org — Impulse! Records discography 1969-1970, Alice Coltrane Quintet session 91141-91144",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/impulse-records/discography-1969-1970/"
+    },
+    "S5": {
+      "title": "Apple Music / iTunes Search API — Alice Coltrane: Ptah the El Daoud (collectionId 1440756392)",
+      "type": "streaming",
+      "url": "https://music.apple.com/us/album/ptah-the-el-daoud/1440756392"
+    },
+    "S6": {
+      "title": "Cover Art Archive — front cover, release group fff2cc9b-1747-321d-8dff-6addb7c3ce96",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/fff2cc9b-1747-321d-8dff-6addb7c3ce96"
+    },
+    "S7": {
+      "title": "Pitchfork — Mark Richardson, 'Universal Mother' (16 January 2007)",
+      "type": "review",
+      "url": "https://pitchfork.com/features/article/6522-universal-mother"
+    },
+    "S8": {
+      "title": "JazzIz — Matt Micucci, 'Year By Year: Five Essential Albums of 1970'",
+      "type": "reference",
+      "url": "https://www.jazziz.com/year-by-year-five-essential-albums-of-1970"
+    },
+    "S9": {
+      "title": "Grammy.com — Morgan Enos, ''Ptah, The El Daoud' At 50: How Alice Coltrane Straddled Heaven And Earth' (30 December 2020)",
+      "type": "reference",
+      "url": "https://www.grammy.com/news/alice-coltrane-ptah-el-daoud-50-year-anniversary"
+    },
+    "S10": {
+      "title": "Alice Coltrane official site — Ptah the El Daoud album page",
+      "type": "other",
+      "url": "https://www.alicecoltrane.com/ptah-the-el-daoud"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-01-26"
+    ],
+    "multi_session": false,
+    "studio": "Coltrane home studio (studio at the Coltrane home), Dix Hills, NY",
+    "recording_sites": [
+      {
+        "session_date": "1970-01-26",
+        "site_raw": "The studio at the Coltrane home, Dix Hills, NY (JazzDisco); 'Coltrane Home Studio, Dix Hills, NY' (AllMusic)",
+        "site_slug": "coltrane-home-dix-hills",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Ed Michel",
+    "engineer": "W.L. Barneke",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Alice Coltrane",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ptah, the El Daoud",
+          "Turiya and Ramakrishna",
+          "Mantra"
+        ],
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader and composer of all four pieces. Piano on 'Ptah, the El Daoud', 'Turiya and Ramakrishna' and 'Mantra' (S2, S4); the harp entry below covers 'Blue Nile'."
+      },
+      {
+        "name": "Alice Coltrane",
+        "instrument": "harp",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blue Nile"
+        ],
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Switches from piano to harp for 'Blue Nile' (S2 records piano on 1, 2, 4 and harp on 3; S1 credits Harp and Piano with no track split). The Penguin Guide singles out the harp-and-two-flutes texture of this piece (S2)."
+      },
+      {
+        "name": "Pharoah Sanders",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ptah, the El Daoud",
+          "Mantra"
+        ],
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Tenor on 'Ptah, the El Daoud' and 'Mantra'; recorded on the right channel throughout, with Joe Henderson on the left (S2, quoting the liner notes). Doubles on alto flute (see the flute entry) and on bells."
+      },
+      {
+        "name": "Pharoah Sanders",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blue Nile"
+        ],
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Alto flute on 'Blue Nile' — the taxonomy has no 'alto flute' string, so the closest term is recorded and the doubling is named here. The Penguin Guide calls the paired alto flutes on this piece 'magnificent' (S2)."
+      },
+      {
+        "name": "Pharoah Sanders",
+        "instrument": "percussion",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bells. Wikipedia credits 'bells' with no track restriction (S2); AllMusic credits 'Bells, Percussion' (S1) and its review hears 'hushed bells' under Coltrane's 'Turiya and Ramakrishna' solo (S1). Per-track scope therefore left unknown rather than claimed."
+      },
+      {
+        "name": "Joe Henderson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ptah, the El Daoud",
+          "Mantra"
+        ],
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Tenor on 'Ptah, the El Daoud' and 'Mantra'; left channel (S2, quoting the liner notes). Doubles on alto flute (see the flute entry). AllMusic's review calls this 'freer, more open, and more fluid here than nearly anywhere else' in his work (S1)."
+      },
+      {
+        "name": "Joe Henderson",
+        "instrument": "flute",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blue Nile"
+        ],
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Alto flute on 'Blue Nile' (S1, S2, S4); taxonomy records it as flute with the doubling named here."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bass throughout; credited as 'Guest Artist' by AllMusic (S1). His riff under the title track is the record's spine (S1)."
+      },
+      {
+        "name": "Ben Riley",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Drums throughout (S1, S2, S4)."
+      },
+      {
+        "name": "Chuck Stewart",
+        "instrument": "percussion",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": [
+          "1970-01-26"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bells. AllMusic credits him with 'Bells, Photography' (S1) and JazzDisco's session list names him 'photographer, occasional bells' (S4); Wikipedia's personnel section omits him entirely (S2). He was the session photographer, so the claim is carried at one level more uncertain rather than dropped."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Ptah, the El Daoud",
+        "track_number": 1,
+        "side": "A",
+        "duration": "13:59",
+        "session_date": "1970-01-26",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Joe Henderson",
+          "Ron Carter",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Turiya and Ramakrishna",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:19",
+        "session_date": "1970-01-26",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Ron Carter",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Blue Nile",
+        "track_number": 3,
+        "side": "B",
+        "duration": "7:02",
+        "session_date": "1970-01-26",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Joe Henderson",
+          "Ron Carter",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Mantra",
+        "track_number": 4,
+        "side": "B",
+        "duration": "16:36",
+        "session_date": "1970-01-26",
+        "composers": [
+          "Alice Coltrane"
+        ],
+        "personnel": [
+          "Alice Coltrane",
+          "Pharoah Sanders",
+          "Joe Henderson",
+          "Ron Carter",
+          "Ben Riley"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "fff2cc9b-1747-321d-8dff-6addb7c3ce96",
+    "apple_album_id": "1440756392",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/5c18f9b1-f3c2-4458-ae19-685c6bc0879f/15659075653.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover from the MusicBrainz release group; artwork by Jim Evans (S2)."
+      }
+    ],
+    "notes": "One session: 26 January 1970, in the studio in the basement of the Coltrane home in Dix Hills, New York — the same canonical place (coltrane-home-dix-hills) that carries the canon's Journey in Satchidananda sessions. AllMusic states the location directly ('Recording Location: Coltrane Home Studio, Dix Hills, NY', S1) and JazzDisco's session list gives 'The studio at the Coltrane home, Dix Hills, NY' (S4); the two agree, so the site carries epistemic 'obs'. Instruments: Alice Coltrane is on piano for tracks 1, 2 and 4 and harp for track 3 (S2); Sanders and Henderson each play tenor on 1 and 4 and alto flute on 3 (S2, S4), with Sanders recorded right and Henderson left (S2, quoting the liner notes). The taxonomy has no 'alto flute' string, so those doubling entries are carried as 'flute' with the instrument named in notes; 'bells' is carried as 'percussion' on the same principle. Chuck Stewart, the session photographer, is credited with bells by AllMusic (S1) and named 'photographer, occasional bells' by JazzDisco (S4); Wikipedia's personnel section omits him (S2). He is kept as a percussion entry at epistemic 'unk' rather than dropped, because two sources name him playing and neither describes him as a band member. Production: Ed Michel is credited as producer by Wikipedia (S2) and AllMusic (S1); W.L. Barneke is credited as engineer by AllMusic (S1) — no source consulted contradicts either, so production carries 'obs'. Durations, recorded rather than reconciled: Wikipedia gives 13:59 / 8:19 / 7:02 / 16:36 for 45:56 (S2); AllMusic gives 13:58 / 8:19 / 6:58 / 16:33 for 45:48 (S1); Apple Music lists the four-track album (S5). Wikipedia's timings are recorded above. Sides as on the original Impulse! LP AS-9196: A1 Ptah, the El Daoud; A2 Turiya and Ramakrishna; B1 Blue Nile; B2 Mantra. No bonus tracks, alternates or reissue-only performances are carried. Titles are given as the original release prints them; the album is also written 'Ptah the El Daoud' without the comma in streaming and reissue metadata (S1, S5). TRACK ASSIGNMENT, corrected after the council review: 'Turiya and Ramakrishna' is a piano trio. Wikipedia's per-instrument, per-track personnel (S2) places Sanders and Henderson on tracks 1 and 4 (tenor) and track 3 (alto flute) only, so they are not carried on track 2; AllMusic's review nonetheless hears 'hushed bells' under Coltrane's solo there (S1), and because Sanders's bells are credited by Wikipedia and AllMusic without any track restriction (S1, S2), his coverage on that piece is left unassigned. For the same reason track_assignments_complete is set false: Sanders's bells, and Chuck Stewart's occasional bells (S1, S4), are documented as present without a documented track."
+  },
+  "ballot": {
+    "album": "Alice Coltrane — Ptah, the El Daoud (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album is a defining ensemble statement by Alice Coltrane, pairing her piano and harp with Pharoah Sanders and Joe Henderson, backed by Ron Carter and Ben Riley; the Penguin Guide praises the paired flutes on “Blue Nile,” and Pitchfork highlights Coltrane’s piano playing (S2, S7). Its Dix Hills session and personnel connect it directly to the late-Coltrane lineage represented by Sanders’s *Karma* and Coltrane’s *Journey in Satchidananda* (S4). “Turiya and Ramakrishna” offers an accessible blues entry point, while AllMusic, JazzIz, and Grammy.com add retrospective support (S1, S8, S9).",
+    "case_against": "The evidence supports a major record, but not an undisputed top-tier consensus: DownBeat’s original rating was 3/5, the Penguin Guide gives it 3/4 without core-collection designation, and the dossier cites no NPR, JazzTimes, or anthology status (S2). It has also lived in the shadow of *Journey in Satchidananda*, while some of its strongest endorsements are retrospective rather than contemporary. The structured track personnel list appears to place Sanders and Henderson on every track, conflicting with the notes’ track-specific assignments; that discrepancy should be corrected before publication.",
+    "disagreement": "One reference judges the strong lineage, session gravity, and broad support sufficient for consensus_core; the other finds the historical consensus too modest and calls it contested. The council preserves that split as contested.",
+    "recommendation": "Treat it as a strong, in-scope but contested candidate, and reconcile the track-level personnel assignments before publication.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}
