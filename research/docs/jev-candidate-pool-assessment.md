@@ -1,9 +1,6 @@
 # Jev and the Curated Candidate Pool — an assessment
 
-Prepared 2026-10-19 by McCoy, at the curator's request. Status:
-study document — no changes to any pipeline, configuration, or
-cron job are proposed for execution without the curator's
-explicit ruling. Nothing in this document has been built.
+Prepared 2026-10-19 by McCoy, at the curator's request. Status: study document — no changes to any pipeline, configuration, or cron job are proposed for execution without the curator's explicit ruling. Nothing in this document has been built.
 
 ---
 
@@ -121,6 +118,16 @@ Design principles:
 4. **Every stage is reversible and independently valuable.**
    The universe table alone is a project asset even if the
    experiment stops there.
+5. **Harvest window-agnostic; filter at draw time** (curator's
+   point, 2026-10-19). The source dumps cover all years at equal
+   cost, so the universe table carries every jazz album with year
+   as a plain column — no rubric window baked into the data.
+   The pool draw applies the current window as a live filter,
+   exactly as check-candidate.py reads the rubric each run. A
+   window move (e.g. 1985 → 1990) then costs one rubric edit
+   plus one small Jev triage pass over the newly admitted years
+   only — no re-enumeration, ever. The window is movable
+   scaffolding; the harvested data must not harden around it.
 
 ## 5. Feasibility and cost (estimates, labeled)
 
