@@ -1,0 +1,295 @@
+{
+ "id": "larry-young-into-somethin-1964",
+ "artist": "Larry Young",
+ "album": "Into Somethin'",
+ "year": 1964,
+ "label": "Blue Note",
+ "catalog_number": "Blue Note BLP 4187 / BST 84187",
+ "style_primary": "hard-bop",
+ "style_tags": [
+  "modal-jazz",
+  "soul-jazz"
+ ],
+ "rationale": "The record where the Hammond organ stops being Jimmy Smith's instrument and becomes a modal one. Larry Young's Blue Note debut, cut in a single session on 12 November 1964 with Sam Rivers, Grant Green and Elvin Jones \u2014 the quartet that made 'Tyrone', 'Plaza De Toros' and 'Paris Eyes' the template for the organ's move out of soul-jazz vamping into Coltrane-shaped modal improvisation [S1, S2] (obs). Defining statement: Scott Yanow's AllMusic review says it directly \u2014 Young 'took a big step away from the organ's dominant influence ... showing that Young was quite aware of John Coltrane's modal excursions' [S1] (obs). Consensus signals, all from Wikipedia's review-score table: AllMusic 4.5/5, Down Beat 4/5, The Penguin Guide to Jazz Recordings 3.5/5 [S2] (obs). Session gravity: Rivers, Green and Jones all appear elsewhere in this canon, and the date puts three of the era's most distinctive voices behind an organist nobody had yet learned to hear modally [S1, S2] (inf). Lineage: it is the direct predecessor of Unity (1965), already in this canon, where Young took the same idea to its limit with Coltrane's rhythm section \u2014 'Into Somethin'' is the record that makes Unity legible [S1, S2] (inf). It still plays: 'Tyrone' is a 24-bar blues waltz with a Green solo that is worth the album on its own [S1] (inf). Not oversold: this is a 4.5-star record in one guide, not a consensus core, and Penguin sits at 3.5 \u2014 the case is the lineage argument, not unanimity. Scope note: recorded 12 November 1964, released by Blue Note in 1965; AllMusic dates the album 1964 and the original US pressings are 1965 (S3's release list), so the canon year is the recording year, 1964 (obs).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "AllMusic \u2014 Larry Young: Into Somethin' (mw0000032685), review by Scott Yanow, recording date and location",
+   "type": "overview/credits",
+   "url": "https://www.allmusic.com/album/into-somethin-mw0000032685"
+  },
+  "S2": {
+   "title": "Wikipedia \u2014 Into Somethin' (personnel, track listing with track-level saxophone scope, review-score table citing AllMusic, Down Beat and the Penguin Guide)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Into_Somethin%27"
+  },
+  "S3": {
+   "title": "Discogs \u2014 Larry Young: Into Somethin', master 379721 (credits, release history and original pressing years)",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/379721"
+  },
+  "S4": {
+   "title": "MusicBrainz \u2014 release group 3fefcc20-2039-3fb3-8619-d32fb2cecfb3",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/3fefcc20-2039-3fb3-8619-d32fb2cecfb3"
+  },
+  "S5": {
+   "title": "Cover Art Archive \u2014 front cover, release group 3fefcc20-2039-3fb3-8619-d32fb2cecfb3",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/3fefcc20-2039-3fb3-8619-d32fb2cecfb3"
+  },
+  "S6": {
+   "title": "iTunes Search API \u2014 album lookup (collectionId 724142020)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Larry+Young+Into+Somethin&entity=album"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1964-11-12"
+  ],
+  "multi_session": false,
+  "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+  "recording_sites": [
+   {
+    "session_date": "1964-11-12",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S1"
+   }
+  ],
+  "producer": "Alfred Lion",
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "inf",
+  "personnel": [
+   {
+    "name": "Larry Young",
+    "instrument": "organ",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1964-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Leader; Hammond organ throughout [S1, S2, S3]."
+   },
+   {
+    "name": "Sam Rivers",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Tyrone",
+     "Plaza De Toros",
+     "Paris Eyes",
+     "Backup"
+    ],
+    "session_dates": [
+     "1964-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ],
+    "name_variants": [],
+    "notes": "Tenor saxophone on tracks 1-4 only; 'Ritha' (track 5) is a trio without him [S2]."
+   },
+   {
+    "name": "Grant Green",
+    "instrument": "guitar",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1964-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Guitar throughout; composer of 'Plaza De Toros' [S1, S2]."
+   },
+   {
+    "name": "Elvin Jones",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1964-11-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Drums throughout."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Tyrone",
+    "track_number": 1,
+    "side": null,
+    "duration": "9:40",
+    "session_date": "1964-11-12",
+    "composers": [
+     "Larry Young"
+    ],
+    "personnel": [
+     "Larry Young",
+     "Sam Rivers",
+     "Grant Green",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Plaza De Toros",
+    "track_number": 2,
+    "side": null,
+    "duration": "9:39",
+    "session_date": "1964-11-12",
+    "composers": [
+     "Grant Green"
+    ],
+    "personnel": [
+     "Larry Young",
+     "Sam Rivers",
+     "Grant Green",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Paris Eyes",
+    "track_number": 3,
+    "side": null,
+    "duration": "6:42",
+    "session_date": "1964-11-12",
+    "composers": [
+     "Larry Young"
+    ],
+    "personnel": [
+     "Larry Young",
+     "Sam Rivers",
+     "Grant Green",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Backup",
+    "track_number": 4,
+    "side": null,
+    "duration": "8:40",
+    "session_date": "1964-11-12",
+    "composers": [
+     "Larry Young"
+    ],
+    "personnel": [
+     "Larry Young",
+     "Sam Rivers",
+     "Grant Green",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Ritha",
+    "track_number": 5,
+    "side": null,
+    "duration": "6:45",
+    "session_date": "1964-11-12",
+    "composers": [
+     "Larry Young"
+    ],
+    "personnel": [
+     "Larry Young",
+     "Grant Green",
+     "Elvin Jones"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "3fefcc20-2039-3fb3-8619-d32fb2cecfb3",
+  "apple_album_id": "724142020",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/3fefcc20-2039-3fb3-8619-d32fb2cecfb3/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": ""
+   }
+  ],
+  "notes": "Single session, 12 November 1964, Van Gelder Studio, Englewood Cliffs, NJ [S1, S2]. Sam Rivers plays tenor on tracks 1-4 only; 'Ritha' is a trio [S2]. The 1998 Connoisseur Series CD adds an alternate take of 'Ritha' [S2]; it is not included here as a track. Side placements are not recorded in the sources consulted, so side is null rather than inferred. Producer Alfred Lion is named by S2. No source consulted names the engineer; Rudy Van Gelder is recorded by inference under the personnel contract's Van Gelder rule (Blue Note session documented at Van Gelder Studio, engineer unlisted), hence epistemic_production inf."
+ },
+ "ballot": {
+  "album": "Larry Young \u2014 Into Somethin' (1964)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "AllMusic critic Scott Yanow describes Young taking a major step away from the organ\u2019s dominant influence toward Coltrane\u2019s modal excursions [S1], making this a compelling hinge in the instrument\u2019s history. The session\u2019s Young\u2013Sam Rivers\u2013Grant Green\u2013Elvin Jones lineup, and its direct path to *Unity*\u2014already in the canon\u2014give it notable session gravity and lineage; the dossier identifies \u201cTyrone\u201d as a particularly rewarding discovery [S1, S2].",
+  "case_against": "The album is overshadowed in critical standing by *Unity*, which presents Young\u2019s modal-organ vision as a more definitive statement; *Into Somethin\u2019* can reasonably be heard as an important precursor rather than an essential endpoint. Its reception is respectable but not overwhelming\u2014Penguin\u2019s 3.5-star rating trails AllMusic\u2019s 4.5 and DownBeat\u2019s 4, and the dossier\u2019s ratings are relayed through Wikipedia\u2019s summary table [S2].",
+  "disagreement": null,
+  "recommendation": "John should treat this as a strong but contested candidate, with its lineage to *Unity* carrying more weight than its limited consensus evidence.",
+  "confidence": "medium",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

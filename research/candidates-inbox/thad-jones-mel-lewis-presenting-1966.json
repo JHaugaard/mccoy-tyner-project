@@ -1,0 +1,722 @@
+{
+ "id": "thad-jones-mel-lewis-presenting-1966",
+ "artist": "Thad Jones & Mel Lewis",
+ "album": "Presenting Thad Jones/Mel Lewis and the Jazz Orchestra",
+ "year": 1966,
+ "label": "Solid State",
+ "catalog_number": "Solid State SS-18003",
+ "style_primary": "hard-bop",
+ "style_tags": [],
+ "rationale": "The founding document of the modern jazz big band after Basie. The orchestra's first studio album, cut over three days in May 1966 at A&R Studios for Solid State, and the record that established the book and the personnel that held Monday nights at the Village Vanguard for decades [S2, S3, S7] (obs). Session gravity is the strongest case: Thad Jones (flugelhorn), Mel Lewis (drums), Hank Jones (piano), Pepper Adams (baritone), Bob Brookmeyer and Tom McIntosh (trombones), Richard Davis (bass), Jerome Richardson, Jerry Dodgion, Joe Farrell and Eddie Daniels in the reeds \u2014 most of them already in this canon on other records, assembled as a working band rather than a pickup date [S1, S2, S3] (obs). Lineage: the arranger's band \u2014 Jones, Brookmeyer and McIntosh charts \u2014 is the direct continuation of the Basie and Ellington big-band tradition already represented here, and it is the line that runs to the Vanguard Jazz Orchestra and to every working jazz orchestra since [S1, S2] (inf). Defining statement: 'A B C Blues' (12:53), 'Mean What You Say' and 'Three and One' are the book's signature pieces, and the album is where they were first recorded [S1, S2, S3] (obs). It still plays: the band swings from the first bar of 'Once Around', and the solo order \u2014 Adams, Hank Jones, Brookmeyer, Farrell, Daniels, Thad \u2014 is the point of the record [S1] (inf). Honest counterweight: the recorded-profile sources are thinner than a consensus-core case would want \u2014 AllMusic rates it 3/5 (S2's review table, S1), and no Penguin Crown, Hall of Fame or poll placement was found in the sources consulted, so the case rests on lineage and session gravity, not on consensus (obs). Scope note: recorded 4\u20136 May 1966, released 1966 \u2014 squarely inside the 1945\u20131985 window; style code hard-bop follows AllMusic's own classification of the record [S1] (obs).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "AllMusic \u2014 Presenting Thad Jones/Mel Lewis & the Jazz Orchestra (mw0000877905), review by Scott Yanow and credits",
+   "type": "overview/credits",
+   "url": "https://www.allmusic.com/album/presenting-thad-jones-mel-lewis-the-jazz-orchestra-mw0000877905"
+  },
+  "S2": {
+   "title": "Wikipedia \u2014 Presenting Thad Jones/Mel Lewis and the Jazz Orchestra (recording dates, personnel, track listing, review scores)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Presenting_Thad_Jones/Mel_Lewis_and_the_Jazz_Orchestra"
+  },
+  "S3": {
+   "title": "Mosaic Records sessionography \u2014 The Complete Solid State Recordings of the Thad Jones/Mel Lewis Orchestra (as transcribed on organissimo): per-session personnel with reed doublings, dates, producer/engineer credits",
+   "type": "discography",
+   "url": "https://www.organissimo.org/forum/topic/68187-joneslewis-mosaic/"
+  },
+  "S4": {
+   "title": "MusicBrainz \u2014 release group 9572769e-a947-4173-9aa3-b93417b3a246",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/9572769e-a947-4173-9aa3-b93417b3a246"
+  },
+  "S5": {
+   "title": "Cover Art Archive \u2014 front cover, release group 9572769e-a947-4173-9aa3-b93417b3a246",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/9572769e-a947-4173-9aa3-b93417b3a246"
+  },
+  "S6": {
+   "title": "iTunes Search API \u2014 album lookup (collectionId 1408334071)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Thad+Jones+Mel+Lewis+Presenting&entity=album"
+  },
+  "S7": {
+   "title": "HHV Records \u2014 Solid State catalogue listing: 'recorded over three days in May 1966 at A&R Studios; the session was produced by Sonny Lester'",
+   "type": "catalog",
+   "url": "https://www.hhv.de/en/records/catalog/solid-state-hhv-records-D2L6829N2"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1966-05-04",
+   "1966-05-05",
+   "1966-05-06"
+  ],
+  "multi_session": true,
+  "studio": "A & R Studios, New York City",
+  "recording_sites": [
+   {
+    "session_date": "1966-05-04",
+    "site_raw": "A & R Studios, NYC",
+    "site_slug": "a-r-recording-112-west-48th-street",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   },
+   {
+    "session_date": "1966-05-05",
+    "site_raw": "A & R Studios, NYC",
+    "site_slug": "a-r-recording-112-west-48th-street",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   },
+   {
+    "session_date": "1966-05-06",
+    "site_raw": "A & R Studios, NYC",
+    "site_slug": "a-r-recording-112-west-48th-street",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   }
+  ],
+  "producer": "Sonny Lester",
+  "engineer": "Phil Ramone",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Thad Jones",
+    "instrument": "flugelhorn",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Leader; flugelhorn throughout (S1, S2, S3)."
+   },
+   {
+    "name": "Mel Lewis",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Co-leader; drums throughout."
+   },
+   {
+    "name": "Danny Stiles",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Trumpet section (S3 lists chair order)."
+   },
+   {
+    "name": "Bill Berry",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Trumpet section."
+   },
+   {
+    "name": "Jimmy Nottingham",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Trumpet section."
+   },
+   {
+    "name": "Richard Williams",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Trumpet section."
+   },
+   {
+    "name": "Bob Brookmeyer",
+    "instrument": "trombone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Valve trombone per AllMusic review (S1); listed as trombone by S2/S3. Also arranger of 'Willow Weep for Me' and 'A B C Blues' (S3)."
+   },
+   {
+    "name": "Jack Rains",
+    "instrument": "trombone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Trombone section."
+   },
+   {
+    "name": "Tom McIntosh",
+    "instrument": "trombone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Trombone section; composer/arranger of 'Balanced Scales = Justice' (S3)."
+   },
+   {
+    "name": "Cliff Heather",
+    "instrument": "bass trombone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Mosaic sessionography lists bass trombone (S3); Wikipedia lists simply 'trombone' (S2). Recorded as bass trombone with epistemic unk."
+   },
+   {
+    "name": "Jerome Richardson",
+    "instrument": "alto saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Reed section; doublings per S3: soprano saxophone, alto saxophone, flute, clarinet, bass clarinet."
+   },
+   {
+    "name": "Jerry Dodgion",
+    "instrument": "alto saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Reed section; doublings per S3: alto saxophone, flute, clarinet."
+   },
+   {
+    "name": "Joe Farrell",
+    "instrument": "tenor saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Reed section; doublings per S3: tenor saxophone, flute, clarinet."
+   },
+   {
+    "name": "Eddie Daniels",
+    "instrument": "tenor saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Reed section; doublings per S3: tenor saxophone, clarinet, bass clarinet."
+   },
+   {
+    "name": "Pepper Adams",
+    "instrument": "baritone saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Baritone saxophone throughout."
+   },
+   {
+    "name": "Hank Jones",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Piano throughout."
+   },
+   {
+    "name": "Sam Herman",
+    "instrument": "guitar",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Guitar throughout."
+   },
+   {
+    "name": "Richard Davis",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1966-05-04",
+     "1966-05-05",
+     "1966-05-06"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Bass throughout."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Once Around",
+    "track_number": 1,
+    "side": "A",
+    "duration": "5:24",
+    "session_date": "1966-05-05",
+    "composers": [
+     "Thad Jones"
+    ],
+    "personnel": [
+     "Thad Jones",
+     "Mel Lewis",
+     "Danny Stiles",
+     "Bill Berry",
+     "Jimmy Nottingham",
+     "Richard Williams",
+     "Bob Brookmeyer",
+     "Jack Rains",
+     "Tom McIntosh",
+     "Cliff Heather",
+     "Jerome Richardson",
+     "Jerry Dodgion",
+     "Joe Farrell",
+     "Eddie Daniels",
+     "Pepper Adams",
+     "Hank Jones",
+     "Sam Herman",
+     "Richard Davis"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Willow Weep for Me",
+    "track_number": 2,
+    "side": "A",
+    "duration": "5:34",
+    "session_date": "1966-05-06",
+    "composers": [
+     "Ann Ronell"
+    ],
+    "personnel": [
+     "Thad Jones",
+     "Mel Lewis",
+     "Danny Stiles",
+     "Bill Berry",
+     "Jimmy Nottingham",
+     "Richard Williams",
+     "Bob Brookmeyer",
+     "Jack Rains",
+     "Tom McIntosh",
+     "Cliff Heather",
+     "Jerome Richardson",
+     "Jerry Dodgion",
+     "Joe Farrell",
+     "Eddie Daniels",
+     "Pepper Adams",
+     "Hank Jones",
+     "Sam Herman",
+     "Richard Davis"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Balanced Scales = Justice",
+    "track_number": 3,
+    "side": "A",
+    "duration": "4:58",
+    "session_date": "1966-05-06",
+    "composers": [
+     "Tom McIntosh"
+    ],
+    "personnel": [
+     "Thad Jones",
+     "Mel Lewis",
+     "Danny Stiles",
+     "Bill Berry",
+     "Jimmy Nottingham",
+     "Richard Williams",
+     "Bob Brookmeyer",
+     "Jack Rains",
+     "Tom McIntosh",
+     "Cliff Heather",
+     "Jerome Richardson",
+     "Jerry Dodgion",
+     "Joe Farrell",
+     "Eddie Daniels",
+     "Pepper Adams",
+     "Hank Jones",
+     "Sam Herman",
+     "Richard Davis"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Three in One",
+    "track_number": 4,
+    "side": "A",
+    "duration": "5:45",
+    "session_date": "1966-05-06",
+    "composers": [
+     "Thad Jones"
+    ],
+    "personnel": [
+     "Thad Jones",
+     "Mel Lewis",
+     "Danny Stiles",
+     "Bill Berry",
+     "Jimmy Nottingham",
+     "Richard Williams",
+     "Bob Brookmeyer",
+     "Jack Rains",
+     "Tom McIntosh",
+     "Cliff Heather",
+     "Jerome Richardson",
+     "Jerry Dodgion",
+     "Joe Farrell",
+     "Eddie Daniels",
+     "Pepper Adams",
+     "Hank Jones",
+     "Sam Herman",
+     "Richard Davis"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Mean What You Say",
+    "track_number": 5,
+    "side": "B",
+    "duration": "5:26",
+    "session_date": "1966-05-06",
+    "composers": [
+     "Thad Jones"
+    ],
+    "personnel": [
+     "Thad Jones",
+     "Mel Lewis",
+     "Danny Stiles",
+     "Bill Berry",
+     "Jimmy Nottingham",
+     "Richard Williams",
+     "Bob Brookmeyer",
+     "Jack Rains",
+     "Tom McIntosh",
+     "Cliff Heather",
+     "Jerome Richardson",
+     "Jerry Dodgion",
+     "Joe Farrell",
+     "Eddie Daniels",
+     "Pepper Adams",
+     "Hank Jones",
+     "Sam Herman",
+     "Richard Davis"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Don't Ever Leave Me",
+    "track_number": 6,
+    "side": "B",
+    "duration": "4:33",
+    "session_date": "1966-05-05",
+    "composers": [
+     "Thad Jones"
+    ],
+    "personnel": [
+     "Thad Jones",
+     "Mel Lewis",
+     "Danny Stiles",
+     "Bill Berry",
+     "Jimmy Nottingham",
+     "Richard Williams",
+     "Bob Brookmeyer",
+     "Jack Rains",
+     "Tom McIntosh",
+     "Cliff Heather",
+     "Jerome Richardson",
+     "Jerry Dodgion",
+     "Joe Farrell",
+     "Eddie Daniels",
+     "Pepper Adams",
+     "Hank Jones",
+     "Sam Herman",
+     "Richard Davis"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "A B C Blues",
+    "track_number": 7,
+    "side": "B",
+    "duration": "12:53",
+    "session_date": "1966-05-04",
+    "composers": [
+     "Bob Brookmeyer"
+    ],
+    "personnel": [
+     "Thad Jones",
+     "Mel Lewis",
+     "Danny Stiles",
+     "Bill Berry",
+     "Jimmy Nottingham",
+     "Richard Williams",
+     "Bob Brookmeyer",
+     "Jack Rains",
+     "Tom McIntosh",
+     "Cliff Heather",
+     "Jerome Richardson",
+     "Jerry Dodgion",
+     "Joe Farrell",
+     "Eddie Daniels",
+     "Pepper Adams",
+     "Hank Jones",
+     "Sam Herman",
+     "Richard Davis"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "9572769e-a947-4173-9aa3-b93417b3a246",
+  "apple_album_id": "1408334071",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/9572769e-a947-4173-9aa3-b93417b3a246/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": ""
+   }
+  ],
+  "notes": "Three sessions: 4 May 1966 \u2014 'A B C Blues' (tk 4); 'Kids Are Pretty People' from the same date was issued only on the Mosaic box, not on SS-18003. 5 May \u2014 'Once Around' (tk 8), 'Don't Ever Leave Me' (tk 12). 6 May \u2014 'Three in One' (tk 7), 'Balanced Scales = Justice' (tk 4), 'Willow Weep for Me' (tk 13), 'Mean What You Say' (tk 6) [S3]. The track printed as 'Three in One' is properly 'Three and One' \u2014 the cover title is an error, confirmed on the original parts [S2]. Arrangements: Thad Jones except 'Willow Weep for Me' and 'A B C Blues' (Bob Brookmeyer) and 'Balanced Scales = Justice' (Tom McIntosh) [S3]. Assistant producer Manny Albam [S3]. Engineers per the Mosaic discography are assigned by session group: Phil Ramone for the May 1966 sessions [S3, S7]. Cliff Heather's instrument conflicts between sources \u2014 bass trombone in S3, trombone in S2 \u2014 recorded as bass trombone with epistemic unk. Wikipedia lists 16 players without Reed doublings; the doublings in each personnel note come from S3 (Bill Kirchner's research of the original scores)."
+ },
+ "ballot": {
+  "album": "Thad Jones & Mel Lewis \u2014 Presenting Thad Jones/Mel Lewis and the Jazz Orchestra (1966)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "This is the debut studio document of the Thad Jones/Mel Lewis Orchestra, whose Village Vanguard residency and continuing legacy as the Vanguard Jazz Orchestra make it a defining institution in modern big-band jazz. Its signature repertoire and concentrated roster\u2014including Thad Jones, Mel Lewis, Hank Jones, Pepper Adams, Bob Brookmeyer, and Richard Davis\u2014give it unusually strong defining-statement, lineage, and session-gravity claims (S1, S2, S3).",
+  "case_against": "The album\u2019s critical-consensus signal is comparatively weak: AllMusic rates it 3/5, and the dossier found no Penguin Guide, Hall of Fame, or poll placement for this specific LP (S1; dossier research). Its historical importance may attach more to the orchestra and Vanguard residency than to this studio album, while later statements such as Consummation may be stronger artistic showcases; the dossier\u2019s critical sourcing is also thinner than its discographical documentation.",
+  "disagreement": null,
+  "recommendation": "John should give it strong consideration as the foundational modern-big-band statement, while weighing its thin album-specific consensus and competition from the orchestra\u2019s later work.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6-luna",
+   "preset": "canon-council"
+  }
+ }
+}
