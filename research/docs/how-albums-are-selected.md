@@ -324,3 +324,183 @@ source records supporting 1,356 citations, in these families:
 queries against the `_jazzcanon` schema. Figures marked as of the
 preparation date are observed; the LP-population estimate is
 inference built on observed anchors, per §2.*
+
+---
+
+# Appends
+
+Follow-up questions and answers, appended verbatim with
+timestamps. The main text above is not edited by appends; each
+append is grounded in live configuration at the time it was
+written.
+
+## Append A — 2026-10-19 08:28 EDT — Agents, aggregators, council members by model
+
+Question (curator): "As of today, list all agents, aggregators,
+and council members by model being." All entries below were read
+from live configuration (`cron/jobs.json`, profile `config.yaml`)
+at the time noted.
+
+| Role | Model | Provider/route | Where configured |
+|---|---|---|---|
+| Curator's assistant (McCoy, interactive) | kimi-k3 | kimi-coding | profile `config.yaml` `model.default` |
+| Nightly drip agent (selects, gathers, stages) | deepseek/deepseek-flash-latest (recorded in the job as `~deepseek/deepseek-flash-latest`) | deepseek | cron job `9c3376aac79a` (`canon-drip`) |
+| Council reference #1 (judge) | minimax/minimax-m3 | OpenRouter | MoA preset `canon-council`, `reference_models[0]` |
+| Council reference #2 (judge) | google/gemini-3.8-flash | OpenRouter | MoA preset `canon-council`, `reference_models[1]` |
+| Council aggregator (chair) | openai/gpt-6-luna | Nous | MoA preset `canon-council`, `aggregator` |
+| Wings-report job (Sundays 08:00) | none — deterministic script | n/a | cron job `1c20dab36950` (`no_agent: true`) |
+| Embeddings (canon-search; not selection) | nomic-embed-text | Ollama on vps4 | `scripts/embed.py` |
+| Profile fallback (any lane) | z-ai/glm-5.3-flash | OpenRouter | profile `fallback_providers` |
+
+Gather-lane children (delegated research agents) inherit the
+dispatching agent's model unless a dispatch pins otherwise; the
+steady drip does not pin, so they run on the drip job's model.
+
+Council preset parameters (live): `reference_temperature: 0.6`,
+`reference_max_tokens: 8000`, `max_tokens: 8192` (aggregator),
+`degraded_reference_policy: loud`, `fanout: user_turn`.
+
+Historical note (auditable, not current): the drip job's model
+pin has changed over time (kimi-k3 was an earlier pin); the
+council aggregator was upgraded from gpt-5.6-luna to gpt-6-luna
+on 2026-09-28. The table above is the state on the date of this
+append; model identity is configuration, not a constant, and is
+re-read from the live files on every such question.
+
+## Append B — 2026-10-19 08:28 EDT — Flow / decision tree
+
+Question (curator): "Show me a flow or decision tree — ascii
+diagram will do."
+
+```
+                    HUMAN LANE (John) — the only decision-maker
+  ┌────────────────────────────────────────────────────────────────┐
+  │  listens to candidates ──► verdict: INCLUDE / EXCLUDE / DEFER  │
+  │         │                                                      │
+  │         ▼  (verdicts executed via edit contract, 1 log row     │
+  │             per album, append-only audit)                      │
+  │   include ──► approved ──► SHIP (ship.sh: export → previews    │
+  │             → build → deploy ──► site_status: live)            │
+  │   exclude ──► record preserved, never deleted                  │
+  │   defer   ──► stays candidate; monthly wings report reminds    │
+  └─────────▲──────────────────────────────────────────────────────┘
+            │  06:05–06:15 compact Telegram report
+            │  (names + queue count + no-streaming flags)
+ ═══════════╧═══════════════ MACHINE LANE ═════════════════════════
+            │
+   [06:00 cron: canon-drip, 2 candidates/night, drip model]
+            │
+            ▼
+   PRECHECK (canon-drip-precheck.py — deterministic script)
+     • inject guardrails (window, styles, drip size, dedup list)
+     • sweep stale inbox → archive decided dossiers
+     • backlog check: unreviewed candidates ≥ 10 ?
+            │ yes                    │ no
+            ▼                        ▼
+      [SILENT — no new         SELECT 2 candidates
+       candidates tonight]     (agent judgment, free choice,
+            │                  no quotas; must not duplicate
+            │                  anything in DB, any status)
+            │                        │
+            │                        ▼
+            │               GATE (check-candidate.py — per album)
+            │                 • year inside 1945–1985?
+            │                 • style admissible?
+            │                 • not already present?
+            │                     │ pass        │ fail
+            │                     ▼             ▼
+            │               GATHER            refuse; pick another
+            │   (research agents fetch live sources —
+            │    discographies, AllMusic, Discogs, MusicBrainz,
+            │    Wikipedia, iTunes, Cover Art Archive;
+            │    ≥3 sources; every claim cited + labeled
+            │    obs/inf/unk; memory forbidden)
+            │                     │
+            │                     ▼
+            │               dossier written → candidates-inbox/
+            │                     │
+            │                     ▼
+            │               JUDGE (canon-council.py → MoA preset)
+            │                 ┌─ reference 1: minimax-m3 ────┐
+            │                 ├─ reference 2: gemini-3.8-flash┤ blind votes
+            │                 └─► aggregator: gpt-6-luna      │ vs rubric
+            │                     synthesizes ballot          │
+            │                     (tier, priority, case for,  │
+            │                      case against, disagreement)│
+            │                     │
+            │              judges answered ≥ 2 ?
+            │                │ yes            │ no
+            │                ▼                ▼
+            │           STAGE          DRIP FAILED — report
+            │  (stage-candidate.py     honestly, stage NOTHING
+            │   --ballot-inline)       (no self-judging, no
+            │                │          substitute ballot)
+            │                ▼
+            │        DB rows: canon_status = candidate
+            │                  site_status = found
+            │                │
+            └────────────────┴──► Telegram report to John
+                                    (then machine waits)
+
+  WEEKLY: [Sundays 08:00 — canon-wings-report (script, no AI)]
+     first Sunday of month AND deferred candidates exist?
+        yes ──► Telegram: each parked album + John's reason
+        no  ──► silence
+```
+
+## Append C — 2026-10-19 08:28 EDT — Presets and skills
+
+Question (curator): "List any presets or skills used."
+
+Presets (live, from profile `config.yaml`):
+
+- **MoA preset `canon-council`** — the only mixture-of-agents
+  preset; it is the JUDGE lane. Composition and parameters are
+  listed in Append A. Set as the profile's `default_preset`.
+- A non-default variant, `canon-council-adversarial.py`
+  (prosecutor/defender role-weighting), exists in reserve for
+  contested boundary cases; it is not used by the drip.
+
+Skills (installed on the mccoy profile; they load into McCoy
+sessions on relevance — they are the operating manuals, not the
+machinery):
+
+- `mccoy-tyner` — project constitution: genre definitions, source
+  catalog, dossier contract, epistemic discipline, place hygiene.
+- `canon-drip-operations` — the drip playbook: pipeline shape,
+  failure modes, recovery procedures, verdict execution,
+  publishing path.
+- `canon-ship-operations` — the publish/deploy runbook for
+  jazzcanon.com.
+- `discographic-source-research` — discography/personnel/session
+  research method.
+- `album-candidate-dossier` — the single-album dossier build
+  workflow.
+- `research-workflows` — general source-grounded compilation
+  method.
+
+Configuration documents the pipeline reads on every run (the
+true steering surfaces, all in the project repo):
+
+- `config/canon-rubric.md` — window, gates, drip size, backlog
+  cap, the five judgment signals. Machine-read by the precheck,
+  the gate, and the council.
+- `config/edit-contract.md` — whitelisted editable fields, the
+  audit protocol, the append-only rule.
+- `docs/personnel-contract.md` — the dossier shape every
+  gatherer must produce.
+
+Executable machinery (deterministic scripts, no AI):
+
+- `scripts/canon-drip-precheck.py` (profile) — guardrails,
+  inbox lifecycle, backlog cap, recovery detection.
+- `scripts/check-candidate.py` — the gate.
+- `scripts/stage-candidate.py` — transactional DB staging
+  (dry-run rehearsal supported; rolls back whole on any defect).
+- `scripts/canon-wings-report.py` (profile) — the Sunday
+  deferred-verdicts watchdog.
+- Publishing path: `scripts/ship.sh` → `publish.sh` →
+  `export.sh` → site repo `enrich-previews.mjs` → `npm run build`
+  → wrangler deploy → `scripts/deploy.sh`.
+- Support: `scripts/embed.py` (embeddings for canon-search),
+  `scripts/geocode-place.py`, `scripts/cover-art-fetch.py`.
