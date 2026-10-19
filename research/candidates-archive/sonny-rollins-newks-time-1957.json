@@ -1,0 +1,318 @@
+{
+  "id": "sonny-rollins-newks-time-1957",
+  "artist": "Sonny Rollins",
+  "album": "Newk's Time",
+  "year": 1957,
+  "label": "Blue Note",
+  "catalog_number": "Blue Note BLP 4001",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "bebop"
+  ],
+  "rationale": "Newk's Time is the Sonny Rollins quartet side of 22 September 1957 — his third Blue Note album as a leader and the record that opened the label's 4000 series, the first release catalogued as BLP 4... [S1,S2] (obs). Its canon claim rests on session gravity and on that catalogue landmark rather than on a critical coronation: the Penguin Guide to Jazz Recordings gives four stars, The Rolling Stone Jazz Record Guide four, the Encyclopedia of Popular Music five, AllMusic four, while DownBeat's contemporary notice was three and a half [S1] (obs). Session gravity is the strongest signal here: Rollins with Wynton Kelly, Doug Watkins and Philly Joe Jones — the rhythm section carrying the Miles Davis group of that period — through six tunes in one afternoon at Van Gelder's Hackensack studio [S1,S2] (obs). Lineage: it sits inside the 1956-57 cluster the canon already holds (Saxophone Colossus, Tenor Madness, Way Out West, A Night at the Village Vanguard) and is the last studio date of that cluster still missing from it — read from the canon's own records, not from a source [S2] (inf). The set is half borrowed, half his own: Miles Davis's 'Tune Up', Kenny Dorham's 'Asiatic Raes', 'The Surrey with the Fringe on Top', 'Wonderful! Wonderful!' and 'Namely You', plus his own 'Blues for Philly Joe' [S1,S2] (obs). It still plays: a relaxed, songful quartet date, five tracks with the full quartet and one Rollins–Jones duo, and the most immediately approachable of his Blue Note sides — my read of the session contents the sources document, not a source claim [S2] (inf). Two things count against a must_have reading and are recorded here rather than smoothed away: Rollins's defining record of the decade is Saxophone Colossus, already in the canon, and the ratings are good rather than exceptional [S1] (obs). John rules.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Newk's Time (released March 1959, Blue Note; recorded September 22, 1957 at Van Gelder Studio, Hackensack, New Jersey; personnel with roles including producer Alfred Lion and engineer Rudy Van Gelder; track listing with timings; review box: AllMusic 4/5, The Rolling Stone Jazz Record Guide 4/5, Encyclopedia of Popular Music 5/5, The Penguin Guide to Jazz Recordings 4/5, DownBeat 3.5/5; 'the release marked the beginning of the Blue Note 4000 series')",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Newk%27s_Time"
+    },
+    "S2": {
+      "title": "JazzDisco.org — Sonny Rollins Discography, session of September 22, 1957 ('Sonny Rollins, tenor sax; Wynton Kelly, piano #1,2,4-6; Doug Watkins, bass #1,2,4-6; Philly Joe Jones, drums. Van Gelder Studio, Hackensack, NJ, September 22, 1957'; six master takes tk.5/9/13/15/17/19; issued as Blue Note BLP 4001, 1959)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/sonny-rollins/discography/"
+    },
+    "S3": {
+      "title": "MusicBrainz — release group 9ca22d32-f74c-3725-8936-352bcec72073 'Newk's Time' by Sonny Rollins (first release date 1959-01; ten releases; tags: jazz, hard bop)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/9ca22d32-f74c-3725-8936-352bcec72073"
+    },
+    "S4": {
+      "title": "Cover Art Archive — release group 9ca22d32-f74c-3725-8936-352bcec72073 'Newk's Time' (one approved Front image, from release f574d1c1-25fa-423e-92fb-231ca9db968a)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/9ca22d32-f74c-3725-8936-352bcec72073"
+    },
+    "S5": {
+      "title": "iTunes Search API — Sonny Rollins 'Newk's Time' (collectionId 1443550524, Blue Note Records, 6 tracks, releaseDate 1959-03-15, primaryGenreName Jazz)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=sonny+rollins+newks+time&entity=album&limit=5"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-09-22"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1957-09-22",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-09-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader; plays on all six titles, including the Rollins-Jones duo on 'The Surrey with the Fringe on Top'."
+      },
+      {
+        "name": "Wynton Kelly",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tune Up",
+          "Asiatic Raes",
+          "Wonderful! Wonderful!",
+          "Blues for Philly Joe",
+          "Namely You"
+        ],
+        "session_dates": [
+          "1957-09-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia: piano 'except The Surrey with the Fringe on Top'; JazzDisco lists Kelly on takes #1, 2, 4-6 of the session (Tune Up, Asiatic Raes, Wonderful! Wonderful!, Namely You, Blues for Philly Joe), which agrees with the LP listing."
+      },
+      {
+        "name": "Doug Watkins",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tune Up",
+          "Asiatic Raes",
+          "Wonderful! Wonderful!",
+          "Blues for Philly Joe",
+          "Namely You"
+        ],
+        "session_dates": [
+          "1957-09-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Bass 'except The Surrey with the Fringe on Top' (S1); JazzDisco lists Watkins on takes #1, 2, 4-6 (S2)."
+      },
+      {
+        "name": "Philly Joe Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-09-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Plays on all six titles, including the duo with Rollins on 'The Surrey with the Fringe on Top'; 'Blues for Philly Joe' is Rollins's dedication to him."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Tune Up",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:44",
+        "session_date": "1957-09-22",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wynton Kelly",
+          "Doug Watkins",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Asiatic Raes",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:57",
+        "session_date": "1957-09-22",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wynton Kelly",
+          "Doug Watkins",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Wonderful! Wonderful!",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:59",
+        "session_date": "1957-09-22",
+        "composers": [
+          "Sherman Edwards",
+          "Ben Raleigh"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wynton Kelly",
+          "Doug Watkins",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "The Surrey with the Fringe on Top",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:32",
+        "session_date": "1957-09-22",
+        "composers": [
+          "Richard Rodgers",
+          "Oscar Hammerstein II"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Blues for Philly Joe",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:44",
+        "session_date": "1957-09-22",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wynton Kelly",
+          "Doug Watkins",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Namely You",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:18",
+        "session_date": "1957-09-22",
+        "composers": [
+          "Gene de Paul",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Sonny Rollins",
+          "Wynton Kelly",
+          "Doug Watkins",
+          "Philly Joe Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "9ca22d32-f74c-3725-8936-352bcec72073",
+    "apple_album_id": "1443550524",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/9ca22d32-f74c-3725-8936-352bcec72073/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image for release group 9ca22d32 (Blue Note BLP 4001 cover, Francis Wolff photograph per S1)."
+      }
+    ],
+    "notes": "Single session, one afternoon: September 22, 1957, Van Gelder Studio, Hackensack, New Jersey — Hackensack and not Englewood Cliffs, the move being July 1959 (S2). Six master takes, all kept for the LP. Five titles use the full quartet; 'The Surrey with the Fringe on Top' is Rollins with Philly Joe Jones only, Kelly and Watkins sitting out (S1, S2). Sources disagree on the release month: S1 cites a Billboard notice of March 1959 and dates the LP March 1959, S5 gives 1959-03-15, while S3's release group carries a first release date of January 1959 — the March 1959 date is used for the record's context but the canon's year field follows recording year (1957), the convention the existing rows use (e.g. Lee Morgan, The Sidewinder, recorded 1963 / released 1964, catalogued 1963). Timings are from S1; the mono original is Blue Note BLP 4001 and the stereo issue BST 84001 (S2). Producer Alfred Lion and engineer Rudy Van Gelder are both named by S1 (Van Gelder's own Hackensack studio). Liner notes by Joe Goldberg and cover photograph by Francis Wolff (S1); neither is recorded as personnel. S1 notes the album's place in Blue Note history: it opened the 4000 series, after which the label catalogued modern jazz as BLP 4... (mono) and BST 84... (stereo)."
+  },
+  "ballot": {
+    "album": "Sonny Rollins — Newk's Time (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The documented quartet session brings Rollins together with Wynton Kelly, Doug Watkins, and Philly Joe Jones, a rhythm section closely associated with Miles Davis's mid-1950s groups (S1, S2). As Blue Note BLP 4001, it opened the label's 4000 series, and it adds a piano-led studio quartet statement to the canon's existing Rollins records from his 1956–57 peak (S1; the cluster-completion point is an inference from the canon). Its four-star Penguin and other guide ratings, plus the Rollins–Jones duet on “The Surrey with the Fringe on Top,” support a strong discovery case, though not a claim that it is his defining album (S1).",
+    "case_against": "The dossier identifies Saxophone Colossus as Rollins's defining statement of the period, while the Vanguard recordings and Way Out West offer more distinctive complementary views of his work. Newk's Time is a polished, standards-heavy blowing date rather than an independently transformative statement, and its critical ratings are favorable but lack cited core-collection or major-canon-list recognition (S1). The evidence base is also thinner than the source count suggests: the substantive support chiefly comes from Wikipedia's review summary and JazzDisco's session data (S1, S2), while the other listed sources are metadata.",
+    "disagreement": null,
+    "recommendation": "John should consider it a strong but non-essential companion to the already-held Rollins records, weighing the session's personnel and cluster value against its less distinctive profile.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "openrouter:minimax/minimax-m3",
+        "openrouter:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6-luna",
+      "preset": "canon-council"
+    }
+  }
+}

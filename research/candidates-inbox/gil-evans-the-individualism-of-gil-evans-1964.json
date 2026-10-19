@@ -1,0 +1,993 @@
+{
+ "id": "gil-evans-the-individualism-of-gil-evans-1964",
+ "artist": "Gil Evans",
+ "album": "The Individualism of Gil Evans",
+ "year": 1964,
+ "label": "Verve",
+ "catalog_number": "V6-8555",
+ "style_primary": "cool-jazz",
+ "style_tags": [
+  "modal-jazz",
+  "post-bop"
+ ],
+ "rationale": "The Individualism of Gil Evans is Gil Evans' own-voice big-band statement between Out of the Cool (1961, already in the canon) and his late orchestral work: five sessions between September 1963 and 29 October 1964, at A&R Studios and Webster Hall in New York and Van Gelder's studio in Englewood Cliffs, produced by Creed Taylor for Verve and issued as V6-8555 in September 1964 [S1,S2,S3,S4] (obs). Lineage (signal 3, the strongest case here): it is the record where Evans — the arranger of Birth of the Cool, Miles Ahead, Porgy and Bess and Sketches of Spain, all four already in this canon — writes his own large-ensemble book rather than framing Miles, and it is the direct predecessor of the orchestral Evans line that runs to Svengali and the Monday Night Orchestra [S1,S3] (obs for the Miles collaborations, which the same sources list). Two of the five originals ('Time of the Barracudas', 'Flute Song/Hotel Me') are co-written with Miles Davis, so the Davis/Evans thread is literally in the writing credits [S1,S2] (obs). Session gravity (signal 4): the collective personnel is an era-defining cross-section — Eric Dolphy, Wayne Shorter, Phil Woods, Steve Lacy, Paul Chambers, Ron Carter, Richard Davis, Milt Hinton, Kenny Burrell, Elvin Jones, Jimmy Cleveland, Julius Watkins, and six French horns at once [S1,S3,S5,S6] (obs). That is exactly the personnel-network evidence the rubric says this canon is about, and the canon already holds Dolphy, Shorter, Chambers, Carter, Burrell and Elvin Jones as leaders or co-leaders. Recognition (signal 1, moderate, and stated at its real weight): AllMusic rates it 4/5 — Scott Yanow, 'Highly recommended to Gil Evans fans' [S1,S2] (obs); The Penguin Guide to Jazz Recordings gives it 3.5/4 [S1] (obs); it was nominated for a Grammy for Best Instrumental Jazz Performance, Large Group [S1] (obs). That is a solid but not unanimous critical profile — it is a record of standing inside the Evans discography rather than a broad canon-list staple, and this dossier does not claim otherwise. It still plays (signal 5): 'Las Vegas Tango' is the often-cited entry point, a slow sinister tango built on a Paul Chambers bass riff, and the original LP is four long pieces (9:59, 6:35, 12:29, 3:26) with no filler [S1,S3] (obs). The hole it fills: the canon holds three Gil Evans leader albums — Gil Evans & Ten (1957), New Bottle Old Wine (1958) and Out of the Cool (1961) — and then nothing until the fusion-era dates it does not hold; the 1963-64 Verve album is the missing middle of his own arc [S1,S2] (obs, cross-checked against the DB). Against-case, recorded: it is a collective-personnel record with five sessions and rotating line-ups, the per-track credits are only partly documented, and some sources describe it as an arranger's album rather than a band album [S1,S3] (obs). The council should weigh that.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "The Individualism of Gil Evans — Wikipedia (recording dates, collective personnel, track listing, reception)",
+   "type": "encyclopedia",
+   "url": "https://en.wikipedia.org/wiki/The_Individualism_of_Gil_Evans"
+  },
+  "S2": {
+   "title": "AllMusic — The Individualism of Gil Evans, album page and Credits tab",
+   "type": "database-credits",
+   "url": "https://www.allmusic.com/album/the-individualism-of-gil-evans-mw0000194738/credits"
+  },
+  "S3": {
+   "title": "LondonJazzCollector — 'Gil Evans: The Individualism of ... (1963-4) Verve' (session and personnel analysis)",
+   "type": "liner-notes-analysis",
+   "url": "https://londonjazzcollector.wordpress.com/2019/02/24/gil-evans-the-individualism-of-1963-4-verve/"
+  },
+  "S4": {
+   "title": "Vinyl Standard — Gil Evans: The Complete Discography 1957-1976",
+   "type": "discography",
+   "url": "https://vinylstandard.com/gil-evans.html"
+  },
+  "S5": {
+   "title": "Jazz Discography Project — Van Gelder Studio Catalog: 1964 (Verve V/V6-8555 session personnel)",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/van-gelder-studio/catalog-1964/"
+  },
+  "S6": {
+   "title": "MusicBrainz — The Individualism of Gil Evans, release with per-track instrument credits",
+   "type": "database-credits",
+   "url": "https://musicbrainz.org/release/dd9698e6-04af-4010-8d3a-5104a6ded0ad"
+  },
+  "S7": {
+   "title": "Apple iTunes Search API — Gil Evans / The Individualism of Gil Evans",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Gil+Evans+Individualism&entity=album"
+  },
+  "S8": {
+   "title": "Tracking Angle — 'Gil Evans Plays Piano on These All-Star Large Group Sessions' (engineers by session)",
+   "type": "review",
+   "url": "https://trackingangle.com/music/gil-evans-plays-piano-on-these-all-star-large-group-sessions-recorded-at-your-favorite-venues"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1963-09",
+   "1964-04-06",
+   "1964-05-25",
+   "1964-07-09",
+   "1964-10-29"
+  ],
+  "multi_session": true,
+  "studio": "A&R Studios, New York City (1963-09)",
+  "recording_sites": [
+   {
+    "session_date": "1963-09",
+    "site_raw": "A&R Studios, New York City",
+    "site_slug": "a-r-recording-room-undetermined",
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S1"
+   },
+   {
+    "session_date": "1964-04-06",
+    "site_raw": "Webster Hall, New York",
+    "site_slug": "webster-hall",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S1"
+   },
+   {
+    "session_date": "1964-05-25",
+    "site_raw": "Webster Hall, New York",
+    "site_slug": "webster-hall",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S1"
+   },
+   {
+    "session_date": "1964-07-09",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S1"
+   },
+   {
+    "session_date": "1964-10-29",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S1"
+   }
+  ],
+  "producer": "Creed Taylor",
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Gil Evans",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Leader; plays piano and conducts on all sessions [S1,S3,S5,S6]."
+   },
+   {
+    "name": "Gil Evans",
+    "instrument": "arranger",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Arranger of all titles; also conductor [S1,S3,S5]."
+   },
+   {
+    "name": "Johnny Coles",
+    "instrument": "trumpet",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Listed as the trumpet soloist [S1,S3]."
+   },
+   {
+    "name": "Thad Jones",
+    "instrument": "trumpet",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Ernie Royal",
+    "instrument": "trumpet",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Bernie Glow",
+    "instrument": "trumpet",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [
+     "Bernie Grow"
+    ],
+    "notes": "LondonJazzCollector prints 'Bernie Grow' in its 'Las Vegas Tango' lineup [S3]; Wikipedia and AllMusic print Bernie Glow [S1,S2]."
+   },
+   {
+    "name": "Louis Mucci",
+    "instrument": "trumpet",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Jimmy Knepper",
+    "instrument": "trombone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Frank Rehak",
+    "instrument": "trombone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Jimmy Cleveland",
+    "instrument": "trombone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Listed as the trombone soloist [S1,S3]."
+   },
+   {
+    "name": "Tony Studd",
+    "instrument": "trombone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Bill Barber",
+    "instrument": "tuba",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Tuba is in the instrument taxonomy."
+   },
+   {
+    "name": "Wayne Shorter",
+    "instrument": "tenor saxophone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Listed as the tenor soloist [S1,S3]."
+   },
+   {
+    "name": "Phil Woods",
+    "instrument": "alto saxophone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Listed as the alto soloist [S1,S3]."
+   },
+   {
+    "name": "Eric Dolphy",
+    "instrument": "alto saxophone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Source lists him as 'woodwinds (flute, bass clarinet, alto sax)'; recorded here as three instrument rows, as the sources state all three [S1,S6]."
+   },
+   {
+    "name": "Eric Dolphy",
+    "instrument": "flute",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Doubling, per 'woodwinds (flute, bass clarinet, alto sax)' [S1,S6]."
+   },
+   {
+    "name": "Eric Dolphy",
+    "instrument": "bass clarinet",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Doubling, per 'woodwinds (flute, bass clarinet, alto sax)' [S1,S6]."
+   },
+   {
+    "name": "Steve Lacy",
+    "instrument": "soprano saxophone",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Al Block",
+    "instrument": "flute",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Listed as 'woodwinds (flute solo)' [S1]; flute is the only instrument the sources name for him."
+   },
+   {
+    "name": "Julius Watkins",
+    "instrument": "French horn",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Gil Cohen",
+    "instrument": "French horn",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Don Corrado",
+    "instrument": "French horn",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [
+     "Don Corado"
+    ],
+    "notes": "LondonJazzCollector prints 'Don Corado' [S3]; Wikipedia and MusicBrainz print 'Don Corrado' [S1,S6]."
+   },
+   {
+    "name": "Bob Northern",
+    "instrument": "French horn",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Jimmy Buffington",
+    "instrument": "French horn",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [
+     "Jim Buffington"
+    ],
+    "notes": "MusicBrainz prints 'Jim Buffington' [S6]; Wikipedia prints 'Jimmy Buffington' [S1]."
+   },
+   {
+    "name": "Ray Alonge",
+    "instrument": "French horn",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Pete Levin",
+    "instrument": "French horn",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "unk",
+    "sources": [
+     "S1"
+    ],
+    "name_variants": [],
+    "notes": "Named as a French horn player in Wikipedia's collective personnel [S1] but absent from LondonJazzCollector's six-horn roster and from MusicBrainz's per-track credits [S3,S6]; a conflict, recorded as unk rather than resolved."
+   },
+   {
+    "name": "Harry Lookofsky",
+    "instrument": "violin",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Listed as 'tenor violin'; violin is the taxonomy term nearest the source wording [S1,S3]."
+   },
+   {
+    "name": "Bob Maxwell",
+    "instrument": "harp",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Margaret Ross",
+    "instrument": "harp",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [
+     "Margret Ross"
+    ],
+    "notes": "MusicBrainz prints 'Margret Ross' [S6]; Wikipedia and LondonJazzCollector print 'Margaret Ross' [S1,S3]."
+   },
+   {
+    "name": "Kenny Burrell",
+    "instrument": "guitar",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Listed as the guitar soloist [S1,S3]."
+   },
+   {
+    "name": "Barry Galbraith",
+    "instrument": "guitar",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Gary Peacock",
+    "instrument": "double bass",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Ron Carter",
+    "instrument": "double bass",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Paul Chambers",
+    "instrument": "double bass",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Richard Davis",
+    "instrument": "double bass",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Ben Tucker",
+    "instrument": "double bass",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Milt Hinton",
+    "instrument": "double bass",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Elvin Jones",
+    "instrument": "drums",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": "Listed as the drum soloist [S1,S3]."
+   },
+   {
+    "name": "Osie Johnson",
+    "instrument": "drums",
+    "scope": "unknown",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S6"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Time of the Barracudas",
+    "track_number": 1,
+    "side": null,
+    "duration": "7:26",
+    "session_date": null,
+    "composers": [
+     "Miles Davis",
+     "Gil Evans"
+    ],
+    "personnel": [
+     "Gil Evans",
+     "Johnny Coles",
+     "Frank Rehak",
+     "Bill Barber",
+     "Julius Watkins",
+     "Ray Alonge",
+     "Kenny Burrell",
+     "Bob Maxwell",
+     "Gary Peacock",
+     "Elvin Jones",
+     "Wayne Shorter",
+     "Al Block"
+    ],
+    "bonus_track": true,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "The Barbara Song",
+    "track_number": 2,
+    "side": null,
+    "duration": "9:59",
+    "session_date": null,
+    "composers": [
+     "Kurt Weill",
+     "Bertolt Brecht"
+    ],
+    "personnel": [
+     "Gil Evans",
+     "Johnny Coles",
+     "Frank Rehak",
+     "Bill Barber",
+     "Julius Watkins",
+     "Ray Alonge",
+     "Bob Maxwell",
+     "Gary Peacock",
+     "Elvin Jones",
+     "Wayne Shorter",
+     "Al Block"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "Las Vegas Tango",
+    "track_number": 3,
+    "side": null,
+    "duration": "6:35",
+    "session_date": null,
+    "composers": [
+     "Gil Evans"
+    ],
+    "personnel": [
+     "Gil Evans",
+     "Johnny Coles",
+     "Bernie Glow",
+     "Jimmy Cleveland",
+     "Tony Studd",
+     "Bill Barber",
+     "Ray Alonge",
+     "Kenny Burrell",
+     "Paul Chambers",
+     "Ron Carter",
+     "Elvin Jones",
+     "Eric Dolphy",
+     "Steve Lacy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "Flute Song / Hotel Me",
+    "track_number": 4,
+    "side": null,
+    "duration": "12:29",
+    "session_date": null,
+    "composers": [
+     "Miles Davis",
+     "Gil Evans"
+    ],
+    "personnel": [
+     "Gil Evans",
+     "Johnny Coles",
+     "Bernie Glow",
+     "Tony Studd",
+     "Bill Barber",
+     "Don Corrado",
+     "Gil Cohen",
+     "Julius Watkins",
+     "Ray Alonge",
+     "Kenny Burrell",
+     "Barry Galbraith",
+     "Margaret Ross",
+     "Ben Tucker",
+     "Richard Davis",
+     "Ron Carter",
+     "Al Block"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "El Toreador",
+    "track_number": 5,
+    "side": null,
+    "duration": "3:26",
+    "session_date": null,
+    "composers": [
+     "Gil Evans"
+    ],
+    "personnel": [
+     "Gil Evans",
+     "Johnny Coles",
+     "Ernie Royal",
+     "Louis Mucci",
+     "Jimmy Cleveland",
+     "Tony Studd",
+     "Bob Northern",
+     "Jimmy Buffington",
+     "Milt Hinton",
+     "Paul Chambers",
+     "Richard Davis",
+     "Osie Johnson",
+     "Steve Lacy",
+     "Eric Dolphy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "Proclamation",
+    "track_number": 6,
+    "side": null,
+    "duration": "3:55",
+    "session_date": null,
+    "composers": [
+     "Gil Evans"
+    ],
+    "personnel": [],
+    "bonus_track": true,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "Nothing Like You",
+    "track_number": 7,
+    "side": null,
+    "duration": "2:36",
+    "session_date": null,
+    "composers": [
+     "Bob Dorough",
+     "Fran Landesman"
+    ],
+    "personnel": [],
+    "bonus_track": true,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "Concorde",
+    "track_number": 8,
+    "side": null,
+    "duration": "7:39",
+    "session_date": null,
+    "composers": [
+     "John Lewis"
+    ],
+    "personnel": [],
+    "bonus_track": true,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "title": "Spoonful",
+    "track_number": 9,
+    "side": null,
+    "duration": "13:46",
+    "session_date": null,
+    "composers": [
+     "Willie Dixon"
+    ],
+    "personnel": [],
+    "bonus_track": true,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   }
+  ],
+  "track_assignments_complete": false,
+  "musicbrainz_release_group_mbid": "3bdee04a-b28b-338e-b52e-0bb8544f0348",
+  "apple_album_id": "1446912542",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/3bdee04a-b28b-338e-b52e-0bb8544f0348/front",
+    "is_original_cover": null,
+    "is_primary": true,
+    "epistemic": "inf",
+    "notes": "Cover Art Archive front image for the MusicBrainz release group; no source consulted documents whether it reproduces the original Verve V6-8555 gatefold, hence is_original_cover null."
+   }
+  ],
+  "notes": "FIVE SESSIONS, THREE ROOMS. Wikipedia and LondonJazzCollector agree on the schedule: September 1963; 6 April 1964; 25 May 1964; 9 July 1964; 29 October 1964 [S1,S3] (obs). Vinyl Standard lists only the first three of those dates, so its session list is incomplete rather than contradictory [S4]. September 1963 is documented only to the month, hence the bare 'YYYY-MM' recording date [S1,S3]. SITE CONFLICT, PRESERVED (rule 6): Wikipedia places the September 1963 session at A&R Studios, New York [S1], and LondonJazzCollector's own session list agrees [S3] — but the same LondonJazzCollector page names Webster Hall for 'Las Vegas Tango' specifically, crediting Bob Simpson as engineer on it [S3], and Tracking Angle says Simpson 'gives you all of Webster Hall's excellent reverberant acoustics on that track' [S8]. Two venues are asserted for one date, so the entry carries epistemic 'unk'. The A&R row chosen is the 'room undetermined' slug because no source documents which A&R room was used; it is the honest match here, not a default. Van Gelder Studio rows take ENGLEWOOD CLIFFS, not Hackensack, because all Van Gelder dates here are July and October 1964 [S1,S3]. PRODUCTION: Creed Taylor produced [S1,S2,S3] (obs). Engineers are documented per session — Bob Simpson, Phil Ramone and Rudy Van Gelder — and are not reducible to one name: the album carries three separate engineer credits in the database (Bob Simpson, Phil Ramone, Rudy Van Gelder), not one compound string — the dossier's single `engineer` field carries Van Gelder, and the per-session split is in the credit notes [S3,S8] (obs); AllMusic's credits table lists no engineer at all [S2]. PERSONNEL GAPS, STATED NOT GUESSED: five reed/woodwind players named by the sources carry no instrument attribution beyond 'reeds, woodwinds' — Jerome Richardson, Bob Tricarico, Garvin Bushell, Andy Fitzgerald and George Marge [S1,S3,S5,S6]. The instrument taxonomy has no generic woodwinds value and no source consulted names their actual instruments on these dates, so none of the five is entered as a performance row rather than guessed into a saxophone or clarinet slot. LondonJazzCollector does place Tricarico on soprano saxophone [S3], which conflicts with Wikipedia's 'reeds, woodwinds' [S1]; that single-source claim is recorded here and not entered. The consequence is that the per-track personnel lists in this dossier are incomplete on those five names and are transcribed otherwise as MusicBrainz gives them [S6]. Pete Levin is the inverse case — Wikipedia lists him on French horn [S1], LondonJazzCollector's six-horn roster and MusicBrainz omit him [S3,S6] — so he is entered with epistemic 'unk'. LINE-UP ROTATION: six bassists (Peacock, Carter, Chambers, Davis, Tucker, Hinton), two drummers (Elvin Jones, Osie Johnson) and seven French horns across the dates [S1,S3,S5,S6] (obs); no single rhythm section plays the album. TRACKS: the original LP was four titles — 'The Barbara Song', 'Las Vegas Tango', 'Flute Song/Hotel Me', 'El Toreador' [S1,S3] (obs). 'Time of the Barracudas', 'Proclamation', 'Nothing Like You', 'Concorde' and 'Spoonful' are CD-era additions (the first, eighth and ninth first appeared on LP only in 1974 in Verve's 'Previously Unreleased Recordings' series) and are flagged as bonus tracks [S1] (obs). Track numbering follows the nine-track CD program, so `side` is given for the four original LP titles only; durations are Wikipedia's, which totals 67:51, matching AllMusic's stated 01:07:51 [S1,S2] (obs). PER-TRACK DATES are not resolved: no source consulted ties each of the nine titles to one of the five session dates, so every track carries session_date null and track_assignments_complete is false [S1,S3,S6] (unk)."
+ },
+ "ballot": {
+  "album": "Gil Evans — The Individualism of Gil Evans (1964)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "This is a significant own-voice statement in Evans’ orchestral arc, filling the gap between the already-canonical Out of the Cool and his later ensembles; two pieces are co-written with Miles Davis, keeping that lineage audible (S1, S2, S3). Its exceptional session network includes Wayne Shorter, Eric Dolphy, Steve Lacy, Kenny Burrell, Paul Chambers, Ron Carter, and Elvin Jones, while “Las Vegas Tango” offers a vivid, still-compelling entry point (S1, S3, S5, S6).",
+  "case_against": "Its recognition is solid but not broad canon consensus: the dossier cites a 3.5/4 Penguin rating, a qualified AllMusic recommendation, and a Grammy nomination rather than a win (S1, S2). Five sessions across multiple studios and shifting personnel make it less a coherent fixed-band statement than an arranger-led project, and the documented gaps in instrument and track-session assignments limit how fully its session story can be reconstructed.",
+  "disagreement": null,
+  "recommendation": "John should consider it as a strong, contested addition that strengthens Evans’ arc and the canon’s personnel network without treating it as consensus-core.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6-luna",
+   "preset": "canon-council"
+  }
+ }
+}

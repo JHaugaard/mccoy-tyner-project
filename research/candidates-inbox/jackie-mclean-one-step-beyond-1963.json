@@ -1,0 +1,337 @@
+{
+ "id": "jackie-mclean-one-step-beyond-1963",
+ "artist": "Jackie McLean",
+ "album": "One Step Beyond",
+ "year": 1963,
+ "label": "Blue Note",
+ "catalog_number": "BLP 4137 / BST 84137",
+ "style_primary": "post-bop",
+ "style_tags": [
+  "hard-bop",
+  "avant-garde-jazz"
+ ],
+ "rationale": "Jackie McLean's One Step Beyond is one session — April 30, 1963 at Rudy Van Gelder's studio in Englewood Cliffs, New Jersey — released on Blue Note as BLP 4137, produced by Alfred Lion [S1,S2,S3,S4,S5] (obs). Consensus (signal 1): AllMusic rates it 5/5 (Thom Jurek: 'the first volley McLean fired in the direction of the new jazz ... still sounds fresh, vital, and full of grainy mystery') [S1,S2] (obs), and The Rolling Stone Jazz Record Guide also gives it 5/5 [S1] (obs) — two independent listing traditions at the top mark. Lineage (signal 2-3): this is the record that opens the inside-out sequence McLean, Moncur and Hutcherson then carried forward, and both immediate successors are already in the canon — Destination... Out! (recorded 20 September 1963, same pianist-less format) and Grachan Moncur III's Evolution (1963) — so the influence is audible inside the collection, not asserted from outside [S3] (obs). Session gravity (signal 4): the date introduced four players to the wider record — Moncur, Hutcherson, bassist Eddie Khan and seventeen-year-old Tony Williams, who joined Miles Davis' quintet a month later [S2,S5,S7] (obs); Hutcherson describes the chain himself — McLean heard him at the Club Coronet, called Alfred Lion, 'so we all went off to Rudy Van Gelder's [studio]' [S7] (obs). Defining statement: McLean replaced the piano with Hutcherson's vibraphone for the first time here, the move that gave the band its open, spacious sound and made him a leader of the post-bop transition rather than a hard-bop stylist [S1,S5] (obs). It still plays (signal 5): four originals in 37:33, two by McLean and two by Moncur, with no filler; the LP is still the recommended entry to McLean's inside-out period [S1,S2,S5] (obs). The hole it fills: the canon holds Jackie's Bag (1960), Let Freedom Ring (1962) and Destination... Out! (1964) but not the 1963 record that began that arc — the sequence reads as if it started with its second instalment [S3] (obs, cross-checked against the DB). Dating note, recorded rather than smoothed: the session is unanimously 30 April 1963 [S1,S2,S3,S4] (obs); Blue Note issued the LP in January 1964 [S1,S5] (obs), and the dossier carries 1963 because the canon dates by recording year.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "One Step Beyond (Jackie McLean album) — Wikipedia",
+   "type": "encyclopedia",
+   "url": "https://en.wikipedia.org/wiki/One_Step_Beyond_(Jackie_McLean_album)"
+  },
+  "S2": {
+   "title": "AllMusic — One Step Beyond, album page and full Credits tab",
+   "type": "database-credits",
+   "url": "https://www.allmusic.com/album/one-step-beyond-mw0000651704/credits"
+  },
+  "S3": {
+   "title": "Jazz Discography Project — Jackie McLean catalog, Blue Note BLP 4137 session listing",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/jackie-mclean/catalog/"
+  },
+  "S4": {
+   "title": "Note (Tatsuya Sato) — 'One Step Beyond / Jackie McLean' session data block",
+   "type": "session-listing",
+   "url": "https://note.com/tatsuyasato/n/n1d309d44680d"
+  },
+  "S5": {
+   "title": "Blue Note Records store — One Step Beyond (Blue Note Classic Vinyl Series)",
+   "type": "label",
+   "url": "https://store.bluenote.com/products/jackie-mclean-one-step-beyond-lp-blue-note-classic-vinyl-series"
+  },
+  "S6": {
+   "title": "Apple iTunes Search API — Jackie McLean / One Step Beyond",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Jackie+McLean+One+Step+Beyond&entity=album"
+  },
+  "S7": {
+   "title": "DownBeat — 'Bobby Hutcherson: California Dreaming' (interview)",
+   "type": "interview",
+   "url": "https://downbeat.com/archives/detail/bobby-hutcherson-california-dreaming/P1"
+  },
+  "S8": {
+   "title": "MusicBrainz — One Step Beyond release group c8941e61-e915-4302-b3bf-84a904cda696",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/c8941e61-e915-4302-b3bf-84a904cda696"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1963-04-30"
+  ],
+  "multi_session": false,
+  "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+  "recording_sites": [
+   {
+    "session_date": "1963-04-30",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   }
+  ],
+  "producer": "Alfred Lion",
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Jackie McLean",
+    "instrument": "alto saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-04-30"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Leader; composer of 'Saturday and Sunday' and 'Blue Rondo'; wrote the original liner notes [S1,S2]."
+   },
+   {
+    "name": "Grachan Moncur III",
+    "instrument": "trombone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-04-30"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Composer of 'Frankenstein' and 'Ghost Town' [S1,S2]."
+   },
+   {
+    "name": "Bobby Hutcherson",
+    "instrument": "vibraphone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-04-30"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5",
+     "S7"
+    ],
+    "name_variants": [],
+    "notes": "Replaces the pianist — the first of two McLean albums without piano [S1]."
+   },
+   {
+    "name": "Eddie Khan",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-04-30"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [
+     "Eddie Kahn"
+    ],
+    "notes": "Spelled 'Eddie Kahn' on the Blue Note store listing and in some reviews [S5]; AllMusic, Wikipedia and JazzDisco print 'Eddie Khan' [S1,S2,S3]."
+   },
+   {
+    "name": "Tony Williams",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-04-30"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5",
+     "S7"
+    ],
+    "name_variants": [
+     "Anthony Williams"
+    ],
+    "notes": "JazzDisco files the session under 'Anthony Williams' [S3]; aged 17, a month from joining Miles Davis [S2,S5]."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Saturday and Sunday",
+    "track_number": 1,
+    "side": "A",
+    "duration": "10:30",
+    "session_date": "1963-04-30",
+    "composers": [
+     "Jackie McLean"
+    ],
+    "personnel": [
+     "Jackie McLean",
+     "Grachan Moncur III",
+     "Bobby Hutcherson",
+     "Eddie Khan",
+     "Tony Williams"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "Frankenstein",
+    "track_number": 2,
+    "side": "A",
+    "duration": "7:32",
+    "session_date": "1963-04-30",
+    "composers": [
+     "Grachan Moncur III"
+    ],
+    "personnel": [
+     "Jackie McLean",
+     "Grachan Moncur III",
+     "Bobby Hutcherson",
+     "Eddie Khan",
+     "Tony Williams"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "Blue Rondo",
+    "track_number": 3,
+    "side": "B",
+    "duration": "4:52",
+    "session_date": "1963-04-30",
+    "composers": [
+     "Jackie McLean"
+    ],
+    "personnel": [
+     "Jackie McLean",
+     "Grachan Moncur III",
+     "Bobby Hutcherson",
+     "Eddie Khan",
+     "Tony Williams"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "Ghost Town",
+    "track_number": 4,
+    "side": "B",
+    "duration": "14:39",
+    "session_date": "1963-04-30",
+    "composers": [
+     "Grachan Moncur III"
+    ],
+    "personnel": [
+     "Jackie McLean",
+     "Grachan Moncur III",
+     "Bobby Hutcherson",
+     "Eddie Khan",
+     "Tony Williams"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3"
+    ]
+   },
+   {
+    "title": "Saturday and Sunday (Alternate Take)",
+    "track_number": 5,
+    "side": null,
+    "duration": "8:32",
+    "session_date": "1963-04-30",
+    "composers": [
+     "Jackie McLean"
+    ],
+    "personnel": [
+     "Jackie McLean",
+     "Grachan Moncur III",
+     "Bobby Hutcherson",
+     "Eddie Khan",
+     "Tony Williams"
+    ],
+    "bonus_track": true,
+    "alternate_take": true,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S3",
+     "S4"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "c8941e61-e915-4302-b3bf-84a904cda696",
+  "apple_album_id": "1444092985",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/c8941e61-e915-4302-b3bf-84a904cda696/front",
+    "is_original_cover": null,
+    "is_primary": true,
+    "epistemic": "inf",
+    "notes": "Cover Art Archive front image for the MusicBrainz release group; no source consulted documents whether it reproduces the original Blue Note BLP 4137 sleeve, hence is_original_cover null."
+   }
+  ],
+  "notes": "One session: April 30, 1963, Van Gelder Studio, Englewood Cliffs, New Jersey — Englewood Cliffs, not Hackensack, because Van Gelder moved in July 1959 [S1,S2,S3,S4] (obs). A single quintet plays throughout: no substitutions, no guests, no piano [S1,S2,S3,S5] (obs). Production: Alfred Lion produced [S1,S2,S4,S5] (obs); Rudy Van Gelder engineered [S4] (obs), corroborated by the house pattern for Blue Note dates at his own studio — AllMusic's credits table lists him only as remasterer and prints no engineer credit [S2]. Track durations are Wikipedia's [S1] and sum to 37:33, matching the LP; the alternate take of 'Saturday and Sunday' (8:32) is a CD-reissue bonus and is flagged as such [S1,S4]. AllMusic gives the album's total playing time as 47:00, which is the CD program including the alternate [S2]. Label dating: recorded 1963, released January 1964 [S1,S5]. Streaming: the four-track Apple edition (collectionId 1444092985) is the original LP program; a five-track Rudy Van Gelder Edition (716042948) carries the alternate [S6]."
+ },
+ "ballot": {
+  "album": "Jackie McLean — One Step Beyond (1963)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "The April 30, 1963 session is a consequential hinge: McLean’s piano-less quintet with Bobby Hutcherson and Grachan Moncur III opens the inside-out sequence that continues in *Destination... Out!* and Moncur’s *Evolution*, both already in the canon (S3); Hutcherson’s account of McLean bringing him to Blue Note adds first-person context for the session’s formation (S7). The date also captures seventeen-year-old Tony Williams shortly before he joined Miles Davis, while AllMusic and the *Rolling Stone Jazz Record Guide* each give the album 5/5 (S1, S2).",
+  "case_against": "The album’s strongest musical and historical case overlaps substantially with *Destination... Out!*, which the references describe as the more mature realization of the same pianoless quintet language; the canon may already represent that sound through the later album. The consensus evidence is also narrow: the dossier cites two high ratings but no Penguin Guide, JazzTimes, or other broad cross-tradition recognition, so it does not establish overwhelming consensus.",
+  "disagreement": "One reference judges the lineage and session-gravity case strong but keeps the album contested because of redundancy and limited consensus sourcing; the other considers it consensus core, arguing that its historical role makes it an indispensable companion rather than a duplicate.",
+  "recommendation": "John should consider it a strong, contested addition that fills a meaningful gap in the McLean sequence, while weighing whether *Destination... Out!* already carries enough of that musical story.",
+  "confidence": "medium",
+  "_council": {
+   "references": [
+    "openrouter:minimax/minimax-m3",
+    "openrouter:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6-luna",
+   "preset": "canon-council"
+  }
+ }
+}
