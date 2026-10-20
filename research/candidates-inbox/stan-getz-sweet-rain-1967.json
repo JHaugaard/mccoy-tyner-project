@@ -1,0 +1,291 @@
+{
+  "id": "stan-getz-sweet-rain-1967",
+  "artist": "Stan Getz",
+  "album": "Sweet Rain",
+  "year": 1967,
+  "label": "Verve",
+  "apple_album_id": 1444963171,
+  "musicbrainz_release_group_mbid": "933f5f56-71f8-34f2-bc2d-2188c6a0af2e",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/6f/9d/596f9d81-e9b3-08a6-30ac-3b55e7c4cac7/00602577174742.rgb.jpg/100x100bb.jpg",
+  "style_primary": "cool-jazz",
+  "style_tags": [
+    "post-bop"
+  ],
+  "rationale": "Getz's post-bossa artistic coup and the record that fixed the shape of the rest of his career: the quartet with 25-year-old Chick Corea, Ron Carter and Grady Tate, playing long, open, modal-tinged performances. Consensus signals are strong and independent: AllMusic 5 stars (Steve Huey, 'a surefire classic'), Penguin Guide 3.5 stars, Ted Gioia in History of Jazz calling it 'a major musical statement' and praising its 'excellent recording' of Con Alma. Session gravity is the album's case in one line: Corea, Carter and Tate were the young rhythm section that would define the next decade, and two Corea originals (Litha, Windows) enter the canon through this date. Discovery value is high — five long tracks, no filler, and it still plays.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Sweet Rain",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Sweet_Rain"
+    },
+    "S2": {
+      "title": "AllMusic: Stan Getz — Sweet Rain (review and credits)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/sweet-rain-mw0000188080"
+    },
+    "S3": {
+      "title": "Qobuz: Stan Getz — Sweet Rain (per-track credits)",
+      "type": "discography",
+      "url": "https://www.qobuz.com/us-en/album/sweet-rain-stan-getz/tff3t8gekw5ab"
+    },
+    "S4": {
+      "title": "iTunes Search API: Stan Getz Sweet Rain",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Stan+Getz+Sweet+Rain&entity=album&limit=10"
+    },
+    "S5": {
+      "title": "A Coppice Gate: Stan Getz, Sweet Rain — Must-Have Jazz Album #2 (John Cobley)",
+      "type": "article",
+      "url": "https://coppice-gate.com/jazz/334/stan-getz-sweet-rain-must-have-jazz-album-2"
+    },
+    "S6": {
+      "title": "Acoustic Sounds reissue listing: Stan Getz — Sweet Rain",
+      "type": "discography",
+      "url": "https://www.audiosoundmusic.com/products/stan-getz-sweet-rain"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1967-03-21",
+      "1967-03-30"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1967-03-21",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1967-03-30",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Creed Taylor",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Stan Getz",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Chick Corea",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Age 25 at the session; composer of Litha and Windows."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Grady Tate",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Litha",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:30",
+        "session_date": "1967-03-21",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Ron Carter",
+          "Grady Tate"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "O Grande Amor",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:44",
+        "session_date": "1967-03-21",
+        "composers": [
+          "Antônio Carlos Jobim",
+          "Vinicius de Moraes"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Ron Carter",
+          "Grady Tate"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Sweet Rain",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:12",
+        "session_date": "1967-03-21",
+        "composers": [
+          "Michael Gibbs"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Ron Carter",
+          "Grady Tate"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Con Alma",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:06",
+        "session_date": "1967-03-30",
+        "composers": [
+          "Dizzy Gillespie"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Ron Carter",
+          "Grady Tate"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Windows",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:57",
+        "session_date": "1967-03-30",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Ron Carter",
+          "Grady Tate"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "933f5f56-71f8-34f2-bc2d-2188c6a0af2e",
+    "apple_album_id": "1444963171",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/6f/9d/596f9d81-e9b3-08a6-30ac-3b55e7c4cac7/00602577174742.rgb.jpg/100x100bb.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Verve reissue artwork; original 1967 LP cover is the same session photograph."
+      }
+    ],
+    "notes": "Two sessions: 21 March (tracks 1-3) and 30 March 1967 (tracks 4-5). The original LP and the AllMusic album page print only 'March 30, 1967'; Wikipedia, the Acoustic Sounds reissue notes and Cobley's session study all give both dates, and Cobley reports that three titles from 21 March were rejected and never issued (Mike's Blues, Nightingales Sang in Berkeley Square, When the World Was Young) - so only three released tracks come from the first date. Engineer: Rudy Van Gelder; Val Valentin is credited as director of engineering, not as session engineer. CONFLICT PRESERVED: the AllMusic credits page for mw0000188080 also lists Billy Hart, George Mraz and Stanley Clarke as 'guest artists' alongside reissue roles (Kevin Reeves mastering, Harry Weinger reissue supervisor). Those three are not on the March 1967 quartet dates per Wikipedia, Qobuz's per-track credits and the reissue listings; their provenance is unclear (epistemic unk) and they are not carried into the personnel list."
+  },
+  "ballot": {
+    "album": "Stan Getz — Sweet Rain (1967)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Sweet Rain makes a defining-statement case as Getz’s post-bossa renewal: his lyrical tenor meets open, modal-tinged post-bop without losing its melodic identity. The documented quartet of Chick Corea, Ron Carter and Grady Tate supplies exceptional session gravity, while Corea’s “Litha” and “Windows” make the connection to an emerging compositional generation concrete (S1–S3). AllMusic’s five-star review calls it a “surefire classic” (S2); the dossier also reports Penguin Guide and Ted Gioia endorsements, though these lack direct source entries. Its concentrated five-track program offers an accessible demonstration of continuity between bossa, bebop repertoire and modern quartet improvisation.",
+    "case_against": "The dossier establishes critical acclaim more securely than independent canon-list consensus: Penguin Guide and Gioia endorsements remain indirectly reported, while several listed sources document credits or commercial availability rather than canonical standing. Musically, the strongest reservation is that this is an exceptionally realized adaptation of contemporary post-bop rather than a clearly documented engine of its development; the dossier supplies little evidence of downstream influence. Its polished, transitional character therefore leaves a legitimate question about indispensability, distinct from its quality or the number of Getz albums already represented.",
+    "disagreement": "Neither reference splits on tier, priority or scope: both recommend consensus_core/strong. They differ in evidentiary emphasis: Reference 1 treats cross-tradition consensus as incompletely demonstrated, whereas Reference 2 calls the acclaim universal despite acknowledging the same sourcing gaps; the ballot retains the narrower claim.",
+    "recommendation": "The council proposes that John give Sweet Rain strong-priority consideration as a consensus-core candidate, while seeking direct citations for the Penguin Guide and Gioia endorsements.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

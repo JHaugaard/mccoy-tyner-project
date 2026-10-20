@@ -1,0 +1,788 @@
+{
+  "id": "duke-ellington-new-orleans-suite-1970",
+  "artist": "Duke Ellington",
+  "album": "New Orleans Suite",
+  "year": 1970,
+  "label": "Atlantic",
+  "apple_album_id": 50234924,
+  "musicbrainz_release_group_mbid": "2a9d2a63-2026-3cdc-9541-84a8cf554642",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/0e/c5/c50ec508-aa99-276c-21ca-43c70c4cb97f/s06.knrqtdhw.jpg/100x100bb.jpg",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "Late Ellington's greatest extended suite and one of the canon's clearest consensus records: Penguin Guide Core Collection at its maximum rating, DownBeat 5 stars (Dan Morgenstern: 'a great record, and by any standard one of the major musical events of 1971'), and the 1971 Grammy for Best Jazz Performance by a Big Band. It also carries an unusual kind of session gravity: these are Johnny Hodges's final recordings — he died between the two sessions — and Paul Gonsalves's Portrait of Sidney Bechet answers him. Lineage is direct: it extends the suite form already in this canon through Such Sweet Thunder and The Far East Suite, and it is the record that shows the 1970 band, with Norris Turney and Wild Bill Davis aboard, still composing at the level of the 1940s band. It still plays: the portraits work as music, not as a history lesson.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: New Orleans Suite",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/New_Orleans_Suite"
+    },
+    "S2": {
+      "title": "AllMusic: Duke Ellington — New Orleans Suite (credits, awards)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/new-orleans-suite-mw0000649492"
+    },
+    "S3": {
+      "title": "Ellingtonia.com: Duke Ellington discography 1970-1974 (session rosters)",
+      "type": "discography",
+      "url": "https://ellingtonia.com/discography/1970-1974/"
+    },
+    "S4": {
+      "title": "iTunes Search API: Duke Ellington New Orleans Suite",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+New+Orleans+Suite&entity=album&limit=10"
+    },
+    "S5": {
+      "title": "JazzProfiles: Duke Ellington — The Making of New Orleans Suite (Steve Siegel)",
+      "type": "article",
+      "url": "https://jazzprofiles.blogspot.com/2026/08/duke-ellington-making-of-new-orleans.html"
+    },
+    "S6": {
+      "title": "Record World studio directory, 29 September 1979 (National Recording Studios, Inc., 730 5th Ave., New York, N.Y. 10019)",
+      "type": "directory",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Record-World/70s/79/RW-1979-09-29-II.pdf"
+    },
+    "S7": {
+      "title": "Wikipedia: National Video Center (National Recording Studios, 730 Fifth Avenue)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/National_Video_Center"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-04-27",
+      "1970-05-13"
+    ],
+    "multi_session": true,
+    "studio": "National Recording Studio, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1970-04-27",
+        "site_raw": "National Recording Studio, New York, NY",
+        "site_slug": null,
+        "site_new": {
+          "name": "National Recording Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "730 Fifth Avenue",
+          "lat": 40.76289,
+          "lon": -73.97456,
+          "location_epistemic": "obs",
+          "location_source": "Address: Record World studio directory, 29 September 1979 — 'National Recording Studios, Inc., 730 5th Ave., New York, N.Y. 10019' (https://www.worldradiohistory.com/Archive-All-Music/Record-World/70s/79/RW-1979-09-29-II.pdf); corroborated by https://en.wikipedia.org/wiki/National_Video_Center (opened 1959 at 730 Fifth Avenue, moved to W. 42nd Street in 1981) | coords: https://en.wikipedia.org/wiki/Crown_Building_(Manhattan) — 730 Fifth Avenue (OSM Nominatim's match for the bare street address landed off-target in upper Manhattan, so the building entity's coordinate was used instead; see notes)"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1970-05-13",
+        "site_raw": "National Recording Studio, New York, NY",
+        "site_slug": null,
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Duke Ellington",
+    "engineer": "Roger Rhodes",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also composer and arranger of the suite; AllMusic credits him as producer."
+      },
+      {
+        "name": "Cootie Williams",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Fred Stone",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic also credits flugelhorn."
+      },
+      {
+        "name": "Money Johnson",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blues for New Orleans",
+          "Bourbon Street Jingling Jollies",
+          "Thanks for the Beautiful Land on the Delta",
+          "Second Line",
+          "Aristocracy a la Jean Lafitte"
+        ],
+        "session_dates": [
+          "1970-04-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Harold \"Money\" Johnson"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Al Rubin",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blues for New Orleans",
+          "Bourbon Street Jingling Jollies",
+          "Thanks for the Beautiful Land on the Delta",
+          "Second Line",
+          "Aristocracy a la Jean Lafitte"
+        ],
+        "session_dates": [
+          "1970-04-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Alan Rubin"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Cat Anderson",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Portrait of Louis Armstrong",
+          "Portrait of Wellman Braud",
+          "Portrait of Sidney Bechet",
+          "Portrait of Mahalia Jackson"
+        ],
+        "session_dates": [
+          "1970-05-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Mercer Ellington",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Portrait of Louis Armstrong",
+          "Portrait of Wellman Braud",
+          "Portrait of Sidney Bechet",
+          "Portrait of Mahalia Jackson"
+        ],
+        "session_dates": [
+          "1970-05-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia's personnel list omits him; Ellingtonia's second-session roster and the AllMusic credits both name him."
+      },
+      {
+        "name": "Booty Wood",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Julian Priester",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dave Taylor",
+        "instrument": "bass trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blues for New Orleans",
+          "Bourbon Street Jingling Jollies",
+          "Thanks for the Beautiful Land on the Delta",
+          "Second Line",
+          "Aristocracy a la Jean Lafitte"
+        ],
+        "session_dates": [
+          "1970-04-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "David Taylor"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Chuck Connors",
+        "instrument": "bass trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Portrait of Louis Armstrong",
+          "Portrait of Wellman Braud",
+          "Portrait of Sidney Bechet",
+          "Portrait of Mahalia Jackson"
+        ],
+        "session_dates": [
+          "1970-05-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Russell Procope",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on clarinet."
+      },
+      {
+        "name": "Johnny Hodges",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blues for New Orleans",
+          "Bourbon Street Jingling Jollies",
+          "Thanks for the Beautiful Land on the Delta",
+          "Second Line",
+          "Aristocracy a la Jean Lafitte"
+        ],
+        "session_dates": [
+          "1970-04-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "His final recordings; he died 11 May 1970, between the two sessions."
+      },
+      {
+        "name": "Norris Turney",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on clarinet, flute and tenor saxophone."
+      },
+      {
+        "name": "Harold Ashby",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on clarinet."
+      },
+      {
+        "name": "Paul Gonsalves",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Harry Carney",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on clarinet and bass clarinet."
+      },
+      {
+        "name": "Wild Bill Davis",
+        "instrument": "organ",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blues for New Orleans"
+        ],
+        "session_dates": [
+          "1970-04-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Organ on track 1 only."
+      },
+      {
+        "name": "Joe Benjamin",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Rufus Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Rufus \"Speedy\" Jones"
+        ],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Blues for New Orleans",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:40",
+        "session_date": "1970-04-27",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Money Johnson",
+          "Al Rubin",
+          "Booty Wood",
+          "Julian Priester",
+          "Dave Taylor",
+          "Russell Procope",
+          "Johnny Hodges",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Wild Bill Davis",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Bourbon Street Jingling Jollies",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:00",
+        "session_date": "1970-04-27",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Money Johnson",
+          "Al Rubin",
+          "Booty Wood",
+          "Julian Priester",
+          "Dave Taylor",
+          "Russell Procope",
+          "Johnny Hodges",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Portrait of Louis Armstrong",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:02",
+        "session_date": "1970-05-13",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Booty Wood",
+          "Julian Priester",
+          "Chuck Connors",
+          "Russell Procope",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Thanks for the Beautiful Land on the Delta",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:38",
+        "session_date": "1970-04-27",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Money Johnson",
+          "Al Rubin",
+          "Booty Wood",
+          "Julian Priester",
+          "Dave Taylor",
+          "Russell Procope",
+          "Johnny Hodges",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Portrait of Wellman Braud",
+        "track_number": 5,
+        "side": "A",
+        "duration": "4:05",
+        "session_date": "1970-05-13",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Booty Wood",
+          "Julian Priester",
+          "Chuck Connors",
+          "Russell Procope",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Second Line",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:00",
+        "session_date": "1970-04-27",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Money Johnson",
+          "Al Rubin",
+          "Booty Wood",
+          "Julian Priester",
+          "Dave Taylor",
+          "Russell Procope",
+          "Johnny Hodges",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Portrait of Sidney Bechet",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:55",
+        "session_date": "1970-05-13",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Booty Wood",
+          "Julian Priester",
+          "Chuck Connors",
+          "Russell Procope",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Aristocracy a la Jean Lafitte",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:57",
+        "session_date": "1970-04-27",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Money Johnson",
+          "Al Rubin",
+          "Booty Wood",
+          "Julian Priester",
+          "Dave Taylor",
+          "Russell Procope",
+          "Johnny Hodges",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Portrait of Mahalia Jackson",
+        "track_number": 9,
+        "side": "B",
+        "duration": "4:53",
+        "session_date": "1970-05-13",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Cootie Williams",
+          "Fred Stone",
+          "Cat Anderson",
+          "Mercer Ellington",
+          "Booty Wood",
+          "Julian Priester",
+          "Chuck Connors",
+          "Russell Procope",
+          "Norris Turney",
+          "Harold Ashby",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Joe Benjamin",
+          "Rufus Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "2a9d2a63-2026-3cdc-9541-84a8cf554642",
+    "apple_album_id": "50234924",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/0e/c5/c50ec508-aa99-276c-21ca-43c70c4cb97f/s06.knrqtdhw.jpg/100x100bb.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Atlantic CD artwork; original 1970 LP sleeve art is the same photograph."
+      }
+    ],
+    "notes": "Two sessions: 27 April 1970 (tracks 1, 2, 4, 6, 8) and 13 May 1970 (tracks 3, 5, 7, 9), at National Recording Studios, New York City. DATE CONFLICT PRESERVED: Wikipedia, the AllMusic album page and the LP listing give 13 May; Ellingtonia's discography gives 11 May 1970 for the second session — unresolved, both recorded here as 13 May (obs) with the alternative noted. Mixed, edited and sequenced at Atlantic Recording Studios, New York (AllMusic: Ilhan Mimaroglu, editing/mixing/sequencing) — that is post-production, not a recording site. Producer credit from AllMusic; engineer Roger Rhodes. Wikipedia's personnel list omits Mercer Ellington, who appears on Ellingtonia's second-session roster and in the AllMusic credits. Wild Bill Davis plays organ on track 1 only. Johnny Hodges died between the sessions; these are his last recordings. track_assignments_complete is false because the per-track solo/chair detail beyond session membership is not fully documented. PLACE: National Recording Studios is not in the canonical place set, so it is minted here complete — 730 Fifth Avenue, New York (documented in the 1979 Record World studio directory and Wikipedia's National Video Center article; National occupied that address from 1959 until moving to W. 42nd Street in 1981, so it is the right room for 1970). Coordinates come from the Crown Building entity at 730 Fifth Avenue, not from OSM's match for the bare street address, which resolved to upper Manhattan off-target; the address itself is street-level `obs`. STAGED STATE (2026-10-20): the 27 April session was attached to national-recording-studios; the 13 May entry staged with no place because the site_new object appeared only on the first recording_sites entry and stage-candidate resolves each entry independently. Repair means writing session.studio_id, which is outside the edit whitelist — flagged to John rather than written here."
+  },
+  "ballot": {
+    "album": "Duke Ellington — New Orleans Suite (1970)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "No hard scope boundary applies; the stylistic question is whether this backward-looking orchestral suite is best described as post-bop or as Ellington's distinct modern big-band continuum."
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The dossier reports Penguin Guide Core Collection recognition, a five-star DownBeat review by Dan Morgenstern, and a Grammy win: substantial convergence across independent evaluative traditions, although the critical citations need tighter source attribution. The suite extends the orchestral lineage of Such Sweet Thunder and The Far East Suite through distinctive blues, gospel, second-line rhythms, and instrumental portraits rather than merely repeating their achievement. Johnny Hodges's final recordings give it exceptional session gravity, supported by the personnel and session documentation (S1–S3). Wild Bill Davis's organ on \"Blues for New Orleans\" and the ensemble drive of \"Second Line\" make its historical argument immediately accessible as music.",
+    "case_against": "Its strongest challenge is distinctiveness within the discovery canon: the episodic portraits and dance pieces arguably offer a less unified defining statement than The Far East Suite, while its principal orchestral lessons may already be conveyed by the earlier suites. Its retrospective swing, blues, and gospel language also makes the dossier's post-bop classification debatable, even though that does not place it outside scope. The consensus argument is stronger than its documentation here: the Penguin and DownBeat claims lack precise source attribution, and neither Hodges's final appearance nor the unresolved second-session date establishes canonical importance by itself.",
+    "disagreement": "Both references endorse consensus_core at strong priority. They differ on stylistic framing: Reference 1 treats the post-bop label as defensible and sees no scope issue, while Reference 2 regards it as a stretch and raises an aesthetic boundary question, though it also concludes that the album is squarely in scope.",
+    "recommendation": "The council proposes that John give this strong-priority consideration as a late-Ellington defining statement, with the Penguin and DownBeat citations tightened before his decision.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
