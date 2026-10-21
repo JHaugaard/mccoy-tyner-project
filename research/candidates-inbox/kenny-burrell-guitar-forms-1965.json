@@ -1,0 +1,873 @@
+{
+ "id": "kenny-burrell-guitar-forms-1965",
+ "artist": "Kenny Burrell",
+ "album": "Guitar Forms",
+ "year": 1965,
+ "label": "Verve",
+ "catalog_number": "Verve V-8612 / V6-8612",
+ "style_primary": "hard-bop",
+ "style_tags": [],
+ "rationale": "The record that makes the case for Kenny Burrell as an artist rather than a very good guitar player: Creed Taylor put him with Gil Evans, and Evans wrote an orchestra underneath the guitar instead of around it [S2, S3] (obs). Session gravity is the strongest single argument here — the Evans ensemble is Lee Konitz, Steve Lacy, Jimmy Knepper, Jimmy Cleveland, Ron Carter and Elvin Jones, players who define this canon from a dozen other albums, assembled for a guitarist [S1, S3] (obs). Consensus: Wikipedia's review table gives AllMusic 4/5, Record Mirror 4/5, the Penguin Guide 3.5/5, DownBeat 5/5 and the Rolling Stone Jazz Record Guide 5/5 [S2] (obs); the album took three 1966 Grammy nominations — Best Instrumental Jazz Performance (Large Group or Soloist with Large Group), Best Album Cover Photography, and Best Arrangement for Evans's 'Greensleeves' [S2] (obs). Defining statement: it is the only Burrell album where a major arranger builds a programme for him, half orchestral, half quintet, with one solo guitar piece — a form never repeated in his catalogue [S1, S2] (inf). Lineage: the Gil Evans orchestral-with-a-soloist model is the same one already in this canon on the Miles Davis records, applied to guitar four years after Sketches of Spain; it is the bridge between Evans's Davis work and the later guitar-with-orchestra tradition [S1, S2] (inf). It still plays: 'Lotus Land' and 'Loie' are immediately legible cold, and 'Downstairs' is an Elvin Jones blues played by a quintet that swings hard [S3] (inf). Not oversold: Penguin sits at 3.5/5, and the album is only sporadically orchestral — the April 1965 quintet tracks are a different, smaller record interleaved with the Evans pieces [S2, S3] (obs).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "AllMusic — Kenny Burrell: Guitar Forms (mw0000191602), release date, styles, recording date, track list",
+   "type": "overview/credits",
+   "url": "https://www.allmusic.com/album/guitar-forms-mw0000191602"
+  },
+  "S2": {
+   "title": "Wikipedia — Guitar Forms (personnel sections for combo and orchestra, production credits, track listing with durations and composers, review-score table citing AllMusic/Record Mirror/Penguin Guide/DownBeat/Rolling Stone Jazz Record Guide, 1966 Grammy nominations, MusicBrainz release-group ID)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Guitar_Forms"
+  },
+  "S3": {
+   "title": "JazzDiscography.org (jazzdisco) — Kenny Burrell catalog, Verve V/V6-8612: four sessions with dates, studio, matrix numbers and personnel",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/kenny-burrell/catalog/"
+  },
+  "S4": {
+   "title": "Vinyl Standard — Kenny Burrell: The Sixties, 'Guitar Forms' entry (session dates, producer, engineer, personnel with quintet/orchestra split, flags the jazzdisco-vs-Wikipedia studio conflict)",
+   "type": "discography",
+   "url": "https://vinylstandard.com/kenny-burrell-sixties.html"
+  },
+  "S5": {
+   "title": "MusicBrainz — release group c2976e6f-03f1-3ade-af79-83f85c29d665",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/c2976e6f-03f1-3ade-af79-83f85c29d665"
+  },
+  "S6": {
+   "title": "Cover Art Archive — front cover, release group c2976e6f-03f1-3ade-af79-83f85c29d665",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/c2976e6f-03f1-3ade-af79-83f85c29d665"
+  },
+  "S7": {
+   "title": "iTunes Search API — album lookup (collectionId 1582213328, 9-track original programme; expanded edition 1442948190 also returned)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Kenny+Burrell+Guitar+Forms&entity=album"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1964-12-04",
+   "1964-12-15",
+   "1965-04-06",
+   "1965-04-12"
+  ],
+  "multi_session": true,
+  "studio": "Van Gelder Studio, Englewood Cliffs, NJ (jazzdisco, Discogs) / Webster Hall, New York City (Wikipedia) — conflicting for the two December 1964 sessions",
+  "recording_sites": [
+   {
+    "session_date": "1964-12-04",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ (jazzdisco, Discogs) / Webster Hall, New York City, NY (Wikipedia)",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1964-12-15",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ (jazzdisco, Discogs) / Webster Hall, New York City, NY (Wikipedia)",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "unk",
+    "source": "S3"
+   },
+   {
+    "session_date": "1965-04-06",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   },
+   {
+    "session_date": "1965-04-12",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   }
+  ],
+  "producer": "Creed Taylor",
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Kenny Burrell",
+    "instrument": "guitar",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Solo guitar on 'Prelude No. 2'."
+   },
+   {
+    "name": "Ron Carter",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": [
+     "1964-12-04",
+     "1964-12-15"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Orchestra sessions."
+   },
+   {
+    "name": "Elvin Jones",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": [
+     "1964-12-04",
+     "1964-12-15"
+    ],
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Jazzdisco and Wikipedia list 'Elvin Jones OR Charlie Persip' — the alternate is unresolved in the sources. Presence unconfirmed; recorded as unk, not as fact."
+   },
+   {
+    "name": "Charlie Persip",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": [
+     "1964-12-04",
+     "1964-12-15"
+    ],
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [
+     "Charli Persip"
+    ],
+    "notes": "The other half of jazzdisco's 'Elvin Jones OR Charlie Persip' alternate. Presence unconfirmed."
+   },
+   {
+    "name": "Johnny Coles",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": [
+     "1964-12-04",
+     "1964-12-15"
+    ],
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Source says 'Johnny Coles OR Louis Mucci' — alternate unresolved."
+   },
+   {
+    "name": "Louis Mucci",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": [
+     "1964-12-04",
+     "1964-12-15"
+    ],
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "The other half of the trumpet alternate. Presence unconfirmed."
+   },
+   {
+    "name": "Jimmy Cleveland",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Orchestra."
+   },
+   {
+    "name": "Jimmy Knepper",
+    "instrument": "trombone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Orchestra."
+   },
+   {
+    "name": "Ray Alonge",
+    "instrument": "French horn",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Source says 'Ray Alonge OR Julius Watkins' — alternate unresolved."
+   },
+   {
+    "name": "Julius Watkins",
+    "instrument": "French horn",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "The other half of the French horn alternate. Presence unconfirmed."
+   },
+   {
+    "name": "Bill Barber",
+    "instrument": "tuba",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "TAXONOMY GAP: 'tuba' is not in docs/personnel-contract.md; used as the most specific descriptive term per the contract's escape clause."
+   },
+   {
+    "name": "Andy Fitzgerald",
+    "instrument": "flute",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Doubles English horn; primary woodwind recorded as flute (taxonomy has no English horn)."
+   },
+   {
+    "name": "George Marge",
+    "instrument": "flute",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Doubles English horn. Wikipedia writes the reed section as 'George Marge - English horn & flute OR Richie Kamuca - tenor sax & oboe'; jazzdisco lists both men without the alternate. Both are recorded here; the 'or' is preserved in this note."
+   },
+   {
+    "name": "Ray Beckenstein",
+    "instrument": "flute",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Doubles alto flute and bass clarinet; primary recorded as flute."
+   },
+   {
+    "name": "Bob Tricarico",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Doubles bassoon and flute; primary recorded as tenor saxophone."
+   },
+   {
+    "name": "Richie Kamuca",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Doubles oboe. See George Marge note on the Wikipedia 'or' wording."
+   },
+   {
+    "name": "Steve Lacy",
+    "instrument": "soprano saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Orchestra."
+   },
+   {
+    "name": "Lee Konitz",
+    "instrument": "alto saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Lotus Land",
+     "Moon and Sand",
+     "Loie",
+     "Greensleeves",
+     "Last Night When We Were Young"
+    ],
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Orchestra."
+   },
+   {
+    "name": "Roger Kellaway",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Downstairs",
+     "Terrace Theme",
+     "Breadwinner"
+    ],
+    "session_dates": [
+     "1965-04-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Quintet tracks."
+   },
+   {
+    "name": "Joe Benjamin",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Downstairs",
+     "Terrace Theme",
+     "Breadwinner"
+    ],
+    "session_dates": [
+     "1965-04-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Quintet tracks. Composer of 'Terrace Theme'."
+   },
+   {
+    "name": "Grady Tate",
+    "instrument": "drums",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Downstairs",
+     "Terrace Theme",
+     "Breadwinner"
+    ],
+    "session_dates": [
+     "1965-04-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Quintet tracks."
+   },
+   {
+    "name": "Willie Rodriguez",
+    "instrument": "congas",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Downstairs",
+     "Terrace Theme",
+     "Breadwinner"
+    ],
+    "session_dates": [
+     "1965-04-12"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "name_variants": [
+     "Willie Rodríguez"
+    ],
+    "notes": "Quintet tracks."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Downstairs",
+    "track_number": 1,
+    "side": null,
+    "duration": "2:53",
+    "session_date": "1965-04-12",
+    "composers": [
+     "Elvin Jones"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Roger Kellaway",
+     "Joe Benjamin",
+     "Grady Tate",
+     "Willie Rodriguez"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Lotus Land",
+    "track_number": 2,
+    "side": null,
+    "duration": "9:38",
+    "session_date": "1964-12-15",
+    "composers": [
+     "Cyril Scott"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Ron Carter",
+     "Elvin Jones",
+     "Charlie Persip",
+     "Johnny Coles",
+     "Louis Mucci",
+     "Jimmy Cleveland",
+     "Jimmy Knepper",
+     "Ray Alonge",
+     "Julius Watkins",
+     "Bill Barber",
+     "Andy Fitzgerald",
+     "George Marge",
+     "Ray Beckenstein",
+     "Bob Tricarico",
+     "Richie Kamuca",
+     "Steve Lacy",
+     "Lee Konitz"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Terrace Theme",
+    "track_number": 3,
+    "side": null,
+    "duration": "4:02",
+    "session_date": "1965-04-12",
+    "composers": [
+     "Joe Benjamin"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Roger Kellaway",
+     "Joe Benjamin",
+     "Grady Tate",
+     "Willie Rodriguez"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Prelude No. 2",
+    "track_number": 4,
+    "side": null,
+    "duration": "2:17",
+    "session_date": "1965-04-12",
+    "composers": [
+     "George Gershwin"
+    ],
+    "personnel": [
+     "Kenny Burrell"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "notes": "Solo guitar."
+   },
+   {
+    "title": "Moon and Sand",
+    "track_number": 5,
+    "side": null,
+    "duration": "4:16",
+    "session_date": "1964-12-04",
+    "composers": [
+     "William Engvick",
+     "Morty Palitz",
+     "Alec Wilder"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Ron Carter",
+     "Elvin Jones",
+     "Charlie Persip",
+     "Johnny Coles",
+     "Louis Mucci",
+     "Jimmy Cleveland",
+     "Jimmy Knepper",
+     "Ray Alonge",
+     "Julius Watkins",
+     "Bill Barber",
+     "Andy Fitzgerald",
+     "George Marge",
+     "Ray Beckenstein",
+     "Bob Tricarico",
+     "Richie Kamuca",
+     "Steve Lacy",
+     "Lee Konitz"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Loie",
+    "track_number": 6,
+    "side": null,
+    "duration": "3:19",
+    "session_date": "1964-12-15",
+    "composers": [
+     "Kenny Burrell"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Ron Carter",
+     "Elvin Jones",
+     "Charlie Persip",
+     "Johnny Coles",
+     "Louis Mucci",
+     "Jimmy Cleveland",
+     "Jimmy Knepper",
+     "Ray Alonge",
+     "Julius Watkins",
+     "Bill Barber",
+     "Andy Fitzgerald",
+     "George Marge",
+     "Ray Beckenstein",
+     "Bob Tricarico",
+     "Richie Kamuca",
+     "Steve Lacy",
+     "Lee Konitz"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Greensleeves",
+    "track_number": 7,
+    "side": null,
+    "duration": "4:12",
+    "session_date": "1965-04-06",
+    "composers": [
+     "Traditional"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Ron Carter",
+     "Elvin Jones",
+     "Charlie Persip",
+     "Johnny Coles",
+     "Louis Mucci",
+     "Jimmy Cleveland",
+     "Jimmy Knepper",
+     "Ray Alonge",
+     "Julius Watkins",
+     "Bill Barber",
+     "Andy Fitzgerald",
+     "George Marge",
+     "Ray Beckenstein",
+     "Bob Tricarico",
+     "Richie Kamuca",
+     "Steve Lacy",
+     "Lee Konitz"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "notes": "Jazzdisco records 6 April 1965 as 'Kenny Burrell, guitar; and others' — the orchestra personnel for this date is inferred from the other Evans sessions, hence unk."
+   },
+   {
+    "title": "Last Night When We Were Young",
+    "track_number": 8,
+    "side": null,
+    "duration": "4:34",
+    "session_date": "1964-12-04",
+    "composers": [
+     "Harold Arlen",
+     "Yip Harburg"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Ron Carter",
+     "Elvin Jones",
+     "Charlie Persip",
+     "Johnny Coles",
+     "Louis Mucci",
+     "Jimmy Cleveland",
+     "Jimmy Knepper",
+     "Ray Alonge",
+     "Julius Watkins",
+     "Bill Barber",
+     "Andy Fitzgerald",
+     "George Marge",
+     "Ray Beckenstein",
+     "Bob Tricarico",
+     "Richie Kamuca",
+     "Steve Lacy",
+     "Lee Konitz"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "unk",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Breadwinner",
+    "track_number": 9,
+    "side": null,
+    "duration": "3:00",
+    "session_date": "1965-04-12",
+    "composers": [
+     "Kenny Burrell"
+    ],
+    "personnel": [
+     "Kenny Burrell",
+     "Roger Kellaway",
+     "Joe Benjamin",
+     "Grady Tate",
+     "Willie Rodriguez"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   }
+  ],
+  "track_assignments_complete": false,
+  "musicbrainz_release_group_mbid": "c2976e6f-03f1-3ade-af79-83f85c29d665",
+  "apple_album_id": "1582213328",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/c2976e6f-03f1-3ade-af79-83f85c29d665/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": ""
+   }
+  ],
+  "notes": "Four sessions. 4 Dec 1964: 'Last Night When We Were Young', 'Moon and Sand'. 15 Dec 1964: 'Lotus Land', 'Loie'. 6 Apr 1965: 'Greensleeves'. 12 Apr 1965: 'Breadwinner', 'Terrace Theme', 'Prelude No. 2', 'Downstairs' (jazzdisco matrix numbers 64VK607-610, 65VK313, 65VK262-264, 65VK327). STUDIO CONFLICT, preserved: jazzdisco and Discogs put all four sessions at Van Gelder Studio, Englewood Cliffs; Wikipedia says the two December 1964 sessions were at Webster Hall, New York City. Vinyl Standard publishes both claims side by side without resolving them. The December entries therefore carry epistemic unk rather than picking a winner — only one place row can hang on a session date. Engineer Rudy Van Gelder is named by Wikipedia's production section and by Vinyl Standard; AllMusic serves no credits text for this album (the /credits tab returns the overview page). Instrumental doubles recorded on the primary taxonomy string with the double in notes: Fitzgerald/Marge (English horn), Beckenstein (alto flute, bass clarinet), Tricarico (bassoon, flute), Kamuca (oboe). Four personnel pairs are unresolved 'or' alternates in the sources — trumpet (Coles/Mucci), French horn (Alonge/Watkins), drums (Jones/Persip) — all recorded as unk; do not read them as five-piece horn sections. Gil Evans is arranger and conductor and is deliberately NOT in `personnel`: he plays nothing, and the taxonomy has no value for arranger, so any instrument string would be an invented performance credit. The arrangement credit lives here and in the rationale. Apple: collectionId 1582213328 is the 9-track original programme; the 20-track 'Expanded Edition' is 1442948190."
+ },
+ "ballot": {
+  "album": "Kenny Burrell — Guitar Forms (1965)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "Gil Evans's orchestral settings give Burrell a distinctive showcase beyond the guitar combo, extending the soloist-and-orchestra approach associated with Evans's Miles Davis collaborations without requiring an unproven claim of downstream influence [S1–S3] (inf). The confirmed presence of Lee Konitz, Steve Lacy, Jimmy Knepper, Jimmy Cleveland, and Ron Carter supplies exceptional session gravity [S2, S3] (obs). Ratings reported through Wikipedia—five stars from DownBeat and the Rolling Stone Jazz Record Guide, alongside favorable AllMusic and Penguin assessments—support broad critical recognition, although the original reviews are not supplied [S2] (obs). 'Lotus Land' and 'Loie,' complemented by the combo and solo performances, offer an accessible demonstration of Burrell's expressive range [S1–S3] (inf).",
+  "case_against": "The original program combines five orchestral tracks, three quintet performances, and one solo piece; that variety can make it feel like an interrupted Evans collaboration rather than a fully integrated defining statement [S2, S3] (inf). Favorable review scores do not establish recurring canon-list consensus, and the dossier does not substantiate either unique status across Burrell's catalogue or a direct influence on later orchestral guitar records (unk). Unresolved personnel alternates and recording-location conflicts limit the precision of the session-gravity argument, while 'Downstairs' must be credited as an Elvin Jones composition performed with Grady Tate on drums, not evidence of Jones's participation [S2–S4] (obs).",
+  "disagreement": "Reference 1 judges the distinctive Evans collaboration, broad critical approval, and confirmed personnel sufficient for consensus_core; Reference 2 judges the orchestral/combo discontinuity substantial enough for contested. Both assign strong priority and find no scope boundary; Reference 2's further claims of budget-driven filler and a direct CTI lineage are not established by the dossier.",
+  "recommendation": "The council proposes John give Guitar Forms strong-priority listening consideration, deciding whether its contrasting formats enrich Burrell's statement or weaken its canonical coherence.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "nous:minimax/minimax-m3",
+    "nous:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6.1-sol",
+   "preset": "canon-council"
+  }
+ }
+}

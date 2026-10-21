@@ -1,0 +1,397 @@
+{
+ "id": "max-roach-jazz-in-3-4-time-1957",
+ "artist": "Max Roach",
+ "album": "Jazz in 3/4 Time",
+ "year": 1957,
+ "label": "EmArcy",
+ "catalog_number": "EmArcy MG 36108",
+ "style_primary": "hard-bop",
+ "style_tags": [],
+ "rationale": "The record that answers a question the canon otherwise never asks: can this music swing when nothing is in four. Six tunes, five of them waltzes written or chosen by a drummer, played by a quintet with Sonny Rollins and Kenny Dorham at the top of their form [S1, S2] (obs). Defining statement: Scott Yanow's AllMusic review says it plainly — 'These excellent performances show that jazz does not always have to be in 4/4 time in order to swing' [S2] (obs); the album is the standing 3/4 reference in the Roach catalogue, sitting between Max Roach + 4 (1956) and Deeds, Not Words (1958) [S2] (inf). Session gravity: Rollins, Dorham, George Morrow and Roach — four musicians already load-bearing elsewhere in this canon — in a one-off quintet that never recorded again as this lineup [S2, S4] (obs); All About Jazz notes it is 'the only recording by this particular cast' [S4] (obs). Lineage: 'Valse Hot', Rollins's fourteen-minute waltz, is the tune that made triple metre a jazz composer's option rather than a novelty, and it is the reason the 3/4 experiment has descendants at all [S2, S4] (inf). It still plays: the long 'Valse Hot' is the discovery — a Rollins solo that All About Jazz ranks with his work on Sonny Rollins, Vol. 2 from the same months [S4] (inf). Not oversold: this is not a consensus-core record. The review table gives AllMusic 4/5, Disc 4/5, the Penguin Guide 3.5/5, the Rolling Stone Jazz Record Guide 3/5 and Tom Hull a B+ [S2] (obs) — a strong second-tier Roach, argued on the format and the session rather than on unanimity. Release note: recorded September 1956 and March 1957, issued by EmArcy in 1957; the canon year is the release year, which matches the recording span's end [S1, S2] (obs).",
+ "priority": "consider",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "AllMusic — Max Roach: Jazz in 3/4 Time (mw0000188593), release date, style, recording date range and locations",
+   "type": "overview/credits",
+   "url": "https://www.allmusic.com/album/jazz-in-3-4-time-mw0000188593"
+  },
+  "S2": {
+   "title": "Wikipedia — Jazz in 3/4 Time (recording dates and rooms, track listing with durations and composers, personnel with the Bryant/Wallace piano split, review-score table citing AllMusic/Disc/Penguin Guide/Rolling Stone/Tom Hull, producer credit, MusicBrainz release-group ID)",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Jazz_in_3/4_Time"
+  },
+  "S3": {
+   "title": "JazzDiscography.org (jazzdisco) — Max Roach catalog, EmArcy MG-36108: four sessions with exact dates, rooms, matrix numbers and per-session personnel",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/max-roach/catalog/"
+  },
+  "S4": {
+   "title": "All About Jazz — review of Jazz in 3/4 Time by Samuel Chell (personnel list including the Bryant/Wallace split; 'the only recording by this particular cast')",
+   "type": "critic-review",
+   "url": "https://www.allaboutjazz.com/jazz-in-3-4-time-max-roach-emarcy-review-by-samuel-chell"
+  },
+  "S5": {
+   "title": "MusicBrainz — release group 9cf01888-68d0-4780-ad1d-7363e2a4e593",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/9cf01888-68d0-4780-ad1d-7363e2a4e593"
+  },
+  "S6": {
+   "title": "Cover Art Archive — front cover, release group 9cf01888-68d0-4780-ad1d-7363e2a4e593",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/9cf01888-68d0-4780-ad1d-7363e2a4e593"
+  },
+  "S7": {
+   "title": "iTunes Search API — album lookup (collectionId 1443512755, 6-track programme)",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Max+Roach+Jazz+in+3%2F4+Time&entity=album"
+  },
+  "S8": {
+   "title": "sonnyrollins.com — Jazz in 3/4 Time entry (session month and city, 8-track expanded edition listing, quintet personnel with Bill Wallace)",
+   "type": "discography",
+   "url": "https://sonnyrollins.com/jazz-in-34-time"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1956-09-19",
+   "1957-03-18",
+   "1957-03-20",
+   "1957-03-21"
+  ],
+  "multi_session": true,
+  "studio": "Capitol Tower, Los Angeles, CA (March 1957) and New York City, NY (19 September 1956)",
+  "recording_sites": [
+   {
+    "session_date": "1956-09-19",
+    "site_raw": "NYC",
+    "site_slug": "new-york-city-venue-unidentified",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   },
+   {
+    "session_date": "1957-03-18",
+    "site_raw": "Capitol Tower, Los Angeles, CA",
+    "site_slug": "capitol-records-studio-capitol-tower",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   },
+   {
+    "session_date": "1957-03-20",
+    "site_raw": "Capitol Tower, Los Angeles, CA",
+    "site_slug": "capitol-records-studio-capitol-tower",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   },
+   {
+    "session_date": "1957-03-21",
+    "site_raw": "Capitol Tower, Los Angeles, CA",
+    "site_slug": "capitol-records-studio-capitol-tower",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   }
+  ],
+  "producer": "Bob Shad",
+  "engineer": null,
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Max Roach",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "Leader. Composer of 'Blues Waltz' and 'Little Folks'."
+   },
+   {
+    "name": "Kenny Dorham",
+    "instrument": "trumpet",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Sonny Rollins",
+    "instrument": "tenor saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "Composer of 'Valse Hot'."
+   },
+   {
+    "name": "George Morrow",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": null,
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Bill Wallace",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Blues Waltz",
+     "Valse Hot",
+     "I'll Take Romance",
+     "Little Folks",
+     "Lover"
+    ],
+    "session_dates": [
+     "1957-03-18",
+     "1957-03-20",
+     "1957-03-21"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [
+     "Billy Wallace"
+    ],
+    "notes": "All March 1957 sessions. Wikipedia, All About Jazz and jazzdisco agree; sonnyrollins.com's personnel line names him 'Bill Wallace'."
+   },
+   {
+    "name": "Ray Bryant",
+    "instrument": "piano",
+    "scope": "selected-tracks",
+    "tracks": [
+     "The Most Beautiful Girl in the World"
+    ],
+    "session_dates": [
+     "1956-09-19"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "name_variants": [],
+    "notes": "Only on the September 1956 New York date."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Blues Waltz",
+    "track_number": 1,
+    "side": null,
+    "duration": "6:31",
+    "session_date": "1957-03-18",
+    "composers": [
+     "Max Roach"
+    ],
+    "personnel": [
+     "Max Roach",
+     "Kenny Dorham",
+     "Sonny Rollins",
+     "Bill Wallace",
+     "George Morrow"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Valse Hot",
+    "track_number": 2,
+    "side": null,
+    "duration": "14:21",
+    "session_date": "1957-03-20",
+    "composers": [
+     "Sonny Rollins"
+    ],
+    "personnel": [
+     "Max Roach",
+     "Kenny Dorham",
+     "Sonny Rollins",
+     "Bill Wallace",
+     "George Morrow"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "I'll Take Romance",
+    "track_number": 3,
+    "side": null,
+    "duration": "4:31",
+    "session_date": "1957-03-18",
+    "composers": [
+     "Oscar Hammerstein II",
+     "Ben Oakland"
+    ],
+    "personnel": [
+     "Max Roach",
+     "Kenny Dorham",
+     "Sonny Rollins",
+     "Bill Wallace",
+     "George Morrow"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Little Folks",
+    "track_number": 4,
+    "side": null,
+    "duration": "5:36",
+    "session_date": "1957-03-20",
+    "composers": [
+     "Max Roach"
+    ],
+    "personnel": [
+     "Max Roach",
+     "Kenny Dorham",
+     "Sonny Rollins",
+     "Bill Wallace",
+     "George Morrow"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Lover",
+    "track_number": 5,
+    "side": null,
+    "duration": "5:35",
+    "session_date": "1957-03-21",
+    "composers": [
+     "Richard Rodgers",
+     "Lorenz Hart"
+    ],
+    "personnel": [
+     "Max Roach",
+     "Kenny Dorham",
+     "Sonny Rollins",
+     "Bill Wallace",
+     "George Morrow"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "notes": "Wikipedia lists mono and stereo takes separately (both 5:35); jazzdisco records a single matrix (15194, 'Lover (mono edit)') and a stereo edit for EmArcy SR-80002. One performance; the mono/stereo pair is a release-format artifact."
+   },
+   {
+    "title": "The Most Beautiful Girl in the World",
+    "track_number": 6,
+    "side": null,
+    "duration": "7:05",
+    "session_date": "1956-09-19",
+    "composers": [
+     "Richard Rodgers",
+     "Lorenz Hart"
+    ],
+    "personnel": [
+     "Max Roach",
+     "Kenny Dorham",
+     "Sonny Rollins",
+     "Ray Bryant",
+     "George Morrow"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "9cf01888-68d0-4780-ad1d-7363e2a4e593",
+  "apple_album_id": "1443512755",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/9cf01888-68d0-4780-ad1d-7363e2a4e593/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": ""
+   }
+  ],
+  "notes": "Four sessions, two rooms. New York City, 19 Sep 1956: 'The Most Beautiful Girl in the World' (matrix 13765), with Ray Bryant at the piano. Capitol Tower, Los Angeles: 18 Mar 1957 'I'll Take Romance' (15175-10) and 'Blues Waltz' (15177); 20 Mar 1957 'Little Folks' (15187-7) and 'Valse Hot' (15189-4); 21 Mar 1957 'Lover' (15194, mono edit). AllMusic gives the session as 20 Sep 1956; Wikipedia and jazzdisco both say 19 Sep — 19 Sep used, discrepancy recorded here. AllMusic names the Hollywood room only as 'Capitol Studios, Hollywood, CA'; jazzdisco and Wikipedia specify Capitol Tower, which opened April 1956 — the March 1957 dates put it unambiguously in the Tower. SOURCE CONFLICT on the track list, not smoothed over: sonnyrollins.com lists eight titles for this album (adding 'It Don't Mean a Thing', 'Love Letters', 'Minor Trouble'), while Wikipedia, AllMusic and Apple all give the original six — the extra titles belong to a later expanded CD edition and are excluded from the album here as reissue-only material. Engineer: no credit found in AllMusic (which serves no credits text), Wikipedia, jazzdisco or All About Jazz; left null rather than inferred. Producer Bob Shad per Wikipedia's infobox and label data."
+ },
+ "ballot": {
+  "album": "Max Roach — Jazz in 3/4 Time (1957)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "consider",
+  "case_for": "Roach makes triple meter a sustained hard-bop language rather than a novelty: Scott Yanow's review praises these performances for demonstrating that jazz can swing outside 4/4 (S1/S2). The extended \"Valse Hot\" offers substantial discovery value, with Samuel Chell highlighting Rollins's improvisation alongside his celebrated contemporary work (S4). Roach, Rollins, Dorham and Morrow provide exceptional session gravity, while the album's drummer-led rhythmic conception gives it a distinctive teaching role beyond simply collecting another strong quintet date (S3/S4).",
+  "case_against": "The supplied ratings establish substantial appreciation, not overwhelming canonical consensus: AllMusic gives four stars, while Rolling Stone gives three and Tom Hull a B+ (S2). Crucially, \"Valse Hot\" had already been recorded on Rollins's Plus 4, so this performance's length and brilliance do not establish the album as the origin of its rhythmic innovation. The strongest historical argument consequently rests heavily on one composition; the dossier does not document the broader downstream influence needed to turn a compelling triple-meter showcase into an indispensable, lineage-changing album.",
+  "disagreement": "Both references recommend contested/consider and agree that no scope boundary applies. They differ over where the historical innovation resides: Reference 1 treats this \"Valse Hot\" as a principal lineage-opening achievement, while Reference 2 identifies the earlier Plus 4 recording as the foundational statement, even while making stronger claims for this album's overall rhythmic influence.",
+  "recommendation": "The council proposes that John audition this as a distinctive rhythmic discovery candidate, judging whether its sustained triple-meter conception earns album-level weight beyond the earlier \"Valse Hot.\"",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "nous:minimax/minimax-m3",
+    "nous:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6.1-sol",
+   "preset": "canon-council"
+  }
+ }
+}
