@@ -1,0 +1,443 @@
+{
+  "id": "benny-carter-further-definitions-1961",
+  "artist": "Benny Carter",
+  "album": "Further Definitions",
+  "year": 1961,
+  "label": "Impulse!",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "The late-career masterpiece of an architect of the music: an octet of four saxophones (Carter and Phil Woods on alto, Coleman Hawkins and Charlie Rouse on tenor) with piano, guitar, bass and drums, deliberately re-creating the instrumentation of Carter's 1937 Paris session with Hawkins and Django Reinhardt and then surpassing it (S1, S2). Penguin Guide selects it for its Core Collection; the Rolling Stone Jazz Record Guide gives it five stars; DownBeat gave the original LP four and a half (S1). AllMusic calls it a classic and 'very highly recommended' and notes it was Carter's only small-group recording of the era (S2). Lineage is the argument: Hawkins and Carter from the swing era, Rouse and Woods at the centre of the 1960s music, Garrison about to join Coltrane, Jo Jones the pulse of the whole tradition — a record that explains how the music connects (S1, S3).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Further Definitions",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Further_Definitions"
+    },
+    "S2": {
+      "title": "AllMusic: Benny Carter & His Orchestra — Further Definitions (credits)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/further-definitions-mw0000335476"
+    },
+    "S3": {
+      "title": "JazzDisco.org: Impulse! Records Catalog 9000 series (A-12 sessionography)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/impulse-records/catalog-9000-series/"
+    },
+    "S4": {
+      "title": "Discogs: Benny Carter And His Orchestra — Further Definitions (master)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/199254-Benny-Carter-And-His-Orchestra-Further-Definitions"
+    },
+    "S5": {
+      "title": "Apple Music: Further Definitions (1962 Impulse!)",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/further-definitions/1584387773"
+    },
+    "S6": {
+      "title": "MusicBrainz: Further Definitions (release group)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/efbcd221-3015-34e3-b3c0-ac84a2084038"
+    }
+  },
+  "apple_album_id": "1584387773",
+  "personnel_record": {
+    "recording_dates": [
+      "1961-11-13",
+      "1961-11-15"
+    ],
+    "multi_session": true,
+    "studio": "New York City (studio not documented)",
+    "recording_sites": [
+      {
+        "session_date": "1961-11-13",
+        "site_raw": "NYC (studio not documented)",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S3"
+      },
+      {
+        "session_date": "1961-11-15",
+        "site_raw": "NYC (studio not documented)",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "John Cue",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Benny Carter",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Phil Woods",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Coleman Hawkins",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dick Katz",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Collins",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Garrison",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jo Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Honeysuckle Rose",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:50",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Andy Razaf",
+          "Fats Waller"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Midnight Sun Will Never Set",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:57",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Quincy Jones",
+          "Dorcas Cochran",
+          "Henri Salvador"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Crazy Rhythm",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:23",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Irving Caesar",
+          "Joseph Meyer",
+          "Roger Wolfe Kahn"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blue Star",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:19",
+        "session_date": "1961-11-15",
+        "composers": [
+          "Benny Carter"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Cotton Tail",
+        "track_number": 5,
+        "side": "A",
+        "duration": "4:24",
+        "session_date": "1961-11-15",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Body and Soul",
+        "track_number": 6,
+        "side": "A",
+        "duration": "4:09",
+        "session_date": "1961-11-15",
+        "composers": [
+          "Johnny Green",
+          "Robert Sour",
+          "Edward Heyman",
+          "Frank Eyton"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Cherry",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:52",
+        "session_date": "1961-11-13",
+        "composers": [
+          "Don Redman",
+          "Ray Gilbert"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Doozy",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:32",
+        "session_date": "1961-11-15",
+        "composers": [
+          "Benny Carter"
+        ],
+        "personnel": [
+          "Benny Carter",
+          "Phil Woods",
+          "Coleman Hawkins",
+          "Charlie Rouse",
+          "Dick Katz",
+          "John Collins",
+          "Jimmy Garrison",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "efbcd221-3015-34e3-b3c0-ac84a2084038",
+    "apple_album_id": "1584387773",
+    "cover_art": [],
+    "notes": "Two New York sessions, 1961-11-13 (tracks 1, 2, 3, 7) and 1961-11-15 (tracks 4, 5, 6, 8); jazzdisco.org lists the matrix numbers by date (S3) and Wikipedia's track-to-date mapping agrees (S1). Studio: jazzdisco, Wikipedia and AllMusic all say New York City only, with no room named; one 2026 reissue marketing page (trackingangle.com) states the album was cut at Rudy Van Gelder's studio on November 19 and 21, 1961 — those dates contradict both the sessionography and Wikipedia, and a Discogs user note says the record was not an RVG date, so the venue is recorded as city-level only (S1, S3, S4). The tapes' 1961 session was produced by Bob Thiele (S1, S2); the LP's later companion Additions to Further Definitions (1966, Los Angeles) was produced by George Cates and is not part of this dossier. Engineer credited as 'Johnny Cue' on Wikipedia and 'John Cue' in AllMusic credits; AllMusic's combined credit table also lists Bobby Arnold and Jim Lockert as engineers, who belong to the 1966 Los Angeles dates (S1, S2). Carter's four-saxophone charts are the point of the record; the album is not a big-band date."
+  },
+  "ballot": {
+    "album": "Benny Carter — Further Definitions (1961)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Penguin Guide Core Collection selection, five stars from the Rolling Stone Jazz Record Guide, and four-and-a-half from DownBeat establish substantial critical consensus, although these judgments are reported through S1; AllMusic independently calls it a classic and highly recommends it (S2). Carter's four-saxophone arrangements make the intergenerational personnel more than an all-star attraction: Carter and Coleman Hawkins meet Phil Woods and Charlie Rouse, supported by a rhythm section including Jimmy Garrison and Jo Jones (S3). Revisiting the instrumentation of Carter's 1937 Paris session, the album makes the continuity between swing and modern jazz audible through concise, immediately approachable performances (S1, S2).",
+    "case_against": "The strongest objection is that this is principally a triumph of mainstream swing arranging rather than a defining advance in post-bebop: its standards-heavy repertoire and compact, polished charts consolidate an inherited language more than establish a new one. The celebrated personnel demonstrate historical connection, but their presence alone does not establish that this particular album materially shaped subsequent post-bop development. The consensus case also needs a provenance qualification: three of its strongest critical endorsements are mediated by Wikipedia rather than directly documented in the dossier.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John give Further Definitions strong priority as a consensus-backed demonstration of the living connection between swing and modern jazz.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

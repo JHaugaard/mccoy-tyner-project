@@ -1,0 +1,399 @@
+{
+  "id": "thelonious-monk-solo-monk-1965",
+  "artist": "Thelonious Monk",
+  "album": "Solo Monk",
+  "year": 1965,
+  "label": "Columbia",
+  "style_primary": "bebop",
+  "style_tags": [],
+  "rationale": "The composer of the bebop book alone with a piano. AllMusic's Thom Jurek calls it 'perhaps the solo piano record to have by Monk' (S1, S2); the Penguin Guide gives it three stars and the Rolling Stone Jazz Record Guide three, DownBeat three (S1) — respected rather than canon-central, but it is the one record where the harmonic mind behind 'Round Midnight', 'Ruby, My Dear' and 'Ask Me Now' is heard undiluted. The programme is the argument: six Monk originals against stride- and ragtime-inflected standards, recorded across four sessions between October 1964 and March 1965, with two takes each of several pieces (S1, S3, S5). Mosaic's notes place the October sessions in a Los Angeles studio during the same week as the It Club and Jazz Workshop live dates (S4). A companion volume to the already-included ensemble Monk records rather than a repeat of them.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Solo Monk",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Solo_Monk"
+    },
+    "S2": {
+      "title": "AllMusic: Thelonious Monk — Solo Monk (credits)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/solo-monk-mw0000312337"
+    },
+    "S3": {
+      "title": "JazzDisco.org: Thelonious Monk Catalog (Columbia CL 2349 sessionography)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/thelonious-monk/catalog/"
+    },
+    "S4": {
+      "title": "Mosaic Records: Thelonious Monk — The Complete Columbia Studio Albums (essay)",
+      "type": "liner-notes",
+      "url": "https://www.mosaicrecords.com/thelonious-monk-criss-cross-straight-nochase/"
+    },
+    "S5": {
+      "title": "Apple Music: Solo Monk (Expanded Edition)",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/solo-monk-expanded-edition/186320155"
+    },
+    "S6": {
+      "title": "MusicBrainz: Solo Monk (release group)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/fbde6943-13f7-4273-a583-de46807760eb"
+    }
+  },
+  "apple_album_id": "186320155",
+  "personnel_record": {
+    "recording_dates": [
+      "1964-10-31",
+      "1964-11-02",
+      "1965-02-23",
+      "1965-03-02"
+    ],
+    "multi_session": true,
+    "studio": "Los Angeles, CA (1964); New York, NY (1965)",
+    "recording_sites": [
+      {
+        "session_date": "1964-10-31",
+        "site_raw": "Los Angeles, CA (studio not documented)",
+        "site_slug": "los-angeles-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S3"
+      },
+      {
+        "session_date": "1964-11-02",
+        "site_raw": "Los Angeles, CA (studio not documented)",
+        "site_slug": "los-angeles-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S3"
+      },
+      {
+        "session_date": "1965-02-23",
+        "site_raw": "NYC (room disputed)",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S3"
+      },
+      {
+        "session_date": "1965-03-02",
+        "site_raw": "NYC (room disputed)",
+        "site_slug": "new-york-city-venue-unidentified",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S3"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Solo piano throughout; no other musicians on the album."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Dinah",
+        "track_number": 1,
+        "side": "A",
+        "duration": "2:27",
+        "session_date": "1964-11-02",
+        "composers": [
+          "Harry Akst",
+          "Sam M. Lewis",
+          "Joe Young"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Surrender, Dear",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:43",
+        "session_date": "1964-10-31",
+        "composers": [
+          "Harry Barris",
+          "Gordon Clifford"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sweet and Lovely",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:58",
+        "session_date": "1964-10-31",
+        "composers": [
+          "Gus Arnheim",
+          "Jules LeMare",
+          "Harry Tobias"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "North of the Sunset",
+        "track_number": 4,
+        "side": "A",
+        "duration": "1:50",
+        "session_date": "1964-10-31",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ruby, My Dear",
+        "track_number": 5,
+        "side": "A",
+        "duration": "5:35",
+        "session_date": "1965-03-02",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'm Confessin' (That I Love You)",
+        "track_number": 6,
+        "side": "A",
+        "duration": "2:36",
+        "session_date": "1964-11-02",
+        "composers": [
+          "Doc Daugherty",
+          "Al J. Neiburg",
+          "Ellis Reynolds"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Hadn't Anyone Till You",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:17",
+        "session_date": "1964-11-02",
+        "composers": [
+          "Ray Noble"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Everything Happens to Me",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:25",
+        "session_date": "1964-10-31",
+        "composers": [
+          "Tom Adair",
+          "Matt Dennis"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Monk's Point",
+        "track_number": 9,
+        "side": "B",
+        "duration": "2:11",
+        "session_date": "1964-11-02",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Should Care",
+        "track_number": 10,
+        "side": "B",
+        "duration": "1:56",
+        "session_date": "1964-10-31",
+        "composers": [
+          "Sammy Cahn",
+          "Axel Stordahl",
+          "Paul Weston"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Ask Me Now",
+        "track_number": 11,
+        "side": "B",
+        "duration": "4:35",
+        "session_date": "1965-02-23",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "These Foolish Things (Remind Me of You)",
+        "track_number": 12,
+        "side": "B",
+        "duration": "3:32",
+        "session_date": "1964-11-02",
+        "composers": [
+          "Harry Link",
+          "Holt Marvell",
+          "Jack Strachey"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "fbde6943-13f7-4273-a583-de46807760eb",
+    "apple_album_id": "186320155",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/21b363b7-e40e-4f8c-a6e3-613a06226fa0/21120304379.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image for the Solo Monk release group."
+      }
+    ],
+    "notes": "Four sessions, ten of the twelve master takes cut in Los Angeles on 1964-10-31 (tracks 2, 3, 4, 8, 10) and 1964-11-02 (tracks 1, 6, 7, 9, 12), the remaining two in New York on 1965-02-23 ('Ask Me Now') and 1965-03-02 ('Ruby, My Dear') (S3; AllMusic also gives Los Angeles and New York as the recording locations, S2). Mosaic's essay confirms the October dates were taped in a Los Angeles studio during the same week as the It Club live engagement (S4). A Columbia sessionography page (ratherrarerecords.com) and jazzrocksoul.com disagree on the rooms: the former says 'Columbia Studio, Los Angeles (1964), Columbia Studio, New York (1965)', the latter says Columbia 30th Street Studio, New York throughout — the New York room is therefore recorded as unk, city-level only, and Los Angeles as city-level inf, with no street address invented. Producer Teo Macero (S1, S2); no engineer is credited in any source consulted, so the field is null. Tracks are the original LP programme; the 2003 Expanded Edition CD adds alternates and is not itemised here."
+  },
+  "ballot": {
+    "album": "Thelonious Monk — Solo Monk (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Solo Monk makes Monk’s piano conception unusually legible: without accompanists, his displaced accents, harmonic friction, melodic tenderness, and use of silence become the entire musical argument. Standards such as “Dinah” alongside “Ruby, My Dear” and “Ask Me Now” expose the continuity between stride inheritance and bebop modernism, giving the album substantial discovery value beyond his ensemble recordings (S1, S3). AllMusic’s Thom Jurek calls it “perhaps the solo piano record to have by Monk,” supporting its candidacy as a defining solo statement even without overwhelming cross-source consensus (S2).",
+    "case_against": "The dossier reports three-star assessments from Penguin, Rolling Stone, and DownBeat through S1: respectable reception, but not the independent core-list consensus the rubric ranks highest. It supplies no specific musician testimony or downstream influence establishing this particular album as load-bearing, and earlier solo documents—including Thelonious Himself and the Paris recordings—challenge its claim to be the definitive introduction to unaccompanied Monk. The original LP contains four Monk originals and eight standards, not the six originals claimed in the rationale; its achievement is interpretive clarity rather than a documented compositional breakthrough (S3).",
+    "disagreement": "Both references favor contested and broadly support strong priority, though Reference 2 allows consider. They differ materially on uniqueness: Reference 1 incorrectly calls this effectively Monk’s sole lifetime-released solo statement, whereas Reference 2 identifies earlier solo recordings as serious alternatives; they also differ on whether its exposed solo language is immediately accessible or potentially less welcoming.",
+    "recommendation": "The council proposes that John give Solo Monk strong consideration as a revealing solo-piano statement, while weighing its discovery value against the stronger historical claims of earlier solo recordings.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
