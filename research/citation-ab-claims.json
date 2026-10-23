@@ -1,0 +1,17 @@
+{
+  "dossier": "charles-mingus-the-black-saint-and-the-sinner-lady-1963.json",
+  "note": "Ground truth by McCoy, 2026-10-23, applying the house rule: a claim is EVIDENCED only if a source-map entry's description explicitly carries it. C6-C9 are the documented defect (rationale asserts accolades absent from the source map). C10 is a deliberate strict-reading edge case: the map evidences the ensemble, not the 'through-composed suite' characterization.",
+  "state_note": "State sent to models = the dossier's source map only (S1-S6, titles and types).",
+  "claims": [
+    {"id": "C1", "claim": "The album was recorded in a single session on January 20, 1963.", "truth": true, "why": "S3 is explicitly a session-date confirmation naming January 20, 1963."},
+    {"id": "C2", "claim": "The personnel include Jaki Byard, Dannie Richmond, Booker Ervin, Charlie Mariano, and Jerome Richardson.", "truth": true, "why": "S1 is explicitly 'personnel from original liner notes, Impulse! AS-35'."},
+    {"id": "C3", "claim": "The album is an Impulse! release, catalog number AS-35.", "truth": true, "why": "S1's title names Impulse! AS-35."},
+    {"id": "C4", "claim": "The album is listed on Apple Music.", "truth": true, "why": "S5 is the Apple Music entry."},
+    {"id": "C5", "claim": "The album has a MusicBrainz release-group identifier.", "truth": true, "why": "S4 is the MusicBrainz release group."},
+    {"id": "C6", "claim": "The Penguin Guide to Jazz awarded the album four stars plus its Crown accolade.", "truth": false, "why": "No Penguin Guide entry exists anywhere in the source map. Documented defect."},
+    {"id": "C7", "claim": "AllMusic awarded the album five stars, calling it 'one of the greatest achievements in orchestration by any composer in jazz history'.", "truth": false, "why": "S2 is an AllMusic page, but the map describes it as a credits listing for a combined 2011 reissue — no rating or review claim is carried. Documented defect."},
+    {"id": "C8", "claim": "The Rolling Stone Jazz Record Guide awarded the album five stars.", "truth": false, "why": "No Rolling Stone entry in the source map. Documented defect."},
+    {"id": "C9", "claim": "The album appears in the book 1001 Albums You Must Hear Before You Die.", "truth": false, "why": "No such source in the map. Documented defect."},
+    {"id": "C10", "claim": "The album is a single continuous through-composed suite for an eleven-piece ensemble.", "truth": false, "why": "STRICT-READING EDGE: the map evidences personnel (S1) but no entry describes the work's form or structure. Marked not-evidenced; expect models to struggle here."}
+  ]
+}
