@@ -1,0 +1,544 @@
+{
+ "id": "betty-carter-the-audience-with-betty-carter-1980",
+ "artist": "Betty Carter",
+ "album": "The Audience with Betty Carter",
+ "year": 1980,
+ "label": "Bet-Car",
+ "catalog_number": null,
+ "style_primary": "bebop",
+ "style_tags": [],
+ "rationale": "The record that settles the argument about whether a jazz singer can be an improviser of the first rank rather than an interpreter, and the canon currently has no Betty Carter at all [S1, S2] (obs). Consensus: the Penguin Guide gives it four stars plus a crown — 'recording of merit', an honour it notes has gone to fewer than a hundred jazz records — and the Rolling Stone Jazz Record Guide gives it 5/5 [S2] (obs); it was nominated for the Grammy for Best Jazz Vocal Performance, Female, and Wikipedia files it in the United States National Recording Registry [S2] (obs); Tom Moon includes it in the appendix to 1,000 Recordings to Hear Before You Die [S2] (obs). Defining statement: the 25-minute 'Sounds (Movin' On)' is Carter's 'Chasin' the Trane' — a scat improvisation that moves through tempo and metre changes with a piano trio, and there is nothing else quite like it in the vocal literature [S1] (obs). Lineage: the record is a bridge, not a period piece — it takes the Coltrane-era improvising premise and the Rodgers and Hammerstein songbook into a voice, and its 'My Favorite Things' stands deliberately against Coltrane's; Samara Joy, who recorded Carter's 'Tight' four decades later, cites this album as the influence [S2] (obs). It still plays: the set is a nightclub transcription with a working band — John Hicks, Curtis Lundy, Kenny Washington — and its pleasures are audible on first listen, which is exactly the discovery test [S1] (obs). Session gravity: Hicks came out of McCoy Tyner's school and this is the trio that carried Carter's bandstand through the early 1980s [S1] (inf). BOUNDARY NAMED: 1980 sits in the 1973-1985 window tail, which the rubric says leans scope_call or contested by default — but the question here is not genre drift. This is bebop-rooted vocal improvisation with an acoustic piano trio, continuous with the tradition the canon is built on; the argument is whether a self-released live double album from the window's late edge earns a place on merit. Stuart Nicholson's judgment, quoted here as a critic's claim rather than a fact: 'To call it a jazz vocal album is limiting, it's a great jazz album' [S2] (obs). Honest limitation: this is a live club set with no studio album behind it, some listeners find the recorded sound thin (AllMusic's reviewer among them), and the canon's centre of gravity is instrumental — the case rests on consensus, on the singer's absence from the canon, and on 'Sounds' being a genuine one-of-one [S1, S2] (obs).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "AllMusic — The Audience With Betty Carter (mw0000197175): release data, styles (Bop, Vocal Jazz), recording dates, recording location, full credits (Curtis Lundy, John Hicks, Kenny Washington, Joe Ferla, Lee Brenkman) and Eugene Chadbourne review",
+   "type": "overview/credits",
+   "url": "https://www.allmusic.com/album/the-audience-with-betty-carter-mw0000197175"
+  },
+  "S2": {
+   "title": "Wikipedia — The Audience with Betty Carter: recording dates and venue, complete track listing with durations and composers, personnel, producer credit, review-score table (AllMusic 4/5, Penguin Guide 4/4 + crown, Rolling Stone Jazz Record Guide 5/5), Grammy nomination, National Recording Registry category, 1,000 Recordings appendix, Stuart Nicholson and Samara Joy quotations, MusicBrainz release-group ID",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/The_Audience_with_Betty_Carter"
+  },
+  "S3": {
+   "title": "Wikipedia — Great American Music Hall: location at 859 O'Farrell Street, San Francisco, venue type (nightclub), published coordinates 37.785048 / -122.418835",
+   "type": "place-reference",
+   "url": "https://en.wikipedia.org/wiki/Great_American_Music_Hall"
+  },
+  "S4": {
+   "title": "MusicBrainz — release group f1f1bb05-1c3e-344b-9c17-b7767851a87a",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/f1f1bb05-1c3e-344b-9c17-b7767851a87a"
+  },
+  "S5": {
+   "title": "Cover Art Archive — front cover, release group f1f1bb05-1c3e-344b-9c17-b7767851a87a",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/f1f1bb05-1c3e-344b-9c17-b7767851a87a"
+  },
+  "S6": {
+   "title": "iTunes Search API — Betty Carter, 'The Audience With Betty Carter (Live)', collectionId 1443220010, 15 tracks, releaseDate 1980-08-15, Verve reissue",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Betty+Carter+The+Audience&entity=album"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1979-12-06",
+   "1979-12-07",
+   "1979-12-08"
+  ],
+  "multi_session": true,
+  "studio": "Bradshaw's Great American Music Hall, San Francisco, CA",
+  "recording_sites": [
+   {
+    "session_date": null,
+    "site_raw": "Bradshaw's Great American Music Hall, San Francisco",
+    "site_slug": null,
+    "site_new": {
+     "name": "Great American Music Hall",
+     "city": "San Francisco, CA",
+     "kind": "club",
+     "address": "859 O'Farrell Street, San Francisco, CA",
+     "lat": 37.785,
+     "lon": -122.419,
+     "location_epistemic": "obs",
+     "location_source": "Wikipedia — Great American Music Hall (859 O'Farrell Street, San Francisco, CA; venue type: nightclub) | coords: https://en.wikipedia.org/wiki/Great_American_Music_Hall"
+    },
+    "epistemic": "obs",
+    "source": "S2"
+   }
+  ],
+  "producer": "Betty Carter",
+  "engineer": "Joe Ferla; Lee Brenkman",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Betty Carter",
+    "instrument": "vocals",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1979-12-06",
+     "1979-12-07",
+     "1979-12-08"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ],
+    "name_variants": [],
+    "notes": "Leader, singer, producer, and composer of six of the fifteen titles; released the album on her own Bet-Car label."
+   },
+   {
+    "name": "John Hicks",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1979-12-06",
+     "1979-12-07",
+     "1979-12-08"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Curtis Lundy",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1979-12-06",
+     "1979-12-07",
+     "1979-12-08"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ],
+    "name_variants": [],
+    "notes": "AllMusic credits him as 'Bass'; Wikipedia specifies double bass. Acoustic trio throughout — no electric bass on the record."
+   },
+   {
+    "name": "Kenny Washington",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1979-12-06",
+     "1979-12-07",
+     "1979-12-08"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Sounds (Movin' On)",
+    "track_number": 1,
+    "side": null,
+    "duration": "25:20",
+    "session_date": null,
+    "composers": [
+     "Betty Carter"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "I Think I Got It Now",
+    "track_number": 2,
+    "side": null,
+    "duration": "3:33",
+    "session_date": null,
+    "composers": [
+     "Betty Carter"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Caribbean Sun",
+    "track_number": 3,
+    "side": null,
+    "duration": "4:17",
+    "session_date": null,
+    "composers": [
+     "Carlos Garnett"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "The Trolley Song",
+    "track_number": 4,
+    "side": null,
+    "duration": "3:37",
+    "session_date": null,
+    "composers": [
+     "Ralph Blane",
+     "Hugh Martin"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Everything I Have Is Yours",
+    "track_number": 5,
+    "side": null,
+    "duration": "6:16",
+    "session_date": null,
+    "composers": [
+     "Harold Adamson",
+     "Burton Lane"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "I'll Buy You a Star",
+    "track_number": 6,
+    "side": null,
+    "duration": "2:12",
+    "session_date": null,
+    "composers": [
+     "Dorothy Fields",
+     "Arthur Schwartz"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "I Could Write a Book",
+    "track_number": 7,
+    "side": null,
+    "duration": "3:41",
+    "session_date": null,
+    "composers": [
+     "Lorenz Hart",
+     "Richard Rodgers"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Can't We Talk It Over / Either It's Love or It Isn't",
+    "track_number": 8,
+    "side": null,
+    "duration": "7:26",
+    "session_date": null,
+    "composers": [
+     "Doris Fisher",
+     "Allan Roberts",
+     "Ned Washington",
+     "Victor Young"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Deep Night",
+    "track_number": 9,
+    "side": null,
+    "duration": "2:45",
+    "session_date": null,
+    "composers": [
+     "Charles Henderson",
+     "Rudy Vallée"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Spring Can Really Hang You up the Most",
+    "track_number": 10,
+    "side": null,
+    "duration": "7:22",
+    "session_date": null,
+    "composers": [
+     "Fran Landesman",
+     "Tommy Wolf"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Tight",
+    "track_number": 11,
+    "side": null,
+    "duration": "3:44",
+    "session_date": null,
+    "composers": [
+     "Betty Carter"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Fake",
+    "track_number": 12,
+    "side": null,
+    "duration": "4:16",
+    "session_date": null,
+    "composers": [
+     "Betty Carter"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "So...",
+    "track_number": 13,
+    "side": null,
+    "duration": "7:03",
+    "session_date": null,
+    "composers": [
+     "Betty Carter"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "My Favorite Things",
+    "track_number": 14,
+    "side": null,
+    "duration": "4:39",
+    "session_date": null,
+    "composers": [
+     "Oscar Hammerstein II",
+     "Richard Rodgers"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Open the Door",
+    "track_number": 15,
+    "side": null,
+    "duration": "5:09",
+    "session_date": null,
+    "composers": [
+     "Betty Carter"
+    ],
+    "personnel": [
+     "Betty Carter",
+     "John Hicks",
+     "Curtis Lundy",
+     "Kenny Washington"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "f1f1bb05-1c3e-344b-9c17-b7767851a87a",
+  "apple_album_id": "1443220010",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/f1f1bb05-1c3e-344b-9c17-b7767851a87a/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": ""
+   }
+  ],
+  "notes": "Three consecutive nights, one room, one undated recording_sites entry applied to all three: the sources document a span (6-8 December 1979) but none assigns individual titles to individual nights, so the span was expanded to its three dates in recording_dates and the place entry is deliberately undated rather than pretending a track-to-night map exists. CONFLICT RECORDED: AllMusic's recording-location line reads 'Bradshaw's Great American Music Hall, LA, CA'; Wikipedia names Bradshaw's Great American Music Hall in San Francisco and Apple's track titles read 'Live At Bradshaw's Great American Music Hall, San Francisco/1979'. The venue is San Francisco — AllMusic's 'LA, CA' is an error in that field, left standing here rather than silently corrected. Bradshaw is Tom Bradshaw, who bought and renamed the hall in 1972 (S3), so 'Bradshaw's' is the same room, not a second venue. Place created new: the canonical vocabulary had no Great American Music Hall row. Address and venue type come from S3; coordinates from scripts/geocode-place.py (rung 1, Wikipedia/Wikidata P625). S3 publishes 37.785048 / -122.418835 and the script returned the entity's coordinate at 3-decimal precision — the difference is metres, and the pin is street-grade either way. Production: Wikipedia's infobox credits Carter as producer; AllMusic lists no separate producer but credits Joe Ferla as Engineer/Mixing and Lee Brenkman as Engineer, with Gray Russell, Jon Mathias, Mark Eshelman and Mark Morris as assistant engineers on the reissue. No source separates the live-capture engineer from the mix engineer, so both principal engineers are named in the `engineer` field and the ambiguity is recorded here. Original release: Bet-Car, Carter's own label; Verve reissued and Apple streams the Verve edition (S6)."
+ },
+ "ballot": {
+  "album": "Betty Carter — The Audience with Betty Carter (1980)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": "Recorded in December 1979 and released in 1980, it passes the numerical gate but activates the rubric's late-window continuity test. Its acoustic, bebop-rooted vocal improvisation provides a strong continuity argument; vocal leadership is not itself an excluded style."
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "The Penguin Guide crown and Rolling Stone Jazz Record Guide's 5/5 rating, as reported through S2, supply substantial cross-guide support for treating this as a defining Carter statement. The 25-minute 'Sounds (Movin' On)' makes the strongest musical case: sustained vocal improvisation, tempo and metre changes, and responsive interplay with John Hicks, Curtis Lundy, and Kenny Washington demonstrate post-bebop invention rather than merely song interpretation [S1, S2]. The standards connect that experimentation to familiar material, while Samara Joy's reported acknowledgment supplies a concrete later lineage [S2]. This is a persuasive opportunity to hear the tradition developing through the voice, not simply surviving as instrumental repertory.",
+  "case_against": "Much of the apparent consensus reaches the dossier through one secondary compilation: the guide ratings, Grammy nomination, National Recording Registry claim, and influence quotation need direct-source confirmation before receiving their full evidentiary weight [S2]. The extended scat centerpiece can also be a demanding introduction, and the thin live sound noted in the AllMusic discussion weakens the discovery experience [S1]. A remarkable centerpiece does not by itself establish that the entire double album is indispensable, while the documented downstream lineage remains narrower than the dossier's sweeping Coltrane analogy suggests.",
+  "disagreement": "Reference 1 judges the album contested because evidentiary and whole-album reservations remain even after accepting its stylistic continuity; Reference 2 judges it scope_call, treating late-period vocal improvisation as the decisive boundary for John. They also differ materially in evidentiary confidence: Reference 2 treats the institutional honors and broad influence as established, whereas Reference 1 correctly flags their indirect sourcing. Both assign strong priority and find no persuasive case for exclusion.",
+  "recommendation": "The council proposes that John give this strong candidate a focused listening review, with the late-window continuity question explicit and the principal honors checked against direct sources before his decision.",
+  "confidence": "medium",
+  "_council": {
+   "references": [
+    "nous:minimax/minimax-m3",
+    "nous:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6.1-sol",
+   "preset": "canon-council"
+  }
+ }
+}

@@ -1,0 +1,409 @@
+{
+ "id": "horace-silver-finger-poppin-1959",
+ "artist": "Horace Silver",
+ "album": "Finger Poppin'",
+ "year": 1959,
+ "label": "Blue Note",
+ "catalog_number": "Blue Note BLP 4008",
+ "style_primary": "hard-bop",
+ "style_tags": [
+  "soul-jazz"
+ ],
+ "rationale": "The first record by the quintet everyone means when they say 'the Horace Silver Quintet' — Blue Mitchell, Junior Cook, Gene Taylor, Louis Hayes — and the date on which Silver's own composing book and that band's chemistry arrive together [S1, S2] (obs). AllMusic's Steve Huey calls it 'one of Silver's all-time classics' and 'everything small-group hard bop should be, and a terrific example of what made the Blue Note label's mainstream sound so infectious' [S1] (obs); the review table gives it 5/5 at AllMusic and 5/5 in the Rolling Stone Jazz Record Guide [S2] (obs). Defining statement: eight Silver originals, no standards — 'Juicy Lucy', 'Come on Home', 'Swingin' the Samba' and 'Cookin' at the Continental' all enter the book here, and 'Cookin' at the Continental' becomes a hard-bop standard that later bands keep playing [S1, S2] (obs). Lineage: it sits one session before Blowin' the Blues Away in the same year and establishes the quintet that carries Silver's Blue Note sound through 1964 [S2] (inf). Session gravity: three of these five — Mitchell, Cook, Hayes — are the working band, not pickup players; Silver's group was the proving ground for hard-bop rhythm-section practice [S1, S3] (inf). It still plays: the record's pleasure is exactly its gregariousness — concise solos, tight heads, blues grounding — which is the discovery test passed rather than argued [S1] (inf). Not oversold: this is a strong second-tier classic rather than a consensus-core monument; the case rests on AllMusic and the Rolling Stone guide plus the band's place in Silver's arc, not on a deep stack of independent canon lists [S2] (obs). One documented naming note: AllMusic and Wikipedia print the title as 'Finger Poppin' with the Horace Silver Quintet'; the album is catalogued here under the short title, which is the form both the Blue Note cover and jazzdisco use [S1, S3] (obs).",
+ "priority": "strong",
+ "epistemic": "obs",
+ "sources": {
+  "S1": {
+   "title": "AllMusic — Finger Poppin' with the Horace Silver Quintet (mw0000197311): release data, styles (Hard Bop, Soul Jazz), recording date and location, full credits and Steve Huey review",
+   "type": "overview/credits",
+   "url": "https://www.allmusic.com/album/finger-poppin-with-the-horace-silver-quintet-mw0000197311"
+  },
+  "S2": {
+   "title": "Wikipedia — Finger Poppin' with the Horace Silver Quintet: recording date and studio, track listing with durations, personnel with the 'Sweet Stuff' horn exception, producer and engineer credits, review-score table (AllMusic 5/5, Rolling Stone Jazz Record Guide 5/5), Billboard release notice",
+   "type": "encyclopedic",
+   "url": "https://en.wikipedia.org/wiki/Finger_Poppin%27"
+  },
+  "S3": {
+   "title": "jazzdisco.org — Horace Silver catalog, Blue Note BLP 4008: session of 31 January 1959 at Van Gelder Studio, Hackensack, with matrix numbers, per-track horn participation and personnel",
+   "type": "sessionography",
+   "url": "https://www.jazzdisco.org/horace-silver/catalog/"
+  },
+  "S4": {
+   "title": "MusicBrainz — release group f429223f-48b5-4cf1-b395-2b85786abb1c",
+   "type": "identifier",
+   "url": "https://musicbrainz.org/release-group/f429223f-48b5-4cf1-b395-2b85786abb1c"
+  },
+  "S5": {
+   "title": "Cover Art Archive — front cover, release group f429223f-48b5-4cf1-b395-2b85786abb1c",
+   "type": "cover-art",
+   "url": "https://coverartarchive.org/release-group/f429223f-48b5-4cf1-b395-2b85786abb1c"
+  },
+  "S6": {
+   "title": "iTunes Search API — Horace Silver, 'Finger Poppin' (The Rudy Van Gelder Edition) [Remastered]', collectionId 724697225, 8 tracks, releaseDate 1959-04-01",
+   "type": "identifier",
+   "url": "https://itunes.apple.com/search?term=Horace+Silver+Finger+Poppin&entity=album"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1959-01-31"
+  ],
+  "multi_session": false,
+  "studio": "Van Gelder Studio, Hackensack, NJ",
+  "recording_sites": [
+   {
+    "session_date": "1959-01-31",
+    "site_raw": "Van Gelder Studio, Hackensack, NJ",
+    "site_slug": "van-gelder-studio-hackensack",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S3"
+   }
+  ],
+  "producer": "Alfred Lion",
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Horace Silver",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1959-01-31"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Leader; composer of all eight tunes."
+   },
+   {
+    "name": "Blue Mitchell",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Finger Poppin'",
+     "Juicy Lucy",
+     "Swingin' the Samba",
+     "Cookin' at the Continental",
+     "Come on Home",
+     "You Happened My Way",
+     "Mellow D"
+    ],
+    "session_dates": [
+     "1959-01-31"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Present on every track except 'Sweet Stuff' — the one trio feature on the album (Wikipedia; jazzdisco lists the same exception by matrix number)."
+   },
+   {
+    "name": "Junior Cook",
+    "instrument": "tenor saxophone",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Finger Poppin'",
+     "Juicy Lucy",
+     "Swingin' the Samba",
+     "Cookin' at the Continental",
+     "Come on Home",
+     "You Happened My Way",
+     "Mellow D"
+    ],
+    "session_dates": [
+     "1959-01-31"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Absent only from 'Sweet Stuff', with Mitchell."
+   },
+   {
+    "name": "Gene Taylor",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1959-01-31"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [
+     "Eugene Taylor"
+    ],
+    "notes": "jazzdisco prints 'Eugene Taylor'; AllMusic, Wikipedia and the Blue Note cover credit 'Gene Taylor'. DB canonical form used."
+   },
+   {
+    "name": "Louis Hayes",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1959-01-31"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "AllMusic's review notes he was the drummer 'this time around', distinguishing this quintet from the later Roy Brooks line-up."
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Finger Poppin'",
+    "track_number": 1,
+    "side": "A",
+    "duration": "4:47",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Blue Mitchell",
+     "Junior Cook",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Juicy Lucy",
+    "track_number": 2,
+    "side": "A",
+    "duration": "5:46",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Blue Mitchell",
+     "Junior Cook",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Swingin' the Samba",
+    "track_number": 3,
+    "side": "A",
+    "duration": "5:17",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Blue Mitchell",
+     "Junior Cook",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Sweet Stuff",
+    "track_number": 4,
+    "side": "A",
+    "duration": "5:32",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S2",
+     "S3"
+    ],
+    "notes": "Trio track: horns out."
+   },
+   {
+    "title": "Cookin' at the Continental",
+    "track_number": 5,
+    "side": "B",
+    "duration": "4:54",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Blue Mitchell",
+     "Junior Cook",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Come on Home",
+    "track_number": 6,
+    "side": "B",
+    "duration": "5:30",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Blue Mitchell",
+     "Junior Cook",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "You Happened My Way",
+    "track_number": 7,
+    "side": "B",
+    "duration": "5:29",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Blue Mitchell",
+     "Junior Cook",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Mellow D",
+    "track_number": 8,
+    "side": "B",
+    "duration": "5:37",
+    "session_date": "1959-01-31",
+    "composers": [
+     "Horace Silver"
+    ],
+    "personnel": [
+     "Horace Silver",
+     "Blue Mitchell",
+     "Junior Cook",
+     "Gene Taylor",
+     "Louis Hayes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "f429223f-48b5-4cf1-b395-2b85786abb1c",
+  "apple_album_id": "724697225",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "https://coverartarchive.org/release-group/f429223f-48b5-4cf1-b395-2b85786abb1c/front",
+    "is_original_cover": true,
+    "epistemic": "obs",
+    "notes": ""
+   }
+  ],
+  "notes": "One session, one room: Van Gelder Studio, Hackensack, NJ, 31 January 1959 (jazzdisco matrices tk.11-tk.39; Wikipedia agrees). CONFLICT RECORDED, not smoothed: AllMusic dates the session 1 February 1959 and gives the location as 'New York, NY / Van Gelder Studios, Hackensack, NJ' on two lines — the Hackensack room is what all three sources name, and the date used here is jazzdisco's 31 January, the session-level authority; AllMusic's one-day-later date is left standing in this note because it cannot be adjudicated from the sources gathered. Either date falls before Van Gelder's July 1959 move, so the place slug is unaffected. Track order follows Wikipedia and AllMusic (the released LP sequence); jazzdisco numbers the same eight matrices in a different order (Cookin' at the Continental tk.11 first, Juicy Lucy tk.39 last), which is matrix order rather than album order. AllMusic's page also lists a 1 February 1959 release date, while Wikipedia cites Billboard's 27 April 1959 review of new releases and an April 1959 issue; the album is catalogued at year 1959 either way. No alternate takes or bonus tracks are included: the 2003 Rudy Van Gelder Edition on Apple carries the same eight titles."
+ },
+ "ballot": {
+  "album": "Horace Silver — Finger Poppin' (1959)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "The debut recording of Silver's celebrated Mitchell–Cook–Taylor–Hayes quintet presents eight Silver originals, making it a defining document of his blues-grounded compositional language and disciplined working-band interplay rather than another interchangeable blowing session (S1–S3). AllMusic calls it one of Silver's all-time classics and an exemplary small-group hard-bop record; the dossier also reports five-star assessments from AllMusic and The Rolling Stone Jazz Record Guide (S1, S2). Its infectious ensemble writing, contrasting trio feature on 'Sweet Stuff,' and enduring 'Cookin' at the Continental' give it both immediate discovery value and a concrete repertoire legacy (S1–S3).",
+  "case_against": "The evidence establishes enthusiastic critical approval more securely than broad canonical consensus: Wikipedia repeats AllMusic's rating, while sessionographies and identifier sources do not supply additional independent critical judgments. The band's debut is historically meaningful, but that does not by itself establish this album as a definitive statement alongside Blowin' the Blues Away; its distinct contribution must rest on the music and repertoire, not simply chronological priority. Claims that this particular session established hard-bop rhythm-section practice or anchored an unchanged lineup through 1964 exceed what the dossier demonstrates.",
+  "disagreement": null,
+  "recommendation": "The council proposes that John give this strong, contested candidate a focused listen for its distinctive compositional and ensemble achievement, rather than treating either its debut status or its proximity to better-known Silver landmarks as decisive.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "nous:minimax/minimax-m3",
+    "nous:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6.1-sol",
+   "preset": "canon-council"
+  }
+ }
+}
