@@ -32,47 +32,59 @@ CRITERIA = {
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", required=True)
+    ap.add_argument("--claims", default=CLAIMS_PATH,
+                    help="claims JSON file (default: the Test 2 file)")
+    ap.add_argument("--tag", default="",
+                    help="tag inserted into the results filename, e.g. -test3")
+    ap.add_argument("--append", action="store_true",
+                    help="append to results file instead of overwriting")
     args = ap.parse_args()
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
         sys.exit("OPENROUTER_API_KEY not set")
 
-    spec = json.load(open(CLAIMS_PATH))
-    dossier = json.load(open(os.path.join(DOSSIER_DIR, spec["dossier"])))
-    source_map = {k: {"title": v["title"], "type": v["type"]}
-                  for k, v in dossier["sources"].items()}
+    spec = json.load(open(args.claims))
+    # Two shapes: single-dossier {"dossier": ..., "claims": [...]} (Tests 1-2)
+    # or multi {"sets": [{"dossier": ..., "claims": [...]}]} (Test 3+).
+    sets = spec.get("sets") or [{"dossier": spec["dossier"], "claims": spec["claims"]}]
 
     slug = args.model.replace("/", "-").replace("~", "")
-    out_path = os.path.join(ROOT, "research", f"citation-ab-results-{slug}.jsonl")
-    with open(out_path, "w") as out:
-        for c in spec["claims"]:
-            payload = json.dumps({
-                "model": args.model,
-                "state": {"claim_under_audit": c["claim"], "source_map": source_map},
-                "questions": {"evidenced": {
-                    "type": "noul", "instructions": INSTRUCTIONS,
-                    "criteria": CRITERIA}},
-            }).encode()
-            for attempt in range(4):
-                try:
-                    req = request.Request(
-                        "https://openrouter.ai/api/alpha/decisions", data=payload,
-                        headers={"Authorization": f"Bearer {api_key}",
-                                 "Content-Type": "application/json"})
-                    with request.urlopen(req, timeout=60) as r:
-                        body = json.loads(r.read())
-                    ans = body["answers"]["evidenced"]
-                    print(f"{c['id']}: p(yes)={json.dumps(ans)[:120]}  truth={c['truth']}")
-                    out.write(json.dumps({"id": c["id"], "claim": c["claim"],
-                                          "truth": c["truth"], "why": c["why"],
-                                          "response": body}) + "\n")
-                    break
-                except Exception as e:
-                    if attempt == 3:
-                        print(f"{c['id']}: FAILED {e}")
-                        out.write(json.dumps({"id": c["id"], "truth": c["truth"],
-                                              "error": str(e)[:400]}) + "\n")
-                    time.sleep(2 ** attempt)
+    out_path = os.path.join(ROOT, "research", f"citation-ab-results{args.tag}-{slug}.jsonl")
+    mode = "a" if args.append else "w"
+    with open(out_path, mode) as out:
+        for s in sets:
+            dossier = json.load(open(os.path.join(DOSSIER_DIR, s["dossier"])))
+            source_map = {k: {"title": v["title"], "type": v["type"]}
+                          for k, v in dossier["sources"].items()}
+            for c in s["claims"]:
+                cid = f"{s['dossier'].split('.')[0]}::{c['id']}"
+                payload = json.dumps({
+                    "model": args.model,
+                    "state": {"claim_under_audit": c["claim"], "source_map": source_map},
+                    "questions": {"evidenced": {
+                        "type": "noul", "instructions": INSTRUCTIONS,
+                        "criteria": CRITERIA}},
+                }).encode()
+                for attempt in range(4):
+                    try:
+                        req = request.Request(
+                            "https://openrouter.ai/api/alpha/decisions", data=payload,
+                            headers={"Authorization": f"Bearer {api_key}",
+                                     "Content-Type": "application/json"})
+                        with request.urlopen(req, timeout=60) as r:
+                            body = json.loads(r.read())
+                        ans = body["answers"]["evidenced"]
+                        print(f"{cid}: p(yes)={json.dumps(ans)[:120]}  truth={c['truth']}")
+                        out.write(json.dumps({"id": cid, "claim": c["claim"],
+                                              "truth": c["truth"], "why": c["why"],
+                                              "response": body}) + "\n")
+                        break
+                    except Exception as e:
+                        if attempt == 3:
+                            print(f"{cid}: FAILED {e}")
+                            out.write(json.dumps({"id": cid, "truth": c["truth"],
+                                                  "error": str(e)[:400]}) + "\n")
+                        time.sleep(2 ** attempt)
     print(f"wrote {out_path}")
 
 if __name__ == "__main__":
