@@ -1,0 +1,288 @@
+{
+  "id": "cecil-taylor-conquistador-1966",
+  "artist": "Cecil Taylor",
+  "album": "Conquistador!",
+  "year": 1966,
+  "label": "Blue Note",
+  "style_primary": "free-jazz",
+  "style_tags": [
+    "avant-garde-jazz",
+    "free-improvisation"
+  ],
+  "rationale": "The second of Cecil Taylor's two Blue Note albums, cut four and a half months after the already-included Unit Structures, and the record where his 1960s language becomes legible as composition rather than onslaught. Recorded October 6, 1966 at Van Gelder's and released in March 1968 (S1, S3), it puts Taylor's working ensemble in front of a Blue Note microphone: Bill Dixon, Jimmy Lyons, Henry Grimes, Alan Silva, Andrew Cyrille — two basses, which is the structural signature (S1, S2, S3). Consensus across independent listing traditions is unusually strong for an avant-garde record: Penguin Guide four stars and 'an all but flawless record', Rolling Stone Jazz Record Guide five stars, AllMusic 4.5 (Scott Yanow), All About Jazz four (S1), and The New Yorker's 2008 '100 Essential Jazz Albums' at No. 87 (S1). The lineage argument is the one that matters here: Unit Structures is already in the canon, Taylor's only other Blue Note, and the two records are routinely read as a pair — Vinyl Me Please's account contrasts Conquistador!'s cooler, melting textures against Unit Structures' fire (S1). Alfred Lion produced and Rudy Van Gelder engineered (S1, S2). Free jazz is an opened gate, not a settled center, so this arrives as a boundary case to be ruled on rather than assumed.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Conquistador! (personnel, track list, session date and studio, producer, ratings from Penguin Guide 4★, AllMusic 4.5, Rolling Stone Jazz Record Guide 5★, All About Jazz 4★, The New Yorker '100 Essential Jazz Albums' No. 87)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Conquistador!"
+    },
+    "S2": {
+      "title": "AllMusic: Cecil Taylor — Conquistador! (full credits: Alfred Lion producer, Rudy Van Gelder engineer, six-piece personnel; styles Avant-Garde Jazz / Free Jazz / Free Improvisation)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/conquistador%21-mw0000199214"
+    },
+    "S3": {
+      "title": "JazzDisco.org: Cecil Taylor Catalog (Blue Note BLP 4260 session: Van Gelder Studio, Englewood Cliffs, NJ, October 6 1966; master numbers 1781/1782)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/cecil-taylor/catalog/"
+    },
+    "S4": {
+      "title": "Apple Music: Conquistador! (The Rudy Van Gelder Edition Remastered), collectionId 716542511",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/conquistador-the-rudy-van-gelder-edition-remastered/716542511"
+    },
+    "S5": {
+      "title": "MusicBrainz: Conquistador! (release group 429e5e67-da73-3194-8153-e531b82f85da)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/429e5e67-da73-3194-8153-e531b82f85da"
+    },
+    "S6": {
+      "title": "Cover Art Archive: Conquistador! front cover (release 97284445-2b6c-4e7e-9b8c-a47a6edbc6ca)",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release/97284445-2b6c-4e7e-9b8c-a47a6edbc6ca/15728046216.jpg"
+    }
+  },
+  "apple_album_id": "716542511",
+  "personnel_record": {
+    "recording_dates": [
+      "1966-10-06"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1966-10-06",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Cecil Taylor",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bill Dixon",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Lyons",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Jimmy Lyons (saxophonist)"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Henry Grimes",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "One of two bassists on the date."
+      },
+      {
+        "name": "Alan Silva",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Second bassist; the two-bass front line is the record's structural signature."
+      },
+      {
+        "name": "Andrew Cyrille",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1966-10-06"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Conquistador",
+        "track_number": 1,
+        "side": "A",
+        "duration": "17:54",
+        "session_date": "1966-10-06",
+        "composers": [
+          "Cecil Taylor"
+        ],
+        "personnel": [
+          "Cecil Taylor",
+          "Bill Dixon",
+          "Jimmy Lyons",
+          "Henry Grimes",
+          "Alan Silva",
+          "Andrew Cyrille"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "With (Exit)",
+        "track_number": 2,
+        "side": "B",
+        "duration": "19:20",
+        "session_date": "1966-10-06",
+        "composers": [
+          "Cecil Taylor"
+        ],
+        "personnel": [
+          "Cecil Taylor",
+          "Bill Dixon",
+          "Jimmy Lyons",
+          "Henry Grimes",
+          "Alan Silva",
+          "Andrew Cyrille"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "With (Exit) [Alternate Take]",
+        "track_number": 3,
+        "side": null,
+        "duration": "17:24",
+        "session_date": "1966-10-06",
+        "composers": [
+          "Cecil Taylor"
+        ],
+        "personnel": [
+          "Cecil Taylor",
+          "Bill Dixon",
+          "Jimmy Lyons",
+          "Henry Grimes",
+          "Alan Silva",
+          "Andrew Cyrille"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "429e5e67-da73-3194-8153-e531b82f85da",
+    "apple_album_id": "716542511",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/97284445-2b6c-4e7e-9b8c-a47a6edbc6ca/15728046216.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover served by Cover Art Archive for this release group."
+      }
+    ],
+    "notes": "Single session, October 6 1966, Van Gelder Studio, Englewood Cliffs, NJ (recorded 1966; not released until March 1968 per S1). Master numbers 1781 (With (Exit)) and 1782 (Conquistador) per S3; track order follows the released LP (S1). All six players appear on both original pieces — no track-level distinctions are made in any source, so coverage is stated as all-tracks rather than inferred per track. Alternate take of 'With (Exit)' is a CD-era bonus (S1, S3). AllMusic's release-date field shows the recording date (October 6, 1966), while Wikipedia's infobox gives a March 1968 release; both are recorded here without smoothing."
+  },
+  "ballot": {
+    "album": "Cecil Taylor — Conquistador! (1966)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded in 1966 and released in 1968, both within the window (S1, S3); the live boundary is the opened free-jazz gate and its bridge-to-post-bebop test, calibrated by John's standing taste note—not a date restriction."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The dossier reports exceptional critical agreement for an avant-garde album: Penguin Guide four stars, Rolling Stone Jazz Record Guide five stars, AllMusic 4.5 stars, and placement on The New Yorker's essential-albums list, although most endorsements are relayed through S1 rather than independently documented. Its two extended compositions offer a potentially illuminating contrast to Unit Structures: more spacious ensemble textures make Taylor's organization audible without compromising his language, strengthening its value as a teaching record rather than merely another celebrated session. Dixon, Lyons, Grimes, Silva, and Cyrille give the date substantial session gravity, with the two-bass ensemble providing a distinctive foundation documented by S1–S3.",
+    "case_against": "Relative openness does not remove the discovery barrier: two roughly eighteen- and nineteen-minute free-jazz performances can still demand more sustained attention than a listener grounded in hard bop or modal jazz finds rewarding. A substantive differentiation question remains—whether this record teaches a sufficiently distinct chapter beyond Unit Structures—though shared personnel and recording context alone cannot establish redundancy. The evidence also warrants restraint: most consensus claims depend on Wikipedia's aggregation, the accessibility thesis lacks strong direct critical documentation, and the dossier does not establish specific downstream influence.",
+    "disagreement": "Reference 1 favors scope_call, treating the unresolved issue chiefly as the free-jazz boundary and rejecting redundancy because the album offers a distinct compositional experience; Reference 2 favors contested, seeing a genuine question about its additional explanatory value alongside Unit Structures. Both assign strong priority and regard the album's artistic quality highly.",
+    "recommendation": "The council proposes that John audition the original two-piece program alongside Unit Structures, then judge whether its contrasting ensemble language warrants a distinct place under the free-jazz gate.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

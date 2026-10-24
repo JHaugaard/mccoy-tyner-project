@@ -1,0 +1,367 @@
+{
+  "id": "bill-evans-conversations-with-myself-1963",
+  "artist": "Bill Evans",
+  "album": "Conversations with Myself",
+  "year": 1963,
+  "label": "Verve",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "modal-jazz"
+  ],
+  "rationale": "Bill Evans alone, three times over: the first serious jazz record built on multi-tracked improvisation, and the one that made the technique an artistic argument rather than a gimmick — Evans wrote a defense into the liner notes because he knew it would be called one (S1). Recorded February 6 and 9 and (per the standard discographies) May 20, 1963 at Webster Hall, New York, on Glenn Gould's Steinway CD 318, produced by Creed Taylor, engineered by Ray Hall (S1, S3, S4, S5). The consensus signals are explicit and unusually varied: it won the 1964 Grammy for Best Jazz Instrumental Album, Individual or Group — Evans's first Grammy — was inducted into the Grammy Hall of Fame in 2000, and drew five stars from DownBeat in 1963, 4.5 from AllMusic (Nastos), 4.5 from the Penguin Guide and 3.5 from All About Jazz (S1). Lineage is the stronger case: everything Evans did afterward with overdubbing (Further Conversations, 1967; New Conversations, 1978) descends from it, Terry Riley cited it, Fred Hersch and Jean-Yves Thibaudet built tributes on it, and the model of a pianist in dialogue with himself runs straight through the solo-piano tradition the canon already holds — Evans's Alone (1970) and Monk's Solo Monk are both already in (S1). The programme is not filler: three Monk pieces against five standards, with 'N.Y.C.'s No Lark' written for Sonny Clark the month Clark died, and the Spartacus love theme singled out by Evans's biographers as the record's peak (S1).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Conversations with Myself (album) (track list with durations, session dates, Webster Hall/New York, producer Creed Taylor, personnel, ratings: DownBeat 5★, AllMusic 4.5, Penguin Guide 4.5, All About Jazz 3.5, 1964 Grammy and 2000 Grammy Hall of Fame)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Conversations_with_Myself_(album)"
+    },
+    "S2": {
+      "title": "AllMusic: Bill Evans — Conversations With Myself (track list, styles Post-Bop / Modal Music / Piano Jazz, credits listing Evans as composer and primary artist)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/conversations-with-myself-mw0000022550"
+    },
+    "S3": {
+      "title": "JazzDisco.org: Bill Evans Catalog (Verve V/V6-8526 sessions: NYC February 6, February 9 and May 20 1963; per-date track lists and master numbers 63VK299-305, 63VK488-489)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/bill-evans/catalog/"
+    },
+    "S4": {
+      "title": "Creed Taylor Produced: 'On This Day — A Conversation With Myself' (session account: Webster Hall, New York City, February 6/9/20 1963; producer Creed Taylor, engineer Ray Hall)",
+      "type": "liner-notes",
+      "url": "https://ctproduced.com/on-this-day-a-conversation-with-myself/"
+    },
+    "S5": {
+      "title": "JazzProfiles: Gene Lees on Conversations with Myself (liner-note-derived account quoting the album's recording credits: Webster Hall, recording engineer Ray Hall, director of engineering Val Valentin, produced by Creed Taylor)",
+      "type": "liner-notes",
+      "url": "https://jazzprofiles.blogspot.com/search/label/erwin%20blumenfeld"
+    },
+    "S6": {
+      "title": "Apple Music: Conversations with Myself (Expanded Edition), collectionId 1443809736, 10 tracks",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/conversations-with-myself-expanded-edition/1443809736"
+    },
+    "S7": {
+      "title": "MusicBrainz: Conversations with Myself (release group db235c76-1560-30dd-9a92-94c71440fd91)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/db235c76-1560-30dd-9a92-94c71440fd91"
+    },
+    "S8": {
+      "title": "Cover Art Archive: Conversations with Myself front cover (release 0ba96782-2003-408a-a923-d2a34853172f)",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release/0ba96782-2003-408a-a923-d2a34853172f/15460510072.jpg"
+    }
+  },
+  "apple_album_id": "1443809736",
+  "personnel_record": {
+    "recording_dates": [
+      "1963-02-06",
+      "1963-02-09",
+      "1963-05-20"
+    ],
+    "multi_session": true,
+    "studio": "Webster Hall, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1963-02-06",
+        "site_raw": "Webster Hall, New York City",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1963-02-09",
+        "site_raw": "Webster Hall, New York City",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1963-05-20",
+        "site_raw": "New York City (Webster Hall per session accounts; third-session date disputed)",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": null,
+        "site_raw": "Webster Hall, New York City",
+        "site_slug": "webster-hall",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S4"
+      }
+    ],
+    "producer": "Creed Taylor",
+    "engineer": "Ray Hall",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bill Evans",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Solo, multi-tracked: three overdubbed piano parts on every piece except 'Blue Monk', which uses two (S1, S4). Played Glenn Gould's Steinway CD 318 (S1, S5)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "'Round Midnight",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:35",
+        "session_date": "1963-02-09",
+        "composers": [
+          "Thelonious Monk",
+          "Cootie Williams",
+          "Bernie Hanighen"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "How About You?",
+        "track_number": 2,
+        "side": "A",
+        "duration": "2:50",
+        "session_date": "1963-02-09",
+        "composers": [
+          "Burton Lane",
+          "Ralph Freed"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Love Theme from Spartacus",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:10",
+        "session_date": "1963-05-20",
+        "composers": [
+          "Alex North"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blue Monk",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:32",
+        "session_date": "1963-05-20",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Stella by Starlight",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:52",
+        "session_date": "1963-02-09",
+        "composers": [
+          "Victor Young",
+          "Ned Washington"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Hey There",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:31",
+        "session_date": "1963-02-09",
+        "composers": [
+          "Richard Adler",
+          "Jerry Ross"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "N.Y.C.'s No Lark",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:36",
+        "session_date": "1963-02-06",
+        "composers": [
+          "Bill Evans"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Just You, Just Me",
+        "track_number": 8,
+        "side": "B",
+        "duration": "2:37",
+        "session_date": "1963-02-09",
+        "composers": [
+          "Jesse Greer",
+          "Raymond Klages"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Bemsha Swing",
+        "track_number": 9,
+        "side": null,
+        "duration": "2:56",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk",
+          "Denzil Best"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Sleepin' Bee",
+        "track_number": 10,
+        "side": null,
+        "duration": "4:10",
+        "session_date": "1963-02-09",
+        "composers": [
+          "Harold Arlen",
+          "Truman Capote"
+        ],
+        "personnel": [
+          "Bill Evans"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "db235c76-1560-30dd-9a92-94c71440fd91",
+    "apple_album_id": "1443809736",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/0ba96782-2003-408a-a923-d2a34853172f/15460510072.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover served by Cover Art Archive for this release group."
+      }
+    ],
+    "notes": "Session distribution per S3: February 6 — 'N.Y.C.'s No Lark'; February 9 — ''Round Midnight', 'How About You?', 'Stella by Starlight', 'Hey There', 'Just You, Just Me' (plus 'A Sleepin' Bee', added on CD reissues); May 20 — 'Love Theme from Spartacus', 'Blue Monk'. 'Bemsha Swing' is dated only to February 1963 by S3 (catalogued via The Best of Bill Evans) and carries a null session_date here rather than a guessed day. UNRESOLVED CONFLICT — third session date: S3 and S1 give 1963-05-20 for the Spartacus/Blue Monk date (master numbers 63VK488-489), while S4 and S5 (Creed Taylor session account and Gene Lees' liner-note reconstruction) place the third date on February 20, 1963; Lees' notes themselves say only 'January and February 1963'. The 1963-05-20 date is carried in recording_dates and the venue (Webster Hall) is agreed by every source, so the site claim is obs; the date should be read as disputed. Engineer Ray Hall and director of engineering Val Valentin per S4 and S5; AllMusic credits do not list production roles for this title, so production is carried as obs on the session accounts."
+  },
+  "ballot": {
+    "album": "Bill Evans — Conversations with Myself (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Evans makes overdubbing a substantive extension of post-bebop improvisation: layered performances expose his harmonic thinking and contrapuntal imagination in a defining statement he subsequently revisited on Further Conversations and New Conversations (S1, S4). Recognition is unusually broad: the dossier reports a 1964 Grammy, Grammy Hall of Fame induction, five stars from DownBeat, and 4.5 stars from both Penguin and AllMusic, although most of these claims are collected through S1. The original program's Monk interpretations, standards, 'N.Y.C.'s No Lark,' and 'Love Theme from Spartacus' give the experiment expressive substance beyond its recording method (S1, S3).",
+    "case_against": "Overdubbing replaces reciprocal ensemble interaction with improvisation against fixed performances; its dense piano counterpoint can obscure the space, swing, and immediacy that make Evans's trio and unaccompanied work compelling introductions. The historical innovation therefore does not guarantee discovery value for a listener encountering the album cold. Evidence for broad recognition is stronger than the dossier's independently documented influence claims: awards, ratings, and later-musician connections rely heavily on S1, and the claim of historical priority needs firmer sourcing. The dossier also conflates the expanded edition with the original eight-track LP and retains an unresolved February-versus-May third-session date conflict (S1, S3–S6).",
+    "disagreement": "Both references agree on consensus_core and strong, with no scope dispute. They differ in the weight given to reservations: the first treats independent sourcing and edition accuracy as substantive qualifications and calls discovery value plausible, while the second finds discovery value exceptional and treats the aesthetic objections as insufficient to challenge canonical standing.",
+    "recommendation": "The council proposes John give this strong-priority consideration as a consensus-core candidate, with the original LP distinguished from the expanded edition and the sourcing and session-date caveats retained.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
