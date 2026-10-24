@@ -42,3 +42,9 @@ temp/
 data/album-art/*
 !data/album-art/manifest.json
 !data/album-art/.gitkeep
+
+# External source dumps — raw data and working files stay local.
+# Track dumps/README.md and dumps/manifests/, not the bulk artifacts.
+dumps/musicbrainz/
+dumps/discogs/
+dumps/work/
