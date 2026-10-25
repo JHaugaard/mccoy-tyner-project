@@ -1,0 +1,446 @@
+{
+  "id": "miles-davis-bags-groove-1957",
+  "artist": "Miles Davis",
+  "album": "Bags' Groove",
+  "year": 1957,
+  "label": "Prestige",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "bebop"
+  ],
+  "rationale": "A 1957 Prestige LP assembled from two 1954 quintet sessions at Rudy Van Gelder's Hackensack studio, and the single densest Miles Davis date of that year in personnel terms: a June 29 quintet with Sonny Rollins, Horace Silver, Percy Heath and Kenny Clarke, and a December 24 date that put Thelonious Monk and Milt Jackson in the same room with Davis, Heath and Clarke (S1, S3, S8). Session gravity is the whole case. The June date produced four pieces that became working standards — Rollins' 'Airegin', 'Oleo' and 'Doxy', plus a 'But Not for Me' that survives in two takes — and 'Oleo' is where Davis first fixes the Harmon-mute timbre later heard across the Columbia records, a point the album article makes explicitly (S1). The December date is the documented Davis-Monk collision; it is the reason the record keeps being written about, and both takes of Jackson's 'Bags' Groove' come from it (S1, S3, S5). Honest limits: this is a compilation of two 10-inch sessions rather than a conceived album, and the ratings are good rather than ecstatic — AllMusic five stars and the Encyclopedia of Popular Music four, but the Penguin Guide sits at three and a half (S1). It earns its place on session gravity and lineage, not on a masterpiece claim, and the fact that a dozen later Miles albums are already in the canon is not held against it.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Bags' Groove (session-by-session personnel for June 29 and December 24 1954, recording studio Van Gelder/Hackensack, producer Bob Weinstock, track list with durations, and ratings table: AllMusic 5 stars, Encyclopedia of Popular Music 4 stars, Penguin Guide to Jazz 3.5 stars)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Bags%27_Groove"
+    },
+    "S2": {
+      "title": "AllMusic: Miles Davis — Bags' Groove (release December 1957; styles Hard Bop / Jazz Instrument / Trumpet Jazz; seven-track order and durations)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/bags-groove-mw0000649467"
+    },
+    "S3": {
+      "title": "JazzDiscography.org (jazzdisco): Prestige catalog 7100 series and Prestige discography 1954 — both sessions, full personnel, Van Gelder Studio Hackensack NJ, June 29 1954 and December 24 1954; master numbers 590-593 and 676",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/prestige-records/catalog-7100-series/"
+    },
+    "S4": {
+      "title": "iTunes Search API: Miles Davis — Bags' Groove (collectionId 1526164293, 7 tracks, Prestige, 1957)",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Miles+Davis+Bags+Groove&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz: Bags' Groove, 1957 US 12-inch vinyl release e619fbd9-5432-4b25-a825-86e3d647cf84 (release group 25a721dc-0940-359e-8b0d-4be9d5616348; side positions A1-A2, B1-B5)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release/e619fbd9-5432-4b25-a825-86e3d647cf84"
+    },
+    "S6": {
+      "title": "Cover Art Archive: Bags' Groove front cover, release e619fbd9-5432-4b25-a825-86e3d647cf84",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release/e619fbd9-5432-4b25-a825-86e3d647cf84/17695475719.jpg"
+    },
+    "S7": {
+      "title": "RateYourMusic: Bags' Groove release page (credits list Bob Weinstock producer, Rudy Van Gelder engineer, Reid Miles design, Ira Gitler liner notes)",
+      "type": "database",
+      "url": "https://rateyourmusic.com/release/comp/miles-davis-and-the-modern-jazz-giants/bags-groove/"
+    },
+    "S8": {
+      "title": "Miles Davis official site: Bags' Groove album page (release 1957, recording period June-December 1954, Prestige, seven-track list, personnel list)",
+      "type": "label",
+      "url": "https://www.milesdavis.com/albums/bags-groove/"
+    }
+  },
+  "apple_album_id": "1526164293",
+  "personnel_record": {
+    "recording_dates": [
+      "1954-06-29",
+      "1954-12-24"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1954-06-29",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1954-12-24",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Weinstock",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-06-29",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sonny Rollins",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Airegin",
+          "Oleo",
+          "But Not for Me (Take 2)",
+          "Doxy",
+          "But Not for Me (Take 1)"
+        ],
+        "session_dates": [
+          "1954-06-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Airegin",
+          "Oleo",
+          "But Not for Me (Take 2)",
+          "Doxy",
+          "But Not for Me (Take 1)"
+        ],
+        "session_dates": [
+          "1954-06-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Percy Heath",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-06-29",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "The one musician common to both 1954 sessions."
+      },
+      {
+        "name": "Kenny Clarke",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-06-29",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milt Jackson",
+        "instrument": "vibraphone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bags' Groove (Take 1)",
+          "Bags' Groove (Take 2)"
+        ],
+        "session_dates": [
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [
+          "Milt \"Bags\" Jackson"
+        ],
+        "notes": "Composer of the title piece; the December 24 date is the only one he plays on."
+      },
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Bags' Groove (Take 1)",
+          "Bags' Groove (Take 2)"
+        ],
+        "session_dates": [
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S8"
+        ],
+        "name_variants": [],
+        "notes": "Monk's only appearance on this LP; the December 24 date is the documented Davis-Monk session."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Bags' Groove (Take 1)",
+        "track_number": 1,
+        "side": "A",
+        "duration": "11:16",
+        "session_date": "1954-12-24",
+        "composers": [
+          "Milt Jackson"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Milt Jackson",
+          "Thelonious Monk",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S5"
+        ]
+      },
+      {
+        "title": "Bags' Groove (Take 2)",
+        "track_number": 2,
+        "side": "A",
+        "duration": "9:24",
+        "session_date": "1954-12-24",
+        "composers": [
+          "Milt Jackson"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Milt Jackson",
+          "Thelonious Monk",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S5"
+        ]
+      },
+      {
+        "title": "Airegin",
+        "track_number": 3,
+        "side": "B",
+        "duration": "5:01",
+        "session_date": "1954-06-29",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Sonny Rollins",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S5"
+        ]
+      },
+      {
+        "title": "Oleo",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:14",
+        "session_date": "1954-06-29",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Sonny Rollins",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S5"
+        ]
+      },
+      {
+        "title": "But Not for Me (Take 2)",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:36",
+        "session_date": "1954-06-29",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Sonny Rollins",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S5"
+        ]
+      },
+      {
+        "title": "Doxy",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:55",
+        "session_date": "1954-06-29",
+        "composers": [
+          "Sonny Rollins"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Sonny Rollins",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S5"
+        ]
+      },
+      {
+        "title": "But Not for Me (Take 1)",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:45",
+        "session_date": "1954-06-29",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "Sonny Rollins",
+          "Horace Silver",
+          "Percy Heath",
+          "Kenny Clarke"
+        ],
+        "bonus_track": false,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S5"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "25a721dc-0940-359e-8b0d-4be9d5616348",
+    "apple_album_id": "1526164293",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/e619fbd9-5432-4b25-a825-86e3d647cf84/17695475719.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover served by Cover Art Archive for the 1957 US 12-inch release."
+      }
+    ],
+    "notes": "Two sessions, both at Van Gelder Studio, Hackensack NJ (before Van Gelder's July 1959 move to Englewood Cliffs, so the Hackensack place is the correct row): June 29 1954 quintet (Davis, Rollins, Silver, Heath, Clarke) supplies tracks 3-7; December 24 1954 (Davis, Jackson, Monk, Heath, Clarke) supplies tracks 1-2 (S1, S3). Master numbers per S3: 590 (Airegin), 591 (Oleo), 592-1/592-2 (But Not for Me takes 1 and 2), 593 (Doxy), 676-1/676-2 (Bags' Groove takes 1 and 2). Side allocation follows the 1957 US 12-inch vinyl release in S5 (A1-A2 the two Bags' Groove takes, B1-B5 the June session), which also matches the seven-track order on the Apple edition (S4) and the label's own listing (S8). Both 'Bags' Groove' takes and both 'But Not for Me' takes are alternate takes of a single piece; the takes are part of the original LP, not reissue padding, so they are not flagged bonus. S1 records that 'Bags' Groove' take 1 had already appeared on Miles Davis All Stars, Volume 1 (Prestige PRLP 196). Durations from S1; S2 differs by a few seconds across the set. Producer Bob Weinstock per S1 and S7; engineer Rudy Van Gelder per S7, consistent with a Prestige date held at Van Gelder's own studio on both dates (S3)."
+  },
+  "ballot": {
+    "album": "Miles Davis — Bags' Groove (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album captures a load-bearing junction of bebop and early hard bop: Davis with Rollins and Silver in June 1954, and with Monk and Jackson that December, anchored throughout by Heath and Clarke (S3, S8). The June session introduced Rollins's enduring vehicles “Airegin,” “Oleo,” and “Doxy,” while “Oleo” documents an early signature use of Davis's Harmon-mute sound (S1). The contrasting ensembles make this more than a famous personnel roster: it offers an accessible lesson in blues phrasing, improvisational space, and intersecting modern-jazz lineages. AllMusic's five-star rating supports its classic standing, although the dossier establishes session gravity more firmly than independent critical consensus (S1, S2).",
+    "case_against": "The 1957 LP retrospectively combines two separate sessions rather than presenting a conceived album statement, and some material had already appeared on earlier Prestige releases (S1, S3, S5). Two takes each of “Bags' Groove” and “But Not for Me” narrow the program's repertoire and can make the listening experience feel repetitive, even though these takes belong to the original LP rather than later reissue padding (S5). The dossier supplies no direct cross-list or musician-citation evidence, and its Penguin Guide and Encyclopedia ratings are mediated through Wikipedia; exceptional performances and personnel do not by themselves establish overwhelming album-level consensus.",
+    "disagreement": "Reference 1 judges the repertoire, lineage, and coherent 1954 personnel network sufficient for consensus_core, treating the compilation format chiefly as a qualification; Reference 2 assigns contested because the retrospective assembly and repeated takes materially weaken the album-level case. Both agree on strong priority and unambiguous scope. They also differ on whether “Oleo” warrants a first-use Harmon-mute claim; the more cautious early-signature-use wording is better supported here.",
+    "recommendation": "The council proposes that John give Bags' Groove strong consideration as a foundational early-hard-bop discovery, while weighing its session-level importance against its retrospective LP construction.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

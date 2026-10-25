@@ -1,0 +1,431 @@
+{
+  "id": "archie-shepp-fire-music-1965",
+  "artist": "Archie Shepp",
+  "album": "Fire Music",
+  "year": 1965,
+  "label": "Impulse!",
+  "style_primary": "free-jazz",
+  "style_tags": [
+    "avant-garde-jazz"
+  ],
+  "rationale": "Archie Shepp is the largest figure in the 'new thing' of the mid-1960s who appears nowhere in this canon, and Fire Music is the record that would put him there: his second album as leader, released on Impulse! in September 1965 (A-86), recorded at Van Gelder's across two February/March 1965 dates (S1, S2, S3). The critical record is solid rather than unanimous — AllMusic rates it five stars, DownBeat and the Rolling Stone Jazz Record Guide four, the Penguin Guide three and a half (S1) — and All About Jazz calls it 'both challenging and accessible to most listeners', which is the argument for a teaching record rather than another avant-garde endurance test (S1). The five pieces mix modes deliberately: 'Hambone' is a 12-minute ensemble piece on a blues cell, 'Malcolm, Malcolm — Semper Malcolm' is a recitation with only bass and drums behind it, and the date closes on readings of Ellington's 'Prelude to a Kiss' and 'The Girl from Ipanema' (S1, S2, S3) — a band with a standard repertoire is a band whose idiom can be heard against the tradition rather than in place of it. Session gravity is real: Joe Chambers and Marion Brown on the February date, Ted Curson and Reggie Johnson alongside them, with David Izenzon and J.C. Moses replacing the rhythm section for the Malcolm piece (S1, S2, S3). The lineage argument runs through Impulse! itself, the label of A Love Supreme and Ascension, both already included. That is reasoning about continuity, not a claim of documented influence, and the free-jazz gate is an opened boundary that John rules on, not a settled centre.",
+  "priority": "consider",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Fire Music (Archie Shepp album) (recorded February 16 and March 9 1965, Van Gelder Studio Englewood Cliffs, producer Bob Thiele, Impulse! A-86, track list, personnel with track exclusions, and ratings table: AllMusic 5 stars, DownBeat 4 stars, Rolling Stone Jazz Record Guide 4 stars, Penguin Guide to Jazz 3.5 stars; quotes the AllMusic and All About Jazz reviews)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Fire_Music_(Archie_Shepp_album)"
+    },
+    "S2": {
+      "title": "JazzDiscography.org (jazzdisco): Archie Shepp discography — Archie Shepp Sextet, Van Gelder Studio, Englewood Cliffs NJ, February 16 1965 (Curson, Orange, Brown, Shepp, Johnson, Chambers); March 9 1965 Shepp/Izenson/Moses session; Impulse! A-86 and AS-86 release",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/archie-shepp/discography/"
+    },
+    "S3": {
+      "title": "Discogs: Archie Shepp — Fire Music, Impulse! AS-86 (credits: Bob Thiele producer, Rudy Van Gelder engineer, Ted Curson trumpet, Joseph Orange trombone, Marion Brown alto saxophone, Archie Shepp tenor saxophone, Reggie Johnson bass on A1/A2/B2/B3, Joe Chambers drums on A1/A2/B2/B3, David Izenzon bass and J.C. Moses drums on B1; 'Recorded on February 16 & March 9, 1965'; track durations)",
+      "type": "database",
+      "url": "https://www.discogs.com/release/373546-Archie-Shepp-Fire-Music"
+    },
+    "S4": {
+      "title": "iTunes Search API: Archie Shepp — Fire Music (collectionId 1443837989, 6 tracks including the live 'Hambone' bonus, Impulse!, 1965)",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Archie+Shepp+Fire+Music&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz: Fire Music (release group 31674ca5-3f86-36f5-a5e0-73c1ba037cda)",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/31674ca5-3f86-36f5-a5e0-73c1ba037cda"
+    },
+    "S6": {
+      "title": "Cover Art Archive: Fire Music front cover (release af580203-d207-4d5a-98bd-789bf2c21807)",
+      "type": "cover-art",
+      "url": "http://coverartarchive.org/release/af580203-d207-4d5a-98bd-789bf2c21807/21666711195.jpg"
+    },
+    "S7": {
+      "title": "The Marion Brown Discography (piezoelektric.org): Fire Music session listing — February 16 1965 tracks 1-2 and 4-5 at Van Gelder Studio Englewood Cliffs; March 9 1965 track 3 with Izenson and Moses; March 28 1965 Village Gate live 'Hambone' taken from The New Wave in Jazz (Impulse A-90)",
+      "type": "discography",
+      "url": "https://discog.piezoelektric.org/marionbrown/r/firemusic.html"
+    },
+    "S8": {
+      "title": "Both Sides Now / bsnpubs Impulse album discography: A/AS 86 — Fire Music, Archie Shepp, 1965 (five-track original programme)",
+      "type": "label",
+      "url": "https://www.bsnpubs.com/abc/impulse.html"
+    }
+  },
+  "apple_album_id": "1443837989",
+  "personnel_record": {
+    "recording_dates": [
+      "1965-02-16",
+      "1965-03-09"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1965-02-16",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1965-03-09",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Archie Shepp",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1965-02-16",
+          "1965-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also recites the spoken text on 'Malcolm, Malcolm - Semper Malcolm' (S1, S3)."
+      },
+      {
+        "name": "Ted Curson",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Hambone",
+          "Los Olvidados",
+          "Prelude to a Kiss",
+          "The Girl from Ipanema"
+        ],
+        "session_dates": [
+          "1965-02-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joseph Orange",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Hambone",
+          "Los Olvidados",
+          "Prelude to a Kiss",
+          "The Girl from Ipanema"
+        ],
+        "session_dates": [
+          "1965-02-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Joe Orange"
+        ],
+        "notes": "Credited as 'Joseph Orange' in the Discogs and jazzdisco personnel lists; the Wikipedia article's prose shortens it to 'Joe Orange'."
+      },
+      {
+        "name": "Marion Brown",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Hambone",
+          "Los Olvidados",
+          "Prelude to a Kiss",
+          "The Girl from Ipanema"
+        ],
+        "session_dates": [
+          "1965-02-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Reggie Johnson",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Hambone",
+          "Los Olvidados",
+          "Prelude to a Kiss",
+          "The Girl from Ipanema"
+        ],
+        "session_dates": [
+          "1965-02-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Replaced by David Izenzon on 'Malcolm, Malcolm - Semper Malcolm'."
+      },
+      {
+        "name": "Joe Chambers",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Hambone",
+          "Los Olvidados",
+          "Prelude to a Kiss",
+          "The Girl from Ipanema"
+        ],
+        "session_dates": [
+          "1965-02-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Replaced by J.C. Moses on 'Malcolm, Malcolm - Semper Malcolm'."
+      },
+      {
+        "name": "David Izenzon",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Malcolm, Malcolm - Semper Malcolm"
+        ],
+        "session_dates": [
+          "1965-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [
+          "David Izenson"
+        ],
+        "notes": "Spelled 'Izenson' in the Wikipedia personnel list and the Marion Brown discography, 'Izenzon' on the Discogs credits."
+      },
+      {
+        "name": "J.C. Moses",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Malcolm, Malcolm - Semper Malcolm"
+        ],
+        "session_dates": [
+          "1965-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S7"
+        ],
+        "name_variants": [
+          "JC Moses"
+        ],
+        "notes": "Drummer on the March 9 date only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Hambone",
+        "track_number": 1,
+        "side": "A",
+        "duration": "12:29",
+        "session_date": "1965-02-16",
+        "composers": [
+          "Archie Shepp"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Ted Curson",
+          "Joseph Orange",
+          "Marion Brown",
+          "Reggie Johnson",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Los Olvidados",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:54",
+        "session_date": "1965-02-16",
+        "composers": [
+          "Archie Shepp"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Ted Curson",
+          "Joseph Orange",
+          "Marion Brown",
+          "Reggie Johnson",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Malcolm, Malcolm - Semper Malcolm",
+        "track_number": 3,
+        "side": "B",
+        "duration": "4:48",
+        "session_date": "1965-03-09",
+        "composers": [
+          "Archie Shepp"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "David Izenzon",
+          "J.C. Moses"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S7"
+        ]
+      },
+      {
+        "title": "Prelude to a Kiss",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:50",
+        "session_date": "1965-02-16",
+        "composers": [
+          "Duke Ellington",
+          "Irving Gordon",
+          "Irving Mills"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Ted Curson",
+          "Joseph Orange",
+          "Marion Brown",
+          "Reggie Johnson",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Girl from Ipanema",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:36",
+        "session_date": "1965-02-16",
+        "composers": [
+          "Antonio Carlos Jobim",
+          "Vinicius de Moraes",
+          "Norman Gimbel"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Ted Curson",
+          "Joseph Orange",
+          "Marion Brown",
+          "Reggie Johnson",
+          "Joe Chambers"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "31674ca5-3f86-36f5-a5e0-73c1ba037cda",
+    "apple_album_id": "1443837989",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/af580203-d207-4d5a-98bd-789bf2c21807/21666711195.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover as served by Cover Art Archive for this release group."
+      }
+    ],
+    "notes": "Two studio sessions, both at Van Gelder Studio, Englewood Cliffs NJ: February 16 1965 (Curson, Orange, Brown, Shepp, Johnson, Chambers) yields tracks 1, 2, 4 and 5; March 9 1965 (Shepp, Izenson, Moses only) yields track 3, the Malcolm X recitation (S1, S2, S7). The original LP is a five-track programme (S1, S3, S8); CD-era editions add three takes of 'The Chased' and 'The Picaninny' from the March 9 date plus a live 'Hambone' recorded at the Village Gate on March 28 1965 and drawn from the various-artists LP The New Wave in Jazz (Impulse A-90) (S7) — the live Village Gate performance is therefore not listed as a recording site here, because it is not part of the album as issued. Durations follow S1; S3 gives the original-label timings, consistently 20-30 seconds shorter ('Hambone' 12:05, 'Los Olvidados' 8:36, 'Malcolm' 4:40, 'Prelude to a Kiss' 4:41, 'Ipanema' 8:18), and the discrepancy is left unresolved rather than averaged. Producer Bob Thiele and engineer Rudy Van Gelder per S1 and S3; S3 also notes the lacquer was cut at Van Gelder Studio and that 'VAN GELDER' is stamped in both runouts. Personnel spelling conflicts are recorded: Izenzon/Izenson for the bassist, Joseph/Joe Orange for the trombonist."
+  },
+  "ballot": {
+    "album": "Archie Shepp — Fire Music (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Within the year window; the live boundary is the opened free-jazz gate and whether this 1965 avant-garde statement sufficiently bridges the canon's post-bebop, hard-bop, and modal center."
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "Fire Music offers a concrete teaching bridge into free jazz: the blues-based 'Hambone' and interpretations of Ellington and Jobim let listeners hear radical expression working on recognizable musical foundations (S1–S3). The sextet featuring Ted Curson, Marion Brown, Joseph Orange, Reggie Johnson, and Joe Chambers supplies substantial session gravity, while the contrasting Malcolm X recitation makes political speech part of the album's expressive vocabulary (S2, S3, S7). Strong review ratings and the All About Jazz assessment quoted in S1 support its discovery value, although they do not establish canon-list consensus.",
+    "case_against": "The dossier establishes favorable reception, not overwhelming canonical standing: the ratings and accessibility assessment arrive through one encyclopedia entry, without direct reviews or documented core-list placements (S1). Its lineage case is also underdeveloped—sharing Impulse! with Coltrane does not establish influence, and several personnel connections advanced by the references are unsupported or inaccurate. Musically, the movement between ensemble improvisation, austere recitation, and transformed standards can register as fragmentation rather than an inviting bridge; recognizable repertoire does not eliminate the friction relevant to John's stated listening preferences.",
+    "disagreement": "Reference 1 votes contested because the evidence and musical trade-offs remain substantive even after admitting free jazz; Reference 2 votes scope_call because it treats the free-jazz boundary as the decisive question. Both choose consider, but Reference 2 presents the album's defining-statement status and critical consensus more confidently than Reference 1 believes the sourcing warrants.",
+    "recommendation": "The council proposes John audition the original five-track programme as a contested bridge candidate, with direct critical sourcing strengthened before he decides its place.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
