@@ -1,0 +1,508 @@
+{
+  "id": "nat-adderley-work-song-1960",
+  "artist": "Nat Adderley",
+  "album": "Work Song",
+  "year": 1960,
+  "label": "Riverside",
+  "style_primary": "hard-bop",
+  "priority": "strong",
+  "epistemic": "obs",
+  "rationale": "The record Nat Adderley is remembered for, and the one that put the title tune into the standard repertoire: 'Work Song' was lyricised and covered the same year by Oscar Brown Jr. on 'sin & soul' and has been a vocal and instrumental standard ever since (S2). Reception consensus across independent listing traditions: the Penguin Guide to Jazz gives it 4 stars and calls it 'the real classic... laced with a funky blues feel but marked by some unexpectedly lyrical playing'; AllMusic gives 4.5 stars ('near-classic... Highly recommended', Scott Yanow); the Virgin Encyclopedia of 60s Music gives 4 stars ('a brilliant amalgam of the soul jazz') (S2). Session gravity is the second case: a January 1960 Riverside date that put Wes Montgomery on the same floor as Bobby Timmons, Sam Jones, Percy Heath and Louis Hayes, with the cornet-cello-guitar front line that makes the album's sound (S1, S3) — the exact personnel web the canon is built to trace. Lineage: the tune became a soul-jazz standard and the record is the reference point for the Adderley brothers' funk-blues wing already represented in the canon by the Cannonball quintet albums. Discovery value is high: a cold listener gets a hit-quality theme, a blues-soaked band and Montgomery comping behind a cornet instead of a horn section.",
+  "sources": {
+    "S1": {
+      "title": "AllMusic — Nat Adderley, 'Work Song' (credits tab): full personnel and production credits, recording dates 25-27 January 1960, recording location Reeves Sound Studios, New York, and style tags Hard Bop / Soul Jazz",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/work-song-mw0000204076/credits",
+      "notes": "Credits list names Orrin Keepnews as Producer (and Liner Notes) and Jack Higgins as Engineer; lists Nat Adderley (cornet), Wes Montgomery (guitar), Bobby Timmons (piano), Percy Heath (bass), Keter Betts (bass, cello), Sam Jones (bass, cello, composer) and Louis Hayes (drums). No per-track assignment on this page."
+    },
+    "S2": {
+      "title": "Wikipedia — 'Work Song (Nat Adderley album)': track list with durations and composers, personnel listed track-by-track, recording dates and studio, and the reception table quoting Penguin Guide (4 stars), AllMusic (4.5), Rolling Stone Jazz Record Guide (3) and Virgin Encyclopedia of 60s Music (4)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Work_Song_(Nat_Adderley_album)",
+      "notes": "Says recorded at Reeves Sound Studios, New York City, 25 January 1960 (tracks 2, 4, 5, 7) and 27 January 1960 (tracks 1, 3, 6, 8, 9) — the mirror image of S5's split. Also records that the title tune was lyricised by Oscar Brown Jr. and became a standard."
+    },
+    "S3": {
+      "title": "Jazz Discography Project (jazzdisco.org) — Riverside Records catalog, 300 series, entry RLP 12-318 Nat Adderley 'Work Song': session personnel with per-track assignments and studio/date line",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/riverside-records/catalog-300-series/",
+      "notes": "Session line: 'Nat Adderley, cornet; Bobby Timmons, piano #1,2,5,6,9; Wes Montgomery, guitar; Sam Jones, cello #1,2,5,6,9, bass #3,7,8; Percy Heath, bass #1,6,9; Keter Betts, bass #2,4,5, cello #7; Louis Hayes, drums #1,2,4-7,9. Reeves Sound Studios, NYC, January 25 and 27, 1960.'"
+    },
+    "S4": {
+      "title": "Jazz Discography Project — Wes Montgomery catalog: 'Nat Adderley - Work Song Riverside RLP 12-318 1960' session entry with the same per-track personnel and the Reeves Sound Studios / 25 & 27 January 1960 line",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/wes-montgomery/catalog/",
+      "notes": "Second, independent jazzdisco catalog page carrying the same session block — corroborates S3 on personnel and place."
+    },
+    "S5": {
+      "title": "Fresh Sound Records — 'Work Song + Movin' Along (2 LP on 1 CD)' reissue notes: per-track personnel for Work Song and a track-to-date split (tracks 1, 6, 9 on 25 January; tracks 2-5 and 7-8 on 27 January)",
+      "type": "discography",
+      "url": "https://www.freshsoundrecords.com/nat-adderley-wes-montgomery-albums/6130-work-song-movin-along-2-lps-on-1-cd.html",
+      "notes": "Agrees with S2/S3 on who plays on which track, except it lists Keter Betts on both cello and bass on track 5 ('Fallout'). Its track-to-date split is the complement of S2's."
+    },
+    "S6": {
+      "title": "iTunes Search API — Nat Adderley album 'Work Song', Apple Music collectionId 1472169451 (9 tracks, US store, releaseDate 1960-01-01)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Nat+Adderley+Work+Song&entity=album&limit=10",
+      "notes": "Streaming identifier only; track count 9 matches the original LP sequence."
+    },
+    "S7": {
+      "title": "Cover Art Archive — release group d4062cb9-0e0d-3ca5-b003-4ab80c9d8bb5, front cover image",
+      "type": "other",
+      "url": "https://coverartarchive.org/release-group/d4062cb9-0e0d-3ca5-b003-4ab80c9d8bb5",
+      "notes": "MusicBrainz release group derived from the Wikipedia authority-control link; front image approved."
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-01-25",
+      "1960-01-27"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1960-01-25",
+        "site_raw": "Reeves Sound Studios, New York City",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1960-01-27",
+        "site_raw": "Reeves Sound Studios, New York City",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Nat Adderley",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; plays cornet on all nine tracks."
+      },
+      {
+        "name": "Wes Montgomery",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Guitar on all nine tracks — the album's second front-line voice."
+      },
+      {
+        "name": "Bobby Timmons",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Work Song",
+          "Pretty Memory",
+          "Fallout",
+          "Sack of Woe",
+          "Scrambled Eggs"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Piano on tracks 1, 2, 5, 6 and 9 only; the trio tracks (3, 4, 7, 8) are cornet-guitar-bass."
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I've Got a Crush on You",
+          "My Heart Stood Still",
+          "Violets for Your Furs"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Double bass on tracks 3, 7 and 8; see the separate cello entry for his other role on this date. Composer of 'Scrambled Eggs'."
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Work Song",
+          "Pretty Memory",
+          "Fallout",
+          "Sack of Woe",
+          "Scrambled Eggs"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Pizzicato cello on tracks 1, 2, 5, 6 and 9 — the album's unusual third voice; recorded as a separate performance row because the corpus keeps doublings as distinct instrument rows."
+      },
+      {
+        "name": "Percy Heath",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Work Song",
+          "Sack of Woe",
+          "Scrambled Eggs"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Double bass on tracks 1, 6 and 9."
+      },
+      {
+        "name": "Keter Betts",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Pretty Memory",
+          "Mean to Me",
+          "Fallout"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Double bass on tracks 2, 4 and 5."
+      },
+      {
+        "name": "Keter Betts",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "My Heart Stood Still"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Cello on track 7. S5 also gives Betts a bass credit on track 5 alongside his bass role; S2 and S3 name bass only there, so the doubling is recorded only where both agree."
+      },
+      {
+        "name": "Louis Hayes",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Work Song",
+          "Pretty Memory",
+          "Mean to Me",
+          "Fallout",
+          "Sack of Woe",
+          "My Heart Stood Still",
+          "Scrambled Eggs"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Drums on tracks 1, 2 and 4-7 and 9 — every track except the two bass-guitar-cornet trios (3, 8)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Work Song",
+        "track_number": 1,
+        "side": "A",
+        "duration": "4:15",
+        "session_date": null,
+        "composers": [
+          "Nat Adderley",
+          "Oscar Brown Jr."
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Bobby Timmons",
+          "Wes Montgomery",
+          "Sam Jones",
+          "Percy Heath",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Pretty Memory",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:54",
+        "session_date": null,
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Bobby Timmons",
+          "Wes Montgomery",
+          "Sam Jones",
+          "Keter Betts",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I've Got a Crush on You",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:55",
+        "session_date": null,
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Wes Montgomery",
+          "Sam Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mean to Me",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:01",
+        "session_date": null,
+        "composers": [
+          "Fred E. Ahlert",
+          "Roy Turk"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Wes Montgomery",
+          "Keter Betts",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Fallout",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:54",
+        "session_date": null,
+        "composers": [
+          "Nat Adderley"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Bobby Timmons",
+          "Wes Montgomery",
+          "Sam Jones",
+          "Keter Betts",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sack of Woe",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:28",
+        "session_date": null,
+        "composers": [
+          "Julian Adderley"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Bobby Timmons",
+          "Wes Montgomery",
+          "Sam Jones",
+          "Percy Heath",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "My Heart Stood Still",
+        "track_number": 7,
+        "side": "B",
+        "duration": "6:25",
+        "session_date": null,
+        "composers": [
+          "Lorenz Hart",
+          "Richard Rodgers"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Wes Montgomery",
+          "Keter Betts",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Violets for Your Furs",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:50",
+        "session_date": null,
+        "composers": [
+          "Tom Adair",
+          "Matt Dennis"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Wes Montgomery",
+          "Sam Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Scrambled Eggs",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:20",
+        "session_date": null,
+        "composers": [
+          "Sam Jones"
+        ],
+        "personnel": [
+          "Nat Adderley",
+          "Bobby Timmons",
+          "Wes Montgomery",
+          "Sam Jones",
+          "Percy Heath",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "d4062cb9-0e0d-3ca5-b003-4ab80c9d8bb5",
+    "apple_album_id": "1472169451",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/d4062cb9-0e0d-3ca5-b003-4ab80c9d8bb5/front",
+        "is_original_cover": true,
+        "epistemic": "inf",
+        "notes": "Front image is approved on the release group; the pressing it was scanned from is not stated, so originality is inferred rather than observed."
+      }
+    ],
+    "notes": "Two sessions, both at Reeves Sound Studios, New York City: 25 and 27 January 1960 (S1, S2, S3, S4 agree on both dates and the room). TRACK-TO-DATE CONFLICT, preserved not resolved: S2 assigns tracks 2, 4, 5, 7 to 25 January and tracks 1, 3, 6, 8, 9 to 27 January; S5 assigns the exact complement — tracks 1, 6, 9 to 25 January and tracks 2-5 and 7-8 to 27 January. The two sources are mirror images, so one of them has the dates reversed and nothing in the record decides which; every track's session_date is therefore null and epistemic_track is 'unk' for that reason only. Per-track PERSONNEL is not in doubt: S2, S3 and S5 agree on who plays on which track. Instrument doublings (Sam Jones bass/cello, Keter Betts bass/cello) are recorded as separate performance rows with their own track lists, matching how the corpus stores doublers. Album durations differ slightly between S2 (4:15 etc., total 39:02 per S1) and S1's track listing."
+  },
+  "ballot": {
+    "album": "Nat Adderley — Work Song (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Work Song makes a defining case for Nat Adderley as a leader: its signature composition became a standard, with Oscar Brown Jr. supplying lyrics that same year (S2). The cornet–guitar–pizzicato-cello textures distinguish it from routine hard-bop sessions, while Wes Montgomery, Bobby Timmons, Sam Jones, Percy Heath, Keter Betts and Louis Hayes give it exceptional session gravity (S1, S3). The Penguin Guide's 'real classic,' AllMusic's 'near-classic' and Virgin's four-star assessment establish broad retrospective esteem, though those judgments are reproduced through S2. Its memorable blues themes and intimate standard interpretations offer an unusually accessible introduction to the hard-bop/soul-jazz continuum.",
+    "case_against": "The title composition's canonical standing does not automatically establish the entire LP as indispensable: the alternation between groove-centered ensemble pieces and stripped-down standards can sound less concentrated than the contemporary Cannonball quintet's live statements. The dossier establishes favorable reviews more securely than overwhelming canon-list consensus, with Rolling Stone's three-star assessment providing a modest counterweight (S2). Most reception evidence is mediated through Wikipedia, and the dossier offers limited documentation of album-level influence beyond the title tune's afterlife; strong personnel alone cannot settle that distinction.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John treat Work Song as a strong consensus-core candidate, distinguished by its ensemble sound and leader statement rather than by the title tune alone.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

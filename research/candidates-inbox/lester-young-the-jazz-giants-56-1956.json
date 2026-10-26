@@ -1,0 +1,348 @@
+{
+  "id": "lester-young-the-jazz-giants-56-1956",
+  "artist": "Lester Young",
+  "album": "The Jazz Giants '56",
+  "year": 1956,
+  "label": "Verve",
+  "style_primary": "cool-jazz",
+  "priority": "strong",
+  "epistemic": "obs",
+  "rationale": "The one postwar Lester Young session that even his doubters concede: AllMusic's Scott Yanow opens his review by noting that critics who hold little of Young's postwar playing to be at the level of his earlier work 'make an exception for this session', and closes calling it 'a real gem... highly recommended' (S1). Its case is session gravity first — a 12 January 1956 Norman Granz date that put Young beside Roy Eldridge and Vic Dickenson with Teddy Wilson and the Basie rhythm section of Freddie Green, Gene Ramey and Jo Jones, a swing all-star band assembled in a hi-fi studio (S1, S2, S3). Lineage is the second case: Young is the fountainhead of the cool tenor that the canon already carries in Birth of the Cool, the Mulligan quartets, Konitz, Getz, Desmond and Tristano, and this is the mid-1950s record where that ancestry is audible in modern sound — Prez playing with the men he came up with, not with a revival band. It still plays: 'Gigantic Blues' is the explosive track Yanow singles out, and the ballads hold up beside anything in Young's Verve catalogue. Style is read from AllMusic's own tagging (Cool, Mainstream Jazz, Saxophone Jazz), not from genre advocacy.",
+  "sources": {
+    "S1": {
+      "title": "AllMusic — Lester Young, 'The Jazz Giants '56' (credits tab): personnel and production credits, recording date 12 January 1956, recording location 'Fine Sound, NY', style tags Cool / Mainstream Jazz / Saxophone Jazz, and Scott Yanow's review calling the set 'a real gem... highly recommended'",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-jazz-giants-56-mw0000192693/credits",
+      "notes": "Credits list Norman Granz as Producer and Val Valentin as Engineer. WARNING: this credits table aggregates more than the 12 January session — it also lists Bill Harris, Dizzy Gillespie, Herb Ellis, Louie Bellson, Oscar Peterson, Ray Brown and 'Jo Jones All Stars', who belong to other Verve/Norgran dates in the same reissue family (the same day's Modern Jazz Sextet date and the 13 January Pres/Teddy Wilson quartet date are catalogued separately in S3). None of those names is carried into this record."
+    },
+    "S2": {
+      "title": "Wikipedia — 'The Jazz Giants '56': infobox (recorded 12 January 1956, Fine Sound Studios, New York City; Verve MGN 1056; producer Norman Granz), track listing with durations and composers, and the seven-man Personnel section",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Jazz_Giants_%2756",
+      "notes": "Personnel as printed: Lester Young (saxophone), Roy Eldridge (trumpet), Vic Dickenson (trombone), Teddy Wilson (piano), Freddie Green (guitar), Gene Ramey (bass), Jo Jones (drums). Cites Delannoy, 'Pres: the Story of Lester Young' (1993)."
+    },
+    "S3": {
+      "title": "Jazz Discography Project (jazzdisco.org) — Verve Records discography 1956, session 'The Jazz Giants '56': full session personnel, 'Fine Sound, NYC, January 12, 1956', matrix numbers and original issue Norgran MGN-1056",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/verve-records/discography-1956/",
+      "notes": "Session line: 'Roy Eldridge, trumpet; Vic Dickenson, trombone; Lester Young, tenor sax; Teddy Wilson, piano; Freddie Green, guitar; Gene Ramey, bass; Jo Jones, drums. Fine Sound, NYC, January 12, 1956.' Five matrices 2646-2 to 2650-2; original issue Norgran MGN-1056 (1956), reissued as Verve MGV-8146 (1957). The neighbouring session of the same day is a different band (Dizzy Gillespie / Sonny Stitt / Modern Jazz Sextet), and 13 January is the Young–Wilson quartet date — the source of the extra names on S1."
+    },
+    "S4": {
+      "title": "iTunes Search API — Lester Young album 'The Jazz Giants '56', Apple Music collectionId 1669617645 (5 tracks, releaseDate 1956-01-12, Verve Label Group)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Lester+Young+Jazz+Giants&entity=album&limit=10",
+      "notes": "Streaming identifier; 5 tracks match the original LP sequence exactly."
+    },
+    "S5": {
+      "title": "MusicBrainz — release group dedd1f62-5493-3114-b568-4270e1afa5ad 'The Jazz Giants' (Lester Young), one release: Verve CD 825672-2, 1992-05-14, 5 tracks; Cover Art Archive front image on the same release group",
+      "type": "other",
+      "url": "https://musicbrainz.org/ws/2/release-group/?query=artist:%22Lester+Young%22+AND+releasegroup:%22jazz+giants%22&fmt=json",
+      "notes": "MusicBrainz holds NO release group for the 1956 original — the only match is the 1992 Verve CD reissue of the same five tracks. The MBID is recorded as a reference to that reissue, not as the original release."
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-01-12"
+    ],
+    "multi_session": false,
+    "studio": "Fine Sound, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1956-01-12",
+        "site_raw": "Fine Sound, NYC",
+        "site_slug": "fine-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": "Val Valentin",
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Lester Young",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Lester \"Prez\" Young"
+        ],
+        "notes": "Leader. S2 gives the instrument only as 'saxophone'; S1 and S3 specify tenor saxophone."
+      },
+      {
+        "name": "Roy Eldridge",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Trumpet on all five tracks; Yanow singles out his inspiration on 'I Didn't Know What Time It Was'."
+      },
+      {
+        "name": "Vic Dickenson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Trombone on all five tracks."
+      },
+      {
+        "name": "Teddy Wilson",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Piano on all five tracks. Young and Wilson recorded again the next day (13 January 1956) as a quartet with Ramey and Jo Jones — that session is 'Pres and Teddy' (Verve MGV-8205) and is NOT part of this album (S3)."
+      },
+      {
+        "name": "Freddie Green",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Guitar on all five tracks; Basie's rhythm guitarist."
+      },
+      {
+        "name": "Gene Ramey",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Double bass on all five tracks."
+      },
+      {
+        "name": "Jo Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Jonathan Jones",
+          "Papa Jo Jones"
+        ],
+        "notes": "Drums on all five tracks."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "I Guess I'll Have To Change My Plan",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:35",
+        "session_date": "1956-01-12",
+        "composers": [
+          "Arthur Schwartz",
+          "Howard Dietz"
+        ],
+        "personnel": [
+          "Lester Young",
+          "Roy Eldridge",
+          "Vic Dickenson",
+          "Teddy Wilson",
+          "Freddie Green",
+          "Gene Ramey",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Didn't Know What Time It Was",
+        "track_number": 2,
+        "side": "A",
+        "duration": "10:06",
+        "session_date": "1956-01-12",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Lester Young",
+          "Roy Eldridge",
+          "Vic Dickenson",
+          "Teddy Wilson",
+          "Freddie Green",
+          "Gene Ramey",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Gigantic Blues",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:54",
+        "session_date": "1956-01-12",
+        "composers": [
+          "Lester Young"
+        ],
+        "personnel": [
+          "Lester Young",
+          "Roy Eldridge",
+          "Vic Dickenson",
+          "Teddy Wilson",
+          "Freddie Green",
+          "Gene Ramey",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "This Year's Kisses",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:49",
+        "session_date": "1956-01-12",
+        "composers": [
+          "Irving Berlin"
+        ],
+        "personnel": [
+          "Lester Young",
+          "Roy Eldridge",
+          "Vic Dickenson",
+          "Teddy Wilson",
+          "Freddie Green",
+          "Gene Ramey",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "You Can Depend on Me",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:06",
+        "session_date": "1956-01-12",
+        "composers": [
+          "Charles Carpenter",
+          "Louis Dunlap",
+          "Earl Hines"
+        ],
+        "personnel": [
+          "Lester Young",
+          "Roy Eldridge",
+          "Vic Dickenson",
+          "Teddy Wilson",
+          "Freddie Green",
+          "Gene Ramey",
+          "Jo Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "dedd1f62-5493-3114-b568-4270e1afa5ad",
+    "apple_album_id": "1669617645",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/dedd1f62-5493-3114-b568-4270e1afa5ad/front",
+        "is_original_cover": false,
+        "epistemic": "inf",
+        "notes": "Front image is scanned from the 1992 Verve CD (825672-2) — the only release MusicBrainz holds for this title — so it documents the reissue package, not the 1956 Norgran sleeve."
+      }
+    ],
+    "notes": "One session: Fine Sound, New York City, 12 January 1956 (S1, S2, S3 all agree on the date; S2 and S3 name the room, S1 gives 'Fine Sound, NY'). LABEL: S2 and S4 say Verve; S3 shows the original 1956 issue as Norgran MGN-1056 with the Verve reissue as MGV-8146 (1957) — Norgran was Granz's label absorbed into Verve, which is why both attributions circulate. Recorded here as Verve, with the Norgran first issue preserved in this note. PRODUCTION: producer Norman Granz is corroborated by S1 and S2 (obs); the engineer credit Val Valentin rests on S1 alone and that page's credit table demonstrably mixes in other sessions from the same reissue family, so the block-level label is set to 'inf' rather than claiming obs for the pair. PERSONNEL HYGIENE: S1's credit list carries Bill Harris, Dizzy Gillespie, Herb Ellis, Louie Bellson, Oscar Peterson, Ray Brown and 'Jo Jones All Stars', none of whom played this date per S2 and S3 (they belong to the same-day Modern Jazz Sextet date and the 13 January quartet date); all are excluded here, not silently — this note is the record of the exclusion. Durations follow S2; S1's track listing differs by a few seconds per track. MusicBrainz has no release group for the 1956 original; the MBID recorded is the 1992 Verve CD reissue of the same five tracks."
+  },
+  "ballot": {
+    "album": "Lester Young — The Jazz Giants '56 (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1956 recording and original issue clear the date gate; the disputed boundary is whether this swing-rooted mainstream session is a load-bearing bridge into the bebop/post-bebop tradition or primarily a document of its antecedents, regardless of AllMusic's Cool tag."
+    },
+    "tier": "scope_call",
+    "priority": "consider",
+    "case_for": "The strongest claim is session gravity: S2 and S3 document Young alongside Roy Eldridge, Vic Dickenson, Teddy Wilson, Freddie Green, Gene Ramey, and Jo Jones, making his musical ancestry audible through an exceptional gathering of collaborators. Scott Yanow's AllMusic review identifies the session as an exception even for critics skeptical of postwar Young and calls it 'a real gem... highly recommended' (S1). As a discovery record, its standards and 'Gigantic Blues' offer an accessible encounter with the phrasing and rhythmic freedom that helped make cool tenor possible, although that bridge is an interpretive argument rather than documented album-specific influence.",
+    "case_against": "Young's foundational influence does not by itself establish that this particular 1956 swing session carries the post-bebop lineage forward; the ensemble and extended standards format can instead be heard as preserving an earlier tradition. The dossier supplies only one substantive critical assessment, so neither broad canonical consensus nor the claim that this is the universally acknowledged postwar exception is demonstrated. The next day's Pres and Teddy is a serious alternative for presenting late Young, while this album's distinguished personnel alone cannot establish its indispensability.",
+    "disagreement": "Reference 1 finds no genuine scope boundary and recommends contested/strong on session gravity and discovery value; Reference 2 regards mainstream swing's relationship to the canon's post-bebop center as decisive and recommends scope_call/consider. They agree that the performance merits attention and that independent evaluative sourcing is thin, but differ over whether Young's lineage makes this album an adequate bridge.",
+    "recommendation": "The council proposes that John audition this as a scope decision about swing-rooted antecedents, weighing its ensemble chemistry against Pres and Teddy before deciding its place.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
