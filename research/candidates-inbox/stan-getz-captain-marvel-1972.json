@@ -1,0 +1,401 @@
+{
+  "id": "stan-getz-captain-marvel-1972",
+  "artist": "Stan Getz",
+  "album": "Captain Marvel",
+  "year": 1972,
+  "label": "Columbia",
+  "apple_album_id": 204122860,
+  "musicbrainz_release_group_mbid": "ab9e915f-0f54-3bff-b04b-c6e5ee435c15",
+  "cover_art_url": "https://coverartarchive.org/release/487b4d51-2218-4cbc-9d80-a2d46c1f976f/14415994649.jpg",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "Stan Getz's late-period summit with the Chick Corea/Stanley Clarke/Tony Williams generation, and the direct precursor to Return to Forever: Corea wrote the book, then re-recorded three of these pieces with RTF ('La Fiesta' on Return to Forever, '500 Miles High' and the title track on Light as a Feather) before Getz's album even appeared. Critical standing is documented across three independent listing traditions — AllMusic 4.5 stars, The Penguin Guide to Jazz 3.5 stars, The Rolling Stone Jazz Record Guide 4 stars (all cited in the album article's ratings table, S1) — and AllMusic's reviewer calls it, with Sweet Rain, the finest record Getz made in the late 1960s-early 1970s (S2). Strong lineage and session gravity: Getz, already in the canon four times, fronting the rhythm section that would define early fusion. Boundary note: this sits on the fusion line the rubric names (electric piano and electric bass, Latin-tinged vamps) but remains an acoustic-tenor improviser's record with no rock backbeat — argued as continuity, not annexation, and flagged for scope_call/contested rather than consensus_core. It also still plays: lyrical Getz over Corea's vamps is immediately legible to a cold listener.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Captain Marvel (album) — track list, personnel, production credits, ratings table (AllMusic 4.5, Penguin Guide 3.5, Rolling Stone Jazz Record Guide 4), recording date and studio",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Captain_Marvel_(album)"
+    },
+    "S2": {
+      "title": "AllMusic: Captain Marvel — styles (post-bop, fusion, hard bop, bossa nova), recording date and location (A&R Studios, New York), full credits including Chick Corea on electric piano and Stanley Clarke on bass (electric), review by Thom Jurek",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/captain-marvel-mw0000045641"
+    },
+    "S3": {
+      "title": "Discogs: Stan Getz — Captain Marvel (Columbia KC 32706, 1975) — recorded March 3, 1972 at A&R Studios, New York; producer Stan Getz; engineer Dixon Van Winkle; credits list",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/1444625"
+    },
+    "S4": {
+      "title": "iTunes Search API / Apple Music: Captain Marvel, collectionId 204122860 (Stan Getz, 9 tracks)",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/captain-marvel/204122860"
+    },
+    "S5": {
+      "title": "MusicBrainz release group ab9e915f-0f54-3bff-b04b-c6e5ee435c15 + Cover Art Archive front image",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/ab9e915f-0f54-3bff-b04b-c6e5ee435c15"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1972-03-03"
+    ],
+    "multi_session": false,
+    "studio": "A&R Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1972-03-03",
+        "site_raw": "A&R Studios, New York, NY",
+        "site_slug": "a-r-recording-112-west-48th-street",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Stan Getz",
+    "engineer": "Dixon Van Winkle",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Stan Getz",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-03-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": "Also credited as producer (S3); 'A Shadowbrook Production' on the original LP sleeve."
+      },
+      {
+        "name": "Chick Corea",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-03-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": "Composer of five of the six original pieces. AllMusic's credit line reads 'Composer, Electric Keyboard, Guest Artist, Main Personnel, Piano, Piano (Electric)'; Wikipedia and Discogs give electric piano for the date, so doubling onto acoustic piano is not recorded here."
+      },
+      {
+        "name": "Stanley Clarke",
+        "instrument": "electric bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-03-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": "AllMusic credits 'Bass, Bass (Electric), Bass Instrument'; Wikipedia and Discogs give electric bass."
+      },
+      {
+        "name": "Airto Moreira",
+        "instrument": "percussion",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-03-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-03-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "La Fiesta",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:21",
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Five Hundred Miles High",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:09",
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Captain Marvel",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:06",
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Times Lie",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:46",
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Lush Life",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:14",
+        "session_date": "1972-03-03",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Day Waves",
+        "track_number": 6,
+        "side": "B",
+        "duration": "9:39",
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Crystal Silence (Previously Unissued)",
+        "track_number": 7,
+        "side": null,
+        "duration": null,
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Captain Marvel (Alternate Version)",
+        "track_number": 8,
+        "side": null,
+        "duration": null,
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "inf",
+        "sources": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Five Hundred Miles High (Alternate Version)",
+        "track_number": 9,
+        "side": null,
+        "duration": null,
+        "session_date": "1972-03-03",
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Stan Getz",
+          "Chick Corea",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Tony Williams"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "inf",
+        "sources": [
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "ab9e915f-0f54-3bff-b04b-c6e5ee435c15",
+    "apple_album_id": 204122860,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/487b4d51-2218-4cbc-9d80-a2d46c1f976f/14415994649.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front image attached to release 487b4d51-2218-4cbc-9d80-a2d46c1f976f via the release group (S5)."
+      }
+    ],
+    "notes": "Single session, recorded at A&R Studios, New York, in March 1972; issued on Columbia (KC 32706) in 1975, three years later, by which time Corea had already re-recorded three of these pieces with Return to Forever. DATE CONFLICT: AllMusic's metadata gives 'Recording Date: March 2, 1972' and 'Release Date: March 3, 1972' (S2), while Wikipedia (S1) and Discogs (S3) both say recorded March 3, 1972 — the two AllMusic fields look transposed; the dossier records 1972-03-03 on the weight of two sources (inf-level reasoning about the AllMusic error). PLACE: no source names a room within A&R, so the 112 West 48th Street row is used per the canon's ruled equivalence for 'A&R Studios' rather than the '(room undetermined)' row; if a liner note later names a different room, this entry should be re-pointed. PRODUCTION CONFLICT: Wikipedia and Discogs name Stan Getz as producer (with 'A Shadowbrook Production' on the sleeve); AllMusic's credits additionally list Donald Elfman and Henri Renaud as Producer and Debra Parkinson, John Guerriere and Russ Payne under remixing/remastering (S2) — those are reissue credits and are not recorded as the 1972 session producer. Track personnel are undifferentiated across the album in every source; no per-track assignments were invented. Style: AllMusic tags the record Post-Bop, Fusion, Hard Bop, Bossa Nova and Cool at once; style_primary is post-bop with the fusion question carried in the rationale, since the band is Corea/Clarke/Williams but the date is acoustic tenor over electric accompaniment, not rock-beat fusion."
+  },
+  "ballot": {
+    "album": "Stan Getz — Captain Marvel (1972)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1972 recording is within the window regardless of the disputed release date. The live boundary is fusion: electric piano, electric bass, and Latin-modal vamps connect post-bop improvisation to early electric jazz, requiring John's bridge-test ruling."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Captain Marvel offers an unusually clear bridge between Getz's acoustic-tenor tradition and the electric vocabulary of Chick Corea, Stanley Clarke, Airto Moreira, and Tony Williams: its exceptional personnel network becomes audible musical continuity rather than merely an impressive lineup (S1–S3). Corea's compositions and their overlap with Return to Forever's repertoire give the session substantial lineage value without requiring a disputed claim of chronological priority. AllMusic's Thom Jurek places it alongside Sweet Rain among Getz's finest records of the period, while favorable Penguin and Rolling Stone guide ratings, reported through S1, broaden the critical support. Getz's lyrical authority over the band's kinetic grooves also makes this an accessible record through which to discover that transition.",
+    "case_against": "The electric accompaniment and vamp-centered writing make this a substantive fusion-boundary decision, not an automatic extension of the acoustic canon; its value must rest on the bridge it demonstrates rather than its famous personnel. Its defining-statement claim also faces a real alternative reading: Corea supplies five of six original compositions, and the related Return to Forever recordings may explain this repertoire's historical importance more directly. The consensus evidence is favorable rather than overwhelming, with two guide ratings mediated through Wikipedia and only one directly cited critical review. Conflicting release chronologies further prevent the dossier's claims about precedence and delayed historical impact from carrying reliable argumentative weight.",
+    "disagreement": "Both references recommend scope_call with strong priority, but they disagree materially about chronology: Reference 1 identifies 1972 as the original release year and rejects the delayed-release narrative, while Reference 2 accepts 1975 and treats that delay as limiting the album's impact. Neither chronology should be treated as settled by this ballot, and claims that the session introduced the repertoire before Return to Forever require separate verification.",
+    "recommendation": "The council proposes that John give Captain Marvel strong consideration as a post-bop-to-fusion bridge, with an explicit scope ruling and verification of the release and repertoire chronology.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

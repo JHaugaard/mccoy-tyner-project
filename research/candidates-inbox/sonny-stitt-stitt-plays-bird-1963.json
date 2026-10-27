@@ -1,0 +1,450 @@
+{
+  "id": "sonny-stitt-stitt-plays-bird-1963",
+  "artist": "Sonny Stitt",
+  "album": "Stitt Plays Bird",
+  "year": 1963,
+  "label": "Atlantic",
+  "apple_album_id": 1488827497,
+  "musicbrainz_release_group_mbid": "5c4c7a11-1b3b-3fa9-9cb2-eb647071c1ef",
+  "cover_art_url": "https://coverartarchive.org/release/1442c141-af6f-41d9-9d50-d4e6984d69c4/34215206588.jpg",
+  "style_primary": "bebop",
+  "style_tags": [],
+  "rationale": "Sonny Stitt is the one bebop-to-hard-bop pillar entirely absent from the canon — no leader date of his appears in any status — and this is the record that states his claim plainly: an all-Parker programme ('Ornithology', 'Confirmation', 'Ko-Ko', 'Parker's Mood', 'Constellation') played on alto, the horn Stitt set aside for tenor in the 1950s and picked up here to answer Bird directly. Lineage is the whole point of the album and it counts double under the rubric: the canon already holds three Parker leader records, and this is the heir's reading of that book, made while the tradition was live. Session gravity is real and unusual — John Lewis, Jim Hall, Richard Davis and Connie Kay, an MJQ-and-after circle rather than a blowing-session rhythm section, which gives the date its dry, chamber-like clarity instead of a jam. Consensus is documented but modest, not overwhelming: AllMusic 4.5 stars and The Penguin Guide to Jazz 3 stars, both cited in the album article's ratings table (S1), with AllMusic filing it under Bop rather than post-bop (S2). It still plays — a cold listener hears instantly why Parker's tunes were a language, and Stitt's alto is fleet and unsentimental. Case against, stated honestly: a 36-minute tribute date is not a defining statement on the level of the canon's bebop core, and Stitt's own standing rests more on a long, uneven catalogue than on this one record.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Stitt Plays Bird — track listing with composers and durations, personnel (Stitt alto saxophone; John Lewis piano; Jim Hall guitar; Richard Davis bass; Connie Kay drums), recording date January 29, 1963 at Atlantic Studios New York, producer Nesuhi Ertegun, release July 1964, ratings table (AllMusic 4.5, Penguin Guide 3)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Stitt_Plays_Bird"
+    },
+    "S2": {
+      "title": "AllMusic: Stitt Plays Bird — styles (Bop), full credits list including Tom Dowd as Engineer, John Lewis as Piano and Producer, Ira Gitler liner notes, mastering and cover-design credits",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/stitt-plays-bird-mw0000195617"
+    },
+    "S3": {
+      "title": "MusicBrainz release group 5c4c7a11-1b3b-3fa9-9cb2-eb647071c1ef (Stitt Plays Bird, first release 1964) + Cover Art Archive front image",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/5c4c7a11-1b3b-3fa9-9cb2-eb647071c1ef"
+    },
+    "S4": {
+      "title": "iTunes Search API / Apple Music: Stitt Plays Bird (Remastered Version), collectionId 1488827497, 11 tracks, Atlantic",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/stitt-plays-bird-remastered-version/1488827497"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-01-29"
+    ],
+    "multi_session": false,
+    "studio": "Atlantic Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1963-01-29",
+        "site_raw": "Atlantic Studios, New York City",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Nesuhi Ertegun",
+    "engineer": "Tom Dowd",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Sonny Stitt",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [
+          "Edward 'Sonny' Stitt"
+        ],
+        "notes": "On alto for this date, the instrument he used for these Parker readings; AllMusic credits 'Sax (Alto)' (S2)."
+      },
+      {
+        "name": "John Lewis",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": "AllMusic also lists Lewis as a Producer credit (S2); Wikipedia names Nesuhi Ertegun as producer (S1) — see block notes."
+      },
+      {
+        "name": "Jim Hall",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richard Davis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Connie Kay",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1963-01-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "source": "S1",
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Ornithology",
+        "track_number": 1,
+        "side": null,
+        "duration": "3:41",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Benny Harris",
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Scrapple from the Apple",
+        "track_number": 2,
+        "side": null,
+        "duration": "3:49",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "My Little Suede Shoes",
+        "track_number": 3,
+        "side": null,
+        "duration": "3:06",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Parker's Mood",
+        "track_number": 4,
+        "side": null,
+        "duration": "4:21",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Au Privave",
+        "track_number": 5,
+        "side": null,
+        "duration": "2:40",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ko-Ko",
+        "track_number": 6,
+        "side": null,
+        "duration": "4:54",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Confirmation",
+        "track_number": 7,
+        "side": null,
+        "duration": "4:36",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Hootie Blues",
+        "track_number": 8,
+        "side": null,
+        "duration": "6:24",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Jay McShann"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Constellation",
+        "track_number": 9,
+        "side": null,
+        "duration": "3:19",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Now's the Time",
+        "track_number": 10,
+        "side": null,
+        "duration": "3:18",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Yardbird Suite",
+        "track_number": 11,
+        "side": null,
+        "duration": "4:49",
+        "session_date": "1963-01-29",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Sonny Stitt",
+          "John Lewis",
+          "Jim Hall",
+          "Richard Davis",
+          "Connie Kay"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "5c4c7a11-1b3b-3fa9-9cb2-eb647071c1ef",
+    "apple_album_id": 1488827497,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/1442c141-af6f-41d9-9d50-d4e6984d69c4/34215206588.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front image attached to release 1442c141-af6f-41d9-9d50-d4e6984d69c4 via the release group (S3)."
+      }
+    ],
+    "notes": "Single quintet session, recorded January 29, 1963 at Atlantic Studios, New York; issued as Atlantic SD 1418 in July 1964 (Wikipedia cites Billboard, 11 July 1964), so the album's year is the 1963 recording year, not the 1964 release. PRODUCTION CONFLICT preserved: Wikipedia names Nesuhi Ertegun as producer (S1), while AllMusic's credits list Ahmet Ertegun, Arif Mardin, Bob Porter and John Lewis variously as 'Producer' (S2) — these look like reissue and CD-era credit aggregation rather than four producers on one 1963 date, so the block records Nesuhi Ertegun and flags the disagreement rather than picking silently. Engineer Tom Dowd is stated by AllMusic only (S2) and is recorded as obs on that single source. Track order follows the album article (S1); the two CD bonus tracks ('Now's the Time', 'Yardbird Suite') come from the same session per the same listing and are marked bonus, with track-level epistemic inf because only the reissue sequence states them. AllMusic styles the record simply as 'Bop' (S2); style_primary is bebop, which has been an admissible primary style since the 2026-09-24 rubric change. No per-track assignment document exists, so track_assignments_complete is false; the quintet plays on every track per both sources."
+  },
+  "ballot": {
+    "album": "Sonny Stitt — Stitt Plays Bird (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "Stitt makes Parker's repertoire a living interpretive language rather than merely a historical exhibit, giving listeners a direct connection to the Parker records already in the canon. John Lewis, Jim Hall, Richard Davis, and Connie Kay provide exceptional session gravity and a restrained setting that distinguishes this date from a routine bebop blowing session (S1, S2). The reported AllMusic 4.5-star rating and Penguin Guide 3-star rating supply meaningful, if limited, critical support, while the focused program offers an accessible introduction to Stitt's alto artistry (S1).",
+    "case_against": "The dossier establishes a strong Parker-to-Stitt connection, but not this album's downstream influence or its standing as Stitt's definitive leader statement. Critical consensus rests on two ratings, with Penguin cited indirectly through Wikipedia; MusicBrainz and Apple corroborate metadata rather than canonical importance (S1–S4). With Parker's own recordings already represented, this tribute must justify itself through distinctive interpretation rather than inherited repertoire, and other Stitt sessions offer credible competing introductions to his artistry.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John audition this as a considered Stitt candidate, weighing its distinctive ensemble and interpretive value against other representative Stitt sessions.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
