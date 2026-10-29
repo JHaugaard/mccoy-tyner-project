@@ -69,7 +69,7 @@ follow-ups list was refreshed.
 
 ## 3. Website department
 
-- **Repo:** `~/dev/active/jazz-canon` (Svelte+Vite, Cloudflare Pages,
+- **Repo:** `~/dev/stable/jazz-canon` (Svelte+Vite, Cloudflare Pages,
   manual deploy). A static export of the database — **the gallery, not
   the workshop**. It holds no truth of its own (sole exception:
   the hand-kept `recently-added.json`, a known wart).

@@ -5,7 +5,7 @@
 set -euo pipefail
 
 PLATFORM="$(cd "$(dirname "$0")/.." && pwd)"
-SITE="$HOME/dev/active/jazz-canon"
+SITE="$HOME/dev/stable/jazz-canon"
 GO=0; case "${1:-}" in --go|--no-preview) GO=1 ;; esac
 SHIP_DATE="$(TZ=America/New_York date +%F)"
 BATCH_FILE="$(mktemp)"

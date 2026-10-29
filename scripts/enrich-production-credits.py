@@ -18,7 +18,7 @@ Assertions (any failure aborts BEFORE writing):
   5. site id count unchanged; no id added or removed
 
 Usage: enrich-production-credits.py --export exports/jazz-canon/details.json \
-        --site /home/john/dev/active/jazz-canon/app [--dry-run]
+        --site /home/john/dev/stable/jazz-canon/app [--dry-run]
 """
 import argparse, copy, json, sys
 from pathlib import Path

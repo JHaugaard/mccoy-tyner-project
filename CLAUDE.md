@@ -13,7 +13,7 @@ Override: John's `include` verdict and every status transition are human-only.
 <stack>
 - runtime: python 3.11 (`.venv/`), bash, psql
 - database: Postgres 16 on vps8-core:5433, schema `_jazzcanon` (pgvector, pg_cron)
-- site: separate repo `~/dev/active/jazz-canon` (Svelte + Vite → Cloudflare Pages)
+- site: separate repo `~/dev/stable/jazz-canon` (Svelte + Vite → Cloudflare Pages)
 - deploy: `scripts/ship.sh` — export → build → preview pause → wrangler
 </stack>
 

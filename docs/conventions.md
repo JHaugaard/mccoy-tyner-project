@@ -34,7 +34,7 @@ mccoy-tyner/            # the workshop
 └── .env.example    # template
 ```
 
-The site is a **separate repo**, `~/dev/active/jazz-canon` (Svelte + Vite → Cloudflare Pages).
+The site is a **separate repo**, `~/dev/stable/jazz-canon` (Svelte + Vite → Cloudflare Pages).
 `scripts/ship.sh` writes into it for you — you should rarely need to be in it by hand.
 
 ---
