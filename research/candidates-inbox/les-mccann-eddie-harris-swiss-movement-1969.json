@@ -1,0 +1,318 @@
+{
+  "id": "les-mccann-eddie-harris-swiss-movement-1969",
+  "artist": "Les McCann & Eddie Harris",
+  "album": "Swiss Movement",
+  "year": 1969,
+  "label": "Atlantic",
+  "style_primary": "soul-jazz",
+  "style_notes": "AllMusic files it under Post-Bop and Soul Jazz (S2); Wikipedia and the liner notes describe a soul-jazz live set. Soul Jazz is the primary coding.",
+  "rationale": "The record that made Montreux a recorded-live landmark and the best-selling soul-jazz album of its moment. AllMusic calls it 'one of the most popular soul jazz albums of all time, and one of the best' (S2); Billboard wrote in 2006 that 'what put Montreux on the recorded-live-in-concert map was the legendary Swiss Movement album' (S1). It reached No. 1 on Billboard's jazz chart, No. 2 R&B and No. 29 on the LP chart, and was Grammy-nominated for best jazz performance, small group (S1). Session gravity is the point: an unrehearsed collision of the Les McCann Trio (McCann, Leroy Vinnegar, Donald Dean) with Eddie Harris and the expatriate trumpeter Benny Bailey, none of whom had played the music together before (S2, S3). 'Compared to What' became McCann's signature and a soul-jazz standard. Case against, preserved: DownBeat's Harvey Pekar panned it on release as 'cliche-ridden' (S1) — the record's reputation is popular and durable rather than unanimously critical.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article (recording date, Montreux venue, track list, personnel, chart positions, DownBeat pan, Billboard quote)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Swiss_Movement"
+    },
+    "S2": {
+      "title": "AllMusic album page and Richie Unterberger review (5-star rating, Post-Bop/Soul Jazz styles, recording date June 22 1969, Montreux location, personnel context)",
+      "type": "database",
+      "url": "https://www.allmusic.com/album/swiss-movement-mw0000054231"
+    },
+    "S3": {
+      "title": "Original 1969 Atlantic LP liner notes, SD 1537 (producer credit 'Nesuhi Ertegun & Joel Dorn', personnel list, track order and durations, Claude Nobs acknowledgement)",
+      "type": "liner-notes",
+      "url": "http://albumlinernotes.com/Swiss_Movement.html"
+    },
+    "S4": {
+      "title": "Discogs release 11601911 (Speakers Corner reissue credits: producer Joel Dorn and Nesuhi Ertegun, personnel, 'recorded live at the Montreux Jazz Festival in June 1969')",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/11601911-Les-McCann-Eddie-Harris-Swiss-Movement"
+    },
+    "S5": {
+      "title": "iTunes Search API result (collectionId 50234801, Montreux 30th Anniversary Edition, Atlantic, 1969)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Swiss+Movement+Les+McCann&entity=album"
+    },
+    "S6": {
+      "title": "MusicBrainz release group and Cover Art Archive front cover",
+      "type": "identifier",
+      "url": "https://coverartarchive.org/release-group/44b33eaf-c6d8-38bb-9dea-d11044c484bc"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1969-06-21"
+    ],
+    "multi_session": false,
+    "studio": "Montreux Jazz Festival, Montreux, Switzerland",
+    "recording_sites": [
+      {
+        "session_date": "1969-06-21",
+        "site_raw": "Montreux Jazz Festival, Montreux, Switzerland",
+        "site_slug": "montreux-jazz-festival-casino-de-montreux",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Nesuhi Ertegun, Joel Dorn",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Les McCann",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Liner notes: 'piano & vocal on Compared To What'. Doubles on vocals on track 1."
+      },
+      {
+        "name": "Eddie Harris",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'Cold Duck Time'. Had never played or rehearsed with the McCann trio before this concert (S2)."
+      },
+      {
+        "name": "Benny Bailey",
+        "instrument": "trumpet",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Presence is stated by the liner notes and every credit list; no source consulted assigns him to specific tracks, so track coverage is 'unknown', not 'all-tracks'. Liner notes: he was living in Europe, was at Montreux, and was asked to join the impromptu concert."
+      },
+      {
+        "name": "Leroy Vinnegar",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Composer of the reissue bonus track 'Kaftan'."
+      },
+      {
+        "name": "Donald Dean",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Compared to What",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:18",
+        "session_date": "1969-06-21",
+        "composers": [
+          "Gene McDaniels"
+        ],
+        "personnel": [
+          "Les McCann",
+          "Eddie Harris",
+          "Benny Bailey",
+          "Leroy Vinnegar",
+          "Donald Dean"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S3",
+          "S1"
+        ]
+      },
+      {
+        "title": "Cold Duck Time",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:31",
+        "session_date": "1969-06-21",
+        "composers": [
+          "Eddie Harris"
+        ],
+        "personnel": [
+          "Les McCann",
+          "Eddie Harris",
+          "Benny Bailey",
+          "Leroy Vinnegar",
+          "Donald Dean"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S3",
+          "S1"
+        ]
+      },
+      {
+        "title": "Kathleen's Theme",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:45",
+        "session_date": "1969-06-21",
+        "composers": [
+          "Les McCann"
+        ],
+        "personnel": [
+          "Les McCann",
+          "Eddie Harris",
+          "Benny Bailey",
+          "Leroy Vinnegar",
+          "Donald Dean"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S3",
+          "S1"
+        ]
+      },
+      {
+        "title": "You Got It in Your Soulness",
+        "track_number": 4,
+        "side": "B",
+        "duration": "7:08",
+        "session_date": "1969-06-21",
+        "composers": [
+          "Les McCann"
+        ],
+        "personnel": [
+          "Les McCann",
+          "Eddie Harris",
+          "Benny Bailey",
+          "Leroy Vinnegar",
+          "Donald Dean"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S3",
+          "S1"
+        ]
+      },
+      {
+        "title": "The Generation Gap",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:45",
+        "session_date": "1969-06-21",
+        "composers": [
+          "Les McCann"
+        ],
+        "personnel": [
+          "Les McCann",
+          "Eddie Harris",
+          "Benny Bailey",
+          "Leroy Vinnegar",
+          "Donald Dean"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S3",
+          "S1"
+        ]
+      },
+      {
+        "title": "Kaftan",
+        "track_number": 6,
+        "side": null,
+        "duration": null,
+        "session_date": "1969-06-21",
+        "composers": [
+          "Leroy Vinnegar"
+        ],
+        "personnel": [
+          "Les McCann",
+          "Eddie Harris",
+          "Benny Bailey",
+          "Leroy Vinnegar",
+          "Donald Dean"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "44b33eaf-c6d8-38bb-9dea-d11044c484bc",
+    "apple_album_id": "50234801",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/44b33eaf-c6d8-38bb-9dea-d11044c484bc/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single live session, Montreux Jazz Festival, June 1969. DATE CONFLICT: Wikipedia (S1), the liner notes (S3) and Discogs (S4) all say June 1969, Wikipedia specifying 21 June 1969, while AllMusic (S2) prints a Recording Date of June 22, 1969. The day-level date is recorded as 1969-06-21 from S1; S2's June 22 is preserved here rather than dropped. PRODUCER CONFLICT: the original liner notes (S3), Discogs (S4) and the reissue credits all name Nesuhi Ertegun and Joel Dorn; the Wikipedia infobox (S1) instead lists Nesuhi Ertegun and Bob Emmer. Liner notes govern, so Ertegun and Dorn are recorded as producers and Bob Emmer is recorded here as an unresolved secondary credit (epistemic would be 'unk' were he staged) — not silently discarded. ENGINEER: no source consulted credits an engineer. The album was cut from the festival's own tapes (S1 notes the tapes were made by the festival organisers and licensed to Atlantic, which thanks Claude Nobs and the Montreux staff in the liner notes), so engineer is null rather than inferred. TRACK COVERAGE: the liner notes list five personnel without per-track attribution, so no musician's coverage is treated as confirmed; every track carries epistemic_track 'unk' and track_assignments_complete is false. 'Kaftan' is a 1996 Rhino/reissue bonus track (S1) and is flagged as such. Durations follow the original liner notes (S3); note that S1 gives 'Compared to What' as 8:41 against the liner notes' 8:18. Personnel names are recorded at McCann's, Harris's, Bailey's, Vinnegar's and Dean's canonical forms; no spelling variants were found across S1, S3 and S4."
+  },
+  "ballot": {
+    "album": "Les McCann & Eddie Harris — Swiss Movement (1969)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Soul-jazz is admissible and invokes none of the newly opened genre gates. The references differ on whether its populist soul-jazz emphasis sits at a soft edge of the canon's post-bebop center or squarely within the hard-bop lineage; neither identifies a formal scope barrier."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "A defining soul-jazz live document, Swiss Movement combines McCann's signature performance of 'Compared to What' with the spontaneous encounter between his trio, Eddie Harris, and Benny Bailey (S2–S3). AllMusic calls it 'one of the most popular soul jazz albums of all time, and one of the best' (S2), while Billboard credits it with putting Montreux on the recorded-live-in-concert map (quoted in S1). Its gospel-and-blues immediacy, compelling ensemble energy, and durable crossover reach make an unusually strong discovery case: an accessible record that communicates jazz's vitality without requiring prior study.",
+    "case_against": "Popularity and festival significance do not establish the rubric's strongest signal: agreement across independent canon-listing traditions, which the dossier does not document beyond AllMusic's endorsement and retrospective recognition reported through S1. Harvey Pekar's contemporary DownBeat dismissal as 'cliche-ridden' supplies a substantive counterargument: the groove-centered improvisation can sound formulaic rather than like a defining expansion of post-bebop language (S1). The central question is whether the whole album's musical achievement is load-bearing, rather than its reputation resting disproportionately on an exceptional opening anthem and a celebrated live occasion.",
+    "disagreement": "Both references recommend contested/strong. They differ over the strength of consensus evidence: Reference 1 finds independent canonical recognition insufficiently documented, whereas Reference 2 characterizes retrospective consensus as exceptionally high largely on AllMusic's evidence. They also differ on scope framing: Reference 1 names a soft boundary around the canon's stylistic center, while Reference 2 regards soul-jazz as unambiguously central.",
+    "recommendation": "The council proposes that John give Swiss Movement strong consideration as a defining soul-jazz discovery record, while weighing its album-wide musical depth separately from its crossover fame.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

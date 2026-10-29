@@ -1,0 +1,483 @@
+{
+  "id": "ella-fitzgerald-louis-armstrong-ella-and-louis-1956",
+  "artist": "Ella Fitzgerald & Louis Armstrong",
+  "album": "Ella and Louis",
+  "year": 1956,
+  "label": "Verve",
+  "style_primary": "cool-jazz",
+  "style_notes": "AllMusic tags it Bop, Standards, Swing, Traditional Pop, Vocal Jazz, American Popular Song and Early Jazz Vocals (S2) — no single modern-jazz style code fits a songbook record. cool-jazz is the house coding for the canon's 1950s vocal/standards albums (Billie Holiday, Lady in Satin; June Christy, Something Cool; Mel Torme and the Marty Paich Dek-Tette), and it is applied for consistency rather than as a genre claim.",
+  "rationale": "The duet record of the decade and the entry point to both singers: Norman Granz's first Ella-and-Louis Verve album, cut in one August 1956 session with the Oscar Peterson Quartet. It is a consensus record across independent listing traditions — Penguin Guide to Jazz 3.5 stars ('hard to resist'), AllMusic 4.5, The Encyclopedia of Popular Music 5 stars, Rolling Stone Jazz Record Guide 4 stars (all S1), and No. 636 in Colin Larkin's All Time Top 1000 Albums (S1). AllMusic's Scott Yanow calls them 'a charming team' (S1); Jasen and Jones call the set 'a pinnacle of popular singing' (S1). Lineage: it established the template for the two later Verve duet albums (Ella and Louis Again, Porgy and Bess) and the songbook-as-album ambition Granz built the label on (S1). Session gravity: Armstrong and Fitzgerald fronting Peterson, Herb Ellis, Ray Brown and Buddy Rich is a one-room meeting of the swing and modern generations — Ray Brown and Buddy Rich both already appear in this canon. Case against, preserved: the Penguin Guide notes the two singers' approaches 'may not have been entirely compatible' (S1), and the record sits at the standards/vocal edge of a canon centred on post-bebop instrumental music, which is why it is argued rather than assumed.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article (recorded August 16 1956 at 'the new Capitol Studios' in Hollywood; track list; personnel; producer Norman Granz; engineer Val Valentin; Penguin Guide, AllMusic, Encyclopedia of Popular Music and Rolling Stone ratings; Larkin No. 636; Yanow and Jasen/Jones quotes)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Ella_and_Louis"
+    },
+    "S2": {
+      "title": "AllMusic album page and Credits tab (styles incl. Standards/Vocal Jazz, Recording Location Capitol Studios Hollywood CA, engineer Val Valentin, original recording producer Norman Granz, personnel credit list)",
+      "type": "database",
+      "url": "https://www.allmusic.com/album/ella-and-louis-mw0000191819"
+    },
+    "S3": {
+      "title": "Discogs master 173462 and release 3009499 (personnel credits, producer Norman Granz, A1-B5 track order, 'Recorded August 16, 1956 in Los Angeles')",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/173462"
+    },
+    "S4": {
+      "title": "iTunes Search API result (collectionId 1469584174, Verve, 1956)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Ella+and+Louis+Fitzgerald+Armstrong&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group and Cover Art Archive front cover",
+      "type": "identifier",
+      "url": "https://coverartarchive.org/release-group/6a8ec885-544e-3b31-859a-a73289a01421"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-08-16"
+    ],
+    "multi_session": false,
+    "studio": "Capitol Studios, Hollywood",
+    "recording_sites": [
+      {
+        "session_date": "1956-08-16",
+        "site_raw": "Capitol Studios, Hollywood",
+        "site_slug": "capitol-records-studio-capitol-tower",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": "Val Valentin",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ella Fitzgerald",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Louis Armstrong",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on trumpet; trumpet is recorded as a second entry for the same person."
+      },
+      {
+        "name": "Louis Armstrong",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubling entry: Armstrong sings and plays trumpet. Sources do not break the trumpet out per track."
+      },
+      {
+        "name": "Oscar Peterson",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Credited as the Oscar Peterson Quartet on the original sleeve (S1)."
+      },
+      {
+        "name": "Herb Ellis",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia links the instrument as electric guitar; Discogs credits 'Guitar'. Recorded as 'guitar'."
+      },
+      {
+        "name": "Ray Brown",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Buddy Rich",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Can't We Be Friends?",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:47",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Paul James",
+          "Kay Swift"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Isn't This a Lovely Day?",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:16",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Irving Berlin"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Moonlight in Vermont",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:42",
+        "session_date": "1956-08-16",
+        "composers": [
+          "John Blackburn",
+          "Karl Suessdorf"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "They Can't Take That Away from Me",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:39",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Ira Gershwin",
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Under a Blanket of Blue",
+        "track_number": 5,
+        "side": "A",
+        "duration": "4:18",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Jerry Livingston",
+          "Al J. Neiburg",
+          "Marty Symes"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Tenderly",
+        "track_number": 6,
+        "side": "A",
+        "duration": "5:10",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Walter Gross",
+          "Jack Lawrence"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Foggy Day",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:32",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Ira Gershwin",
+          "George Gershwin"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Stars Fell on Alabama",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:34",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Mitchell Parish",
+          "Frank Perkins"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Cheek to Cheek",
+        "track_number": 9,
+        "side": "B",
+        "duration": "5:53",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Irving Berlin"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Nearness of You",
+        "track_number": 10,
+        "side": "B",
+        "duration": "5:42",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Hoagy Carmichael",
+          "Ned Washington"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "April in Paris",
+        "track_number": 11,
+        "side": "B",
+        "duration": "6:33",
+        "session_date": "1956-08-16",
+        "composers": [
+          "Vernon Duke",
+          "Yip Harburg"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Louis Armstrong",
+          "Oscar Peterson",
+          "Herb Ellis",
+          "Ray Brown",
+          "Buddy Rich"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "6a8ec885-544e-3b31-859a-a73289a01421",
+    "apple_album_id": "1469584174",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/6a8ec885-544e-3b31-859a-a73289a01421/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": ""
+      }
+    ],
+    "notes": "Single session, 16 August 1956. PLACE: Wikipedia (S1) says recording began 16 August 1956 at 'the new Capitol Studios in Hollywood'; AllMusic (S2) gives Recording Location 'Capitol Studios, Hollywood, CA'; Discogs (S3) says only 'Los Angeles'. The Capitol Tower opened in April 1956, so an August 1956 date puts this session in the Tower rather than the older Melrose Avenue room — resolved by date per the canon's Capitol disambiguation rule, not by the bare string. PRODUCTION: producer Norman Granz is credited by all three of S1, S2 and S3; engineer Val Valentin is named by S1 (as session engineer) and by the AllMusic Credits tab (S2) — 'obs', no inference. SESSION COUNT CONFLICT: AllMusic (S2) prints a Recording Date range of 'August 16, 1956 - September, 1957', which describes the expanded reissue assembly rather than this album's session; S1 and S3 both place the album at one August 1956 date, and the recording_dates here follow them. The AllMusic credits list carries Billy Kyle (piano) and Trummy Young (trombone); neither is in the album's personnel on any other source, both belong to Armstrong's later All-Stars line-up, and they are excluded from the core ensemble rather than staged as 'unk' members — flagged here so the exclusion is auditable. TRACK COVERAGE: no source consulted attributes personnel per track, so all six musicians carry scope 'all-tracks' only because every credit list presents them as a fixed unit, and every track is marked epistemic_track 'unk' with track_assignments_complete false. DURATIONS from S1; Discogs (S3) differs by a few seconds on several titles (e.g. 'Can't We Be Friends' 3:44 vs 3:47) — printing variance, not a factual conflict. Armstrong appears twice in personnel (vocals, trumpet) as a doubling; instrument strings follow the contract taxonomy exactly."
+  },
+  "ballot": {
+    "album": "Ella Fitzgerald & Louis Armstrong — Ella and Louis (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "No chronological or excluded-style gate applies; the live question is how a mainstream swing and vocal-songbook album serves a post-bebop-centered canon. The dossier's cool-jazz code is administrative, not evidence of stylistic continuity."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest evidence is broad critical recognition: S1 reports favorable assessments from the Penguin Guide, AllMusic, Encyclopedia of Popular Music, and Rolling Stone Jazz Record Guide, alongside placement in Larkin's All Time Top 1000 Albums. Fitzgerald and Armstrong's first Verve duet album is a defining collaboration whose contrasting phrasing makes familiar standards an unusually inviting demonstration of jazz interpretation. Peterson, Ellis, Brown, and Rich supply substantial session gravity (S1, S3), connecting Armstrong's foundational language to postwar small-group swing; the subsequent duet albums establish a concrete continuation of this partnership.",
+    "case_against": "Its distinction lies chiefly in vocal interpretation and mainstream swing, not in developing the bebop, modal, or post-bop language at this canon's center, and elite personnel alone cannot establish that connection. The Penguin Guide's reservation that the singers' approaches 'may not have been entirely compatible' supplies a substantive artistic caveat (S1), while the dossier establishes little downstream influence beyond their subsequent collaborations. The reception evidence also needs qualification: most quoted ratings reach the dossier through Wikipedia rather than direct inspection of the underlying publications.",
+    "disagreement": "Both references recommend consensus_core with strong priority, but they differ in how they frame stylistic fit: Reference 1 treats vocal standards as a canon-center concern rather than a formal scope issue, while Reference 2 identifies a standing vocal-songbook boundary. The contested tier preserves that unresolved scope distinction without implying disagreement about the album's quality.",
+    "recommendation": "The council proposes that John give the album strong consideration after deciding whether its vocal-songbook achievement supplies a sufficient connection to this canon's post-bebop center.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

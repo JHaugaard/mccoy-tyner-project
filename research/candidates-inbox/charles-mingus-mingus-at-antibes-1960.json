@@ -1,0 +1,385 @@
+{
+  "id": "charles-mingus-mingus-at-antibes-1960",
+  "artist": "Charles Mingus",
+  "album": "Mingus at Antibes",
+  "year": 1960,
+  "label": "Atlantic",
+  "style_primary": "post-bop",
+  "style_tags": [
+    "avant-garde-jazz"
+  ],
+  "rationale": "A live document of what the sources call Mingus's finest working band at its peak: the pianoless quartet of Mingus, Ted Curson, Eric Dolphy and Dannie Richmond, augmented for the night by Booker Ervin and, on one number, Bud Powell — recorded at the Antibes Jazz Festival on 13 July 1960 and issued by Atlantic in 1976 (S1, S2, S3). Reception is unusually unanimous: AllMusic 5 stars, DownBeat 5 stars, Rolling Stone Jazz Record Guide 5 stars, Penguin Guide 4 stars (S1). The lineage case is the record's own: the Atlantic liner notes place its 'freedom-with-order' directly upstream of Anthony Braxton and the Art Ensemble of Chicago, and it was cut three months before the Candid Charles Mingus Presents Charles Mingus with the same core personnel (S1, S3). Session gravity is the point of the album — Dolphy, Ervin and Powell inside one Mingus performance — and it still plays: the band's heat is audible, not archival (S2, S3).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Mingus at Antibes — recorded 13 July 1960 at the Jazz à Juan festival, Juan-les-Pins; released by Atlantic (BYG issue in Japan 1974 as Charles Mingus Live With Eric Dolphy); producer Nesuhi Ertegun; track list with durations; personnel section (Mingus bass and piano on tracks 1 and 6, Curson trumpet, Dolphy alto sax and bass clarinet on track 3, Ervin tenor except track 3, Richmond drums, Powell piano on track 4); ratings table AllMusic 5, Penguin 4, Rolling Stone 5, DownBeat 5; Art Lange DownBeat review",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Mingus_at_Antibes"
+    },
+    "S2": {
+      "title": "AllMusic: Charles Mingus — Mingus at Antibes (styles Post-Bop/Avant-Garde Jazz; recording date July 13, 1960; recording location Antibes Jazz Festival, Juan-Les-Pins, France; track list with durations; credits tab listing Nesuhi Ertegun executive producer/producer, Elliott Federman engineer, Ted Curson trumpet, Eric Dolphy bass clarinet and alto sax, Booker Ervin tenor, Bud Powell piano, Dannie Richmond drums, Charles Mingus bass/piano; Scott Yanow review naming the pianoless quartet plus Ervin as one of Mingus's finest bands)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/mingus-at-antibes-mw0000196761"
+    },
+    "S3": {
+      "title": "Atlantic liner notes, Mingus in Antibes (transcribed at AlbumLinerNotes.com) — track list and composers; personnel with 'Eric Dolphy alto sax (and bass clarinet on What Love?)', Bud Powell joining on I'll Remember April, Mingus also on piano on Wednesday Night Prayer Meeting and Better Git Hit in Your Soul; 'Recorded live by Barclay Studios for Atlantic Records at the Antibes Jazz Festival, Juan-les-Pins, France, July 13, 1960'; Executive Producer Nesuhi Ertegun; Robert Palmer's essay on the band's influence on Anthony Braxton and the Art Ensemble of Chicago",
+      "type": "liner-notes",
+      "url": "http://albumlinernotes.com/Mingus_In_Antibes.html"
+    },
+    "S4": {
+      "title": "Jazz discography (adale.org): Mingus at Antibes — Ted Curson tp, Eric Dolphy as/bcl, Booker Ervin ts, Charles Mingus b/p, Dannie Richmond d, Bud Powell p on I'll Remember April; July 13, 1960 at the Antibes Jazz Festival, Juan-les-Pins, France; duration 71:44; originally issued 1976 on Atlantic SD 2-3001",
+      "type": "discography",
+      "url": "http://adale.org/Discographies/MingusAntibes.html"
+    },
+    "S5": {
+      "title": "Apple Music / iTunes Search API: 'Mingus At Antibes (Live)' by Charles Mingus, collectionId 50234166, 6 tracks, release date 1960-07-13",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/mingus-at-antibes-live/50234166"
+    },
+    "S6": {
+      "title": "MusicBrainz release group: Mingus at Antibes, MBID e7459994-52cc-33b7-b9fc-c605a185bca9",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/e7459994-52cc-33b7-b9fc-c605a185bca9"
+    },
+    "S7": {
+      "title": "Festival documentation for the recording site: Jazz à Juan is held in the Pinède Gould, boulevard Baudoin, 06160 Juan-les-Pins, Antibes (festivalenfrance.com listing; festival's own ticketing page names the Boulevard Baudoin entrance)",
+      "type": "other",
+      "url": "https://www.festivalenfrance.com/en/festival/jazz-a-juan"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-07-13"
+    ],
+    "multi_session": false,
+    "studio": "Jazz à Juan festival, Juan-les-Pins, France",
+    "recording_sites": [
+      {
+        "session_date": "1960-07-13",
+        "site_raw": "Antibes Jazz Festival, Juan-les-Pins, France (recorded live by Barclay Studios)",
+        "site_slug": null,
+        "site_new": {
+          "name": "Pinède Gould (Jazz à Juan)",
+          "city": "Juan-les-Pins, France",
+          "kind": "festival",
+          "address": "Boulevard Baudoin",
+          "lat": 43.56583,
+          "lon": 7.115,
+          "location_epistemic": "obs",
+          "location_source": "Pinède Gould, boulevard Baudoin, 06160 Juan-les-Pins — https://www.festivalenfrance.com/en/festival/jazz-a-juan (venue confirmed by the festival's own site, https://jazzajuan.com/en/useful-information/ticketing-info/) | coords: https://en.wikipedia.org/wiki/Jazz_à_Juan"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Nesuhi Ertegun",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Charlie Mingus"
+        ],
+        "notes": "Leader and composer of five of the six titles. Also plays piano on 'Wednesday Night Prayer Meeting' and 'Better Git Hit in Your Soul' (S1, S2, S3) — doubling recorded here rather than as a separate instrument entry."
+      },
+      {
+        "name": "Ted Curson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles bass clarinet on 'What Love?' only (S1, S2, S3). AllMusic's Yanow review also credits him with flute; the liner notes and credits tab name only alto saxophone and bass clarinet, and no source assigns a flute to a track — recorded here as the two documented doubles, the flute claim noted as unresolved."
+      },
+      {
+        "name": "Booker Ervin",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Wednesday Night Prayer Meeting",
+          "Prayer for Passive Resistance",
+          "I'll Remember April",
+          "Folk Forms I",
+          "Better Git Hit in Your Soul"
+        ],
+        "session_dates": [
+          "1960-07-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Guest for the concert; absent from 'What Love?' (S1, S3)."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bud Powell",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1960-07-13"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Sits in for one number only (S1, S2, S3)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Wednesday Night Prayer Meeting",
+        "track_number": 1,
+        "side": null,
+        "duration": "11:54",
+        "session_date": "1960-07-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Booker Ervin",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Prayer for Passive Resistance",
+        "track_number": 2,
+        "side": null,
+        "duration": "8:06",
+        "session_date": "1960-07-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Booker Ervin",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "What Love?",
+        "track_number": 3,
+        "side": null,
+        "duration": "13:34",
+        "session_date": "1960-07-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'll Remember April",
+        "track_number": 4,
+        "side": null,
+        "duration": "13:39",
+        "session_date": "1960-07-13",
+        "composers": [
+          "Gene DePaul",
+          "Pat Johnston",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Booker Ervin",
+          "Dannie Richmond",
+          "Bud Powell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Folk Forms I",
+        "track_number": 5,
+        "side": null,
+        "duration": "11:08",
+        "session_date": "1960-07-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Booker Ervin",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Better Git Hit in Your Soul",
+        "track_number": 6,
+        "side": null,
+        "duration": "11:00",
+        "session_date": "1960-07-13",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Booker Ervin",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "e7459994-52cc-33b7-b9fc-c605a185bca9",
+    "apple_album_id": "50234166",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/c166b057-aa63-4d0f-b666-b0f6e993ba25/14253741416.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image returned by Cover Art Archive for release group e7459994-52cc-33b7-b9fc-c605a185bca9; the API response does not identify the pressing, so original-cover status is left null."
+      }
+    ],
+    "notes": "Single live session: 13 July 1960, Antibes Jazz Festival, Juan-les-Pins, France (S1, S2, S3, S4). Album year is the recording year; the Atlantic double LP appeared in 1976 (US 1979 per Wikipedia's narrative; AllMusic dates its entry 1979), after a 1974 Japanese BYG issue as Charles Mingus Live With Eric Dolphy (S1, S2, S3). Producer: Nesuhi Ertegun, credited as executive producer on the Atlantic liner notes (S3) and as executive producer/producer at AllMusic (S2). Engineer is recorded as null: the liner notes name only 'recorded live by Barclay Studios', with no individual engineer; AllMusic's credits tab lists Elliott Federman as engineer, but that credit is attached to the Atlantic reissue package rather than the 1960 concert recording, so it is not asserted here as the session engineer (S2, S3). Track titles follow Wikipedia and the liner notes; AllMusic prints 'Better Get Hit in Yo' Soul' and 'Folk Forms, No. 1' for the same performances. Sides are not given in any source consulted (null); the original issue was a two-record set (S1, S4). Duration 71:44 on CD (S1, S4); AllMusic's 1979 entry totals 1:09:21 for its edition (S2). Mingus takes piano on tracks 1 and 6, and Powell joins on track 4; Ervin sits out track 3 (S1, S3). Liner-note essay is Robert Palmer's (S3)."
+  },
+  "ballot": {
+    "album": "Charles Mingus — Mingus at Antibes (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Antibes is a defining live statement of Mingus's freedom-with-order: blues and church-music foundations support collective improvisation without abandoning post-bop structure. The Mingus–Dolphy–Curson–Richmond core, expanded by Booker Ervin and Bud Powell's guest appearance, supplies exceptional session gravity and a distinctive pianoless ensemble sound (S2, S3). AllMusic's direct review and the DownBeat, Rolling Stone, and Penguin ratings compiled in S1 establish broad critical acclaim, while the concert's intensity makes its historical importance immediately audible. Robert Palmer's liner essay connects the band's methods to Braxton and the Art Ensemble of Chicago, supporting a stylistic lineage argument rather than proving this album's direct influence (S3).",
+    "case_against": "The recording remained commercially unavailable until the 1970s, so it cannot straightforwardly receive credit for shaping the 1960s dialogue as a released album (S1, S4). Much of its repertoire has competing definitive studio treatments, especially on Blues & Roots, Mingus Ah Um, and Charles Mingus Presents Charles Mingus; its claim must therefore rest on transformative live interplay rather than compositional novelty. Moreover, most of the cross-guide acclaim is supplied through a secondary ratings compilation, not documented canon-list placements, and the specific downstream influence claim rests on one retrospective liner essay.",
+    "disagreement": "Neither reference dissents from consensus_core/strong or identifies a genuine scope boundary. Their reservations differ: Reference 1 emphasizes the limits of the consensus and influence evidence, while Reference 2 additionally questions the recording's dynamics and Powell's performance; those latter criticisms are not substantiated by the supplied sources.",
+    "recommendation": "The council proposes that John give Antibes strong consideration as a consensus-core live statement, judging its distinctive ensemble achievement rather than treating it as a contemporaneously influential 1960 release.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

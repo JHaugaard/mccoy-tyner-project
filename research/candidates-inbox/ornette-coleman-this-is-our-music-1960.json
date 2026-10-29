@@ -1,0 +1,359 @@
+{
+  "id": "ornette-coleman-this-is-our-music-1960",
+  "artist": "Ornette Coleman",
+  "album": "This Is Our Music",
+  "year": 1960,
+  "label": "Atlantic",
+  "style_primary": "free-jazz",
+  "style_tags": [
+    "avant-garde-jazz"
+  ],
+  "rationale": "The fourth of Ornette Coleman's Atlantic records and the pivot of the run: recorded July-August 1960, released March 1961 as Atlantic SD 1353, it is the first Coleman album with Ed Blackwell in the drum chair and the only standard he recorded for Atlantic ('Embraceable You'), and it sits directly upstream of Free Jazz (S1, S4). Reception across independent listing traditions is real but not unanimous: AllMusic 4.5 stars, Rolling Stone Jazz Record Guide 5 stars, Pitchfork 9.4/10, Penguin Guide 3.5 stars, while DownBeat's original 1961 review gave it 2 stars (S1) — the disagreement is part of the record's history, not noise. The quartet is the canonical free-jazz unit (Coleman, Cherry, Haden, Blackwell), arguing the 'our' of the title as group improvisation, and the record's lineage is audible in everything the canon already holds from the 1960s avant-garde (S1, S2, S4).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: This Is Our Music (Ornette Coleman album) — recording dates 19/26 July and 2 August 1960 at Atlantic Studios, New York City; released March 1961 (Atlantic SD 1353); producer Nesuhi Ertegun; personnel section (Coleman alto, Cherry pocket trumpet, Haden bass, Blackwell drums); track list with per-track session dates and durations; ratings table incl. AllMusic 4.5, DownBeat 2, Penguin 3.5, Pitchfork 9.4, Rolling Stone 5",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/This_Is_Our_Music_(Ornette_Coleman_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Ornette Coleman — This Is Our Music (styles Free Jazz/Mainstream Jazz; track list with durations; full credits tab listing Tom Dowd and Phil Iehle as engineers, Charlie Haden bass, Don Cherry trumpet, Ed Blackwell drums, Ornette Coleman alto sax; Steve Huey review noting Blackwell replacing Higgins and the plastic alto/pocket trumpet textures)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/this-is-our-music-mw0000529299"
+    },
+    "S3": {
+      "title": "Apple Music / iTunes Search API: 'This Is Our Music' by Ornette Coleman Quartet, collectionId 81873103, 7 tracks, release date 1961-02-01",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/this-is-our-music/81873103"
+    },
+    "S4": {
+      "title": "Jazz Discography Project (jazzdisco.org): Ornette Coleman discography — Ornette Coleman Quartet, Don Cherry cornet / Ornette Coleman alto sax / Charlie Haden bass / Ed Blackwell drums, NYC, July 19, 1960; masters 4724 'Kaleidoscope' and 4727 'Blues Connotation' issued on Atlantic LP 1353 'This Is Our Music' (1961)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/ornette-coleman/discography/"
+    },
+    "S5": {
+      "title": "MusicBrainz release group: This Is Our Music (Ornette Coleman), MBID ae051b95-9773-3048-8c7f-c8771e8c5e78",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/ae051b95-9773-3048-8c7f-c8771e8c5e78"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-07-19",
+      "1960-07-26",
+      "1960-08-02"
+    ],
+    "multi_session": true,
+    "studio": "Atlantic Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1960-07-19",
+        "site_raw": "Atlantic Studios, New York City",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1960-07-26",
+        "site_raw": "Atlantic Studios, New York City",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1960-08-02",
+        "site_raw": "Atlantic Studios, New York City",
+        "site_slug": "atlantic-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Nesuhi Ertegun",
+    "engineer": "Tom Dowd",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ornette Coleman",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-19",
+          "1960-07-26",
+          "1960-08-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of six of the seven titles. AllMusic's review notes he played a plastic alto on this date; the instrument taxonomy records only alto saxophone. Liner notes to the album are his own."
+      },
+      {
+        "name": "Don Cherry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-19",
+          "1960-07-26",
+          "1960-08-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Instrument is reported three ways: Wikipedia 'pocket trumpet', AllMusic 'trumpet', Jazz Discography Project 'cornet'. Recorded as trumpet (the taxonomy's nearest term); pocket trumpet is not in the taxonomy. The reviewing sources agree it was not a standard trumpet."
+      },
+      {
+        "name": "Charlie Haden",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-19",
+          "1960-07-26",
+          "1960-08-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ed Blackwell",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-07-19",
+          "1960-07-26",
+          "1960-08-02"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "His first recording with Coleman, replacing Billy Higgins (S1, S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Blues Connotation",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:19",
+        "session_date": "1960-07-19",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Beauty Is a Rare Thing",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:14",
+        "session_date": "1960-08-02",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Kaleidoscope",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:36",
+        "session_date": "1960-07-19",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Embraceable You",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:56",
+        "session_date": "1960-07-26",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Poise",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:39",
+        "session_date": "1960-08-02",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Humpty Dumpty",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:23",
+        "session_date": "1960-07-26",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Folk Tale",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:47",
+        "session_date": "1960-08-02",
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Charlie Haden",
+          "Ed Blackwell"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "ae051b95-9773-3048-8c7f-c8771e8c5e78",
+    "apple_album_id": "81873103",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/a59c8276-9157-4f85-9076-94b192fb68ad/26142405732.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image returned by Cover Art Archive for release group ae051b95-9773-3048-8c7f-c8771e8c5e78; the specific pressing is not identified in the API response."
+      }
+    ],
+    "notes": "Three sessions at Atlantic Studios, New York City: 1960-07-19 (Kaleidoscope, Blues Connotation), 1960-07-26 (Embraceable You, Humpty Dumpty), 1960-08-02 (Beauty Is a Rare Thing, Poise, Folk Tale). Album year is the recording year; the LP was released March 1961 as Atlantic SD 1353 (S1, S3, S4). Engineers: Tom Dowd and Phil Iehle both appear on the AllMusic credits; only Tom Dowd is recorded in the engineer field, with Phil Iehle named here (S2). Producer: Wikipedia's infobox credits Nesuhi Ertegun; AllMusic's credits tab lists him as 'Supervisor' on the reissue (S1, S2). Durations follow AllMusic; Wikipedia prints slightly different timings (e.g. 5:16 vs 5:19 for Blues Connotation, 4:44 vs 4:47 for Folk Tale) — differences of seconds, both preserved here as a note rather than resolved. A4 'Embraceable You' is the only non-Coleman composition in his Atlantic catalogue (S1). Derived from 23 masters across three July/August sessions; outtakes went to The Art of the Improvisers, Twins and To Whom Who Keeps a Record (S1)."
+  },
+  "ballot": {
+    "album": "Ornette Coleman — This Is Our Music (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded in 1960 and released in 1961, both within the window; the boundary is the opened free-jazz gate and whether its blues, song-form, and quartet continuities make it load-bearing for this post-bebop-centered canon."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest argument is pedagogical: 'Blues Connotation' and the Gershwin standard 'Embraceable You' let a listener hear Coleman's freedom emerging from blues and song rather than abandoning them (track documentation: S1, S2). Ed Blackwell's arrival alongside Coleman, Don Cherry, and Charlie Haden gives the album exceptional session gravity and documents a consequential quartet configuration immediately upstream of Free Jazz (S2, S4). Strong retrospective assessments from AllMusic, Rolling Stone, and Pitchfork support its enduring appeal, although most ratings are supplied indirectly through S1 rather than separately documented reviews.",
+    "case_against": "Its distinctive contribution must be established against The Shape of Jazz to Come and Free Jazz: it may be an illuminating intermediate statement without being equally indispensable, a record-level distinction rather than an artist-concentration objection. The dossier establishes personnel and chronology more securely than album-specific downstream influence or independent canon-list consensus; S2 is its only directly supplied editorial review. The original DownBeat two-star assessment and Penguin's less emphatic 3.5 stars complicate unanimity (S1), while John's free-jazz calibration makes its teaching value something to test by listening rather than assume.",
+    "disagreement": "Both references rate the album strong and recognize its unusually persuasive bridge case, but Reference 1 chooses contested because evidentiary and indispensability questions remain alongside the genre boundary; Reference 2 chooses scope_call because it regards the free-jazz bridge decision as decisive and the album as a premier teaching record.",
+    "recommendation": "The council proposes that John give it a focused bridge-test listening, treating it as a strong contested candidate rather than an automatic core selection.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
