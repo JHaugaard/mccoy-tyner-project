@@ -1,0 +1,461 @@
+{
+  "id": "art-blakey-the-jazz-messengers-1956",
+  "artist": "Art Blakey & The Jazz Messengers",
+  "album": "The Jazz Messengers",
+  "year": 1956,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "rationale": "The founding working band of hard bop caught in the studio as it named itself. This is the Jazz Messengers' first studio album (Columbia CL 897, released November 1956) — their fourth record overall, after the two Cafe Bohemia live volumes and the Horace Silver Blue Note date, and the first made as a studio statement under the group's own name (S1). What it documents is the quintet that had been working the Bohemia: Blakey with Horace Silver, Hank Mobley, Donald Byrd and Doug Watkins, five musicians who between them define hard bop's first decade, several of whom this canon already holds under their own names (S1, S2, S3). Defining-statement pull comes from the book as much as the playing: the original seven-track LP carries Horace Silver's 'Nica's Dream' and 'Ecaroh' alongside three Mobley originals (S1, S2). Lineage is direct in both directions — it is the parent record of the band whose later Blue Note run (Moanin', Mosaic, Free for All, Indestructible) this canon already holds, and it is where the Messengers' book, the most durable repertoire in hard bop, starts on Columbia. Ratings: AllMusic 4/5 and Penguin Guide 3.5 stars (S1) — solidly placed rather than a consensus crown, so the case rests on the session and the lineage, not on a polling tally. Fills a real hole: the canon holds Blakey's Blue Note and Riverside leader dates but none of the Columbia-original Messengers studio albums.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "scope_flag": "",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "The Jazz Messengers (album) — Wikipedia album article (infobox: recorded April 6 & May 4, 1956 at Columbia 30th Street Studio, New York City; label Columbia CL 897, released November 1956; producer George Avakian; ratings table: AllMusic 4/5, Penguin Guide 3.5 stars; full personnel list; complete 12-track CD listing with durations and first-issue notes)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/The_Jazz_Messengers_(album)"
+    },
+    "S2": {
+      "title": "The Jazz Messengers — Discogs release 984605 (original US LP, Columbia CL 897, 1956; credits: Art Blakey drums, Donald Byrd trumpet, Hank Mobley tenor saxophone, Horace Silver piano, Doug Watkins bass; track list by side A1-A3 / B1-B4 with composers; label note 'Recorded April 6th, 1956 and May 4th, 1956')",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/984605"
+    },
+    "S3": {
+      "title": "The Jazz Messengers discography — Wikipedia (album row for The Jazz Messengers: released 1956, recorded April 5 and May 4 1956, Columbia CL 897, personnel Donald Byrd, Hank Mobley, Horace Silver, Doug Watkins)",
+      "type": "discography",
+      "url": "https://en.wikipedia.org/wiki/The_Jazz_Messengers_discography"
+    },
+    "S4": {
+      "title": "Art Blakey — The Jazz Messengers album page, jazzmessengers.com (session note: 'Columbia 30th Street Studio, New York, April 5 & May 4 (B1 & B4 only), 1956'; release year and label)",
+      "type": "discography",
+      "url": "https://www.jazzmessengers.com/en/79720/art-blakey/thejazzmessengers"
+    },
+    "S5": {
+      "title": "iTunes Search API — Art Blakey & The Jazz Messengers, 'The Jazz Messengers' (collectionId 157420834, 12 tracks, release date 1956, Sony Music copyright 'Originally recorded 1956, Originally released 1956')",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Art+Blakey+The+Jazz+Messengers&entity=album&limit=25"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-04-06",
+      "1956-05-04"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1956-04-06",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1956-05-04",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "George Avakian",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Art Blakey",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader. The group is credited on the sleeve as The Jazz Messengers; Blakey leads."
+      },
+      {
+        "name": "Donald Byrd",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Infra-Rae', 'Carol's Interlude' and 'Hank's Symphony' on the original LP, plus 'Weird-O', 'Late Show' and 'Deciphering the Message' among the 1997 CD extras (S1)."
+      },
+      {
+        "name": "Horace Silver",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composed 'Nica's Dream' and 'Ecaroh' (S1, S2). This is the last Messengers recording to feature the group's co-founder (S1)."
+      },
+      {
+        "name": "Doug Watkins",
+        "instrument": "bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Infra-Rae",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:57",
+        "session_date": null,
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Nica's Dream",
+        "track_number": 2,
+        "side": "A",
+        "duration": "11:51",
+        "session_date": null,
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "It's You or No One",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:36",
+        "session_date": null,
+        "composers": [
+          "Jule Styne",
+          "Sammy Cahn"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Ecaroh",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:02",
+        "session_date": null,
+        "composers": [
+          "Horace Silver"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Carol's Interlude",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:36",
+        "session_date": null,
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "The End of a Love Affair",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:43",
+        "session_date": null,
+        "composers": [
+          "E. C. Redding"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Hank's Symphony",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:37",
+        "session_date": null,
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Weird-O",
+        "track_number": 8,
+        "side": null,
+        "duration": "7:06",
+        "session_date": null,
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ill Wind",
+        "track_number": 9,
+        "side": null,
+        "duration": "2:52",
+        "session_date": null,
+        "composers": [
+          "Harold Arlen",
+          "Ted Koehler"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Late Show",
+        "track_number": 10,
+        "side": null,
+        "duration": "7:09",
+        "session_date": null,
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Deciphering the Message",
+        "track_number": 11,
+        "side": null,
+        "duration": "6:29",
+        "session_date": null,
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Carol's Interlude (alternate take)",
+        "track_number": 12,
+        "side": null,
+        "duration": "6:13",
+        "session_date": null,
+        "composers": [
+          "Hank Mobley"
+        ],
+        "personnel": [
+          "Art Blakey",
+          "Donald Byrd",
+          "Hank Mobley",
+          "Horace Silver",
+          "Doug Watkins"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": null,
+    "apple_album_id": "157420834",
+    "cover_art": [],
+    "notes": "Two sessions: Wikipedia and Discogs both give April 6 & May 4, 1956 (S1, S2); The Jazz Messengers discography and jazzmessengers.com give April 5 & May 4 (S3, S4) — the April date is recorded here as 1956-04-06 from the two sources that agree, with the conflict left visible. jazzmessengers.com further says only B1 and B4 (Ecaroh, Hank's Symphony) come from the May 4 date (S4), which neither other source confirms; no per-track session assignment is therefore recorded, tracks carry session_date null and track_assignments_complete is false. Engineer is not documented in any source consulted — left null rather than inferred from the studio's usual engineering staff. Tracks 8-10 and 12 were first issued on the 1982 Columbia LP Originally; track 11 was previously unreleased until the 1997 CD (S1)."
+  },
+  "ballot": {
+    "album": "Art Blakey & The Jazz Messengers — The Jazz Messengers (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The album preserves the formative Blakey–Silver partnership in a studio quintet with Hank Mobley, Donald Byrd, and Doug Watkins: exceptional session gravity at the center of first-generation hard bop (S1–S3). Its original seven-track program includes Silver's 'Nica's Dream' and 'Ecaroh' alongside three Mobley originals, making the compositions—not merely the band's institutional history—a substantial discovery argument (S1, S2). As an early studio statement under the Jazz Messengers name, it illuminates the shared compositional and ensemble foundations from which Silver's independent career and Blakey's later working bands developed.",
+    "case_against": "Foundational personnel and repertoire do not establish that this particular album is the indispensable document: the Cafe Bohemia recordings and Horace Silver and the Jazz Messengers compete more directly for representing the early partnership, while Moanin' offers a more widely recognized defining statement. The dossier's reported AllMusic 4/5 and Penguin Guide 3.5-star ratings support durable esteem rather than overwhelming canonical consensus, and no independent core-list evidence is supplied (S1). Most supporting sources establish discographical facts rather than this album's specific influence, so claims that it originated the band's identity or uniquely enabled its later achievements exceed the evidence.",
+    "disagreement": null,
+    "recommendation": "The council proposes John give this strong, contested candidate a comparative listen alongside the Cafe Bohemia recordings to judge whether its studio interplay and repertoire establish a distinct canonical role.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

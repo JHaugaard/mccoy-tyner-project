@@ -1,0 +1,387 @@
+{
+  "id": "shelly-manne-at-the-black-hawk-vol-1-1959",
+  "artist": "Shelly Manne & His Men",
+  "album": "At the Black Hawk, Vol. 1",
+  "year": 1959,
+  "label": "Contemporary",
+  "style_primary": "cool-jazz",
+  "rationale": "The best-documented working band on the West Coast, recorded where it worked. Over three nights in September 1959 Lester Koenig's Contemporary recorded Shelly Manne's quintet live at San Francisco's Black Hawk and issued the music as four LPs (S1, S5); Volume 1 is the set's opening statement — 'Summertime', 'Our Delight', 'Poinciana', 'Blue Daniel' at twelve and thirteen minutes apiece, a club band stretched out with nowhere to hide. Consensus across independent listing traditions is unusually strong for a live volume: the Penguin Guide gives it four stars and a Crown, the Rolling Stone Jazz Record Guide five stars (both via S1's ratings table, citing the Penguin Crown albums list), and AllMusic rates it four stars with Scott Yanow writing that 'the extended performances are easily recommended to straight-ahead jazz fans' (S1, S2). Lineage: it is the West Coast counterpart of the club documents this canon already holds — A Night at the Village Vanguard, A Night at Birdland, At the Cafe Bohemia, Sunday at the Village Vanguard — and Contemporary's house sound on this date is part of why those records are studied. Session gravity: Joe Gordon, the bop trumpeter who had come through Dizzy Gillespie's and Art Blakey's bands; Richie Kamuca, one of the warmest Lester Young-derived tenors on the coast; Victor Feldman, the London-born pianist and vibist; and Monty Budwig, Manne's bassist of the period (S1, S3, S4). Discovery value: the Manne who appears in this canon so far is a leader of a Broadway-song trio date (My Fair Lady); this is the hard-blowing club band, and the venue — the Black Hawk — is a place the canon's place map does not yet hold.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "scope_flag": "",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "At the Black Hawk 1 — Wikipedia album article (infobox: recorded September 22-24, 1959, venue the Black Hawk, San Francisco; label Contemporary M3577/S7577, released 1960; producer Lester Koenig; ratings table: AllMusic 4/5, Rolling Stone Jazz Record Guide 5/5, Penguin Guide 4 stars with Crown, citing Tom Hull's Penguin Crown albums list; full personnel; track list with durations and per-track session dates)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/At_the_Black_Hawk_1"
+    },
+    "S2": {
+      "title": "At the Blackhawk, Vol. 1 — AllMusic album page (styles Cool / Hard Bop; recording date September 22-24 1959; recording location 'Black Hawk, San Francisco, CA'; Scott Yanow review; 6-track listing with durations; release date November 1960)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/mw0000272358"
+    },
+    "S3": {
+      "title": "Contemporary Records Catalog: 3500/7500 series — jazzdisco.org (M3577 'Shelly Manne & His Men At The Black Hawk 1', 1960: session of September 22, 1959 at The Blackhawk, San Francisco with Gordon/Kamuca/Feldman/Budwig/Manne playing Summertime, Our Delight, Poinciana; session of September 24, 1959 playing Blue Daniel and Theme: A Gem From Tiffany)",
+      "type": "sessionography",
+      "url": "http://www.jazzdisco.org/contemporary-records/catalog-3500-7500-series/"
+    },
+    "S4": {
+      "title": "Black Hawk (nightclub) — Wikipedia article (location 200 Hyde Street, San Francisco, California, corner of Turk and Hyde in the Tenderloin; nightclub, opened 1949, closed 1963; coordinates 37.7828 N, 122.4154 W; names Shelly Manne among the musicians who recorded there and lists At the Black Hawk 1-5 in its selected discography)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Black_Hawk_(nightclub)"
+    },
+    "S5": {
+      "title": "iTunes Search API — Shelly Manne and His Men, 'At The Black Hawk, Vol. 1 (Remastered 2024)' (collectionId 1732616169, 5 tracks, Craft Recordings, release date 1960)",
+      "type": "identifier",
+      "url": "https://itunes.apple.com/search?term=Shelly+Manne+Black+Hawk&entity=album&limit=25"
+    },
+    "S6": {
+      "title": "MusicBrainz release group 'At the Black Hawk, Volume 1' (MBID 85d365d0-6258-31d2-a771-e38c9ee9359f, Shelly Manne & His Men, first release 1960, secondary type Live) and Cover Art Archive front image for that release group",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/85d365d0-6258-31d2-a771-e38c9ee9359f"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-09-22",
+      "1959-09-23",
+      "1959-09-24"
+    ],
+    "multi_session": true,
+    "studio": "The Black Hawk, San Francisco, CA",
+    "recording_sites": [
+      {
+        "session_date": "1959-09-22",
+        "site_raw": "The Black Hawk, San Francisco, California",
+        "site_slug": null,
+        "site_new": {
+          "name": "The Black Hawk",
+          "city": "San Francisco, CA",
+          "kind": "club",
+          "address": "200 Hyde Street",
+          "lat": 37.78272,
+          "lon": -122.41562,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Black_Hawk_(nightclub) | coords: OSM Nominatim: 200 Hyde Street, San Francisco, CA — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1959-09-23",
+        "site_raw": "The Black Hawk, San Francisco, California",
+        "site_slug": null,
+        "site_new": {
+          "name": "The Black Hawk",
+          "city": "San Francisco, CA",
+          "kind": "club",
+          "address": "200 Hyde Street",
+          "lat": 37.78272,
+          "lon": -122.41562,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Black_Hawk_(nightclub) | coords: OSM Nominatim: 200 Hyde Street, San Francisco, CA — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1959-09-24",
+        "site_raw": "The Black Hawk, San Francisco, California",
+        "site_slug": null,
+        "site_new": {
+          "name": "The Black Hawk",
+          "city": "San Francisco, CA",
+          "kind": "club",
+          "address": "200 Hyde Street",
+          "lat": 37.78272,
+          "lon": -122.41562,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Black_Hawk_(nightclub) | coords: OSM Nominatim: 200 Hyde Street, San Francisco, CA — geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Lester Koenig",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Shelly Manne",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-09-22",
+          "1959-09-23",
+          "1959-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "Joe Gordon",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-09-22",
+          "1959-09-23",
+          "1959-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Richie Kamuca",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-09-22",
+          "1959-09-23",
+          "1959-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Victor Feldman",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-09-22",
+          "1959-09-23",
+          "1959-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Piano only on this date; no vibes credit appears in the sources consulted."
+      },
+      {
+        "name": "Monty Budwig",
+        "instrument": "bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-09-22",
+          "1959-09-23",
+          "1959-09-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Summertime",
+        "track_number": 1,
+        "side": null,
+        "duration": "12:01",
+        "session_date": "1959-09-22",
+        "composers": [
+          "George Gershwin",
+          "DuBose Heyward"
+        ],
+        "personnel": [
+          "Shelly Manne",
+          "Joe Gordon",
+          "Richie Kamuca",
+          "Victor Feldman",
+          "Monty Budwig"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Our Delight",
+        "track_number": 2,
+        "side": null,
+        "duration": "12:03",
+        "session_date": "1959-09-22",
+        "composers": [
+          "Tadd Dameron"
+        ],
+        "personnel": [
+          "Shelly Manne",
+          "Joe Gordon",
+          "Richie Kamuca",
+          "Victor Feldman",
+          "Monty Budwig"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Poinciana",
+        "track_number": 3,
+        "side": null,
+        "duration": "13:17",
+        "session_date": "1959-09-22",
+        "composers": [
+          "Nat Simon",
+          "Buddy Bernier"
+        ],
+        "personnel": [
+          "Shelly Manne",
+          "Joe Gordon",
+          "Richie Kamuca",
+          "Victor Feldman",
+          "Monty Budwig"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blue Daniel",
+        "track_number": 4,
+        "side": null,
+        "duration": "8:43",
+        "session_date": "1959-09-24",
+        "composers": [
+          "Frank Rosolino"
+        ],
+        "personnel": [
+          "Shelly Manne",
+          "Joe Gordon",
+          "Richie Kamuca",
+          "Victor Feldman",
+          "Monty Budwig"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blue Daniel (alternate take)",
+        "track_number": 5,
+        "side": null,
+        "duration": "8:15",
+        "session_date": "1959-09-23",
+        "composers": [
+          "Frank Rosolino"
+        ],
+        "personnel": [
+          "Shelly Manne",
+          "Joe Gordon",
+          "Richie Kamuca",
+          "Victor Feldman",
+          "Monty Budwig"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Theme: A Gem from Tiffany",
+        "track_number": 6,
+        "side": null,
+        "duration": "0:49",
+        "session_date": "1959-09-24",
+        "composers": [
+          "Bill Holman"
+        ],
+        "personnel": [
+          "Shelly Manne",
+          "Joe Gordon",
+          "Richie Kamuca",
+          "Victor Feldman",
+          "Monty Budwig"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "85d365d0-6258-31d2-a771-e38c9ee9359f",
+    "apple_album_id": "1732616169",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/b8008fb2-a6f9-4304-812f-aa25a732c475/14411996347.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image attached to MusicBrainz release group 85d365d0-6258-31d2-a771-e38c9ee9359f (matched by title, artist and first-release year 1960); pressing not verified."
+      }
+    ],
+    "notes": "Three sets at the Black Hawk: September 22 (Summertime, Our Delight, Poinciana), September 23 (Blue Daniel alternate take, per S1) and September 24 (Blue Daniel, Theme) — jazzdisco.org lists only the 22nd and 24th for the original LP and does not account for the alternate take's session (S3). Title is printed as 'At the Black Hawk 1' on Wikipedia and 'At the Blackhawk, Vol. 1' at AllMusic; the dossier uses the 'Vol. 1' form consistent with the canon's other numbered live sets. Engineer is not documented in the sources consulted — left null rather than inferred from Contemporary's usual engineering practice. LP side assignment not documented in the sources consulted, so side is null."
+  },
+  "ballot": {
+    "album": "Shelly Manne & His Men — At the Black Hawk, Vol. 1 (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The reported Penguin Guide Crown and four stars, Rolling Stone five stars, and AllMusic four stars provide substantial critical support, with Scott Yanow explicitly recommending the extended performances to straight-ahead listeners (S1–S2). Manne, Joe Gordon, Richie Kamuca, Victor Feldman, and Monty Budwig make this a compelling working-band document: the extended treatments of “Summertime,” “Our Delight,” and “Poinciana” foreground sustained ensemble interaction rather than studio polish (S1–S3). Its strongest discovery-canon claim is as a defining document of Manne’s live quintet and a vivid West Coast counterpart to the canon’s better-known New York club recordings.",
+    "case_against": "The dossier establishes the Black Hawk engagement’s stature more securely than it establishes why Volume 1, specifically, is the indispensable standalone statement rather than one strong installment of a larger document. The Penguin and Rolling Stone judgments are supplied through a secondary ratings table, so their provenance merits verification; this limits evidentiary confidence without establishing that the underlying judgments are dependent (S1). Personnel connections and geographic importance strengthen the case, but the dossier supplies little demonstrated downstream influence or detailed criticism showing why these performances rise from excellent straight-ahead jazz to a load-bearing canonical album.",
+    "disagreement": "Reference 1 rates the album contested, finding the album-specific consensus and Volume 1’s primacy insufficiently established; Reference 2 rates it consensus_core, treating the critical honors and defining live-band achievement as decisive. Both agree on strong priority and unambiguous scope. Reference 1 questions the independence of the reported ratings, but the supplied evidence does not establish that Rolling Stone’s judgment derives from Penguin.",
+    "recommendation": "The council proposes that John give Volume 1 strong consideration as a defining Manne quintet document, while verifying the critical citations and its standing within the Black Hawk series.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
