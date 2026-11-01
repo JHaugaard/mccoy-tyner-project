@@ -1,0 +1,362 @@
+{
+  "id": "barry-harris-at-the-jazz-workshop-1960",
+  "artist": "Barry Harris",
+  "album": "At the Jazz Workshop",
+  "year": 1960,
+  "label": "Riverside",
+  "style_primary": "bebop",
+  "rationale": "The canon holds no Barry Harris leader date, and this is the right one to open with: his second album as a leader, the first to catch him live, and the record that shows why he became bebop's most influential living teacher — AllMusic's Scott Yanow writes that it 'finds him at the age of 30 playing in the same boppish style he would have throughout his career' (S1, quoting S2). Consensus is solid across independent traditions: AllMusic 4/5 and the Penguin Guide 4/5 (both via S1), with the Rolling Stone Jazz Record Guide at 2/5 (S1) as the dissenting voice, preserved here rather than smoothed. Lineage and session gravity: the trio is the Detroit-to-New York axis at full strength — Sam Jones and Louis Hayes, both out of the same Detroit scene that produced Harris, and Hayes the drummer who would hold the Cannonball Adderley quintet's book for a decade, so the date documents the pipeline that fed hard bop. It is also a live document of the Jazz Workshop itself, one of the two San Francisco rooms where the music was being tested nightly in 1960 (the canon already carries Vince Guaraldi's room-mate 'The Jazz Workshop' as a canonical place). Discovery value: a bebop piano trio playing Parker ('Moose the Mooche') and Gillespie ('Woody 'n' You') with an original book ('Curtain Call', 'Lolita', 'Morning Coffee') in front of a club audience — the tradition being kept alive in real time, which is exactly the 1945–49 idiom the canon admitted on 2026-09-24, five years downstream.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "scope_flag": "",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "Barry Harris at the Jazz Workshop — Wikipedia album article (infobox: recorded May 15–16 1960, The Jazz Workshop San Francisco, Riverside RLP 12-326, producer Orrin Keepnews; track listing with durations; personnel; ratings table: AllMusic 4/5, Penguin Guide 4/5, Rolling Stone Jazz Record Guide 2/5, quoting Scott Yanow's AllMusic review)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Barry_Harris_at_the_Jazz_Workshop"
+    },
+    "S2": {
+      "title": "At the Jazz Workshop — AllMusic album page (styles Hard Bop/Jazz Instrument/Piano Jazz, recording dates May 15 and 16 1960, recording location The Jazz Workshop San Francisco CA, 11-track expanded edition listing with takes and durations)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/barry-harris-at-the-jazz-workshop-mw0000649555"
+    },
+    "S3": {
+      "title": "Barry Harris Discography — jazzdisco.org (Barry Harris Trio, The Jazz Workshop San Francisco CA, May 15 and 16 1960; track list with takes 1 and 2; Riverside RLP 326 and RLP 1177; OJC reissues with three bonus takes)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/barry-harris/discography/"
+    },
+    "S4": {
+      "title": "Barry Harris — JazzProfiles profile and full discography (At the Jazz Workshop: live May 15-16 1960 San Francisco, released 1960 on Riverside RLP 326, mono LP, personnel Barry Harris/Sam Jones/Louis Hayes, 'Recorded live at the Jazz Workshop, San Francisco')",
+      "type": "sessionography",
+      "url": "https://jazzprofiles.com/profile/barry-harris/"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group 'Barry Harris at the Jazz Workshop' (MBID 70f6e7b6-59b4-307b-b2d9-bcaac6883e6e) with Cover Art Archive image set",
+      "type": "identifiers",
+      "url": "https://musicbrainz.org/release-group/70f6e7b6-59b4-307b-b2d9-bcaac6883e6e"
+    },
+    "S6": {
+      "title": "iTunes Search API — 'At the Jazz Workshop' (collectionId 1671059748, Barry Harris feat. Sam Jones & Louis Hayes, 11 tracks, live San Francisco May 15 & 16 1960)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Barry+Harris+At+the+Jazz+Workshop&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-05-15",
+      "1960-05-16"
+    ],
+    "multi_session": true,
+    "studio": "The Jazz Workshop, San Francisco, CA",
+    "recording_sites": [
+      {
+        "session_date": "1960-05-15",
+        "site_raw": "The Jazz Workshop, San Francisco, CA",
+        "site_slug": "the-jazz-workshop",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1960-05-16",
+        "site_raw": "The Jazz Workshop, San Francisco, CA",
+        "site_slug": "the-jazz-workshop",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Barry Harris",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-05-15",
+          "1960-05-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader. Composed 'Curtain Call', 'Lolita' and 'Morning Coffee' (S1)."
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-05-15",
+          "1960-05-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Detroit contemporary of Harris; later the bassist on Cannonball Adderley's Riverside recordings of the same years."
+      },
+      {
+        "name": "Louis Hayes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-05-15",
+          "1960-05-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Detroit drummer, then in the Cannonball Adderley Quintet; AllMusic files the album under Harris/Hayes/Jones jointly (S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Is You Is or Is You Ain't My Baby",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:31",
+        "session_date": null,
+        "composers": [
+          "Billy Austin",
+          "Louis Jordan"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Curtain Call",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:45",
+        "session_date": null,
+        "composers": [
+          "Barry Harris"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Star Eyes",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:42",
+        "session_date": null,
+        "composers": [
+          "Gene de Paul",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Moose the Mooche",
+        "track_number": 4,
+        "side": "A",
+        "duration": "6:13",
+        "session_date": null,
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Lolita",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:59",
+        "session_date": null,
+        "composers": [
+          "Barry Harris"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Morning Coffee",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:52",
+        "session_date": null,
+        "composers": [
+          "Barry Harris"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Don't Blame Me",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:08",
+        "session_date": null,
+        "composers": [
+          "Jimmy McHugh",
+          "Dorothy Fields"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Woody 'n' You",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:43",
+        "session_date": null,
+        "composers": [
+          "Dizzy Gillespie"
+        ],
+        "personnel": [
+          "Barry Harris",
+          "Sam Jones",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "70f6e7b6-59b4-307b-b2d9-bcaac6883e6e",
+    "apple_album_id": "1671059748",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/6b09c61f-a5a4-4e6c-8c0e-99f9595b6593/13072050966.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "sources": [
+          "S5"
+        ],
+        "notes": "Cover Art Archive front image attached to the release group; the images sit on a single reissue release rather than the original 1960 Riverside pressing, so whether this is the original cover artwork is not documented and is left null."
+      }
+    ],
+    "notes": "Recorded live over two nights, May 15 and 16, 1960, at The Jazz Workshop, San Francisco, CA (S3 sessionography; S2 'Recording Date May 15, 1960 & May 16, 1960 / Recording Location The Jazz Workshop, San Francisco, CA'; S1 infobox and S4 discography agree). One fixed trio across both nights — no track is assigned to a specific date by any consulted source, so all session_date values are left null while both dates appear in recording_dates. Producer Orrin Keepnews (S1 infobox; consistent with his role as Riverside's producer-owner, but no second independent source states it). Engineer: NOT DOCUMENTED — every consulted source (S1, S2, S3, S4, S5, S6) is silent on an engineer for this live date, so the field is null rather than guessed. Original LP: Riverside RLP 326 (mono) and RLP 1177 (stereo reissue), eight tracks; the 1992 OJC CD (OJCCD-208-2) adds three alternate takes — 'Is You Is or Is You Ain't My Baby' (take 1), 'Don't Blame Me' (take 1), 'Woody'n You' (take 1) — which the eleven-track digital edition carries as tracks 2, 9 and 11 (S2, S3, S6). Those alternates are excluded from the track list here because the album as released in 1960 is the eight-track program. Title variants preserved: sources print 'Woody 'n' You' (S1, S3) and 'Woody'n You' (S2, S6); 'Woody 'n' You' retained. Composer credit for track 1 appears as 'Bill Austin, Louis Jordan' in S1 — the standard credit is Billy Austin. Wikipedia gives the genre as Bebop (S1); AllMusic styles are Hard Bop, Jazz Instrument, Piano Jazz (S2); style_primary recorded as bebop."
+  },
+  "ballot": {
+    "album": "Barry Harris — At the Jazz Workshop (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This live trio date presents a fully recognizable Harris voice: Scott Yanow describes the thirty-year-old pianist already playing in the boppish style that would characterize his career (S2, quoted in S1). Parker and Gillespie compositions alongside three Harris originals make it an accessible demonstration of bebop as a living language rather than a historical exhibit (S1–S3). Sam Jones on bass and Louis Hayes on drums—the contemporary Cannonball Adderley rhythm section—give the session substantial personnel gravity; the references' claims of reversed instrumental roles and an entirely Detroit-born trio should not be carried forward. Favorable AllMusic and Penguin Guide ratings, both reported as 4/5 in S1, support treating it as a strong Harris entry point.",
+    "case_against": "The evidence establishes a distinguished representative record more securely than an indispensable defining statement: Harris's enormous pedagogical importance does not itself demonstrate this album's specific influence. Critical recognition is divided, with the Rolling Stone Jazz Record Guide awarding 2/5, and the favorable ratings are largely mediated through S1 rather than supported here by broad independent canon-list recognition. The remaining sources chiefly establish session facts and identifiers, leaving the central question unresolved: whether this accomplished continuation of an established language is itself load-bearing enough for the canon.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John give this strong, contested candidate a focused listening review as a potential Harris entry point, rather than treat it as an automatic core selection.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

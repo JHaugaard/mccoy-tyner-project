@@ -1,0 +1,394 @@
+{
+ "id": "sonny-rollins-sonny-meets-hawk-1963",
+ "artist": "Sonny Rollins",
+ "album": "Sonny Meets Hawk!",
+ "year": 1963,
+ "label": "RCA Victor",
+ "style_primary": "post-bop",
+ "rationale": "The first time Sonny Rollins and Coleman Hawkins entered a studio together - Hawkins forty years into a career that had defined the tenor saxophone, Rollins at the peak of the freest playing of his life, with Paul Bley, Bob Cranshaw, Henry Grimes and Roy McCurdy behind them. The encounter is the album: on 'Yesterdays', 'All the Things You Are' and 'Lover Man' the two tenors trade the same harmonic ground from opposite ends of the tradition, Hawkins still melodic and declarative, Rollins pushing at the changes; on 'Summertime' and 'At McKie's' the rhythm section is Grimes rather than Cranshaw and the music tips further out. Down Beat noticed it on release (its review is cited on the Wikipedia page) and both AllMusic (4/5) and The Penguin Guide to Jazz Recordings (3.5) rate it well, but the case here is lineage rather than consensus: the canon already holds late Hawkins (The Genius of Coleman Hawkins, Encounters Ben Webster, Duke Ellington Meets Coleman Hawkins) and a deep Rollins shelf, and this is the one record where the two generations of tenor saxophone actually meet on tape. It is also the hinge between Rollins' 'Our Man in Jazz' avant-gardism and the calmer RCA years - a session-gravity record by definition.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "include": null,
+ "scope_flag": "Inside the window and inside the post-bop tradition, though its free-leaning soloing is at the edge of the modal/post-bop center; AllMusic files it as bop/hard bop/standards. No gate question.",
+ "sources": {
+  "S1": {
+   "title": "JazzDisco - Sonny Rollins Catalog (sessionography: RCA Victor LPM-2712, sessions of July 15 and July 18, 1963, personnel per session, matrix numbers)",
+   "type": "discography",
+   "url": "http://www.jazzdisco.org/sonny-rollins/catalog/"
+  },
+  "S2": {
+   "title": "Wikipedia - Sonny Meets Hawk! (recording dates July 15 and 18, 1963; RCA Victor Studio B, New York City; producer George Avakian; track list, composers, personnel with per-track bass assignments; ratings box AllMusic 4, Penguin 3.5; Down Beat review cited)",
+   "type": "web",
+   "url": "https://en.wikipedia.org/wiki/Sonny_Meets_Hawk!"
+  },
+  "S3": {
+   "title": "AllMusic - Sonny Meets Hawk! (album page and full Credits tab: George Avakian producer; Mickey Crofford and Paul Goodman engineers; styles bop/hard bop/standards; recording location RCA Victor Studios, New York, NY)",
+   "type": "web",
+   "url": "https://www.allmusic.com/album/mw0000238994"
+  },
+  "S4": {
+   "title": "iTunes Search API - Sonny Rollins Sonny Meets Hawk (collectionId 304784291, 'Sonny Meets Hawk! (Remastered)')",
+   "type": "web",
+   "url": "https://itunes.apple.com/search?term=Sonny+Rollins+Sonny+Meets+Hawk&entity=album"
+  },
+  "S5": {
+   "title": "Discogs - Sonny Rollins and Coleman Hawkins, Sonny Meets Hawk! (master 120755: 'July 15, 18, 1963, New York City'; engineer credits Mickey Crofford and Paul Goodman; release list LPM-2712/LSP-2712)",
+   "type": "discography",
+   "url": "https://www.discogs.com/master/120755-Sonny-Rollins-Coleman-Hawkins-Sonny-Meets-Hawk"
+  },
+  "S6": {
+   "title": "Cover Art Archive - release group 2cb9e592-0633-42dc-9e26-ac938730f4b8 (front cover image)",
+   "type": "web",
+   "url": "https://coverartarchive.org/release-group/2cb9e592-0633-42dc-9e26-ac938730f4b8/"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1963-07-15",
+   "1963-07-18"
+  ],
+  "multi_session": true,
+  "studio": "RCA Victor Studio B, New York, NY",
+  "recording_sites": [
+   {
+    "session_date": "1963-07-15",
+    "site_raw": "RCA Victor Studio B, New York City",
+    "site_slug": "rca-victor-studios-new-york",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S2"
+   },
+   {
+    "session_date": "1963-07-18",
+    "site_raw": "RCA Victor Studio B, New York City",
+    "site_slug": "rca-victor-studios-new-york",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S2"
+   }
+  ],
+  "producer": "George Avakian",
+  "engineer": "Mickey Crofford, Paul Goodman",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Sonny Rollins",
+    "instrument": "tenor saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-07-15",
+     "1963-07-18"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "Leader. Composer of 'At McKie's', the only original on the date."
+   },
+   {
+    "name": "Coleman Hawkins",
+    "instrument": "tenor saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-07-15",
+     "1963-07-18"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [
+     "Hawk"
+    ],
+    "notes": "Co-leader in effect, billed as guest on the original sleeve (S2)."
+   },
+   {
+    "name": "Paul Bley",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-07-15",
+     "1963-07-18"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Bob Cranshaw",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Yesterdays",
+     "All the Things You Are",
+     "Lover Man"
+    ],
+    "session_dates": [
+     "1963-07-15"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "July 15 session only (S1, S2 track numbering)."
+   },
+   {
+    "name": "Henry Grimes",
+    "instrument": "double bass",
+    "scope": "selected-tracks",
+    "tracks": [
+     "Summertime",
+     "Just Friends",
+     "At McKie's"
+    ],
+    "session_dates": [
+     "1963-07-18"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": "July 18 session only (S1, S2 track numbering)."
+   },
+   {
+    "name": "Roy McCurdy",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1963-07-15",
+     "1963-07-18"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "Yesterdays",
+    "track_number": 1,
+    "side": "A",
+    "duration": "5:13",
+    "session_date": "1963-07-15",
+    "composers": [
+     "Jerome Kern",
+     "Otto Harbach"
+    ],
+    "personnel": [
+     "Sonny Rollins",
+     "Coleman Hawkins",
+     "Paul Bley",
+     "Bob Cranshaw",
+     "Roy McCurdy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "All the Things You Are",
+    "track_number": 2,
+    "side": "A",
+    "duration": "9:33",
+    "session_date": "1963-07-15",
+    "composers": [
+     "Jerome Kern",
+     "Oscar Hammerstein II"
+    ],
+    "personnel": [
+     "Sonny Rollins",
+     "Coleman Hawkins",
+     "Paul Bley",
+     "Bob Cranshaw",
+     "Roy McCurdy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Summertime",
+    "track_number": 3,
+    "side": "A",
+    "duration": "5:58",
+    "session_date": "1963-07-18",
+    "composers": [
+     "George Gershwin",
+     "Ira Gershwin",
+     "DuBose Heyward"
+    ],
+    "personnel": [
+     "Sonny Rollins",
+     "Coleman Hawkins",
+     "Paul Bley",
+     "Henry Grimes",
+     "Roy McCurdy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Just Friends",
+    "track_number": 4,
+    "side": "B",
+    "duration": "4:40",
+    "session_date": "1963-07-18",
+    "composers": [
+     "John Klenner",
+     "Sam M. Lewis"
+    ],
+    "personnel": [
+     "Sonny Rollins",
+     "Coleman Hawkins",
+     "Paul Bley",
+     "Henry Grimes",
+     "Roy McCurdy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Lover Man",
+    "track_number": 5,
+    "side": "B",
+    "duration": "8:54",
+    "session_date": "1963-07-15",
+    "composers": [
+     "Jimmy Davis",
+     "Roger Ramirez",
+     "James Sherman"
+    ],
+    "personnel": [
+     "Sonny Rollins",
+     "Coleman Hawkins",
+     "Paul Bley",
+     "Bob Cranshaw",
+     "Roy McCurdy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "At McKie's",
+    "track_number": 6,
+    "side": "B",
+    "duration": "7:03",
+    "session_date": "1963-07-18",
+    "composers": [
+     "Sonny Rollins"
+    ],
+    "personnel": [
+     "Sonny Rollins",
+     "Coleman Hawkins",
+     "Paul Bley",
+     "Henry Grimes",
+     "Roy McCurdy"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "2cb9e592-0633-42dc-9e26-ac938730f4b8",
+  "apple_album_id": "304784291",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "http://coverartarchive.org/release/fd19b00d-8235-4e53-a915-d139de9146ef/4092037288.jpg",
+    "is_original_cover": true,
+    "epistemic": "inf",
+    "notes": "Matched by the release-group MBID given in the Wikipedia authority-control block; pressing not independently verified."
+   }
+  ],
+  "notes": "Two sessions: July 15 (Cranshaw, tracks 1, 2, 5) and July 18 (Grimes, tracks 3, 4, 6) - JazzDisco and Wikipedia agree on both the dates and the split. CONFLICT recorded, not resolved: AllMusic gives 'Recording Date February 15, 1963 - July 20, 1963' and a bare 'RCA Victor Studios, New York, NY' (S3); Wikipedia names RCA Victor Studio B, New York City, and both JazzDisco and Discogs give July 15 and 18 only (S1, S2, S5). The two-session July reading is carried as obs; AllMusic's wider span is noted here as the outlier. RCA Victor Studio B is a room within the New York RCA Victor Studios building, so the canonical row is rca-victor-studios-new-york (not the Hollywood row). Engineer credits: AllMusic and Discogs both list Mickey Crofford AND Paul Goodman for the original sessions (S3, S5) - both retained rather than picking one; AllMusic additionally lists Ray Hall, a reissue-session credit, which is excluded. Reissue-only bonus tracks ('You Are My Lucky Star', 'I Could Write a Book', 'There Will Never Be Another You', present on the CD and the streaming version) come from other 1963 sessions and are excluded from this record; 'At McKie's' is printed 'At McKies'' on the original sleeve. The group is a sextet in name only - the two tenors are the whole front line, no trumpet or trombone."
+ },
+ "ballot": {
+  "album": "Sonny Rollins — Sonny Meets Hawk! (1963)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "The strongest claim is audible lineage: Hawkins’s foundational tenor language meets Rollins’s exploratory post-bop over shared standards, making the tradition’s capacity for transformation the subject of the record. Paul Bley, Roy McCurdy, and alternating bassists Bob Cranshaw and Henry Grimes give this encounter exceptional session gravity, securely documented across JazzDisco, AllMusic, and Discogs (S1, S3, S5). Its contrasting approaches offer a distinctive discovery lesson in how jazz stretches inherited forms without abandoning them; favorable AllMusic and Penguin ratings, reported through S2, provide supporting reception evidence rather than proof of canonical consensus.",
+  "case_against": "The encounter’s historical distinction does not itself establish an indispensable musical statement: Rollins’s disruptive phrasing and Hawkins’s harmonic authority can register as parallel arguments rather than integrated dialogue. That friction makes the cold-listener discovery payoff less dependable than the personnel might suggest. The dossier establishes neither broad canon-list consensus nor substantial downstream influence, and its reported ratings and contemporary Down Beat citation are mediated through Wikipedia (S2); the first-studio-meeting claim is also less securely supported than the session metadata.",
+  "disagreement": "Neither reference disagrees on tier, priority, or scope: both recommend contested/strong with no boundary issue. They differ in evidentiary certainty: Reference 1 treats first-meeting status as an inference and reception as moderately favorable, while Reference 2 asserts a sole studio encounter and a history of critical bafflement that the supplied dossier does not independently establish.",
+  "recommendation": "The council proposes that John give this a strong-priority listening review as a lineage-centered candidate, testing whether its productive friction earns a lasting place in his discovery canon.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "nous:minimax/minimax-m3",
+    "nous:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6.1-sol",
+   "preset": "canon-council"
+  }
+ }
+}

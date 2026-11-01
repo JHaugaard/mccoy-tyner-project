@@ -1,0 +1,368 @@
+{
+  "id": "roy-haynes-out-of-the-afternoon-1962",
+  "artist": "Roy Haynes",
+  "album": "Out of the Afternoon",
+  "year": 1962,
+  "label": "Impulse!",
+  "style_primary": "post-bop",
+  "rationale": "The one leader date Roy Haynes himself named as his favourite, and the record that puts a drummer who shaped the music's pulse — from Bird and Pres to Monk and Coltrane — in front of his own band, with Roland Kirk as the frontline. Cross-tradition consensus holds at 4.5/5 from AllMusic, 4.5/5 from Down Beat (Oct 25, 1962), 3.5/5 from the Penguin Guide and 4/5 from the Rolling Stone Jazz Record Guide (all ratings via S1), and AllMusic's reviewer calls it 'a splendid sounding 1962 set' in which Haynes' drumming 'is absolutely wonderful here, lightly dancing around the other instruments' (S2). Lineage is direct and audible in this canon: the quartet grew out of jam sessions at the Five Spot and Haynes took the idea to producer Bob Thiele himself (S4), placing it a month after Coltrane's 'Coltrane' sessions and the same season as Kirk's own Impulse! debut; the middle brace of modal pieces (Raoul, Snap Crackle, Long Wharf) reach forward to the post-bop canon that follows. Session gravity: Kirk on tenor, manzello, stritch and flutes, Tommy Flanagan (Coltrane's pianist on Giant Steps and later the great trio records), and Henry Grimes, whose bowed solo on Raoul is one of the few of its era on record (S2). Discovery value is high and the canon holds no Haynes leader album at all.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "scope_flag": "",
+  "include": null,
+  "sources": {
+    "S1": {
+      "title": "Out of the Afternoon — Wikipedia album article (infobox recording dates and studio, personnel, track listing, ratings table: AllMusic 4.5/5, Down Beat 4.5/5, Penguin Guide 3.5/5, Rolling Stone Jazz Record Guide 4/5, New Record Mirror 3/5)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Out_of_the_Afternoon"
+    },
+    "S2": {
+      "title": "Out of the Afternoon — AllMusic album page (styles Bop/Hard Bop, recording dates May 16 & 23 1962, recording location Van Gelder Studios Englewood Cliffs NJ, Steven McDonald review, 7-track listing and durations)",
+      "type": "overview",
+      "url": "https://www.allmusic.com/album/out-of-the-afternoon-mw0000364994"
+    },
+    "S3": {
+      "title": "Roy Haynes Discography — jazzdisco.org (Roy Haynes Quartet sessions, Van Gelder Studio Englewood Cliffs NJ, May 16 and May 23 1962; per-track matrix numbers: 10926-10929 and 10932-10934; Impulse! A-23/AS-23)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/roy-haynes/discography/"
+    },
+    "S4": {
+      "title": "Roy Haynes — JazzProfiles profile and full discography (Out of the Afternoon: Van Gelder Studio May 16 and 23 1962, Impulse! A-23/AS-23; 'Bob Thiele, producer; Rudy Van Gelder, engineer; Stanley Dance, liner notes'; personnel; notes that Haynes named this his favourite leader date and that the band came together jamming at the Five Spot)",
+      "type": "sessionography",
+      "url": "https://jazzprofiles.com/profile/roy-haynes/"
+    },
+    "S5": {
+      "title": "MusicBrainz release-group 'Out of the Afternoon' by Roy Haynes Quartet (MBID ec9aac01-1903-3a55-aa7f-40fceb998cc8) with Cover Art Archive front image",
+      "type": "identifiers",
+      "url": "https://musicbrainz.org/release-group/ec9aac01-1903-3a55-aa7f-40fceb998cc8"
+    },
+    "S6": {
+      "title": "iTunes Search API — 'Out of the Afternoon' (collectionId 1443751634, Roy Haynes Quartet, 7 tracks, released 1962-07-04)",
+      "type": "identifiers",
+      "url": "https://itunes.apple.com/search?term=Roy+Haynes+Out+of+the+Afternoon&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-05-16",
+      "1962-05-23"
+    ],
+    "multi_session": true,
+    "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1962-05-16",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1962-05-23",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1962-05-16",
+          "1962-05-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composed 'Raoul', 'Snap Crackle' and 'Long Wharf' (S1)."
+      },
+      {
+        "name": "Roland Kirk",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1962-05-16",
+          "1962-05-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Rahsaan Roland Kirk"
+        ],
+        "notes": "Doubles on manzello, stritch, C flute and nose flute (S1, S3). The DB holds both 'Roland Kirk' and 'Rahsaan Roland Kirk' as separate rows; the dossier uses the spelling printed by the sources for this session."
+      },
+      {
+        "name": "Tommy Flanagan",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1962-05-16",
+          "1962-05-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic: his playing 'is equally light and delicate' (S2)."
+      },
+      {
+        "name": "Henry Grimes",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1962-05-16",
+          "1962-05-23"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Bowed bass solo on 'Raoul' noted by AllMusic as one of the few of its era on record (S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Moon Ray",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:41",
+        "session_date": "1962-05-23",
+        "composers": [
+          "Artie Shaw",
+          "Paul Madison",
+          "Arthur Quenzer"
+        ],
+        "personnel": [
+          "Roy Haynes",
+          "Roland Kirk",
+          "Tommy Flanagan",
+          "Henry Grimes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Fly Me to the Moon (In Other Words)",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:40",
+        "session_date": "1962-05-16",
+        "composers": [
+          "Bart Howard"
+        ],
+        "personnel": [
+          "Roy Haynes",
+          "Roland Kirk",
+          "Tommy Flanagan",
+          "Henry Grimes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Raoul",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:01",
+        "session_date": "1962-05-16",
+        "composers": [
+          "Roy Haynes"
+        ],
+        "personnel": [
+          "Roy Haynes",
+          "Roland Kirk",
+          "Tommy Flanagan",
+          "Henry Grimes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Snap Crackle",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:11",
+        "session_date": "1962-05-16",
+        "composers": [
+          "Roy Haynes"
+        ],
+        "personnel": [
+          "Roy Haynes",
+          "Roland Kirk",
+          "Tommy Flanagan",
+          "Henry Grimes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "If I Should Lose You",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:49",
+        "session_date": "1962-05-16",
+        "composers": [
+          "Leo Robin",
+          "Ralph Rainger"
+        ],
+        "personnel": [
+          "Roy Haynes",
+          "Roland Kirk",
+          "Tommy Flanagan",
+          "Henry Grimes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Long Wharf",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:42",
+        "session_date": "1962-05-23",
+        "composers": [
+          "Roy Haynes"
+        ],
+        "personnel": [
+          "Roy Haynes",
+          "Roland Kirk",
+          "Tommy Flanagan",
+          "Henry Grimes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Some Other Spring",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:39",
+        "session_date": "1962-05-23",
+        "composers": [
+          "Arthur Herzog Jr.",
+          "Irene Kitchings"
+        ],
+        "personnel": [
+          "Roy Haynes",
+          "Roland Kirk",
+          "Tommy Flanagan",
+          "Henry Grimes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "ec9aac01-1903-3a55-aa7f-40fceb998cc8",
+    "apple_album_id": "1443751634",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/a2f63dd9-3224-3bc0-a253-fbc739b36e9d/31696674429.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "sources": [
+          "S5"
+        ],
+        "notes": "Cover Art Archive approved front image for the release group; the attached release is a US Impulse! AS-23 stereo pressing per S5."
+      }
+    ],
+    "notes": "Two sessions at Van Gelder Studio, Englewood Cliffs, NJ: May 16, 1962 (matrix 10926-10929 — 'If I Should Lose You', 'Raoul', 'Snap Crackle', 'Fly Me to the Moon') and May 23, 1962 (10932-10934 — 'Long Wharf', 'Moon Ray', 'Some Other Spring') (S3, obs; corroborated by S1 infobox 'May 16 & 23, 1962' at Van Gelder Studio, and S2 'Recording Date May 16, 1962 & May 23, 1962'). Producer Bob Thiele and engineer Rudy Van Gelder per the JazzProfiles discography transcription of the album credits (S4, obs; Thiele independently confirmed by S1 infobox). Liner notes by Stanley Dance (S4). One fixed quartet across both dates — the sessionography lists a single roster with no substitutions (S3). Title spelling conflict: AllMusic prints the opening track as 'Moonray' (S2) while Wikipedia and the Impulse! catalog use 'Moon Ray' (S1, S3); the original printed form 'Moon Ray' is retained and the variant recorded here. A January 15, 1963 edit session in New York produced 45-rpm edits (11293-11294) of 'Snap Crackle' and 'Fly Me to the Moon' (S3) — not part of this album and excluded. Reissue CD Impulse! IMPD-180 (1996) adds no bonus tracks; the seven-track program is the original LP. AllMusic styles: Bop, Hard Bop (S2); Wikipedia genres: post-bop, modal jazz (S1); style_primary recorded as post-bop."
+  },
+  "ballot": {
+    "album": "Roy Haynes — Out of the Afternoon (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "JazzProfiles reports that Haynes named this his favorite leader date (S4), making it a particularly persuasive opportunity to hear a foundational modern-jazz drummer directing his own ensemble. Kirk, Flanagan, and Grimes give the quartet exceptional session gravity (S3), while AllMusic’s praise for Haynes’s lightly dancing accompaniment supports its value as an immediately engaging introduction to conversational post-bop drumming (S2). Favorable assessments from AllMusic, contemporary Down Beat, Penguin, and Rolling Stone, as collected in S1, reinforce an artistic case built on distinctive ensemble chemistry rather than historical obligation.",
+    "case_against": "The evidence establishes a highly admired session more securely than a load-bearing canonical landmark: favorable ratings are not equivalent to repeated core-collection selections, and most are available here only through S1’s secondary compilation. Haynes’s personal preference supports the defining-statement argument but does not establish the album’s wider historical authority, while the dossier supplies no direct testimony demonstrating downstream influence. Its personnel connections and modal affinities establish lineage and context, but treating those connections as proof that this particular record changed subsequent practice would overstate the evidence.",
+    "disagreement": "Reference 2 judges the leader statement and ensemble achievement sufficient for consensus_core; Reference 1 assigns contested because independent canonical recognition and album-specific influence remain insufficiently demonstrated. Both agree on strong priority and unambiguous scope. Reference 1’s attempted factual correction is itself mistaken: Tommy Flanagan did play on Giant Steps, so that objection carries no weight.",
+    "recommendation": "The council proposes that John give this strong, contested candidate a focused listen as a potential Haynes leader statement, without treating its core-canon status as settled.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

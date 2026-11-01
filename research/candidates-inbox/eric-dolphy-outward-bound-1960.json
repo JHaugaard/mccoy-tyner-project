@@ -1,0 +1,350 @@
+{
+ "id": "eric-dolphy-outward-bound-1960",
+ "artist": "Eric Dolphy",
+ "album": "Outward Bound",
+ "year": 1960,
+ "label": "New Jazz (Prestige)",
+ "style_primary": "post-bop",
+ "rationale": "Eric Dolphy's debut as a leader, and the record that announced him: a quintet date cut in a single April 1, 1960 session at Van Gelder's with Freddie Hubbard, Jaki Byard, George Tucker and Roy Haynes. Martin Williams, reviewing it as it appeared: 'From the first selection on Dolphy's first album under his own name... it was obvious that fresh and important talent had arrived.' Graded highly across three independent listing traditions - the Rolling Stone Jazz Record Guide gives it 5/5, AllMusic 4.5, The Penguin Guide to Jazz Recordings 3.5 (per its Wikipedia ratings box) - and its session gravity is the point: Hubbard and Byard at the start of their own runs, Haynes already the most-recorded drummer of the era. The canon already carries four Dolphy leaders (Far Cry, Out There, At the Five Spot Vol. 1, Out to Lunch!) without the record that starts the arc; this is the missing first chapter, and the most accessible entry to a musician whose later work is harder to enter cold. Its three originals ('G.W.', 'Les', '245') and the bass-clarinet and flute features also document the doubling that defines him.",
+ "priority": "strong",
+ "epistemic": "obs",
+ "include": null,
+ "scope_flag": "Inside the window and inside the tradition - AllMusic files it as hard bop/post-bop, and the date sits closer to late-1950s hard bop than to the free playing Dolphy reached by 1964. No gate question.",
+ "sources": {
+  "S1": {
+   "title": "JazzDisco - Eric Dolphy Catalog (sessionography: New Jazz NJLP 8236, session of April 1, 1960, with personnel, studio and matrix numbers)",
+   "type": "discography",
+   "url": "http://www.jazzdisco.org/eric-dolphy/catalog/"
+  },
+  "S2": {
+   "title": "Wikipedia - Outward Bound (Eric Dolphy album) (track list, per-track instrumentation, personnel, ratings box: AllMusic 4.5, Penguin 3.5, Rolling Stone Jazz Record Guide 5)",
+   "type": "web",
+   "url": "https://en.wikipedia.org/wiki/Outward_Bound_(Eric_Dolphy_album)"
+  },
+  "S3": {
+   "title": "AllMusic - Outward Bound (Eric Dolphy Quintet), album page and full Credits tab (Rudy Van Gelder engineer; styles hard bop/post-bop/avant-garde; recording date April 1, 1960; 4.5-star rating)",
+   "type": "web",
+   "url": "https://www.allmusic.com/album/outward-bound-mw0000649482"
+  },
+  "S4": {
+   "title": "iTunes Search API - Eric Dolphy Outward Bound (collectionId 1442267347, Rudy Van Gelder Remaster)",
+   "type": "web",
+   "url": "https://itunes.apple.com/search?term=Eric+Dolphy+Outward+Bound&entity=album"
+  },
+  "S5": {
+   "title": "Cover Art Archive - release group afe78820-21d5-32e9-81dd-a3ee3204eba1 (front cover image)",
+   "type": "web",
+   "url": "https://coverartarchive.org/release-group/afe78820-21d5-32e9-81dd-a3ee3204eba1/"
+  },
+  "S6": {
+   "title": "MusicBrainz - Outward Bound release group afe78820-21d5-32e9-81dd-a3ee3204eba1 (per Wikipedia authority control)",
+   "type": "web",
+   "url": "https://musicbrainz.org/release-group/afe78820-21d5-32e9-81dd-a3ee3204eba1"
+  }
+ },
+ "personnel_record": {
+  "recording_dates": [
+   "1960-04-01"
+  ],
+  "multi_session": false,
+  "studio": "Van Gelder Studio, Englewood Cliffs, NJ",
+  "recording_sites": [
+   {
+    "session_date": "1960-04-01",
+    "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+    "site_slug": "van-gelder-studio-englewood-cliffs",
+    "site_new": null,
+    "epistemic": "obs",
+    "source": "S1"
+   }
+  ],
+  "producer": null,
+  "engineer": "Rudy Van Gelder",
+  "epistemic_production": "obs",
+  "personnel": [
+   {
+    "name": "Eric Dolphy",
+    "instrument": "alto saxophone",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1960-04-01"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Leader. Doubles: bass clarinet on 'On Green Dolphin Street' and 'Miss Toni'; flute on 'Glad to Be Unhappy' (S2, S3). Composer of 'G.W.', 'Les' and '245'."
+   },
+   {
+    "name": "Freddie Hubbard",
+    "instrument": "trumpet",
+    "scope": "selected-tracks",
+    "tracks": [
+     "G.W.",
+     "On Green Dolphin Street",
+     "Les",
+     "245",
+     "Miss Toni"
+    ],
+    "session_dates": [
+     "1960-04-01"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": "Absent from 'Glad to Be Unhappy' (S2: 'except on #5'), the flute feature."
+   },
+   {
+    "name": "Jaki Byard",
+    "instrument": "piano",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1960-04-01"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [
+     "Jackie Byard"
+    ],
+    "notes": "JazzDisco prints 'Jackie Byard'; Wikipedia and AllMusic print 'Jaki Byard', the form used in his own discography."
+   },
+   {
+    "name": "George Tucker",
+    "instrument": "double bass",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1960-04-01"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": ""
+   },
+   {
+    "name": "Roy Haynes",
+    "instrument": "drums",
+    "scope": "all-tracks",
+    "tracks": null,
+    "session_dates": [
+     "1960-04-01"
+    ],
+    "epistemic": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "name_variants": [],
+    "notes": ""
+   }
+  ],
+  "tracks": [
+   {
+    "title": "G.W.",
+    "track_number": 1,
+    "side": "A",
+    "duration": "7:57",
+    "session_date": "1960-04-01",
+    "composers": [
+     "Eric Dolphy"
+    ],
+    "personnel": [
+     "Eric Dolphy",
+     "Freddie Hubbard",
+     "Jaki Byard",
+     "George Tucker",
+     "Roy Haynes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "On Green Dolphin Street",
+    "track_number": 2,
+    "side": "A",
+    "duration": "5:44",
+    "session_date": "1960-04-01",
+    "composers": [
+     "Bronislaw Kaper",
+     "Ned Washington"
+    ],
+    "personnel": [
+     "Eric Dolphy",
+     "Freddie Hubbard",
+     "Jaki Byard",
+     "George Tucker",
+     "Roy Haynes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Les",
+    "track_number": 3,
+    "side": "A",
+    "duration": "5:12",
+    "session_date": "1960-04-01",
+    "composers": [
+     "Eric Dolphy"
+    ],
+    "personnel": [
+     "Eric Dolphy",
+     "Freddie Hubbard",
+     "Jaki Byard",
+     "George Tucker",
+     "Roy Haynes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "245",
+    "track_number": 4,
+    "side": "B",
+    "duration": "6:49",
+    "session_date": "1960-04-01",
+    "composers": [
+     "Eric Dolphy"
+    ],
+    "personnel": [
+     "Eric Dolphy",
+     "Freddie Hubbard",
+     "Jaki Byard",
+     "George Tucker",
+     "Roy Haynes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Glad to Be Unhappy",
+    "track_number": 5,
+    "side": "B",
+    "duration": "5:26",
+    "session_date": "1960-04-01",
+    "composers": [
+     "Richard Rodgers",
+     "Lorenz Hart"
+    ],
+    "personnel": [
+     "Eric Dolphy",
+     "Jaki Byard",
+     "George Tucker",
+     "Roy Haynes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Miss Toni",
+    "track_number": 6,
+    "side": "B",
+    "duration": "5:40",
+    "session_date": "1960-04-01",
+    "composers": [
+     "Charles Greenlee"
+    ],
+    "personnel": [
+     "Eric Dolphy",
+     "Freddie Hubbard",
+     "Jaki Byard",
+     "George Tucker",
+     "Roy Haynes"
+    ],
+    "bonus_track": false,
+    "alternate_take": false,
+    "epistemic_track": "obs",
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   }
+  ],
+  "track_assignments_complete": true,
+  "musicbrainz_release_group_mbid": "afe78820-21d5-32e9-81dd-a3ee3204eba1",
+  "apple_album_id": "1442267347",
+  "cover_art": [
+   {
+    "role": "front",
+    "source": "cover-art-archive",
+    "url": "http://coverartarchive.org/release/2b01b641-ad01-4903-8028-e07e145d5b54/14357879643.jpg",
+    "is_original_cover": true,
+    "epistemic": "inf",
+    "notes": "Matched by release-group MBID taken from the Wikipedia authority-control block; the image is the release-group front cover, pressing not independently verified."
+   }
+  ],
+  "notes": "Single session, April 1, 1960, six tracks, all released. One unissued-from-the-LP side: matrix 2107 'April Fool' was cut at the same session and first appeared on the 1966 Prestige LP 'Here and There' (S1) - not part of this album, so excluded. Producer is NOT documented in the sources consulted: AllMusic's Credits tab names Rudy Van Gelder (engineer) and two liner-note writers but no producer (S3), and Wikipedia and JazzDisco are silent (S1, S2) - recorded as null rather than inferred from Prestige's house pattern. Engineer obs per AllMusic credits. Site: AllMusic gives 'Englewood Cliffs, NJ'; JazzDisco and Wikipedia name Van Gelder Studio, which places the session after Rudy Van Gelder's July 1959 move, so the canonical row is van-gelder-studio-englewood-cliffs, not Hackensack. AllMusic's review text misnames track 6 as 'Miss Ann' (the album's title is 'Miss Toni', per S1/S2 track lists and the label matrix) - noted, not followed. Both Dolphy doubles (bass clarinet, flute) are outside the primary instrument field by contract; see his personnel notes."
+ },
+ "ballot": {
+  "album": "Eric Dolphy — Outward Bound (1960)",
+  "scope_check": {
+   "in_window": true,
+   "boundary_note": null
+  },
+  "tier": "contested",
+  "priority": "strong",
+  "case_for": "This early Dolphy leader statement makes his radical vocabulary intelligible within familiar standards and hard-bop structures, with alto, bass clarinet and flute documenting the breadth of his musical identity (S1–S3). Freddie Hubbard, Jaki Byard, George Tucker and Roy Haynes give the session exceptional gravity, while Dolphy's three originals establish that its appeal extends beyond instrumental novelty. AllMusic's confirmed 4.5-star rating, alongside the Rolling Stone and Penguin ratings reported through S2, supports substantial cross-guide esteem and a strong discovery case: an accessible bridge from hard bop into Dolphy's more exploratory work.",
+  "case_against": "An illuminating early statement is not automatically a load-bearing canonical album: its conventional quintet frameworks arguably accommodate Dolphy's individuality less fully than the distinctive ensemble conceptions of his later landmarks. The relevant question is whether this particular session contributes enough beyond an accessible introduction, not whether the canon already contains several Dolphy records. The consensus evidence also needs calibration: strong review ratings do not establish core-list status, two guide ratings are supplied secondhand through Wikipedia, and the Martin Williams quotation lacks a traceable citation in the dossier.",
+  "disagreement": "Reference 1 judges the cross-guide esteem, personnel and accessibility sufficient for consensus_core; Reference 2 assigns contested because the conventional blowing-session framework leaves its defining-statement status genuinely debatable. Both assign strong priority and agree that no scope boundary is involved.",
+  "recommendation": "The council proposes that John give Outward Bound strong-priority consideration as an accessible hard-bop-to-Dolphy bridge, while judging its independent album-level necessity rather than treating its early-career status as sufficient.",
+  "confidence": "high",
+  "_council": {
+   "references": [
+    "nous:minimax/minimax-m3",
+    "nous:google/gemini-3.8-flash"
+   ],
+   "references_answered": 2,
+   "aggregator": "nous:openai/gpt-6.1-sol",
+   "preset": "canon-council"
+  }
+ }
+}
