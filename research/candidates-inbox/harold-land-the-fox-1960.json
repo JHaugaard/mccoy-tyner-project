@@ -1,0 +1,315 @@
+{
+  "id": "harold-land-the-fox-1960",
+  "artist": "Harold Land",
+  "album": "The Fox",
+  "year": 1960,
+  "label": "HiFi Jazz",
+  "style_primary": "hard-bop",
+  "rationale": "Harold Land's finest record and the best argument for him as an underrated composer: a 1959 Los Angeles quintet date on the short-lived HiFi Jazz label (Contemporary picked it up in 1969, OJC in 1991) with Elmo Hope contributing four of the six tunes and Dupree Bolton — the brilliant, almost unrecorded trumpeter — alongside him. The Penguin Guide to Jazz calls Land 'an underrated composer with a deep feeling for the blues' and says the album, 'tricky and fugitive as much of it is, must be thought his finest moment'; DownBeat gave it 4.5 stars on release (Ralph J. Gleason, May 1960), AllMusic 4.5 (Scott Yanow: 'high-quality hard bop'), Rolling Stone Jazz Record Guide 4/5. Lineage and session gravity both point the same way for this canon: Land is the West Coast hard-bop voice that connects the Clifford Brown-Max Roach band to the Curtis Counce group and the Harold Land-Bobby Hutcherson partnership, Elmo Hope is a canonical hard-bop pianist the collection does not yet hold, and Dupree Bolton appears on almost nothing else — Ted Gioia wrote a feature-length search for him. The canon has no Harold Land album and only one Elmo Hope-adjacent record, so this fills a real hole in the West Coast wing rather than duplicating a name.",
+  "priority": "consider",
+  "epistemic": "obs",
+  "include": null,
+  "scope_flag": "Squarely inside the window (1959-60) and inside hard bop; no boundary call. The only question for the council is priority — the album's reputation rests on the Penguin/DownBeat line ('his finest moment') rather than on repeated canon-list appearances, which is consensus of a thinner kind.",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — The Fox (Harold Land album): personnel, track listing and composers, recording month (August 1959), producer, ratings (AllMusic 4.5, DownBeat 4.5, Penguin Guide 3.5, Rolling Stone Jazz Record Guide 4, Tom Hull B+)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Fox_(Harold_Land_album)"
+    },
+    "S2": {
+      "title": "AllMusic — The Fox (album page and credits, mw0000653144: recording date August 1959, recording location 'Radio Records, Studio B, Los Angeles, CA', personnel, Scott Yanow review)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-fox-mw0000653144/credits"
+    },
+    "S3": {
+      "title": "Discogs — The Harold Land Quintet, The Fox (r6476721, US mono LP HiFi Jazz J 612, 1960): credits incl. producer David Axelrod, all five players by instrument, and 'Recorded at Radio Recorders Studio B, L.A. August 1959'",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/6476721-The-Harold-Land-Quintet-The-Fox"
+    },
+    "S4": {
+      "title": "iTunes Search API — Harold Land Quintet 'The Fox' (collectionId 1346034572, 6 tracks, HiFi Records, ℗ 1960)",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=harold+land+the+fox&entity=album&limit=10"
+    },
+    "S5": {
+      "title": "Cover Art Archive — release group 4d348a32-915a-305f-9347-e65febb737b8 (front and back cover images)",
+      "type": "api",
+      "url": "https://coverartarchive.org/release-group/4d348a32-915a-305f-9347-e65febb737b8"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-08"
+    ],
+    "multi_session": false,
+    "studio": "Radio Recorders Studio B, Los Angeles",
+    "recording_sites": [
+      {
+        "session_date": "1959-08",
+        "site_raw": "Radio Recorders Studio B, L.A. (August 1959)",
+        "site_slug": "radio-recorders",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "David Axelrod",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Harold Land",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Dupree Bolton",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Elmo Hope",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Herbie Lewis",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frank Butler",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Fox",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:36",
+        "session_date": "1959-08",
+        "composers": [
+          "Harold Land"
+        ],
+        "personnel": [
+          "Harold Land",
+          "Dupree Bolton",
+          "Elmo Hope",
+          "Herbie Lewis",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mirror Mind Rose",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:32",
+        "session_date": "1959-08",
+        "composers": [
+          "Elmo Hope"
+        ],
+        "personnel": [
+          "Harold Land",
+          "Dupree Bolton",
+          "Elmo Hope",
+          "Herbie Lewis",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "One Second, Please",
+        "track_number": 3,
+        "side": "A",
+        "duration": "5:51",
+        "session_date": "1959-08",
+        "composers": [
+          "Elmo Hope"
+        ],
+        "personnel": [
+          "Harold Land",
+          "Dupree Bolton",
+          "Elmo Hope",
+          "Herbie Lewis",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sims A-Plenty",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:17",
+        "session_date": "1959-08",
+        "composers": [
+          "Elmo Hope"
+        ],
+        "personnel": [
+          "Harold Land",
+          "Dupree Bolton",
+          "Elmo Hope",
+          "Herbie Lewis",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Little Chris",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:10",
+        "session_date": "1959-08",
+        "composers": [
+          "Harold Land"
+        ],
+        "personnel": [
+          "Harold Land",
+          "Dupree Bolton",
+          "Elmo Hope",
+          "Herbie Lewis",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "One Down",
+        "track_number": 6,
+        "side": "B",
+        "duration": "7:23",
+        "session_date": "1959-08",
+        "composers": [
+          "Elmo Hope"
+        ],
+        "personnel": [
+          "Harold Land",
+          "Dupree Bolton",
+          "Elmo Hope",
+          "Herbie Lewis",
+          "Frank Butler"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "4d348a32-915a-305f-9347-e65febb737b8",
+    "apple_album_id": "1346034572",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/7993fc40-634c-422d-b104-09e5412ec5e0/30776377722.jpg",
+        "is_original_cover": null,
+        "epistemic": "obs",
+        "notes": "Front cover from Cover Art Archive release 7993fc40-634c-422d-b104-09e5412ec5e0 in release group 4d348a32…; exact pressing not verified."
+      }
+    ],
+    "notes": "Single session, August 1959 (month documented, day not) — recording_dates and the site entry carry the month rather than an invented date. Discogs names the room precisely ('Recorded at Radio Recorders Studio B, L.A.'); AllMusic's credits tab gives 'Radio Records, Studio B, Los Angeles, CA' — the same session and the same studio, transcribed loosely by the database; the Discogs wording is recorded as site_raw and the canonical slug radio-recorders is used. Engineer is credited in no source consulted (explicit null). All five players are given by both Wikipedia and Discogs with no disagreement; producer David Axelrod appears in both. Composers: Land two tunes, Hope four, per both sources. Track-level personnel is uniform — a quintet date with no guest or substitutions — so assignments are complete."
+  },
+  "ballot": {
+    "album": "Harold Land — The Fox (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest case is a defining statement with exceptional session gravity: the Penguin Guide calls it Land’s “finest moment,” while the dossier reports 4.5-star assessments from DownBeat and AllMusic, supporting substantial critical esteem across contemporary and retrospective criticism (S1; S2). Elmo Hope composed four of the six selections, and the documented quintet of Land, Hope, Dupree Bolton, Herbie Lewis, and Frank Butler makes this a distinctive collaborative statement rather than a routine hard-bop date (S1, S3). Land’s connections to the Brown–Roach, Curtis Counce, and later Bobby Hutcherson ensembles give it a persuasive, though partly inferential, lineage case; its concentrated encounter with Hope and the sparsely recorded Bolton offers particular discovery value.",
+    "case_against": "The dossier establishes critical acclaim more securely than the rubric’s strongest signal: repeated appearances in independent canon lists or documented musician testimony. Much of the Penguin, DownBeat, and Rolling Stone evidence is relayed through Wikipedia rather than directly preserved, and no Penguin core-collection designation or demonstrable downstream influence is established. Hope’s four compositions also qualify the rationale’s emphasis on Land as an underrated composer: this may be Land’s defining recording without being chiefly his compositional statement.",
+    "disagreement": "The references agree on contested/strong and find no scope boundary. They differ on evidentiary certainty: Reference 2 treats Land’s artistic-peak status and Bolton’s extremely limited recording output as settled, while Reference 1 qualifies the defining-statement claim and challenges the breadth of the Bolton scarcity claim; the defensible shared ground is a rare featured Bolton appearance, not a near-complete account of his discography.",
+    "recommendation": "The council proposes that John give The Fox strong listening consideration as a potential defining Land record, while weighing its specialist critical stature against the thinner evidence of broad canonical consensus.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,1565 @@
+{
+  "id": "ella-fitzgerald-ella-fitzgerald-sings-the-cole-porter-songbook-1956",
+  "artist": "Ella Fitzgerald",
+  "album": "Ella Fitzgerald Sings the Cole Porter Song Book",
+  "year": 1956,
+  "label": "Verve",
+  "style_primary": "cool-jazz",
+  "rationale": "The record that invented the American Songbook album and made Verve a label: Ella Fitzgerald's first release for Norman Granz's new imprint, 32 Cole Porter songs arranged and conducted by Buddy Bregman, recorded in Hollywood in February and March 1956. It is the founding entry of the eight-album Songbook series and the one that changed Fitzgerald's standing from admired jazz singer to the First Lady of Song. Institutional consensus is documented and independent of one another: Grammy Hall of Fame (2000), Library of Congress National Recording Registry (2003, one of 50 recordings chosen that year), Penguin Guide to Jazz Recordings 4/4, The Encyclopedia of Popular Music 5/5, AllMusic 4.5/5, Rolling Stone Jazz Record Guide 4/5. Lineage is equally concrete — Ira Gershwin's often-quoted line that he never knew how good the songs were until he heard Ella sing them, and the songbook format that every subsequent standards album in this canon (Lady in Satin, the Getz and Evans songbook records) assumes. The canon currently holds exactly one Fitzgerald album (Ella and Louis, 1956) and none of the Songbooks; this is the largest hole in its vocal wing. Session gravity is lighter than a small-group date — the interest is Bregman's orchestra and the West Coast studio players inside it (Bud Shank, Herb Geller, Bob Cooper, Barney Kessel, Alvin Stoller) — but the record is a defining statement on its own terms, not a supporting document.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "include": null,
+  "scope_flag": "Inside the 1945-1985 window and inside the canon's vocal wing. The honest caveat for the council: this is a big-band/traditional-pop songbook rather than a small-group post-bebop date — Granz said outright that the first Verve album would not be a jazz project, but rather a songbook. Its claim is canon-defining status and lineage, not hard-bop session gravity.",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Ella Fitzgerald Sings the Cole Porter Song Book (personnel from CD reissue liner notes, recording dates, ratings: AllMusic 4.5/5, Encyclopedia of Popular Music 5/5, Penguin Guide 4/4, Rolling Stone Jazz Record Guide 4/5; Grammy Hall of Fame 2000; National Recording Registry 2003; track listing)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Cole_Porter_Song_Book"
+    },
+    "S2": {
+      "title": "AllMusic — Sings the Cole Porter Song Book (album page and full credits tab, mw0000319703: recording date Feb 7 1956–Mar 27 1956, full credit list, styles)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/sings-the-cole-porter-song-book-mw0000319703/credits"
+    },
+    "S3": {
+      "title": "Discogs — Ella Fitzgerald, Ella Fitzgerald Sings The Cole Porter Songbook (r6304055, US 2LP Verve MG V-4001-2, 1956; credits: Bregman arranger/conductor, Granz producer)",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/6304055-Ella-Fitzgerald-Ella-Fitzgerald-Sings-The-Cole-Porter-Songbook"
+    },
+    "S4": {
+      "title": "iTunes Search API — Ella Fitzgerald 'Ella Fitzgerald Sings The Cole Porter Song Book' (collectionId 6788191143, 32 tracks, Verve)",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=ella+fitzgerald+cole+porter+songbook&entity=album&limit=10"
+    },
+    "S5": {
+      "title": "Cover Art Archive — release group dcc0d723-e27f-36e8-8438-dbbde7eb9a67 (front and back cover images)",
+      "type": "api",
+      "url": "https://coverartarchive.org/release-group/dcc0d723-e27f-36e8-8438-dbbde7eb9a67"
+    },
+    "S6": {
+      "title": "Buddy Bregman official site (archived) — Bregman's own account of arranging and conducting the Cole Porter Songbook, and a review noting the 1956 recordings were made in Hollywood",
+      "type": "web",
+      "url": "https://web.archive.org/web/20120419013527/http://www.buddybregman.com/ella.html"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-02-07",
+      "1956-02-08",
+      "1956-02-09",
+      "1956-03-27"
+    ],
+    "multi_session": true,
+    "studio": "Hollywood, Los Angeles (specific studio not documented in the sources consulted)",
+    "recording_sites": [
+      {
+        "session_date": "1956-02-07",
+        "site_raw": "Hollywood, Los Angeles (studio not documented)",
+        "site_slug": "los-angeles-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S1"
+      },
+      {
+        "session_date": "1956-03-27",
+        "site_raw": "Hollywood, Los Angeles (studio not documented)",
+        "site_slug": "los-angeles-venue-unidentified",
+        "site_new": null,
+        "epistemic": "inf",
+        "source": "S1"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ella Fitzgerald",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Smith",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "Miss Otis Regrets",
+          "Too Darn Hot",
+          "In the Still of the Night",
+          "I Get a Kick Out of You",
+          "Do I Love You?",
+          "Always True to You in My Fashion",
+          "Let's Do It, Let's Fall in Love",
+          "Just One of Those Things",
+          "Ev'ry Time We Say Goodbye",
+          "All of You",
+          "Begin the Beguine",
+          "Get Out of Town",
+          "I Am in Love",
+          "From This Moment On",
+          "I Love Paris",
+          "You Do Something to Me",
+          "Ridin' High",
+          "You'd Be So Easy to Love",
+          "It's All Right with Me",
+          "Why Can't You Behave?",
+          "What Is This Thing Called Love?",
+          "You're the Top",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Ace in the Hole",
+          "So in Love",
+          "I've Got You Under My Skin",
+          "I Concentrate on You",
+          "Don't Fence Me In"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also plays celesta; source lists piano/celeste on all tracks except 2.11 (Night and Day)."
+      },
+      {
+        "name": "Herb Geller",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "Too Darn Hot",
+          "In the Still of the Night",
+          "Always True to You in My Fashion",
+          "Just One of Those Things",
+          "Begin the Beguine",
+          "From This Moment On",
+          "You Do Something to Me",
+          "Ridin' High",
+          "It's All Right with Me",
+          "You're the Top",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "Ace in the Hole",
+          "So in Love",
+          "I Concentrate on You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles clarinet."
+      },
+      {
+        "name": "Bud Shank",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "Too Darn Hot",
+          "In the Still of the Night",
+          "Always True to You in My Fashion",
+          "Just One of Those Things",
+          "Begin the Beguine",
+          "From This Moment On",
+          "You Do Something to Me",
+          "Ridin' High",
+          "It's All Right with Me",
+          "You're the Top",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "Ace in the Hole",
+          "So in Love",
+          "I Concentrate on You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles clarinet and flute."
+      },
+      {
+        "name": "Chuck Gentry",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "Too Darn Hot",
+          "In the Still of the Night",
+          "Always True to You in My Fashion",
+          "Just One of Those Things",
+          "Begin the Beguine",
+          "From This Moment On",
+          "You Do Something to Me",
+          "Ridin' High",
+          "It's All Right with Me",
+          "You're the Top",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "Ace in the Hole",
+          "So in Love",
+          "I Concentrate on You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles bass clarinet."
+      },
+      {
+        "name": "Bob Cooper",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Do I Love You?",
+          "Ev'ry Time We Say Goodbye",
+          "I Am in Love",
+          "I Love Paris",
+          "Why Can't You Behave?"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles clarinet and oboe (oboe not in the instrument taxonomy)."
+      },
+      {
+        "name": "Ted Nash",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Do I Love You?",
+          "Ev'ry Time We Say Goodbye",
+          "I Am in Love",
+          "I Love Paris",
+          "Why Can't You Behave?"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Doubles clarinet and flute."
+      },
+      {
+        "name": "Pete Candoli",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Harry \"Sweets\" Edison",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [
+          "Harry Edison"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Maynard Ferguson",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Conrad Gozzo",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milt Bernhart",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You",
+          "What Is This Thing Called Love?",
+          "I've Got You Under My Skin"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Howard",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You",
+          "What Is This Thing Called Love?",
+          "I've Got You Under My Skin"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Lloyd Ulyate",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You",
+          "What Is This Thing Called Love?",
+          "I've Got You Under My Skin"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "George Roberts",
+        "instrument": "bass trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All of You",
+          "What Is This Thing Called Love?",
+          "I've Got You Under My Skin"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Plays bass and baritone trombone."
+      },
+      {
+        "name": "Barney Kessel",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "Too Darn Hot",
+          "In the Still of the Night",
+          "I Get a Kick Out of You",
+          "Do I Love You?",
+          "Let's Do It, Let's Fall in Love",
+          "Just One of Those Things",
+          "Ev'ry Time We Say Goodbye",
+          "All of You",
+          "Begin the Beguine",
+          "Get Out of Town",
+          "I Am in Love",
+          "From This Moment On",
+          "I Love Paris",
+          "Ridin' High",
+          "You'd Be So Easy to Love",
+          "It's All Right with Me",
+          "Why Can't You Behave?",
+          "What Is This Thing Called Love?",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "So in Love",
+          "I've Got You Under My Skin",
+          "I Concentrate on You",
+          "Don't Fence Me In"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Mondragon",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "Too Darn Hot",
+          "In the Still of the Night",
+          "I Get a Kick Out of You",
+          "Do I Love You?",
+          "Let's Do It, Let's Fall in Love",
+          "Just One of Those Things",
+          "Ev'ry Time We Say Goodbye",
+          "All of You",
+          "Begin the Beguine",
+          "Get Out of Town",
+          "I Am in Love",
+          "From This Moment On",
+          "I Love Paris",
+          "Ridin' High",
+          "You'd Be So Easy to Love",
+          "It's All Right with Me",
+          "Why Can't You Behave?",
+          "What Is This Thing Called Love?",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "So in Love",
+          "I've Got You Under My Skin",
+          "I Concentrate on You",
+          "Don't Fence Me In"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Alvin Stoller",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "Too Darn Hot",
+          "In the Still of the Night",
+          "I Get a Kick Out of You",
+          "Do I Love You?",
+          "Let's Do It, Let's Fall in Love",
+          "Just One of Those Things",
+          "Ev'ry Time We Say Goodbye",
+          "All of You",
+          "Begin the Beguine",
+          "Get Out of Town",
+          "I Am in Love",
+          "From This Moment On",
+          "I Love Paris",
+          "Ridin' High",
+          "You'd Be So Easy to Love",
+          "It's All Right with Me",
+          "Why Can't You Behave?",
+          "What Is This Thing Called Love?",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "So in Love",
+          "I've Got You Under My Skin",
+          "I Concentrate on You",
+          "Don't Fence Me In"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Also percussion."
+      },
+      {
+        "name": "Corky Hale",
+        "instrument": "harp",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "In the Still of the Night",
+          "Do I Love You?",
+          "Always True to You in My Fashion",
+          "Ev'ry Time We Say Goodbye",
+          "Begin the Beguine",
+          "I Am in Love",
+          "I Love Paris",
+          "You Do Something to Me",
+          "Why Can't You Behave?",
+          "You're the Top",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "Ace in the Hole",
+          "So in Love",
+          "I Concentrate on You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "String section credit list is marked incomplete in the source."
+      },
+      {
+        "name": "Robert LaMarchina",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "In the Still of the Night",
+          "Do I Love You?",
+          "Always True to You in My Fashion",
+          "Ev'ry Time We Say Goodbye",
+          "Begin the Beguine",
+          "I Am in Love",
+          "I Love Paris",
+          "You Do Something to Me",
+          "Why Can't You Behave?",
+          "You're the Top",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "Ace in the Hole",
+          "So in Love",
+          "I Concentrate on You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "String section credit list is marked incomplete in the source."
+      },
+      {
+        "name": "Edgar Lustgarten",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "All Through the Night",
+          "Anything Goes",
+          "In the Still of the Night",
+          "Do I Love You?",
+          "Always True to You in My Fashion",
+          "Ev'ry Time We Say Goodbye",
+          "Begin the Beguine",
+          "I Am in Love",
+          "I Love Paris",
+          "You Do Something to Me",
+          "Why Can't You Behave?",
+          "You're the Top",
+          "Love for Sale",
+          "It's De-Lovely",
+          "Night and Day",
+          "Ace in the Hole",
+          "So in Love",
+          "I Concentrate on You"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "String section credit list is marked incomplete in the source."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "All Through the Night",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:15",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Anything Goes",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:21",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Miss Otis Regrets",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:00",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Too Darn Hot",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:47",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "In the Still of the Night",
+        "track_number": 5,
+        "side": "A",
+        "duration": "2:38",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Get a Kick Out of You",
+        "track_number": 6,
+        "side": "A",
+        "duration": "4:00",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Do I Love You?",
+        "track_number": 7,
+        "side": "A",
+        "duration": "3:50",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Bob Cooper",
+          "Ted Nash",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Always True to You in My Fashion",
+        "track_number": 8,
+        "side": "A",
+        "duration": "2:48",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Let's Do It, Let's Fall in Love",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:32",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Just One of Those Things",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:30",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ev'ry Time We Say Goodbye",
+        "track_number": 11,
+        "side": "B",
+        "duration": "3:32",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Bob Cooper",
+          "Ted Nash",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "All of You",
+        "track_number": 12,
+        "side": "B",
+        "duration": "1:43",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Pete Candoli",
+          "Harry \"Sweets\" Edison",
+          "Maynard Ferguson",
+          "Conrad Gozzo",
+          "Milt Bernhart",
+          "Joe Howard",
+          "Lloyd Ulyate",
+          "George Roberts",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Begin the Beguine",
+        "track_number": 13,
+        "side": "B",
+        "duration": "3:37",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Get Out of Town",
+        "track_number": 14,
+        "side": "B",
+        "duration": "3:22",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Am in Love",
+        "track_number": 15,
+        "side": "B",
+        "duration": "4:06",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Bob Cooper",
+          "Ted Nash",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "From This Moment On",
+        "track_number": 16,
+        "side": "B",
+        "duration": "3:17",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Love Paris",
+        "track_number": 17,
+        "side": "C",
+        "duration": "4:57",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Bob Cooper",
+          "Ted Nash",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "You Do Something to Me",
+        "track_number": 18,
+        "side": "C",
+        "duration": "2:21",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ridin' High",
+        "track_number": 19,
+        "side": "C",
+        "duration": "3:20",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "You'd Be So Easy to Love",
+        "track_number": 20,
+        "side": "C",
+        "duration": "3:24",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "It's All Right with Me",
+        "track_number": 21,
+        "side": "C",
+        "duration": "3:07",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Why Can't You Behave?",
+        "track_number": 22,
+        "side": "C",
+        "duration": "5:04",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Bob Cooper",
+          "Ted Nash",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "What Is This Thing Called Love?",
+        "track_number": 23,
+        "side": "C",
+        "duration": "2:02",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Milt Bernhart",
+          "Joe Howard",
+          "Lloyd Ulyate",
+          "George Roberts",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "You're the Top",
+        "track_number": 24,
+        "side": "C",
+        "duration": "3:33",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Love for Sale",
+        "track_number": 25,
+        "side": "D",
+        "duration": "5:52",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "It's De-Lovely",
+        "track_number": 26,
+        "side": "D",
+        "duration": "2:42",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Night and Day",
+        "track_number": 27,
+        "side": "D",
+        "duration": "3:04",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ace in the Hole",
+        "track_number": 28,
+        "side": "D",
+        "duration": "1:58",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "So in Love",
+        "track_number": 29,
+        "side": "D",
+        "duration": "3:50",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I've Got You Under My Skin",
+        "track_number": 30,
+        "side": "D",
+        "duration": "2:42",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Milt Bernhart",
+          "Joe Howard",
+          "Lloyd Ulyate",
+          "George Roberts",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Concentrate on You",
+        "track_number": 31,
+        "side": "D",
+        "duration": "3:11",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Herb Geller",
+          "Bud Shank",
+          "Chuck Gentry",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller",
+          "Corky Hale",
+          "Robert LaMarchina",
+          "Edgar Lustgarten"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Don't Fence Me In",
+        "track_number": 32,
+        "side": "D",
+        "duration": "3:19",
+        "session_date": null,
+        "composers": [
+          "Cole Porter",
+          "Robert Fletcher"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Barney Kessel",
+          "Joe Mondragon",
+          "Alvin Stoller"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "You're the Top (alternative take)",
+        "track_number": null,
+        "side": null,
+        "duration": "2:08",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": null,
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "I Concentrate on You (alternative take)",
+        "track_number": null,
+        "side": null,
+        "duration": "3:00",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": null,
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Let's Do It, Let's Fall in Love (alternative take)",
+        "track_number": null,
+        "side": null,
+        "duration": "5:25",
+        "session_date": null,
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": null,
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "dcc0d723-e27f-36e8-8438-dbbde7eb9a67",
+    "apple_album_id": "6788191143",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/1778c80c-9335-4c5b-8450-5cce087c7082/40832127657.jpg",
+        "is_original_cover": null,
+        "epistemic": "obs",
+        "notes": "Front cover from Cover Art Archive release 1778c80c-9335-4c5b-8450-5cce087c7082 in release group dcc0d723…; exact pressing not verified."
+      }
+    ],
+    "notes": "Two sessions: February 7-9, 1956 and March 27, 1956, both in Hollywood. Sources consulted (Wikipedia, AllMusic, Discogs, Bregman's own site) give the city but never the studio, so the site record is city-level with epistemic inf and no slug invented for a named room. Engineer is not credited in any source consulted (explicit null). Personnel comes from the CD-reissue liner notes as transcribed in the Wikipedia personnel table; the string section list there is explicitly marked incomplete, and the source states which tracks each wind/brass/rhythm section plays, which is what the per-track assignments here reproduce — no track assignment was inferred beyond those stated sections. Paul Smith is credited on piano/celeste on all tracks except 2.11. Track 27 (Night and Day) therefore has no piano. Three 1997-reissue alternate takes are listed with no session date and epistemic unk. Rating claims (Grammy Hall of Fame, National Recording Registry, Penguin, EPM, AllMusic, Rolling Stone) are all carried by source S1."
+  },
+  "ballot": {
+    "album": "Ella Fitzgerald — Ella Fitzgerald Sings the Cole Porter Song Book (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Inside the year window with no excluded-style gate; the disputed boundary is orchestral vocal jazz/traditional pop versus the canon's post-bebop center, not chronological eligibility. Both references question the dossier's cool-jazz classification."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "This is a defining Fitzgerald statement: Verve's inaugural release and the opening installment of her Songbook cycle, making sustained interpretation of a composer's work a major jazz-album achievement (S1, S3, S6). Grammy Hall of Fame recognition, National Recording Registry selection, and strong ratings across several critical guides constitute an exceptional consensus signal, although the dossier reports these through S1 rather than direct institutional citations. Fitzgerald's swing, phrasing, and lyrical clarity make Porter's repertoire an inviting discovery route into jazz standards, with substantial supporting jazz personnel including Barney Kessel, Bud Shank, and Harry Edison (S1–S2).",
+    "case_against": "Its stature as American vocal music does not automatically establish that it is load-bearing within a post-bebop discovery canon: Bregman's arranged orchestral settings foreground songs and polished interpretation rather than improvisational exchange. The strongest aesthetic objection is that this presentation teaches the prestige songbook tradition more directly than the musical developments at the canon's center. The evidence also needs tightening: institutional honors and guide ratings are mediated through Wikipedia, while claims that this album invented the format or directly underlies virtually every later standards project exceed what the supplied sources establish.",
+    "disagreement": "Reference 1 assigns consensus_core/must_have, treating the established vocal wing and Fitzgerald's jazz identity as sufficient to resolve the stylistic caveat; Reference 2 assigns scope_call/strong, treating the orchestral traditional-pop presentation as a substantive boundary requiring John's ruling. Both recognize the album's landmark stature and the sourcing and classification weaknesses; they disagree about whether that stature settles its fit within this particular canon.",
+    "recommendation": "The council proposes that John consider this a strong candidate and explicitly rule whether its defining orchestral Songbook achievement belongs within the canon's vocal-jazz scope.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
