@@ -1,0 +1,488 @@
+{
+  "id": "helen-merrill-helen-merrill-1955",
+  "artist": "Helen Merrill",
+  "album": "Helen Merrill",
+  "year": 1955,
+  "label": "EmArcy",
+  "apple_album_id": 1434909069,
+  "musicbrainz_release_group_mbid": "3ec00147-068d-3ae2-82cf-444f43c60c92",
+  "cover_art_url": "https://coverartarchive.org/release/169e502a-008f-4794-900b-25f70eb5b481/3038782692.jpg",
+  "style_primary": "cool-jazz",
+  "style_tags": [],
+  "rationale": "A debut that introduced two careers at once: Helen Merrill's, and Quincy Jones's as a small-group arranger, with Clifford Brown as the sole horn. Wikipedia's rating table records 4.5 stars from AllMusic, 4 stars from the Rolling Stone Jazz Record Guide and an A− from Tom Hull, and quotes AllMusic's Scott Yanow calling the date 'uplifted by the presence of Merrill (in top form) and Brown' (S1). AllMusic files it under Cool / Vocal Jazz / Standards and calls it 'an unmitigated success of mainstream jazz' (S2). Session gravity is unusual for a singer's first record: Brown, Jimmy Jones, Barry Galbraith, Milt Hinton and Osie Johnson on the first date, Oscar Pettiford and Bobby Donaldson on the second, all at Fine Sound over 22 and 24 December 1954 (S3). Discovery value is the point — a canonical vocal record the canon does not yet hold, and the closest companion to the Sarah Vaughan/Brown sessions recorded days earlier, which is already in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Helen Merrill (album) — track list with durations, personnel with per-track bass and drum assignments and Danny Bank doublings, recording dates 22–24 December 1954, studio Fine Sound Studios, 711 Fifth Avenue, NYC; rating table AllMusic 4.5/5, Rolling Stone Jazz Record Guide 4/5, Tom Hull A−",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Helen_Merrill_(album)"
+    },
+    "S2": {
+      "title": "AllMusic: Helen Merrill (Credits tab: Bob Shad producer; Quincy Jones arranger and conductor; Helen Merrill vocals; Clifford Brown trumpet; Danny Bank baritone sax/flute/bass clarinet; Jimmy Jones piano; Barry Galbraith guitar; Milt Hinton bass; Osie Johnson drums; Oscar Pettiford bass; review text; styles Cool, Vocal Jazz, Standards)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/helen-merrill-mw0000192193"
+    },
+    "S3": {
+      "title": "JazzDiscography.org (jazzdisco): Clifford Brown discography — Helen Merrill with Quincy Jones and His Orchestra, two sessions at Fine Sound, NYC, 22 December 1954 (Hinton, Osie Johnson; matrix 11087-11090) and 24 December 1954 (Pettiford, Donaldson; matrix 11091-11093), EmArcy MG-36006",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/clifford-brown/discography/"
+    },
+    "S4": {
+      "title": "Apple Music / iTunes Search API: Helen Merrill With Clifford Brown & Gil Evans, collectionId 1434909069 (15 tracks — the 1954 Brown sessions paired with the later Gil Evans-arranged sessions)",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/helen-merrill-with-clifford-brown-gil-evans/1434909069"
+    },
+    "S5": {
+      "title": "MusicBrainz: Helen Merrill release group 3ec00147-068d-3ae2-82cf-444f43c60c92; Cover Art Archive front image for release 169e502a-008f-4794-900b-25f70eb5b481",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/3ec00147-068d-3ae2-82cf-444f43c60c92"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1954-12-22",
+      "1954-12-24"
+    ],
+    "multi_session": true,
+    "studio": "Fine Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1954-12-22",
+        "site_raw": "Fine Sound, NYC",
+        "site_slug": "fine-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1954-12-24",
+        "site_raw": "Fine Sound, NYC",
+        "site_slug": "fine-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Shad",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Helen Merrill",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-12-22",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Debut album as leader."
+      },
+      {
+        "name": "Clifford Brown",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-12-22",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Sole horn on the date, three days after the Sarah Vaughan sessions of 16 and 18 December 1954 (S1)."
+      },
+      {
+        "name": "Danny Bank",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-12-22",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles flute on both dates (S1, S3) and bass clarinet per Wikipedia and AllMusic (S1, S2); the sessionography lists only flute and baritone sax, so the bass clarinet doubling rests on the album-level credits."
+      },
+      {
+        "name": "Jimmy Jones",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-12-22",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Barry Galbraith",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-12-22",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milt Hinton",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Don't Explain",
+          "You'd Be So Nice to Come Home To",
+          "Born to Be Blue",
+          "'S Wonderful"
+        ],
+        "session_dates": [
+          "1954-12-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "First session only."
+      },
+      {
+        "name": "Osie Johnson",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Don't Explain",
+          "You'd Be So Nice to Come Home To",
+          "Born to Be Blue",
+          "'S Wonderful"
+        ],
+        "session_dates": [
+          "1954-12-22"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "First session only."
+      },
+      {
+        "name": "Oscar Pettiford",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "What's New?",
+          "Falling in Love with Love",
+          "Yesterdays"
+        ],
+        "session_dates": [
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Second session only. Wikipedia also credits him on cello for these three tracks (S1); the sessionography lists bass only (S3) — the cello claim is recorded here as unconfirmed and not written as a performance."
+      },
+      {
+        "name": "Bobby Donaldson",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "What's New?",
+          "Falling in Love with Love",
+          "Yesterdays"
+        ],
+        "session_dates": [
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Second session only."
+      },
+      {
+        "name": "Quincy Jones",
+        "instrument": "arranger",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-12-22",
+          "1954-12-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also conductor on both dates (S1, S3) — an early small-group arranging credit for Jones."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Don't Explain",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:08",
+        "session_date": "1954-12-22",
+        "composers": [
+          "Billie Holiday",
+          "Arthur Herzog Jr."
+        ],
+        "personnel": [
+          "Helen Merrill",
+          "Clifford Brown",
+          "Danny Bank",
+          "Jimmy Jones",
+          "Barry Galbraith",
+          "Milt Hinton",
+          "Osie Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "You'd Be So Nice to Come Home To",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:17",
+        "session_date": "1954-12-22",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Helen Merrill",
+          "Clifford Brown",
+          "Danny Bank",
+          "Jimmy Jones",
+          "Barry Galbraith",
+          "Milt Hinton",
+          "Osie Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "What's New?",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:56",
+        "session_date": "1954-12-24",
+        "composers": [
+          "Bob Haggart",
+          "Johnny Burke"
+        ],
+        "personnel": [
+          "Helen Merrill",
+          "Clifford Brown",
+          "Danny Bank",
+          "Jimmy Jones",
+          "Barry Galbraith",
+          "Oscar Pettiford",
+          "Bobby Donaldson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Falling in Love with Love",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:52",
+        "session_date": "1954-12-24",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Helen Merrill",
+          "Clifford Brown",
+          "Danny Bank",
+          "Jimmy Jones",
+          "Barry Galbraith",
+          "Oscar Pettiford",
+          "Bobby Donaldson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Yesterdays",
+        "track_number": 5,
+        "side": "B",
+        "duration": "5:56",
+        "session_date": "1954-12-24",
+        "composers": [
+          "Jerome Kern",
+          "Otto Harbach"
+        ],
+        "personnel": [
+          "Helen Merrill",
+          "Clifford Brown",
+          "Danny Bank",
+          "Jimmy Jones",
+          "Barry Galbraith",
+          "Oscar Pettiford",
+          "Bobby Donaldson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Born to Be Blue",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:12",
+        "session_date": "1954-12-22",
+        "composers": [
+          "Mel Tormé",
+          "Robert Wells"
+        ],
+        "personnel": [
+          "Helen Merrill",
+          "Clifford Brown",
+          "Danny Bank",
+          "Jimmy Jones",
+          "Barry Galbraith",
+          "Milt Hinton",
+          "Osie Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "'S Wonderful",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:12",
+        "session_date": "1954-12-22",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Helen Merrill",
+          "Clifford Brown",
+          "Danny Bank",
+          "Jimmy Jones",
+          "Barry Galbraith",
+          "Milt Hinton",
+          "Osie Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "3ec00147-068d-3ae2-82cf-444f43c60c92",
+    "apple_album_id": 1434909069,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/169e502a-008f-4794-900b-25f70eb5b481/3038782692.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image from Cover Art Archive for a release in this release group; original-pressing identity not confirmed."
+      }
+    ],
+    "notes": "Two sessions, both at Fine Sound (711 Fifth Avenue, New York): 22 December 1954 (Don't Explain, You'd Be So Nice to Come Home To, Born to Be Blue, 'S Wonderful — Hinton and Osie Johnson) and 24 December 1954 (What's New?, Falling in Love with Love, Yesterdays — Pettiford and Donaldson) (S1, S3). Wikipedia gives the recording span as 22–24 December 1954; the sessionography documents only the 22nd and 24th, and no source assigns anything to the 23rd, so two dates are recorded. Released 1955 on EmArcy MG-36006 (S1, S3). Producer Bob Shad per AllMusic (S2); no source names an engineer. AllMusic's credits list is for a combined reissue entry and also carries Hank Jones (piano), Sol Gubin (drums) and Hal Mooney (arranger) from the later Gil Evans-arranged sessions that share that edition — those names belong to a different album and are excluded here (S2). The Apple Music edition (collectionId 1434909069) likewise pairs these seven tracks with the Gil Evans sessions."
+  },
+  "ballot": {
+    "album": "Helen Merrill — Helen Merrill (1955)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Merrill’s debut offers a distinctive modern-jazz vocal statement: her intimate phrasing and Clifford Brown’s lyrical responses make the standards a conversation between improvising voices, framed by Quincy Jones’s early small-group arrangements. The December 1954 sessions have exceptional personnel gravity, connecting Brown with Jimmy Jones, Barry Galbraith, Milt Hinton and Oscar Pettiford, among others (S3). AllMusic’s praise and the favorable Rolling Stone Jazz Record Guide and Tom Hull ratings support lasting listening value, though the latter ratings are reported through Wikipedia (S1–S2). Its strongest claim is as a defining Merrill record and an immediately rewarding demonstration of how the bebop generation transformed vocal accompaniment.",
+    "case_against": "The dossier establishes critical approval more securely than canonical consensus: it supplies no major canon-list placements or documented downstream influence, and session prestige alone does not establish a load-bearing album. With the contemporaneous Sarah Vaughan/Brown date already represented, Merrill’s record must earn its place through its distinctive interpretation rather than proximity to that celebrated session cluster. Claims that it launched Quincy Jones’s arranging career or featured Brown as the sole horn overstate the evidence; Danny Bank also participates (S1–S3). The linked digital edition combines the original seven tracks with later material, so album identity requires correction before presentation (S4).",
+    "disagreement": "Reference 1 judged the album contested/consider because critical approval and exceptional personnel do not establish broad canonical consensus or influence; Reference 2 judged it consensus_core/strong as Merrill’s definitive statement and an essential modern-jazz vocal text. Both agreed it is fully in scope; their substantive split concerns whether its distinctive artistry and session gravity make it load-bearing or an excellent companion to the Vaughan/Brown album.",
+    "recommendation": "The council proposes that John give the original seven-track EmArcy album strong consideration, weighing Merrill’s distinctive vocal statement against the limited evidence of broader canonical consensus and resolving the combined-edition metadata.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

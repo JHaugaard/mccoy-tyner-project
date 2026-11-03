@@ -1,0 +1,259 @@
+{
+  "id": "charles-mingus-charles-mingus-presents-charles-mingus-1960",
+  "artist": "Charles Mingus",
+  "album": "Charles Mingus Presents Charles Mingus",
+  "year": 1960,
+  "label": "Candid",
+  "apple_album_id": 1880972003,
+  "musicbrainz_release_group_mbid": "0bcac9b4-9ad2-3297-9a7d-a4c28cfb2f77",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/e2/f0/13e2f057-a779-bf43-b06f-6521ed76917e/109489.jpg/100x100bb.jpg",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "The quartet date at the centre of Mingus's 1960 creative peak and one of the records that carried post-bop composition into open form: 'Folk Forms, No. 1' is built on a bass ostinato the band must hear rather than read, and 'Original Faubus Fables' restores the lyric Columbia had refused. Wikipedia's rating table records 4.5 stars from AllMusic, 4 stars from the Penguin Guide to Jazz Recordings, 5 stars from the Rolling Stone Jazz Record Guide and 4 from DownBeat, and states the album is in the Penguin Guide's Core Collection (S1). AllMusic files it under Bop / Hard Bop / Post-Bop / Avant-Garde Jazz (S2). Session gravity is high: the working band of Mingus, Eric Dolphy, Ted Curson and Dannie Richmond, recorded at Nola Penthouse on 20 October 1960 and released by Nat Hentoff's Candid in January 1961 (S1, S3). Lineage runs straight into the canon already held: Dolphy's alto here sits beside Out to Lunch! and the Mingus of Mingus Ah Um and The Black Saint and the Sinner Lady.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Charles Mingus Presents Charles Mingus (track list, personnel, recording date and Nola Penthouse studio, release January 1961; rating table AllMusic 4.5/5, Penguin Guide 4/5, Rolling Stone Jazz Record Guide 5/5, DownBeat 4/5; states Penguin Guide Core Collection listing)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Mingus_Presents_Charles_Mingus"
+    },
+    "S2": {
+      "title": "AllMusic: Charles Mingus Presents Charles Mingus (Credits tab: Charles Mingus bass/arranger, Ted Curson trumpet, Eric Dolphy alto sax and bass clarinet, Dannie Richmond drums, Bob d'Orleans engineer, Nat Hentoff supervisor and liner notes; recording date 20 October 1960; recording location Nola Penthouse Sound Studios, New York, NY; styles Bop/Hard Bop/Post-Bop/Avant-Garde Jazz)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/charles-mingus-presents-charles-mingus-mw0000651477"
+    },
+    "S3": {
+      "title": "JazzDiscography.org (jazzdisco): Charles Mingus discography — session at Nola Penthouse Sound Studios, NYC, 20 October 1960, with Mingus, Curson, Dolphy, Richmond; track matrix list for Candid CJM 8005; 'Nat Hentoff, supervisor'",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/charles-mingus/discography/"
+    },
+    "S4": {
+      "title": "Apple Music / iTunes Search API: Charles Mingus Presents Charles Mingus (Remastered), collectionId 1880972003, Candid, 4 tracks",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/charles-mingus-presents-charles-mingus-remastered/1880972003"
+    },
+    "S5": {
+      "title": "MusicBrainz: Charles Mingus Presents Charles Mingus release group 0bcac9b4-9ad2-3297-9a7d-a4c28cfb2f77",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/0bcac9b4-9ad2-3297-9a7d-a4c28cfb2f77"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-10-20"
+    ],
+    "multi_session": false,
+    "studio": "Nola Penthouse Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1960-10-20",
+        "site_raw": "Nola Penthouse Sound Studios, New York, NY",
+        "site_slug": "nola-penthouse-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Nat Hentoff",
+    "engineer": "Bob d'Orleans",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charles Mingus",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Composer of all four pieces and credited arranger (S2). Speaks the introduction to each performance and sings the lyric on 'Original Faubus Fables' with Richmond (S1)."
+      },
+      {
+        "name": "Ted Curson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also bass clarinet on the session (S1, S2); sources do not assign the doubling to specific tracks, so it is recorded here rather than in a track assignment. AllMusic additionally credits flute (S2), which no session source confirms for this date — recorded as unconfirmed, not adopted."
+      },
+      {
+        "name": "Dannie Richmond",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-10-20"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Sings the lyric with Mingus on 'Original Faubus Fables' (S1)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Folk Forms, No. 1",
+        "track_number": 1,
+        "side": "A",
+        "duration": "13:08",
+        "session_date": "1960-10-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Original Faubus Fables",
+        "track_number": 2,
+        "side": "A",
+        "duration": "9:19",
+        "session_date": "1960-10-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "What Love?",
+        "track_number": 3,
+        "side": "B",
+        "duration": "15:23",
+        "session_date": "1960-10-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "All the Things You Could Be by Now If Sigmund Freud's Wife Was Your Mother",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:33",
+        "session_date": "1960-10-20",
+        "composers": [
+          "Charles Mingus"
+        ],
+        "personnel": [
+          "Charles Mingus",
+          "Ted Curson",
+          "Eric Dolphy",
+          "Dannie Richmond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "0bcac9b4-9ad2-3297-9a7d-a4c28cfb2f77",
+    "apple_album_id": 1880972003,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/e2/f0/13e2f057-a779-bf43-b06f-6521ed76917e/109489.jpg/100x100bb.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Artwork attached to the 2022 Candid remaster on Apple Music; not confirmed as the 1961 original sleeve. Cover Art Archive returned an error for this release group at gather time."
+      }
+    ],
+    "notes": "Single session, 20 October 1960, Nola Penthouse Sound Studios, New York — a studio date recorded to imitate the quartet's club set (Mingus introduces each piece and asks the 'audience' not to applaud), with release on Candid in January 1961 (S1). Year recorded 1960; year of first release 1961, recorded here as 1960. Personnel is a quartet throughout with no piano. Wikipedia and jazzdisco agree on the four-track programme; the same session also yielded material issued elsewhere on Candid (e.g. 'Stormy Weather'), which is not part of this album and is excluded. Producer credit is 'Nat Hentoff, supervisor' in jazzdisco and AllMusic, with Hentoff the founder of Candid and author of the liner notes (S1); recorded here as producer."
+  },
+  "ballot": {
+    "album": "Charles Mingus — Charles Mingus Presents Charles Mingus (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The dossier reports Penguin Guide Core Collection status and strong ratings across AllMusic, DownBeat, and the Rolling Stone Jazz Record Guide, providing substantial cross-tradition recognition, though most is mediated through Wikipedia (S1). The piano-less Mingus–Dolphy–Curson–Richmond quartet documents a distinctive, load-bearing bridge between blues-rooted post-bop composition and open-form improvisation, with personnel and session details corroborated by AllMusic and Jazzdisco (S2–S3). “Original Faubus Fables” supplies the political and vocal dimension absent from the earlier instrumental treatment, while the quartet’s exposed interplay offers a substantially different discovery experience from Mingus’s larger-ensemble masterpieces.",
+    "case_against": "The strongest canonical evidence—the Core Collection designation and breadth of critical ratings—is largely reported through one secondary aggregator rather than independently documented in the dossier (S1). The extended performances, exposed instrumentation, abrasive reed textures, and simulated nightclub introductions can make this a less immediately welcoming discovery record than its historical stature suggests. Its distinctive quartet language establishes a strong claim, but whether it is indispensable rather than an important further exploration remains arguable; specific claims about its formal innovations and Columbia’s refusal of the lyrics also deserve more direct sourcing.",
+    "disagreement": "Both references judge the album consensus_core and find no genuine scope boundary. They disagree on urgency: Reference 1 recommends strong, emphasizing indirect consensus sourcing and qualified indispensability, while Reference 2 recommends must_have, treating the quartet statement and vocal “Faubus” as essential.",
+    "recommendation": "The council proposes that John give this record strong-priority consideration as a consensus-core candidate, with direct verification of the reported guide recognition before final publication.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
