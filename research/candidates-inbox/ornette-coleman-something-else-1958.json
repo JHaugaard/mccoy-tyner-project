@@ -1,0 +1,446 @@
+{
+  "id": "ornette-coleman-something-else-1958",
+  "artist": "Ornette Coleman",
+  "album": "Something Else!!!!",
+  "year": 1958,
+  "label": "Contemporary",
+  "apple_album_id": 1444141220,
+  "musicbrainz_release_group_mbid": "d47a1752-401e-3816-9bad-eddee69dfdb5",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8a/aa/4b/8aaa4bd6-d3ce-5e42-e698-75fa9fd0fe46/00025218616324.rgb.jpg/100x100bb.jpg",
+  "style_primary": "avant-garde-jazz",
+  "style_tags": [
+    "free-jazz"
+  ],
+  "rationale": "Ornette Coleman's debut, and the record that starts the story this canon already tells four times over: The Shape of Jazz to Come, Change of the Century, This Is Our Music and Free Jazz are all in, with nothing before them. AllMusic calls it the album that 'shook up the jazz world', and files it under Avant-Garde Jazz and Free Jazz; All About Jazz (quoted in the Wikipedia article) credits it with introducing 'a new era in jazz' — music 'freed from the prevailing conventions of harmony, rhythm and melody'. The lineage case is the strongest available: this is the hinge record, still in bebop quintet instrumentation — alto, cornet, piano, bass, drums — played by the band (Cherry, Payne, Higgins, pianist Walter Norris) that would carry the language forward. The honest case-against is that the contemporary critical record is warm rather than rapturous: Penguin Guide gives it 3 stars, AllMusic 4.5, the Rolling Stone Jazz Record Guide 4 — good notices, not the canon-core ratings its successors earned, and later players were still catching up. It plays as a document of a band half-following its leader, which is exactly what makes it worth sending someone to.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Something Else!!!! (personnel incl. Don Cherry cornet and Walter Norris piano, track list with nine compositions and durations, release September 1958, recorded February 10, 22 and March 24 1958; ratings table: AllMusic 4.5 stars, Rolling Stone Jazz Record Guide 4, Penguin Guide 3; All About Jazz quote on 'a new era in jazz')",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Something_Else!!!!"
+    },
+    "S2": {
+      "title": "AllMusic: Something Else!!! The Music of Ornette Coleman — album page and Credits tab (styles Avant-Garde Jazz, Free Jazz; personnel Ornette Coleman alto sax, Don Cherry trumpet, Walter Norris piano, Don Payne bass, Billy Higgins drums; Lester Koenig producer; Roy DuNann engineer; recording location Contemporary's Studio, Los Angeles)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/mw0000198903"
+    },
+    "S3": {
+      "title": "JazzDiscography.com: Ornette Coleman discography, 1958 (Ornette Coleman Quintet — Don Cherry trumpet, Ornette Coleman alto, Walter Norris piano, Don Payne bass, Billy Higgins drums — Contemporary's studio, Los Angeles CA, February 10, 22 and March 24 1958; all nine titles on Contemporary C3551)",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/ornette-coleman/discography/"
+    },
+    "S4": {
+      "title": "Discogs: Ornette Coleman — Something Else!!!!, master 61707 (credits: Ornette Coleman alto sax/composer, Don Payne bass, Billy Higgins drums, Roy DuNann engineer, Nat Hentoff liner notes; master note 'Recorded February 10 and 12 and March 24, 1958 at Contemporary's studio in Los Angeles'; Contemporary C3551, US 1958)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/61707"
+    },
+    "S5": {
+      "title": "Apple Music via iTunes Search API: Something Else!!!! (The Music of Ornette Coleman), collectionId 1444141220, 9 tracks, artwork",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Ornette+Coleman+Something+Else&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "MusicBrainz: release group 'Something Else!!!! The Music of Ornette Coleman' (MBID, Contemporary S7551 / C3551 US 1958, AllMusic/Discogs cross-references)",
+      "type": "metadata",
+      "url": "https://musicbrainz.org/release-group/d47a1752-401e-3816-9bad-eddee69dfdb5"
+    },
+    "S7": {
+      "title": "Cover Art Archive: front cover image served for the Something Else!!!! release group",
+      "type": "artwork",
+      "url": "https://coverartarchive.org/release-group/d47a1752-401e-3816-9bad-eddee69dfdb5"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-02-10",
+      "1958-02-22",
+      "1958-03-24"
+    ],
+    "multi_session": true,
+    "studio": "Contemporary's Studio, Los Angeles, CA",
+    "recording_sites": [
+      {
+        "session_date": "1958-02-10",
+        "site_raw": "Contemporary's studio, Los Angeles, CA",
+        "site_slug": "contemporary-records-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1958-02-22",
+        "site_raw": "Contemporary's studio, Los Angeles, CA",
+        "site_slug": "contemporary-records-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1958-03-24",
+        "site_raw": "Contemporary's studio, Los Angeles, CA",
+        "site_slug": "contemporary-records-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Lester Koenig",
+    "engineer": "Roy DuNann",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ornette Coleman",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-10",
+          "1958-02-22",
+          "1958-03-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also composer of all nine titles."
+      },
+      {
+        "name": "Don Cherry",
+        "instrument": "cornet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-10",
+          "1958-02-22",
+          "1958-03-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Instrument conflict, preserved: Wikipedia's personnel list gives cornet (the form most discographies use); the AllMusic credits and jazzdisco both read 'trumpet'. Presence is agreed by all three."
+      },
+      {
+        "name": "Walter Norris",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-10",
+          "1958-02-22",
+          "1958-03-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "The only Coleman album with a pianist; Coleman dropped the chordal instrument from every record after this one."
+      },
+      {
+        "name": "Don Payne",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-10",
+          "1958-02-22",
+          "1958-03-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Not Charlie Haden — Haden joined the Coleman group later in 1958 (heard on the Hillcrest Club tapes of October 1958), which is a common conflation."
+      },
+      {
+        "name": "Billy Higgins",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-02-10",
+          "1958-02-22",
+          "1958-03-24"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Not Ed Blackwell, who plays on the later 1960s Atlantic records."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Invisible",
+        "track_number": 1,
+        "side": null,
+        "duration": "4:11",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Blessing",
+        "track_number": 2,
+        "side": null,
+        "duration": "4:45",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Jayne",
+        "track_number": 3,
+        "side": null,
+        "duration": "7:17",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Chippie",
+        "track_number": 4,
+        "side": null,
+        "duration": "5:37",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Disguise",
+        "track_number": 5,
+        "side": null,
+        "duration": "2:46",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Angel Voice",
+        "track_number": 6,
+        "side": null,
+        "duration": "4:19",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Alpha",
+        "track_number": 7,
+        "side": null,
+        "duration": "4:09",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "When Will the Blues Leave?",
+        "track_number": 8,
+        "side": null,
+        "duration": "4:58",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Sphinx",
+        "track_number": 9,
+        "side": null,
+        "duration": "4:13",
+        "session_date": null,
+        "composers": [
+          "Ornette Coleman"
+        ],
+        "personnel": [
+          "Ornette Coleman",
+          "Don Cherry",
+          "Walter Norris",
+          "Don Payne",
+          "Billy Higgins"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "d47a1752-401e-3816-9bad-eddee69dfdb5",
+    "apple_album_id": "1444141220",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8a/aa/4b/8aaa4bd6-d3ce-5e42-e698-75fa9fd0fe46/00025218616324.rgb.jpg/100x100bb.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Artwork served for the OJC/Contemporary digital release (collectionId 1444141220), which carries the original 'Something Else!!!!' sleeve; the LP was reissued with replacement cover art in stereo around 1959-60, so the pressing match is uncertain rather than observed."
+      }
+    ],
+    "notes": "Three sessions, all at Contemporary's studio in Los Angeles. Date conflict, preserved: jazzdisco and Wikipedia both give February 10, 22 and March 24, 1958; the Discogs master note reads 'February 10 and 12 and March 24, 1958'. I recorded the 10th/22nd/24th (two sources against one) and flag the Discogs '12th' here rather than silently dropping it. No source assigns individual titles to individual dates, so per-track session_date is null and the per-session entries carry the date the sources give them. Personnel notes: the Wikipedia 'History' section mentions Haden and Blackwell among the musicians Coleman assembled in Los Angeles, but neither plays on this album — all four sources that carry personnel list Payne and Higgins. Label of first issue: Contemporary C3551 (mono). Reissue credits on AllMusic (Joe Tarantino remastering, Nick Phillips reissue producer, Neil Tesser liner notes) are excluded as non-original; Nat Hentoff wrote the original notes."
+  },
+  "ballot": {
+    "album": "Ornette Coleman — Something Else!!!! (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Chronologically eligible; the permeable avant-garde/free-jazz boundary applies, but its conventional quintet instrumentation and blues/bebop foundations make this a direct bridge rather than an automatic genre exclusion."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Coleman's debut makes the transition from bebop-based small-group jazz to his later Atlantic language audible: Walter Norris's piano provides a chordal framework against which Coleman and Don Cherry's departures register, while Billy Higgins supplies a direct personnel link to subsequent recordings (S1–S3). Its nine Coleman compositions—including \"The Blessing\" and \"When Will the Blues Leave?\"—give it an identity beyond historical preparation, and its swinging, compact performances offer a promising teaching record for a listener wary of free jazz. AllMusic's reported 4.5-star rating supports its musical standing, although the dossier does not establish broad independent canon-list consensus (S1–S2).",
+    "case_against": "The conventional accompaniment can sound like a constraint rather than a productive bridge, leaving the ensemble less integrated than on Coleman's later quartet statements; documenting a breakthrough's preparation does not necessarily make this album a defining realization. The Penguin Guide's reported three stars and absence of documented independent core-list placements weaken the strongest rubric signal, even alongside favorable reviews (S1). Because the later albums already explain the breakthrough more fully, this debut must earn its place through its distinct musical experience—not simply because an existing artist narrative lacks its beginning.",
+    "disagreement": "Reference 1 judges the debut an exceptional free-jazz-gate case deserving consensus_core/must_have, treating its foundational lineage as indispensable; Reference 2 assigns contested/consider, finding the same transitional character aesthetically compromised and insufficiently supported by canonical consensus. Both recognize the bridge, but disagree over whether hearing its construction is essential discovery or optional historical context.",
+    "recommendation": "The council proposes that John give this strong but contested bridge candidate a focused listen, judging whether its distinctive piano-backed tension rewards discovery independently of its place before the Atlantic masterpieces.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
