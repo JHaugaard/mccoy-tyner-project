@@ -1,0 +1,346 @@
+{
+  "id": "herbie-hancock-mwandishi-1971",
+  "artist": "Herbie Hancock",
+  "album": "Mwandishi",
+  "year": 1971,
+  "label": "Warner Bros.",
+  "catalog_number": "Warner Bros. WS 1898",
+  "style_primary": "fusion",
+  "style_tags": [],
+  "rationale": "Mwandishi is the first album by the working band Hancock named for his own Swahili name: it is 'the first album to officially feature Hancock's Mwandishi sextet', with Bennie Maupin, Eddie Henderson, Julian Priester, Buster Williams and Billy Hart, recorded in a single session on New Year's Eve 1970, every member taking a Swahili name for the project [S1,S5] (obs). Rating evidence is enthusiast-strong but not a critics' lock: AllMusic gives it five stars, the Rolling Stone Jazz Record Guide three, the Penguin Guide to Jazz Recordings three [S1 review box] (obs) — thinner than a consensus-core record, and the case has to be made on lineage instead. Lineage, which is the test this gate applies rather than the genre label: the record stands between the two Hancocks the canon already holds, and jazzdisco's session index carries the identical sextet forward into Crossings (1972) and Sextant (1973) [S2] (obs), so this is a documented continuing ensemble rather than a one-off; AllMusic's style tags for the album — Fusion, Jazz-Funk, Post-Bop, Piano Jazz [S3] — describe electric texture carried inside long modal/post-bop forms, not backbeat rock. Session gravity: a settled sextet of first-call players, with Leon 'Ndugu' Chancler, José 'Chepito' Areas and Ronnie Montrose added as the 'also appearing' guests on the opening track only [S4,S2] (obs). It still plays: 'Ostinato (Suite for Angela)', built on a 15/8 cycle, and the 21-minute 'Wandering Spirit Song' are the pieces the Mwandishi band is remembered by [S1,S7] (inf). Boundary: this is a fusion-gate arrival under the rubric's opened-gate rule (fusion/free-jazz/ECM admitted 2026-07-28, arrivals lean scope_call or contested); the argument offered is continuity with the post-bop Hancock already in the canon, never the merit of fusion as a genre. John rules.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Mwandishi (album) (release March 1971; recorded January 1971 at Wally Heider Studios, San Francisco per the article; track list with durations; full personnel with Swahili names; review box: AllMusic 5/5, The Rolling Stone Jazz Record Guide 3/5, The Penguin Guide to Jazz Recordings 3/5; MusicBrainz release-group id)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Mwandishi"
+    },
+    "S2": {
+      "title": "jazzdisco.org — Herbie Hancock discography, session index (entry 'The Herbie Hancock Sextet': Wally Heider Recording, San Francisco, CA, December 1970; personnel per session including the 'also appearing' guests on tracks 1 and 4; the same sextet on the Crossings 1972 and Sextant 1972 sessions)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/herbie-hancock/discography/"
+    },
+    "S3": {
+      "title": "AllMusic — Mwandishi album page (release date 1971; recording date December 1970; recording location Wally Heider Recording Studios, San Francisco, CA; styles Fusion, Jazz-Funk, Post-Bop, Piano Jazz)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/mwandishi-mw0000121324"
+    },
+    "S4": {
+      "title": "Discogs — Herbie Hancock, Mwandishi, original US LP (Warner Bros. WS 1898, release r1307670): credits (producer David Rubinson for Fillmore Corporation, engineer Fred Catero of Catero Sound Company, assistant recording engineer Aulikki Niitynen, executive producer Lee Weisel, arranger Herbie Hancock), 'Recorded At – Wally Heider Studios', track-level guests on A1, Swahili/English name pairings",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/1307670-Herbie-Hancock-Mwandishi"
+    },
+    "S5": {
+      "title": "herbiehancock.com — official discography page for Mwandishi: 'recorded in a single session on New Year's Eve', 'Recorded December 31, 1970 at Wally Heider Recording Studios, San Francisco, CA', producer David Rubinson for Fillmore Corporation, engineered by Fred Catero, assistant engineer Aulikki Niitynen, 'Originally released as WS-1898 in 1971'",
+      "type": "web",
+      "url": "https://www.herbiehancock.com/music/discography/album/mwandishi/"
+    },
+    "S6": {
+      "title": "iTunes Search API — album lookup 'Herbie Hancock Mwandishi' (collectionId 818619053, 'Mwandishi', 3 tracks, releaseDate 1971-01-01, ℗ 1971 Warner Records Inc.)",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Herbie+Hancock+Mwandishi&entity=album&limit=5"
+    },
+    "S7": {
+      "title": "vinylstandard.com — 'Herbie Hancock: Album Reviews, 1962 to 1983': records the date dispute ('Wikipedia puts these sessions in January 1971; jazzdisco and the Discogs jackets say December 1970'), confirms producer Rubinson, engineer Catero and the Wally Heider room, calls it 'the first album by the sextet as a working band', and rates it four and a half stars",
+      "type": "web",
+      "url": "https://vinylstandard.com/herbie-hancock.html"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-12-31"
+    ],
+    "multi_session": false,
+    "studio": "Wally Heider Recording Studios, San Francisco, California",
+    "recording_sites": [
+      {
+        "session_date": "1970-12-31",
+        "site_raw": "Wally Heider Recording Studios, San Francisco, CA (written 'Wally Heider Recording' and 'Wally Heider Studios' in the sources; single session on New Year's Eve)",
+        "site_slug": "wally-heider-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "David Rubinson",
+    "engineer": "Fred Catero",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Herbie Hancock",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [
+          "Mwandishi"
+        ],
+        "notes": "Fender Rhodes electric piano on all three titles; also arranger and composer of 'Ostinato (Suite for Angela)' and 'You'll Know When You Get There'. The instrument taxonomy has no synthesizer entry; Wikipedia credits Fender Rhodes only, Discogs likewise, so the Rhodes is the recorded instrument."
+      },
+      {
+        "name": "Eddie Henderson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [
+          "Mganga",
+          "Dr. Eddie Henderson"
+        ],
+        "notes": "Also flugelhorn (both sources). Swahili name Mganga."
+      },
+      {
+        "name": "Julian Priester",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [
+          "Pepo Mtoto"
+        ],
+        "notes": "Tenor and bass trombone (Wikipedia); Discogs says 'Trombones'. Composer of 'Wandering Spirit Song'. Swahili name Pepo Mtoto."
+      },
+      {
+        "name": "Bennie Maupin",
+        "instrument": "bass clarinet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [
+          "Benny Maupin",
+          "Mwile"
+        ],
+        "notes": "Also alto flute and piccolo (Wikipedia); Discogs credits bass clarinet and alto flute. Swahili name Mwile."
+      },
+      {
+        "name": "Buster Williams",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [
+          "Mchezaji"
+        ],
+        "notes": "Wikipedia credits 'bass guitar, double bass'; Discogs credits bass. Recorded as double bass with the electric credited here. Swahili name Mchezaji."
+      },
+      {
+        "name": "Billy Hart",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ],
+        "name_variants": [
+          "Jabali"
+        ],
+        "notes": "Swahili name Jabali."
+      },
+      {
+        "name": "Leon \"Ndugu\" Chancler",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ostinato (Suite for Angela)"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Ndugu",
+          "Leon Chancler"
+        ],
+        "notes": "Listed among the 'also appearing' guests on the opening title only; also percussion (Wikipedia, jazzdisco)."
+      },
+      {
+        "name": "José \"Chepito\" Areas",
+        "instrument": "congas",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ostinato (Suite for Angela)"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Jose \"Cepito\" Areas",
+          "José Areas"
+        ],
+        "notes": "Also timbales; 'also appearing' guest on the opening track only."
+      },
+      {
+        "name": "Ronnie Montrose",
+        "instrument": "electric guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Ostinato (Suite for Angela)"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Ron Montrose"
+        ],
+        "notes": "Discogs and jazzdisco spell him 'Ron Montrose'; Wikipedia and his own credits 'Ronnie Montrose'. 'Also appearing' guest on the opening track only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Ostinato (Suite for Angela)",
+        "track_number": 1,
+        "side": "A",
+        "duration": "13:10",
+        "session_date": "1970-12-31",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Eddie Henderson",
+          "Julian Priester",
+          "Bennie Maupin",
+          "Buster Williams",
+          "Billy Hart",
+          "Leon \"Ndugu\" Chancler",
+          "José \"Chepito\" Areas",
+          "Ronnie Montrose"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "You'll Know When You Get There",
+        "track_number": 2,
+        "side": "A",
+        "duration": "10:22",
+        "session_date": "1970-12-31",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Eddie Henderson",
+          "Julian Priester",
+          "Bennie Maupin",
+          "Buster Williams",
+          "Billy Hart"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Wandering Spirit Song",
+        "track_number": 3,
+        "side": "B",
+        "duration": "21:26",
+        "session_date": "1970-12-31",
+        "composers": [
+          "Julian Priester"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Eddie Henderson",
+          "Julian Priester",
+          "Bennie Maupin",
+          "Buster Williams",
+          "Billy Hart"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "6827887f-d53d-3c73-b63f-155379cc005c",
+    "apple_album_id": "818619053",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/6827887f-d53d-3c73-b63f-155379cc005c/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive release-group front image (verified present for release group 6827887f); front cover design credited to Bonnie Schiffman and Robin Mitchell (S4)."
+      }
+    ],
+    "notes": "Single session. Hancock's own discography gives the specific day — December 31, 1970, 'recorded in a single session on New Year's Eve' (S5) — and jazzdisco says 'December, 1970' (S2); Wikipedia and one review say January 1971 (S1, S7). The December 1970 date is recorded here, the conflict preserved. Album durations differ by pressing: Wikipedia lists 13:10 / 10:22 / 21:26, the original 1971 LP as entered on Discogs 13:05 / 10:01 / 21:23. herbiehancock.com's credit block (S5) additionally lists Bernard Purdie, Johnny Coles and Joe Farrell, whom no session-level source (jazzdisco, Wikipedia, AllMusic, Discogs) places on these sessions; treated as a credits-page discrepancy rather than personnel, and flagged rather than dropped. Chancler, Areas and Montrose are 'also appearing' on 'Ostinato (Suite for Angela)' only (S4, S2)."
+  },
+  "ballot": {
+    "album": "Herbie Hancock — Mwandishi (1971)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The opened fusion gate and its bridge test are in play: does the electric ensemble extend post-bop/modal practice sufficiently to serve this canon? The recording-date dispute does not affect eligibility, and the 1973+ continuity-band rule does not apply."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Mwandishi documents the founding statement of a sustained working sextet, with Hancock, Maupin, Henderson, Priester, Williams and Hart continuing together into Crossings and Sextant (S1, S2, S7). Its extended forms, electric-piano textures and collective improvisation offer a persuasive bridge from post-bop/modal exploration into electric jazz rather than treating rock backbeat as the organizing principle; AllMusic's Post-Bop and Piano Jazz tags support that reading (S3). The ensemble's gravity and the contrasting worlds of 'Ostinato' and the side-long 'Wandering Spirit Song' give the album distinctive discovery value, beyond merely documenting an early fusion experiment.",
+    "case_against": "The supplied reception evidence does not establish broad canonical consensus: AllMusic's five-star rating sits beside three-star assessments from Penguin and the Rolling Stone Jazz Record Guide, reported through S1 rather than directly sourced reviews. Being the sextet's first statement does not establish that it is its definitive one; the dossier documents continuity into Crossings and Sextant but does not demonstrate why this album is the strongest anchor for that trajectory. Its expansive, sometimes diffuse electric improvisation may also be less immediately illuminating for this personal discovery canon, while claims of lasting influence and listening durability remain less securely sourced than the session history.",
+    "disagreement": "Both references agree on scope_call and strong, with no substantive scope disagreement. They differ in emphasis: Reference 1 treats the founding sextet document as a defining statement, while Reference 2 questions whether it is an embryonic statement better represented by Sextant; the dossier does not settle that comparative judgment.",
+    "recommendation": "The council proposes John give Mwandishi strong listening priority as a fusion-bridge candidate and assess whether this founding statement best represents the sextet's contribution.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "id": "lambert-hendricks-ross-the-hottest-new-group-in-jazz-1959",
+  "artist": "Lambert, Hendricks & Ross",
+  "album": "The Hottest New Group in Jazz",
+  "year": 1959,
+  "label": "Columbia",
+  "catalog_number": "Columbia CL 1403 (mono) / CS 8198 (stereo)",
+  "style_primary": "bebop",
+  "style_tags": [],
+  "rationale": "The Hottest New Group in Jazz is the record that fixed vocalese as a small-group art rather than a novelty: the trio's fourth album and its first for Columbia, released December 1959 and titled after DownBeat's September 1959 cover headline about the group [S1,S2] (obs). Rating evidence is broad if not unanimous — AllMusic five stars, DownBeat four and a half (Ira Gitler, 3 March 1960), the Penguin Guide to Jazz Recordings four on the CD reissue [S1 review box] (obs), and the album was Grammy-nominated [S2] (obs). Defining statement: ten titles in under thirty minutes carrying the act's signature repertoire — 'Twisted' (Annie Ross's lyric on Wardell Gray's solo), 'Moanin'' (Jon Hendricks's lyric on Bobby Timmons's tune), 'Cloudburst', 'Centerpiece', and 'Summertime' recast from the Miles Davis/Gil Evans recording [S1,S9] (obs); a contemporary essay calls it 'their definitive statement' [S9] (obs). Lineage: the trio's method — Hendricks writing lyrics to recorded solos, Lambert arranging and multi-tracking the three voices — extends the bop language the canon already holds, and the repertoire here is drawn straight from it (Wardell Gray, Bobby Timmons, Nat Adderley, Horace Silver's circle, Miles/Gil Evans) [S1,S2] (obs). Session gravity: Harry 'Sweets' Edison, a Basie veteran, is the featured trumpet voice over the Ike Isaacs Trio of Gildo Mahones, Ike Isaacs and Walter Bolden [S4,S5] (obs). Structural gap in this canon: of 325 included albums only 29 carry any vocalist at all, and a check of the included set finds no vocalese album — this is the missing line, not another hard-bop date [S8] (obs). Style note: the taxonomy has no vocal-jazz code, so the album is recorded under its idiom's root, bebop, consistent with the canon's other vocal-led records (Betty Carter's 1980 live set is coded bebop). Release year is given as 1959 per Wikipedia and the Discogs masters; AllMusic dates this ten-track edition 1960 [S1,S4,S6] — conflict preserved.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — The Hottest New Group in Jazz (released December 1959, Columbia; producers Teo Macero and Irving Townsend; track listing with durations and composers; personnel and production for the combined CD reissue; review box: AllMusic 5/5, DownBeat 4.5/5, The Penguin Guide to Jazz Recordings 4/5 (CD reissue); 'The title is a quote from Downbeat magazine'; authority control lists MusicBrainz release groups 1cea6ebc and 3e8dffc9)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Hottest_New_Group_in_Jazz"
+    },
+    "S2": {
+      "title": "Wikipedia — Jon Hendricks (the trio formed after Sing a Song of Basie; 'In September 1959, they appeared on the cover of DownBeat magazine under the headline \"The Hottest New Group in Jazz\", which they adopted as the title of their Grammy-nominated fourth album'; Hendricks as lyricist, Lambert as arranger; vocalese method including multi-tracked voices)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Jon_Hendricks"
+    },
+    "S3": {
+      "title": "MusicBrainz — release 41c65ce8 (The Hottest New Group in Jazz, 1996 two-CD edition): per-track recording credits showing two session dates, 1959-08-06 and 1959-11-04, with Ike Isaacs (double bass), Walter Bolden (drums), Gildo Mahones (piano), Harry 'Sweets' Edison (trumpet) and the three vocalists on the titles that make up this album",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release/41c65ce8-a6fe-489c-b5c9-e1491e84d0fc"
+    },
+    "S4": {
+      "title": "Discogs — Lambert, Hendricks & Ross, The Hottest New Group In Jazz, original US LP (Columbia CL 1403, deep-groove mono, release r9048139; master 301464): track list with sides, durations and composers; credits 'Accompanied By, Orchestra – The Ike Isaacs Trio' and 'Featuring, Trumpet – Harry Edison'; matrix numbers XLP 48354/48355",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/9048139-Lambert-Hendricks-Ross-The-Hottest-New-Group-In-Jazz"
+    },
+    "S5": {
+      "title": "German Wikipedia — Jon Hendricks discography table (row: The Hottest New Group in Jazz, Columbia, released 1959, recorded 1959, 'mit Sweets Edison (tp), Gildo Mahones (p), Ike Isaacs (kb), Walter Bolden (dr)')",
+      "type": "web",
+      "url": "https://de.wikipedia.org/wiki/Jon_Hendricks/Diskografie"
+    },
+    "S6": {
+      "title": "AllMusic — The Hottest New Group In Jazz album page (mw0000972087: release date 1960; styles Bop, Traditional Pop, Vocalese, Vocal Jazz; ten-track original running order)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-hottest-new-group-in-jazz-mw0000972087"
+    },
+    "S7": {
+      "title": "iTunes Search API — album lookup 'Lambert Hendricks Ross Hottest New Group' (collectionId 1153492828, 'The Hottest New Group in Jazz', 10 tracks, releaseDate 1960-01-01, '℗ Originally released 1959 … Columbia Records, a division of Sony Music Entertainment')",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Lambert+Hendricks+Ross+Hottest+New+Group&entity=album&limit=5"
+    },
+    "S8": {
+      "title": "Jazz Canon database check, 2026-11-05 (_jazzcanon.album and _jazzcanon.performance): 325 albums with canon_status='included'; 29 of them carry any performer on the 'voice' instrument; no album by Lambert, Hendricks & Ross, King Pleasure, Eddie Jefferson or any other vocalese artist",
+      "type": "web",
+      "url": null
+    },
+    "S9": {
+      "title": "Listening Sessions — 'Lambert, Hendricks & Ross and the Hip Life' (essay: the first Columbia album, 'recorded and released in 1959', 'remains their definitive statement'; Charleston Alley answered by 'Harry \"Sweets\" Edison, the first of five appearances by him on the album, with a rhythm section of Gildo Mahones on piano, Ike Isaacs on bass and Walter Bolden on drums')",
+      "type": "web",
+      "url": "https://www.listeningsessions.ca/p/lambert-hendricks-and-ross-and-the"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-08-06",
+      "1959-11-04"
+    ],
+    "multi_session": true,
+    "studio": null,
+    "recording_sites": [
+      {
+        "session_date": "1959-08-06",
+        "site_raw": null,
+        "site_slug": null,
+        "site_new": null,
+        "epistemic": "unk",
+        "source": null
+      },
+      {
+        "session_date": "1959-11-04",
+        "site_raw": null,
+        "site_slug": null,
+        "site_new": null,
+        "epistemic": "unk",
+        "source": null
+      }
+    ],
+    "producer": "Teo Macero and Irving Townsend",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Dave Lambert",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S9"
+        ],
+        "name_variants": [
+          "Dave Lambert (American jazz vocalist)"
+        ],
+        "notes": "Trio vocalist and the group's arranger ('Hendricks as lyricist and Lambert as arranger', S2)."
+      },
+      {
+        "name": "Jon Hendricks",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S9"
+        ],
+        "name_variants": [],
+        "notes": "Trio vocalist and lyricist; writes the lyrics to most of the album's titles (S1, S2)."
+      },
+      {
+        "name": "Annie Ross",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S9"
+        ],
+        "name_variants": [],
+        "notes": "Trio vocalist; wrote the lyric to 'Twisted' (S1)."
+      },
+      {
+        "name": "Gildo Mahones",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Member of the Ike Isaacs Trio, the accompanying group on both sessions; composed 'Blue' for the group's later Columbia sessions, not on this album."
+      },
+      {
+        "name": "Ike Isaacs",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [
+          "Ike Isaacs (bassist)"
+        ],
+        "notes": "Leader of the Ike Isaacs Trio credited on the original LP as 'Accompanied By, Orchestra' (S4)."
+      },
+      {
+        "name": "Walter Bolden",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S4",
+          "S5"
+        ],
+        "name_variants": [],
+        "notes": "Member of the Ike Isaacs Trio."
+      },
+      {
+        "name": "Harry \"Sweets\" Edison",
+        "instrument": "trumpet",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "unk",
+        "sources": [
+          "S4",
+          "S5",
+          "S9"
+        ],
+        "name_variants": [
+          "Harry Edison",
+          "Sweets Edison"
+        ],
+        "notes": "His presence on the album is documented three ways — 'Featuring, Trumpet – Harry Edison' on the original LP credits (S4), the German discography's 'mit Sweets Edison (tp)' (S5), and the essay naming him as the trumpet soloist on 'Charleston Alley' (S9). Track-level attribution conflicts: MusicBrainz credits him on all ten titles (S3), while the same essay counts 'five appearances by him on the album' (S9), which fits the five titles cut on 1959-08-06. Per the personnel contract, inference is not written into track assignments, so he is recorded as an album-level contribution with the scope unresolved; track_assignments_complete is false for that reason."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Charleston Alley",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:18",
+        "session_date": "1959-08-06",
+        "composers": [
+          "Horace Henderson",
+          "Jon Hendricks",
+          "Leroy Kirkland"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Moanin'",
+        "track_number": 2,
+        "side": "A",
+        "duration": "2:35",
+        "session_date": "1959-08-06",
+        "composers": [
+          "Bobby Timmons",
+          "Jon Hendricks"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Twisted",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:16",
+        "session_date": "1959-08-06",
+        "composers": [
+          "Wardell Gray",
+          "Annie Ross"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Bijou",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:18",
+        "session_date": "1959-11-04",
+        "composers": [
+          "Ralph Burns",
+          "Jon Hendricks"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Cloudburst",
+        "track_number": 5,
+        "side": "A",
+        "duration": "2:16",
+        "session_date": "1959-08-06",
+        "composers": [
+          "Jimmy Harris",
+          "Leroy Kirkland"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Centerpiece",
+        "track_number": 6,
+        "side": "B",
+        "duration": "2:26",
+        "session_date": "1959-08-06",
+        "composers": [
+          "Harry Edison",
+          "Jon Hendricks"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Gimme That Wine",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:00",
+        "session_date": "1959-11-04",
+        "composers": [
+          "Jon Hendricks"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Sermonette",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:46",
+        "session_date": "1959-11-04",
+        "composers": [
+          "Nat Adderley",
+          "Jon Hendricks"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Summertime",
+        "track_number": 9,
+        "side": "B",
+        "duration": "1:38",
+        "session_date": "1959-11-04",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin",
+          "DuBose Heyward"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Everybody's Boppin'",
+        "track_number": 10,
+        "side": "B",
+        "duration": "4:11",
+        "session_date": "1959-11-04",
+        "composers": [
+          "Jon Hendricks"
+        ],
+        "personnel": [
+          "Dave Lambert",
+          "Jon Hendricks",
+          "Annie Ross",
+          "Gildo Mahones",
+          "Ike Isaacs",
+          "Walter Bolden"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "1cea6ebc-02b3-3dec-bf4c-23cc78dea9df",
+    "apple_album_id": "1153492828",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "wikimedia",
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/83/Album_cover_for_Lambert%2C_Hendricks%2C_%26_Ross%21.jpg",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Original 1959 Columbia LP cover as reproduced on the Wikipedia album article (fair-use file). Cover Art Archive holds no image for the original release group 1cea6ebc (verified: 404), and its only art sits under the 1996 reissue release group, so the Wikipedia file is used rather than a CAA URL that does not exist."
+      }
+    ],
+    "notes": "Two sessions, dated from MusicBrainz's per-recording credits: 1959-08-06 (Charleston Alley, Moanin', Twisted, Cloudburst, Centerpiece) and 1959-11-04 (Bijou, Gimme That Wine, Sermonette, Summertime, Everybody's Boppin'). The recording venue is undocumented in every source reached — the LP credits, the Discogs submissions, AllMusic, Wikipedia and MusicBrainz's per-track credits give dates and personnel but no room, and AllMusic's only recording-location field belongs to the 1996 three-album compilation (1960-62). No place is asserted; both sessions are recorded with site_raw/site_slug/site_new null and epistemic 'unk'. Studio is null for the same reason, not because the field was skipped. Producers are Teo Macero and Irving Townsend (S1); no engineer is named on the original release (null). The 1996 two-CD edition combines this album with Sing Ellington and High Flying and adds 1962 rarities, so its personnel list (Ron Carter, Stu Martin, Pony Poindexter, William Yancy, Jimmy Wormworth) belongs to those other albums and is deliberately not carried here; only the Ike Isaacs Trio plus Edison is credited on the original LP (S4, S5). Durations follow the original LP as entered on Discogs; Wikipedia's listing is slightly different on every title (e.g. 3:21 vs 3:18 for Charleston Alley). Release year 1959 (Wikipedia, Discogs) vs 1960 (AllMusic) — conflict preserved."
+  },
+  "ballot": {
+    "album": "Lambert, Hendricks & Ross — The Hottest New Group in Jazz (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Both the 1959 and alternative 1960 release dates are within the window. The references disagree on whether vocalese presents an implicit stylistic boundary: one regards its bebop lineage as unambiguously in scope, while the other sees a test of the canon's instrumental center of gravity; no explicit rule excludes it."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a defining small-group vocalese statement: 'Twisted,' 'Moanin’,' 'Cloudburst,' and 'Centerpiece' make instrumental jazz language intelligible as intricate, swinging vocal performance, and S9 explicitly calls it the trio's definitive statement. Strong reception spans AllMusic, contemporary DownBeat, and the Penguin Guide, although the dossier reports those ratings through S1 and the Penguin assessment concerns a reissue. Its direct bebop and hard-bop repertoire, supported by the Ike Isaacs Trio and Harry 'Sweets' Edison, establishes musical continuity rather than merely a genre-coverage claim [S1–S5, S9]. With no vocalese album documented in the included collection, it offers a substantial new discovery path grounded in the canon's existing language [S8].",
+    "case_against": "The strongest competing claim belongs to Sing a Song of Basie: that earlier breakthrough may better explain the trio's historical innovation, whereas this album crystallizes an established approach. Excellent review scores do not establish repeated canonical-list recognition, and the dossier supplies neither substantial musician testimony nor strong album-specific influence evidence; its definitive-statement claim rests chiefly on one retrospective essay. The comic delivery and virtuoso lyric-setting can also register as period entertainment rather than emotionally durable jazz for a newcomer, making the discovery test a genuine listening question. Indirect review sourcing and unresolved Edison track credits warrant caution, though neither the unknown venue nor the harmless release-year discrepancy is a substantive reason to reject it.",
+    "disagreement": "Reference 1 votes consensus_core/strong, judging the objections to qualify the rhetoric rather than undermine the album's canonical standing; Reference 2 votes contested/strong, giving greater weight to Sing a Song of Basie's foundational claim and vocalese's potentially dated presentation. They also disagree over scope: Reference 1 explicitly rejects a vocalese boundary, while Reference 2 identifies an implicit aesthetic boundary despite acknowledging chronological and formal eligibility.",
+    "recommendation": "The council proposes that John give this strong-priority listening consideration alongside Sing a Song of Basie, judging whether its mature small-group vocalese best serves the canon's discovery purpose.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
