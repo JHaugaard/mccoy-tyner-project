@@ -1,0 +1,386 @@
+{
+  "id": "joe-pass-virtuoso-1973",
+  "artist": "Joe Pass",
+  "album": "Virtuoso",
+  "year": 1973,
+  "label": "Pablo",
+  "catalog_number": "Pablo 2310-708",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "Virtuoso fills a hole this canon visibly has: after three Wes Montgomery records it holds no solo-jazz-guitar album at all, and this is the one the tradition settled on. Recorded in a single solo session on August 28, 1973 at MGM Recording Studios in Los Angeles, produced by Norman Granz and released that December on Pablo [S2,S3,S7] (obs), it is Pass alone with eleven standards and one original — no band, no overdubs, no second guitar — with All About Jazz describing him 'play[ing] lead melody lines, chords, and bass rhythm simultaneously and at tempo, giving the listener the impression that multiple guitars were being played' [S2] (obs). Consensus, which is the rubric's strongest signal and here comes from independently edited traditions rather than one source repeated: AllMusic 5/5, The Rolling Stone Jazz Record Guide 5/5, The Penguin Guide to Jazz Recordings 4 stars, and a place in the Penguin's suggested 'core collection' of essential recordings [S2] (obs). Defining statement and reach: it 'outsold nearly every other release in the Pablo catalog and established Pass as the premier mainstream jazz guitarist of the time', reaching #16 on the Billboard Jazz Albums chart in 1974 [S2] (obs), and Granz gave Pass the same solo-songbook treatment he had given Art Tatum twenty years earlier [S6] (obs). It still plays — this is the record handed to a guitarist who asks what solo jazz guitar is, and it teaches the whole apparatus of chord-melody playing in under an hour [S2] (inf). Boundary, named rather than assumed: 1973 puts this in the window band the rubric says leans scope_call by default, so the continuity test is stated here — acoustic, straight-time, standard-song-form playing with no electric-rock vocabulary, no backbeat and no studio construction; it extends the pre-1970 mainstream tradition rather than founding anything new [S1,S2] (inf). Rated against the tradition it comes out of, the record is worth John's yes/no on the boundary, not on the playing.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic — Virtuoso (mw0000649680): styles Bop / Mainstream Jazz / Solo Instrumental / Guitar Jazz / Jazz Instrument; recording date August 28, 1973; recording location printed 'JVC Studios' — conflicts with S2, S6 and S7, which all name MGM Recording Studios",
+      "type": "database",
+      "url": "https://www.allmusic.com/album/virtuoso-mw0000649680"
+    },
+    "S2": {
+      "title": "Wikipedia — Virtuoso (Joe Pass album): recorded August 28, 1973 at MGM Recording Studios, Los Angeles; released December 1973; Pablo; producer Norman Granz; full 12-track listing with durations; ratings box AllMusic 5/5, The Rolling Stone Jazz Record Guide 5/5, The Penguin Guide to Jazz Recordings 4 stars with 'core collection' listing; All About Jazz quotations; Billboard Jazz Albums #16 (1974); Pablo sales claim",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Virtuoso_(Joe_Pass_album)"
+    },
+    "S3": {
+      "title": "Discogs — Virtuoso, US LP (r11117733), Pablo 2310 708: side and track listing with durations; credits Joe Pass guitar, Norman Granz producer, Dennis Sands engineer, Benny Green liner notes, Phil Stern photo; ℗ 1974 Pablo Records",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/11117733-Joe-Pass-Virtuoso"
+    },
+    "S4": {
+      "title": "MusicBrainz — Virtuoso release group (bb4014c9-b248-3eaa-8fea-8610e656f851): US 12\" Pablo 2310-708 with 12 tracks; CD and reissue lineage (Pablo, Original Jazz Classics, Craft 2025); release-group identifier",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/bb4014c9-b248-3eaa-8fea-8610e656f851"
+    },
+    "S5": {
+      "title": "iTunes Search API — 'Joe Pass Virtuoso': collectionId 1797676022, 'Virtuoso (Remastered 2025)', 12 tracks (the only current Apple edition of this album; no earlier Pablo digital edition surfaced in the search)",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Joe+Pass+Virtuoso&entity=album"
+    },
+    "S6": {
+      "title": "All About Jazz — C. Michael Bailey, 'Joe Pass: Virtuoso': Granz heard Pass in 1970 and signed him to Pablo, then 'allowed Joe Pass to sit down and play his songbook' as he had with Art Tatum; Virtuoso recorded at MGM Recording Studios in L.A.; lists the Virtuoso #4 dates (November 11, 26 and 30, 1973) as a separate album",
+      "type": "critic",
+      "url": "https://www.allaboutjazz.com/joe-pass-virtuoso-by-c-michael-bailey"
+    },
+    "S7": {
+      "title": "Vintage Guitar — 'Fretprints: Joe Pass' (Axis: Bold As Love): Virtuoso 'was recorded on August 28, 1973, at MGM Studios in L.A.'; released in December; outsold every other Pablo release and established Pass as the solo-guitar avatar among jazz players",
+      "type": "critic",
+      "url": "https://www.vintageguitar.com/91577/fretprints-joe-pass-axis-bold-as-love"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1973-08-28"
+    ],
+    "multi_session": false,
+    "studio": "MGM Recording Studios, Los Angeles, CA",
+    "recording_sites": [
+      {
+        "session_date": "1973-08-28",
+        "site_raw": "MGM Recording Studios, Los Angeles",
+        "site_slug": null,
+        "site_new": {
+          "name": "MGM Recording Studios",
+          "city": "Los Angeles, CA",
+          "kind": "studio",
+          "address": null,
+          "lat": 34.054,
+          "lon": -118.243,
+          "location_epistemic": "inf",
+          "location_source": "https://en.wikipedia.org/wiki/Virtuoso_(Joe_Pass_album) | https://www.vintageguitar.com/91577/fretprints-joe-pass-axis-bold-as-love | coords: city centroid (OSM Nominatim: Los Angeles, CA), 3-decimal precision — sources name the studio and the city only, no street address documented, so none is claimed"
+        },
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": "Dennis Sands",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Joe Pass",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Joseph Anthony Passalaqua (birth name, not used on the release)"
+        ],
+        "notes": "Solo guitar throughout — the only musician on the album; composer of the one original, 'Blues for Alican' [S2,S3]. AllMusic's style tags put the record under Guitar Jazz / Solo Instrumental [S1]."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Night and Day",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:31",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Stella by Starlight",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:08",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Ned Washington",
+          "Victor Young"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Here's That Rainy Day",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:34",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Johnny Burke",
+          "Jimmy Van Heusen"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "My Old Flame",
+        "track_number": 4,
+        "side": "A",
+        "duration": "5:15",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Arthur Johnston",
+          "Sam Coslow"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "How High the Moon",
+        "track_number": 5,
+        "side": "A",
+        "duration": "4:56",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Morgan Lewis",
+          "Nancy Hamilton"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Cherokee",
+        "track_number": 6,
+        "side": "A",
+        "duration": "3:34",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Ray Noble"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sweet Lorraine",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:06",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Cliff Burwell",
+          "Mitchell Parish"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Have You Met Miss Jones?",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:41",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "'Round Midnight",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:36",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Thelonious Monk",
+          "Cootie Williams",
+          "Bernie Hanighen"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "All the Things You Are",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:58",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Jerome Kern",
+          "Oscar Hammerstein II"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blues for Alican",
+        "track_number": 11,
+        "side": "B",
+        "duration": "5:25",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Joe Pass"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Song Is You",
+        "track_number": 12,
+        "side": "B",
+        "duration": "4:07",
+        "session_date": "1973-08-28",
+        "composers": [
+          "Jerome Kern",
+          "Oscar Hammerstein II"
+        ],
+        "personnel": [
+          "Joe Pass"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "bb4014c9-b248-3eaa-8fea-8610e656f851",
+    "apple_album_id": "1797676022",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/bb4014c9-b248-3eaa-8fea-8610e656f851/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image present for this release group (front and back on the 2001 K2 remaster release 6200c32e); cover photo Phil Stern [S3]."
+      }
+    ],
+    "notes": "ONE solo session, August 28, 1973, released December 1973 on Pablo (2310-708; the US LP carries a 1974 ℗ date on the disc, which is a pressing-year artefact, not a later session). CONFLICT, preserved: AllMusic prints the recording location as 'JVC Studios' [S1], while Wikipedia, AllAboutJazz and Vintage Guitar all name MGM Recording Studios, Los Angeles for this session [S2,S6,S7]; the three-source reading is recorded and the AllMusic location is treated as an error — no second venue entry is created, because no source places this session anywhere else. The address of MGM Recording Studios is not documented in any source fetched, so the new place is minted at city level with an `inf` coordinate rather than a fabricated street address. Do not blend this album with Virtuoso #4: those sessions are November 11, 26 and 30, 1973, also at MGM, and were released in 1983 [S2,S6]. Durations here follow the original LP as entered on Discogs [S3]; Wikipedia's are 1-2 seconds longer on several titles, a CD-timing variance. Liner notes by Benny Green on the remastered edition [S3]."
+  },
+  "ballot": {
+    "album": "Joe Pass — Virtuoso (1973)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1973–1985 continuity rule applies: does this unaccompanied, standards-based mainstream statement extend the bebop/post-bebop tradition sufficiently, despite its retrospective solo-songbook aesthetic? No excluded-style gate applies."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Virtuoso has the rubric's strongest consensus signal: Penguin core-collection placement and four stars, alongside five-star AllMusic and Rolling Stone guide ratings, although these judgments are aggregated through S2 rather than independently documented in the dossier. Its defining achievement is making melody, harmony, bass movement, and bop improvisation coexist on one guitar, rendering the architecture of jazz immediately audible [S2]. The Art Tatum comparison establishes a substantive solo-songbook lineage [S6], while Vintage Guitar's account of its reception supports its standing as Pass's defining solo statement [S7]. This is a compelling discovery record on its own merits, not merely an opportunity to fill an instrumental category.",
+    "case_against": "The substantive scope objection is that its most clearly documented connection looks backward to Tatum and established songbook practice, while the post-1973 rule asks for continuity with the canon's post-bebop center; absence of fusion vocabulary alone does not establish that bridge. Its solo format supplies no ensemble-network evidence, and the dossier documents its reputation more convincingly than specific downstream influence on later musicians or records. For some listeners, the dense embellishment may foreground technical command over emotional or interactive discovery, though the dossier does not establish that response as critical consensus. Evidence also needs tightening: the guide ratings are largely mediated through S2, and the rationale miscounts the twelve-track program, which contains eleven standards and one original.",
+    "disagreement": "Both references choose scope_call and regard the album as a defining solo-guitar statement, but Reference 1 assigns must_have while Reference 2 assigns strong. Reference 1 treats mainstream continuity as substantially established and the solo format as largely neutral; Reference 2 gives greater weight to retrospective traditionalism and the absence of ensemble dialogue, making the album less urgent for this particular canon.",
+    "recommendation": "The council proposes that John give Virtuoso strong-priority consideration as a scope call, deciding whether its definitive solo-bebop synthesis satisfies the post-1973 continuity rule.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

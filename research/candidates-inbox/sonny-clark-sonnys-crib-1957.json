@@ -1,0 +1,394 @@
+{
+  "id": "sonny-clark-sonnys-crib-1957",
+  "artist": "Sonny Clark",
+  "album": "Sonny's Crib",
+  "year": 1957,
+  "label": "Blue Note",
+  "catalog_number": "Blue Note BLP 1576",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "Sonny's Crib is the record that shows Sonny Clark as the centre of a working Blue Note band rather than a sideman in it: Donald Byrd, Curtis Fuller and John Coltrane in the front line over Clark, Paul Chambers and Art Taylor, all six on every track [S2,S3] (obs). Session gravity is the argument, and it is unusually well documented: one session on September 1, 1957 at Van Gelder's Hackensack studio, two weeks before Coltrane cut Blue Train with the same Paul Chambers [S2] (obs) — a date that pulled together the players who were defining hard bop in that room that autumn. AllMusic's review calls the result 'a phenomenal recording, one that opened the door to hard bop becoming the norm in the late '50s' [S1] (obs). The material endured: 'News for Lulu' became John Zorn's theme, and Clark's re-harmonisation of 'Speak Low' is the track the date is remembered for [S1] (obs). What it is not, stated plainly: it is not Clark's defining statement — Cool Struttin' (1958) already carries that case in this canon — and the ratings mark it strong-but-not-lock: AllMusic 4.5/5 and The Penguin Guide to Jazz Recordings 3 of 4 stars, i.e. not a Penguin core-collection entry [S1,S2] (obs). Lineage and discovery carry it: a straight hard-bop blowing date in the Blue Note house manner, the kind of record a listener sent cold to 1957 would use to hear how the idiom actually worked in the studio, and a Coltrane session that sits in the same fortnight as Blue Train without being a Coltrane album [S1,S2] (inf).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "AllMusic — Sonny's Crib (mw0000196632): Thom Jurek review ('a phenomenal recording, one that opened the door to hard bop becoming the norm in the late '50s'); styles Bop / Hard Bop / Piano Jazz; printed recording date October 9, 1957; printed recording locations 'New York, NY' and 'Van Gelder studio, Hackensack, NJ'; track list of the 8-track CD edition",
+      "type": "database",
+      "url": "https://www.allmusic.com/album/sonnys-crib-mw0000196632"
+    },
+    "S2": {
+      "title": "Wikipedia — Sonny's Crib: infobox (released March 1958; recorded September 1, 1957; Van Gelder Studio, Hackensack, NJ; Blue Note BLP 1576; producer Alfred Lion); full track listing with durations; musicians and technical personnel (Rudy Van Gelder recording engineer); review box AllMusic 4.5/5 and The Penguin Guide to Jazz Recordings 3/4; critical reception quotes",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny%27s_Crib"
+    },
+    "S3": {
+      "title": "Discogs — Sonny's Crib, US first pressing (r2044787): 'Recorded At Van Gelder Studio, Hackensack, New Jersey', 'Recorded By Rudy Van Gelder', Producer Alfred Lion, 'Recorded on September 1, 1957'; credits (Byrd, Fuller, Coltrane, Chambers, Taylor, Clark); side and track listing with durations",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/2044787-Sonny-Clark-Sonnys-Crib"
+    },
+    "S4": {
+      "title": "MusicBrainz — Sonny's Crib release group (f7e4c1bf-293d-369d-94bf-4fa1a5d8deef): US 12\" BLP 1576 released 1958-03 with 5 tracks; CD editions with 8 tracks; release-group identifier",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/f7e4c1bf-293d-369d-94bf-4fa1a5d8deef"
+    },
+    "S5": {
+      "title": "iTunes Search API — 'Sonny Clark Sonny's Crib': collectionId 724535638, 8 tracks, ℗ 1998 Blue Note Records (Apple streaming copy)",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Sonny+Clark+Sonny%27s+Crib&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-09-01"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, NJ",
+    "recording_sites": [
+      {
+        "session_date": "1957-09-01",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Sonny Clark",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of 'Sonny's Crib' and 'News for Lulu' [S2,S3]."
+      },
+      {
+        "name": "Donald Byrd",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Curtis Fuller",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "John Coltrane (as 'Trane' in the AllMusic review)"
+        ],
+        "notes": "Present as a sideman; the 1998 CD is marketed as 'Sonny Clark feat. John Coltrane' [S5]. No source names him as leader or co-leader."
+      },
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Paul Chambers (3) on Discogs"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Art Taylor, not Art Blakey — the earlier assumption about this date was wrong; every source fetched names Taylor [S2,S3]."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "With a Song in My Heart",
+        "track_number": 1,
+        "side": "A",
+        "duration": "7:54",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Speak Low",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:50",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Kurt Weill",
+          "Ogden Nash"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Come Rain or Come Shine",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:29",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Harold Arlen",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sonny's Crib",
+        "track_number": 4,
+        "side": "B",
+        "duration": "13:31",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "News for Lulu",
+        "track_number": 5,
+        "side": "B",
+        "duration": "8:34",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "With a Song in My Heart (alternate take)",
+        "track_number": 6,
+        "side": null,
+        "duration": "8:47",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Speak Low (alternate take)",
+        "track_number": 7,
+        "side": null,
+        "duration": "6:57",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Kurt Weill",
+          "Ogden Nash"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Sonny's Crib (alternate take)",
+        "track_number": 8,
+        "side": null,
+        "duration": "9:56",
+        "session_date": "1957-09-01",
+        "composers": [
+          "Sonny Clark"
+        ],
+        "personnel": [
+          "Sonny Clark",
+          "Donald Byrd",
+          "Curtis Fuller",
+          "John Coltrane",
+          "Paul Chambers",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S2",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "f7e4c1bf-293d-369d-94bf-4fa1a5d8deef",
+    "apple_album_id": "724535638",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/f7e4c1bf-293d-369d-94bf-4fa1a5d8deef/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Cover Art Archive front image present for this release group (front and back images on the original US LP release 4d74f9dc); cover design Reid Miles, cover photo Francis Wolff [S3]."
+      }
+    ],
+    "notes": "ONE session, September 1, 1957. Released March 1958 as Blue Note BLP 1576; the original LP has five titles (side A: 1-3, side B: 4-5), the 1987/1998 CDs add three alternate takes (tracks 6-8), which are flagged here as bonus/alternate and excluded from the original programme. CONFLICT, preserved rather than resolved: AllMusic prints the recording date as October 9, 1957 [S1], while Wikipedia (citing The John Coltrane Reference, p. 482), Discogs and the AllMusic user review all give September 1, 1957 [S2,S3]; September 1 is recorded here and the AllMusic date is treated as an error. AllMusic also prints a second recording location, 'New York, NY' [S1], alongside 'Van Gelder studio, Hackensack, NJ'; only Hackensack is stated as the room by any source [S2,S3], so a single site entry is recorded, not two. Drummer is Art Taylor on all sources — no Blakey on this date. A further Discogs user observation that the horns sit bright relative to the piano on the 1998 remaster is a mastering artefact, not a session fact."
+  },
+  "ballot": {
+    "album": "Sonny Clark — Sonny's Crib (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Session gravity becomes musical substance here: Clark leads Donald Byrd, Curtis Fuller, John Coltrane, Paul Chambers, and Art Taylor throughout the original five-track program, making this an unusually concentrated demonstration of Blue Note hard-bop ensemble practice [S2,S3]. His treatment of 'Speak Low' and the originals give the date an identity beyond its celebrated personnel, while the later Zorn connection supplies a concrete afterlife for 'News for Lulu' [S1]. AllMusic's 4.5/5 assessment supports the discovery case: an immediately engaging record through which a listener can hear how this idiom works [S1].",
+    "case_against": "The dossier establishes an excellent session more securely than a load-bearing canonical album: independent critical support is limited chiefly to AllMusic and a reported Penguin rating of 3/4, with no demonstrated convergence across major canon lists [S1,S2]. Its conventional blowing-session architecture and limited documented influence leave the strongest claims resting on personnel rather than a defining compositional or stylistic breakthrough. Cool Struttin' supplies the clearer defining-statement case for Clark; this is a distinction in canonical function, not a penalty for repeat representation. Penguin core-list absence cannot be inferred from its rating alone, and AllMusic's claim that the album helped establish hard bop exceeds the historical evidence supplied.",
+    "disagreement": "Both references judge the album contested and fully in scope, but differ on urgency: Reference 1 recommends strong, while Reference 2 favors consider or low strong. They also conflict on the Blue Train chronology: Reference 2 repeats the dossier's two-week interval, whereas Reference 1 identifies four weeks and requests direct sourcing; the disputed proximity should not carry the ballot.",
+    "recommendation": "The council proposes that John give this strong-priority listening consideration for its ensemble achievement, while requiring a distinct album-level case beyond the famous lineup before deciding.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
