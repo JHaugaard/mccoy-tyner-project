@@ -1,0 +1,592 @@
+{
+  "id": "thelonious-monk-the-thelonious-monk-orchestra-at-town-hall-1959",
+  "artist": "Thelonious Monk",
+  "album": "The Thelonious Monk Orchestra at Town Hall",
+  "year": 1959,
+  "label": "Riverside",
+  "apple_album_id": 1443198677,
+  "musicbrainz_release_group_mbid": "8f24da9c-244e-3d5a-b917-24a6664fa4fd",
+  "cover_art_url": "https://coverartarchive.org/release/fc4b0cc1-c76a-43de-ae6c-b9c54fac5924/14296464660.jpg",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "Monk's own compositions taken to the orchestra for the first time: a 28 February 1959 concert at Town Hall on which Hall Overton's arrangements, prepared with Monk and including a transcription of Monk's piano solo on 'Little Rootie Tootie', put a ten-piece band behind a book that had until then been played by trios and quartets (S1, S5). It is also Charlie Rouse's first recording with Monk and the start of the partnership that ran to 1969 (S1, S4), so the record is the beginning of the canonical Monk quartet line as much as an orchestral one-off. Reception crosses independent listing traditions rather than resting on one: AllMusic's editors gave it five stars, Scott Yanow calling it 'a major success' and 'a real standout'; the Rolling Stone Jazz Record Guide gave five; the Penguin Guide to Jazz Recordings three-and-a-half and warned that 'the band could probably have used a lot more time to figure out the composer's vision'; the Virgin Encyclopedia three; NPR's Murray Horwitz called it 'an important expression of a very important jazz composer' (S1). Session gravity is the other argument: Byrd, Woods, Adams, Bert, Northern and McAllister around Rouse, Sam Jones and Art Taylor is a cross-section of the New York scene Monk had shaped for a decade (S1, S2, S3, S5). Lineage runs forward to the 1960s big-band Monk book. The case against is real and is preserved here rather than smoothed: the ensemble does not always realise the music (Penguin, S1), and the contemporary New Yorker review by Whitney Balliett called the writing 'pale, conventional small-band scorings' set against 'competent but second-rate soloists' (S6) — this is a document of an idea being tested, not a settled masterpiece.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: The Thelonious Monk Orchestra at Town Hall (recorded 28 February 1959, The Town Hall, New York City; Riverside; producer Orrin Keepnews; personnel; 1959 vinyl track list; 2006 CD additions; reception table AllMusic 5/5, Penguin Guide to Jazz Recordings 3.5/5, Rolling Stone Jazz Record Guide 5/5, Virgin Encyclopedia of Jazz 3/5, with Yanow 'a major success'/'a real standout', the Penguin caveat about rehearsal time, and NPR's Murray Horwitz 'an important expression of a very important jazz composer'; Charlie Rouse's first recording with Monk)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Thelonious_Monk_Orchestra_at_Town_Hall"
+    },
+    "S2": {
+      "title": "Discogs: The Thelonious Monk Orchestra – At Town Hall (Riverside RLP 12-300; credits list Phil Woods alto sax, Pepper Adams baritone sax, Eddie Bert trombone, Robert Northern French horn, Jay McAllister tuba, Donald Byrd trumpet, Charlie Rouse tenor sax, Sam Jones bass, Art Taylor drums, Thelonious Monk piano; Engineer Ray Fowler; Producer and liner notes Orrin Keepnews; arrangements Hall Overton and Monk; 'Recorded in concert in New York City; Feb. 28, 1959')",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/16091388-The-Thelonious-Monk-Orchestra-At-Town-Hall"
+    },
+    "S3": {
+      "title": "JazzDiscography.org (jazzdisco): Thelonious Monk catalog — Riverside RLP 12-300 session, Town Hall, NYC, 28 February 1959, ten-piece personnel (Byrd, Bert, Northern, McAllister, Woods, Rouse, Adams, Monk, Jones, Taylor) with Monk and Hall Overton as arrangers, six titles; same concert also yielded quartet titles 'In Walked Bud', 'Blue Monk' and 'Rhythm-a-Ning' (Rouse, Monk, Jones, Taylor), later issued on Milestone M-9115",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/thelonious-monk/catalog/"
+    },
+    "S4": {
+      "title": "Fresh Sound Records (Essential Jazz Classics EJC55525) reissue notes: complete original album RLP12-300 plus all surviving music from the 1959 concert; personnel Monk (p), Rouse (ts), Jones (b), Taylor (d) with Byrd (tp), Woods (as), Adams (bs), Bert (tb), Northern (frh), McAllister (tuba); big-band titles arranged by Hall Overton; track list and durations",
+      "type": "liner-notes",
+      "url": "https://www.freshsoundrecords.com/thelonious-monk-albums/5983-the-thelonious-monk-orchestra-at-town-hall.html"
+    },
+    "S5": {
+      "title": "Apple Music / iTunes Search API: The Thelonious Monk Orchestra At Town Hall, collectionId 1443198677, Fantasy 1989, 7 tracks (a 10-track 'Bonus Track Version', collectionId 1443192487, also exists)",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/the-thelonious-monk-orchestra-at-town-hall/1443198677"
+    },
+    "S6": {
+      "title": "The New Yorker, Whitney Balliett, 'A Celebration for Monk' (issue of 7 March 1959): contemporary review of the 28 February Town Hall concert — describes the quartet and ten-piece group, names Byrd, Woods, Adams, Bert, 'a French horn' and 'a tuba', and criticises the arrangements as 'pale, conventional small-band scorings' with 'competent but second-rate soloists'",
+      "type": "review",
+      "url": "https://www.newyorker.com/magazine/1959/03/07/a-celebration-for-monk"
+    },
+    "S7": {
+      "title": "MusicBrainz release group 8f24da9c-244e-3d5a-b917-24a6664fa4fd; Cover Art Archive front image for the release group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/8f24da9c-244e-3d5a-b917-24a6664fa4fd"
+    },
+    "S8": {
+      "title": "Wikipedia: The Town Hall (New York City) — venue at 123 West 43rd Street, Manhattan, New York City; coordinates 40.7560 N, 73.9847 W",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Town_Hall_(New_York_City)"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-02-28"
+    ],
+    "multi_session": false,
+    "studio": "Town Hall, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1959-02-28",
+        "site_raw": "The Town Hall, New York City",
+        "site_slug": null,
+        "site_new": {
+          "name": "Town Hall",
+          "city": "New York, NY",
+          "kind": "hall",
+          "address": "123 West 43rd Street",
+          "lat": 40.75583,
+          "lon": -73.98472,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/The_Town_Hall_(New_York_City) — address 123 West 43rd Street, Manhattan, New York City | coords: https://en.wikipedia.org/wiki/The_Town_Hall_%28New_York_City%29"
+        },
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Ray Fowler",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composer of every title; co-arranger with Hall Overton (S2, S3)."
+      },
+      {
+        "name": "Charlie Rouse",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "First recording with Monk, and the beginning of his tenure in Monk's groups through 1969 (S1)."
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Arthur Taylor"
+        ],
+        "notes": "Named 'Arthur Taylor' in the contemporary New Yorker review (S6)."
+      },
+      {
+        "name": "Donald Byrd",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Thelonious",
+          "Friday the 13th",
+          "Monk's Mood",
+          "Little Rootie Tootie",
+          "Off Minor",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Eddie Bert",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Thelonious",
+          "Friday the 13th",
+          "Monk's Mood",
+          "Little Rootie Tootie",
+          "Off Minor",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Robert Northern",
+        "instrument": "French horn",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Thelonious",
+          "Friday the 13th",
+          "Monk's Mood",
+          "Little Rootie Tootie",
+          "Off Minor",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Bob Northern"
+        ],
+        "notes": "Spelled 'Robert Nothern' on the Riverside liner-notes transcription (S4 typo); 'Bob Northern' in The Concert Database listing."
+      },
+      {
+        "name": "Jay McAllister",
+        "instrument": "tuba",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Thelonious",
+          "Friday the 13th",
+          "Monk's Mood",
+          "Little Rootie Tootie",
+          "Off Minor",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "'tuba' is not in the project instrument taxonomy; recorded as the closest descriptive term per the contract's fallback rule."
+      },
+      {
+        "name": "Phil Woods",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Thelonious",
+          "Friday the 13th",
+          "Monk's Mood",
+          "Little Rootie Tootie",
+          "Off Minor",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Pepper Adams",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Thelonious",
+          "Friday the 13th",
+          "Monk's Mood",
+          "Little Rootie Tootie",
+          "Off Minor",
+          "Crepuscule with Nellie"
+        ],
+        "session_dates": [
+          "1959-02-28"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Thelonious",
+        "track_number": 1,
+        "side": "A",
+        "duration": "0:56",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor",
+          "Donald Byrd",
+          "Eddie Bert",
+          "Robert Northern",
+          "Jay McAllister",
+          "Phil Woods",
+          "Pepper Adams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Friday the 13th",
+        "track_number": 2,
+        "side": "A",
+        "duration": "9:22",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor",
+          "Donald Byrd",
+          "Eddie Bert",
+          "Robert Northern",
+          "Jay McAllister",
+          "Phil Woods",
+          "Pepper Adams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Monk's Mood",
+        "track_number": 3,
+        "side": "A",
+        "duration": "10:15",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor",
+          "Donald Byrd",
+          "Eddie Bert",
+          "Robert Northern",
+          "Jay McAllister",
+          "Phil Woods",
+          "Pepper Adams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Little Rootie Tootie",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:45",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor",
+          "Donald Byrd",
+          "Eddie Bert",
+          "Robert Northern",
+          "Jay McAllister",
+          "Phil Woods",
+          "Pepper Adams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Off Minor",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:47",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor",
+          "Donald Byrd",
+          "Eddie Bert",
+          "Robert Northern",
+          "Jay McAllister",
+          "Phil Woods",
+          "Pepper Adams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Crepuscule with Nellie",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:42",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor",
+          "Donald Byrd",
+          "Eddie Bert",
+          "Robert Northern",
+          "Jay McAllister",
+          "Phil Woods",
+          "Pepper Adams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "In Walked Bud",
+        "track_number": 7,
+        "side": null,
+        "duration": "7:09",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Blue Monk",
+        "track_number": 8,
+        "side": null,
+        "duration": "8:21",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Rhythm-a-Ning",
+        "track_number": 9,
+        "side": null,
+        "duration": "6:45",
+        "session_date": "1959-02-28",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Charlie Rouse",
+          "Sam Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "8f24da9c-244e-3d5a-b917-24a6664fa4fd",
+    "apple_album_id": 1443198677,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/fc4b0cc1-c76a-43de-ae6c-b9c54fac5924/14296464660.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image attached to the release group on the Cover Art Archive; matched by title/artist/year, so the pressing shown is not confirmed as the 1959 Riverside original sleeve."
+      }
+    ],
+    "notes": "One concert, one session: 28 February 1959, Town Hall, New York City, recorded live (S1, S2, S3). The 1959 LP (Riverside RLP 12-300, stereo RLP 1138) carries six titles; the band is a ten-piece on all six per the label's personnel listing and jazzdisco (S2, S3, S4) — the 0:56 'Thelonious' is an edit of the longer performance issued later, and no source assigns per-player solo credits inside it, so the tentet is recorded for that title with track_assignments_complete left false. Tracks 7-9 are quartet performances from the same concert, first issued much later (Milestone M-9115, and the 2006 CD); they are flagged bonus_track. A second 'Little Rootie Tootie' performance also survives and appears on reissues as an encore, but the sources disagree about which performance that is (S4 lists two, Wikipedia's CD listing names one at 8:29 while the Riverside liner-note transcription assigns 8:29 to the complete 'Thelonious'), so it is omitted rather than guessed. Hall Overton is the arranger, with Monk credited as co-arranger (S2, S3); Overton is not recorded as a performer. Producer and engineer come from the label credit and Discogs (S2); Wikipedia names Keepnews as producer and no engineer. 'Tuba' is outside the instrument taxonomy and retained as a flagged descriptive term."
+  },
+  "ballot": {
+    "album": "Thelonious Monk — The Thelonious Monk Orchestra at Town Hall (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Hall Overton's orchestral treatment of Monk's compositions, especially the transcription of his piano solo on \"Little Rootie Tootie,\" makes this a distinctive demonstration of Monk's compositional language beyond the small group (S1, S4). The ten-piece ensemble brings together Donald Byrd, Phil Woods, Pepper Adams and other substantial voices, while Charlie Rouse's first recording with Monk marks the beginning of their defining partnership (S1–S4). Five-star assessments from AllMusic and the Rolling Stone Jazz Record Guide, alongside NPR's praise, establish substantial recognition, although these assessments are supplied indirectly through S1.",
+    "case_against": "The central objection concerns musical realization, not historical importance: Penguin questioned whether the ensemble had sufficiently absorbed Monk's vision, while Whitney Balliett dismissed the arrangements as \"pale, conventional small-band scorings\" (S1, S6). Those criticisms support hearing the album as an illuminating experiment rather than a fully achieved defining statement, and its mixed reception falls short of overwhelming consensus. The original six-track LP must also be distinguished from expanded concert editions: later-issued quartet performances strengthen the session's historical context but cannot establish the original album's musical achievement, and the supplied streaming edition remains insufficiently reconciled with the track record (S3–S5).",
+    "disagreement": "Both references agree on contested/strong and identify no scope boundary. They differ on the strength of the lineage evidence: Reference 2 treats a direct progression to Monk's 1963 Philharmonic Hall concerts as established, whereas Reference 1 correctly notes that the dossier does not specifically substantiate that influence; Reference 1 also places greater weight on indirect reception sourcing and unresolved edition identity.",
+    "recommendation": "The council proposes that John give this strong contested candidate a focused listen for its orchestral achievement, with the original LP and streaming edition reconciled before any decision.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

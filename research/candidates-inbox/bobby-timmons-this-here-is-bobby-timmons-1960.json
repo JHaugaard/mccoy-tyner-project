@@ -1,0 +1,397 @@
+{
+  "id": "bobby-timmons-this-here-is-bobby-timmons-1960",
+  "artist": "Bobby Timmons",
+  "album": "This Here Is Bobby Timmons",
+  "year": 1960,
+  "label": "Riverside",
+  "apple_album_id": 6780567581,
+  "musicbrainz_release_group_mbid": "0749d0ec-687d-39c0-908a-bb3810777917",
+  "cover_art_url": "https://coverartarchive.org/release/ad8c1d08-8896-48b9-9deb-ce7a97208b23/40660736082.jpg",
+  "style_primary": "soul-jazz",
+  "style_tags": [
+    "hard-bop"
+  ],
+  "rationale": "Bobby Timmons wrote three of the tunes that carried soul jazz into the wider repertory — 'Moanin'', 'This Here' and 'Dat Dere' — and the canon currently holds none of his records as a leader; this is the first, cut 13-14 January 1960 at Reeves Sound Studios with Sam Jones and Jimmy Cobb, the rhythm section of the moment from Cannonball Adderley's band (S1, S3, S4). It puts all three signature compositions under his own hands in one programme (S1), which makes it the defining statement of a composer who is otherwise present in this canon only through other people's albums: 'Moanin'' was written for Art Blakey's 1958 Jazz Messengers date already in the collection (S7). Lineage is the strong signal — the tunes were standards before the record existed, and the trio's gospel-blues phrasing is the source of the soul-jazz vocabulary that later canon entries (Jimmy Smith, Stanley Turrentine, Grant Green) work in. Reception is solid rather than ecstatic: AllMusic four stars, the Rolling Stone Jazz Record Guide four, the Penguin Guide to Jazz Recordings three (S1). The case against is real: Penguin's three stars is the weakest showing of any 1960 Riverside piano date in the queue, half the programme is standards ('Lush Life', 'The Party's Over', 'My Funny Valentine', 'Come Rain or Come Shine'), and with no horn in the band the date documents a songwriter more than it extends an ensemble's language — a well-made club set rather than a record that changed what came after.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: This Here Is Bobby Timmons (recorded 13 & 14 January 1960, Reeves Sound Studios, New York City; Riverside; producer Orrin Keepnews; nine-track listing with composers and durations; personnel Bobby Timmons piano, Sam Jones bass and Jimmy Cobb drums except track 3; reception table AllMusic 4/5, Penguin Guide to Jazz Recordings 3/5, Rolling Stone Jazz Record Guide 4/5; first album as sole leader)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/This_Here_Is_Bobby_Timmons"
+    },
+    "S2": {
+      "title": "Discogs: Bobby Timmons – This Here Is Bobby Timmons (master 190398; credits Bobby Timmons piano, Sam Jones bass, Jimmy Cobb drums, Engineer Jack Higgins, producer Orrin Keepnews; nine tracks with durations; Riverside RLP 12-317 mono / RLP 1164 stereo, 1960)",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/190398-Bobby-Timmons-This-Here-Is-Bobby-Timmons"
+    },
+    "S3": {
+      "title": "JazzDiscography.org (jazzdisco): Bobby Timmons catalog — Riverside RLP 12-317 session, Reeves Sound Studios, NYC, 13 and 14 January 1960; Bobby Timmons piano, Sam Jones bass and Jimmy Cobb drums on titles 1, 2, 4-9; nine-title programme",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/bobby-timmons/catalog/"
+    },
+    "S4": {
+      "title": "Riverside Records liner-notes transcription (RLP12-317): 'Bobby Timmons (p) Sam Jones (b) Jimmy Cobb (drs) (Lush Life is an unaccompanied piano solo.)'; 'New York; January 13 and 14, 1960'; side-by-side track list with durations and composers; 'Produced, and notes written by ORRIN KEEPNEWS'; 'Engineer: JACK HIGGINS (Reeves Sound Studios)'",
+      "type": "liner-notes",
+      "url": "https://www.riversidefurusho.com/200-3-1/317"
+    },
+    "S5": {
+      "title": "Apple Music / iTunes Search API: This Here Is Bobby Timmons (Remastered 2026), collectionId 6780567581, Craft Recordings, 9 tracks",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/this-here-is-bobby-timmons-remastered-2026/6780567581"
+    },
+    "S6": {
+      "title": "MusicBrainz release group 0749d0ec-687d-39c0-908a-bb3810777917; Cover Art Archive front image for the release group",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/0749d0ec-687d-39c0-908a-bb3810777917"
+    },
+    "S7": {
+      "title": "Wikipedia: 'Moanin' (song)' — composed by Bobby Timmons for Art Blakey and the Jazz Messengers, recorded 30 October 1958 at Van Gelder Studio, Hackensack, released January 1959 on Blue Note (the album is already in the canon)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Moanin%27_(song)"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-01-13",
+      "1960-01-14"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1960-01-13",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1960-01-14",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Bobby Timmons",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-01-13",
+          "1960-01-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'This Here', 'Moanin'', 'Dat Dere' and 'Joy Ride' (S1); plays unaccompanied on 'Lush Life' (S4)."
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "This Here",
+          "Moanin'",
+          "The Party's Over",
+          "Prelude to a Kiss",
+          "Dat Dere",
+          "My Funny Valentine",
+          "Come Rain or Come Shine",
+          "Joy Ride"
+        ],
+        "session_dates": [
+          "1960-01-13",
+          "1960-01-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Lush Life', a solo piano performance (S1, S4)."
+      },
+      {
+        "name": "Jimmy Cobb",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "This Here",
+          "Moanin'",
+          "The Party's Over",
+          "Prelude to a Kiss",
+          "Dat Dere",
+          "My Funny Valentine",
+          "Come Rain or Come Shine",
+          "Joy Ride"
+        ],
+        "session_dates": [
+          "1960-01-13",
+          "1960-01-14"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Lush Life', a solo piano performance (S1, S4)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "This Here",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:31",
+        "session_date": null,
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Moanin'",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:02",
+        "session_date": null,
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Lush Life",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:20",
+        "session_date": null,
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Bobby Timmons"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Party's Over",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:07",
+        "session_date": null,
+        "composers": [
+          "Jule Styne",
+          "Betty Comden",
+          "Adolph Green"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Prelude to a Kiss",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:16",
+        "session_date": null,
+        "composers": [
+          "Duke Ellington",
+          "Irving Mills"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Dat Dere",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:19",
+        "session_date": null,
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "My Funny Valentine",
+        "track_number": 7,
+        "side": "B",
+        "duration": "5:03",
+        "session_date": null,
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Come Rain or Come Shine",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:26",
+        "session_date": null,
+        "composers": [
+          "Harold Arlen",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Joy Ride",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:58",
+        "session_date": null,
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Bobby Timmons",
+          "Sam Jones",
+          "Jimmy Cobb"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "0749d0ec-687d-39c0-908a-bb3810777917",
+    "apple_album_id": 6780567581,
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/ad8c1d08-8896-48b9-9deb-ce7a97208b23/40660736082.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image attached to the release group on the Cover Art Archive; matched by title/artist/year, so the pressing shown is not confirmed as the 1960 Riverside original sleeve."
+      }
+    ],
+    "notes": "Two consecutive dates, 13 and 14 January 1960, both at Reeves Sound Studios, New York City (S3, S4); no source assigns individual titles to one date or the other, so both dates are recorded and each track's session_date is left null rather than guessed. 'Lush Life' is unaccompanied piano, which is why Sam Jones and Jimmy Cobb are scoped to the other eight titles (S1, S4). Catalogue number: RLP 12-317 for the mono original, RLP 1164 for the stereo issue — Wikipedia's infobox cites RLP 1164 while jazzdisco and Discogs give 12-317 as the original (S1, S2, S3); both recorded, neither suppressed. Side allocation follows the LP layout transcribed from the original sleeve (S4); Discogs lists the same nine titles unnumbered (S2). Producer and engineer are taken from the label credit ('Produced, and notes written by Orrin Keepnews' / 'Engineer: Jack Higgins (Reeves Sound Studios)') and corroborated by Discogs (S2, S4). Apple Music's only digital edition is a 2026 Craft remaster; the collectionId is recorded as the streaming reference, not as evidence of the original sleeve."
+  },
+  "ballot": {
+    "album": "Bobby Timmons — This Here Is Bobby Timmons (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Timmons's first sole-leader album gathers “This Here,” “Moanin’,” “Dat Dere,” and “Joy Ride,” making a concentrated case for hearing a major soul-jazz composer as the pianist shaping his own material (S1, S4). With Sam Jones and Jimmy Cobb, the trio exposes the gospel-blues phrasing and rhythmic architecture behind repertoire otherwise associated with larger ensembles; the unaccompanied “Lush Life” broadens that portrait (S3, S4). Its direct connection to the canon's existing Blakey recording of “Moanin’” gives it substantial discovery value, while favorable AllMusic and Rolling Stone assessments reported in S1 support durable recognition without establishing overwhelming consensus.",
+    "case_against": "The importance of Timmons's compositions does not automatically establish these performances as their canonical recordings: Blakey's “Moanin’” and Cannonball Adderley's “This Here” have stronger claims to defining the tunes' historical impact. Five standards among nine tracks make this a broader pianist's portrait rather than an unbroken statement of his distinctive compositional language, and the dossier does not establish that this session itself changed subsequent jazz. Reception evidence is supplied indirectly through S1, with no documented core-list placement or musician testimony, while claims that this album originated the vocabulary of later soul-jazz players exceed the evidence.",
+    "disagreement": "Both references judge the album contested and fully in scope, but they split on urgency: Reference 1 assigns strong priority to its composer-centered portrait and lineage connections; Reference 2 assigns consider because the signature tunes' defining performances lie elsewhere and album-level consensus is limited.",
+    "recommendation": "The council proposes that John give this strong-priority listening consideration as a distinctive composer-led companion to the established ensemble recordings, while reserving the canonical decision until its performances justify that role.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
