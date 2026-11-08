@@ -1,0 +1,422 @@
+{
+  "id": "ella-fitzgerald-ella-in-berlin-1960",
+  "artist": "Ella Fitzgerald",
+  "album": "Ella in Berlin: Mack the Knife",
+  "year": 1960,
+  "label": "Verve",
+  "catalog_number": "MG V-4041 / MG VS-64041",
+  "apple_album_id": 1469574993,
+  "musicbrainz_release_group_mbid": "b6e1a652-1378-4e67-9104-04e458e7d2a4",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4b/fe/cb/4bfecb3b-a616-f9c7-50b2-3f963c43e189/16UMGIM05013.rgb.jpg/100x100bb.jpg",
+  "style_primary": "bebop",
+  "style_tags": [],
+  "rationale": "One of the two or three records that define jazz singing in front of an audience: a single Berlin concert (13 February 1960) on which Fitzgerald forgot the lyric to 'Mack the Knife' and improvised a new one on the spot, then took both the Best Female Vocal Performance single and album Grammys for it. Grammy Hall of Fame inductee (1999). Review scores recorded by Wikipedia: AllMusic 5 stars, The Rolling Stone Jazz Record Guide 4 stars, Encyclopedia of Popular Music 4 stars, The Penguin Guide to Jazz Recordings 3.5 stars (S1); AllMusic's own page rates it and files it under vocal jazz/bop/standards (S2). Session gravity is real even though the band is a working quartet rather than an all-star date: the Paul Smith Quartet with Jim Hall on guitar and Gus Johnson on drums, swinging and unobtrusive behind her all night (S1, S3). The canon currently holds Fitzgerald only as a songbook and a duet record with Armstrong; this is her live peak, and it still plays - 'How High the Moon' alone is a lesson in scat construction. Style coded bebop rather than cool-jazz: the band is a straight-ahead swing/bop quartet, not a West Coast cool ensemble, and AllMusic's first-listed style for the record is Bop (S2).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Ella in Berlin: Mack the Knife (track list, personnel, review scores, Grammy Hall of Fame and Grammy wins)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Ella_in_Berlin:_Mack_the_Knife"
+    },
+    "S2": {
+      "title": "AllMusic: Mack the Knife: Ella in Berlin (styles, review, credits tab, Grammy award credit)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/mack-the-knife-ella-in-berlin-mw0000649510"
+    },
+    "S3": {
+      "title": "Discogs: Ella Fitzgerald - Mack the Knife / Ella in Berlin (1960 US mono LP, r495938) - full credits, producer, recorded at Deutschlandhalle 13 February 1960",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/495938-Ella-Fitzgerald-Mack-The-Knife-Ella-In-Berlin"
+    },
+    "S4": {
+      "title": "Apple Music / iTunes Search API: Mack the Knife: Ella in Berlin (feat. The Paul Smith Quartet) [Live in Berlin/1960], collectionId 1469574993",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/mack-the-knife-ella-in-berlin-feat-the-paul-smith/1469574993"
+    },
+    "S5": {
+      "title": "MusicBrainz release group b6e1a652-1378-4e67-9104-04e458e7d2a4 and Cover Art Archive front image",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/b6e1a652-1378-4e67-9104-04e458e7d2a4"
+    },
+    "S6": {
+      "title": "Wikipedia: Deutschlandhalle (Location Messedamm 26, 14055 Westend, Berlin; coordinates 52.50028/13.26972; notes the 1960 Ella Fitzgerald concert recorded here)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Deutschlandhalle"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-02-13"
+    ],
+    "multi_session": false,
+    "studio": "Deutschlandhalle, Berlin, Germany",
+    "recording_sites": [
+      {
+        "session_date": "1960-02-13",
+        "site_raw": "Deutschlandhalle, Berlin",
+        "site_slug": null,
+        "site_new": {
+          "name": "Deutschlandhalle",
+          "city": "Berlin, Germany",
+          "kind": "hall",
+          "address": "Messedamm 26, 14055 Berlin",
+          "lat": 52.50028,
+          "lon": 13.26972,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/Deutschlandhalle (Location: Messedamm 26, 14055 Westend, Berlin; coordinates 52.50028 N, 13.26972 E) | coords: scripts/geocode-place.py rung 1, Wikipedia/Wikidata P625"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Ella Fitzgerald",
+        "instrument": "voice",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Smith",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leads the accompanying Paul Smith Quartet; Discogs files him as 'Paul Smith (5)' to distinguish him from other artists of the same name - same pianist already in the canon on Something Cool and the Cole Porter Song Book."
+      },
+      {
+        "name": "Jim Hall",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Comping and fills rather than solos; a short solo on 'Lorelei' is noted by a Discogs user review, not by a credit - left out of the record."
+      },
+      {
+        "name": "Wilfred Middlebrooks",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Gus Johnson",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Gone with the Wind",
+        "track_number": 1,
+        "side": "A",
+        "duration": "2:25",
+        "session_date": "1960-02-13",
+        "composers": [
+          "Herb Magidson",
+          "Allie Wrubel"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Misty",
+        "track_number": 2,
+        "side": "A",
+        "duration": "2:38",
+        "session_date": "1960-02-13",
+        "composers": [
+          "Johnny Burke",
+          "Erroll Garner"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Lady Is a Tramp",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:40",
+        "session_date": "1960-02-13",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Man I Love",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:42",
+        "session_date": "1960-02-13",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Summertime",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:02",
+        "session_date": "1960-02-13",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin",
+          "DuBose Heyward"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Too Darn Hot",
+        "track_number": 6,
+        "side": "B",
+        "duration": "3:17",
+        "session_date": "1960-02-13",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Lorelei",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:27",
+        "session_date": "1960-02-13",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Mack the Knife",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:39",
+        "session_date": "1960-02-13",
+        "composers": [
+          "Marc Blitzstein",
+          "Bertolt Brecht",
+          "Kurt Weill"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "How High the Moon",
+        "track_number": 9,
+        "side": "B",
+        "duration": "6:58",
+        "session_date": "1960-02-13",
+        "composers": [
+          "Nancy Hamilton",
+          "Morgan Lewis"
+        ],
+        "personnel": [
+          "Ella Fitzgerald",
+          "Paul Smith",
+          "Jim Hall",
+          "Wilfred Middlebrooks",
+          "Gus Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "b6e1a652-1378-4e67-9104-04e458e7d2a4",
+    "apple_album_id": "1469574993",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/f9f45721-9780-44bb-9fdb-8983990c5fb1/16815424570.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image for the release group; pressing not verified as the 1960 Verve original."
+      },
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4b/fe/cb/4bfecb3b-a616-f9c7-50b2-3f963c43e189/16UMGIM05013.rgb.jpg/100x100bb.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Apple Music artwork for collectionId 1469574993 (the 9-track original programme)."
+      }
+    ],
+    "notes": "Single live session: the whole album is the 13 February 1960 concert at the Deutschlandhalle, Berlin (S1, S3). No engineer is credited on the original Verve LP credits (S3), on the AllMusic credits tab (S2), or in the Wikipedia personnel section (S1) - engineer recorded as null rather than guessed; Phil Schaap's 1993 reissue notes are cited by Wikipedia for the bonus-track provenance but name no engineer. Personnel is the working Paul Smith Quartet, all four on every track (S1, S3). The 1993 'Complete' CD adds four bonus performances, two from the same concert recovered from a radio reel and two misattributed 1956 Hollywood Bowl tracks; only the original nine-track programme is recorded here (S1). New place minted: Deutschlandhalle (Messedamm 26, Berlin), demolished 3 December 2011, so the coordinate is the documented site of a building that no longer stands."
+  },
+  "ballot": {
+    "album": "Ella Fitzgerald — Ella in Berlin: Mack the Knife (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a defining document of Fitzgerald as a live improviser: the invented verses on “Mack the Knife” and the extended scat construction of “How High the Moon” make jazz invention immediately audible, complementing rather than duplicating her studio songbooks (S1, S2). AllMusic’s five-star assessment, favorable ratings from several major guides reported in S1, and Grammy Hall of Fame recognition establish substantial critical and historical standing, although most guide evidence is secondhand. The Paul Smith Quartet, including Jim Hall and Gus Johnson, supplies a cohesive small-group setting for a concert whose accessibility and spontaneity give it exceptional discovery value (S1, S3).",
+    "case_against": "The dossier demonstrates celebrated performance more firmly than load-bearing influence: it supplies no musician testimony or specific downstream lineage establishing this album’s impact on the broader post-bebop tradition. Several favorable guide ratings are aggregated through Wikipedia rather than documented directly, and strong reviews do not by themselves establish the rubric’s strongest signal of repeated independent canon-list selection. The quartet’s largely accompanying role makes personnel gravity a supporting argument, while the famous lyrical recovery risks overshadowing the less-developed comparative case for this concert over Fitzgerald’s other live recordings.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John give this strong-priority consideration as Fitzgerald’s defining live-improvisation document, with the misleading cool-jazz classification corrected.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
