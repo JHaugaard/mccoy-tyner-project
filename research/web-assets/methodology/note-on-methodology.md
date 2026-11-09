@@ -27,10 +27,10 @@ Each candidate is assessed on five factors, in rough order of weight:
 
 ## The candidate process
 
-1. **Select and check.** Choose up to two candidates for the daily run. Before research begins, confirm that each album falls within the date range, fits the project's style vocabulary, and is not already in the database. Only then does research begin.
+1. **Select and check.** Choose up to two candidates for the daily run. Before research begins, confirm that each album falls within the date range, fits the project's style categories, and is not already in the database. Only then does research begin.
 2. **Gather evidence.** Prepare a research file from published discographies, reference works, album credits, and other cited sources. The target is at least three independent sources per candidate. An AI model's own memory is not accepted as evidence.
 3. **Review independently.** Two AI reviewers assess the research file against the five factors above. Each prepares a case for and against inclusion. Another AI model combines their work into a ballot. If either reviewer does not answer, the process stops and no ballot is produced.
-4. **Stage for review.** The album is marked as a candidate and placed in my review queue with its research file and ballot.
+4. **Stage for my review.** The album is marked as a candidate and placed in my review queue with its research file and ballot.
 5. **Report and wait.** I receive the candidate names, ballots, and links to the research files. The automated process then stops until I make a decision.
 
 ## What goes into a research file
