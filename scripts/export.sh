@@ -269,6 +269,29 @@ SELECT json_build_object(
 );
 SQL
 
+# --- methodology-stats.json ---
+# Reader-facing "Current state" figures for the methodology note (brief
+# 2026-11-09 §6). checkedOn is the website publication date (America/New_York),
+# not a claim of live DB access; ship.sh pins it to its SHIP_DATE through
+# JAZZCANON_CHECKED_ON so a ship that straddles midnight cannot disagree with
+# itself. publishedAlbums uses the same gate as albums.json (approved+live), so
+# a batch about to ship is counted and the figure stays right after the flip.
+# sources/citations are deliberately whole-table counts: the research base,
+# not only what the published albums cite.
+CHECKED_ON="${JAZZCANON_CHECKED_ON:-$(TZ=America/New_York date +%F)}"
+[[ "$CHECKED_ON" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]] || {
+  echo "✗ INVARIANT FAILED: checkedOn '$CHECKED_ON' is not YYYY-MM-DD" >&2; exit 1; }
+"${PSQL[@]}" -v checked_on="$CHECKED_ON" <<'SQL' > "$OUT/methodology-stats.json"
+SELECT json_build_object(
+  'publishedAlbums', (SELECT count(*) FROM _jazzcanon.album
+                      WHERE canon_status = 'included'
+                        AND site_status IN ('approved', 'live')),
+  'sources',   (SELECT count(*) FROM _jazzcanon.source),
+  'citations', (SELECT count(*) FROM _jazzcanon.citation),
+  'checkedOn', :'checked_on'
+);
+SQL
+
 # --- structural invariants (no magic numbers — hold at any canon size) ---
 node - "$OUT" <<'JS'
 const fs = require('fs'), path = process.argv[2];
@@ -382,10 +405,28 @@ if (activity.meta.undatedOnlyPeople !== peopleIds.size - activity.people.length)
 for (const id of activity.meta.undatedAlbums)
   if (!albumIds.has(id)) fail(`activity meta.undatedAlbums unknown album ${id}`);
 
+// methodology-stats.json — exact key set, non-negative integer counts, a real
+// calendar date, and a published count that agrees with the file it describes.
+const stats = rd('methodology-stats.json');
+const STAT_KEYS = ['checkedOn', 'citations', 'publishedAlbums', 'sources'];
+if (stats === null || typeof stats !== 'object' || Array.isArray(stats))
+  fail('methodology-stats is not an object');
+if (Object.keys(stats).sort().join() !== STAT_KEYS.join())
+  fail(`methodology-stats keys ${Object.keys(stats).sort().join()} != ${STAT_KEYS.join()}`);
+for (const k of ['publishedAlbums', 'sources', 'citations'])
+  if (!Number.isSafeInteger(stats[k]) || stats[k] < 0)
+    fail(`methodology-stats ${k} is not a non-negative integer: ${JSON.stringify(stats[k])}`);
+if (typeof stats.checkedOn !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(stats.checkedOn)
+    || new Date(stats.checkedOn + 'T00:00:00Z').toISOString().slice(0, 10) !== stats.checkedOn)
+  fail(`methodology-stats checkedOn is not a YYYY-MM-DD date: ${JSON.stringify(stats.checkedOn)}`);
+if (stats.publishedAlbums !== albums.length)
+  fail(`methodology-stats publishedAlbums ${stats.publishedAlbums} != albums.json ${albums.length}`);
+
 const kb = f => Math.round(fs.statSync(path + '/' + f).size / 1024);
 console.log(`✓ Export valid — albums=${albums.length} people=${Object.keys(graph.people).length} `
   + `edges=${graph.edges.length} places=${places.length}  `
-  + `lanes=${activity.people.length} `
+  + `lanes=${activity.people.length} sources=${stats.sources} citations=${stats.citations} `
+  + `checkedOn=${stats.checkedOn} `
   + `(${kb('albums.json')}+${kb('details.json')}+${kb('graph.json')}+${kb('places.json')}`
-  + `+${kb('people-activity.json')} KB)`);
+  + `+${kb('people-activity.json')}+${kb('methodology-stats.json')} KB, 6 files)`);
 JS

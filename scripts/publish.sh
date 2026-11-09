@@ -14,7 +14,8 @@ mkdir -p "$SNAP"
 # Every file export.sh writes belongs in the snapshot — a file that is
 # exported and validated but not carried forward goes stale invisibly, which
 # is exactly what happened to places.json between 2026-08-14 and 2026-08-18.
-for f in albums.json details.json graph.json places.json people-activity.json; do
+for f in albums.json details.json graph.json places.json people-activity.json \
+         methodology-stats.json; do
   cp "$ROOT/exports/jazz-canon/$f" "$SNAP/"
 done
 

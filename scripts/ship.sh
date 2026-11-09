@@ -21,6 +21,7 @@ DATA_FILES=(
   app/public/data/graph.json
   app/public/data/places.json
   app/public/data/people-activity.json
+  app/public/data/methodology-stats.json
 )
 SITE_COMMIT_FILES=(
   app/public/data/recently-added.json
@@ -29,14 +30,40 @@ SITE_COMMIT_FILES=(
   app/public/data/people-activity.json
 )
 
-"$PLATFORM/scripts/publish.sh"
+# Pin the methodology figures' publication date to this ship's date, so an
+# export that runs after midnight cannot disagree with SHIP_DATE.
+JAZZCANON_CHECKED_ON="$SHIP_DATE" "$PLATFORM/scripts/publish.sh"
 
 # Same rule as publish.sh's snapshot: everything export.sh writes ships.
 # places.json was hand-carried once (site commit f4b92f5) and never wired in.
-for f in albums.json details.json graph.json places.json people-activity.json; do
+for f in albums.json details.json graph.json places.json people-activity.json \
+         methodology-stats.json; do
   cp "$PLATFORM/exports/jazz-canon/$f" "$SITE/app/public/data/"
 done
-echo "✓ Copied contract into site (5 files)"
+echo "✓ Copied contract into site (6 files)"
+
+# export.sh already validated methodology-stats.json; re-check the copy the
+# gallery will actually serve, so a missing or stale file stops the ship here,
+# before any site commit, build, or deploy. Never ship stale or hard-coded figures.
+node - "$SITE/app/public/data" "$SHIP_DATE" <<'JS'
+const fs = require('fs'), [dir, shipDate] = process.argv.slice(2);
+const fail = m => { console.error('✗ methodology-stats.json: ' + m); process.exit(1); };
+let s, albums;
+try { s = JSON.parse(fs.readFileSync(dir + '/methodology-stats.json', 'utf8')); }
+catch (e) { fail('missing or unreadable (' + e.message + ')'); }
+try { albums = JSON.parse(fs.readFileSync(dir + '/albums.json', 'utf8')); }
+catch (e) { fail('albums.json unreadable (' + e.message + ')'); }
+if (s === null || typeof s !== 'object' || Array.isArray(s)) fail('not an object');
+if (Object.keys(s).sort().join() !== 'checkedOn,citations,publishedAlbums,sources')
+  fail('unexpected keys ' + Object.keys(s).sort().join());
+for (const k of ['publishedAlbums', 'sources', 'citations'])
+  if (!Number.isSafeInteger(s[k]) || s[k] < 0) fail(k + ' is not a non-negative integer');
+if (s.checkedOn !== shipDate) fail(`checkedOn ${s.checkedOn} != ship date ${shipDate}`);
+if (!Array.isArray(albums) || s.publishedAlbums !== albums.length)
+  fail(`publishedAlbums ${s.publishedAlbums} != albums.json ${albums && albums.length}`);
+console.log(`✓ Methodology stats valid — publishedAlbums=${s.publishedAlbums} `
+  + `sources=${s.sources} citations=${s.citations} checkedOn=${s.checkedOn}`);
+JS
 
 # The gallery owns this file's shape. The generator validates the whole existing
 # document before any write and refuses atomically if that contract has drifted.
@@ -67,7 +94,7 @@ sha256sum --check "$CHECKSUM_TMP"
 mv "$CHECKSUM_TMP" docs/last-ship-checksums.txt
 CHECKSUM_TMP=""
 sha256sum --check docs/last-ship-checksums.txt
-echo "✓ Checksum manifest regenerated and verified (5 files)"
+echo "✓ Checksum manifest regenerated and verified (6 files)"
 
 # Commit only the tracked ship outputs. --only leaves any unrelated staged or
 # dirty work exactly where it was; ignored generated exports remain uncommitted.
