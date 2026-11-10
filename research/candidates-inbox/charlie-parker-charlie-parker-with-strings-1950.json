@@ -1,0 +1,1080 @@
+{
+  "id": "charlie-parker-charlie-parker-with-strings-1950",
+  "artist": "Charlie Parker",
+  "album": "Charlie Parker with Strings",
+  "year": 1950,
+  "label": "Mercury",
+  "catalog_number": "Mercury MG-35010 and MGC-109 (10-inch, 1950); first 12-inch compilation Clef MGC-675 (1955)",
+  "style_primary": "bebop",
+  "style_tags": [
+    "cool-jazz"
+  ],
+  "rationale": "Charlie Parker with Strings is the bebop canon's great lyric record: two 1950 Mercury sessions that put Parker's alto in front of a chamber string section and a jazz rhythm section, and the only place in his discography where the ballad side of his playing is the whole argument [S1,S2] (obs). Consensus and institutional standing are documented: the 1955 Clef compilation rates 5/5 at AllMusic and 4/5 in the Penguin Guide, the sessions were Parker's most popular sellers during his lifetime, and they were admitted to the Grammy Hall of Fame in 1988 [S1] (obs). Defining statement: this is the record that answers the question 'what did Parker hear when he heard strings?' — the project he had wanted since at least 1941 ('I asked for strings as far back as 1941', quoted from Priestley in S1), realised under Norman Granz, with Parker's own readings of 'Just Friends', 'April in Paris', 'Summertime' and 'I'll Remember April' as the evidence [S1,S2] (obs). Lineage is unusually direct and unusually well evidenced: S1 states outright that these sessions created a vogue among jazz musicians for recording with strings, naming Clifford Brown with Strings (1955) and Stan Getz's Focus (1961) as the immediate offspring — and Focus is already in the canon, so the influence this record exerted is audible in an album the collection already holds [S1] (obs); the canon's own bebop holdings make the same point from the other side, since the Charlie Parker Story (1945), Bird on 52nd Street (1948) and Bird and Diz (1950) show every Parker idiom except this one (verified against _jazzcanon.album, 2026-11-10) (obs). Session gravity is a different kind than usual for this canon: the rhythm section is Stan Freeman, Ray Brown and Buddy Rich, but the strings and reeds were contracted through Mitch Miller out of the NBC Symphony pool — Frank Brieff, Frank Miller, Milton Lomask — which is exactly the kind of crossover the canon's personnel network exists to record, and three of those players (Milton Lomask, Maurice Brown, Samuel Rand) already appear in the database on Lady in Satin [S1,S2,S3] (obs). It still plays: 'Just Friends' and 'April in Paris' are the standard-bearers, and the July session's 'I'll Remember April' is the one that convinces sceptics [S1,S2] (obs). Scope note for the council: this is an album assembled from two studio sessions and issued first as two 10-inch LPs, later as the 12-inch Clef MGC-675 — the dossier models the 12-track MGC-675 programme and says so in the notes; the remaining two July masters were issued on Mercury MGC-609, and the 1995 Verve Master Takes expands the set with live and 1952 material that is excluded here [S1,S2,S3] (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — Charlie Parker with Strings (1955 Clef compilation assembling the two 1950 Mercury 10-inch albums MG-35010 and MGC-109; sessions November 30, 1949 and July 5, 1950; producer Norman Granz; full personnel lists for both sessions; track listings with composers and durations; ratings box: AllMusic 5/5, The Penguin Guide to Jazz Recordings 4/5; 'Parker's most popular sellers during his lifetime'; Grammy Hall of Fame 1988; legacy section crediting the sessions with the vogue for jazz-with-strings and naming Clifford Brown with Strings 1955 and Stan Getz's Focus 1961; Parker quoted via Priestley: 'I asked for strings as far back as 1941'; 1995 Verve reissue Charlie Parker with Strings: The Master Takes adds five Carnegie Hall September 17, 1950 titles, four January 1952 studio titles and one December 1947 Jazz Scene title; MusicBrainz release groups 0043a095-d4df-313b-a600-c3df6f166f02 and a62849c1-252f-4044-a6f8-3b72aa3057ee)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings"
+    },
+    "S2": {
+      "title": "Jazz Discography Project — Charlie Parker catalog, Clef MGC-675 'Charlie Parker With Strings' (1955): November 30, 1949 session personnel (Mitch Miller oboe/English horn; Parker alto sax; Bronislaw Gimpel, Max Hollander, Milton Lomask violin; Frank Brieff viola; Frank Miller cello; Meyer Rosen harp; Stan Freeman piano; Ray Brown bass; Buddy Rich drums; Jimmy Carroll arranger/conductor), matrices 319-5 to 324-3; July 5, 1950 session personnel (Joseph Singer French horn; Edwin C. Brown oboe; Parker alto sax; Sam Kaplan, Harry Melnikoff, Sam Rand, Ziggy Smirnoff violin; Howard Kay, Isadore Zir viola; Maurice Brown cello; Verley Mills harp; Bernie Leighton piano; Ray Brown bass; Buddy Rich drums; Joe Lippman arranger/conductor), matrices 443-2 to 449-2; both sessions at Reeves Sound Studios, NYC; matrix 442-5 'Dancing In The Dark' listed under Mercury MGC-609 Charlie Parker Big Band",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/charlie-parker/catalog/"
+    },
+    "S3": {
+      "title": "Discogs — Charlie Parker With Strings, Mercury MGC-509 (10-inch, 8 tracks; matrix MGC 509 A/B) credits: Arranged By Joe Lipman; Bass Ray Brown; Cello Maurice Brown; Drums Buddy Rich; French Horn Joseph Singer; Harp Verlye Mills; Oboe Edwin C. Brown; Piano Bernie Leighton; Supervised By / Liner Notes Norman Granz; Viola Isadore Zir; Violin Harry Melnikoff, Howard A. Kay, Sam Caplan, Samuel Rand, Zelly Smirnoff; cover David Stone Martin; track list Laura / They Can't Take That Away From Me / You Came Along From Out Of Nowhere / East Of The Sun / Dancing In The Dark / Easy To Love / I'm In The Mood For Love / I'll Remember April",
+      "type": "web",
+      "url": "https://www.discogs.com/release/3532839-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings"
+    },
+    "S4": {
+      "title": "iTunes Search API — Charlie Parker, 'Charlie Parker With Strings: Complete Master Takes' (collectionId 1425188521, releaseDate 1995-01-24, trackCount 24, Verve Label Group) and 'Charlie Parker With Strings (Deluxe Edition)' (collectionId 1427709406, releaseDate 1950-01-01, trackCount 43)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=charlie+park+with+strings&entity=album&limit=15"
+    },
+    "S5": {
+      "title": "MusicBrainz / Cover Art Archive — release group 0043a095-d4df-313b-a600-c3df6f166f02 'Charlie Parker with Strings' (Cover Art Archive holds a front image for release 3b4759fd-dc06-4eb9-93e8-97d9da21ca2d in this group)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/0043a095-d4df-313b-a600-c3df6f166f02"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1949-11-30",
+      "1950-07-05"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1949-11-30",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      },
+      {
+        "session_date": "1950-07-05",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Norman Granz",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Charlie Parker",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Bird"
+        ],
+        "notes": "Leader on both sessions; the strings repertoire is Parker on alto throughout."
+      },
+      {
+        "name": "Mitch Miller",
+        "instrument": "oboe",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "November 30, 1949 only. Jazzdisco and Wikipedia credit him on oboe and English horn; the taxonomy has no English-horn entry, so the doubling is recorded here (S1, S2). Widely described as the date's contractor."
+      },
+      {
+        "name": "Bronislaw Gimpel",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Bronislav Gimpel"
+        ],
+        "notes": "Spelled Bronislav in Wikipedia and Discogs, Bronislaw in jazzdisco."
+      },
+      {
+        "name": "Max Hollander",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Milton Lomask",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Already in the canon as a violinist on Billie Holiday's Lady in Satin (1958)."
+      },
+      {
+        "name": "Frank Brieff",
+        "instrument": "viola",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frank Miller",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "NBC Symphony cellist; distinct person from the trumpeter of the same name, not otherwise in the canon."
+      },
+      {
+        "name": "Meyer Rosen",
+        "instrument": "harp",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Myor Rosen"
+        ],
+        "notes": "Spelled Myor in Wikipedia, Meyer in jazzdisco."
+      },
+      {
+        "name": "Stan Freeman",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ray Brown",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "The one musician common to both sessions besides Parker and Rich."
+      },
+      {
+        "name": "Buddy Rich",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Carroll",
+        "instrument": "conductor",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Just Friends",
+          "Everything Happens to Me",
+          "April in Paris",
+          "Summertime",
+          "I Didn't Know What Time It Was",
+          "If I Should Lose You"
+        ],
+        "session_dates": [
+          "1949-11-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Arranger and conductor for the November 30, 1949 session (S1, S2)."
+      },
+      {
+        "name": "Joe Singer",
+        "instrument": "French horn",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Joseph Singer"
+        ],
+        "notes": "Named Joseph Singer by the sources; recorded here under the database's existing canonical spelling for this French horn player, who already appears on Sketches of Spain (1960)."
+      },
+      {
+        "name": "Edwin C. Brown",
+        "instrument": "oboe",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Eddie Brown"
+        ],
+        "notes": "Spelled Edwin C. Brown by jazzdisco and Discogs, Eddie Brown by Wikipedia."
+      },
+      {
+        "name": "Sam Caplan",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Sam Kaplan"
+        ],
+        "notes": "Wikipedia and Discogs read Caplan; jazzdisco reads Sam Kaplan (S2). Two sources against one, so the Caplan spelling is used and the variant preserved."
+      },
+      {
+        "name": "Harry Melnikoff",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Samuel Rand",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Sam Rand"
+        ],
+        "notes": "Already in the canon as a violinist on Lady in Satin (1958); sources also print Sam Rand."
+      },
+      {
+        "name": "Zelly Smirnoff",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Ziggy Smirnoff"
+        ],
+        "notes": "Wikipedia and Discogs read Zelly; jazzdisco reads Ziggy (S2)."
+      },
+      {
+        "name": "Howard Kay",
+        "instrument": "violin",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Howard A. Kay"
+        ],
+        "notes": "Instrument conflict preserved: Wikipedia and Discogs list him among five violins for the July 5, 1950 session, jazzdisco lists him as one of two violas (with Isadore Zir). The violin reading is recorded here from the two-source majority, marked unk because the sources disagree."
+      },
+      {
+        "name": "Isadore Zir",
+        "instrument": "viola",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Maurice Brown",
+        "instrument": "cello",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Already in the canon as a cellist on Lady in Satin (1958) and Mingus Dynasty (1959)."
+      },
+      {
+        "name": "Verlye Mills",
+        "instrument": "harp",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Verley Mills"
+        ],
+        "notes": "Spelled Verlye by Discogs, Verley by Wikipedia and jazzdisco."
+      },
+      {
+        "name": "Bernie Leighton",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Joe Lipman",
+        "instrument": "conductor",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Came Along (From Out of Nowhere)",
+          "East of the Sun (and West of the Moon)",
+          "They Can't Take That Away from Me",
+          "Easy to Love",
+          "I'm in the Mood for Love",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1950-07-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Joe Lippman"
+        ],
+        "notes": "Arranger and conductor for the July 5, 1950 session; spelled Lippman by jazzdisco (S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Just Friends",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:30",
+        "session_date": "1949-11-30",
+        "composers": [
+          "John Klenner",
+          "Sam M. Lewis"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Mitch Miller",
+          "Bronislaw Gimpel",
+          "Max Hollander",
+          "Milton Lomask",
+          "Frank Brieff",
+          "Frank Miller",
+          "Meyer Rosen",
+          "Stan Freeman",
+          "Ray Brown",
+          "Buddy Rich",
+          "Jimmy Carroll"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Everything Happens to Me",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:15",
+        "session_date": "1949-11-30",
+        "composers": [
+          "Matt Dennis",
+          "Tom Adair"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Mitch Miller",
+          "Bronislaw Gimpel",
+          "Max Hollander",
+          "Milton Lomask",
+          "Frank Brieff",
+          "Frank Miller",
+          "Meyer Rosen",
+          "Stan Freeman",
+          "Ray Brown",
+          "Buddy Rich",
+          "Jimmy Carroll"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "April in Paris",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:12",
+        "session_date": "1949-11-30",
+        "composers": [
+          "Vernon Duke",
+          "E. Y. Harburg"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Mitch Miller",
+          "Bronislaw Gimpel",
+          "Max Hollander",
+          "Milton Lomask",
+          "Frank Brieff",
+          "Frank Miller",
+          "Meyer Rosen",
+          "Stan Freeman",
+          "Ray Brown",
+          "Buddy Rich",
+          "Jimmy Carroll"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Summertime",
+        "track_number": 4,
+        "side": "A",
+        "duration": "2:46",
+        "session_date": "1949-11-30",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin",
+          "DuBose Heyward"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Mitch Miller",
+          "Bronislaw Gimpel",
+          "Max Hollander",
+          "Milton Lomask",
+          "Frank Brieff",
+          "Frank Miller",
+          "Meyer Rosen",
+          "Stan Freeman",
+          "Ray Brown",
+          "Buddy Rich",
+          "Jimmy Carroll"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I Didn't Know What Time It Was",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:12",
+        "session_date": "1949-11-30",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Mitch Miller",
+          "Bronislaw Gimpel",
+          "Max Hollander",
+          "Milton Lomask",
+          "Frank Brieff",
+          "Frank Miller",
+          "Meyer Rosen",
+          "Stan Freeman",
+          "Ray Brown",
+          "Buddy Rich",
+          "Jimmy Carroll"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "If I Should Lose You",
+        "track_number": 6,
+        "side": "A",
+        "duration": "2:46",
+        "session_date": "1949-11-30",
+        "composers": [
+          "Ralph Rainger",
+          "Leo Robin"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Mitch Miller",
+          "Bronislaw Gimpel",
+          "Max Hollander",
+          "Milton Lomask",
+          "Frank Brieff",
+          "Frank Miller",
+          "Meyer Rosen",
+          "Stan Freeman",
+          "Ray Brown",
+          "Buddy Rich",
+          "Jimmy Carroll"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "You Came Along (From Out of Nowhere)",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:06",
+        "session_date": "1950-07-05",
+        "composers": [
+          "Johnny Green",
+          "Edward Heyman"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Joe Singer",
+          "Edwin C. Brown",
+          "Sam Caplan",
+          "Harry Melnikoff",
+          "Samuel Rand",
+          "Zelly Smirnoff",
+          "Howard Kay",
+          "Isadore Zir",
+          "Maurice Brown",
+          "Verlye Mills",
+          "Bernie Leighton",
+          "Ray Brown",
+          "Buddy Rich",
+          "Joe Lipman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "East of the Sun (and West of the Moon)",
+        "track_number": 8,
+        "side": "B",
+        "duration": "3:37",
+        "session_date": "1950-07-05",
+        "composers": [
+          "Brooks Bowman"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Joe Singer",
+          "Edwin C. Brown",
+          "Sam Caplan",
+          "Harry Melnikoff",
+          "Samuel Rand",
+          "Zelly Smirnoff",
+          "Howard Kay",
+          "Isadore Zir",
+          "Maurice Brown",
+          "Verlye Mills",
+          "Bernie Leighton",
+          "Ray Brown",
+          "Buddy Rich",
+          "Joe Lipman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "They Can't Take That Away from Me",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:17",
+        "session_date": "1950-07-05",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Joe Singer",
+          "Edwin C. Brown",
+          "Sam Caplan",
+          "Harry Melnikoff",
+          "Samuel Rand",
+          "Zelly Smirnoff",
+          "Howard Kay",
+          "Isadore Zir",
+          "Maurice Brown",
+          "Verlye Mills",
+          "Bernie Leighton",
+          "Ray Brown",
+          "Buddy Rich",
+          "Joe Lipman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Easy to Love",
+        "track_number": 10,
+        "side": "B",
+        "duration": "3:29",
+        "session_date": "1950-07-05",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Joe Singer",
+          "Edwin C. Brown",
+          "Sam Caplan",
+          "Harry Melnikoff",
+          "Samuel Rand",
+          "Zelly Smirnoff",
+          "Howard Kay",
+          "Isadore Zir",
+          "Maurice Brown",
+          "Verlye Mills",
+          "Bernie Leighton",
+          "Ray Brown",
+          "Buddy Rich",
+          "Joe Lipman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'm in the Mood for Love",
+        "track_number": 11,
+        "side": "B",
+        "duration": "3:33",
+        "session_date": "1950-07-05",
+        "composers": [
+          "Jimmy McHugh",
+          "Dorothy Fields"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Joe Singer",
+          "Edwin C. Brown",
+          "Sam Caplan",
+          "Harry Melnikoff",
+          "Samuel Rand",
+          "Zelly Smirnoff",
+          "Howard Kay",
+          "Isadore Zir",
+          "Maurice Brown",
+          "Verlye Mills",
+          "Bernie Leighton",
+          "Ray Brown",
+          "Buddy Rich",
+          "Joe Lipman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'll Remember April",
+        "track_number": 12,
+        "side": "B",
+        "duration": "3:02",
+        "session_date": "1950-07-05",
+        "composers": [
+          "Gene de Paul",
+          "Patricia Johnston",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Charlie Parker",
+          "Joe Singer",
+          "Edwin C. Brown",
+          "Sam Caplan",
+          "Harry Melnikoff",
+          "Samuel Rand",
+          "Zelly Smirnoff",
+          "Howard Kay",
+          "Isadore Zir",
+          "Maurice Brown",
+          "Verlye Mills",
+          "Bernie Leighton",
+          "Ray Brown",
+          "Buddy Rich",
+          "Joe Lipman"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "0043a095-d4df-313b-a600-c3df6f166f02",
+    "apple_album_id": "1425188521",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/0043a095-d4df-313b-a600-c3df6f166f02/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image held by the Cover Art Archive for release group 0043a095 (release 3b4759fd-dc06-4eb9-93e8-97d9da21ca2d, a CD edition with booklet scans). The image is a CD-era cover, not verified as the 1950 10-inch sleeve, so is_original_cover is left null."
+      }
+    ],
+    "notes": "Two studio sessions, both at Reeves Sound Studios, New York City: November 30, 1949 (producer Norman Granz, arranger/conductor Jimmy Carroll) and July 5, 1950 (arranger/conductor Joe Lipman), per S2 and S1. Release history is genuinely tangled and is recorded rather than smoothed: the 1949 session yielded the six-track 10-inch Mercury MG-35010 (1950); the July 1950 session yielded eight masters issued on the 10-inch Mercury MGC-109 / MGC-509, whose Discogs track order (S3) is Laura, They Can't Take That Away From Me, You Came Along From Out of Nowhere, East of the Sun, Dancing in the Dark, Easy to Love, I'm in the Mood for Love, I'll Remember April. The first 12-inch compilation, Clef MGC-675 (1955), carries twelve of the fourteen masters — six per side — and that is the programme modelled here (S2). The two remaining July masters, 'Dancing in the Dark' (matrix 442-5) and 'Laura' (matrix 444-1), were issued on Mercury MGC-609 Charlie Parker Big Band and are excluded from this track list; the 1995 Verve Charlie Parker with Strings: The Complete Master Takes (24 tracks) adds them back along with five Carnegie Hall titles from September 17, 1950, four January 1952 studio titles and one December 1947 Jazz Scene title, all reissue-era material (S1, S4). Producer: Norman Granz, credited as supervisor and liner-note writer on the Discogs credit block (S3) and named as producer by S1; no recording engineer is named by any source, so engineer is null rather than inferred. Instrument conflicts preserved: Howard Kay is a violin in Wikipedia and Discogs but one of two violas in jazzdisco (recorded violin, unk); Wikipedia lists five violins and one viola for the July session while jazzdisco lists four violins and two violas — Discogs agrees with Wikipedia, so the two-source reading is used and the divergence noted. Name spellings: Caplan/Kaplan, Smirnoff (Zelly/Ziggy), Rosen (Meyer/Myor), Brown (Edwin/Eddie), Mills (Verlye/Verley), Gimpel (Bronislaw/Bronislav), Lipman/Lippman — the majority or database-existing form is used in each case and the variant recorded. The July 1950 dates are also documented as carrying uncredited xylophone and tuba on one title (S1); those players are unnamed in every source consulted, so no personnel row is invented for them. Track personnel arrays follow session membership, not track-level documentation, so every track is marked epistemic inf and track_assignments_complete is false. Apple Music has no edition of this album matching the 12-track 1955 LP; the recorded apple_album_id is the 1995 Complete Master Takes (S4)."
+  },
+  "ballot": {
+    "album": "Charlie Parker — Charlie Parker with Strings (1950)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is Parker’s defining orchestral statement: bebop’s harmonic and rhythmic intelligence expressed through lyrical standards, with “Just Friends” offering an especially accessible encounter with his improvisational genius. The dossier reports AllMusic’s 5/5, Penguin’s 4/5, Grammy Hall of Fame recognition, and exceptional lifetime popularity, although those claims are mediated through S1 rather than independently supplied reviews. Its strongest lineage argument is the vogue for jazz-with-strings that S1 connects to Clifford Brown with Strings and Stan Getz’s Focus, the latter already represented in this canon. Ray Brown, Buddy Rich, and the orchestral personnel documented in S2–S3 also connect Parker’s experiment to the wider network of canonical orchestral jazz.",
+    "case_against": "The string arrangements can sound like conventional commercial sweetening rather than responsive ensemble partners, limiting the rhythmic interaction and collective invention that make small-group bebop compelling. The proposed album artifact also needs precise identification: its twelve-track programme belongs to the 1955 Clef compilation, not a single 1950 release, while the linked digital edition contains substantially more material [S1–S4]. Finally, most evidence for critical consensus and historical influence funnels through Wikipedia; the remaining sources substantiate editions and personnel much more strongly than canonical standing.",
+    "disagreement": "Both references judge the album consensus_core and within scope, but differ on urgency: Reference 1 recommends strong, while Reference 2 calls it must_have. They also differ aesthetically over whether the strings provide meaningful counterpoint or largely static accompaniment; the second reference briefly raises an album-artifact boundary but ultimately accepts the compilation, so this is not a substantive scope split.",
+    "recommendation": "The council proposes John give this strong-priority consideration as a consensus-core Parker statement, with the twelve-track Clef programme clearly identified and the principal critical claims checked against direct sources.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

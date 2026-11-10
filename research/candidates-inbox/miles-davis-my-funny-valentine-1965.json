@@ -1,0 +1,304 @@
+{
+  "id": "miles-davis-my-funny-valentine-1965",
+  "artist": "Miles Davis",
+  "album": "My Funny Valentine",
+  "year": 1965,
+  "label": "Columbia",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "cool-jazz"
+  ],
+  "rationale": "My Funny Valentine is the ballad half of the Miles Davis Quintet's February 12, 1964 concert at Philharmonic Hall, Lincoln Center — the up-tempo half was issued separately as Four & More — and it is the record that fixes the sound of the pre-Shorter quintet at its peak: Davis, George Coleman, Herbie Hancock, Ron Carter and Tony Williams [S1,S2] (obs). Consensus across independent listing traditions is real, and the shape of it is worth stating plainly: AllMusic rates the album 4.5/5, with Scott Yanow's review describing the five long performances as putting the emphasis on Davis's lyricism alongside 'strong statements' from Coleman and 'freer moments' from the young rhythm section; DownBeat's 1965 review is also 4.5/5, and the Penguin Guide 3.5/5 [S1,S2] (obs). The defining-statement case rests on Ian Carr's judgment, quoted in S1, that these performances 'were played with more depth and brilliance than Miles had achieved before' and that the album is 'one of the very greatest recordings of a live concert' [S1] (obs). Session gravity is the album's real weight: this is the Hancock–Carter–Williams rhythm section — the engine of the Second Great Quintet — playing what S1 documents as the band's biggest date to that point, and the concert is the last recording George Coleman made with Davis before Sam Rivers and then Wayne Shorter took the tenor chair [S1] (obs). Lineage: it sits between two records already in the canon, Seven Steps to Heaven (1963, the same book with a different rhythm section) and E.S.P. (1965, the Shorter band), which makes the concert the audible hinge of the transition — an inference the discography makes hard to avoid [S1,S2] (inf). It still plays: the fifteen-minute title performance, 'All of You', and a 'Stella by Starlight' that Carr compares directly with the 1958 reading [S1,S2] (obs). Gap: the canon holds no recording from this concert and none from the 1964 quintet's live book, and Philharmonic Hall is not yet in the place vocabulary — this dossier mints it (verified against _jazzcanon.album and _jazzcanon.studio, 2026-11-10) (obs).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia — My Funny Valentine: Miles Davis in Concert (live album, Columbia, released February 23, 1965; recorded February 12, 1964 at Philharmonic Hall, Lincoln Center, New York City; producer Teo Macero, recording engineer Fred Plaut, liner notes Nat Hentoff; full track listing with composers and durations 15:03/14:57/13:01/8:57/11:14, total 63:12; personnel: Miles Davis trumpet, George Coleman tenor saxophone, Herbie Hancock piano, Ron Carter double bass, Tony Williams drums; ratings box: AllMusic 4.5/5, DownBeat 4.5/5, The Penguin Guide to Jazz Recordings 3.5/5; Ian Carr quoted on the Funny Valentine performances: 'played with more depth and brilliance than Miles had achieved before' and 'one of the very greatest recordings of a live concert'; concert was an NAACP/CORE/SNCC benefit; George Coleman's final recording with Davis; MusicBrainz release group 21681a16-6223-3176-b571-094e47170ce4)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/My_Funny_Valentine:_Miles_Davis_in_Concert"
+    },
+    "S2": {
+      "title": "AllMusic — My Funny Valentine, Miles Davis (mw0000023241): Release Date May 1965, Duration 1:02:33, Recording Date February 12, 1964, Recording Location 'Philharmonic Hall, Lincoln Center, New York, NY'; Styles Cool / Hard Bop / Jazz Instrument / Trumpet Jazz; review by Scott Yanow ('put the emphasis on the lyricism of Davis, along with some strong statements from tenor saxophonist George Coleman and freer moments from the young rhythm section of pianist Herbie Hancock, bassist Ron Carter, and drummer Tony Williams'); full credits tab: Miles Davis trumpet; George Coleman tenor sax; Herbie Hancock piano; Ron Carter bass; Tony Williams drums; Teo Macero original album producer/producer; Fred Plaut engineer/original engineering; Nat Hentoff liner notes; Mark Wilder mastering/remixing; reissue producers Michael Cuscuna and Bob Belden)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/my-funny-valentine-mw0000023241"
+    },
+    "S3": {
+      "title": "iTunes Search API — Miles Davis, 'My Funny Valentine: In Concert (Live)' (collectionId 159070784, releaseDate 1965-02-23, trackCount 5, copyright 'Originally Released 1965 Sony BMG Music Entertainment', primaryGenreName Jazz)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=miles+davis+my+funny+valentine&entity=album&limit=15"
+    },
+    "S4": {
+      "title": "MusicBrainz / Cover Art Archive — release group 21681a16-6223-3176-b571-094e47170ce4 'My Funny Valentine: Miles Davis in Concert' (Cover Art Archive holds a front image for release bedd8c07-21d9-40aa-bcc4-c11e95832dad in this group)",
+      "type": "web",
+      "url": "https://coverartarchive.org/release-group/21681a16-6223-3176-b571-094e47170ce4"
+    },
+    "S5": {
+      "title": "Wikipedia — David Geffen Hall (former names: Philharmonic Hall 1962–1973, Avery Fisher Hall 1973–2015; Address 10 Lincoln Center Plaza; Coordinates 40.77278, -73.98306) — used only to mint the recording place",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/David_Geffen_Hall"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-02-12"
+    ],
+    "multi_session": false,
+    "studio": "Philharmonic Hall, Lincoln Center, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1964-02-12",
+        "site_raw": "Philharmonic Hall, Lincoln Center, New York, NY",
+        "site_slug": null,
+        "site_new": {
+          "name": "Philharmonic Hall (Lincoln Center)",
+          "city": "New York, NY",
+          "kind": "hall",
+          "address": "10 Lincoln Center Plaza",
+          "lat": 40.77278,
+          "lon": -73.98306,
+          "location_epistemic": "obs",
+          "location_source": "https://en.wikipedia.org/wiki/David_Geffen_Hall (former names Philharmonic Hall 1962-1973, Avery Fisher Hall 1973-2015; address 10 Lincoln Center Plaza) | coords: Wikipedia coordinate via scripts/geocode-place.py --wikipedia 'Avery Fisher Hall' (40.77278, -73.98306)"
+        },
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Teo Macero",
+    "engineer": "Fred Plaut",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Miles Davis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader; composer of 'All Blues'."
+      },
+      {
+        "name": "George Coleman",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Last recording with Davis before Sam Rivers and Wayne Shorter (S1)."
+      },
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Twenty-three years old at the concert per his quoted recollection in S1."
+      },
+      {
+        "name": "Ron Carter",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Also wrote the liner notes for the reissue (S1, S2)."
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "My Funny Valentine",
+        "track_number": 1,
+        "side": "A",
+        "duration": "15:03",
+        "session_date": "1964-02-12",
+        "composers": [
+          "Richard Rodgers",
+          "Lorenz Hart"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "All of You",
+        "track_number": 2,
+        "side": "A",
+        "duration": "14:57",
+        "session_date": "1964-02-12",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Stella by Starlight",
+        "track_number": 3,
+        "side": "B",
+        "duration": "13:01",
+        "session_date": "1964-02-12",
+        "composers": [
+          "Victor Young",
+          "Ned Washington"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "All Blues",
+        "track_number": 4,
+        "side": "B",
+        "duration": "8:57",
+        "session_date": "1964-02-12",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I Thought About You",
+        "track_number": 5,
+        "side": "B",
+        "duration": "11:14",
+        "session_date": "1964-02-12",
+        "composers": [
+          "Jimmy Van Heusen",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Miles Davis",
+          "George Coleman",
+          "Herbie Hancock",
+          "Ron Carter",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "21681a16-6223-3176-b571-094e47170ce4",
+    "apple_album_id": "159070784",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/21681a16-6223-3176-b571-094e47170ce4/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image held by the Cover Art Archive for release group 21681a16 (release bedd8c07-21d9-40aa-bcc4-c11e95832dad). The CAA response does not identify which pressing the image comes from, so the pressing is unverified and is_original_cover is left null."
+      }
+    ],
+    "notes": "One concert date: Philharmonic Hall, Lincoln Center, New York City, February 12, 1964 (S1, S2). The concert was split across two LPs — the up-tempo pieces appeared as Four & More (1966), the slow and medium-tempo pieces here (S1). Release dates disagree slightly and both are recorded: Wikipedia gives February 23, 1965 (citing milesdavis.com) while AllMusic gives May 1965 (S1, S2); the iTunes releaseDate is 1965-02-23 (S3). The concert was one of a series of NAACP / Congress of Racial Equality / SNCC benefits at the newly built hall, ostensibly in support of voter registration in Mississippi and Louisiana (S1). Side layout: side A carries 'My Funny Valentine' and 'All of You' (30:00), side B 'Stella by Starlight', 'All Blues' and 'I Thought About You' (33:12), total 63:12 (S1); AllMusic gives a duration of 1:02:33 (S2). Personnel is a single quintet for the whole date with no track-level variation, so each track carries the full ensemble and track_assignments_complete is true. The place is minted here: Philharmonic Hall (opened 1962) is the hall later renamed Avery Fisher Hall (1973) and David Geffen Hall (2015) — one room, three names, one place (S5). Reissue credits (Michael Cuscuna, Bob Belden, Mark Wilder, Randall Martin, Giorgio Molinari) are recorded in the source map but not as session personnel (S1, S2)."
+  },
+  "ballot": {
+    "album": "Miles Davis — My Funny Valentine (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a defining document of Davis's Coleman-era quintet: his expansive lyricism meets the increasingly free interplay of Hancock, Carter, and Williams, making the transition toward the Second Great Quintet audible through familiar standards [S1, S2]. Ian Carr called it 'one of the very greatest recordings of a live concert,' while AllMusic's directly sourced 4.5/5 assessment praises Davis, Coleman, and the young rhythm section; DownBeat's 4.5/5 is reported through S1. Its strongest claim is not merely historical placement between Seven Steps to Heaven and E.S.P., but the distinctive musical achievement of the extended title performance and 'Stella by Starlight': accessible repertoire transformed through ensemble interaction [S1, S2].",
+    "case_against": "The release isolates the concert's slower and medium-tempo performances from the up-tempo material issued as Four & More, so it offers a curated aspect of the band's achievement rather than its full live dynamic range [S1]. If the discovery goal is the rhythm section's most disruptive playing or the Shorter quintet's integrated conception, Four & More or later quintet recordings may provide a more decisive introduction. The consensus evidence also warrants restraint: DownBeat, Penguin, and Carr are mediated through Wikipedia, and favorable ratings—including Penguin's reported 3.5/5—do not themselves establish core-collection or independent canon-list status [S1, S2].",
+    "disagreement": "Both references judge the album consensus_core and identify no scope boundary, but they differ on urgency: Reference 1 calls it must_have because its omission leaves a conspicuous historical gap; Reference 2 calls it strong because its substantial bridge function does not require treating it as an indispensable first-priority acquisition. They also differ on evidentiary sufficiency: Reference 1 stresses the indirect sourcing of critical consensus, whereas Reference 2 considers the dossier adequately source-disciplined.",
+    "recommendation": "The council proposes that John give this consensus-core candidate strong priority, weighing its distinctive live achievement rather than treating chronological gap-filling alone as a must-have mandate.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
