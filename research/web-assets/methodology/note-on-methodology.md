@@ -4,12 +4,12 @@
 
 A Jazz Canon is a personal collection of jazz albums, not a comprehensive catalog. The current scope is 1945–1985, based on the year the album was recorded or originally released. The main test is simple: is this an album I would hand a friend to explain what this music is?
 
-AI helps with research and review. It does not choose the collection. I listen to the candidates and make every final decision.
+AI models help with research and review. They do not choose the collection. I listen to the candidates and make every final decision.
 
 ## Who does what
 
-- **Research assistant:** one AI research assistant proposes candidates, usually two a day, and prepares a research file for each album.
-- **Independent reviewers:** two separate AI reviewers assess each research file. A fourth AI model combines their assessments into a ballot, preserving any disagreement.
+- **Research assistant:** one AI model proposes candidates, usually two a day, and prepares a research file for each album.
+- **Independent reviewers:** two separate AI models assess each research file. A fourth AI model combines their assessments into a ballot, preserving any disagreement.
 - **Curator:** I read the ballot, listen to the album, and decide whether to include, exclude, or defer it. Mine is the only binding verdict.
 - **Publishing:** included albums are added to the website in batches. I initiate every website update.
 
@@ -17,7 +17,7 @@ No AI model can add an album to the collection.
 
 ## How candidates are evaluated
 
-Each candidate is assessed on five factors, in rough order of weight:
+Each candidate album is assessed on five factors, in rough order of weight:
 
 - **Consensus:** the album appears repeatedly in independent guides, polls, and musician lists.
 - **Defining statement:** the album establishes an artist's or a scene's sound.
@@ -29,7 +29,7 @@ Each candidate is assessed on five factors, in rough order of weight:
 
 1. **Select and check.** Choose up to two candidates for the daily run. Before research begins, confirm that each album falls within the date range, fits the project's style categories, and is not already in the database. Only then does research begin.
 2. **Gather evidence.** Prepare a research file from published discographies, reference works, album credits, and other cited sources. The target is at least three independent sources per candidate. An AI model's own memory is not accepted as evidence.
-3. **Review independently.** Two AI reviewers assess the research file against the five factors above. Each prepares a case for and against inclusion. Another AI model combines their work into a ballot. If either reviewer does not answer, the process stops and no ballot is produced.
+3. **Review independently.** Two AI models assess the research file against the five factors above. Each model prepares a case for and against inclusion. Another AI model combines their work into a ballot. If either model does not answer, the process stops and no ballot is produced.
 4. **Stage for my review.** The album is marked as a candidate and placed in my review queue with its research file and ballot.
 5. **Report and wait.** I receive the candidate names, ballots, and links to the research files. The automated process then stops until I make a decision.
 
@@ -75,9 +75,9 @@ The working rules are straightforward:
 
 ## Known limitations
 
-- The initial AI search tends to favor well-known albums. I counter that bias with targeted searches of particular artists, labels, styles, and periods.
+- The initial search by an AI model tends to favor well-known albums. I counter that bias with targeted searches of particular artists, labels, styles, and periods.
 - Web links, release information, and streaming availability can change. Citations preserve a route back to the evidence for later checking.
-- The reviewers' ballot is advice, not a decision. Albums enter the collection only after I listen and choose to include them.
+- The AI review ballot is advice, not a decision. Albums enter the collection only after I listen and choose to include them.
 
 ## Current state
 
