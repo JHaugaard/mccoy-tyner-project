@@ -1,0 +1,342 @@
+{
+  "id": "archie-shepp-four-for-trane-1964",
+  "artist": "Archie Shepp",
+  "album": "Four for Trane",
+  "year": 1964,
+  "label": "Impulse!",
+  "style_primary": "free-jazz",
+  "rationale": "The bridge record between the canon's centre and its avant-garde edge: Shepp's Impulse! debut takes four John Coltrane compositions off Giant Steps and Coltrane Plays the Blues and re-arranges them with Roswell Rudd for a chordless-ish front line of tenor, alto, trombone and flugelhorn over Reggie Workman and Ornette Coleman's drummer Charles Moffett — the music is recognisably Trane's harmony, rebuilt with the new vocabulary. The consensus is documented and unusually strong for an avant-garde date: the Penguin Guide to Jazz placed it in its Core Collection, calling it 'one of the classic jazz albums of the '60s', and AllMusic (5★), the Rolling Stone Jazz Record Guide (5★) and Down Beat (4.5★) all rate it at or near the top. Session gravity is Coltrane's own: he co-produced the date with Bob Thiele and drove out to Englewood Cliffs to hear it, which is why the album exists at all. It also passes the discovery test — 'Naima' and 'Cousin Mary' still play cold for a listener who has never heard a free-jazz record.",
+  "priority": "strong",
+  "sources": {
+    "S1": {
+      "title": "Four for Trane - Wikipedia album article (recording date, studio, personnel, Coltrane/Thiele production, track list, Penguin Guide Core Collection citation, ratings)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Four_for_Trane"
+    },
+    "S2": {
+      "title": "Archie Shepp: Four for Trane - AllMusic album page and Credits tab (personnel and roles, avant-garde/free-jazz style tags, recording date and location)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/four-for-trane-mw0000197826"
+    },
+    "S3": {
+      "title": "Archie Shepp - Four For Trane - Discogs release 698123 (full credits, recorded at Van Gelder Studio Englewood Cliffs on August 10 1964, track durations, 'Niema' title variant)",
+      "type": "web",
+      "url": "https://www.discogs.com/release/698123-Archie-Shepp-Four-For-Trane"
+    },
+    "S4": {
+      "title": "Impulse! Records Catalog / Archie Shepp catalog - jazzdisco.org (A-71 session: personnel, Van Gelder Studio Englewood Cliffs, August 10 1964, matrix numbers 90159-90163)",
+      "type": "web",
+      "url": "https://www.jazzdisco.org/archie-shepp/catalog/"
+    },
+    "S5": {
+      "title": "Four for Trane - MusicBrainz release group",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/33e408de-fcc3-3ab6-a49f-5a9868d9e5fb"
+    },
+    "S6": {
+      "title": "iTunes Search API - Archie Shepp Four for Trane (collectionId 1444209278, Impulse!/GRP)",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Archie+Shepp+Four+for+Trane&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1964-08-10"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1964-08-10",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Archie Shepp",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic additionally credits him on soprano saxophone; Wikipedia, Discogs and the jazzdisco session entry name tenor saxophone only, and no source assigns soprano to a specific title. Soprano credit carried here as a conflict rather than adopted."
+      },
+      {
+        "name": "Alan Shorter",
+        "instrument": "flugelhorn",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Wayne Shorter's brother. AllMusic also lists trumpet alongside flugelhorn; the LP credits, Wikipedia and jazzdisco name flugelhorn only."
+      },
+      {
+        "name": "John Tchicai",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Shepp's fellow member of the New York Contemporary Five."
+      },
+      {
+        "name": "Roswell Rudd",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Co-arranger with Shepp of the four Coltrane pieces (S1)."
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Coltrane's bassist at the time (S2)."
+      },
+      {
+        "name": "Charles Moffett",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Had worked extensively with Ornette Coleman (S1, S2)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Syeeda's Song Flute",
+        "track_number": 1,
+        "side": null,
+        "duration": "8:30",
+        "session_date": "1964-08-10",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Alan Shorter",
+          "John Tchicai",
+          "Roswell Rudd",
+          "Reggie Workman",
+          "Charles Moffett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Mr. Syms",
+        "track_number": 2,
+        "side": null,
+        "duration": "7:41",
+        "session_date": "1964-08-10",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Alan Shorter",
+          "John Tchicai",
+          "Roswell Rudd",
+          "Reggie Workman",
+          "Charles Moffett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Cousin Mary",
+        "track_number": 3,
+        "side": null,
+        "duration": "7:14",
+        "session_date": "1964-08-10",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Alan Shorter",
+          "John Tchicai",
+          "Roswell Rudd",
+          "Reggie Workman",
+          "Charles Moffett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Naima",
+        "track_number": 4,
+        "side": null,
+        "duration": "7:09",
+        "session_date": "1964-08-10",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Alan Shorter",
+          "John Tchicai",
+          "Roswell Rudd",
+          "Reggie Workman",
+          "Charles Moffett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Rufus (Swung His Face at Last to the Wind, Then His Neck Snapped)",
+        "track_number": 5,
+        "side": null,
+        "duration": "6:24",
+        "session_date": "1964-08-10",
+        "composers": [
+          "Archie Shepp"
+        ],
+        "personnel": [
+          "Archie Shepp",
+          "Alan Shorter",
+          "John Tchicai",
+          "Roswell Rudd",
+          "Reggie Workman",
+          "Charles Moffett"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "33e408de-fcc3-3ab6-a49f-5a9868d9e5fb",
+    "apple_album_id": "1444209278",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/33e408de-fcc3-3ab6-a49f-5a9868d9e5fb/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "sources": [
+          "S5"
+        ],
+        "notes": "Cover Art Archive front image exists for the release group; whether the scan is the 1965 Impulse! gatefold sleeve rather than a later pressing was not confirmed."
+      }
+    ],
+    "notes": "Single session, August 10, 1964, Van Gelder Studio, Englewood Cliffs, NJ — the post-July-1959 room, so the Englewood Cliffs row is correct. Four of five titles are Coltrane compositions (Syeeda's Song Flute, Mr. Syms and Cousin Mary from Giant Steps; Naima from Giant Steps/Coltrane Plays the Blues), re-arranged by Shepp and Rudd; 'Rufus' is Shepp's own. 'Naima' is printed 'Niema' on the CD inlay, booklet and disc (S3) and jazzdisco notes the same variant. LP side assignment could not be confirmed from the sources read (none of S1–S4 prints a side letter for these titles), so side is recorded as null rather than guessed. Year conflict preserved: Wikipedia and Discogs date the release to January 1965 / 1965 (Impulse! A-71), while jazzdisco notes AS-71 as a 1964 release; the canon year here is the documented recording year, 1964. Production credits agree across S1, S2 and S3 on Bob Thiele as producer; S1 and the Impulse! catalogue additionally credit John Coltrane as co-producer (he is catalogued as Producer, not as a player). Liner notes by Leroi (Amiri Baraka) Jones; photography Chuck Stewart (S1, S3). Durations follow S1; the Discogs CD reissue prints slightly different timings (8:25, 7:56, 7:10, 7:10, 6:22)."
+  },
+  "epistemic": "obs",
+  "epistemic_detail": {
+    "personnel": "obs",
+    "recording_date": "obs",
+    "studio": "obs",
+    "producer": "obs",
+    "style": "obs",
+    "priority": "inf",
+    "overall": "obs"
+  },
+  "ballot": {
+    "album": "Archie Shepp — Four for Trane (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1964 recording and disputed 1964/1965 release dates are within the window. The live boundary is free jazz: admissible under the opened gate, but requiring a deliberate judgment about continuity with the canon's post-bebop center."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "This is an unusually concrete bridge from Coltrane's Atlantic repertoire to the New York avant-garde: Shepp and Roswell Rudd recast four Coltrane compositions for a pianoless sextet, making the transformation audible rather than merely asserting a lineage (S1–S4). Penguin Guide Core Collection status and high AllMusic, Rolling Stone and Down Beat ratings support substantial canonical standing, although several judgments are reported through S1 rather than directly documented. The ensemble joins Coltrane alumnus Reggie Workman to Shepp, Rudd, John Tchicai, Alan Shorter and Charles Moffett, while recognizable melodies offer John a practical route into freer ensemble interplay.",
+    "case_against": "Recognizable repertoire does not eliminate the idiomatic challenge: abrasive horn timbres and dense, pianoless counterpoint may frustrate a listener whose strongest connection remains to hard bop and modal jazz. Its pedagogical strength as a Coltrane reinterpretation also leaves a legitimate question about whether it is Shepp's defining independent statement, rather than an exceptionally effective introduction to his language. The consensus evidence needs firmer primary citations, and the dossier's conflicting production and instrument credits counsel against making Coltrane's sponsorship or disputed details carry the argument.",
+    "disagreement": "Reference 1 judges the consensus and unusually explicit bridge sufficient for the exceptional consensus_core designation; Reference 2 retains scope_call so John can adjudicate the free-jazz boundary. Both assign strong priority and agree on the album's bridge value; the rubric permits an exceptional core designation rather than mandating scope_call for every free-jazz arrival.",
+    "recommendation": "The council proposes that John give this strong candidate a focused boundary audition, testing whether its transformation of familiar Coltrane material makes free-jazz continuity compelling to him.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

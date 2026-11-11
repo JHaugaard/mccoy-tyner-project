@@ -1,0 +1,353 @@
+{
+  "id": "paul-chambers-bass-on-top-1957",
+  "artist": "Paul Chambers",
+  "album": "Bass on Top",
+  "year": 1957,
+  "label": "Blue Note",
+  "style_primary": "hard-bop",
+  "rationale": "Paul Chambers is the canon's most-recorded bassist and has no record of his own in it: he appears on 39 of the albums already included (Kind of Blue, Giant Steps, Milestones, the Prestige quintet dates among them) and leads none, so Bass on Top fills the most conspicuous instrumental hole in the collection (obs, live DB query). On its own merits it is the cleanest statement of his own conception: a single July 14, 1957 Van Gelder session with Kenny Burrell, Hank Jones and Art Taylor, in which the bass is the front-line voice rather than the timekeeper, and 'Yesterdays' is the performance bass players study. Session gravity is unusually high for a leader date this modest — Burrell (9 canon albums), Taylor (14) and Hank Jones (3, and himself still without a leader record) all play as principals, and the quartet's ease is the point. Ratings are solid rather than canon-defining — Penguin 3.5, AllMusic 4.5 — so the case rests on lineage and on the instrument, not on consensus lists.",
+  "priority": "strong",
+  "sources": {
+    "S1": {
+      "title": "Bass on Top - Wikipedia album article (recording date, studio, personnel, producer/engineer, track list, ratings)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Bass_on_Top"
+    },
+    "S2": {
+      "title": "Paul Chambers: Bass on Top - AllMusic album page and Credits tab (personnel, production roles, Hard Bop style tag, recording date/location)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/bass-on-top-mw0000191612"
+    },
+    "S3": {
+      "title": "Paul Chambers Quartet - Bass On Top, Blue Note BLP 1569 - Discogs release (credits, recorded at Van Gelder Studio Hackensack, side positions)",
+      "type": "web",
+      "url": "https://www.discogs.com/release/2575964-Paul-Chambers-Quartet-Bass-On-Top"
+    },
+    "S4": {
+      "title": "Blue Note Records Catalog: 1500 series - jazzdisco.org (BLP 1569 session: personnel, Van Gelder Studio Hackensack, July 14 1957, matrix take numbers per title)",
+      "type": "web",
+      "url": "https://www.jazzdisco.org/blue-note-records/catalog-1500-series/"
+    },
+    "S5": {
+      "title": "Bass on Top - MusicBrainz release group",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/fcc00f8d-e9a4-35ed-8c8b-84c97ceb5630"
+    },
+    "S6": {
+      "title": "iTunes Search API - Paul Chambers Bass on Top (collectionId 715598528, Rudy Van Gelder Edition)",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Paul+Chambers+Bass+on+Top&entity=album"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-07-14"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Hackensack, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1957-07-14",
+        "site_raw": "Van Gelder Studio, Hackensack, NJ",
+        "site_slug": "van-gelder-studio-hackensack",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Paul Chambers",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Paul Chambers (3)"
+        ],
+        "notes": "Leader. AllMusic also carries a 'Guitar (Bass)' credit for him, which is AllMusic's generic bass descriptor rather than a second instrument."
+      },
+      {
+        "name": "Kenny Burrell",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Co-composer of the CD bonus 'Chamber Mates'."
+      },
+      {
+        "name": "Hank Jones",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Art Taylor",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Yesterdays",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:53",
+        "session_date": "1957-07-14",
+        "composers": [
+          "Jerome Kern",
+          "Otto Harbach"
+        ],
+        "personnel": [
+          "Paul Chambers",
+          "Kenny Burrell",
+          "Hank Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "You'd Be So Nice to Come Home To",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:16",
+        "session_date": "1957-07-14",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Paul Chambers",
+          "Kenny Burrell",
+          "Hank Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Chasin' the Bird",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:18",
+        "session_date": "1957-07-14",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "Paul Chambers",
+          "Kenny Burrell",
+          "Hank Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Dear Old Stockholm",
+        "track_number": 4,
+        "side": "B",
+        "duration": "6:44",
+        "session_date": "1957-07-14",
+        "composers": [
+          "Traditional"
+        ],
+        "personnel": [
+          "Paul Chambers",
+          "Kenny Burrell",
+          "Hank Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "The Theme",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:15",
+        "session_date": "1957-07-14",
+        "composers": [
+          "Miles Davis"
+        ],
+        "personnel": [
+          "Paul Chambers",
+          "Kenny Burrell",
+          "Hank Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Confessin'",
+        "track_number": 6,
+        "side": "B",
+        "duration": "4:13",
+        "session_date": "1957-07-14",
+        "composers": [
+          "Doc Daugherty",
+          "Ellis Reynolds",
+          "Al Neiburg"
+        ],
+        "personnel": [
+          "Paul Chambers",
+          "Kenny Burrell",
+          "Hank Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Chamber Mates",
+        "track_number": 7,
+        "side": null,
+        "duration": "5:08",
+        "session_date": "1957-07-14",
+        "composers": [
+          "Kenny Burrell",
+          "Paul Chambers"
+        ],
+        "personnel": [
+          "Paul Chambers",
+          "Kenny Burrell",
+          "Hank Jones",
+          "Art Taylor"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "fcc00f8d-e9a4-35ed-8c8b-84c97ceb5630",
+    "apple_album_id": "715598528",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/fcc00f8d-e9a4-35ed-8c8b-84c97ceb5630/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "sources": [
+          "S5"
+        ],
+        "notes": "Cover Art Archive front image exists for the release group; whether the scanned sleeve is the 1957 Blue Note original rather than a later pressing was not confirmed."
+      }
+    ],
+    "notes": "Single session, July 14, 1957, Van Gelder Studio, Hackensack, NJ (before Van Gelder's July 1959 move to Englewood Cliffs, so the Hackensack row is the correct place). Original Blue Note LP BLP 1569 carries six titles, three per side (S3); 'Chamber Mates' is a CD-reissue bonus and appears neither on the LP nor in the jazzdisco 1500-series session entry, so its personnel is inferred from the same-session quartet and marked inf. jazzdisco lists matrix take numbers rather than a running order: tk.9 Yesterdays, tk.10 You'd Be So Nice to Come Home To, tk.5 Chasin' the Bird, tk.3 Dear Old Stockholm, tk.8 The Theme, tk.6 Confessin'. Durations follow S1; AllMusic differs by a second or two on three titles (7:17 vs 7:16, 6:19 vs 6:18, 4:15 vs 4:13, 5:02 vs 5:08). AllMusic's Recording Location field carries both 'New York, NY' and 'Van Gelder Studios, Hackensack, NJ' — the Hackensack studio is the documented room in S1, S3 and S4, and the New York line is AllMusic's label-city artifact, not a second session. Producer Alfred Lion and engineer Rudy Van Gelder are agreed by S1, S2 and S3. Liner notes by Robert Levin; cover design Harold Feinstein, photography Francis Wolff (S1, S2, S3)."
+  },
+  "epistemic": "obs",
+  "epistemic_detail": {
+    "personnel": "obs",
+    "recording_date": "obs",
+    "studio": "obs",
+    "producer": "obs",
+    "style": "obs",
+    "priority": "inf",
+    "overall": "obs"
+  },
+  "ballot": {
+    "album": "Paul Chambers — Bass on Top (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Bass on Top foregrounds the melodic conception of a bassist whose work anchors 39 albums already in the collection, giving listeners a leader's perspective unavailable from his supporting roles alone (dossier database observation). The documented quartet of Chambers, Kenny Burrell, Hank Jones, and Art Taylor offers exceptional session gravity and an intimate, hornless setting in which bass becomes a front-line voice (S1–S4). Its strongest discovery argument is that familiar material such as 'Yesterdays' makes the bass's melodic and structural contribution unusually audible: a compelling artist-level statement even without movement-defining innovation.",
+    "case_against": "Chambers's historical centrality does not by itself establish this album's indispensability: the dossier supplies respectable ratings—Penguin 3.5 and AllMusic 4.5—but no independent canon-list convergence or documented downstream influence (S1–S2; dossier source inventory). Most sources establish session facts rather than critical significance, and the claim that 'Yesterdays' is foundational study material lacks attributed musician testimony. The standards-and-bop repertoire can reasonably be heard as an excellent instrumental showcase rather than a defining new statement, so the leadership gap risks carrying more argumentative weight than the album's demonstrated impact.",
+    "disagreement": "Both references agree on contested/strong and find no scope boundary. They differ on evidentiary weight: Reference 2 treats the album's pedagogical influence and emancipation of the bass as established, while Reference 1 explicitly identifies the study-and-influence claims as insufficiently sourced; those stronger historical claims remain unverified.",
+    "recommendation": "The council proposes John give Bass on Top strong consideration as a revealing Chambers leader statement, while treating its claimed pedagogical influence as a research question rather than settled evidence.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
