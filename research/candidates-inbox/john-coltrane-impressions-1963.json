@@ -1,0 +1,375 @@
+{
+  "id": "john-coltrane-impressions-1963",
+  "artist": "John Coltrane",
+  "album": "Impressions",
+  "year": 1963,
+  "label": "Impulse!",
+  "catalog_number": "Impulse! A-42 / AS-42",
+  "apple_album_id": 6772278668,
+  "musicbrainz_release_group_mbid": "a43136ba-aeb3-35bf-a4f5-d7c7ada39a1d",
+  "cover_art_url": "https://coverartarchive.org/release/b43b5595-a344-4a07-80c3-cbbdbdb8560e/24196169618.jpg",
+  "style_primary": "modal-jazz",
+  "style_tags": [],
+  "rationale": "The missing pillar of the Coltrane shelf. The canon holds Blue Train, Giant Steps, My Favorite Things, Olé, A Love Supreme and Ascension but not the record that carries the two documents everyone actually studies: the 3 November 1961 Village Vanguard 'India', with Eric Dolphy on bass clarinet and Reggie Workman and Jimmy Garrison droning together in imitation of Hindustani classical music (S1, S3), and the 15-minute Vanguard 'Impressions', the modal chant built on the same 32-bar form Coltrane later recorded in the studio (S1). Consensus is documented across independent listing traditions: DownBeat five stars at release (Harvey Pekar, 29 August 1963), the Rolling Stone Jazz Record Guide five stars, AllMusic four and a half, Encyclopedia of Popular Music four, and a Penguin Guide entry at three and a half (all recorded in S1); the record also sits in Colin Larkin's All Time Top 1000 Albums at No. 687 (S1). Lineage is unusually well evidenced: Roger McGuinn has said the Byrds toured with only a Ravi Shankar tape on one side and Impressions plus Africa/Brass on the other, and 'Eight Miles High' is a direct homage to 'India' (S1) - the audible road from this record to the modal/spiritual strand the canon already carries in Pharoah Sanders' Karma and Alice Coltrane's Journey in Satchidananda. Session gravity is the point of the album for this project: it is the single best document of the 1961 quintet (Coltrane, Dolphy, Tyner, Garrison, Workman, Elvin Jones), the group that made the music critics of the day called 'anti-jazz', and it adds Roy Haynes on the April 1963 date (S1, S3). Honest caveats: it is assembled from three dates across nineteen months rather than conceived as one session, and the Penguin Guide rates it below Coltrane's great single-session statements; AllMusic files it first under Modal Music (S2), which is why the style is coded modal-jazz rather than post-bop.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Impressions (John Coltrane album) - track list with recording dates and venues, personnel, production credits, and review scores (DownBeat 5 stars original LP and 4 reissue, Rolling Stone Jazz Record Guide 5, AllMusic 4.5, Encyclopedia of Popular Music 4, Penguin Guide 3.5), McGuinn/Byrds 'Eight Miles High' homage to 'India', Larkin All Time Top 1000 No. 687",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Impressions_(John_Coltrane_album)"
+    },
+    "S2": {
+      "title": "AllMusic: John Coltrane - Impressions (styles: Modal Music first-listed, Avant-Garde Jazz; recording date range November 3 1961 - April 29 1963; 35:51; four-track programme)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/impressions-mw0000191657"
+    },
+    "S3": {
+      "title": "Jazz Discography (jazzdisco.org), Impulse! catalog A-42 - session-by-session personnel, dates and studios for all three recording dates (master numbers 10575, 11094, 11466)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/impulse-records/discography-1960-1962/"
+    },
+    "S4": {
+      "title": "Apple Music / iTunes Search API: John Coltrane - Impressions, collectionId 6772278668, 4 tracks, released 1963-07-01, Impulse! Records",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/impressions/6772278668"
+    },
+    "S5": {
+      "title": "MusicBrainz release group a43136ba-aeb3-35bf-a4f5-d7c7ada39a1d and Cover Art Archive front image",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/a43136ba-aeb3-35bf-a4f5-d7c7ada39a1d"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1961-11-03",
+      "1962-09-18",
+      "1963-04-29"
+    ],
+    "multi_session": true,
+    "studio": "Village Vanguard, New York (1961-11-03); Van Gelder Studio, Englewood Cliffs (1962-09-18 and 1963-04-29)",
+    "recording_sites": [
+      {
+        "session_date": "1961-11-03",
+        "site_raw": "Village Vanguard, NYC",
+        "site_slug": "village-vanguard",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1962-09-18",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1963-04-29",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, NJ",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays soprano saxophone on 'India' and on 'After the Rain' / 'Dear Old Stockholm' (S1, S3)."
+      },
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "India",
+          "Impressions",
+          "After the Rain",
+          "Dear Old Stockholm"
+        ],
+        "session_dates": [
+          "1961-11-03",
+          "1963-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3",
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Jazz Discography lists no pianist on the 18 September 1962 date, so 'Up 'Gainst the Wall' is recorded as a sax-bass-drums trio; Wikipedia's blanket statement that 'the studio tracks were performed by the classic Coltrane quartet' is looser than the sessionography and is preserved in the block notes rather than silently adopted."
+      },
+      {
+        "name": "Jimmy Garrison",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "India",
+          "Impressions",
+          "Up 'Gainst the Wall"
+        ],
+        "session_dates": [
+          "1961-11-03",
+          "1962-09-18"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Replaced by Roy Haynes on the 29 April 1963 date (S1, S3)."
+      },
+      {
+        "name": "Eric Dolphy",
+        "instrument": "bass clarinet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "India",
+          "Impressions"
+        ],
+        "session_dates": [
+          "1961-11-03"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Source conflict, preserved: Jazz Discography credits him with a long bass clarinet solo on 'India' and bass clarinet 'on the last note only' of 'Impressions' (S3); Wikipedia credits him with bass clarinet on 'India' but alto saxophone on 'Impressions' (S1). The instrument on 'Impressions' is therefore recorded as unk; both claims are cited."
+      },
+      {
+        "name": "Reggie Workman",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "India"
+        ],
+        "session_dates": [
+          "1961-11-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Second bassist on 'India' only, playing against Garrison in imitation of a Hindustani drone (S1)."
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "After the Rain",
+          "Dear Old Stockholm"
+        ],
+        "session_dates": [
+          "1963-04-29"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "India",
+        "track_number": 1,
+        "side": "A",
+        "duration": "14:10",
+        "session_date": "1961-11-03",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "Eric Dolphy",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Reggie Workman",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Up 'Gainst the Wall",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:17",
+        "session_date": "1962-09-18",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S3",
+          "S1"
+        ]
+      },
+      {
+        "title": "Impressions",
+        "track_number": 3,
+        "side": "B",
+        "duration": "15:06",
+        "session_date": "1961-11-03",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Elvin Jones",
+          "Eric Dolphy"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "After the Rain",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:07",
+        "session_date": "1963-04-29",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Dear Old Stockholm",
+        "track_number": 5,
+        "side": null,
+        "duration": "10:38",
+        "session_date": "1963-04-29",
+        "composers": [
+          "Stan Getz",
+          "Traditional"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Roy Haynes"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "a43136ba-aeb3-35bf-a4f5-d7c7ada39a1d",
+    "apple_album_id": "6772278668",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/b43b5595-a344-4a07-80c3-cbbdbdb8560e/24196169618.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image returned for release group a43136ba-aeb3-35bf-a4f5-d7c7ada39a1d; the specific pressing is not verified as the 1963 Impulse! original."
+      },
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/50/fa/6e50fae7-d90c-3063-bd64-5518b1ec4b1d/06UMGIM01022.rgb.jpg/100x100bb.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Apple Music artwork for collectionId 6772278668 (the four-track original programme)."
+      }
+    ],
+    "notes": "Three sessions, nineteen months apart, assembled into one LP released July 1963 (S1, S4). 3 November 1961: 'India' and 'Impressions', live at the Village Vanguard during the same residency that produced 'Live' at the Village Vanguard (S1, S3). 18 September 1962: 'Up 'Gainst the Wall', Van Gelder Studio, Englewood Cliffs - Jazz Discography lists only Coltrane, Garrison and Jones, so the track is recorded as a trio, while Wikipedia's summary describes all studio tracks as the quartet; the sessionography wins on the record and the difference is flagged here (S3, S1). 29 April 1963: 'After the Rain' and the CD-bonus 'Dear Old Stockholm', Van Gelder Studio, with Roy Haynes on drums (S1, S3). Engineer Rudy Van Gelder is credited on the album (S1) and the two studio dates are his own Englewood Cliffs studio, so the production credit is obs rather than the usual Van Gelder inference. Apple's four-track edition matches the original LP programme; the 2000 CD reissue (Impulse! 314 543 416-2) adds 'Dear Old Stockholm' as a bonus track, flagged above (S1, S3). The 'Impressions' alto-saxophone-vs-bass-clarinet conflict for Dolphy is preserved in his personnel entry rather than resolved (S1, S3)."
+  },
+  "ballot": {
+    "album": "John Coltrane — Impressions (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "The Village Vanguard performances of “India” and “Impressions” make this a defining document of Coltrane’s expanding modal language: the former joins soprano saxophone, Dolphy’s bass clarinet and two bassists, while the latter turns a compact modal framework into sustained improvisational intensity (S1, S3). Their personnel and musical vocabulary provide a compelling bridge between the canon’s modal center and its spiritual-jazz extensions; McGuinn’s reported acknowledgment of “India” also supplies a specific cross-genre influence claim (S1). Critical support is substantial—five stars from DownBeat and the Rolling Stone Jazz Record Guide, plus AllMusic’s four-and-a-half—although most of those ratings are documented indirectly through S1 rather than independently inspected reviews (S1, S2).",
+    "case_against": "The strongest objection concerns the album as an artistic unit: its original four-track programme combines two extended live performances with a brief studio trio blues and a later Roy Haynes quartet ballad, drawn from three dates across roughly eighteen months (S3). Its canonical weight is consequently concentrated in “India” and the title track, making the LP less clearly a unified defining statement than the performances themselves. Penguin’s reported three-and-a-half-star rating tempers claims of overwhelming critical unanimity, while the dossier’s reliance on one secondary source for several major judgments leaves the consensus case less directly auditable than its breadth initially suggests (S1).",
+    "disagreement": "Both references judge the album consensus_core and identify no scope boundary, but they differ on urgency: Reference 1 assigns must_have, while Reference 2 assigns strong. The strongest defensible synthesis is strong; Reference 1’s escalation also invokes erroneous overlap claims—neither “Impressions” nor “Dear Old Stockholm” appears on A Love Supreme, and My Favorite Things did not originate at the November 1961 Vanguard residency—which cannot support the ballot.",
+    "recommendation": "The council proposes that John give Impressions strong-priority consideration as a core modal document, weighing its landmark performances against its composite album construction.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

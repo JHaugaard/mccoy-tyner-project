@@ -1,0 +1,658 @@
+{
+  "id": "dinah-washington-dinah-jams-1954",
+  "artist": "Dinah Washington",
+  "album": "Dinah Jams",
+  "year": 1954,
+  "label": "EmArcy",
+  "catalog_number": "EmArcy MG 36000",
+  "apple_album_id": 1423291207,
+  "musicbrainz_release_group_mbid": "2e6b39a1-73eb-35dd-b86b-db98a113542c",
+  "cover_art_url": "http://coverartarchive.org/release/8ecd9c80-b94f-4f63-b6a6-0be47c2033fa/3577355578.jpg",
+  "style_primary": "bebop",
+  "style_tags": [],
+  "rationale": "Dinah Washington is the largest vocal absence left in the canon: 341 albums and not one by the singer they called the Queen, who was the bridge from the blues shouters to the jazz-and-R&B singers who came after her. This is the record to start with, and it is a canon pick on the listing traditions rather than a token: NPR's Basic Jazz Record Library recommends it outright (S6), AllMusic rates it five stars and files it under vocal jazz and standards (S2), the Encyclopedia of Popular Music gives it five and the Penguin Guide three and a half (both recorded in S1). Session gravity is the strongest part of the case - it is not a singer with a pickup band but the actual 1954 Max Roach-Clifford Brown working band (Brown, Harold Land, Richie Powell, George Morrow, Roach) plus Clark Terry, Maynard Ferguson, Herb Geller, Junior Mance and Keter Betts, ten heavyweights on one date, taped live in front of a studio audience that producer Bob Shad deliberately brought in (S2, S6). A.B. Spellman's NPR description is exactly the rubric's discovery test: 'a jam session in the purest sense ... loose, live, and just fun to listen to' (S6). It also documents what a blowing session sounded like at the moment hard bop was forming - Brown's obbligato on 'No More', Land's tenor on 'Darn That Dream', Geller's alto on 'Crazy He Calls Me' (S2) - and every one of those players except Dinah herself is already in the canon, so the record adds edges as well as a voice. Honest caveats: the repertoire is entirely standards and show tunes, with no originals; it is a vocal date in a canon centred on instrumental post-bebop; AllMusic's own style tags are Vocal Jazz, Standards, Traditional Pop and Classic Female Blues, not bop (S2). Style is coded bebop for the improvisational idiom and to match the canon's own convention for jazz-vocal records (Ella in Berlin and Betty Carter's The Audience are both bebop), with the vocal-jazz framing recorded here rather than hidden.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Dinah Jams - release date February 1955, recorded 15 August 1954 in Los Angeles, EmArcy, producer Bob Shad, complete track list with composers and durations, full personnel, track note that tracks 2 and 3 are instrumentals, and review scores (AllMusic 5, Encyclopedia of Popular Music 5, Penguin Guide 3.5)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Dinah_Jams"
+    },
+    "S2": {
+      "title": "AllMusic: Dinah Washington - Dinah Jams (release date 1954, recording date August 15 1954, recording location Los Angeles CA, genre Vocal/Blues/Jazz, styles Vocal Jazz/Standards/Traditional Pop/Classic Female Blues, Stephen Cook review describing a live taping before a studio audience and naming the soloists)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/dinah-jams-mw0000615510"
+    },
+    "S3": {
+      "title": "Discogs master 243750: Dinah Jams - full credits (Geller alto, Land tenor, Brown/Terry/Ferguson trumpets, Mance and Powell piano, Morrow and Betts bass, Roach drums, Washington vocals), EmArcy MG 36000 first US issue 1955",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/243750-Dinah-Washington-Dinah-Jams"
+    },
+    "S4": {
+      "title": "Apple Music / iTunes Search API: Dinah Washington - Dinah Jams (Live), collectionId 1423291207, 11 tracks, released 1954, Verve Label Group / EmArcy",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/dinah-jams-live/1423291207"
+    },
+    "S5": {
+      "title": "MusicBrainz release group 2e6b39a1-73eb-35dd-b86b-db98a113542c (EmArcy MG 36000, 8-track 12-inch) and Cover Art Archive front image",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/2e6b39a1-73eb-35dd-b86b-db98a113542c"
+    },
+    "S6": {
+      "title": "NPR Basic Jazz Record Library: 'Dinah Washington: Dinah Jams' - A.B. Spellman and Murray Horwitz, recommending the album, describing it as a jam session in the purest sense assembled by producer Bob Shad with a live audience, and naming Brown, Terry, Ferguson, Geller and the Roach-Brown band",
+      "type": "review",
+      "url": "https://www.npr.org/2011/06/20/4172726/dinah-washington-dinah-jams"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1954-08-15"
+    ],
+    "multi_session": false,
+    "studio": "Los Angeles, CA (live before a studio audience; venue not documented)",
+    "recording_sites": [
+      {
+        "session_date": "1954-08-15",
+        "site_raw": "Los Angeles, CA (taped live in front of a studio audience; specific room not documented)",
+        "site_slug": "los-angeles-venue-unidentified",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Bob Shad",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Dinah Washington",
+        "instrument": "voice",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Lover, Come Back to Me",
+          "Come Rain or Come Shine",
+          "No More",
+          "I've Got You Under My Skin",
+          "There Is No Greater Love",
+          "You Go to My Head",
+          "Darn That Dream",
+          "Crazy He Calls Me",
+          "I'll Remember April"
+        ],
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Dinah Washington (billed on reissue as 'Dinah Washington With Clifford Brown')"
+        ],
+        "notes": "Not on 'Alone Together' and 'Summertime', which Wikipedia's track note identifies as instrumentals (S1)."
+      },
+      {
+        "name": "Clifford Brown",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic's review singles out his muted obbligato on 'No More' (S2)."
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "NPR and AllMusic both credit him with prominent solos on the date (S2, S6)."
+      },
+      {
+        "name": "Maynard Ferguson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "NPR describes his high-register work on the date (S6)."
+      },
+      {
+        "name": "Herb Geller",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic credits him with the alto statement on 'Crazy He Calls Me' (S2). Discogs records that the earliest US pressing omitted his name entirely and later issues added it (S3)."
+      },
+      {
+        "name": "Harold Land",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Harold 'Lund' (misspelling on the earliest EmArcy pressing)"
+        ],
+        "notes": "AllMusic credits his tenor solo on 'Darn That Dream' (S2). Discogs notes the first pressing misspells him as 'Lund' (S3)."
+      },
+      {
+        "name": "Richie Powell",
+        "instrument": "piano",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "One of two pianists on the date; no source assigns the two pianists to individual tracks, so coverage is recorded as unknown rather than guessed."
+      },
+      {
+        "name": "Junior Mance",
+        "instrument": "piano",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "One of two pianists on the date; per-track split undocumented."
+      },
+      {
+        "name": "George Morrow",
+        "instrument": "double bass",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "One of two bassists on the date; per-track split undocumented."
+      },
+      {
+        "name": "Keter Betts",
+        "instrument": "double bass",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "One of two bassists on the date; per-track split undocumented."
+      },
+      {
+        "name": "Max Roach",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1954-08-15"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "NPR and AllMusic both single out his accompaniment and solos (S2, S6)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Lover, Come Back to Me",
+        "track_number": 1,
+        "side": "A",
+        "duration": "9:54",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Oscar Hammerstein II",
+          "Sigmund Romberg"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Alone Together",
+        "track_number": 2,
+        "side": "A",
+        "duration": "2:25",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Arthur Schwartz",
+          "Howard Dietz"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Summertime",
+        "track_number": 3,
+        "side": "A",
+        "duration": "2:26",
+        "session_date": "1954-08-15",
+        "composers": [
+          "George Gershwin",
+          "Ira Gershwin",
+          "DuBose Heyward"
+        ],
+        "personnel": [
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Come Rain or Come Shine",
+        "track_number": 4,
+        "side": "A",
+        "duration": "2:28",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Harold Arlen",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "No More",
+        "track_number": 5,
+        "side": "A",
+        "duration": "3:22",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Tutti Camarata",
+          "Bob Russell"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I've Got You Under My Skin",
+        "track_number": 6,
+        "side": "B",
+        "duration": "5:26",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Cole Porter"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "There Is No Greater Love",
+        "track_number": 7,
+        "side": "B",
+        "duration": "2:15",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Isham Jones",
+          "Marty Symes"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "You Go to My Head",
+        "track_number": 8,
+        "side": "B",
+        "duration": "11:12",
+        "session_date": "1954-08-15",
+        "composers": [
+          "J. Fred Coots",
+          "Haven Gillespie"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Darn That Dream",
+        "track_number": 9,
+        "side": null,
+        "duration": "5:14",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Jimmy Van Heusen",
+          "Eddie DeLange"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Crazy He Calls Me",
+        "track_number": 10,
+        "side": null,
+        "duration": "4:47",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Carl Sigman",
+          "Bob Russell"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "I'll Remember April",
+        "track_number": 11,
+        "side": null,
+        "duration": "11:46",
+        "session_date": "1954-08-15",
+        "composers": [
+          "Gene de Paul",
+          "Patricia Johnston",
+          "Don Raye"
+        ],
+        "personnel": [
+          "Dinah Washington",
+          "Clifford Brown",
+          "Clark Terry",
+          "Maynard Ferguson",
+          "Herb Geller",
+          "Harold Land",
+          "Richie Powell",
+          "Junior Mance",
+          "George Morrow",
+          "Keter Betts",
+          "Max Roach"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "inf",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "2e6b39a1-73eb-35dd-b86b-db98a113542c",
+    "apple_album_id": "1423291207",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/8ecd9c80-b94f-4f63-b6a6-0be47c2033fa/3577355578.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image returned for release group 2e6b39a1-73eb-35dd-b86b-db98a113542c; the pressing is not verified as the 1955 EmArcy original."
+      },
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/40/e3/d1/40e3d1b6-b2e9-aa55-496e-ef9b46835eb8/00602567828907.rgb.jpg/100x100bb.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Apple Music artwork for collectionId 1423291207 (11-track edition)."
+      }
+    ],
+    "notes": "One session, 15 August 1954, taped live before an invited studio audience in Los Angeles (S1, S2, S6); AllMusic gives the recording location only as 'Los Angeles, CA' and no source names the room, so the session is placed at the canonical city-level row los-angeles-venue-unidentified rather than at an invented studio. Producer Bob Shad is named by Wikipedia and by NPR, which credits him with bringing in the live audience (S1, S6). No engineer is credited on any source consulted - the original EmArcy credits, AllMusic, Discogs and Wikipedia are all silent - so engineer is null rather than inferred. Recording year 1954 is used as the album year per the canon convention, although the LP was released in February 1955 on EmArcy MG 36000 (S1, S3, S5). The original 12-inch programme is eight tracks (S5); the 11-track edition on Apple, Discogs and Wikipedia adds 'Darn That Dream', 'Crazy He Calls Me' and 'I'll Remember April', flagged here as bonus tracks (S1, S2, S3). Personnel is the date roster, all ten musicians on the single session; per-track distribution among the two pianists and two bassists is not documented anywhere consulted, and track personnel arrays are therefore marked inf and track_assignments_complete is false. Wikipedia's track note that 'Alone Together' and 'Summertime' are instrumentals is followed, so Dinah Washington is recorded as absent from those two tracks (S1); that note is the only per-track personnel statement in the sources."
+  },
+  "ballot": {
+    "album": "Dinah Washington — Dinah Jams (1954)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded in 1954 and first released in 1955, both within the window; its vocal-jazz/standards identity intersects with bebop and early hard-bop improvisation, but neither reference considers this a scope barrier."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "NPR's Basic Jazz Record Library explicitly recommends the album (S6), and AllMusic awards five stars (S2), providing direct support beyond Washington's historical stature. The Brown–Roach working-band nucleus, augmented by Clark Terry, Maynard Ferguson, Herb Geller and others, places her blues-rooted phrasing inside a consequential mid-1950s improvising ensemble rather than a conventional singer-with-accompaniment setting (S2, S6). Brown's obbligato on 'No More' and the invited-audience spontaneity make the session gravity audible, while NPR's description of a loose, live, enjoyable jam directly supports the discovery test. It offers a compelling introduction to a major vocalist absent from this canon without relying on representation alone.",
+    "case_against": "The strongest objection is whether an expansive, deliberately informal blowing session is Washington's defining album, rather than an outstanding shared showcase: she is absent from two of the original eight selections, and ensemble display competes with sustained vocal interpretation (S1). The dossier establishes exceptional participants and critical enthusiasm more clearly than album-specific influence or a uniquely coherent artistic conception. Consensus also needs qualification: the Penguin and Encyclopedia ratings are reported indirectly through Wikipedia, and two highlighted performances belong to the expanded edition rather than the original LP (S1–S5). Incomplete piano and bass assignments warrant sessionographical caution, though they do not themselves diminish the music.",
+    "disagreement": "Reference 1 judges the recommendation history, session gravity and importance of Washington's absence sufficient for consensus_core/must_have; Reference 2 judges it contested/strong because the jam-session format and divided vocal/instrumental identity leave its status as her definitive statement open to challenge. Both accept its scope and musical distinction; their genuine split concerns canonical necessity and album-level definition.",
+    "recommendation": "The council proposes that John give Dinah Jams strong consideration through listening, distinguishing the original eight-track album from the expanded edition before deciding whether it is his defining Washington selection.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-3.8-flash"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
