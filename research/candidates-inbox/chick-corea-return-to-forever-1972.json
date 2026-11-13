@@ -1,0 +1,322 @@
+{
+  "id": "chick-corea-return-to-forever-1972",
+  "artist": "Chick Corea",
+  "album": "Return to Forever",
+  "year": 1972,
+  "label": "ECM",
+  "catalog_number": "ECM 1022 ST",
+  "apple_album_id": 1445876621,
+  "musicbrainz_release_group_mbid": "46fa76ea-8bed-3f13-808b-ac313db502b8",
+  "cover_art_url": "http://coverartarchive.org/release/0eae369b-d198-49da-8931-5e4533967aff/36744380877.jpg",
+  "style_primary": "fusion",
+  "style_tags": [
+    "ecm"
+  ],
+  "rationale": "Return to Forever is the record where the electric-piano vocabulary Corea built inside Miles Davis' late-1960s bands (In a Silent Way and Bitches Brew are both already in the canon) hardens into a working band of his own, which makes it the clearest test the fusion gate has yet produced of the rubric's bridge test rather than its genre label (S1, S2). Recorded over two days in February 1972 at A & R Studios and issued on ECM 1022 ST (S1, S3, S5), it debuts the quintet — Corea, Joe Farrell, Stanley Clarke, Airto Moreira, Flora Purim — that gave the movement its name and much of its rhythmic frame (S1). The listing traditions are explicit rather than gestured at: AllMusic rates it five stars and files it under Fusion, the Rolling Stone Jazz Record Guide gives it five and the Penguin Guide four, all recorded in the article's ratings table (S1), and AllMusic's review calls the record one of the classic albums in electric jazz (S1). Lineage is the strongest part of the case: 'La Fiesta' and 'Crystal Silence' both became standards of the repertoire, and Crystal Silence is already in the canon as the Burton/Corea duet record, so this album is the earlier, band-scale statement of the same material — an edge the personnel network implies but at present cannot draw (S1, S2). Session gravity holds up as well: Clarke, Moreira and Purim come to the date straight out of Miles' circle and the Brazilian line, Farrell is a Coltrane-school multi-reed player, and all four remain substantial presences through the decade (S1, S2, S3). Honest caveats, recorded rather than smoothed over: AllMusic's primary style is Fusion, Corea plays Fender Rhodes rather than acoustic piano, Eicher's production adds tape echo and considerable space, and the band's later history as a rock-venue fusion act makes this the seed of a tradition it is easy for the canon to over-indulge (S1, S2). The case for it is that the 1972 quintet is acoustic in spirit — Farrell's flute and soprano, Purim's wordless singing, Moreira's hand percussion — and that it is a load-bearing link between the end of the modal canon and everything electric that follows, which is precisely what the fusion gate was opened to test.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Return to Forever (Chick Corea album) — recorded February 2–3, 1972 at A & R Studios, New York City; ECM 1022 ST; producer Manfred Eicher, engineer Tony May; complete four-track listing with composer and durations (12:06 / 6:59 / 4:30 / 23:13); personnel (Corea Fender Rhodes, Farrell flute and soprano saxophone, Clarke electric bass on tracks 1–3 and double bass on track 4, Moreira drums and percussion, Purim vocals and percussion); and review scores (AllMusic 5 stars, Rolling Stone Jazz Record Guide 5, Penguin Guide 4), with the statement that the record is often considered a classic of electric jazz",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Return_to_Forever_(Chick_Corea_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Chick Corea / Return to Forever — Return to Forever (release September 1972, recording February 2–3 1972, recording location 'A & R Studios, NY', genre Jazz, style Fusion, duration 46:48; full credits table: Chick Corea composer/piano/piano (electric), Joe Farrell flute/sax (soprano)/sax (tenor), Stanley Clarke bass/bass (electric)/double bass/guitar (bass), Airto Moreira drums/drums (snare)/percussion, Flora Purim vocals/percussion, Manfred Eicher producer, Tony May engineer, Michael Manoogian photography, Neville Potter lyricist)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/return-to-forever-mw0000187868"
+    },
+    "S3": {
+      "title": "Discogs master 123528: Chick Corea — Return To Forever, ECM Records ECM 1022 ST, German first issue 1972, 116 versions catalogued; credits Corea 'composed by, electric piano', Airto Moreira drums and percussion, Stan Clarke electric bass and double bass, Tony May engineer, Joe Farrell flutes and soprano saxophone, Neville Potter lyrics; track durations 12:06 / 6:55 / 4:26 / 23:18",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever"
+    },
+    "S4": {
+      "title": "iTunes Search API: Chick Corea — 'Return To Forever', collectionId 1445876621, 5 tracks, release date 1972-07-01, copyright '℗ 1974 ECM Records GmbH, under exclusive license to Deutsche Grammophon GmbH, Berlin'",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Chick+Corea+Return+to+Forever&entity=album&limit=25"
+    },
+    "S5": {
+      "title": "MusicBrainz release group 46fa76ea-8bed-3f13-808b-ac313db502b8 — Chick Corea, Return to Forever: ECM 1022 ST 12-inch (Germany 1972), US 1972 12-inch, and the digital release of 1972-07-01; also its AllMusic, Discogs and Wikipedia cross-references",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/46fa76ea-8bed-3f13-808b-ac313db502b8"
+    },
+    "S6": {
+      "title": "Cover Art Archive: front image returned for release 0eae369b-d198-49da-8931-5e4533967aff (ECM digital remaster of ECM 1022), plus a booklet PDF image",
+      "type": "metadata",
+      "url": "https://coverartarchive.org/release/0eae369b-d198-49da-8931-5e4533967aff"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1972-02-02",
+      "1972-02-03"
+    ],
+    "multi_session": true,
+    "studio": "A & R Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1972-02-02",
+        "site_raw": "A & R Studios, New York City",
+        "site_slug": "a-r-recording-room-undetermined",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1972-02-03",
+        "site_raw": "A & R Studios, New York City",
+        "site_slug": "a-r-recording-room-undetermined",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Manfred Eicher",
+    "engineer": "Tony May",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Chick Corea",
+        "instrument": "electric piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-02-02",
+          "1972-02-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia and Discogs credit Fender Rhodes electric piano; AllMusic additionally lists acoustic 'Piano' in the same credits row, so an acoustic-piano appearance on some tracks cannot be ruled out. No source assigns instruments per track, so coverage is recorded all-tracks with the conflict noted here rather than resolved by preference."
+      },
+      {
+        "name": "Joe Farrell",
+        "instrument": "soprano saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-02-02",
+          "1972-02-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flute throughout (S1, S2, S3). AllMusic additionally lists 'Sax (Tenor)' in the same credits row, which Wikipedia and Discogs do not record; the tenor credit is retained here as a source conflict at epistemic unk."
+      },
+      {
+        "name": "Stanley Clarke",
+        "instrument": "electric bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Return to Forever",
+          "Crystal Silence",
+          "What Game Shall We Play Today"
+        ],
+        "session_dates": [
+          "1972-02-02",
+          "1972-02-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Stan Clarke (credited form on the Discogs master)"
+        ],
+        "notes": "Wikipedia assigns electric bass to tracks 1–3 and double bass to track 4 ('Sometime Ago – La Fiesta'); AllMusic lists bass, bass (electric) and double bass without per-track split. The per-track split here follows Wikipedia (obs); the absence of a separate double-bass personnel entry is deliberate, since the double bass is the same player on a different instrument."
+      },
+      {
+        "name": "Airto Moreira",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-02-02",
+          "1972-02-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays percussion throughout (S1, S2, S3); AllMusic separates drummer credits from percussion credits without a per-track split."
+      },
+      {
+        "name": "Flora Purim",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1972-02-02",
+          "1972-02-03"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays percussion (S1, S2, S3). Sings lyrics by Neville Potter on 'What Game Shall We Play Today' and the 'Sometime Ago' section of the side-two medley; no source states whether her voice is present on the two instrumental tracks, so coverage is recorded as all-tracks."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Return to Forever",
+        "track_number": 1,
+        "side": "A",
+        "duration": "12:06",
+        "session_date": null,
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Joe Farrell",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Flora Purim"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Crystal Silence",
+        "track_number": 2,
+        "side": "A",
+        "duration": "6:59",
+        "session_date": null,
+        "composers": [
+          "Chick Corea"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Joe Farrell",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Flora Purim"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "What Game Shall We Play Today",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:30",
+        "session_date": null,
+        "composers": [
+          "Chick Corea",
+          "Neville Potter"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Joe Farrell",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Flora Purim"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sometime Ago – La Fiesta",
+        "track_number": 4,
+        "side": "B",
+        "duration": "23:13",
+        "session_date": null,
+        "composers": [
+          "Chick Corea",
+          "Neville Potter"
+        ],
+        "personnel": [
+          "Chick Corea",
+          "Joe Farrell",
+          "Stanley Clarke",
+          "Airto Moreira",
+          "Flora Purim"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "46fa76ea-8bed-3f13-808b-ac313db502b8",
+    "apple_album_id": "1445876621",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/0eae369b-d198-49da-8931-5e4533967aff/36744380877.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image returned by the Cover Art Archive for the ECM digital remaster of ECM 1022; the pressing is not verified as the 1972 German first issue."
+      },
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/32/f7/2e/32f72eab-d932-8ff0-e81b-d3c46e513976/00602537765348.rgb.jpg/100x100bb.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Apple Music artwork for collectionId 1445876621."
+      }
+    ],
+    "notes": "Two sessions, February 2 and 3, 1972, both at A & R Studios, New York City (S1, S2). Neither source documents which of the two rooms A & R used on those dates — AllMusic prints only 'A & R Studios, NY' and Wikipedia 'A & R Studios, New York City' — so both sessions are placed at the canonical undetermined-room row a-r-recording-room-undetermined; the 112 West 48th Street row is not used because no source documents that address for these dates. Sources disagree on the number of tracks captured rather than on the music: Wikipedia, Discogs and MusicBrainz all give the original four-track ECM programme, while the iTunes collection carries five tracks, the extra item not identified in any source consulted (S1, S3, S4, S5); the original programme is recorded here. Durations differ slightly between Wikipedia and Discogs (6:59 / 4:30 / 23:13 against 6:55 / 4:26 / 23:18) — the Wikipedia figures are used and the difference is small enough to be mastering rather than performance. Release history is complicated and recorded deliberately: ECM issued the album in Germany and Japan in 1972 (some sources say July, some September) but the US release did not follow until 1975 (S2, S5); the canon year is the original 1972 release. Corea's instrument is a genuine source conflict — Wikipedia and Discogs say Fender Rhodes, AllMusic credits both acoustic piano and electric piano — and Farrell's tenor credit exists only in AllMusic; both conflicts are preserved rather than resolved. No source assigns personnel per track, so track_assignments_complete is false. Style is coded fusion, following AllMusic's style field and the Wikipedia genre line; ECM is recorded as a label tag, never as style_primary."
+  },
+  "ballot": {
+    "album": "Chick Corea — Return to Forever (1972)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The original 1972 release is within the window and predates the special 1973–1985 continuity band. Fusion and ECM are admissible, but their opened-gate rules require a judgment on whether this electric quintet is a load-bearing extension of the modal/post-bebop lineage rather than primarily the founding statement of a separate fusion tradition."
+    },
+    "tier": "scope_call",
+    "priority": "strong",
+    "case_for": "Corea transforms his late-Miles electric vocabulary into a distinctive band language, joining Farrell's reeds, Clarke's electric and acoustic basses, Moreira's percussion, and Purim's voice in a modal-Brazilian conception distinct from the group's later guitar-driven fusion (S1–S3). The original quintet's defining statement also contains “Crystal Silence” and “La Fiesta,” with the former providing a concrete repertoire bridge to the Burton/Corea album already in the canon. Reported five-star AllMusic and Rolling Stone ratings and four Penguin stars support its lasting stature, although the guide ratings are mediated through Wikipedia (S1, S2). Its melodic accessibility and improvisational range make the lineage audible, not merely historical.",
+    "case_against": "The strongest objection concerns musical direction: Rhodes, electric bass, studio spaciousness, and crossover vocal songwriting can be heard as establishing fusion's independent aesthetic rather than extending the canon's post-bop center (S1–S3). The Burton/Corea treatment of “Crystal Silence” also raises a legitimate defining-statement question about this album's particular realization of its repertoire, not an artist-concentration objection. Excellent review scores do not establish core-collection consensus: the dossier supplies no directly checked Penguin or Rolling Stone entry, and most other sources corroborate discography rather than canonical standing.",
+    "disagreement": "Reference 1 judges the bridge test decisively satisfied and the evidence exceptional enough for consensus_core; Reference 2 finds the same musical strengths insufficient to resolve the fusion/ECM boundary without John's ruling and prefers scope_call. Both assign strong priority; their genuine split concerns whether lineage and acclaim settle the scope question, not whether the album is important.",
+    "recommendation": "The council proposes that John give this strong-priority album a focused listen and rule on its fusion/ECM bridge claim before deciding its place in the canon.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

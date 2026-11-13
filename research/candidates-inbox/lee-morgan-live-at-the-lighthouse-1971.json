@@ -1,0 +1,372 @@
+{
+  "id": "lee-morgan-live-at-the-lighthouse-1971",
+  "artist": "Lee Morgan",
+  "album": "Live at the Lighthouse",
+  "year": 1971,
+  "label": "Blue Note",
+  "catalog_number": "Blue Note BST 89906",
+  "apple_album_id": 716018787,
+  "musicbrainz_release_group_mbid": "f04f5b4c-8afe-318b-b054-1af013c0880e",
+  "cover_art_url": "https://coverartarchive.org/release/4063916f-39af-4289-8f4e-c7b19b48b5bd/24252526975.jpg",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "modal-jazz"
+  ],
+  "rationale": "Live at the Lighthouse is the missing end of the Lee Morgan arc the canon already tells — Indeed! (1956), The Sidewinder (1963), Cornbread (1965), The Gigolo (1965) and Search for the New Land (1966) are all in — and this is the record that shows where the band actually went afterwards: his last album released in his lifetime, cut live over three nights in July 1970 and issued by Blue Note in April 1971 (S1, S2, S3). The case runs on session gravity and lineage before it runs on fame. The quintet is Harold Mabern, Jymie Merritt and Mickey Roker, all of whom had been with Morgan for years, plus Bennie Maupin, whose tenor, bass clarinet and flute on this date sit directly on the line running from Morgan's late Blue Note bands into Bitches Brew and On the Corner (S2). The listing traditions support it rather than carry it: the Penguin Guide gives four stars, AllMusic four and a half with the line that this is 'stimulating and frequently exciting music from late in Lee Morgan's short life', and the Rolling Stone Jazz Record Guide four (S1, S2). The format is the argument: four side-long performances — 'Absolutions' and 'Nommo' by Merritt, 'The Beehive' by Mabern, 'Neophilia' by Maupin — give every member of the band a writing voice and roughly nineteen minutes of room to use it, which is a different kind of document from the three-minute Blue Note single that made Morgan famous (S1, S3). The discovery test is met on its own terms: this is a working band stretching out in a club, not a studio blowing date, and it is the best surviving evidence of what that band sounded like in public (S1, S2). Honest caveats, recorded rather than smoothed: it is a live club recording, not a Rudy Van Gelder studio date, the original programme is only four very long tracks, and the canon already carries a good deal of Lee Morgan, so there is no hole in his discography that only this record can fill. What it adds is the late, expanded, post-1968 Morgan and a personnel date that ties the hard-bop generation to the electric one; the 1996 and 2021 Blue Note expansions mean the listener can now hear the whole engagement, and the dossier distinguishes the original album from those reissues throughout.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Live at the Lighthouse (Lee Morgan album) — released April 1971 on Blue Note, recorded July 10–12, 1970 at The Lighthouse, Hermosa Beach, California, producer Francis Wolff; original 2-LP programme of four side-long tracks with composers and durations ('Absolutions' 19:40, 'The Beehive' 16:23, 'Neophilia' 19:05, 'Nommo' 18:00); 1996 expanded edition track list in which Jack DeJohnette replaces Mickey Roker on 'Speedball'; full personnel (Morgan trumpet and flugelhorn, Maupin tenor saxophone/flute/bass clarinet, Mabern piano, Merritt electric upright bass, Roker drums, DeJohnette drums); review scores AllMusic 4.5, Penguin Guide 4, Rolling Stone Jazz Record Guide 4, with the AllMusic verdict quoted",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Live_at_the_Lighthouse_(Lee_Morgan_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Lee Morgan — Live at the Lighthouse [Blue Note] (recording dates July 10–12 1970, recording location 'The Lighthouse, Hermosa Beach, CA', styles Modal Music / Hard Bop / Jazz Instrument / Trumpet Jazz / Avant-Garde Jazz; full credits table: Lee Morgan trumpet, flugelhorn, announcer, composer, primary artist; Bennie Maupin tenor sax, bass clarinet, flute, composer, liner notes; Harold Mabern piano, composer; Jymie Merritt bass, guitar (bass), composer; Mickey Roker drums; Jack DeJohnette drums; Francis Wolff producer; Dino Lappas engineer; Bob Belden and Howard Rumsey liner notes)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/live-at-the-lighthouse-blue-note--mw0000647481"
+    },
+    "S3": {
+      "title": "MusicBrainz release group f04f5b4c-8afe-318b-b054-1af013c0880e and release e0bb8019-1ad5-4a66-bb8b-a4a28c380d7b — Lee Morgan, Live at the Lighthouse: Blue Note BST 89906 2×12-inch, US, April 1971, with side assignments A 'Absolutions' 19:40, B 'The Beehive' 16:23, C 'Neophilia' 19:05, D 'Nommo' 18:00 and per-track recording credits in 1970-07 at The Lighthouse Café, Hermosa Beach",
+      "type": "discography",
+      "url": "https://musicbrainz.org/release-group/f04f5b4c-8afe-318b-b054-1af013c0880e"
+    },
+    "S4": {
+      "title": "iTunes Search API: Lee Morgan — 'Live At the Lighthouse', collectionId 716018787, 13 tracks, release date 1996-05-14, Blue Note Records, primary genre Avant-Garde Jazz; also collectionId 1571348679, 'The Complete Live At The Lighthouse', 47 tracks, released 2021-08-20",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=Lee+Morgan+Live+at+the+Lighthouse&entity=album&limit=15"
+    },
+    "S5": {
+      "title": "Cover Art Archive: front and back images returned for release 4063916f-39af-4289-8f4e-c7b19b48b5bd (the 1996 3-CD Blue Note edition, CDP 7243 8 35228 2 8)",
+      "type": "metadata",
+      "url": "https://coverartarchive.org/release/4063916f-39af-4289-8f4e-c7b19b48b5bd"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1970-07-10",
+      "1970-07-11",
+      "1970-07-12"
+    ],
+    "multi_session": true,
+    "studio": "The Lighthouse, Hermosa Beach, CA",
+    "recording_sites": [
+      {
+        "session_date": "1970-07-10",
+        "site_raw": "The Lighthouse, Hermosa Beach, California",
+        "site_slug": "the-lighthouse",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1970-07-11",
+        "site_raw": "The Lighthouse, Hermosa Beach, California",
+        "site_slug": "the-lighthouse",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      },
+      {
+        "session_date": "1970-07-12",
+        "site_raw": "The Lighthouse, Hermosa Beach, California",
+        "site_slug": "the-lighthouse",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S1"
+      }
+    ],
+    "producer": "Francis Wolff",
+    "engineer": "Dino Lappas",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Lee Morgan",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-07-10",
+          "1970-07-11",
+          "1970-07-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flugelhorn (S1, S2) and introduces the band, credited by AllMusic as 'Announcer' (S2). Recording began on his 32nd birthday, 10 July 1970 (S1)."
+      },
+      {
+        "name": "Bennie Maupin",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-07-10",
+          "1970-07-11",
+          "1970-07-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays flute and bass clarinet (S1, S2). Composes 'Neophilia' (and, on the 1996 expansion, four further pieces); wrote the reissue liner notes (S2, S3). Doublings are not assigned per track by any source."
+      },
+      {
+        "name": "Harold Mabern",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-07-10",
+          "1970-07-11",
+          "1970-07-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composes 'The Beehive' on the original album (S1, S3)."
+      },
+      {
+        "name": "Jymie Merritt",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1970-07-10",
+          "1970-07-11",
+          "1970-07-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Instrument form is a source disagreement recorded rather than resolved: Wikipedia says 'electric upright bass', AllMusic lists 'Bass' and 'Guitar (Bass)', MusicBrainz credits double bass. Recorded here under the upright-bass family term double bass, with the amplified electric-upright instrument noted. Composes 'Absolutions' and 'Nommo' (S1, S3)."
+      },
+      {
+        "name": "Mickey Roker",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Absolutions",
+          "The Beehive",
+          "Neophilia",
+          "Nommo"
+        ],
+        "session_dates": [
+          "1970-07-10",
+          "1970-07-11",
+          "1970-07-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "On every track of the original 2-LP programme; Wikipedia notes he is replaced by Jack DeJohnette on 'Speedball', which appears only on the 1996 expanded edition (S1)."
+      },
+      {
+        "name": "Jack DeJohnette",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Speedball"
+        ],
+        "session_dates": [
+          "1970-07-10",
+          "1970-07-11",
+          "1970-07-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Guest only on 'Speedball', which is not on the original 2-LP and reaches the album through the 1996 expanded edition (S1). His presence on the engagement is certain; which of the three nights it came from is not documented, and the session_dates listed are the engagement's dates rather than a confirmed assignment."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Absolutions",
+        "track_number": 1,
+        "side": "A",
+        "duration": "19:40",
+        "session_date": null,
+        "composers": [
+          "Jymie Merritt"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Bennie Maupin",
+          "Harold Mabern",
+          "Jymie Merritt",
+          "Mickey Roker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Beehive",
+        "track_number": 2,
+        "side": "B",
+        "duration": "16:23",
+        "session_date": null,
+        "composers": [
+          "Harold Mabern"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Bennie Maupin",
+          "Harold Mabern",
+          "Jymie Merritt",
+          "Mickey Roker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Neophilia",
+        "track_number": 3,
+        "side": "C",
+        "duration": "19:05",
+        "session_date": null,
+        "composers": [
+          "Bennie Maupin"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Bennie Maupin",
+          "Harold Mabern",
+          "Jymie Merritt",
+          "Mickey Roker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Nommo",
+        "track_number": 4,
+        "side": "D",
+        "duration": "18:00",
+        "session_date": null,
+        "composers": [
+          "Jymie Merritt"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Bennie Maupin",
+          "Harold Mabern",
+          "Jymie Merritt",
+          "Mickey Roker"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Speedball",
+        "track_number": 5,
+        "side": null,
+        "duration": "11:54",
+        "session_date": null,
+        "composers": [
+          "Lee Morgan"
+        ],
+        "personnel": [
+          "Lee Morgan",
+          "Bennie Maupin",
+          "Harold Mabern",
+          "Jymie Merritt",
+          "Jack DeJohnette"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "f04f5b4c-8afe-318b-b054-1af013c0880e",
+    "apple_album_id": "716018787",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/4063916f-39af-4289-8f4e-c7b19b48b5bd/24252526975.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image returned by the Cover Art Archive for the 1996 3-CD Blue Note edition, not for the 1971 BST 89906 2-LP; the original sleeve art is not verified against a source here."
+      },
+      {
+        "role": "front",
+        "source": "itunes",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f3/f6/04/f3f60488-0c59-cea0-0f31-950192880d96/00724383522859.jpg/100x100bb.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Apple Music artwork for collectionId 716018787, the 13-track 1996 edition."
+      }
+    ],
+    "notes": "One engagement, three consecutive nights, 10–12 July 1970, recorded live at The Lighthouse in Hermosa Beach (S1, S2, S3); all three dates are recorded as separate sessions because Wikipedia and AllMusic both give the three-day run and the 2021 box set is described as the complete engagement. The producer credit is recorded exactly as both sources give it — Wikipedia names Francis Wolff as producer and AllMusic's credits table does the same (S1, S2) — without reinterpreting the 1970 recording against the 1971 release, which neither source distinguishes. Engineer Dino Lappas is AllMusic's credit only (S2) and is marked obs on that single source. Which performance came from which night is not documented in any source consulted, so per-track session_date is null and track_assignments_complete is false; the four original performances nonetheless each carry the full quintet, and Wikipedia's single per-track personnel statement — DeJohnette in place of Roker on 'Speedball' — is followed exactly. The tracks array records the original 1971 two-LP programme (four side-long tracks, one per side, S1 and S3) plus 'Speedball' as a flagged bonus, because that is the one track of the 1996 expansion with a documented personnel change; the remaining twelve tracks of the 1996 reissue and the 47-track 2021 'Complete' edition are noted here rather than enumerated. Release year is recorded as 1971 on the Wikipedia and MusicBrainz evidence (April 1971, BST 89906); AllMusic's release-date field says 1970 and is treated as a recording-date artefact. Instrument forms: Merritt's bass is described as an electric upright by Wikipedia and simply as bass by AllMusic and MusicBrainz, recorded under double bass with the conflict preserved; Maupin's flute and bass clarinet and Morgan's flugelhorn are noted rather than given separate rows."
+  },
+  "ballot": {
+    "album": "Lee Morgan — Live at the Lighthouse (1971)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded in 1970 and released in 1971 (S1, S3). The references differ on whether the modal/avant-garde elements warrant a boundary flag: one identifies a soft modal/avant boundary, while the other regards the acoustic hard-bop framework as unambiguously central; neither ultimately recommends scope_call."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest case is a distinctive late-period statement: Morgan's working quintet extends hard bop into sustained modal exploration through four side-long compositions by Merritt, Mabern, and Maupin, rather than merely reproducing his studio formula (S1, S3). The Morgan–Maupin–Mabern–Merritt–Roker ensemble supplies substantial session gravity and a persuasive listening bridge between Blue Note hard bop and the era's more exploratory vocabulary, although specific downstream influence remains an inference (S1, S2). Reported ratings of four stars from the Penguin Guide and Rolling Stone Jazz Record Guide and 4.5 from AllMusic support enduring critical esteem, while the live format offers a distinctive discovery experience (S1, S2).",
+    "case_against": "The dossier establishes strong reviews, not overwhelming canonical consensus: Penguin and Rolling Stone ratings are relayed secondhand, and no Core Collection designation or major canon-list evidence is supplied. The original programme's four 16–20-minute performances demand sustained attention, making its expansive club format a genuine discovery trade-off rather than an automatic advantage (S1, S3). Evidence of consequential influence is thinner than the personnel-based bridge argument, and later archival prominence cannot by itself establish the original album as load-bearing. Edition entanglement also needs repair: the 1971 catalogue identity accompanies 1996 streaming and artwork metadata, and DeJohnette's appearance belongs only to expanded material (S3–S5).",
+    "disagreement": "Both references choose contested, but Reference 1 assigns strong priority while Reference 2 assigns consider. Reference 1 treats the late-band document and personnel bridge as substantial canonical gains; Reference 2 gives greater weight to limited consensus evidence, long-form discovery friction, and edition ambiguity. They also differ over whether modal/avant-garde elements constitute a genuine soft scope boundary, though neither judges the record primarily free jazz or fusion.",
+    "recommendation": "The council proposes John give the original four-track programme strong-priority consideration, with edition metadata clarified and unsupported personnel-lineage claims removed before a decision.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
