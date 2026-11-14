@@ -1,0 +1,311 @@
+{
+  "id": "john-coltrane-live-at-birdland-1964",
+  "artist": "John Coltrane",
+  "album": "Live at Birdland",
+  "year": 1964,
+  "label": "Impulse!",
+  "apple_album_id": 1469578985,
+  "musicbrainz_release_group_mbid": "74cd52d0-d51e-3915-991b-56ea216ca79c",
+  "cover_art_url": "https://coverartarchive.org/release/ffe69867-6cce-3bd4-b01f-256b2f7a0ccd/18788395154.jpg",
+  "style_primary": "post-bop",
+  "style_tags": [],
+  "rationale": "The Classic Quartet caught at the hinge: three tracks cut live at Birdland on 1963-10-08 plus the studio session of 1963-11-18 that produced 'Alabama'. Consensus is strong and cross-tradition — Penguin Guide 3.5 stars, AllMusic 5 stars (Scott Yanow: 'arguably John Coltrane's finest all-around album'), Record Mirror 4 stars, Rolling Stone Jazz Record Guide 4 stars, Pitchfork's 200 Best Albums of the 1960s at #128 — and the lineage runs straight into records already in the canon: 'Alabama' is a memorial for the four girls killed in the 16th Street Baptist Church bombing, and the unaccompanied tenor cadenza on 'I Want to Talk About You' is the solo everyone studies. Session gravity is the quartet itself (Coltrane, Tyner, Garrison, Jones) with Tyner's 'Afro Blue' solo cited as a defining statement. Discovery value: a listener sent here hears why the quartet mattered, not a historical summary of it. Impassioned speech without free-jazz density — the record that teaches the transition rather than announcing it.",
+  "priority": "must_have",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Live at Birdland (John Coltrane album) — track list, personnel, per-track recording dates and venues, and review scores table (Penguin Guide 3.5 stars, AllMusic 5 stars, Record Mirror 4 stars, Rolling Stone Jazz Record Guide 4 stars; Pitchfork's 200 Best Albums of the 1960s #128)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Live_at_Birdland_(John_Coltrane_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Live at Birdland — Scott Yanow 5-star review, track durations, credits (Bob Thiele producer, Rudy Van Gelder engineer), recording locations Birdland and Van Gelder Studios",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/live-at-birdland-mw0000076846"
+    },
+    "S3": {
+      "title": "Discogs: Coltrane — Live At Birdland (master, 105 versions) — per-track session attribution (A1/A2/B1 recorded 1963-10-08 at Birdland; B2/B3 recorded 1963-11-18 at Van Gelder Studio), credits incl. Rudy Van Gelder engineer, LeRoi Jones liner notes",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/32382-Coltrane-Live-At-Birdland"
+    },
+    "S4": {
+      "title": "Apple Music: John Coltrane — Live At Birdland, collectionId 1469578985, released 1964-01-09, 5 tracks",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=john+coltrane+live+at+birdland&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group 74cd52d0-d51e-3915-991b-56ea216ca79c / Cover Art Archive front image — identifiers and original front cover",
+      "type": "metadata",
+      "url": "https://musicbrainz.org/release-group/74cd52d0-d51e-3915-991b-56ea216ca79c"
+    },
+    "S6": {
+      "title": "JazzProfiles: John Coltrane discography entry — 'Recorded October 8 and November 18, 1963', Impulse! A-50/AS-50, personnel John Coltrane (tenor and soprano sax), McCoy Tyner, Jimmy Garrison, Elvin Jones",
+      "type": "discography",
+      "url": "https://jazzprofiles.com/profile/john-coltrane/"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-10-08",
+      "1963-11-18"
+    ],
+    "multi_session": true,
+    "studio": "Birdland, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1963-10-08",
+        "site_raw": "Birdland, New York City (A1, A2, B1)",
+        "site_slug": "birdland",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1963-11-18",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey (B2, B3)",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Bob Thiele",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia, Discogs and JazzProfiles also credit soprano saxophone; none of the sources consulted splits tenor and soprano by track, so the soprano assignments are not recorded here (unk per track)."
+      },
+      {
+        "name": "McCoy Tyner",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jimmy Garrison",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic lists him as 'Bass, Bass (Upright)'; double bass."
+      },
+      {
+        "name": "Elvin Jones",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S6"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Afro Blue",
+        "track_number": 1,
+        "side": "A",
+        "duration": "10:50",
+        "session_date": "1963-10-08",
+        "composers": [
+          "Mongo Santamaria"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Want to Talk About You",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:11",
+        "session_date": "1963-10-08",
+        "composers": [
+          "Billy Eckstine"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Promise",
+        "track_number": 3,
+        "side": "B",
+        "duration": "8:10",
+        "session_date": "1963-10-08",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Alabama",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:09",
+        "session_date": "1963-11-18",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Your Lady",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:39",
+        "session_date": "1963-11-18",
+        "composers": [
+          "John Coltrane"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Vilia",
+        "track_number": 6,
+        "side": null,
+        "duration": "4:36",
+        "session_date": null,
+        "composers": [
+          "Franz Lehár"
+        ],
+        "personnel": [
+          "John Coltrane",
+          "McCoy Tyner",
+          "Jimmy Garrison",
+          "Elvin Jones"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "notes": "Two sessions, per Discogs: A1/A2/B1 recorded live at Birdland 1963-10-08; B2/B3 recorded at Van Gelder Studio, Englewood Cliffs, 1963-11-18 (Van Gelder after the July 1959 move, so Englewood Cliffs, not Hackensack). Despite the title only the first three tracks are live. Producer Bob Thiele and engineer Rudy Van Gelder are both named by Wikipedia/AllMusic/Discogs; Van Gelder's credit plausibly covers the studio session and probably the live tapes (RVG stamp on original pressings), but no source splits the engineering by session — recorded as one album-level credit. CD-only bonus 'Vilia' (first issued on the 1965 Impulse! compilation 'The Definitive Jazz Scene Volume 3'): AllMusic gives the album's recording-date range as 1963-03-06 to 1963-11-18 and an older Wikipedia revision dates 'Vilia' to a 1963-03-06 session, but no source consulted documents that session's venue or personnel, so it carries no recording_sites entry, no recording_dates entry, and epistemic_track unk. CONFLICT NOTED: AllMusic's credits tab also lists Eric Dolphy (bass clarinet, alto sax) and Roy Haynes (drums) with no track attribution; neither appears in Wikipedia's, Discogs's or JazzProfiles' personnel for this album, and neither is on the five original tracks. Both are omitted from the personnel list rather than dropped silently — this is most likely credit contamination from another Impulse! title in AllMusic's system, but it is unresolved. Durations differ slightly across sources (Wikipedia/AllMusic/Discogs); Wikipedia's are recorded here."
+  },
+  "ballot": {
+    "album": "John Coltrane — Live at Birdland (1964)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "This is a defining portrait of the Coltrane–Tyner–Garrison–Jones quartet, connecting the modal intensity of “Afro Blue,” the unaccompanied tenor cadenza on “I Want to Talk About You,” and the elegiac force of “Alabama.” AllMusic’s Scott Yanow awards five stars and calls it “arguably John Coltrane’s finest all-around album” (S2), while S1 reports recognition across the Penguin Guide, Rolling Stone, Record Mirror, and Pitchfork. The quartet’s interplay makes its historical importance immediately audible, offering a particularly revealing entry into its combination of rhythmic freedom, lyricism, and spiritual gravity. “Alabama,” responding to the 16th Street Baptist Church bombing, gives the album an expressive and historical identity beyond its value as a representative quartet session.",
+    "case_against": "The original album combines three Birdland performances with two studio recordings rather than presenting a continuous concert or a single conceived suite (S3), leaving a legitimate question about album-level coherence versus the greatness of individual tracks. Critical acclaim is substantial but not uniformly maximal: the reported Penguin Guide rating is 3.5 stars, and several independent judgments are available here only through Wikipedia’s aggregation rather than their original sources (S1). The dossier also needs personnel cleanup—unmapped soprano assignments, conflicting AllMusic credits, and unsupported certainty about the bonus track’s personnel—although these issues do not materially undermine the independently corroborated original five-track program.",
+    "disagreement": "Both references judge the album consensus_core and identify no scope boundary, but they split on urgency: Reference 1 calls it must_have because its landmark performances make it indispensable, while Reference 2 favors strong because the composite construction and qualified top-tier consensus do not establish that the canon is visibly incomplete without it. This ballot adopts the more conservative strong priority without treating that calibration difference as a dispute over canonical merit.",
+    "recommendation": "The council proposes that John give the original five-track album strong-priority consideration as consensus_core, with the dossier’s edition and personnel uncertainties corrected separately.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

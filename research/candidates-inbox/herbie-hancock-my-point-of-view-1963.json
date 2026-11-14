@@ -1,0 +1,332 @@
+{
+  "id": "herbie-hancock-my-point-of-view-1963",
+  "artist": "Herbie Hancock",
+  "album": "My Point of View",
+  "year": 1963,
+  "label": "Blue Note",
+  "apple_album_id": 1444066183,
+  "musicbrainz_release_group_mbid": "c9ef901d-b50a-3c41-8086-f070a89243f5",
+  "cover_art_url": "https://coverartarchive.org/release/4c2f7969-771a-4c9c-a3ac-ef29cbbfb1c8/32233569949.jpg",
+  "style_primary": "hard-bop",
+  "style_tags": [
+    "post-bop",
+    "soul-jazz",
+    "modal-jazz"
+  ],
+  "rationale": "Hancock's second Blue Note leader date, and a session-gravity record rather than a critical darling: the ratings are good, not exceptional (Down Beat 3 stars, AllMusic 4 stars, Rolling Stone Jazz Record Guide 3 stars, Penguin Guide 3 stars), which is exactly why the case has to be argued on the other signals. The band is the argument — Donald Byrd, Hank Mobley, Grachan Moncur III, Grant Green, Chuck Israels, and a 17-year-old Tony Williams, two months before Williams and Hancock joined Miles Davis and became the Second Great Quintet. Every player but Israels went on to a substantial Blue Note leadership run; this is the date where that generation is visible as a generation. Lineage is audible inside the canon already: 'King Cobra' is the modal writing Hancock would carry into 'Maiden Voyage' two years later, and 'Blind Man, Blind Man' reaches back toward 'Watermelon Man'. It still plays — a loose, bluesy septet session with Green's soul-jazz guitar on two tracks. Not the definitive Hancock statement (Maiden Voyage and Empyrean Isles are already in the canon and are), but the missing link between them and Takin' Off.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: My Point of View — track list with durations and sides, personnel list with Grant Green's track restriction (tracks 1, 5 and 6), recorded 1963-03-19 at Van Gelder Studio, Englewood Cliffs; review scores table (Down Beat 3 stars, AllMusic 4 stars, Rolling Stone Jazz Record Guide 3 stars, Penguin Guide 3 stars)",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/My_Point_of_View"
+    },
+    "S2": {
+      "title": "AllMusic: My Point of View — credits tab (Donald Byrd trumpet, Grant Green guitar, Herbie Hancock piano, Chuck Israels bass, Alfred Lion producer, Hank Mobley tenor sax, Grachan Moncur III trombone, Rudy Van Gelder engineer, Tony Williams drums), review text",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/my-point-of-view-mw0000247492"
+    },
+    "S3": {
+      "title": "Herbie Hancock official discography: My Point of View — 1999 remastered liner notes transcribed ('Recorded on March 19, 1963 at the Van Gelder Studio, Englewood Cliffs, New Jersey'; original recording and 1999 remastering by Rudy Van Gelder; Blue Note BLP 4126/BST 84126), track list with durations, full personnel and production credits",
+      "type": "liner-notes",
+      "url": "https://www.herbiehancock.com/music/discography/album/my-point-of-view/"
+    },
+    "S4": {
+      "title": "Apple Music: Herbie Hancock — My Point of View, collectionId 1444066183, Blue Note, 5 tracks (also lists an Expanded Edition, collectionId 724744263, 6 tracks incl. alternate take)",
+      "type": "metadata",
+      "url": "https://itunes.apple.com/search?term=herbie+hancock+my+point+of+view&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group c9ef901d-b50a-3c41-8086-f070a89243f5 / Cover Art Archive front image — identifiers and original front cover",
+      "type": "metadata",
+      "url": "https://musicbrainz.org/release-group/c9ef901d-b50a-3c41-8086-f070a89243f5"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1963-03-19"
+    ],
+    "multi_session": false,
+    "studio": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+    "recording_sites": [
+      {
+        "session_date": "1963-03-19",
+        "site_raw": "Van Gelder Studio, Englewood Cliffs, New Jersey",
+        "site_slug": "van-gelder-studio-englewood-cliffs",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Herbie Hancock",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic's credits tab also lists Hancock on 'Vocals'; no other source credits a vocal, and the album is instrumental — omitted as a credit anomaly (see block notes)."
+      },
+      {
+        "name": "Donald Byrd",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Grachan Moncur III",
+        "instrument": "trombone",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia's overview says the trombone is added on three of the five tracks; no source consulted says which three, so the track coverage is recorded as unknown rather than inferred."
+      },
+      {
+        "name": "Hank Mobley",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Grant Green",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blind Man, Blind Man",
+          "And What If I Don't"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Wikipedia prints '(only 1, 5 & 6)'; track 6 is the CD alternate take of track 1, so on the original five-track programme he plays on tracks 1 and 5."
+      },
+      {
+        "name": "Chuck Israels",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic lists 'Bass'; the 1999 liner notes give 'Chuck Israels (Bass)'. Double bass."
+      },
+      {
+        "name": "Tony Williams",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Anthony Williams"
+        ],
+        "notes": "Liner notes give 'Anthony Williams'; he was 17 at the session."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Blind Man, Blind Man",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:19",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Donald Byrd",
+          "Grachan Moncur III",
+          "Hank Mobley",
+          "Grant Green",
+          "Chuck Israels",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Tribute to Someone",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:45",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Donald Byrd",
+          "Grachan Moncur III",
+          "Hank Mobley",
+          "Chuck Israels",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "King Cobra",
+        "track_number": 3,
+        "side": "B",
+        "duration": "6:55",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Donald Byrd",
+          "Grachan Moncur III",
+          "Hank Mobley",
+          "Chuck Israels",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Pleasure Is Mine",
+        "track_number": 4,
+        "side": "B",
+        "duration": "4:03",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Donald Byrd",
+          "Grachan Moncur III",
+          "Hank Mobley",
+          "Chuck Israels",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "And What If I Don't",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:35",
+        "session_date": "1963-03-19",
+        "composers": [
+          "Herbie Hancock"
+        ],
+        "personnel": [
+          "Herbie Hancock",
+          "Donald Byrd",
+          "Grachan Moncur III",
+          "Hank Mobley",
+          "Grant Green",
+          "Chuck Israels",
+          "Tony Williams"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "notes": "Single session: 1963-03-19 at Van Gelder Studio, Englewood Cliffs, New Jersey (liner notes, S3). The move from Hackensack was July 1959, so the Englewood Cliffs row is the right one. Moncur's trombone is documented for three of five tracks but not which three, so tracks 2-4 carry the full septet only as a possibility: their personnel lists omit Grant Green (source-confirmed absent) but the trombone presence per track is unresolved — hence epistemic_track unk on tracks 2-4 and track_assignments_complete false. CONFLICT NOTED: AllMusic's credits tab lists Herbie Hancock with 'Vocals'; no other source does and the record is instrumental — treated as a credit anomaly and omitted. Track 4 duration: Wikipedia and the liner notes give 4:03 while the CD reissue incorrectly prints 8:00 (noted by Wikipedia); 4:03 recorded. CD/Expanded Edition adds 'Blind Man, Blind Man (alternate take)' at 8:21, excluded here as a bonus track."
+  },
+  "ballot": {
+    "album": "Herbie Hancock — My Point of View (1963)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "The strongest argument is session gravity: the March 19, 1963 date brings Hancock and a 17-year-old Tony Williams together with Donald Byrd, Hank Mobley, Grachan Moncur III, Chuck Israels, and Grant Green, whose guitar appears on two original tracks (S1–S3). As a listening-based inference rather than an established influence claim, “King Cobra” anticipates Hancock’s mature modal writing, while “Blind Man, Blind Man” extends the blues-oriented accessibility of “Watermelon Man.” That meeting of established hard-bop voices and emerging post-bop possibilities makes the album an approachable document of a consequential musical transition.",
+    "case_against": "The supplied reception evidence establishes respect rather than canonical consensus: S1 reports three-star assessments from Down Beat, Penguin, and the Rolling Stone Jazz Record Guide, alongside AllMusic’s four stars, but the dossier supplies no independent canon-list recognition. Musically, the backward-looking soul-jazz and forward-looking modal writing can register as a transitional collection rather than a cohesive, defining statement; distinguished personnel alone do not establish that the album is load-bearing. The evidence also needs tightening: Moncur’s track assignments remain unresolved, and the principal lineage claims lack dedicated supporting criticism.",
+    "disagreement": null,
+    "recommendation": "The council proposes John audition this as a consider-priority discovery candidate, testing whether its musical bridge is compelling enough beyond its personnel significance and requesting clarification of Moncur’s track assignments.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
