@@ -1,0 +1,346 @@
+{
+  "id": "thelonious-monk-thelonious-himself-1957",
+  "artist": "Thelonious Monk",
+  "album": "Thelonious Himself",
+  "year": 1957,
+  "label": "Riverside Records",
+  "catalog_number": "RLP 12-235",
+  "style_primary": "bebop",
+  "rationale": "Monk's first solo-piano album for an American label, and the one that made the case for him as a ballad player rather than only a composer of angular themes. The reception is strong across independent traditions of listing: DownBeat gave it five stars and called it 'highly recommended', the Penguin Guide four stars, and Robert Christgau called it 'probably [Monk's] best' solo album (all three recorded in the Wikipedia reception table, S1). It is Monk's second solo-piano studio album and the first made by an American label and distributed in the United States — the earlier extended solo recording, 'Piano Solo', had been cut in Paris in June 1954 for a radio broadcast (S1) — so it is the first solo Monk an American listener could walk into, which is the discovery value the rubric asks for. Session gravity: the 5 April date put John Coltrane and Wilbur Ware beside Monk for 'Monk's Mood' — a documented Monk/Coltrane studio encounter in the same month as the Riverside Monk-and-Coltrane sessions, and the reason this album is a hinge between the solo statement and the small-group canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article 'Thelonious Himself' (recording dates 5 and 16 April 1957; cover caption naming Reeves Sound Studios as the recording venue; personnel; original 1957 track listing with Side One/Side Two and durations; reception table recording DownBeat 5 stars 'highly recommended', Penguin Guide 4 stars, Christgau 'probably [Monk's] best' solo album, AllMusic/Yanow 4/5)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Thelonious_Himself"
+    },
+    "S2": {
+      "title": "AllMusic album page and full Credits tab for 'Thelonious Himself' — Jack Higgins (Engineer, Recorder), Orrin Keepnews (Original Album Producer), recording date 'April 5, 1957 & April 16, 1957', recording location 'Reeves Sound Studio, New York, NY', composer credits (Hanighen, Williams, Bassman, Washington, Berlin, Monk), John Coltrane (Sax (Tenor)), Wilbur Ware (Bass)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/thelonious-himself-mw0000649657"
+    },
+    "S3": {
+      "title": "Jazz Discography (jazzdisco.org) Riverside Records Catalog, 200 series — RLP 12-235 session listing: 5 April 1957 'John Coltrane, tenor sax #4; Thelonious Monk, piano; Wilbur Ware, bass #4' with Ghost Of A Chance (take 7), I Should Care (take 3), 'Round Midnight (take 7), Monk's Mood; 16 April 1957 solo with April In Paris, Functional (take 2), I'm Getting Sentimental Over You, All Alone",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/riverside-records/catalog-200-series/"
+    },
+    "S4": {
+      "title": "Discogs master 233663 'Thelonious Monk – Thelonious Himself' — credits listing Jack Higgins (Engineer), Orrin Keepnews (Producer, Liner Notes), Paul Bacon (Design [Cover]), Paul Weller (Photography By [Cover])",
+      "type": "discography",
+      "url": "https://www.discogs.com/master/233663-Thelonious-Monk-Thelonious-Himself"
+    },
+    "S5": {
+      "title": "MusicBrainz release group 07dfbfba-dc70-4e4b-9791-9eaf61a0aaba 'Thelonious Himself' — original release identity (Riverside RLP 12-235, US, 1957)",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/07dfbfba-dc70-4e4b-9791-9eaf61a0aaba"
+    },
+    "S6": {
+      "title": "iTunes Search API — album lookup recording apple_album_id 1440926011 ('Thelonious Himself (Keepnews Collection)', releaseDate 1957-01-01, 13 tracks)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Thelonious+Himself&entity=album&limit=10"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-04-05",
+      "1957-04-16"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1957-04-05",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1957-04-16",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1957-04-05",
+          "1957-04-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Solo piano on seven of the eight tracks."
+      },
+      {
+        "name": "John Coltrane",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Monk's Mood"
+        ],
+        "session_dates": [
+          "1957-04-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Guest on 'Monk's Mood' only."
+      },
+      {
+        "name": "Wilbur Ware",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Monk's Mood"
+        ],
+        "session_dates": [
+          "1957-04-05"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Guest on 'Monk's Mood' only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "April in Paris",
+        "track_number": 1,
+        "side": "A",
+        "duration": "3:50",
+        "session_date": "1957-04-16",
+        "composers": [
+          "Vernon Duke",
+          "E. Y. Harburg"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "(I Don't Stand) A Ghost of a Chance (With You)",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:21",
+        "session_date": "1957-04-05",
+        "composers": [
+          "Bing Crosby",
+          "Ned Washington",
+          "Victor Young"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Functional",
+        "track_number": 3,
+        "side": "A",
+        "duration": "9:18",
+        "session_date": "1957-04-16",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I'm Gettin' Sentimental Over You",
+        "track_number": 4,
+        "side": "A",
+        "duration": "4:03",
+        "session_date": "1957-04-16",
+        "composers": [
+          "George Bassman",
+          "Ned Washington"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Should Care",
+        "track_number": 5,
+        "side": "B",
+        "duration": "3:14",
+        "session_date": "1957-04-05",
+        "composers": [
+          "Sammy Cahn",
+          "Axel Stordahl",
+          "Paul Weston"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "'Round Midnight",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:39",
+        "session_date": "1957-04-05",
+        "composers": [
+          "Bernie Hanighen",
+          "Thelonious Monk",
+          "Cootie Williams"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "All Alone",
+        "track_number": 7,
+        "side": "B",
+        "duration": "4:49",
+        "session_date": "1957-04-16",
+        "composers": [
+          "Irving Berlin"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Monk's Mood",
+        "track_number": 8,
+        "side": "B",
+        "duration": "7:49",
+        "session_date": "1957-04-05",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "John Coltrane",
+          "Wilbur Ware"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "07dfbfba-dc70-4e4b-9791-9eaf61a0aaba",
+    "apple_album_id": "1440926011",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/07dfbfba-dc70-4e4b-9791-9eaf61a0aaba/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover of the original Riverside RLP 12-235 release."
+      }
+    ],
+    "notes": "Two sessions, both at Reeves Sound Studios, New York City: 5 April 1957 (tracks 2, 5, 6, 8 — Monk solo except track 8, where John Coltrane and Wilbur Ware join) and 16 April 1957 (tracks 1, 3, 4, 7, solo piano). S3 (Jazz Discography) is the only source that assigns tracks to dates; S1 and S2 agree on the two recording dates and the venue but do not split the programme. Note the correction this makes to the obvious assumption: 'Monk's Mood' is with Coltrane and Ware on the 5 April date, not the 16th. Track durations taken from the 8-track original programme as printed in S1. Composer credits: AllMusic's composer table (S2) covers Hanighen/Williams/Monk, Bassman/Washington, Washington and Berlin; it does not list composers for 'April in Paris' (Duke/Harburg) or 'I Should Care' (Cahn/Stordahl/Weston), whose standard songwriting credits are carried from S1's song links and are the weaker attributions in the file. Bonus tracks on the 1987 and 2008 reissues (the 21:59 ''Round Midnight (in progress)' studio sequence and the alternate takes) are excluded as reissue-only, per the contract."
+  },
+  "ballot": {
+    "album": "Thelonious Monk — Thelonious Himself (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "A defining document of Monk's solo language, the album makes his harmonic imagination, rhythmic displacement, and treatment of familiar melodies unusually exposed and audible, with the extended blues \"Functional\" complementing the standards. DownBeat's five stars, Penguin's four stars, and Christgau's description of it as probably Monk's best solo album establish substantial critical agreement, although these endorsements are reproduced through S1 rather than directly documented. The closing \"Monk's Mood,\" with John Coltrane and Wilbur Ware, adds a consequential early document of the Monk–Coltrane association to an already substantial solo statement (S2–S3).",
+    "case_against": "Excellent reviews do not by themselves establish load-bearing canon status: the dossier supplies neither direct core-collection evidence nor specific documentation of this album's downstream influence, and its entire reception argument is mediated through S1. The spacious solo performances can demand more patience than the discovery rationale acknowledges, while the closing trio performance complicates the claim of a unified solo recital. Its status as Monk's definitive solo statement also remains arguable alongside the Paris recordings and Solo Monk; that is a question of this album's distinct achievement, not an artist-concentration objection.",
+    "disagreement": "Both references favor consensus_core / strong and identify no scope boundary. They disagree over dossier reliability: Reference 1 alleges omitted Charlie Rouse appearances, whereas Reference 2 accepts the seven-solo-tracks-plus-trio personnel record; the Rouse allegation is unsupported by the supplied evidence and contradicts the dossier's S1–S3 account, so it should not be treated as an established source conflict. Reference 1's alternative chronology and album identifications also contain errors and do not substantiate a lower tier.",
+    "recommendation": "The council proposes John give this strong consensus-core candidate a listening review, with direct verification of the reception citations and removal of the unsupported earliest-solo-standard claim before any decision.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

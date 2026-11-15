@@ -1,0 +1,532 @@
+{
+  "id": "gerry-mulligan-and-the-concert-jazz-band-at-the-village-vanguard-1960",
+  "artist": "Gerry Mulligan and the Concert Jazz Band",
+  "album": "At the Village Vanguard",
+  "year": 1960,
+  "label": "Verve Records",
+  "catalog_number": "MGV 8396",
+  "style_primary": "cool-jazz",
+  "rationale": "The definitive document of Mulligan's Concert Jazz Band, and the record that answers the question his pianoless quartet had left open: whether a Mulligan-led ensemble could swing a full book. AllMusic calls it 'the definitive one' of the band's 1960s recordings and 'essential' (five stars, quoted in the Wikipedia reception table, S1); contemporaneous DownBeat also gave it five stars and praised both the recorded sound and 'superb ensemble playing and solos of consistently high quality' (S1). The band itself is the session gravity: Clark Terry, Bob Brookmeyer and Mel Lewis in the chairs, with arrangements by Mulligan, Brookmeyer and Al Cohn (as All About Jazz describes them in the same table, S1). It is a live club date rather than a studio construction — the same Village Vanguard room that carries the canon's Blakey, Rollins and Evans records — and it captures a working small-big-band of 1960 doing what the studio albums of the period could not: playing a whole set in front of an audience.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article 'Gerry Mulligan and the Concert Jazz Band at the Village Vanguard' — recorded 11 December 1960 at the Village Vanguard, New York City, released 1961 on Verve MGV 8396; personnel list; track listing with durations; reception table recording AllMusic 5 stars ('the definitive one... this music is essential'), DownBeat 5 stars ('superb ensemble playing and solos of consistently high quality'), Penguin Guide 3.5 stars, Encyclopedia of Popular Music 4/5, and the All About Jazz note on arrangements by Mulligan, Brookmeyer and Al Cohn",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Gerry_Mulligan_and_the_Concert_Jazz_Band_at_the_Village_Vanguard"
+    },
+    "S2": {
+      "title": "AllMusic album page 'Concert Jazz Band Live at the Village Vanguard' — release date August 1961, duration 40:51, recording location 'Village Vanguard, NY', styles Cool / Jazz Instrument / Saxophone Jazz / West Coast Jazz, full Credits tab (Nat Hentoff liner notes, Bryan Koniarz reissue producer, no original session engineer or producer credited)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/mw0000216148"
+    },
+    "S3": {
+      "title": "Jazz Discography (jazzdisco.org) Verve Records Catalog, 8300 series — V/V6-8396 session listing: personnel (Don Ferrara, Clark Terry, Nick Travis tp; Willie Dennis tb; Alan Raph bass tb; Bob Brookmeyer valve tb; Bob Donovan as; Gene Quill as/cl; Jim Reider ts; Gene Allen bars/bcl; Gerry Mulligan bars/piano; Bill Crow b; Mel Lewis dm) at the Village Vanguard, NYC, 11 December 1960, with Verve matrix numbers 23512-23517",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/verve-records/catalog-8300-series/"
+    },
+    "S4": {
+      "title": "Discogs release 2839961 'Gerry Mulligan And The Concert Jazz Band – At The Village Vanguard' (US mono LP, 1961, Verve MGV 8396) — tracklist with side positions A1-A3 / B1-B3, credits (Gerry Mulligan baritone saxophone tracks A1 to B2, piano on B3; Alan Ralph [Alan Raph], Bob Brookmeyer, Willie Dennis trombone; Nat Hentoff liner notes), runouts MGV-51112 / MGV-51113",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/2839961-Gerry-Mulligan-And-The-Concert-Jazz-Band-At-The-Village-Vanguard"
+    },
+    "S5": {
+      "title": "MusicBrainz release group f610bc31-6d38-3280-bebf-15c364b47664 'At the Village Vanguard' by Gerry Mulligan and the Concert Jazz Band — first release date 1961, primary type Album, secondary type Live",
+      "type": "web",
+      "url": "https://musicbrainz.org/release-group/f610bc31-6d38-3280-bebf-15c364b47664"
+    },
+    "S6": {
+      "title": "iTunes Search API — album lookup recording apple_album_id 1444212612 ('Live at the Village Vanguard', Gerry Mulligan, 6 tracks, releaseDate 1960-01-01)",
+      "type": "web",
+      "url": "https://itunes.apple.com/search?term=Gerry+Mulligan+Concert+Jazz+Band+Village+Vanguard&entity=album&limit=10"
+    },
+    "S7": {
+      "title": "The Gerry Mulligan discography (gm-discography-2011, Gerry Mulligan estate) as excerpted in library catalogues — Concert Jazz Band personnel and the December 1960 Village Vanguard date",
+      "type": "discography",
+      "url": "https://www.scribd.com/document/412301409/gm-discography-2011-pdf"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1960-12-11"
+    ],
+    "multi_session": false,
+    "studio": "Village Vanguard, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1960-12-11",
+        "site_raw": "Village Vanguard, NYC",
+        "site_slug": "village-vanguard",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Creed Taylor",
+    "engineer": null,
+    "epistemic_production": "inf",
+    "personnel": [
+      {
+        "name": "Gerry Mulligan",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Blueport",
+          "Body and Soul",
+          "Black Nightgown",
+          "Come Rain or Come Shine",
+          "Lady Chatterley's Mother"
+        ],
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader and arranger. Doubles on piano for 'Let My People Be' (track 6) only — Discogs assigns baritone sax 'tracks A1 to B2' and piano on B3."
+      },
+      {
+        "name": "Don Ferrara",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Nick Travis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Willie Dennis",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Alan Raph",
+        "instrument": "bass trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Alan Ralph"
+        ],
+        "notes": "The original Verve sleeve and its reissue liner notes print 'Alan Ralph'; Discogs links that credit to the Alan Raph artist entry, and Jazz Discography and Wikipedia both give Alan Raph."
+      },
+      {
+        "name": "Bob Brookmeyer",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Valve trombone — the taxonomy has no separate term, so recorded as trombone. Also arranger (S1)."
+      },
+      {
+        "name": "Bob Donovan",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Gene Quill",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on clarinet (S1, S3)."
+      },
+      {
+        "name": "Jim Reider",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Gene Allen",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles on bass clarinet (S1, S3)."
+      },
+      {
+        "name": "Bill Crow",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Mel Lewis",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1960-12-11"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Blueport",
+        "track_number": 1,
+        "side": "A",
+        "duration": "11:07",
+        "session_date": "1960-12-11",
+        "composers": [
+          "Art Farmer"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Don Ferrara",
+          "Clark Terry",
+          "Nick Travis",
+          "Willie Dennis",
+          "Alan Raph",
+          "Bob Brookmeyer",
+          "Bob Donovan",
+          "Gene Quill",
+          "Jim Reider",
+          "Gene Allen",
+          "Bill Crow",
+          "Mel Lewis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Body and Soul",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:45",
+        "session_date": "1960-12-11",
+        "composers": [
+          "Frank Eyton",
+          "Johnny Green",
+          "Edward Heyman",
+          "Robert Sour"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Don Ferrara",
+          "Clark Terry",
+          "Nick Travis",
+          "Willie Dennis",
+          "Alan Raph",
+          "Bob Brookmeyer",
+          "Bob Donovan",
+          "Gene Quill",
+          "Jim Reider",
+          "Gene Allen",
+          "Bill Crow",
+          "Mel Lewis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Black Nightgown",
+        "track_number": 3,
+        "side": "A",
+        "duration": "4:10",
+        "session_date": "1960-12-11",
+        "composers": [
+          "Johnny Mandel"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Don Ferrara",
+          "Clark Terry",
+          "Nick Travis",
+          "Willie Dennis",
+          "Alan Raph",
+          "Bob Brookmeyer",
+          "Bob Donovan",
+          "Gene Quill",
+          "Jim Reider",
+          "Gene Allen",
+          "Bill Crow",
+          "Mel Lewis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Come Rain or Come Shine",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:35",
+        "session_date": "1960-12-11",
+        "composers": [
+          "Harold Arlen",
+          "Johnny Mercer"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Don Ferrara",
+          "Clark Terry",
+          "Nick Travis",
+          "Willie Dennis",
+          "Alan Raph",
+          "Bob Brookmeyer",
+          "Bob Donovan",
+          "Gene Quill",
+          "Jim Reider",
+          "Gene Allen",
+          "Bill Crow",
+          "Mel Lewis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ]
+      },
+      {
+        "title": "Lady Chatterley's Mother",
+        "track_number": 5,
+        "side": "B",
+        "duration": "6:14",
+        "session_date": "1960-12-11",
+        "composers": [
+          "Al Cohn"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Don Ferrara",
+          "Clark Terry",
+          "Nick Travis",
+          "Willie Dennis",
+          "Alan Raph",
+          "Bob Brookmeyer",
+          "Bob Donovan",
+          "Gene Quill",
+          "Jim Reider",
+          "Gene Allen",
+          "Bill Crow",
+          "Mel Lewis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Let My People Be",
+        "track_number": 6,
+        "side": "B",
+        "duration": "8:00",
+        "session_date": "1960-12-11",
+        "composers": [
+          "Gerry Mulligan"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Don Ferrara",
+          "Clark Terry",
+          "Nick Travis",
+          "Willie Dennis",
+          "Alan Raph",
+          "Bob Brookmeyer",
+          "Bob Donovan",
+          "Gene Quill",
+          "Jim Reider",
+          "Gene Allen",
+          "Bill Crow",
+          "Mel Lewis"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "f610bc31-6d38-3280-bebf-15c364b47664",
+    "apple_album_id": "1444212612",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/f610bc31-6d38-3280-bebf-15c364b47664/front",
+        "is_original_cover": true,
+        "epistemic": "obs",
+        "notes": "Front cover of the 1961 Verve LP (V-8396)."
+      }
+    ],
+    "notes": "One session: Sunday 11 December 1960 at the Village Vanguard, New York City — four sources agree on the date (S1, S3, S4 runouts, S7). The whole programme is from that session; the earlier 'Compact Jazz' CD edition (Verve 838 933-2) mixed this date with Milan and Berlin November 1960 material, and those non-Vanguard tracks are NOT part of this album. Production credits: the original Verve session engineer is uncredited in every source consulted (S2's Credits tab lists only the reissue producer Bryan Koniarz and Nat Hentoff's liner notes). The producer is recorded as Creed Taylor with epistemic 'inf', not 'obs' — Taylor was Verve's head of production from 1960, but no source in this pass prints a producer credit for this specific date, so this is the label-period inference the contract allows (the Van Gelder precedent), and the engineer is a deliberate null. Track durations follow the original six-track LP (S1, S2 40:51 total). Sides from the US mono LP label matrices (S4): A = 51,112, B = 51,113. Personnel disagreements preserved: 'Alan Raph' vs the sleeve's 'Alan Ralph' (same musician, see name_variants); Bob Brookmeyer's instrument is valve trombone, recorded as trombone per the taxonomy."
+  },
+  "ballot": {
+    "album": "Gerry Mulligan and the Concert Jazz Band — At the Village Vanguard (1960)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a compelling defining statement of Mulligan's Concert Jazz Band: AllMusic calls it the band's 'definitive' 1960s recording and 'essential,' while contemporaneous DownBeat awarded five stars for its ensemble playing and solos (quoted in S1). Its thirteen-piece ensemble scales Mulligan's predominantly pianoless, contrapuntal approach into orchestral jazz, with Clark Terry, Bob Brookmeyer, Mel Lewis and Bill Crow providing exceptional session gravity (S3–S4). The six-track live program offers an accessible discovery route into post-bebop large-ensemble music, with Brookmeyer and Lewis also connecting this band to the later Village Vanguard orchestral tradition.",
+    "case_against": "Being definitive for this ensemble does not establish jazz-wide indispensability: the dossier demonstrates strong reviews more clearly than recurring core-list status, and supplies little direct evidence of this particular album's downstream influence. Its achievement is chiefly the orchestral refinement of Mulligan's established language, making the load-bearing claim less secure than the performance-quality claim. Nearly all critical reception is mediated through Wikipedia's table rather than directly verified reviews (S1), while the personnel record still needs an explicit track-specific piano credit for Mulligan on 'Let My People Be' (S3–S4).",
+    "disagreement": null,
+    "recommendation": "The council proposes John give this strong candidate a focused listen, with direct verification of the principal reviews and correction of Mulligan's piano credit before any final decision.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:minimax/minimax-m3",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
