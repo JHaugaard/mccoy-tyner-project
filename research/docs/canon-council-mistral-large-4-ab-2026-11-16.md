@@ -2,7 +2,7 @@
 title: Canon-council Mistral Large 4 A/B — 2026-11-16
 date: 2026-11-16
 type: evaluation
-status: complete — quality acceptance withheld; extended trial recommended
+status: closed — John retained Mistral; no further rehearsals
 ---
 
 # Canon-council Mistral Large 4 A/B
@@ -56,6 +56,10 @@ The before/after ballots contain different `disagreement` text, but that text is
 Immediate adoption is rejected because Mistral introduced a verifiably wrong album date and repeated an unsupported availability claim; the original clean-acceptance condition was not met. Immediate rollback is rejected because delivery and final judgments were stable, the aggregator contained the errors, and MiniMax itself made a substantive false composer correction in the baseline. The two-dossier result is therefore inconclusive about net quality, not a demonstration that either reference is factually reliable.
 
 The proposed next gate is three additional post-swap full-council rehearsals on *Impressions*, *Bass on Top*, and *Concierto*, saving raw references and comparing against their existing archived ballots. Accept Mistral only if all three return 2/2 references, valid ballots, no new unsupported factual assertion from Mistral, and rubric-grounded reasons for any tier or priority change. Roll back if another unsupported assertion appears, if one reaches the final ballot's substantive reasoning, or if delivery degrades. Extending the trial is a new decision for John, not a retroactive declaration that this two-dossier test passed.
+
+## John's ruling
+
+John chose to keep `nous:mistralai/mistral-large-4-0` in the active council seat and explicitly closed the task with no further rehearsals or approval gates. The extended-trial proposal above is therefore superseded, not adopted. The quality findings remain as the evaluation record; they are not an active hold on ordinary council runs.
 
 ## Limitations
 
