@@ -1,0 +1,347 @@
+{
+  "id": "kenny-dorham-round-about-midnight-at-the-cafe-bohemia-1956",
+  "artist": "Kenny Dorham",
+  "album": "'Round About Midnight at the Cafe Bohemia",
+  "year": 1956,
+  "label": "Blue Note",
+  "catalog_number": "BLP 1524",
+  "style_primary": "hard-bop",
+  "rationale": "The consensus signal here is unusually clean: the Penguin Guide to Jazz gives it four stars and selects it for its suggested Core Collection, and AllMusic rates it 4.5/5 (both recorded in S1; the Twofer rating is tabulated there and AllMusic's own page carries the same 4.5 in S2). It is the live document of Kenny Dorham's own working band at the moment it was the house band of the hard-bop trumpet — J.R. Monterose, a 21-year-old Bobby Timmons at the piano, Sam Jones and Arthur Edgehill — with Kenny Burrell sitting in for most of the night (S3). Lineage: Blue Note taped two consecutive editions of this bandstand seven months apart, and this is the second half of that pair — the Jazz Messengers' November 1955 Cafe Bohemia volumes are already in the canon, so this record completes a documented live series rather than adding a stranger. Session gravity: it catches Timmons before 'Moanin'' and Burrell between his own first Blue Note dates, inside the rhythm-section lineage that runs through Sam Jones to the Cannonball Adderley band. Discovery value: 'Hill's Edge' is a contrafact of 'Tune Up' and 'Mexico City' a contrafact of Bud Powell's 'Tempus Fugit' (S1), and the set is full of the Monk-to-bop repertoire ('Round About Midnight', 'A Night in Tunisia') played by a band that is not competing with the famous versions.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article \"'Round About Midnight at the Cafe Bohemia\" (recorded May 31 1956 at the Cafe Bohemia, NYC; released on Blue Note BLP 1524; producer Alfred Lion; personnel listing Dorham, J.R. Monterose, Kenny Burrell, Bobby Timmons, Sam Jones, Arthur Edgehill; original six-track listing with Side One and Side Two; technical personnel Rudy Van Gelder (recording engineer, mastering) and Leonard Feather (liner notes); reception table recording AllMusic 4.5/5 and The Penguin Guide to Jazz 4/4 stars and its selection for the Penguin suggested Core Collection)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/%27Round_About_Midnight_at_the_Cafe_Bohemia"
+    },
+    "S2": {
+      "title": "AllMusic album page and full Credits tab for \"'Round About Midnight at the Cafe Bohemia\" (mw0000191759) — recording date May 31 1956, recording location 'Cafe Bohemia, New York, NY', styles Bop and Hard Bop, six tracks with durations (Monaco 6:41, 'Round About Midnight 7:49, Mexico City 6:04, A Night In Tunisia 9:36, Autumn In New York 4:43, Hill's Edge 8:20), credits Alfred Lion (Producer), Rudy Van Gelder (Engineer), Arthur Edgehill (Drums), Bobby Timmons (Piano), J.R. Monterose (Sax (Tenor)), Kenny Burrell (Guitar), Sam Jones (Bass), Kenny Dorham (Trumpet)",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/round-about-midnight-at-the-cafe-bohemia-mw0000191759"
+    },
+    "S3": {
+      "title": "Blue Note Records label page for \"The Complete 'Round About Midnight At The Cafe Bohemia\" — 'On May 31 of that year, Dorham's group performed live at the Cafe Bohemia with Bobby Timmons at the piano and guitarist Kenny Burrell sitting in on all but the first of four sets'; 'Originally engineered by Rudy Van Gelder and remastered by him in 2001'",
+      "type": "web",
+      "url": "https://www.bluenote.com/music/the-complete-round-about-midnight-at-the-cafe/"
+    },
+    "S4": {
+      "title": "Wikipedia 'Kenny Dorham' discography table (1956 entry: 'With Dorham (trumpet), J. R. Monterose (tenor sax), Bobby Timmons (piano), Kenny Burrell (guitar), Sam Jones (bass), Arthur Edghill (drums); two additional volumes with another 11 tracks released on the Japanese Blue Note label in 1984, and then fully reissued on CD as The Complete Round About Midnight At The Cafe Bohemia'; year released given as 1957)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Kenny_Dorham"
+    },
+    "S5": {
+      "title": "iTunes Search API result for Kenny Dorham 'Cafe Bohemia' — collectionId 1443165234, 'The Complete 'Round About Midnight At the Cafe Bohemia (Live)', 17 tracks, (P) 2014 Blue Note Records",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Kenny+Dorham+Cafe+Bohemia&entity=album"
+    },
+    "S6": {
+      "title": "MusicBrainz release group 4f16f8a8-a412-3602-8bcf-82a03d2052de (\"'Round About Midnight at the Cafe Bohemia\") and its Cover Art Archive front and back images",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/4f16f8a8-a412-3602-8bcf-82a03d2052de"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1956-05-31"
+    ],
+    "multi_session": false,
+    "studio": "Cafe Bohemia, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1956-05-31",
+        "site_raw": "Cafe Bohemia, New York, NY",
+        "site_slug": "caf-bohemia",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S2"
+      }
+    ],
+    "producer": "Alfred Lion",
+    "engineer": "Rudy Van Gelder",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Kenny Dorham",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "J. R. Monterose",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "J.R. Monterose"
+        ],
+        "notes": "Canonical spelling follows the existing person row ('J. R. Monterose')."
+      },
+      {
+        "name": "Bobby Timmons",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Timmons had recently joined Dorham's Jazz Prophets; this date precedes 'Moanin''."
+      },
+      {
+        "name": "Kenny Burrell",
+        "instrument": "guitar",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Guest. S3: 'sitting in on all but the first of four sets'. Which titles came from which set is not documented, so coverage is unknown and he is left out of the per-track personnel arrays rather than guessed onto them."
+      },
+      {
+        "name": "Sam Jones",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Arthur Edgehill",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Arthur Edghill"
+        ],
+        "notes": "S1 and S2 spell him 'Arthur Edgehill', the Dorham discography table (S4) 'Arthur Edghill'."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Monaco",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:41",
+        "session_date": "1956-05-31",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J. R. Monterose",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Arthur Edgehill"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "'Round About Midnight",
+        "track_number": 2,
+        "side": "A",
+        "duration": "7:49",
+        "session_date": "1956-05-31",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J. R. Monterose",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Arthur Edgehill"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Mexico City",
+        "track_number": 3,
+        "side": "A",
+        "duration": "6:04",
+        "session_date": "1956-05-31",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J. R. Monterose",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Arthur Edgehill"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "A Night in Tunisia",
+        "track_number": 4,
+        "side": "B",
+        "duration": "9:36",
+        "session_date": "1956-05-31",
+        "composers": [
+          "Dizzy Gillespie",
+          "Frank Paparelli"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J. R. Monterose",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Arthur Edgehill"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Autumn in New York",
+        "track_number": 5,
+        "side": "B",
+        "duration": "4:43",
+        "session_date": "1956-05-31",
+        "composers": [
+          "Vernon Duke"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J. R. Monterose",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Arthur Edgehill"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Hill's Edge",
+        "track_number": 6,
+        "side": "B",
+        "duration": "8:20",
+        "session_date": "1956-05-31",
+        "composers": [
+          "Kenny Dorham"
+        ],
+        "personnel": [
+          "Kenny Dorham",
+          "J. R. Monterose",
+          "Bobby Timmons",
+          "Sam Jones",
+          "Arthur Edgehill"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "4f16f8a8-a412-3602-8bcf-82a03d2052de",
+    "apple_album_id": "1443165234",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/4f16f8a8-a412-3602-8bcf-82a03d2052de/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image for the release group (served from MusicBrainz release 426f61ac-11b6-4c6f-ba9f-49c4ec6a9f98); the exact pressing is not verified, so 'original cover' is left null."
+      }
+    ],
+    "notes": "Single live session, May 31 1956, at the Cafe Bohemia, New York — the original six-track Blue Note LP (BLP 1524) only. The eleven further titles issued on the 1984 Japanese volumes and the 2002 'Complete' double CD are reissue-only additions and are excluded here, which is why this record is single-session. Year conflict recorded: S1 gives 'late 1956' for the original release and S3/S1's infobox agree, while the Dorham discography table (S4) gives 1957 as the release year and AllMusic (S2) shows the recording date, not the release date; 1956 is used because two sources state it. Guitar coverage is the one unresolved personnel question: Burrell played all but the first of four sets (S3) but the set-to-title mapping is undocumented, so he carries scope 'unknown' and appears in no track's personnel array; track_assignments_complete is false for that reason. Van Gelder's engineering is stated by both the album article (S1, as recording engineer and mastering) and Blue Note itself (S3). Rhythm-section lineage worth noting for review: Sam Jones and Bobby Timmons were Dorham's regular band at this date, seven months after Blue Note taped the Jazz Messengers in the same room."
+  },
+  "ballot": {
+    "album": "Kenny Dorham — 'Round About Midnight at the Cafe Bohemia (1956)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a compelling document of Dorham as a working-band leader, with J. R. Monterose, Bobby Timmons, Sam Jones and Arthur Edgehill, plus Kenny Burrell guesting through most of the evening (S2–S3). Its combination of Dorham originals and Monk/Gillespie repertoire makes the bebop-to-hard-bop continuity directly audible, while the personnel connects the Jazz Messengers orbit to later developments around Timmons and Cannonball Adderley. AllMusic's 4.5/5 rating (S2) and the Penguin Guide Core Collection designation reported in S1 provide substantial critical support, although the latter's edition needs verification. Alongside the already-represented 1955 Messengers Bohemia recordings, it offers a distinct leader's voice rather than merely another famous lineup.",
+    "case_against": "The original six-track LP must justify itself as more than an excellent club date: its familiar repertoire and extended blowing offer a less singular compositional identity than Dorham's strongest studio statements, and the existing Messengers Bohemia recordings already teach much of this setting and idiom. The consensus evidence is narrower than a multi-list endorsement, and Penguin's reported recognition may concern the expanded two-disc edition rather than BLP 1524 specifically (S1); Blue Note's page and the listening identifier likewise concern the Complete edition (S3, S5). Burrell's unresolved track coverage leaves a genuine personnel-documentation gap, even though acknowledging uncertainty is preferable to inventing assignments.",
+    "disagreement": "Reference 1 judges the critical endorsements and session gravity sufficient for consensus_core, treating period redundancy as a thin objection and the disclosed personnel uncertainty as responsibly handled. Reference 2 votes contested, giving greater weight to the original-LP versus expanded-edition mismatch, incomplete guitar assignments, and the distinction between a superb live document and an indispensable statement; both agree on strong priority and unambiguous scope.",
+    "recommendation": "The council proposes that John give the original six-track LP strong consideration through listening, with its Penguin edition attribution and Burrell track coverage flagged for verification before his decision.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

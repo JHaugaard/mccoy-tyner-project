@@ -1,0 +1,641 @@
+{
+  "id": "duke-ellington-ellington-uptown-1953",
+  "artist": "Duke Ellington",
+  "album": "Ellington Uptown",
+  "year": 1953,
+  "label": "Columbia",
+  "catalog_number": "ML 4639",
+  "style_primary": "post-bop",
+  "rationale": "The record that answers the charge that the early 1950s were Ellington's 'off period'. Its centerpiece, 'A Tone Parallel to Harlem', is the strongest case in the catalogue for Ellington as a large-form composer: John Edward Hasse writes that Harlem is 'regarded by a number of observers (including, reportedly, the composer himself) as Ellington's best extended work' and quotes it called 'every bit as much a miniature masterpiece as is Rhapsody in Blue'; Ted Gioia calls it 'a masterpiece by almost any measure' (both quoted in S1). Consensus across independent listing traditions is warm but not unanimous, and both sides are recorded here: AllMusic 4.5/5 (Scott Yanow: 'One of the great Duke Ellington sets'), the Rolling Stone Jazz Record Guide 4/5, and the Penguin Guide 3.5/4 — with Tom Hull in the Village Voice dissenting ('Hodges-less, coming out of his most pretentious composerly period, scratching and kicking to hang on'), all as tabulated in S1. Session gravity is the second argument: the 1951-52 orchestra is the transitional band that carried the canon from the Blanton-Webster era to the 1956 Newport breakthrough — Clark Terry, Cat Anderson, Willie Smith, Paul Gonsalves, Harry Carney, Juan Tizol, and Louie Bellson, whose 'Skin Deep' is the drum feature that made his name (S1, S3, and the Fresno provenance reported by KVPR in the search trail). Discovery value: Columbia took the record seriously enough to issue it on its classical Masterworks line (S2 review). It is also the canon's missing hinge — the record immediately before 'Ellington at Newport' (already included, 1956) in the band's own arc.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article 'Ellington Uptown' (released March 1953 on Columbia; recording dates 7 and 11 December 1951, 29 February 1952, 30 June and 1 July 1952; full track listing with durations and per-track session dates; personnel list with per-track attributions; reception table recording AllMusic 4.5/5 with the Scott Yanow quote 'One of the great Duke Ellington sets', The Penguin Guide to Jazz Recordings 3.5/4, The Rolling Stone Jazz Record Guide 4/5, and Tom Hull's dissenting Village Voice note; Hasse and Gioia quotations on 'A Tone Parallel to Harlem')",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Ellington_Uptown"
+    },
+    "S2": {
+      "title": "AllMusic album page and full Credits tab for 'Ellington Uptown' (mw0000187980) — release date 1953, duration 43:35, styles Big Band and Swing, recording date 'December 7, 1951 - December 8, 1952', credits listing George Avakian as Producer, Duke Ellington (Composer, Piano, Primary Artist), Billy Strayhorn (Piano), Clark Terry, Willie Cook, Ray Nance, Quentin Jackson, Britt Woodman, Juan Tizol, Jimmy Hamilton, Russell Procope, Paul Gonsalves, Harry Carney, Hilton Jefferson, Wendell Marshall, Louie Bellson, Betty Roche, Al Hibbler; review text noting the album was issued on Columbia's Masterworks label",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/ellington-uptown-mw0000187980"
+    },
+    "S3": {
+      "title": "Discogs release 4513368 (Duke Ellington And His Orchestra - Ellington Uptown, 2004 Columbia/Legacy CD) — 'Recorded At' Liederkranz Hall New York, Rainbow Ballroom Fresno, Columbia 30th Street Studio; per-track recording dates and venues ('Track 1 February 29, 1952 at Rainbow Ballroom, Fresno California'; 'Tracks 2 & 5 July 1, 1952 at Columbia 30th Street Studio, New York City'; 'Track 3 June 30, 1952 same'; 'Track 4 December 7, 1951 same'; 'Tracks 6 & 7 December 11, 1951 same'); producer credits 'Duke Ellington (tracks: 1), George Avakian (tracks: 2 to 13)'; 'Co-producer - Mercer Ellington (tracks: 1)'; 'Recorded By - Bert Porter (tracks: 1)'; original issue ML 4639 contained tracks 1-5",
+      "type": "web",
+      "url": "https://www.discogs.com/release/4513368-Duke-Ellington-And-His-Orchestra-Ellington-Uptown"
+    },
+    "S4": {
+      "title": "iTunes Search API result for Duke Ellington 'Ellington Uptown' — collectionId 204123042, 13 tracks, releaseDate 1953-01-01, label copyright 'Originally Released 1948, 1951, 1956 (P) 2004 Sony Music Entertainment Inc.'",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Duke+Ellington+Ellington+Uptown&entity=album"
+    },
+    "S5": {
+      "title": "MusicBrainz release group 8743886f-f38c-3441-8694-030dae089cbf 'Ellington Uptown' (release list: US 1953 ML 4639, US 1987 Columbia CJ 40836, US 2004 Legacy CK 87066) and Cover Art Archive front image served for the group",
+      "type": "database",
+      "url": "https://musicbrainz.org/release-group/8743886f-f38c-3441-8694-030dae089cbf"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1951-12-07",
+      "1952-02-29",
+      "1952-06-30",
+      "1952-07-01"
+    ],
+    "multi_session": true,
+    "studio": "Columbia 30th Street Studio, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1951-12-07",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1952-02-29",
+        "site_raw": "Rainbow Ballroom, Fresno California",
+        "site_slug": null,
+        "site_new": {
+          "name": "Rainbow Ballroom",
+          "city": "Fresno, CA",
+          "kind": "hall",
+          "address": null,
+          "lat": 36.739,
+          "lon": -119.785,
+          "location_epistemic": "inf",
+          "location_source": "venue documented as 'Rainbow Ballroom, Fresno California' in S3 (and confirmed as a Fresno venue by KVPR's Central Valley Roots feature on 'Skin Deep'); no street address in any source consulted | coords: city centroid (OSM Nominatim: Fresno, CA), 3-decimal precision — no street address documented"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1952-06-30",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1952-07-01",
+        "site_raw": "Columbia 30th Street Studio, New York City",
+        "site_slug": "cbs-30th-street-studio",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "George Avakian",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Duke Ellington",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Leader, composer, piano."
+      },
+      {
+        "name": "Billy Strayhorn",
+        "instrument": "piano",
+        "scope": "unknown",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Second piano; both sources list him without per-track attribution, so his coverage is unknown rather than all-tracks."
+      },
+      {
+        "name": "Cat Anderson",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1-5 (the whole original LP)."
+      },
+      {
+        "name": "Shorty Baker",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "S1 lists him with no track restriction."
+      },
+      {
+        "name": "Willie Cook",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1-7, i.e. all five of the original LP."
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1-7."
+      },
+      {
+        "name": "Francis Williams",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Tone Parallel to Harlem (Harlem Suite)"
+        ],
+        "session_dates": [
+          "1951-12-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 4 & 6-13; of the original LP that is track 4 only."
+      },
+      {
+        "name": "Ray Nance",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1 lists trumpet and violin with no track split; violin doubling not assigned to any track because no source does."
+      },
+      {
+        "name": "Quentin Jackson",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1-7."
+      },
+      {
+        "name": "Britt Woodman",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1-7."
+      },
+      {
+        "name": "Juan Tizol",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "Valve trombone (S1) — not an instrument string in the contract taxonomy, so recorded as trombone. S1: tracks 1-7."
+      },
+      {
+        "name": "Jimmy Hamilton",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1 also lists clarinet; AllMusic reduces him to 'Saxophone'. Primary instrument recorded as tenor saxophone; clarinet doubling not assigned per track."
+      },
+      {
+        "name": "Willie Smith",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Skin Deep",
+          "A Tone Parallel to Harlem (Harlem Suite)"
+        ],
+        "session_dates": [
+          "1952-02-29",
+          "1951-12-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1, 4, 6 & 7. AllMusic's credits do not list him."
+      },
+      {
+        "name": "Johnny Hodges",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Take the \"A\" Train"
+        ],
+        "session_dates": [
+          "1952-06-30"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S1"
+        ],
+        "name_variants": [],
+        "notes": "Conflict, recorded not resolved: S1's personnel list puts Hodges on alto for track 3 (and, garbled, '8-7'), but AllMusic's credits omit him entirely and AllMusic's own review of this album attributes the band's supposed 'off period' to 'the defection of alto star Johnny Hodges' — he was leading his own group in these years and did not rejoin Ellington until 1955. Presence on this session is therefore doubted; kept at unk so the claim is visible rather than silently dropped."
+      },
+      {
+        "name": "Hilton Jefferson",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Skin Deep",
+          "The Mooche",
+          "Take the \"A\" Train",
+          "Perdido"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1-3 & 5."
+      },
+      {
+        "name": "Russell Procope",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": "S1 also lists clarinet; recorded as alto saxophone with clarinet doubling noted here only."
+      },
+      {
+        "name": "Paul Gonsalves",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Paul Gansalves"
+        ],
+        "notes": "S1: tracks 1-7. Discogs (S3) spells him 'Paul Gansalves'."
+      },
+      {
+        "name": "Harry Carney",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wendell Marshall",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "S1: tracks 1-7; S3 credits him alone on bass."
+      },
+      {
+        "name": "Louie Bellson",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Louis Bellson"
+        ],
+        "notes": "Composer and featured soloist on 'Skin Deep' (track 1); S1 spells him 'Louis Bellson', AllMusic 'Louie Bellson'."
+      },
+      {
+        "name": "Betty Roché",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Take the \"A\" Train"
+        ],
+        "session_dates": [
+          "1952-06-30"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2"
+        ],
+        "name_variants": [
+          "Betty Roche"
+        ],
+        "notes": "S1: track 3 only."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Skin Deep",
+        "track_number": 1,
+        "side": null,
+        "duration": "6:49",
+        "session_date": "1952-02-29",
+        "composers": [
+          "Louie Bellson"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Billy Strayhorn",
+          "Cat Anderson",
+          "Shorty Baker",
+          "Willie Cook",
+          "Clark Terry",
+          "Ray Nance",
+          "Quentin Jackson",
+          "Britt Woodman",
+          "Juan Tizol",
+          "Jimmy Hamilton",
+          "Willie Smith",
+          "Hilton Jefferson",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Wendell Marshall",
+          "Louie Bellson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Mooche",
+        "track_number": 2,
+        "side": null,
+        "duration": "6:36",
+        "session_date": "1952-07-01",
+        "composers": [
+          "Duke Ellington",
+          "Irving Mills"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Billy Strayhorn",
+          "Cat Anderson",
+          "Shorty Baker",
+          "Willie Cook",
+          "Clark Terry",
+          "Ray Nance",
+          "Quentin Jackson",
+          "Britt Woodman",
+          "Juan Tizol",
+          "Jimmy Hamilton",
+          "Hilton Jefferson",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Wendell Marshall",
+          "Louie Bellson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Take the \"A\" Train",
+        "track_number": 3,
+        "side": null,
+        "duration": "8:02",
+        "session_date": "1952-06-30",
+        "composers": [
+          "Billy Strayhorn"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Billy Strayhorn",
+          "Cat Anderson",
+          "Shorty Baker",
+          "Willie Cook",
+          "Clark Terry",
+          "Ray Nance",
+          "Quentin Jackson",
+          "Britt Woodman",
+          "Juan Tizol",
+          "Jimmy Hamilton",
+          "Johnny Hodges",
+          "Hilton Jefferson",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Wendell Marshall",
+          "Louie Bellson",
+          "Betty Roché"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Tone Parallel to Harlem (Harlem Suite)",
+        "track_number": 4,
+        "side": null,
+        "duration": "13:48",
+        "session_date": "1951-12-07",
+        "composers": [
+          "Duke Ellington"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Billy Strayhorn",
+          "Cat Anderson",
+          "Shorty Baker",
+          "Willie Cook",
+          "Clark Terry",
+          "Francis Williams",
+          "Ray Nance",
+          "Quentin Jackson",
+          "Britt Woodman",
+          "Juan Tizol",
+          "Jimmy Hamilton",
+          "Willie Smith",
+          "Hilton Jefferson",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Wendell Marshall",
+          "Louie Bellson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Perdido",
+        "track_number": 5,
+        "side": null,
+        "duration": "8:25",
+        "session_date": "1952-07-01",
+        "composers": [
+          "Juan Tizol"
+        ],
+        "personnel": [
+          "Duke Ellington",
+          "Billy Strayhorn",
+          "Cat Anderson",
+          "Shorty Baker",
+          "Willie Cook",
+          "Clark Terry",
+          "Ray Nance",
+          "Quentin Jackson",
+          "Britt Woodman",
+          "Juan Tizol",
+          "Jimmy Hamilton",
+          "Hilton Jefferson",
+          "Russell Procope",
+          "Paul Gonsalves",
+          "Harry Carney",
+          "Wendell Marshall",
+          "Louie Bellson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": false,
+    "musicbrainz_release_group_mbid": "8743886f-f38c-3441-8694-030dae089cbf",
+    "apple_album_id": "204123042",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release-group/8743886f-f38c-3441-8694-030dae089cbf/front",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front image for the release group; served from the group's first release, so the exact pressing/cover variant is not verified."
+      }
+    ],
+    "notes": "Original five-track LP programme only (Columbia ML 4639, 1953). The later 13-track editions add 'The Controversial Suite' (recorded 1951-12-11) and 'The Liberian Suite' (1947 sessions, one source places part of it at Liederkranz Hall, New York) — excluded here as reissue-only additions, so this record describes four sessions across two rooms. Producer: George Avakian for tracks 2-5 (S2, S3); track 1 'Skin Deep' was produced by Duke and Mercer Ellington and recorded by Bert Porter at a Fresno dance date (S3). No source consulted documents the session engineer for tracks 2-5, so engineer is null rather than inferred; the Larry Keyes 'Engineer, Digital Restoration' credit on S3 belongs to the 1987 CD master, not the 1951-52 sessions. Year: 1953 is the release year (S1 infobox, S2, S3, S5). Conflict recorded: the Wikipedia Ellington discography table dates the album 1952 with 'year recorded 1952'. Venue conflict recorded: S1 says only 'recorded in New York' for tracks 2-7, while S3 names Columbia 30th Street Studio per track — the more specific claim is used and marked obs. Bass: S1's list also names Oscar Pettiford with no track attribution; S2 and S3 name Wendell Marshall alone, and Marshall was the band's bassist through this period, so Pettiford is omitted — flagged here rather than silently dropped. Johnny Hodges is kept at unk for the reason given on his personnel entry. LP sides are not documented in the sources consulted (the original-release track order is), so side is null throughout rather than reconstructed. Style: style_primary 'post-bop' follows the canon's existing coding of its other Ellington rows (Ellington at Newport, Such Sweet Thunder, ...And His Mother Called Him Bill); AllMusic files the album under Big Band and Swing."
+  },
+  "ballot": {
+    "album": "Duke Ellington — Ellington Uptown (1953)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "The 1951–1952 recordings and 1953 release clear the date gate. AllMusic classifies the music as Big Band and Swing (S2), not the dossier's post-bop; the references differ on whether this represents a meaningful stretch from the canon's bebop/post-bebop center, though neither treats it as excluded."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "The strongest claim is a defining compositional statement: Hasse reports assessments of 'A Tone Parallel to Harlem' as Ellington's finest extended work, while Gioia calls it 'a masterpiece by almost any measure' (both quoted through S1). Support extends beyond that centerpiece: AllMusic awards 4.5/5, Penguin 3.5/4, and Rolling Stone 4/5, with Yanow calling the album 'One of the great Duke Ellington sets' (S1). The transitional orchestra connects directly to the personnel world of the already-canonized Newport band, while Bellson's 'Skin Deep' and Betty Roché's extended 'Take the \"A\" Train' give listeners immediate routes into its orchestral power and individual voices (S1–S3).",
+    "case_against": "The evidence establishes strong reviews more securely than indispensable canon status: the dossier supplies no demonstrated Core Collection designation or comparable canon-list convergence, and Hull's dissent directly challenges the composerly ambition on which the strongest claim rests (S1). The original five-track LP combines a live drum showcase, expanded older repertoire, and a studio tone poem across four sessions, making its claim as a unified, load-bearing statement less secure than the stature of 'Harlem' alone. Its swing-centered idiom requires an affirmative connection to this canon's center, and most reception evidence remains mediated through Wikipedia, with unresolved personnel attributions further limiting confidence in the dossier.",
+    "disagreement": "Reference 1 judges the defining work, favorable guide ratings, and Newport personnel bridge sufficient for consensus_core/strong, treating the stylistic labeling issue as non-gating. Reference 2 favors contested/consider, giving greater weight to the swing/post-bop tension, limited demonstrated canon-list consensus, and secondary sourcing; it nevertheless identifies strong as defensible if 'Harlem' receives greater weight.",
+    "recommendation": "The council proposes that John give the original five-track album strong-priority listening consideration, with 'Harlem' as its decisive claim and the swing-lineage fit left for his judgment.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
