@@ -1,0 +1,318 @@
+{
+  "id": "gerry-mulligan-thelonious-monk-mulligan-meets-monk-1957",
+  "artist": "Gerry Mulligan & Thelonious Monk",
+  "album": "Mulligan Meets Monk",
+  "year": 1957,
+  "label": "Riverside",
+  "style_primary": "cool-jazz",
+  "rationale": "Riverside's 1957 summit between the two poles of the music's post-war harmonic language: Monk, by then the canon's most distinctive composer-pianist, and Mulligan, the baritone voice of the cool school, in a bare quartet with Wilbur Ware and Shadow Wilson. It is the record critics reach for when they want to show that 'cool' and 'Monk' were never opposites — Mulligan reads 'Round Midnight' and 'Rhythm-a-Ning' straight, without pastiche, and the two composer-improvisers meet on a shared rhythmic ground. Reception is consistent across independent listing traditions: AllMusic 4/5, Penguin Guide to Jazz 3.5/5, The Encyclopedia of Popular Music 4/5, The Rolling Stone Jazz Record Guide 4/5 (S1). Its lineage is audible in the canon already: Monk's own Riversides of the same year (Brilliant Corners, Monk's Music) and Mulligan's quartet records sit either side of it, and this date is the bridge between them. Session gravity is high — Ware had just anchored Monk's 1957 trio sessions and Wilson was Monk's drummer of choice in the period.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Mulligan Meets Monk — Wikipedia album article (recording dates, studio, track list with durations and composers, full personnel, reception ratings: AllMusic 4/5, Penguin Guide to Jazz 3.5/5, Encyclopedia of Popular Music 4/5, Rolling Stone Jazz Record Guide 4/5)",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Mulligan_Meets_Monk"
+    },
+    "S2": {
+      "title": "Mulligan Meets Monk — AllMusic album page and credits tab (styles: Cool, Post-Bop, West Coast Jazz, Bop; recording location Reeves Sound Studios, New York, NY; engineer Jack Higgins; producer Orrin Keepnews)",
+      "type": "reference/credits",
+      "url": "https://www.allmusic.com/album/mulligan-meets-monk-mw0000194831"
+    },
+    "S3": {
+      "title": "JazzDiscography (jazzdisco.org) Riverside Records Catalog, 200 series — RLP 12-247 session entry: Gerry Mulligan, baritone sax; Thelonious Monk, piano; Wilbur Ware, bass; Shadow Wilson, drums; Reeves Sound Studios, NYC, August 12 and 13, 1957; titles and take numbers",
+      "type": "sessionography",
+      "url": "https://www.jazzdisco.org/riverside-records/catalog-200-series/"
+    },
+    "S4": {
+      "title": "MusicBrainz release group 00283f0e-27ed-3323-9e8e-79ddd6d5c506 — Mulligan Meets Monk (Riverside RLP 12-247 mono, US, 1957-10; RLP 1106 stereo; later OJC/Concord reissues; Discogs master 175091)",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/00283f0e-27ed-3323-9e8e-79ddd6d5c506"
+    },
+    "S5": {
+      "title": "iTunes Search API — 'Mulligan Meets Monk [Remastered]' (collectionId 1442851934, 1957, Concord/Craft, 11 tracks incl. alternate takes)",
+      "type": "identifier/api",
+      "url": "https://itunes.apple.com/search?term=mulligan+meets+monk&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "Cover Art Archive — front cover for release 5cf64d06-a221-46d0-9756-1cb8266e4a47 (RLP 1106 stereo, 1957)",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/00283f0e-27ed-3323-9e8e-79ddd6d5c506"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1957-08-12",
+      "1957-08-13"
+    ],
+    "multi_session": true,
+    "studio": "Reeves Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1957-08-12",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1957-08-13",
+        "site_raw": "Reeves Sound Studios, NYC",
+        "site_slug": "reeves-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Jack Higgins",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Gerry Mulligan",
+        "instrument": "baritone saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Wilbur Ware",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Shadow Wilson",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [
+          "Rossiere 'Shadow' Wilson"
+        ],
+        "notes": "Billed 'Shadow Wilson' on the sleeve; born Rossiere Wilson."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "'Round Midnight",
+        "track_number": 1,
+        "side": "A",
+        "duration": "8:29",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk",
+          "Cootie Williams",
+          "Bernie Hanighen"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Thelonious Monk",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Rhythm-a-Ning",
+        "track_number": 2,
+        "side": "A",
+        "duration": "5:19",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Thelonious Monk",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sweet and Lovely",
+        "track_number": 3,
+        "side": "A",
+        "duration": "7:17",
+        "session_date": null,
+        "composers": [
+          "Gus Arnheim",
+          "Jules LeMare",
+          "Harry Tobias"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Thelonious Monk",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Decidedly",
+        "track_number": 4,
+        "side": "B",
+        "duration": "5:54",
+        "session_date": null,
+        "composers": [
+          "Gerry Mulligan"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Thelonious Monk",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Straight, No Chaser",
+        "track_number": 5,
+        "side": "B",
+        "duration": "7:00",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Thelonious Monk",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Mean You",
+        "track_number": 6,
+        "side": "B",
+        "duration": "6:53",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk",
+          "Coleman Hawkins"
+        ],
+        "personnel": [
+          "Gerry Mulligan",
+          "Thelonious Monk",
+          "Wilbur Ware",
+          "Shadow Wilson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "00283f0e-27ed-3323-9e8e-79ddd6d5c506",
+    "apple_album_id": "1442851934",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/5cf64d06-a221-46d0-9756-1cb8266e4a47/20056989216.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front for the RLP 1106 stereo 1957 release. Pressing state (mono RLP 12-247 vs stereo RLP 1106) not verified; artwork is the same design in both."
+      }
+    ],
+    "notes": "Two consecutive sessions, August 12 and 13, 1957, at Reeves Sound Studios (S3); sources do not assign individual titles to a specific date, so per-track session_date is null rather than guessed. Only six titles were issued on the original LP (S1, S3); the 1987 Original Jazz Classics CD adds alternate takes (Decidedly take 5, Straight No Chaser take 1, I Mean You take 2) which are excluded here as reissue-only. AllMusic's own recording-location field duplicates the venue as 'Reeves Soun Studios, NY' / 'Reeves Sound Studios, New York, NY' — a typo in the first string, same room. AllMusic lists 59:01 duration because its page reflects the expanded CD."
+  },
+  "ballot": {
+    "album": "Gerry Mulligan & Thelonious Monk — Mulligan Meets Monk (1957)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "The strongest claim is session gravity put to interpretive purpose: Mulligan joins Monk, Wilbur Ware, and Shadow Wilson in a quartet whose original six tracks include four Monk compositions, making the encounter substantive rather than merely a meeting of famous names (S1–S3). Mulligan's lyrical baritone offers an inviting route into Monk's rhythmic and harmonic language, demonstrating shared ground between cool jazz and Monk's post-bebop practice. Favorable ratings across AllMusic, Penguin, the Encyclopedia of Popular Music, and the Rolling Stone Jazz Record Guide, as reported through S1, support its enduring musical value, though not overwhelming canonical consensus.",
+    "case_against": "The dossier establishes a distinguished encounter more securely than a load-bearing album: it supplies no documented downstream influence, musician testimony, or core-list recognition demonstrating that this particular session is essential. The reported 3.5/5–4/5 ratings establish favorable reception, not definitive stature, and the critical evidence is mediated through Wikipedia's ratings summary rather than independently presented reviews (S1). Strong discographical verification in S2–S6 cannot establish the missing critical argument; the stylistic bridge may be illuminating without constituting a defining statement for either leader.",
+    "disagreement": null,
+    "recommendation": "The council proposes that John consider this as an illuminating cool-jazz–Monk encounter, while treating its claim to essential album status as unproven.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

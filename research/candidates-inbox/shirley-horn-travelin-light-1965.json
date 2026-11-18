@@ -1,0 +1,556 @@
+{
+  "id": "shirley-horn-travelin-light-1965",
+  "artist": "Shirley Horn",
+  "album": "Travelin' Light",
+  "year": 1965,
+  "label": "ABC-Paramount",
+  "style_primary": "cool-jazz",
+  "rationale": "The canon holds Ella, Sarah, Billie, Abbey Lincoln and Betty Carter but no pianist-singer of the Washington, D.C. school, and Shirley Horn's ABC-Paramount debut is the record that names the tradition: a singer who accompanies herself, at tempos slow enough to make the room listen, with Kenny Burrell and a Johnny Pate-briefed horn section (Joe Newman, Jerome Richardson, Frank Wess) kept on a short leash. It is her defining early statement and the one critics cite when tracing the line from her to Diana Krall and Norah Jones. Evidence is thin on the consensus side and should be read honestly: AllMusic rates it 4/5 but Scott Yanow's own review calls it 'not an essential session', noting that none of the twelve performances reaches three minutes (S1). What the record has is discovery value and lineage rather than critics'-poll weight — a genuine canon question for John rather than an obvious yes.",
+  "priority": "consider",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Travelin' Light — Wikipedia album article (recording dates February 9 and October 19, 1965; studio Bell Sound, New York City; producer Johnny Pate; full personnel; track listing with durations and composers; reception: AllMusic 4/5, quoting Scott Yanow's review 'not an essential session')",
+      "type": "encyclopedic",
+      "url": "https://en.wikipedia.org/wiki/Travelin%27_Light_(Shirley_Horn_album)"
+    },
+    "S2": {
+      "title": "Travelin' Light — AllMusic album page and credits tab (styles Vocal Jazz, Standards; recording date 1965; recording location New York, NY; credits: Shirley Horn piano/vocals, Joe Newman trumpet, Jerome Richardson flute & tenor sax, Frank Wess flute/alto & tenor sax, Kenny Burrell guitar, Marshall Hawkins bass, Bernard Sweetney drums; Johnny Pate arranger and producer)",
+      "type": "reference/credits",
+      "url": "https://www.allmusic.com/album/travelin-light-mw0000110610"
+    },
+    "S3": {
+      "title": "JazzDiscography.com — Shirley Horn discography, sessions of 1965-02-09 and 1965-10-19 at Bell Sound, New York City, with per-title matrix numbers, composers, durations and the full septet on both dates; notes 'Studio uncertain' for the October 19 session",
+      "type": "sessionography",
+      "url": "https://jazzdiscography.com/Artists/Horn/sh-disc.php"
+    },
+    "S4": {
+      "title": "MusicBrainz release group facdad2e-e373-412c-ae8e-b2b344f87b8c — Travelin' Light (ABC-Paramount ABC 538, 12-inch, US, 1965; GRP CD GRD-138, 1994)",
+      "type": "identifier",
+      "url": "https://musicbrainz.org/release-group/facdad2e-e373-412c-ae8e-b2b344f87b8c"
+    },
+    "S5": {
+      "title": "iTunes Search API — Travelin' Light (collectionId 1443405510, 1965, 12 tracks)",
+      "type": "identifier/api",
+      "url": "https://itunes.apple.com/search?term=shirley+horn+travelin+light&entity=album&limit=10"
+    },
+    "S6": {
+      "title": "Cover Art Archive — front cover for release f8c2602f-05f3-4386-99ed-89ddd35b2e35 (GRP CD GRD-138, 1994)",
+      "type": "cover-art",
+      "url": "https://coverartarchive.org/release-group/facdad2e-e373-412c-ae8e-b2b344f87b8c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1965-02-09",
+      "1965-10-19"
+    ],
+    "multi_session": true,
+    "studio": "Bell Sound Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1965-02-09",
+        "site_raw": "Bell Sound, New York City",
+        "site_slug": "bell-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1965-10-19",
+        "site_raw": "Bell Sound, New York City",
+        "site_slug": "bell-sound-studios",
+        "site_new": null,
+        "epistemic": "unk",
+        "source": "S3"
+      }
+    ],
+    "producer": "Johnny Pate",
+    "engineer": null,
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Shirley Horn",
+        "instrument": "vocals",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also plays piano on every title (separate personnel entry)."
+      },
+      {
+        "name": "Shirley Horn",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Self-accompanied throughout (separate entry from her vocal credit)."
+      },
+      {
+        "name": "Joe Newman",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles flute on the session (AllMusic credits 'Flute, Sax (Tenor)')."
+      },
+      {
+        "name": "Frank Wess",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles flute and alto saxophone (AllMusic credits 'Flute, Sax (Alto), Sax (Tenor)'; Wikipedia: 'flute, alto and tenor saxophones')."
+      },
+      {
+        "name": "Kenny Burrell",
+        "instrument": "guitar",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Marshall Hawkins",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Bernard Sweetney",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Trav'lin' Light",
+        "track_number": 1,
+        "side": null,
+        "duration": "2:47",
+        "session_date": "1965-02-09",
+        "composers": [
+          "Johnny Mercer",
+          "Jimmy Mundy",
+          "Trummy Young"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Sunday in New York",
+        "track_number": 2,
+        "side": null,
+        "duration": "1:40",
+        "session_date": "1965-10-19",
+        "composers": [
+          "Carroll Coates",
+          "Peter Nero"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Could Have Told You",
+        "track_number": 3,
+        "side": null,
+        "duration": "2:58",
+        "session_date": "1965-02-09",
+        "composers": [
+          "Jimmy Van Heusen",
+          "Carl Sigman"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Big City",
+        "track_number": 4,
+        "side": null,
+        "duration": "2:00",
+        "session_date": "1965-10-19",
+        "composers": [
+          "Marvin L. Jenkins"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "I Want to Be with You",
+        "track_number": 5,
+        "side": null,
+        "duration": "2:49",
+        "session_date": "1965-02-09",
+        "composers": [
+          "Charles Strouse",
+          "Lee Adams"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Some of My Best Friends Are the Blues",
+        "track_number": 6,
+        "side": null,
+        "duration": "2:22",
+        "session_date": "1965-02-09",
+        "composers": [
+          "Al Byron",
+          "Woody Harris"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Someone You've Loved",
+        "track_number": 7,
+        "side": null,
+        "duration": "2:56",
+        "session_date": "1965-10-19",
+        "composers": [
+          "Johnny Pate"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Don't Be on the Outside",
+        "track_number": 8,
+        "side": null,
+        "duration": "2:48",
+        "session_date": "1965-10-19",
+        "composers": [
+          "Sidney Wyche",
+          "George Kelly",
+          "Mayme Watts"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "You're Blasé",
+        "track_number": 9,
+        "side": null,
+        "duration": "2:22",
+        "session_date": "1965-02-09",
+        "composers": [
+          "Ord Hamilton",
+          "Bruce Sievier"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Yes, I Know When I've Had It",
+        "track_number": 10,
+        "side": null,
+        "duration": "2:17",
+        "session_date": "1965-10-19",
+        "composers": [
+          "Johnny Pate"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Confession",
+        "track_number": 11,
+        "side": null,
+        "duration": "2:26",
+        "session_date": "1965-02-09",
+        "composers": [
+          "Arthur Schwartz",
+          "Howard Dietz"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "And I Love Him",
+        "track_number": 12,
+        "side": null,
+        "duration": "2:29",
+        "session_date": "1965-10-19",
+        "composers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
+        "personnel": [
+          "Shirley Horn",
+          "Joe Newman",
+          "Jerome Richardson",
+          "Frank Wess",
+          "Kenny Burrell",
+          "Marshall Hawkins",
+          "Bernard Sweetney"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "facdad2e-e373-412c-ae8e-b2b344f87b8c",
+    "apple_album_id": "1443405510",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "http://coverartarchive.org/release/f8c2602f-05f3-4386-99ed-89ddd35b2e35/33227128478.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Cover Art Archive front is attached to the 1994 GRP CD (GRD-138); artwork appears to reproduce the 1965 ABC-Paramount sleeve but that has not been independently verified."
+      }
+    ],
+    "notes": "Two sessions at Bell Sound, New York City: 1965-02-09 (six titles) and 1965-10-19 (six titles), per S3, which supplies the per-title matrix numbers and the session split. All seven musicians appear on both dates; the horn section (Newman, Richardson, Wess) and Burrell are present throughout. Johnny Pate arranged the brass on four titles (Big City, Yes I Know When I've Had It, Sunday in New York, Don't Be on the Outside) according to S1/S3. CONFLICT recorded rather than resolved: S3 repeats Bell Sound as the location for the October 19 session but adds 'Studio uncertain' for that date, so that entry carries epistemic 'unk' while the February 9 entry is 'obs'. Naming: the closing track was issued as 'And I Love Him'; the sessionography prints 'And I Love Her' and notes the retitling. 'Someone You've Loved' appears in ABC ledgers as 'Have You Tried' (S3). AllMusic gives duration 29:54 while Wikipedia and the CD issue give 52:54 (S1) — the shorter figure corresponds to the 12 short performances and appears to be an AllMusic field error; per-track durations in this dossier come from S1/S3. No engineer credit is published on AllMusic or Wikipedia, so engineer is recorded null rather than inferred."
+  },
+  "ballot": {
+    "album": "Shirley Horn — Travelin' Light (1965)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "The strongest case is a concrete encounter with Horn's integrated piano-and-vocal artistry, supported by exceptional session personnel: Kenny Burrell, Joe Newman, Frank Wess, Jerome Richardson, Marshall Hawkins and Bernard Sweetney, with Johnny Pate producing and arranging brass on four tracks (S2–S3). That ensemble connects her intimate standards singing to the mainstream jazz network central to this canon, while twelve concise performances offer an approachable discovery route. AllMusic's reported 4/5 rating supplies modest critical support (S1), although the broader influence of Horn should not be mistaken for demonstrated influence of this particular album.",
+    "case_against": "The only critical judgment supplied explicitly calls the album 'not an essential session,' and the dossier establishes no independent canon-list consensus or album-specific influence (S1–S2). Its uniformly sub-three-minute readings plausibly constrain the spacious piano-vocal interplay that makes Horn distinctive, weakening the claim that this is her defining early statement rather than an accomplished commercial standards date. An unrepresented musician or tradition does not itself justify selecting this album over a stronger Horn statement, and the asserted links to Diana Krall and Norah Jones are not sourced here. The dossier also needs a factual correction: its listed track durations total 29:54, so its dismissal of that total as an AllMusic error is backwards.",
+    "disagreement": "Reference 1 judges the personnel, lineage and discovery value sufficient for contested/consider; Reference 2 recommends exclude_suggested/consider because weak album-specific consensus and the compact commercial format outweigh those merits. They agree that scope is clear and critical sourcing is thin, but differ on whether this is a worthwhile discretionary Horn candidate or the wrong album to represent her.",
+    "recommendation": "The council proposes John audition this alongside a stronger-supported in-window Horn alternative before deciding whether its ensemble chemistry warrants a place despite the weak essential-album case.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
