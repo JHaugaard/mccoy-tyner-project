@@ -1,0 +1,479 @@
+{
+  "id": "dexter-gordon-homecoming-live-at-the-village-vanguard-1976",
+  "artist": "Dexter Gordon",
+  "album": "Homecoming: Live at the Village Vanguard",
+  "year": 1976,
+  "label": "Columbia",
+  "catalog_number": "PG 34650",
+  "style_primary": "post-bop",
+  "rationale": "Consensus: AllMusic rates the album 4.5/5 (Scott Yanow's review, tabulated on the album article and carried on AllMusic's own page, S1 and S2), the jazz.com Dozens entry scores it 95/100 (S5) and its separate 'Round Midnight review 92/100 (S6), and the record opens Columbia's seven-CD Complete Columbia Albums retrospective of Gordon's 1976-80 run (S9) — three independent traditions of listing, rating, and anthologising the same set. Defining statement: this is the night Dexter Gordon came home. He had left the United States in 1962 for Europe and Copenhagen, and the December 1976 week at the Village Vanguard was his return engagement, recorded and released under the title the occasion gave it (S1, S5). It is also, on the jazz.com reading, the moment the jazz world publicly re-valued a career that had run from swing through bop to hard bop (S5). Lineage: Gordon played the week in front of Woody Shaw's working quintet, with Louis Hayes on drums (S5), which puts a 1940s founding bopper inside the strongest young acoustic band of the mid-1970s — the exact bridge this canon is built to record. Session gravity: Shaw, Ronnie Mathews, Stafford James and Louis Hayes are a working band, not a pickup rhythm section, and the ten tracks run long the way a club set runs long. Discovery value: 'Gingerbread Boy', 'Little Red's Fantasy', 'In Case You Haven't Heard', 'Fenja' and 'Backstairs' are not the standards a newcomer has already heard, and the eleven-to-fourteen-minute performances let a listener hear how a great bop improviser builds over a long arc. Case against: it is a live double LP with no studio economy, the sound is a club recording, and the canon already holds four of Gordon's 1960s studio records — the argument for this one has to be the homecoming and the band, not the repertoire.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article \"Homecoming: Live at the Village Vanguard\" (recorded New York, December 11 and 12, 1976; venue The Village Vanguard; released 1977 on Columbia; producer Michael Cuscuna; personnel Dexter Gordon, Woody Shaw, Ronnie Mathews, Stafford James, Louis Hayes; full LP track listing with sides and durations plus two CD bonus tracks; reception table recording AllMusic 4.5/5; states the title refers to Gordon's return to the United States after a long European residency)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Homecoming:_Live_at_the_Village_Vanguard"
+    },
+    "S2": {
+      "title": "AllMusic album page and full Credits tab for \"Homecoming: Live at the Village Vanguard\" (mw0000310112): Recording Date December 11, 1976 and December 12, 1976; Recording Location Village Vanguard, New York, NY; Michael Cuscuna producer; Maxine Gregg executive producer; Malcolm Addey engineer and remixing; Allan Tucker assistant engineer; Louis Hayes drums, Ronnie Mathews piano, Stafford James bass, Woody Shaw trumpet and flugelhorn; styles Bop, Jazz Instrument, Saxophone Jazz",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/homecoming-live-at-the-village-vanguard-mw0000310112"
+    },
+    "S3": {
+      "title": "Discogs release r1834749 (Dexter Gordon, Homecoming - Live At The Village Vanguard, 2xLP, Columbia PG 34650, 1977): credits Malcolm Addey as Engineer, Mixed By and Recorded By, Allan Tucker as Assistant Engineer, Michael Cuscuna as Producer, Maxine Gregg as Executive Producer; 'Recorded live at the Village Vanguard in New York City on December 11 and 12, 1976'; remote recording facilities by Kaleb Sound; mixing and mastering at CBS Recording Studios, New York; track list with sides and durations",
+      "type": "web",
+      "url": "https://www.discogs.com/release/1834749"
+    },
+    "S4": {
+      "title": "JazzDiscography.org Dexter Gordon catalog — Homecoming session: Woody Shaw trumpet, flugelhorn; Dexter Gordon tenor sax; Ronnie Mathews piano; Stafford James bass; Louis Hayes drums; 'Village Vanguard, NYC, December 11 and 12, 1976'; eight LP tracks plus Fried Bananas and Body And Soul on the Legacy C2K 46824 CD; Columbia PG 34650",
+      "type": "web",
+      "url": "https://www.jazzdisco.org/dexter-gordon/catalog/"
+    },
+    "S5": {
+      "title": "jazz.com 'The Dozens: Dexter Gordon' entry on Homecoming: band listed as Dexter Gordon, Woody Shaw, Ronnie Matthews, Stafford James, Louis Hayes; 'Recorded: Village Vanguard, NYC, December 11-12, 1976'; Rating 95/100; text describes Gordon's hero's welcome on returning to the United States after years in Europe and the quintet as Woody Shaw's working band with Louis Hayes",
+      "type": "web",
+      "url": "https://www.jazz.com/dozens/the-dozens-dexter-gordon"
+    },
+    "S6": {
+      "title": "jazz.com 'Live at the Village Vanguard' track review of 'Round Midnight from Homecoming: quintet personnel; 'Recorded: Village Vanguard, New York City, December 11-12, 1976'; Rating 92/100; describes Gordon's 14 years in Europe and the week-long return engagement",
+      "type": "web",
+      "url": "https://www.jazz.com/dozens/the-dozens-live-at-the-village-vanguard"
+    },
+    "S7": {
+      "title": "iTunes Search API result for Dexter Gordon 'Homecoming - Live At the Village Vanguard': collectionId 511071597, 10 tracks, copyright 2011 Sony Music Entertainment",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=Dexter+Gordon+Homecoming+Village+Vanguard&entity=album"
+    },
+    "S8": {
+      "title": "MusicBrainz release-group 9422df3a-83f7-39fc-94ef-158beae81f7a, 'Homecoming: Live at the Village Vanguard', Dexter Gordon, type Album with Live secondary type, first release 1977",
+      "type": "api",
+      "url": "https://musicbrainz.org/release-group/9422df3a-83f7-39fc-94ef-158beae81f7a"
+    },
+    "S9": {
+      "title": "Jazzwise review of Dexter Gordon 'The Complete Columbia Albums' (Columbia Legacy, 2013, 1976-80): states the period 'officially started on the 1976 night when he returned to New York from his long sojourn in Europe and Scandinavia', captured live on the Homecoming album 'which opens this collection'",
+      "type": "web",
+      "url": "https://www.jazzwise.com/review/dexter-gordon-the-complete-columbia-albums"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1976-12-11",
+      "1976-12-12"
+    ],
+    "multi_session": true,
+    "studio": "Village Vanguard, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1976-12-11",
+        "site_raw": "Village Vanguard, New York City",
+        "site_slug": "village-vanguard",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      },
+      {
+        "session_date": "1976-12-12",
+        "site_raw": "Village Vanguard, New York City",
+        "site_slug": "village-vanguard",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S4"
+      }
+    ],
+    "producer": "Michael Cuscuna",
+    "engineer": "Malcolm Addey",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Dexter Gordon",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1976-12-11",
+          "1976-12-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leader."
+      },
+      {
+        "name": "Woody Shaw",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1976-12-11",
+          "1976-12-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Featured guest, billed on the jacket as 'Featuring Woody Shaw' (S1, S3). Doubles on flugelhorn (S2, S3, S4). AllMusic's credits tab additionally lists him under 'Sax (Tenor)' (S2), which contradicts every other credit and is treated as an AllMusic credit error, not as a doubling."
+      },
+      {
+        "name": "Ronnie Mathews",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1976-12-11",
+          "1976-12-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Ronnie Matthews"
+        ],
+        "notes": "jazz.com spells the name 'Ronnie Matthews' (S5, S6); AllMusic, Discogs and JazzDiscography give 'Ronnie Mathews', which matches the existing person row."
+      },
+      {
+        "name": "Stafford James",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1976-12-11",
+          "1976-12-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "No existing person row; new person created at staging."
+      },
+      {
+        "name": "Louis Hayes",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1976-12-11",
+          "1976-12-12"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Leads the quintet with Woody Shaw (S3)."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Gingerbread Boy",
+        "track_number": 1,
+        "side": "A",
+        "duration": "13:29",
+        "session_date": null,
+        "composers": [
+          "Jimmy Heath"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Little Red's Fantasy",
+        "track_number": 2,
+        "side": "A",
+        "duration": "12:30",
+        "session_date": null,
+        "composers": [
+          "Woody Shaw"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Fenja",
+        "track_number": 3,
+        "side": "B",
+        "duration": "12:34",
+        "session_date": null,
+        "composers": [
+          "Dexter Gordon"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "In Case You Haven't Heard",
+        "track_number": 4,
+        "side": "B",
+        "duration": "10:55",
+        "session_date": null,
+        "composers": [
+          "Woody Shaw"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "It's You or No One",
+        "track_number": 5,
+        "side": "C",
+        "duration": "13:46",
+        "session_date": null,
+        "composers": [
+          "Jule Styne",
+          "Sammy Cahn"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Let's Get Down",
+        "track_number": 6,
+        "side": "C",
+        "duration": "13:03",
+        "session_date": null,
+        "composers": [
+          "Ronnie Mathews"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "'Round Midnight",
+        "track_number": 7,
+        "side": "D",
+        "duration": "13:06",
+        "session_date": null,
+        "composers": [
+          "Thelonious Monk",
+          "Cootie Williams",
+          "Bernie Hanighen"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Backstairs",
+        "track_number": 8,
+        "side": "D",
+        "duration": "12:20",
+        "session_date": null,
+        "composers": [
+          "Dexter Gordon"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "Fried Bananas",
+        "track_number": 9,
+        "side": null,
+        "duration": "14:34",
+        "session_date": null,
+        "composers": [
+          "Dexter Gordon"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "title": "Body and Soul",
+        "track_number": 10,
+        "side": null,
+        "duration": "13:10",
+        "session_date": null,
+        "composers": [
+          "Johnny Green",
+          "Frank Eyton",
+          "Edward Heyman",
+          "Robert Sour"
+        ],
+        "personnel": [
+          "Dexter Gordon",
+          "Woody Shaw",
+          "Ronnie Mathews",
+          "Stafford James",
+          "Louis Hayes"
+        ],
+        "bonus_track": true,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "9422df3a-83f7-39fc-94ef-158beae81f7a",
+    "apple_album_id": "511071597",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/f2813136-2495-4fd8-bff0-f473c0b11fd6/34395927973.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image attached to MusicBrainz release f2813136, titled 'Homecoming: Live at the Village Vanguard'; pressing lineage not verified, so is_original_cover left null."
+      }
+    ],
+    "notes": "Two consecutive nights at the Village Vanguard, December 11 and 12, 1976. No source consulted splits the ten tracks between the two dates — both AllMusic and JazzDiscography give the pair of dates for the whole run — so every track carries session_date null rather than an inferred assignment, and the album is marked multi_session with both dates at block level. The quintet is identical on every track in all four personnel sources; no per-track substitution is documented. Two credit conflicts are preserved rather than smoothed: AllMusic's credits tab lists Woody Shaw additionally under 'Sax (Tenor)' (S2), contradicted by S1, S3 and S4, and read here as an AllMusic error; the Discogs submission also carries a 'Saxophone — Rene McLean' credit with no track, role position or instrument specified (S3), which no other source corroborates and which the taxonomy cannot express without inventing an instrument — so McLean is recorded here as a flagged conflict, not as personnel. Recording engineer: Malcolm Addey, credited as Engineer, Mixed By and Recorded By (S2, S3); remote recording facilities were supplied by Kaleb Sound (S3), and mixing and mastering took place at CBS Recording Studios, New York (S3) — a post-production location, not a recording site. The CD reissue adds 'Fried Bananas' and 'Body and Soul' from the same engagement; both are flagged bonus."
+  },
+  "ballot": {
+    "album": "Dexter Gordon — Homecoming: Live at the Village Vanguard (1976)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": "Recorded December 11–12, 1976 and first released in 1977; both dates are within the window. The 1973–1985 continuity boundary applies, but this acoustic Gordon–Shaw quintet directly extends the bebop and post-bop lineage rather than introducing an electric-rock or other stylistic departure."
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "This is a defining comeback document: Gordon's December 1976 Village Vanguard engagement connects a founding bebopper with Woody Shaw's working acoustic band, making the continuity between generations audible rather than merely historical (S4–S6). Shaw, Ronnie Mathews, Stafford James and Louis Hayes supply substantial session gravity, while their original compositions and extended performances offer discovery beyond a familiar standards program (S1, S3–S5). AllMusic's 4.5/5 rating and jazz.com's enthusiastic assessments support its musical standing, and Jazzwise identifies it as the opening document of Columbia's retrospective of Gordon's 1976–80 period (S2, S5, S6, S9).",
+    "case_against": "The original eight-track double LP sustains roughly 102 minutes of extended performances, creating a genuine discovery trade-off: immersive club storytelling can also mean fatigue and less concentrated impact than a tightly shaped album (S1, S3, S4). Its historical occasion establishes importance more securely than the dossier establishes downstream musical influence, so the homecoming narrative should not substitute for an album-level canonical case. Consensus evidence is narrower than advertised: Wikipedia repeats AllMusic, the two jazz.com assessments share an outlet, and opening a chronological complete-albums box is weaker evidence of selective canonization than an independent core-collection citation.",
+    "disagreement": "Reference 1 judges the continuity test decisively passed and the musical and historical evidence overwhelming enough for consensus_core; Reference 2 favors contested, emphasizing the rubric's 1973+ default, double-LP sprawl and narrower-than-claimed consensus. Both rate the priority strong and agree that the acoustic lineage is clear. Reference 1 also invokes Gordon's existing representation as a reservation; Reference 2 correctly rejects artist concentration as an objection under the rubric.",
+    "recommendation": "The council proposes that John give this strong-priority contested candidate a focused listening review, weighing its Gordon–Shaw continuity and live storytelling against its length and limited independent canon-list evidence.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

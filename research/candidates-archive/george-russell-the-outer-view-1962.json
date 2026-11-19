@@ -1,0 +1,385 @@
+{
+  "id": "george-russell-the-outer-view-1962",
+  "artist": "George Russell",
+  "album": "The Outer View",
+  "year": 1962,
+  "label": "Riverside",
+  "catalog_number": "RLP 440 / RS 9440",
+  "style_primary": "post-bop",
+  "rationale": "Consensus: the Wikipedia album article's reception table records AllMusic at 4.5/5 (Scott Yanow's review) and The Penguin Guide to Jazz at four stars (S1), so two independent listing traditions rate this record at or near their top mark. Lineage is the strongest single argument: George Russell's Lydian Chromatic Concept is the theoretical spine of modal jazz, and this is the last of the Riverside sextet albums he built around five of his own students at the Lenox School of Jazz between 1960 and 1962 (S4). Ezz-thetics (1961) and New York, N.Y. (1959) are already in the canon, so The Outer View closes a documented run rather than introducing a stranger — and it is the record where Russell stops arranging for horns and starts writing pieces that behave like chamber music with a jazz pulse. Session gravity: the sextet is Don Ellis and Garnett Brown on the front line, Paul Plummer on tenor, with Steve Swallow and Pete La Roca in the rhythm section — Swallow and La Roca both go on into the 1960s avant-garde, and Ellis into his own microtonal big band. The album also carries Sheila Jordan's recording debut, on 'You Are My Sunshine' (S1) — an eleven-and-three-quarter-minute deconstruction of a country standard that is the most-discussed track here. Discovery value: a curious listener sent to this cold gets a Charlie Parker blues ('Au Privave'), a Carla Bley tune ('Zig-Zag'), and two Russell originals that show how far the written page could be pushed in 1962 without leaving swinging behind. Case against: it is a sextet record by an arranger-theorist, so it offers no star soloist narrative, and Russell's 1960s work is already represented twice in the canon.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia album article \"The Outer View\" (recorded August 27, 1962 in NYC; released 1962 on Riverside; producer Orrin Keepnews; personnel George Russell, Don Ellis, Garnett Brown, Paul Plummer, Steve Swallow, Pete La Roca, Sheila Jordan on 'You Are My Sunshine'; track listing with durations and the alternate take; reception table recording AllMusic 4.5/5 and The Penguin Guide to Jazz four stars; states the album features Sheila Jordan's recording debut)",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/The_Outer_View"
+    },
+    "S2": {
+      "title": "AllMusic album page and full Credits tab for \"The Outer View\" (mw0000691195): Orrin Keepnews producer and liner notes; Ray Fowler engineer; personnel credits Russell piano, Ellis trumpet, Brown trombone, Plummer tenor saxophone, Swallow bass, La Roca drums, Jordan vocals; recording date August 27, 1962; recording location New York, NY; styles Post-Bop, Jazz Instrument, Piano Jazz; six-track reissue sequence with the alternate take at position 4",
+      "type": "web",
+      "url": "https://www.allmusic.com/album/the-outer-view-mw0000691195"
+    },
+    "S3": {
+      "title": "JazzDiscography.org Riverside Records discography, 1962 — George Russell Sextet session: 'Plaza Sound Studios, NYC, August 27, 1962'; personnel Don Ellis, Garnett Brown, Paul Plummer, George Russell, Steve Swallow, Pete La Roca, Sheila Jordan vocal on 'You Are My Sunshine'; tracks Au Privave, Zig-Zag, The Outer View, You Are My Sunshine, D.C. Divertimento plus The Outer View (take 2); matrix Riverside RM 440 / RS 9440",
+      "type": "web",
+      "url": "https://www.jazzdisco.org/riverside-records/discography-1962/"
+    },
+    "S4": {
+      "title": "LondonJazzCollector, \"George Russell: Arranger — RCA, Decca, and Riverside years (1957-63)\": RLP 440 The Outer View personnel and 'recorded Plaza Sound Studios, NYC, August 27, 1962'; states the 1960-62 sextet was formed around five of Russell's students at the Lenox School of Jazz; credits Ray Fowler as recording engineer on the adjacent Riverside sessions (Ezz-thetics, The Stratus Seekers)",
+      "type": "web",
+      "url": "https://londonjazzcollector.wordpress.com/2017/05/17/george-russell-arranger-rca-decca-and-riverside-years-1957-63/"
+    },
+    "S5": {
+      "title": "Jazz Codex session index for engineer Ray Fowler: credits 'The Outer View — George Russell (1962) · Engineer [Recording]'",
+      "type": "web",
+      "url": "https://jazzcodex.com/artists/ray-fowler/"
+    },
+    "S6": {
+      "title": "iTunes Search API result for George Russell 'The Outer View': collectionId 1443138272, artistName 'George Russell Sextet', 6 tracks, releaseDate 1962-08-27, copyright 1991 Fantasy",
+      "type": "api",
+      "url": "https://itunes.apple.com/search?term=George+Russell+The+Outer+View&entity=album"
+    },
+    "S7": {
+      "title": "MusicBrainz release-group 78a2edf2-f897-3af3-bdc0-d87ae769d67c, 'The Outer View', George Russell, tags jazz and post-bop",
+      "type": "api",
+      "url": "https://musicbrainz.org/release-group/78a2edf2-f897-3af3-bdc0-d87ae769d67c"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1962-08-27"
+    ],
+    "multi_session": false,
+    "studio": "Plaza Sound Studios, New York, NY",
+    "recording_sites": [
+      {
+        "session_date": "1962-08-27",
+        "site_raw": "Plaza Sound Studios, NYC",
+        "site_slug": "plaza-sound-studios",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Ray Fowler",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "George Russell",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Leader; also arranger and conductor (S1)."
+      },
+      {
+        "name": "Don Ellis",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Garnett Brown",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Paul Plummer",
+        "instrument": "tenor saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "AllMusic credit reads 'Sax (Tenor), Saxophone' (S2). No existing person row; new person created at staging."
+      },
+      {
+        "name": "Steve Swallow",
+        "instrument": "double bass",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Stephen Swallow"
+        ],
+        "notes": "Credited as 'Stephen Swallow' in some Riverside sessionographies (S4 gives 'Steve Swallow' for this date)."
+      },
+      {
+        "name": "Pete La Roca",
+        "instrument": "drums",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [
+          "Pete LaRoca",
+          "Pete Sims"
+        ],
+        "notes": "Canonical spelling follows the existing person row ('Pete La Roca')."
+      },
+      {
+        "name": "Sheila Jordan",
+        "instrument": "vocals",
+        "scope": "selected-tracks",
+        "tracks": [
+          "You Are My Sunshine"
+        ],
+        "session_dates": null,
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Recording debut (S1); vocals on 'You Are My Sunshine' only. No existing person row; new person created at staging."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Au Privave",
+        "track_number": 1,
+        "side": "A",
+        "duration": "6:21",
+        "session_date": "1962-08-27",
+        "composers": [
+          "Charlie Parker"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Garnett Brown",
+          "Paul Plummer",
+          "Steve Swallow",
+          "Pete La Roca"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Zig-Zag",
+        "track_number": 2,
+        "side": "A",
+        "duration": "4:03",
+        "session_date": "1962-08-27",
+        "composers": [
+          "Carla Bley"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Garnett Brown",
+          "Paul Plummer",
+          "Steve Swallow",
+          "Pete La Roca"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Outer View",
+        "track_number": 3,
+        "side": "A",
+        "duration": "10:03",
+        "session_date": "1962-08-27",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Garnett Brown",
+          "Paul Plummer",
+          "Steve Swallow",
+          "Pete La Roca"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "You Are My Sunshine",
+        "track_number": 4,
+        "side": "B",
+        "duration": "11:51",
+        "session_date": "1962-08-27",
+        "composers": [
+          "Jimmie Davis",
+          "Charles Mitchell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Garnett Brown",
+          "Paul Plummer",
+          "Steve Swallow",
+          "Pete La Roca",
+          "Sheila Jordan"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "D.C. Divertimento",
+        "track_number": 5,
+        "side": "B",
+        "duration": "9:14",
+        "session_date": "1962-08-27",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Garnett Brown",
+          "Paul Plummer",
+          "Steve Swallow",
+          "Pete La Roca"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Outer View (alternate take)",
+        "track_number": 6,
+        "side": null,
+        "duration": "9:26",
+        "session_date": "1962-08-27",
+        "composers": [
+          "George Russell"
+        ],
+        "personnel": [
+          "George Russell",
+          "Don Ellis",
+          "Garnett Brown",
+          "Paul Plummer",
+          "Steve Swallow",
+          "Pete La Roca"
+        ],
+        "bonus_track": true,
+        "alternate_take": true,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "musicbrainz_release_group_mbid": "78a2edf2-f897-3af3-bdc0-d87ae769d67c",
+    "apple_album_id": "1443138272",
+    "cover_art": [
+      {
+        "role": "front",
+        "source": "cover-art-archive",
+        "url": "https://coverartarchive.org/release/aa2965ab-ad64-4dfd-87fe-573726d3cc7a/22074974664.jpg",
+        "is_original_cover": null,
+        "epistemic": "inf",
+        "notes": "Front image attached to MusicBrainz release aa2965ab (matched by title, artist and label); pressing lineage not verified, so is_original_cover left null."
+      }
+    ],
+    "notes": "Single session, August 27, 1962, at Plaza Sound Studios, New York. AllMusic's Recording Location field gives only 'New York, NY' (S2); the studio name comes from the Riverside sessionography (S3) and the collector account of the original LP (S4), which agree. Engineer Ray Fowler is credited on the AllMusic Credits tab (S2) and in the Jazz Codex session index (S5); the original LP cover carries no engineer credit. Track order follows the original LP sides (S3) with the CD-only alternate take carried last and flagged bonus; the CD reissue sequences it at position 4 (S1, S2). Durations vary by a second or two between the LP listing (S1) and the streaming reissue (S2); S1's are used."
+  },
+  "ballot": {
+    "album": "George Russell — The Outer View (1962)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "consider",
+    "case_for": "The strongest case is the album’s concrete bridge between bebop repertoire and exploratory post-bop composition: Parker’s “Au Privave,” Carla Bley’s “Zig-Zag,” and Russell’s extended originals make his harmonic thinking audible rather than merely historically important (S1–S3). Sheila Jordan’s recording debut on the nearly twelve-minute “You Are My Sunshine” supplies a distinctive vocal-jazz milestone, while Don Ellis, Steve Swallow, and Pete La Roca give the session substantial musical gravity (S1–S3). AllMusic’s 4.5/5 and Penguin’s four stars, reported in S1, support serious critical esteem for a record offering both an accessible point of departure and unusually adventurous ensemble writing.",
+    "case_against": "The evidence establishes critical esteem more securely than canonical consensus: the ratings are relayed through Wikipedia, and the dossier supplies neither a Penguin Core Collection designation nor broader canon-list or musician-citation evidence. Russell’s general importance to modal jazz does not by itself demonstrate this particular album’s downstream influence, and the claimed status as his sextet culmination is more interpretive than documented. The extended, arranger-centered pieces may strike a newcomer as austere, leaving a genuine question whether the whole album delivers the defining-statement force suggested by its celebrated Jordan feature.",
+    "disagreement": "Reference 1 judges the musical lineage and two high critical ratings sufficient for consensus_core/strong; Reference 2 finds the album-specific influence and breadth of canonical recognition insufficiently established and favors contested/consider. Crucially, Reference 1 incorrectly equates Penguin’s four-star rating with Core Collection status; the dossier establishes only the rating. Both references agree that the album is squarely in scope, but differ on whether its exploratory writing is an inviting discovery or a substantial accessibility risk.",
+    "recommendation": "The council proposes that John audition the full original album as a contested, consider-priority candidate, weighing its ensemble writing alongside the landmark Jordan performance.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
