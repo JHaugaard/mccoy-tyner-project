@@ -1,0 +1,304 @@
+{
+  "id": "thelonious-monk-misterioso-1958",
+  "artist": "Thelonious Monk",
+  "album": "Misterioso",
+  "year": 1958,
+  "label": "Riverside",
+  "apple_album_id": 1442260239,
+  "musicbrainz_release_group_mbid": null,
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/0f/0c/520f0ccb-3418-716e-bd97-763bff2a8aa2/00025218620628.rgb.jpg/600x600bb.jpg",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "The live document of Monk's second Five Spot residency, cut on August 7, 1958 with Johnny Griffin in the tenor chair, Ahmed Abdul-Malik on bass and Roy Haynes on drums \u2014 the quartet that carried Monk from cult figure to stardom. Consensus is unusually broad for a live club date: AllMusic 5 stars (Planer), Rolling Stone Album Guide 5 stars, MusicHound Jazz 5 stars, Penguin Guide 3.5 stars, Encyclopedia of Popular Music 4 stars, PopMatters 9/10, plus DownBeat's March 1959 pianist-of-the-year citation praising him 'at his challenging, consistently creative best' on this record; Robert Christgau names it his favourite Monk album and Griffin's 'In Walked Bud' solo 'my favorite five minutes of recorded music' (S1). Session gravity is the point: these are the only recordings documenting Monk with Griffin, and the Five Spot residency is the hinge of his late-1950s career (S1, S3). It still plays \u2014 the eleven-minute 'In Walked Bud' and the 10:52 'Misterioso' are as gripping as anything in the canon's Monk holdings, and Griffin's playing is the discovery a listener sent here cold comes away talking about.",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: Misterioso (Thelonious Monk album) \u2014 recording date/venue, personnel, track listing, review-score table (AllMusic 5\u2605, Penguin 3.5\u2605, Rolling Stone 5\u2605, MusicHound 5\u2605, Encyclopedia of Popular Music 4\u2605, PopMatters 9/10) and DownBeat/Christgau reception",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Misterioso_(Thelonious_Monk_album)"
+    },
+    "S2": {
+      "title": "AllMusic: Thelonious Monk Quartet \u2014 Misterioso (1958), review and credits (5-star rating)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/misterioso-mw0000048402"
+    },
+    "S3": {
+      "title": "JazzDisco: Thelonious Monk discography \u2014 Five Spot Cafe, NYC, August 7, 1958 session (personnel per track, Riverside RLP 12-279)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/thelonious-monk/discography/"
+    },
+    "S4": {
+      "title": "Apple Music: Thelonious Monk \u2014 Misterioso (Original Jazz Classics / Fantasy, 8 tracks incl. 1989 CD bonus tracks) \u2014 collectionId and cover art",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/misterioso/1442260239"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1958-08-07"
+    ],
+    "multi_session": false,
+    "studio": "Five Spot Caf\u00e9, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1958-08-07",
+        "site_raw": "Five Spot Cafe, NYC",
+        "site_slug": "five-spot-caf",
+        "site_new": null,
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": "Orrin Keepnews",
+    "engineer": "Ray Fowler",
+    "epistemic_production": "obs",
+    "personnel": [
+      {
+        "name": "Thelonious Monk",
+        "instrument": "piano",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1958-08-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Solo piano on 'Just a Gigolo' (unaccompanied)."
+      },
+      {
+        "name": "Johnny Griffin",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nutty",
+          "Blues Five Spot",
+          "Let's Cool One",
+          "In Walked Bud",
+          "Misterioso"
+        ],
+        "session_dates": [
+          "1958-08-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Just a Gigolo' per JazzDisco track-level personnel (tenor sax on items 1-4, 6-8 of the session)."
+      },
+      {
+        "name": "Ahmed Abdul-Malik",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nutty",
+          "Blues Five Spot",
+          "Let's Cool One",
+          "In Walked Bud",
+          "Misterioso"
+        ],
+        "session_dates": [
+          "1958-08-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Just a Gigolo' per JazzDisco."
+      },
+      {
+        "name": "Roy Haynes",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Nutty",
+          "Blues Five Spot",
+          "Let's Cool One",
+          "In Walked Bud",
+          "Misterioso"
+        ],
+        "session_dates": [
+          "1958-08-07"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Absent from 'Just a Gigolo' per JazzDisco."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Nutty",
+        "track_number": 1,
+        "side": "A",
+        "duration": "5:22",
+        "session_date": "1958-08-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Johnny Griffin",
+          "Ahmed Abdul-Malik",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Blues Five Spot",
+        "track_number": 2,
+        "side": "A",
+        "duration": "8:11",
+        "session_date": "1958-08-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Johnny Griffin",
+          "Ahmed Abdul-Malik",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Let's Cool One",
+        "track_number": 3,
+        "side": "A",
+        "duration": "9:16",
+        "session_date": "1958-08-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Johnny Griffin",
+          "Ahmed Abdul-Malik",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "In Walked Bud",
+        "track_number": 4,
+        "side": "B",
+        "duration": "11:20",
+        "session_date": "1958-08-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Johnny Griffin",
+          "Ahmed Abdul-Malik",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Just a Gigolo",
+        "track_number": 5,
+        "side": "B",
+        "duration": "2:07",
+        "session_date": "1958-08-07",
+        "composers": [
+          "Irving Caesar",
+          "Leonello Casucci"
+        ],
+        "personnel": [
+          "Thelonious Monk"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Misterioso",
+        "track_number": 6,
+        "side": "B",
+        "duration": "10:52",
+        "session_date": "1958-08-07",
+        "composers": [
+          "Thelonious Monk"
+        ],
+        "personnel": [
+          "Thelonious Monk",
+          "Johnny Griffin",
+          "Ahmed Abdul-Malik",
+          "Roy Haynes"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "notes": "Original Riverside LP (RLP 12-279 mono / RLP 1133 stereo), six tracks, all from the single August 7, 1958 evening at the Five Spot Caf\u00e9; 'Thelonious in Action' was drawn from the same show and released first (S1, S3). The 1989 Original Jazz Classics CD adds 'Round Midnight' and 'Evidence' from the same date; the 2012 OJC Remasters adds a 'Bye-Ya/Epistrophy' medley with Art Blakey \u2014 those are reissue bonuses and are excluded here. Producer and engineer from the LP credit panel (S1). Recording-site slug 'five-spot-caf' matches the canonical place already in the DB."
+  },
+  "ballot": {
+    "album": "Thelonious Monk \u2014 Misterioso (1958)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "consensus_core",
+    "priority": "strong",
+    "case_for": "Misterioso has unusually broad critical support: AllMusic awards five stars (S2), while S1 reports top ratings from several other guides and Christgau's designation of it as his favorite Monk album. Alongside Thelonious in Action, it documents the exceptional Monk\u2013Johnny Griffin partnership with Ahmed Abdul-Malik and Roy Haynes at the Five Spot, giving it substantial session gravity and a distinctive place in Monk's recorded legacy (S1, S3). The extended \"In Walked Bud\" and title performance reveal how Monk's compositions generate sustained live invention, with Griffin's expansive tenor playing and Haynes's rhythmic interplay offering immediate discovery value rather than merely historical interest.",
+    "case_against": "Because Thelonious in Action documents the same evening and ensemble, Misterioso must earn its place through these particular performances rather than through an exclusive claim to the Monk\u2013Griffin encounter (S1, S3). Most of its repertoire was already established, so its canonical argument rests principally on interpretation and ensemble chemistry, not new compositions or a decisive stylistic advance. The apparent breadth of consensus also exceeds the dossier's direct critical sourcing: most ratings and the DownBeat and Christgau quotations arrive through Wikipedia (S1), while Penguin's reported 3.5 stars indicate strong approval short of its highest rating.",
+    "disagreement": "Neither reference disputes consensus_core or strong priority; Reference 1 conditionally raises the priority to must_have if the canon otherwise lacks a Five Spot document, while Reference 2 retains strong on the album's own merits.",
+    "recommendation": "The council proposes that John give Misterioso strong-priority consideration, weighing its distinctive performances alongside any existing representation of the same Five Spot session.",
+    "confidence": "high",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}

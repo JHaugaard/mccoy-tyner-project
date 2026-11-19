@@ -1,0 +1,1297 @@
+{
+  "id": "quincy-jones-the-birth-of-a-band-1959",
+  "artist": "Quincy Jones",
+  "album": "The Birth of a Band!",
+  "year": 1959,
+  "label": "Mercury",
+  "apple_album_id": 1443597166,
+  "musicbrainz_release_group_mbid": "cf06a5dd-3ea9-30e0-bce5-c454232b4a2a",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/e1/2f/f1e12f95-4c4c-4374-805e-ccf84d49298f/00602547786968.rgb.jpg/600x600bb.jpg",
+  "style_primary": "hard-bop",
+  "style_tags": [],
+  "rationale": "Quincy Jones's first big-band album as leader, and the record that made him a bandleader as well as an arranger: a New York studio orchestra playing the hard-bop songbook (Moanin', Along Came Betty, Whisper Not, I Remember Clifford, Whisper Not's Tickle Toe) with Ellington/Basie weight in the brass and the best young soloists of 1959 up front. AllMusic gives it 5 stars, Yanow calling it 'one of his finest jazz recordings' (S1, S2). Session gravity is the case: Clark Terry, Harry 'Sweets' Edison, Joe Newman, Ernie Royal and Joe Wilder in the trumpet section; Jimmy Cleveland, Urbie Green, Quentin Jackson and Melba Liston in the trombones; Phil Woods, Zoot Sims, Benny Golson, Frank Wess, Jerome Richardson and Sahib Shihab in the reeds; Patti Bown, Kenny Burrell, Milt Hinton and Sam Woodyard in the rhythm section over five 1959 sessions at Fine Recording (S1, S3). Lineage: this band is the bridge from the Basie/Ellington wing already in the canon to the arranger-led orchestras of the 1960s, and Quincy Jones is entirely absent from the canon today \u2014 a visible hole for a musician whose big-band writing sits directly on top of what is already collected. It still plays: 'Moanin'' and 'The Birth of a Band' swing hard, and the record is an easy way into why big-band writing mattered to this tradition. Style: big-band hard bop (the format is an orchestra; the material and the solo language are hard bop).",
+  "priority": "strong",
+  "epistemic": "obs",
+  "sources": {
+    "S1": {
+      "title": "Wikipedia: The Birth of a Band! \u2014 recording dates and studio, 10-track listing with durations, full personnel, arranger credits per track, AllMusic 5-star rating with Yanow quote",
+      "type": "encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/The_Birth_of_a_Band!"
+    },
+    "S2": {
+      "title": "AllMusic: Quincy Jones \u2014 The Birth of a Band! (Mercury, 1959; release date June 16 1959, Big Band style, 5-star rating, credits tab)",
+      "type": "review",
+      "url": "https://www.allmusic.com/album/the-birth-of-a-band%21-mw0000188370"
+    },
+    "S3": {
+      "title": "JazzDisco: Mercury Records catalog 20400 series \u2014 MG-20444 session-by-session personnel, exact dates, Fine Recording NYC, matrix numbers (Lord's discography data)",
+      "type": "discography",
+      "url": "https://www.jazzdisco.org/mercury-records/catalog-20400-series/"
+    },
+    "S4": {
+      "title": "Discogs: Quincy Jones \u2014 The Birth of a Band (2-LP combined reissue with Vol. 2) \u2014 per-track soloist and personnel credits; its C/D sides are the separate Vol. 2 sessions",
+      "type": "discography",
+      "url": "https://www.discogs.com/release/4204609-Quincy-Jones-The-Birth-Of-A-Band"
+    },
+    "S5": {
+      "title": "Preservation Sound: 'Fine Recording Inc: Pioneers in High-Fidelity Studio Recording' \u2014 studio history, Great Northern Hotel on 57th Street, names Quincy Jones 'Birth of a Band' among its records",
+      "type": "reference",
+      "url": "https://www.preservationsound.com/fine-recording-inc-pioneers-in-high-fidelity-studio-recording/"
+    },
+    "S6": {
+      "title": "Cash Box (trade paper, W&M digital library PDF) \u2014 'Fine Recording, Great Northern Hotel, 118 West 57th Street' street address for the studio",
+      "type": "reference",
+      "url": "https://digital.libraries.wm.edu/_flysystem/repo-bin/2023-01/cashbox23unse_9.pdf"
+    },
+    "S7": {
+      "title": "Apple Music: Quincy Jones \u2014 The Birth of a Band! (10 tracks, 1959, Mercury/Verve) \u2014 collectionId and cover art",
+      "type": "metadata",
+      "url": "https://music.apple.com/us/album/the-birth-of-a-band/1443597166"
+    }
+  },
+  "personnel_record": {
+    "recording_dates": [
+      "1959-02-09",
+      "1959-03-09",
+      "1959-05-26",
+      "1959-05-27",
+      "1959-06-16"
+    ],
+    "multi_session": true,
+    "studio": "Fine Recording Studios, New York City",
+    "recording_sites": [
+      {
+        "session_date": "1959-02-09",
+        "site_raw": "Fine Recording, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fine Recording Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "118 West 57th Street (Great Northern Hotel)",
+          "lat": 40.76461,
+          "lon": -73.97827,
+          "location_epistemic": "obs",
+          "location_source": "https://digital.libraries.wm.edu/_flysystem/repo-bin/2023-01/cashbox23unse_9.pdf (Cash Box: 'Fine Recording, Great Northern Hotel, 118 West 57th Street') | coords: OSM Nominatim: 118 West 57th Street, New York, NY \u2014 geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1959-03-09",
+        "site_raw": "Fine Recording, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fine Recording Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "118 West 57th Street (Great Northern Hotel)",
+          "lat": 40.76461,
+          "lon": -73.97827,
+          "location_epistemic": "obs",
+          "location_source": "https://digital.libraries.wm.edu/_flysystem/repo-bin/2023-01/cashbox23unse_9.pdf (Cash Box: 'Fine Recording, Great Northern Hotel, 118 West 57th Street') | coords: OSM Nominatim: 118 West 57th Street, New York, NY \u2014 geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1959-05-26",
+        "site_raw": "Fine Recording, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fine Recording Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "118 West 57th Street (Great Northern Hotel)",
+          "lat": 40.76461,
+          "lon": -73.97827,
+          "location_epistemic": "obs",
+          "location_source": "https://digital.libraries.wm.edu/_flysystem/repo-bin/2023-01/cashbox23unse_9.pdf (Cash Box: 'Fine Recording, Great Northern Hotel, 118 West 57th Street') | coords: OSM Nominatim: 118 West 57th Street, New York, NY \u2014 geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1959-05-27",
+        "site_raw": "Fine Recording, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fine Recording Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "118 West 57th Street (Great Northern Hotel)",
+          "lat": 40.76461,
+          "lon": -73.97827,
+          "location_epistemic": "obs",
+          "location_source": "https://digital.libraries.wm.edu/_flysystem/repo-bin/2023-01/cashbox23unse_9.pdf (Cash Box: 'Fine Recording, Great Northern Hotel, 118 West 57th Street') | coords: OSM Nominatim: 118 West 57th Street, New York, NY \u2014 geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      },
+      {
+        "session_date": "1959-06-16",
+        "site_raw": "Fine Recording, NYC",
+        "site_slug": null,
+        "site_new": {
+          "name": "Fine Recording Studios",
+          "city": "New York, NY",
+          "kind": "studio",
+          "address": "118 West 57th Street (Great Northern Hotel)",
+          "lat": 40.76461,
+          "lon": -73.97827,
+          "location_epistemic": "obs",
+          "location_source": "https://digital.libraries.wm.edu/_flysystem/repo-bin/2023-01/cashbox23unse_9.pdf (Cash Box: 'Fine Recording, Great Northern Hotel, 118 West 57th Street') | coords: OSM Nominatim: 118 West 57th Street, New York, NY \u2014 geocoded from documented address"
+        },
+        "epistemic": "obs",
+        "source": "S3"
+      }
+    ],
+    "producer": null,
+    "engineer": null,
+    "epistemic_production": "unk",
+    "personnel": [
+      {
+        "name": "Harry Edison",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Harry \"Sweets\" Edison"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Joe Newman",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'",
+          "A Change of Pace"
+        ],
+        "session_dates": [
+          "1959-03-09",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Ernie Royal",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Clark Terry",
+        "instrument": "trumpet",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also flugelhorn solo on 'Moanin'' and 'I Remember Clifford' per the Discogs per-track credits (S4)."
+      },
+      {
+        "name": "Joe Wilder",
+        "instrument": "trumpet",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Billy Byers",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Not listed in the Wikipedia personnel section; named in Lord's session data (S3) and Discogs per-track credits (S4)."
+      },
+      {
+        "name": "Jimmy Cleveland",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Urbie Green",
+        "instrument": "trombone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Tom Mitchell",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Quentin Jackson",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Melba Liston",
+        "instrument": "trombone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also arranged 'The Gypsy' (S1, S3)."
+      },
+      {
+        "name": "Julius Watkins",
+        "instrument": "French horn",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Change of Pace",
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Jerome Richardson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace",
+          "Happy Faces",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Doubles flute, alto saxophone and piccolo; listed as flute/alto/tenor on the February and March sessions and tenor on the May 26 and June 16 dates (S3)."
+      },
+      {
+        "name": "Phil Woods",
+        "instrument": "alto saxophone",
+        "scope": "all-tracks",
+        "tracks": null,
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Budd Johnson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sam Taylor",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Sam \"The Man\" Taylor"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Danny Bank",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "Happy Faces"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-05-26"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sahib Shihab",
+        "instrument": "baritone saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Change of Pace",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-03-09",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Frank Wess",
+        "instrument": "alto saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also flute (S3)."
+      },
+      {
+        "name": "Benny Golson",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy"
+        ],
+        "session_dates": [
+          "1959-05-26",
+          "1959-05-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Composer of 'I Remember Clifford', 'Along Came Betty' and 'Whisper Not'."
+      },
+      {
+        "name": "Zoot Sims",
+        "instrument": "tenor saxophone",
+        "scope": "selected-tracks",
+        "tracks": [
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Moe Wechsler",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction"
+        ],
+        "session_dates": [
+          "1959-02-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Patricia H. Bown",
+        "instrument": "piano",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Change of Pace",
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy",
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27",
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [
+          "Patti Bown"
+        ],
+        "notes": "Sources print 'Patti Bown'; the DB already holds this pianist as 'Patricia H. Bown' (Let My Children Hear Music, 1972) and that canonical spelling is used here so no duplicate person is minted. Sole piano soloist on 'Ghana' and much of the band's book (S4)."
+      },
+      {
+        "name": "Kenny Burrell",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace",
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Lead melody on 'The Midnight Sun Will Never Set' per Discogs, a track belonging to the companion Vol. 2 programme and not to this LP (S4)."
+      },
+      {
+        "name": "Les Spann",
+        "instrument": "guitar",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also flute per Discogs (S4)."
+      },
+      {
+        "name": "Milt Hinton",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace",
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09",
+          "1959-05-26",
+          "1959-05-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Discogs credits Hinton (with Charlie Persip) on 'Moanin'' as a May 26 item (S4), while Lord places 'Moanin'' at the June 16 session with Ray Brown and Don Lamond (S3). Both claims preserved; the June 16 session is recorded here with epistemic unk on the conflicting chair (see notes)."
+      },
+      {
+        "name": "Ray Brown",
+        "instrument": "double bass",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-06-16"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Lord's session data only; Discogs differs (see Milt Hinton note)."
+      },
+      {
+        "name": "Jimmy Crawford",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Tuxedo Junction",
+          "A Change of Pace"
+        ],
+        "session_dates": [
+          "1959-02-09",
+          "1959-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": "Also woodblock (S3). Wikipedia's personnel list carries him without track assignment (S1)."
+      },
+      {
+        "name": "Osie Johnson",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "A Change of Pace"
+        ],
+        "session_dates": [
+          "1959-03-09"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Sam Woodyard",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Happy Faces",
+          "I Remember Clifford",
+          "Along Came Betty",
+          "Tickle Toe",
+          "Whisper Not",
+          "The Gypsy"
+        ],
+        "session_dates": [
+          "1959-05-26",
+          "1959-05-27"
+        ],
+        "epistemic": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ],
+        "name_variants": [],
+        "notes": ""
+      },
+      {
+        "name": "Don Lamond",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "The Birth of a Band",
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-06-16"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ],
+        "name_variants": [],
+        "notes": "Lord names Lamond for the June 16 session (S3); Discogs names Charlie Persip on 'Moanin'' (S4). Conflict preserved, hence unk."
+      },
+      {
+        "name": "Charlie Persip",
+        "instrument": "drums",
+        "scope": "selected-tracks",
+        "tracks": [
+          "Moanin'"
+        ],
+        "session_dates": [
+          "1959-05-26"
+        ],
+        "epistemic": "unk",
+        "sources": [
+          "S2",
+          "S4"
+        ],
+        "name_variants": [
+          "Charli Persip"
+        ],
+        "notes": "Only Discogs (S4) and the AllMusic credits tab (S2) name him, and they put the track in a different session than Lord does; recorded as a conflict, not resolved."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "The Birth of a Band",
+        "track_number": 1,
+        "side": "A",
+        "duration": "2:53",
+        "session_date": "1959-06-16",
+        "composers": [
+          "Quincy Jones"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Jerome Richardson",
+          "Zoot Sims",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Les Spann",
+          "Ray Brown",
+          "Don Lamond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Moanin'",
+        "track_number": 2,
+        "side": "A",
+        "duration": "3:02",
+        "session_date": "1959-06-16",
+        "composers": [
+          "Bobby Timmons"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Jerome Richardson",
+          "Zoot Sims",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Les Spann",
+          "Ray Brown",
+          "Don Lamond"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "unk",
+        "sources": [
+          "S1",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "title": "I Remember Clifford",
+        "track_number": 3,
+        "side": "A",
+        "duration": "3:42",
+        "session_date": "1959-05-27",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Benny Golson",
+          "Zoot Sims",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Along Came Betty",
+        "track_number": 4,
+        "side": "A",
+        "duration": "3:21",
+        "session_date": "1959-05-27",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Benny Golson",
+          "Zoot Sims",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Tickle Toe",
+        "track_number": 5,
+        "side": "A",
+        "duration": "2:55",
+        "session_date": "1959-05-27",
+        "composers": [
+          "Lester Young"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Benny Golson",
+          "Zoot Sims",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Happy Faces",
+        "track_number": 6,
+        "side": "B",
+        "duration": "2:40",
+        "session_date": "1959-05-26",
+        "composers": [
+          "Sonny Stitt"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Benny Golson",
+          "Jerome Richardson",
+          "Danny Bank",
+          "Patricia H. Bown",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Whisper Not",
+        "track_number": 7,
+        "side": "B",
+        "duration": "3:22",
+        "session_date": "1959-05-27",
+        "composers": [
+          "Benny Golson"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Benny Golson",
+          "Zoot Sims",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "The Gypsy",
+        "track_number": 8,
+        "side": "B",
+        "duration": "4:05",
+        "session_date": "1959-05-27",
+        "composers": [
+          "Billy Reid"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Quentin Jackson",
+          "Melba Liston",
+          "Julius Watkins",
+          "Phil Woods",
+          "Frank Wess",
+          "Benny Golson",
+          "Zoot Sims",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Sam Woodyard"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "A Change of Pace",
+        "track_number": 9,
+        "side": "B",
+        "duration": "3:20",
+        "session_date": "1959-03-09",
+        "composers": [
+          "Harry Arnold",
+          "Quincy Jones"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Joe Newman",
+          "Ernie Royal",
+          "Clark Terry",
+          "Billy Byers",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Tom Mitchell",
+          "Julius Watkins",
+          "Phil Woods",
+          "Jerome Richardson",
+          "Budd Johnson",
+          "Sam Taylor",
+          "Sahib Shihab",
+          "Patricia H. Bown",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Jimmy Crawford",
+          "Osie Johnson"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "title": "Tuxedo Junction",
+        "track_number": 10,
+        "side": "B",
+        "duration": "2:44",
+        "session_date": "1959-02-09",
+        "composers": [
+          "Erskine Hawkins",
+          "Bill Johnson",
+          "Julian Dash",
+          "Buddy Feyne"
+        ],
+        "personnel": [
+          "Harry Edison",
+          "Ernie Royal",
+          "Clark Terry",
+          "Joe Wilder",
+          "Billy Byers",
+          "Jimmy Cleveland",
+          "Urbie Green",
+          "Tom Mitchell",
+          "Jerome Richardson",
+          "Phil Woods",
+          "Budd Johnson",
+          "Sam Taylor",
+          "Danny Bank",
+          "Moe Wechsler",
+          "Kenny Burrell",
+          "Milt Hinton",
+          "Jimmy Crawford"
+        ],
+        "bonus_track": false,
+        "alternate_take": false,
+        "epistemic_track": "obs",
+        "sources": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "track_assignments_complete": true,
+    "notes": "Five 1959 sessions at Fine Recording, New York \u2014 one of C. Robert Fine's two Manhattan facilities, in the former ballroom of the Great Northern Hotel at 118 West 57th Street (S5, S6). It is NOT the same room as 'Fine Sound Studios' at 711 Fifth Avenue, which is the other, earlier Fine studio already in the canon's place list; no existing slug matches this venue, so a new place is created. Session map per Lord's data (S3): 1959-02-09 (source says 'February 9 or 10') \u2014 Tuxedo Junction; 1959-03-09 ('March 9 and 10') \u2014 A Change of Pace; 1959-05-26 \u2014 Happy Faces; 1959-05-27 ('May 27 and 28') \u2014 Along Came Betty, I Remember Clifford, Whisper Not, The Gypsy, Tickle Toe; 1959-06-16 \u2014 Moanin', The Birth of a Band. Only one documented date is stored per session pair; the second day of each pair is unresolved in the sources. Quincy Jones conducted and arranged seven of the ten charts but played no instrument, so he carries no personnel row (the instrument taxonomy has no conductor). Arrangers: Jones (tracks 1, 2, 4, 6, 7, 9, 10), Nat Pierce (3), Al Cohn (5), Melba Liston (8) per S1; Lord's session notes assign Pierce to I Remember Clifford, Cohn to Tickle Toe and Liston to The Gypsy, which agrees. No producer or engineer credit is printed on any source consulted (AllMusic credits tab lists performers and composers only; Wikipedia, Lord and Discogs are silent), so both are null with epistemic_production unk. Conflicts preserved: Discogs (S4) is a 2-LP reissue that also carries the separate 'Birth of a Band, Vol. 2' programme (November 1959 sessions, tracks C1-D5) \u2014 those tracks are excluded here, and its track order and its Moanin' credits (Hinton/Persip, May 26) disagree with Lord (Brown/Lamond, June 16); both recorded, June 16 track marked unk. Wikipedia omits 'The Midnight Sun Will Never Set', which appears only on the combined reissue and belongs to the Vol. 2 dates. Wikipedia lists 'Charlie Persip' among the album's drummers; he is carried here with unk and the conflict noted."
+  },
+  "ballot": {
+    "album": "Quincy Jones \u2014 The Birth of a Band! (1959)",
+    "scope_check": {
+      "in_window": true,
+      "boundary_note": null
+    },
+    "tier": "contested",
+    "priority": "strong",
+    "case_for": "Exceptional session gravity makes this a meeting point between swing-era orchestral expertise and hard-bop solo language: Clark Terry, Harry Edison, Melba Liston, Phil Woods, Benny Golson, Zoot Sims, and others connect the traditions through a richly documented personnel network (S1, S3). Arrangements of \u201cMoanin\u2019,\u201d \u201cAlong Came Betty,\u201d and \u201cWhisper Not\u201d alongside \u201cTickle Toe\u201d and \u201cTuxedo Junction\u201d make that continuity concrete, while the compact performances offer an accessible introduction to jazz orchestration. AllMusic\u2019s five-star assessment and Scott Yanow\u2019s description of it as \u201cone of his finest jazz recordings\u201d support its standing as a major Jones jazz statement, though not an independently established consensus choice (S1, S2).",
+    "case_against": "The dossier establishes acclaim from one critical outlet, not agreement across independent canon lists: Wikipedia repeats AllMusic, while the remaining sources principally establish discographical facts. Recasting already distinguished hard-bop compositions demonstrates orchestral craft but does not by itself establish this album as a sound-defining statement, particularly when The Quintessence remains a plausible alternative Jones landmark. The proposed bridge to later arranger-led orchestras is musically credible but lacks documented downstream influence, leaving a real question whether this is load-bearing history or an outstanding repertory showcase.",
+    "disagreement": "Both references favor contested and agree that no scope boundary applies. Reference 1 firmly assigns strong priority on personnel-network and discovery grounds; Reference 2 leaves priority unresolved between consider and strong, giving greater weight to limited consensus evidence, repertory dependence, and uncertain defining-statement status.",
+    "recommendation": "The council proposes that John give this strong-priority listening consideration, with an independent critical assessment sought before he rules on its canonical weight.",
+    "confidence": "medium",
+    "_council": {
+      "references": [
+        "nous:mistralai/mistral-large-4-0",
+        "nous:google/gemini-4-hydrogen"
+      ],
+      "references_answered": 2,
+      "aggregator": "nous:openai/gpt-6.1-sol",
+      "preset": "canon-council"
+    }
+  }
+}
